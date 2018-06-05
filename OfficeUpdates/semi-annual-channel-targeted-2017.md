@@ -29,887 +29,887 @@ ms.locfileid: "19555922"
 ## <a name="version-1708-december-12"></a>版本 1708年: 12 月 12 日
 *版本 1708 （构建 8431.2131）*
 
- ### <a name="excel-security-updates"></a>Excel： 安全更新
--   [CVE-2017年 11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): Microsoft Excel 远程代码执行漏洞
+ ### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935)：Microsoft Excel 远程代码执行漏洞
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   解决问题其中用户正确看到"灾难性 failure"错误消息时打开的 Office 2007 或较旧的工作簿 （.xls 或.xla） 与宏。
--   解决问题，从命令行打开工作簿可能导致丢失的富文本格式的单元格中。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了在使用宏打开 Office 2007 或更低版本工作簿（.xls 或 .xla）时，用户错误地看到“灾难性故障”错误消息的问题。
+-   修复了以下问题：通过命令行打开工作簿可能会导致单元格中的 RTF 格式丢失。
 
-### <a name="outlook-security-updates"></a>Outlook： 安全更新
--   [CVE-2017年 11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939): Microsoft Office 信息泄露漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939)：Microsoft Office 信息泄漏漏洞
 
-### <a name="powerpoint-security-updates"></a>PowerPoint： 安全更新
--   [CVE-2017年 11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint 信息泄露漏洞
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
+-   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 信息泄漏漏洞
 
-### <a name="project-non-security-updates"></a>项目： 非安全更新
--   解决问题问题项目级别自定义字段数据可以在获取丢失的保存位置。
--   解决问题，其中失败保存可能会损坏的文件，并导致崩溃在打开的项目。
--   其中打开项目计划崩溃会导致修复问题。
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了以下问题：项目级自定义字段数据可能会在保存时丢失。
+-   修复了以下问题：如果保存失败，则会损坏文件，并导致 Project 在打开时发生故障。
+-   修复了以下问题：打开项目计划可能会导致故障发生。
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   [顾问 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 纵深防御深度更新
+### <a name="word-security-updates"></a>Word：安全更新
+-   [公告 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021)：Microsoft Office 深度防御更新
 
 
 
 ## <a name="version-1708-november-14"></a>版本 1708年: 11 月 14 日
 *版本 1708 （构建 8431.2110）*
 
-### <a name="access-non-security-updates"></a>Access： 非安全更新
--   解决问题尝试文本框或组合框中选择文本选择所有文本，而不是指示所选内容的显示位置。
+### <a name="access-non-security-updates"></a>Access：非安全更新
+-   修复了以下问题：尝试选择文本框或组合框中的文本时似乎会选择所有文本，而不是指示的选择内容。
 
-### <a name="excel-security-updates"></a>Excel： 安全更新
--   [CVE-2017年 11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel 安全功能绕过漏洞
--   [CVE-2017年 11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel 内存损坏漏洞
--   [CVE-2017年 11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office 内存损坏漏洞
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能绕过漏洞
+-   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878)：Microsoft Excel 内存损坏漏洞
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884)：Microsoft Office 内存损坏漏洞
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   解决问题时文件名称包含方括号用户无法关闭受保护的视图中的工作簿的位置。
--   其中，当用户尝试现有工作簿中插入一个对象，Excel 崩溃当用户单击浏览修复问题。
--   解决问题其中 （的文本选项/Text 部分中的设置形状格式窗格） 中选择"调整形状调整宽度"导致不更改该形状。
--   解决问题，其中，通过双击在其上打开工作簿时, 的单元格文本字体和格式不获取加载或两个相同的工作簿打开的单个模板。
--   其中，Excel 启动时创建的第一个工作簿不会关闭时打开或创建新的工作簿修复问题。
--   解决问题拖动时的工具提示的放置位置未对齐或拖动填充。
--   解决问题，使用文件中保存工作簿时\>另存为包含句点的文件名称将显示空白或被截断对话框保存在文件中。
--   其中时保存同步备份文件，则无法写入磁盘，但将文件上载到 OneDrive Office 保留 Office 修复问题。 使用此修复后，用户现在将会看到一条错误消息，然后上载不会继续。
--   由于出错的显卡驱动程序的显示黑色的行和标题的位置与呈现修复问题。
--   修复的问题 Excel 崩溃或无法保存工作簿后会插入一个图表的位置。
--   解决问题分页预览中的页换行不正确的位置。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了当文件名包含方括号时，用户无法在受保护视图中关闭工作簿的问题。
+-   修复了以下问题：当用户尝试在现有的工作簿中插入对象时，用户单击“浏览”导致 Excel 发生故障的问题。
+-   修复了以下问题：（在“设置形状格式”窗格的“文本选项/文本框”部分中）选择“调整形状大小以修复文本”不会产生任何形状更改。
+-   修复了以下问题：通过双击工作簿将其打开时，不加载单元格文本字体和格式或为单个模板打开两个相同的工作簿。
+-   修复了在打开或创建新工作簿时，Excel 启动时创建的第一个工作簿将不会关闭的问题。
+-   修复了以下问题：拖动或拖动填充时，工具提示的位置未对齐。
+-   修复了以下问题：使用“文件”\>“另存为”保存工作簿时，包含句点的文件名在文件保存对话框中显示为空白或被截断。
+-   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了由于图形驱动程序错误导致出现黑线和标题的呈现问题。
+-   修复了在插入图表后 Excel 发生故障或无法保存工作簿的问题。
+-   修复了分页预览中的页面分隔线定位不正确的问题。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   解决问题其中用户看到的邮件列表重点跳意外时删除邮件。
--   修复，导致用户交互的附件时，请参阅身份验证提示的问题。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复了用户在删除邮件时看到邮件列表中的焦点意外跳转的问题。
+-   修复了用户在对附件执行操作时看到验证提示的问题。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   其中时保存同步备份文件，则无法写入磁盘，但将文件上载到 OneDrive Office 保留 Office 修复问题。 使用此修复后，用户现在将会看到一条错误消息，然后上载不会继续。
--   修复其中编辑和格式文本设置表中撤消之后使崩溃的 PowerPoint 问题。
--   修复其中引用 Flash Player 基于 YouTube 问题中新的窗口打开，若要播放视频嵌入代码的结果。 旧嵌入代码立即升级到引用 HTML5 基于 YouTube 视频，以便它们正确就地播放。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了在表格中执行撤销操作后编辑和格式化的文本导致 PowerPoint 发生故障的问题。
+-   修复了对基于 Flash Player 的 YouTube 嵌入代码进行引用导致打开新窗口播放视频的问题。旧嵌入代码现已升级以引用基于 HTML5 的 YouTube 视频，以便正确播放这些视频。
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   [顾问 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Microsoft Office 纵深防御深度更新
+### <a name="word-security-updates"></a>Word：安全更新
+-   [公告 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020)：Microsoft Office 深度防御更新
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   解决问题，其中 Word 崩溃时的用户尝试另存为到 OneDrive for Business 上现有文档执行操作然后取消保存或尝试合并现有的更改。
--   其中时保存同步备份文件，则无法写入磁盘，但将文件上载到 OneDrive Office 保留 Office 修复问题。 使用此修复后，用户现在将会看到一条错误消息，然后上载不会继续。
--   如果同时打开 Word 后，当用户导航到插入选项卡 Word 可以挂起其中修复问题。
--   解决问题，单击边距后字符的显示位置屏幕的左上角时输入字符。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了以下问题：如果用户尝试对 OneDrive for Business 上的现有文档执行“另存为”操作，然后又取消保存或尝试合并现有更改，Word 发生故障。
+-   修复了以下问题：保存支持同步的文件时，Office 无法写入磁盘，但 Office 仍然将该文件上传到 OneDrive。使用此修复程序后，用户现在将看到一条错误消息，且上传不会继续执行。
+-   修复了在用户打开 Word 后立即导航到“插入”选项卡时 Word 挂起的问题。
+-   修复了以下问题：单击边距后，若输入字符，字符会在屏幕的左上角显示。
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   [CVE-2017年 11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office 内存损坏漏洞
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882)：Microsoft Office 内存损坏漏洞
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   修复缩放和缩放动态 DPI 环境下 Office 加载项中的问题。
--   修复问题，其中的 CurrentStatus 节点的 Office 配置服务提供程序 (CSP) 返回一个空字符串，即使当前安装 Office 365 ProPlus。
--   修复，导致.box 文件格式的更改，这将影响较旧版本的 Office 安装在同一计算机上的功能，因为.box 文件共享在同一台计算机上 Office 相关应用程序的所有版本的问题。
--   其中，某些情况下使用共享的计算机激活时，出现错误消息指出应用程序具有遇到阻止了其工作正常和询问用户是否想运行修复的错误修复问题。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了以下问题：在动态 DPI 环境下 Office 加载项存在的缩放问题。
+-   修复了以下问题：即使当前安装了 Office 365 专业增强版，Office 配置服务提供程序 (CSP) 的 CurrentStatus 节点也会返回空字符串。
+-   修复了导致 .box 文件格式更改的问题，这些更改会影响安装在同一台计算机上的旧版 Office 的功能，因为 .box 文件在同一台计算机上的所有 Office 应用版本之间共享。
+-   修复了以下问题：在使用共享计算机激活的某些情况下，出现一条错误消息，指示应用遇到错误，阻止其正常工作并询问用户是否运行修复。
 
 
 
 ## <a name="version-1708-october-10"></a>版本 1708年： 年 10 月 10
 *版本 1708 （构建 8431.2107）*
 
-### <a name="access-non-security-updates"></a>Access： 非安全更新
--   如果查询具有与从 Microsoft Dynamics 链接表的主键的联接查询不执行其中修复问题。
--   其中小数位数不显示 Microsoft Dynamics 表中的货币值的情况下解决问题。
+### <a name="access-non-security-updates"></a>Access：非安全更新
+-   修复了以下问题：如果查询与 Microsoft Dynamics 被链接表中的主键联接，查询将不会执行。
+-   修复了以下问题：Microsoft Dynamics 表中货币值不显示小数位数。
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   解决问题，其中 Excel 崩溃时打开。XLL 文件。
--   其中单元格图案样式不正确呈现在页面布局视图中添加页眉或页脚后修复问题。
--   修复问题，其中将数据透视表的副本粘贴到另一个工作簿可能会导致崩溃。
--   解决问题，当您选择替换命令和查找和替换对话框将打开，焦点的对话框中的位置而不是替换选项卡的查找选项卡。
--   解决问题 Excel 其中崩溃时从早于 SharePoint Server 2016 SharePoint 服务器上打开工作簿的活动窗格中打开。
--   解决问题，其中 Excel 打开并显示一个空白窗口时启用一个或多个 XLL 加载项。
--   Excel 其中崩溃具有已关闭工作簿中使用表单按钮后修复问题。
--   其中，当使用 SheetBeforeRightClick 事件，插入相交合并单元格的列不展开合并单元格修复问题。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了打开 .XLL 文件时 Excel 崩溃的问题。
+-   修复了以下问题：在“页面布局”视图中添加页眉或页脚后，单元格的图案样式显示不正确。
+-   修复了以下问题：将数据透视表的一个副本粘贴到另一个工作簿时，可能会导致崩溃。
+-   修复了以下问题：选择“替换”命令并且“查找和替换”对话框打开时，对话框的焦点位于“查找”选项卡上，而非“替换”选项卡上。
+-   修复了以下问题：打开工作薄（它从版本早于 SharePoint Server 2016 的 SharePoint Server 打开）的“活动”窗格时 Excel 崩溃。
+-   修复了以下问题：启用一个或多个 XLL 外接程序时，Excel 打开并显示空白窗口。
+-   修复了以下问题：在已关闭的工作簿中使用“窗体”按钮后，Excel 崩溃。
+-   修复了以下问题：在使用 SheetBeforeRightClick 事件时，插入与合并单元格相交的列不会展开合并的单元格。
 
-### <a name="outlook-security-updates"></a>Outlook： 安全更新
--   [CVE-2017年 11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): Microsoft Outlook 安全功能绕过漏洞
--   [CVE-2017年 11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): Microsoft Outlook 信息泄露漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774)：Microsoft Outlook 安全功能绕过漏洞
+-   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776)：Microsoft Outlook 信息泄漏漏洞
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   解决问题时使用深灰色主题策略提示中的"了解更多"链接，不可见。
--   解决问题其中 Outlook 崩溃时用户尝试设置新帐户和它们不帐户安装完成关闭窗口。
--   解决问题标记为已读和标记为未读其中显示为一组共享的收件箱中的邮件的选项。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复了以下问题：使用深灰色主题时，策略提示中的“了解更多”链接不可见。
+-   修复了以下问题：用户尝试设置新帐户和在完成帐户设置之前关闭窗口时，Outlook 崩溃。
+-   修复了以下问题：“标记为已读”和“标记为未读”显示为群组共享收件箱中的邮件选项。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   解决问题 PowerPoint 其中崩溃时从 SharePoint server 早于 SharePoint Server 2016 打开演示文稿。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了以下问题：从版本早于 SharePoint Server 2016 的 SharePoint Server 打开演示文稿时，PowerPoint 崩溃。
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   [CVE-2017年 11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Microsoft Office 内存损坏漏洞
+### <a name="word-security-updates"></a>Word：安全更新
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826)：Microsoft Office 内存损坏漏洞
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   解决问题 Word 其中崩溃时从早于 SharePoint Server 2016 SharePoint 服务器上打开文档的活动窗格中打开。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了以下问题：打开文档（它从版本早于 SharePoint Server 2016 的 SharePoint Server 打开）的“活动”窗格时，Word 崩溃。
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   [CVE-2017年 11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office 远程代码执行漏洞
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 远程执行代码漏洞
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   向用户显示联机修复进度不其中修复问题。
--   解决问题其中 Office 文件属性不会显示在文件资源管理器。
--   打开的 Office 外接程序按钮消失从功能区，第二个文档时所在的情况下解决问题。
--   解决问题无法打开具有与双字节字符的名称的一些 VBA 模块的位置。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了不向用户显示联机修复进度的问题。
+-   修复了文件资源管理器中不显示 Office 文件属性的问题。
+-   修复了以下问题：打开第二个文档时，Office 外接程序按钮从功能区消失。
+-   修复了无法打开一些名称为双字节字符的 VBA 模块的问题。
 
 
 
 ## <a name="version-1708-september-12"></a>版本 1708年： 年 9 月 12
 *版本 1708 （构建 8431.2079）*
 
-### <a name="access-feature-updates"></a>Access： 功能更新
--   **标签名称属性：** 通过将与窗体上控件关联的标签增强辅助功能。
--   **编辑新项是更轻松地访问：** 使用快速的键盘快捷方式 (Ctrl + E) 要编辑新项目从组合框或列表框。
--   **Dynamics 连接器：** 导入或链接到数据存储在 Microsoft Dynamics 中。 [详细信息](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **销售队伍连接器：** 导入或链接到销售队伍中存储的数据。 [详细信息](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+### <a name="access-feature-updates"></a>Access：功能更新
+-   **标签名称属性：** 通过将标签与窗体上的控件相关联，增强了辅助功能。
+-   **编辑新项更加容易：** 使用键盘快捷方式 (Ctrl+E) 通过组合框或列表框编辑新项。
+-   **Dynamics 连接器：** 导入 Microsoft Dynamics 中的数据，或链接到其中存储的数据。 [详细信息](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Salesforce 连接器：** 导入 Salesforce 中的数据，或链接到其中存储的数据。 [详细信息](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **"从示例添加列"增强功能：** 支持多个日期/时间、 数学、 和索引列的转换。
--   **性能改进：** Excel 打开复杂的工作簿与多个表更快，因此您可以处理大范围的公式，筛选大量行，或复制并粘贴快速。
--   **插入联机图片：** 用于选择图像和归属信息的新登陆页面将自动插入的图像。
--   **Azure 数据湖泊存储连接器：** 用户可以从 Azure 数据湖泊存储现在导入数据。
--   **"示例中的添加列"增强功能：** 支持建议、 更多的日期/时间操作和更多转换。
--   **数据选项卡**: 数据选项卡上的功能区按钮具有已重新排列为两个新的组： 获取和转换数据和查询和连接。
--   **共享查询**： 导出到的 Office 数据库连接 (ODC) 文件，任何查询定义和跨工作簿或与其他人共享它。
--   **加载数据：** 无需将数据保存到数据模型，可将数据查询加载直接到数据透视表或数据透视图。
--   **共享文件活动：** 在右上角的文件以查看文件共享中的 OneDrive for Business 的时选择活动按钮或 SharePoint 已共享、 编辑、 重命名，或还原。
--   **安全的链接：** 当用户单击链接时，Office 365 高级威胁保护 (ATP) 检查以查看是否恶意的链接。 如果链接被确认恶意，则会将用户重定向到而不是原始目标 URL 警告页上。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
--   **增强数据导入功能：** 轻松地导入和形状来自各种源的数据。 管理工作簿查询和与查询和连接的连接侧面窗格中，并通过 ODC 文件与他人共享查询。 [详细信息](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
--   **共享文件中的更改**： 查看谁具有共享工作簿中, 进行更改和还原早期版本。 [详细信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
--   **套索选择与笔按钮：** 使用无访问功能区支持数字笔按钮来套索选择墨迹。
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **“从示例中添加列”增强功能：** 支持更多的日期/时间、数学和索引列转换。
+-   **性能改进：** Excel 将以更快的速度打开包含多个工作表的复杂工作簿，以便可以更快地处理包含大片区域的公式、筛选多个行或进行复制和粘贴。
+-   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
+-   **Azure Data Lake Store 连接器：** 用户现在可以从 Azure Data Lake Store 导入数据。
+-   **“从示例中添加列”增强功能：** 支持建议、更多的日期/时间操作和其他转换。
+-   **“数据”选项卡**：“数据”选项卡上的功能区按钮已被重排到两个新组中：“获取和转换数据”以及“查询和连接”。
+-   **共享查询**：可以将任意查询定义导出到 Office 数据库连接 (ODC) 文件中，然后跨工作簿共享或与其他人共享。
+-   **加载数据：** 可以将查询中的数据直接加载到数据透视表或数据透视图中，而无需将数据保存到数据模型中。
+-   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
+-   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [更多信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **增强的数据导入功能：** 可从各种源轻松导入并形成数据。通过“查询和连接”侧窗格管理工作簿查询和连接，并通过 ODC 文件与他人共享查询。 [更多信息](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
+-   **对共享文件做出的更改**：查看共享工作簿的更改人，并还原早期版本。 [更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **带笔按钮的套索选择：** 无需访问功能区，即可使用套索选择墨迹带的支持数字笔按钮。
 
-### <a name="excel-security-updates"></a>Excel： 安全更新
--   [CVE-2017年 8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office 内存损坏漏洞
--   [CVE-2017年 8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502): Microsoft Office 内存损坏漏洞
--   [CVE-2017年 8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Microsoft Office 内存损坏漏洞
--   [CVE-2017年 8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office 内存损坏漏洞
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 内存损坏漏洞
+-   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502)：Microsoft Office 内存损坏漏洞
+-   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631)：Microsoft Office 内存损坏漏洞
+-   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632)：Microsoft Office 内存损坏漏洞
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   其中 Excel 暂时挂起时展开或折叠数据透视表和数据透视表标题移开屏幕修复问题。
--   解决问题，其中选项卡将被忽略时复制和粘贴制表符分隔的文本单词，导致无法解析为列的文本。
--   修复 Excel 其中崩溃时打开发布为网页对话框中的问题。
--   解决问题，其中数据刷新失效或 Excel 崩溃时使用从 SQL Server Analysis Services 服务器的数据和 Excel 的区域设置和 SQL Server Analysis Services 服务器的区域设置不同。
--   解决问题时尝试将更改保存到文档与 OneDrive 客户端同步错误出现的位置。
--   解决问题，无法更改任意位置工作表中字段的筛选区域中，但没有其他任何位置的字段的数据透视表时。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了以下问题：展开或折叠数据透视表时，Excel 暂时挂起，并且数据透视表标题移动到屏幕之外。
+-   修复了从 Word 复制并粘贴制表符分隔的文本时制表符被忽略，进而导致文本无法解析到列中的问题。
+-   修复了以下问题：以网页对话框形式打开发布时 Excel 出现故障。
+-   修复了以下问题：使用 SQL Server Analysis Services 服务器中的数据，且 Excel 与 SQL Server Analysis Services 服务器的区域设置不同时，数据刷新无法成功或 Excel 发生故障。
+-   修复了以下问题：在尝试将更改保存到与 OneDrive 客户端同步的文档时出现错误。
+-   修复了以下问题：在筛选区中存在具有字段的数据透视表，但在其他任何位置没有字段时，无法在工作表的任何位置进行更改。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **辅助功能改进：** 我们已进行更轻松地读取和编辑文本、 表格、 列表和电子邮件中的图像，当您使用的屏幕阅读器时。
--   **新帐户配置：** 设置新帐户需要较少的手动步骤新向导。
--   **链接的附加对话框：** 将连接时使用功能区上的附加文件的链接，您可以选择是否以将其添加为链接还是作为附件。 如果您不希望每次查看此对话框，请转到文件\>选项\>常规并指定希望如何链接附加下"附件选项"。
--   **的内部部署附件的支持：** 从内部部署 SharePoint Server 的文件显示为消息下的最新文件\>附加文件的本地 OneDrive for Business 和 SharePoint 工作组网站显示在附加文件下\>可以将浏览 Web 位置和本地文件上载到内部部署的 OneDrive for Business 站点。
--   **组业务分类：** 创建或编辑组时，可指定由租户管理员，例如 2 私有 3 机密，定义业务分类级别和组页眉中显示该分类。
--   **来宾访问到 Office 365 组：** 通过向其授予访问组对话、 文件、 日历邀请和组笔记本与组织外部的人员进行协作。 [详细信息](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
--   **可操作的消息：** 开发人员可以创建可轻松用户可以直接从 Outlook 采取简单或快速操作，而无需切换到一个外部网站或单独的应用程序的邮件。 [详细信息](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **辅助功能改进：** 简化了使用屏幕阅读器读取和编辑电子邮件中的文本、表、列表和图像的方式。
+-   **新帐户配置：** 使用新向导设置一个手动操作步骤较少的新帐户。
+-   **链接附加对话框：** 使用功能区上的“附加文件”附加链接时，可以选择是将它添加为链接，还是添加为附件。如果不想每次都看到此对话框，请依次转到“文件”\>“选项”\>“常规”，并在“附件选项”下指定所需的链接附加方式。
+-   **支持本地附件：** 本地 SharePoint Server 中的文件显示为“邮件”\>“附加文件”下的最近使用的文件，本地 OneDrive for Business 和 SharePoint 团队网站显示在“附加文件”\>“浏览 Web 位置”下，本地文件可以上传到本地的 OneDrive for Business 站点。
+-   **组业务分类：**  可在创建或编辑组时分配由租户管理员定义的业务分类级别，例如“机密”，并且分类会显示在组标头中。
+-   **Office 365 组的来宾访问：** 向组织外的用户授予组对话、文件、日历邀请和组笔记本的访问权限，并与他们进行协作。 [更多信息](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
+-   **可操作的消息：** 开发人员可以创建可轻松用户可以采取而无需切换到外部网站或单独的应用程序[的详细信息](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)的简单或快速操作直接在 Outlook 的邮件
 
-### <a name="outlook-security-updates"></a>Outlook： 安全更新
--   [CVE-2017年 8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook 安全功能绕过漏洞
--   [CVE-2017年 8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Microsoft Office Outlook 信息泄露漏洞
--   [CVE-2017年 8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook 内存损坏漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能绕过漏洞
+-   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572)：Microsoft Office Outlook 信息泄漏漏洞
+-   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663)：Microsoft Office Outlook 内存损坏漏洞
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   解决问题，您无法在 Outlook 中配置 IMAP 帐户。
--   修复，导致间歇性故障，打开 Outlook 时的问题。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复了以下问题：无法在 Outlook 中配置 IMAP 帐户。
+-   修复了以下问题：打开 Outlook 时，发生间歇性故障。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **插入联机图片：** 用于选择图像和归属信息的新登陆页面将自动插入的图像。
--   **关闭视频标题：** 将关闭的标题添加到视频以使其更轻松地访问。 [详细信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
--   **旁白录制：** 包括您自己旁白进行演示文稿的录音时的视频。 录制可以包括动画、 墨迹、 音频和视频。
--   **共享文件活动：** 在右上角的文件以查看文件共享中的 OneDrive for Business 的时选择活动按钮或 SharePoint 已共享、 编辑、 重命名，或还原。
--   **替换文字创建：** 基于云的服务会自动生成演示文稿中的图片的可选文字。
--   **安全的链接：** 当用户单击链接时，Office 365 高级威胁保护 (ATP) 检查以查看是否恶意的链接。 如果链接被确认恶意，则会将用户重定向到而不是原始目标 URL 警告页上。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
--   **设计器改进：** 建议专业设计想法面向操作的列表。
--   **共享文件中的更改：** 查看谁具有共享演示文稿中进行更改和还原早期版本。 [详细信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
+-   **视频隐藏式字幕：** 可以在视频中添加隐藏式字幕，使其更易于访问。 [详细信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **对记录添加旁白：** 录制演示文稿时，请将自己旁白的视频包括在内。录制的内容可以包括动画、墨迹、音频和视频。
+-   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
+-   **替换文字创建：** 基于云的服务自动生成演示文稿中的图片的可选文字。
+-   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **设计器改进：** 推荐面向操作的列表的专业设计灵感。
+-   **对共享文件做出的更改：** 查看共享演示文稿的更改人，并还原旧版文档。 [更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-### <a name="powerpoint-security-updates"></a>PowerPoint： 安全更新
--   [CVE-2017年 8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): PowerPoint 远程代码执行漏洞
--   [CVE-2017年 8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): PowerPoint 远程代码执行漏洞
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
+-   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742)：PowerPoint 远程代码执行漏洞
+-   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743)：PowerPoint 远程代码执行漏洞
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   解决问题链接到字体的最终用户定义字符 (EUDCs) 无法显示。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了以下问题：无法显示与字体关联的最终用户定义字符 (EUDC)。
 
-### <a name="project-non-security-updates"></a>项目： 非安全更新
--   解决问题其中从 Project Online 中打开某些文件会崩溃的项目。
--   修复其中实际开始时间可能会错误地清除设置剩余工时时的问题。
--   解决问题比报告了通过 Project Web App 中的进展状况的资源分配实际开始日期可能会显示不同的数据的位置。
--   如果更改任务的完成日期，则可能会重排实际工时修复问题。
--   修复其中复制和粘贴 cost 字段，粘贴的值可能不完全匹配由于舍入问题复制的值的问题。
--   解决问题预算资源按时间分段数据不复制到另一个保存从一个比较基准时的位置。
--   解决问题，其中状态字段不总是能正确进行计算的摘要任务。
--   解决问题其中实际工时错误地获取转接到企业资源时它会替换本地资源和启用受保护的工作。
--   修复项目其中崩溃如果您有一个表，其中第一列为任务名称、 列被锁定，并在任务上单击问题。
--   解决问题，您可以将分配相同的资源多次到通过任务分配状况视图相同的任务。
--   解决问题其中中数字自定义域的值时可能会丢失打开 XML 文件。
--   解决问题其中首要任务缩进不正确从项目到同步 SharePoint 任务列表。
--   解决问题，如果您从导入任务、 资源或工作分配信息 Excel 工作簿，工时域中的值可能会忽略。
--   修复其中按时间分段比较基准值不匹配的初始值，将项目保存到 XML 文件格式时的问题。
--   解决问题 Project 客户端不会打开其中项目它认为该项目已签出时它实际上不会因为。
--   解决问题，以便打开项目文件从文件服务器的高延迟打开更快。
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了以下问题：从 Project Online 打开某些文件会导致项目出现故障。
+-   修复了设置剩余工时时可能会错误地将实际开始时间清除的问题。
+-   修复了工作分配实际开始日期显示的数据可能与通过 Project Web App 进展状况中的资源报告的数据不同的问题。
+-   修复了更改任务的完成日期后可能会重排实际工时的问题。
+-   修复了复制并粘贴成本字段时由于舍入问题粘贴值可能与复制值不完全一致的问题。
+-   修复了从一个基线保存到另一个基线时无法复制预算资源的时间分段数据的问题。
+-   修复了无法始终正确计算摘要任务的状态字段的问题。
+-   修复了在替换本地资源并启用受保护的工作时，将实际工作错误地转移到企业资源的问题。
+-   修复了如果拥有一个第一列为“任务名称”的表，该列已锁定，单击某项任务后，Project 崩溃的问题。
+-   修复了可以通过“任务分配状况”视图将同一资源多次分配到相同任务的问题。
+-   修复了打开 XML 文件时，数字自定义字段中的值可能会丢失的问题。
+-   修复了顶级任务缩进不正确地从 Project 同步到 SharePoint 任务列表的问题。
+-   修复了如果从 Excel 工作簿导入任务、资源或分配信息，工作字段中的值可能会被忽略的问题。
+-   修复了以下问题：在以 XML 文件格式保存项目时，时间分段的基准值与初始值不匹配。
+-   修复了以下问题：Project 客户端不会打开项目，因为它认为项目已签出，而实际上并非如此。
+-   修复了一个问题，使得从高延迟文件服务器打开 Project 文件的速度更快。
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 安全更新
--   [CVE-2017年 8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Windows GDI + 信息泄露漏洞
--   [CVE-2017年 8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695)： 图形组件信息泄露漏洞
--   [CVE-2017年 8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Microsoft 图形组件远程代码执行
+### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
+-   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676)：Windows GDI+ 信息泄漏漏洞
+-   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695)：图形组件信息泄漏漏洞
+-   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696)：Microsoft 图形组件远程代码执行
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   添加对话框解释为什么用户将无法加入会议，阻止特定端口或 Ip 不白名单时。
--   修复其中永久聊天室中的未读的邮件标记为已读单击 IM 对话选项卡时的问题。
--   解决问题其中传入 IM toast 体验几秒的延迟。
--   修复其中 AD 联系人显示为电话号码而不是联系人的姓名时禁用与 Exchange 同步问题。
--   其中阻止匿名加入用户加入时禁用联盟和匿名加入由会议组织者不明确阻止修复问题。
--   解决问题到会议组织者的会议超出该限制的正确显示被邀请者的个数。
--   其中电话号码不显示在上入站 PSTN 呼叫的 toast 修复问题。
--   其中时重命名联系人列表组时使用 Delete 键，, 将删除整个组修复问题。
--   其中将 IM 对话中的共享通知消除共享停止之前修复问题。
--   在登录屏幕上为空的一些非英语语言修复问题。
--   其中聊天和聊天历史记录中的非英语字符乱码修复问题。
--   显示呼叫者的电话号码的传入呼叫处理由组织的自动助理，如果不已知用户的名称。
--   添加的"这些人不需要在会议厅等待。"允许"任何人 （无限制）"选项的限制种带内设置
--   添加在 VDIv2 能够打开或关闭自助式视频的 P2P 视频呼叫。
--   解决问题重复的数字的呼叫下拉列表菜单中的联系人的显示位置。
--   修复代理人的 Skype for Business 和 Skype 的业务基本之间移动的用户的删除其中的问题。
--   解决问题，其中显示为脱机不可见时使用启用显示为脱机和自定义状态 URL 客户端策略。
--   加宽加入会议按钮以修复截断的某些本地化语言。
--   增加聊天中的重要性-高邮件突出部分。
--   将 Office 和 Skype 业务文件扩展名类型添加到允许的文件传输 blocklists。
--   在非英语中设置的会议页脚文本的 Outlook 会议邀请中的本地化更正。
--   修复问题，其中可以切换发件人名称的多个用户的对话中。
--   修复空白的对话窗口未能成功加入会议之前会出现问题。
--   解决问题标题字段是否为空的联系人卡片中的部门字段信息其中为空搜索结果中。
--   有关用户从内部部署迁移到 online 由于防火墙规则，请修复登录失败。
--   添加一个新的 DWORD 注册表项，若要解决问题，其中，当用户登录到执行 LyncAutoD 外部网络上的客户端，客户端将重置 OAuthUsed 注册表项为 false。 若要解决该问题，将值设置为 1 下 HKEY EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket\_当前\_用户\\软件\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>.
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   添加对话框，解释当阻止特定端口或 IP 未列入白名单时，用户为何无法加入某个会议。
+-   修复了在单击即时消息对话标签页时，持久聊天室中的未读消息会标记为已读的问题。
+-   修复了传入即时消息 Toast 发生数秒钟延迟的问题。
+-   修复了当禁用与 Exchange 同步时，AD 联系人显示为电话号码，而非联系人姓名的问题。
+-   修复了当禁用联盟，且会议组织者未明确阻止匿名加入时，阻止匿名加入用户加入的问题。
+-   修复了对于超出限制的会议，被邀请者人数未正确显示给会议组织者的问题。
+-   修复了电话号码未在入站 PSTN 通话上的 Toast 中显示的问题。
+-   修复了在重命名联系人列表组的同时使用 Delete 键时，会删除整个组的问题。
+-   修复了在共享停止之前，即时消息对话中的共享通知消除的问题。
+-   修复了某些非英语语言的登录屏幕为空的问题。
+-   修复了聊天和聊天历史记录中的非英语字符乱码问题。
+-   显示组织自动助理处理的来电的呼叫者电话号码（如果用户名未知的话）。
+-   新增了一个带内设置，允许“任何人(无限制)”限制作为“这些人不必在大厅等待”的选项。
+-   新增了在 VDIv2 中为 P2P 视频呼叫启用或禁用自拍视频的功能。
+-   修复了以下问题：呼叫下拉菜单中显示联系人的重复号码。
+-   修复了以下问题：删除了在 Skype for Business 和 Skype for Business Basic 之间移动的用户的代理。
+-   修复了以下问题：使用“启用显示脱机和自定义状态 URL”客户端策略时，“显示脱机”不可见。
+-   扩大“会议加入”按钮来修复某些本地化语言的截断问题。
+-   更加突出显示聊天中重要级别高的消息。
+-   将 Office 和 Skype for Business 文件扩展名类型添加到允许的文件传输阻止列表。
+-   Outlook 会议邀请中用于会议页脚文本的本地化更正设置为非英语语言。
+-   修复了在多个用户的对话中可切换发送者名称的问题。
+-   修复了在成功加入会议前空白会话窗口无法显示的问题。
+-   修复了以下问题：如果标题字段为空，则联系人卡片中的部门字段信息在搜索结果中为空。
+-   修复了以下问题：防火墙规则导致从本地迁移到在线环境的用户登录失败。
+-   添加了新的 DWORD 注册表项以修复以下问题：当用户登录到执行 LyncAutoD 的外部网络上的客户端时，客户端将 OAuthUsed 注册表项重置为 False。若要修复此问题，请将 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的值设置为 1。
 
-### <a name="visio-feature-updates"></a>Visio： 功能更新
--   **进行从 Excel 数据的图表：** 自动创建基本流程图或跨职能流程图的 Excel 数据使用新数据可视化工具模板。 [详细信息](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
--   **安全的链接：** 当用户单击链接时，Office 365 高级威胁保护 (ATP) 检查以查看是否恶意的链接。 如果链接被确认恶意，则会将用户重定向到而不是原始目标 URL 警告页上。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+### <a name="visio-feature-updates"></a>Visio：功能更新
+-   **使用 Excel 数据制作图表：** 通过使用新的数据可视化工具模板，从 Excel 数据自动创建基本流程图或跨职能流程图。 [更多信息](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+-   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="visio-non-security-updates"></a>Visio： 非安全更新
--   修复其中 COM 加载项未收到文档打开事件 Visio 文件打开通过文件图标或文件名上双击时的问题。
+### <a name="visio-non-security-updates"></a>Visio：非安全更新
+-   修复了以下问题：当通过双击文件图标或文件名打开 Visio 文件时，COM 外接程序不接收文档打开事件。
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **插入联机图片：** 用于选择图像和归属信息的新登陆页面将自动插入的图像。
--   **替换文字创建：** 基于云的服务会自动生成文档中的图片的替代文本 （alt 文本）。
--   **共享文件活动：** 在右上角的文件以查看文件共享中的 OneDrive for Business 的时选择活动按钮或 SharePoint 已共享、 编辑、 重命名，或还原。
--   **安全的链接：** 当用户单击链接时，Office 365 高级威胁保护 (ATP) 检查以查看是否恶意的链接。 如果链接被确认恶意，则会将用户重定向到而不是原始目标 URL 警告页上。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
--   **共享文件中的更改：** 查看谁具有共享文档中进行更改并还原早期版本。 [详细信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
+-   **替换文字创建：** 基于云的服务在文档中自动生成图片可选文字（替换文字）。
+-   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
+-   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [更多信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **对共享文件做出的更改：** 查看共享文档的更改人，并还原旧版文档。 [更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   解决问题 Word 其中意外关闭时加载 Grammarly 加载项。
--   其中，某些情况下的 Word 崩溃时要恢复的基于云的文件尝试修复问题。
--   其中不能旋转形状在绘图画布修复问题。
--   解决问题中，键入在朝鲜语时, 辅音和元音不正确的分隔开。
--   将文档保存为 pdf 格式将文档保存为版本 1.7 PDF。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了以下问题：加载 Grammarly 外接程序时，Word 意外关闭。
+-   修复了以下问题：在某些情况下，当尝试恢复基于云的文件时，Word 发生故障。
+-   修复了画布中的形状无法旋转的问题。
+-   修复了以下问题：键入朝鲜语时，辅音和元音分隔错误。
+-   如果将文档另存为 PDF，则可另存为 PDF 1.7 版本。
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   [CVE-2017年 8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630): Microsoft Office 内存损坏漏洞
--   [CVE-2017年 8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744): Microsoft Office 内存损坏漏洞
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630)：Microsoft Office 内存损坏漏洞
+-   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744)：Microsoft Office 内存损坏漏洞
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   修复问题阻止什么是从出现的新建对话框。
--   其中绘制选项卡上单击使应用程序崩溃为一些用户修复问题。
--   解决问题其中悬停在公共控件具有对其的工具提示导致应用程序崩溃。
--   解决问题时使用公共控件，其中出现许可错误消息。
--   修复问题如何签署某些程序文件、 导致防病毒程序来标记这些文件以及保护的问题或访问数据下 Windows 信息保护 (WIP)。
--   添加 support.to 允许用户在 64 位版本的 Office 以打开宏文件包含 mscomctl.ocx 控件中工作。
--   提高 mscomctl.ocx 中使用的控件的辅助功能。
--   解决问题命令的功能区或快速访问工具栏自定义对话框中缺少的位置。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了无法显示“新增功能”对话框的问题。
+-   修复了单击“绘图”选项卡导致某些用户的应用程序崩溃的问题。
+-   修复了当鼠标悬停在具有工具提示的公共控件上会导致应用程序崩溃的问题。
+-   修复了使用公共控件时出现授权错误消息的问题。
+-   修复了以下问题：一些程序文件的签名方式存在问题，导致防病毒程序标记这些文件，并且 Windows 信息保护 (WIP) 无法保护或访问数据。
+-   添加支持，以允许用户使用 64 位版本的 Office 打开包含 mscomctl.ocx 控件的宏文件。
+-   改进 mscomctl.ocx 中所使用控件的辅助功能。
+-   修复了功能区或快速访问工具栏自定义对话框中缺失命令的问题。
 
 
 
 ## <a name="version-1705-august-8"></a>版本 1705年： 年 8 月 8
 *版本 1705 （构建 8201.2171）*
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   与拖动 scrollbar 的邮件的列表中移动修复问题。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复了拖动滚动条在消息列表中移动的问题。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   修复问题如何签署某些程序文件、 导致防病毒程序来标记这些文件以及保护的问题或访问数据下 Windows 信息保护 (WIP)。
--   修复问题阻止什么是从出现的新建对话框。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了以下问题：一些程序文件的签名方式存在问题，导致防病毒程序标记这些文件，并且 Windows 信息保护 (WIP) 无法保护或访问数据。
+-   修复了无法显示“新增功能”对话框的问题。
 
 
 
 ## <a name="version-1705-july-27"></a>版本 1705年: 7 月 27 日
 *版本 1705 （构建 8201.2158）*
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   解决问题时尝试将更改保存到文档与 OneDrive 客户端同步错误出现的位置。
--   解决问题，其中 Excel 崩溃时将工作表数据添加到数据模型和高对比度主题设置为黑色。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了以下问题：在尝试将更改保存到与 OneDrive 客户端同步的文档时出现错误。
+-   修复了以下问题：将工作表数据添加到数据模型，并将“高对比度”主题设置为“黑色”时，Excel 发生故障。
 
-### <a name="outlook-security-updates"></a>Outlook： 安全更新
--   [CVE-2017年 8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook 安全功能绕过漏洞
--   [CVE-2017年 8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Microsoft Office Outlook 信息泄露漏洞
--   [CVE-2017年 8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook 内存损坏漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能绕过漏洞
+-   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572)：Microsoft Office Outlook 信息泄漏漏洞
+-   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663)：Microsoft Office Outlook 内存损坏漏洞
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   修复问题，其中将形状添加另一个用户更改布局后使合并失败。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了以下问题：在另一个用户更改布局后添加形状导致合并失败。
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   解决问题中，键入在朝鲜语时, 辅音和元音不正确的分隔开。
--   其中信封上的收信人地址太近打印到的左边缘修复问题。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了以下问题：键入朝鲜语时，辅音和元音分隔错误。
+-   修复了以下问题：信封上打印出的交货地址太靠近左侧边缘。
 
 
 
 ## <a name="version-1705-july-13"></a>版本 1705年： 年 7 月 13
 *版本 1705 （构建 8201.2136）*
 
-### <a name="excel-security-updates"></a>Excel： 安全更新
--   [CVE-2017年 8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office 内存损坏漏洞
--   [CVE-2017年 8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502): Microsoft Office 内存损坏漏洞
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 内存损坏漏洞
+-   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502)：Microsoft Office 内存损坏漏洞
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   Excel 工作簿包含外部链接的崩溃其中修复问题。
--   解决问题其中粘贴 Excel 至 Word 单元格显示零单元格中，即使未选择"零具有零值的单元格中的 Show"设置。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了由于工作簿包含外部链接而导致 Excel 崩溃的问题。
+-   修复了即使未选择“在具有零值的单元格中显示零”设置，将单元格从 Excel 粘贴到 Word 也在单元格中显示零的问题。
 
-### <a name="project-non-security-updates"></a>项目： 非安全更新
--   解决问题所选图表/表的值不会显示在图表中的表窗格。
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了为图表/表选择的值在图表/表窗格中不可见的问题。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   解决问题，其中对话窗口不会显示在后台加入会议时，并向用户显示音频设备加入对话框。
--   解决问题其中从 Outlook 会议链接并不总是传递内部 URI 正确。
--   加宽加入会议按钮以修复截断的某些本地化语言。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   修复了在加入会议时会话窗口在后台不显示，并且向用户显示音频设备加入对话框的问题。
+-   修复了 Outlook 中的会议链接并不总是正确地传递内部 URI 的问题。
+-   扩大“会议加入”按钮来修复某些本地化语言的截断问题。
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   表无法正确显示某些操作后修复问题。
--   解决问题，多个编辑引文一些时间显示设置为单个撤消操作而不是连续的单个操作。
--   其中某些操作后禁用撤消修复问题。
--   解决问题，以防止可能会丢失数据后某些撤消操作。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了在某些操作之后表无法正确显示的问题。
+-   修复了一段时间内对引文的多次编辑显示为单个撤消操作而不是连续的单个操作的问题。
+-   修复了在某些操作之后禁用撤消的问题。
+-   修复了问题，以防止在执行某些撤消操作后可能出现数据丢失。
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   [CVE-2017年 8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office 远程代码执行漏洞
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程执行代码漏洞
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   修复问题导致的 Office 2013 的无人参与的升级到 Office 2016 失败时使用 System Center Configuration Manager。
--   旧外接程序部署从通过公司目录存储区不加载其中修复问题。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了使用 System Center Configuration Manager 时，导致 Office 2013 无人参与升级到 Office 2016 失败的问题。
+-   修复了通过企业目录从存储部署的旧版外接程序不加载的问题。
 
 
 
 ## <a name="version-1705-june-13"></a>1705 的版本： 6 月 13 日
 *版本 1705 （构建 8201.2102）*
 
-### <a name="access-feature-updates"></a>Access： 功能更新
--   **什么是新的对话框：** 访问新的功能与更新后打开 Access 时，将出现一个对话框，重点介绍新访问功能。 对话框中，还可通过转到文件\>帐户\>What's New。
--   **大量 (bigint) 支持：** 使用 Access 表中的大量数据类型可计算大量，并可链接到或从使用等效的数据类型，如 bigint SQL Server 中的外部数据库导入。 [详细信息](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
+### <a name="access-feature-updates"></a>Access：功能更新
+-   **新增功能对话框：** 在 Access 更新了新功能后，打开 Access 时，会显示一个突出显示新 Access 功能的对话框。此外，还可以通过转到“文件”\>“帐户”\>“新增功能”找到此对话框。
+-   **支持大数 (bigint)：** 使用 Access 表中的 Large Number 数据类型来计算大型数字，并链接到使用等效数据类型的外部数据库（如 SQL Server 中的 bigint）或从中导入。 [详细信息](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **Windows 信息保护 (WIP) 支持：**  Excel 现启发式应用程序，并可以区分公司和个人数据，正确确定用于保护，基于已配置的策略。  [详细信息](https://aka.ms/wiptechnet)
--   **获取和变换改善：** 在查询编辑器中，通过提供示例值创建一个新列。 键入时，Excel 会检测所需的转换，并显示新列的预览。
--   **插入新的链接：** 轻松地将超链接附加到新的基于云的文件或网站，并创建的人员使用屏幕阅读器的有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **进行个性化设置的默认数据透视表布局：** 设置数据透视表的方式，并且每次创建新的数据透视表开头的布局。 [详细信息](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
--   **获取和变换改进：** 用户可以通过示例创建新的列和拆分成的行的表格列。 指定参数到 SAP HANA 和分组数据现更轻松。
--   **集中式外接程序部署**： 管理员可以部署和从 Office 365 管理中心更新为用户或组的加载项。 [详细信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
--   **快速访问工具栏自定义项：** 下标和上标图标可以添加到快速访问工具栏。
--   **获取和变换改进：** 自动检测的分隔符字符时拆分列，使用查询编辑器中，选择用于将二进制文件的示例文件并指定要连接到使用 DB2 连接器时的程序包集合。
--   **迪拜字体：** 支持西欧语言以及使用阿拉伯语脚本的主要语言的字体系列。 [详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **背景删除：** 删除图片背景自由格式绘图工具。
--   **获取和变换改进：** 在导航器对话框的"选择相关表"使用 ODCB 和 OLEDB 连接器、 合并多个文件直接从文件夹数据预览对话框中，并使用查询编辑器窗口中新的上下文菜单选项现有查询中插入新的步骤。
--   **使用笔选择并更改对象：** 获取对象与要调整大小、 旋转、 移动、 数字笔等的句柄。
--   **映射图表：** 比较的值，并显示跨不同地理区域的类别。 [详细信息](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
--   **SVG 图像：** 插入和编辑工作簿中的可缩放的向量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：** 转到插入来自标准的可缩放的向量图形 (SVG) 文件库使用图标\>的示意图，介绍\>图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **将保存到最近的文件夹：** 将工作簿保存到最近使用过文件夹中，当您转到文件时，使用最近选项卡\>另存为。
--   **辅助功能改进：** 使用键盘，讲述人和其他辅助技术来读取和编辑工作簿的改进的支持。 [详细信息](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **Windows 信息保护 (WIP) 支持：**   Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](https://aka.ms/wiptechnet)
+-   **“获取和转换数据”改进：** 在“查询编辑器”中，可以通过提供示例值创建新列。在输入过程中，Excel 会检测所需的转换，然后显示新列的预览效果。
+-   **插入最近使用的链接：** 轻松地将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
+-   **个性化设置默认的数据透视表布局：** 以你喜欢的方式设置数据透视表，并在每次创建新的数据透视表时从该布局开始。 [详细信息](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
+-   **“获取和转换”改进：** 用户可以通过示例创建新列，并将表列拆分为行。现在可以更轻松地为 SAP HANA 指定参数，以及进行数据分组了。
+-   **外接程序的集中式部署**：管理员可以从 Office 365 管理中心将加载项部署并更新到用户或组。 [更多信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **快速访问工具栏自定义：** 可将“下标”和“上标”图标添加至快速访问工具栏。
+-   **“获取和转换”改进：** 使用查询编辑器拆分列时自动检测分隔符字符，选择要与合并二进制数据一起使用的示例文件，并指定使用 DB2 连接器时要连接的包集合。
+-   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
+-   **背景消除：** 使用任意格式的绘图工具删除图片背景。
+-   **“获取和转换”改进：** 在“导航器”对话框中通过 ODCB 和 OLEDB 连接器使用“选择相关表”，直接从文件夹“数据预览”对话框中合并多个文件，并在“查询编辑器”窗口中使用新的上下文菜单选项在现有查询中插入新步骤。
+-   **使用触笔选择和更改对象：** 使用数字触笔捕捉对象句柄，以执行重设大小、旋转、移动等操作。
+-   **地图图表：** 跨地理区域比较值和显示类别。 [更多信息](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+-   **SVG 图像：** 在工作簿中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [更多信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将工作簿保存到最近访问的文件夹中。
+-   **辅助功能改进：** 改进了支持，可以更好地使用键盘、讲述人和其他辅助技术阅读和编辑工作簿。 [更多信息](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
-### <a name="excel-security-updates"></a>Excel： 安全更新
--   Microsoft 安全公告[MS17 014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office (3217868) 的安全更新
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   解决问题 Excel 不在其中设置以编程方式应用程序在 Excel 2010 或更早版本创建的工作簿时的工作表保护密码。
--   修复其中合并和中心不起作用组合的工作表中的问题。
--   例如引入 Office 2016-发行后的新功能、 TEXTJOIN、 CONCAT、 IFS、 MAXIFS 和 MINIFS-何处缺少修复问题。
--   解决问题 Excel 其中崩溃时用户试图应用单元格级别权限。
--   解决问题，其中的大型文件保存到 OneDrive for Business 导致文件被锁定，用户无法编辑该文件，直到用户关闭并重新打开 Excel。
--   修复其中一个新窗口显示处于灰显状态的.xls 工作簿打开时的问题。
--   其中，Excel 可能崩溃时插入超链接修复问题。
--   其中，Excel 可能会失败时添加 XML 映射修复问题。
--   其中外, 接程序的命令按钮不起作用升级外接程序后或之后删除和外接程序再次下载从 Office 商店修复问题。
--   修复其中 Excel 可能会崩溃，崩溃操作通过 VBA DLL 表时出现问题。
--   解决问题 Excel 其中崩溃时选择图表工作表上的窗体控件组合框。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了以下问题：以编程方式为使用 Excel 2010 或更低版本创建的工作簿应用工作表保护密码时，Excel 无法设置此密码。
+-   修复了以下问题：“合并后居中”对分组的工作表无效。
+-   修复了以下问题：缺少在 Office 2016 发布后引入的新函数，例如 TEXTJOIN、CONCAT、IFS、MAXIFS 和 MINIFS。
+-   修复了以下问题：Excel 在用户尝试应用单元格级权限时出现故障。
+-   修复了以下问题：将大型文件保存到 OneDrive for Business 导致文件锁定并且用户无法编辑该文件直到用户关闭并重新打开 Excel。
+-   修复了以下问题：打开 .xls 工作簿时，新窗口显示为灰色。
+-   修复了以下问题：Excel 可能会在用户插入超链接时发生故障。
+-   修复了在添加 XML 映射时 Excel 可能发生故障的问题。
+-   修复了外接程序升级后或从 Office 应用商店中删除并再次下载该外接程序后，外接程序的命令按钮不起作用的问题。
+-   修复了以下问题：通过 VBA 控制 DLL 工作表时，Excel 可能会发生故障。
+-   修复了以下问题：选择图表工作表上的表单控件组合框时，Excel 可能会发生故障。
 
-### <a name="onenote-feature-updates"></a>OneNote： 功能更新
--   **Windows 信息保护 (WIP) 支持：** OneNote 现启发式应用程序，并可以区分公司和个人数据，正确确定用于保护，基于已配置的策略。 [详细信息](https://aka.ms/wiptechnet)
+### <a name="onenote-feature-updates"></a>OneNote：功能更新
+-   **Windows 信息保护 (WIP) 支持：** OneNote 应用程序现已启用 WIP，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](https://aka.ms/wiptechnet)
 
-### <a name="onenote-non-security-updates"></a>OneNote： 非安全更新
--   修复其中 OneNote 画布隐藏内容或更新多个段落在视图中时的问题。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
+-   修复了以下问题：显示多个段落时，OneNote 画布会隐藏内容或更新。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **Windows 信息保护 (WIP) 支持：**  Outlook 现启发式应用程序，并可以区分公司和个人数据，正确确定用于保护，基于已配置的策略。  [详细信息](https://aka.ms/wiptechnet)
--   **插入新的链接：** 将超链接附加到新的基于云的文件或网站，并创建的人员使用屏幕阅读器的有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **迪拜字体：** 支持西欧语言以及使用阿拉伯语脚本的主要语言的字体系列。 [详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **背景删除：** 删除图片背景自由格式绘图工具。
--   **检查共享文件具有访问权限：** Outlook 告诉提前用户，如果收件人可能无法访问附加的 OneDrive 或 SharePoint 文件，并建议如何解决此问题。
--   **对附件设置权限：** 对于 OneDrive 或 SharePoint 附件，用户可以设置是否收件人在组织中或外部，具有读取或编辑权限对附件。
--   **可固定 taskpane:** 在邮箱中的邮件之间切换时，保持外接程序 taskpane 打开。 [详细信息](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
--   **SVG 图像：** 插入和编辑在电子邮件中的可缩放的向量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：** 转到插入来自标准的可缩放的向量图形 (SVG) 文件库使用图标\>的示意图，介绍\>图标。  [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **Windows 信息保护 (WIP) 支持：**   Outlook 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](https://aka.ms/wiptechnet)
+-   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [更多信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
+-   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
+-   **背景消除：** 使用任意格式的绘图工具删除图片背景。
+-   **检查对共享文件的访问权限：** Outlook 会提前告知用户，收件人可能无法访问附加的 OneDrive 或 SharePoint 文件，并对如何解决该问题提供建议。
+-   **对附件设置权限：** 对于 OneDrive 或 SharePoint 附件，用户可以设置组织中或外部的收件人是否具有对附件的读取或编辑权限。
+-   **可固定的任务窗格：** 在邮箱中切换邮件的同时，可让外接程序任务窗格一直处于打开状态。 [更多信息](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **SVG 图像：** 在电子邮件中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook： 安全更新
--   [CVE 2017:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Microsoft Outlook 远程代码执行漏洞
--   [CVE-2017年 0204年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): Microsoft Office 安全功能绕过漏洞
--   [CVE-2017年 8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): Microsoft Office 远程代码执行
--   [CVE-2017年 8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507): Microsoft Office 内存损坏漏洞
--   [CVE-2017年 8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): Microsoft Office 安全功能绕过漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
+-   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204)：Microsoft Office 安全功能绕过漏洞
+-   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 远程代码执行
+-   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507)：Microsoft Office 内存损坏漏洞
+-   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508)：Microsoft Office 安全功能绕过漏洞
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   解决问题的计算机内存不足时，Outlook 导航窗格其中停止其中的呈现。
--   附件宽度以可视方式扩展，以容纳文件名和权限信息。
--   解决问题，用户不能在其中搜索 PST 文件。
--   解决问题，其中用户看到新"Microsoft Exchange"类型存储在"新建 Outlook 数据文件"对话框中，并选择此新的数据类型导致用户配置变得不可用。
--   修复其中一条消息中的图像发送从计算机使用高 DPI 时灰显问题。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复了以下问题：当计算机内存不足时，Outlook 导航窗格停止呈现。
+-   扩展附件的可见宽度，以适应文件名和权限信息的大小。
+-   修复了以下问题：用户无法搜索 PST 文件。
+-   修复了以下问题：用户在“新建 Outlook 数据文件”对话框中看到有新的“Microsoft Exchange”存储类型，但在选择这一新增的数据类型后用户的配置文件就不可用了。
+-   修复了当使用高 DPI 从计算机发送邮件时，邮件中的图像变暗的问题。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **Windows 信息保护 (WIP) 支持：**  PowerPoint 现启发式应用程序，并可以区分公司和个人数据，正确确定用于保护，基于已配置的策略。  [详细信息](https://aka.ms/wiptechnet)
--   **插入新的链接：** 将超链接附加到新的基于云的文件或网站，并创建的人员使用屏幕阅读器的有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **集中式外接程序部署**： 管理员可以部署和从 Office 365 管理中心更新为用户或组的加载项。 [详细信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
--   **迪拜字体：** 支持西欧语言以及使用阿拉伯语脚本的主要语言的字体系列。 [详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **背景删除：** 删除图片背景自由格式绘图工具。
--   **SVG 图像：** 插入和编辑演示文稿中的可缩放的向量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：** 转到插入来自标准的可缩放的向量图形 (SVG) 文件库使用图标\>的示意图，介绍\>图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **当共同创作的实时键入：** 请参阅其中其他人使用的演示文稿和视图更改在键入时。 [详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
--   **将保存到最近的文件夹：** 当您转到文件时，使用最近选项卡到最近使用的文件夹中保存演示文稿\>另存为。
--   **创建精确墨迹形状：** 拖动段橡皮擦删除多余位墨迹，从右到最接近的行为止。
--   **选择和使用笔处理对象：** 使用数字笔移动、 调整大小或旋转对象使用其图柄，或使用支持的笔按钮来套索选择墨迹。
--   **辅助功能改进：** 使用键盘，讲述人和其他辅助技术来读取和编辑演示文稿的改进的支持。 [详细信息](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **Windows 信息保护 (WIP) 支持：**   PowerPoint 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](https://aka.ms/wiptechnet)
+-   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [更多信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
+-   **外接程序的集中式部署**：管理员可以从 Office 365 管理中心将加载项部署并更新到用户或组。 [更多信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
+-   **背景消除：** 使用任意格式的绘图工具删除图片背景。
+-   **SVG 图像：** 在演示文稿中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [更多信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **当共同创作的实时键入：** 请参阅其中其他人使用的演示文稿和视图更改在键入时。[详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将演示文稿保存到最近访问的文件夹中。
+-   **精确创建墨迹形状：** 拖动线段橡皮擦擦去多余墨迹，直到与最近线段交汇之处为止。
+-   **使用触笔选择并操作对象：** 使用数字触笔时，利用对象句柄或套索选择墨迹带的支持触笔按钮来移动、调整大小或旋转对象。
+-   **辅助功能改进：** 改进了支持，可以更好地使用键盘、讲述人和其他辅助技术阅读和编辑演示文稿。 [更多信息](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   PowerPoint 其中崩溃时用户在设计想法窗格中的计算机上未安装 mfplat.dll 文件修复问题。
--   其中外, 接程序的命令按钮不起作用升级外接程序后或之后删除和外接程序再次下载从 Office 商店修复问题。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了当用户处于“设计灵感”窗格中时，如果计算机上未安装 mfplat.dll 文件，PowerPoint 会崩溃的问题。
+-   修复了外接程序升级后或从 Office 应用商店中删除并再次下载该外接程序后，外接程序的命令按钮不起作用的问题。
 
-### <a name="project-feature-updates"></a>项目： 功能更新
--   **设置前置任务的快速下拉：** 使用甘特图下拉列表选择哪些前置任务或想要链接到任务的后续任务。
--   **任务摘要名称：** 显示任务的摘要任务的名称的只读的任务域。  
+### <a name="project-feature-updates"></a>Project：功能更新
+-   **用于设置前导活动的快速下拉列表：** 使用甘特图下拉列表选择要链接到任务的前导活动或后续活动。
+-   **任务摘要名称：**  显示任务的摘要任务名称的只读任务字段。  
 
-### <a name="project-non-security-updates"></a>项目： 非安全更新
--   修复创建项目网站对话框中显示网站的正确位置，既然 Project Online 中每个企业项目模板 (EPT) 将具有自己的项目网站的 URL。
--   解决问题，其中保存提示之前会触发 VBA BeforeClose 事件和您无需确定保存的用户的响应的编程方法提示。
--   解决问题其中实际完成百分比不能上卷正确的项目状态日期后开始的任务。
--   解决问题的成本和资源分配给相同的任务后，您可能不能更改任务状态管理器。
--   其中某些项目，调配整个项目会使您在无限循环中修复问题。
--   修复的问题，其中任务开始日期和完成日期不同步到 SharePoint 任务列表正确如果您有某些西班牙语的区域设置。
--   解决问题，如果启动从 Project 客户端的状态审批过程，它可能永远无法完成，留下中不可用状态的项目。
--   其中打印预览不布局任务名称正确如果您具有中文和英文单词修复问题。
--   解决问题其中为单个形状复制到 PowerPoint 的日程表操作不起作用。
--   解决问题"项目间链接"对话框意外显示值"找不到文件。"
--   问题您收到不一致结果分配资源 0 的最大单位时的修补程序。
--   解决问题，其中任务的开始日期获取时重置为尽快删除工作分配的开始日期，忽略等前置任务，这会导致前导拆分工作分配。
--   解决问题，如果您在通过最近菜单从 SharePoint 打开的文件，该项目自动签出给您即使"需要签出之前可以编辑文档？"的设置 已启用。
--   解决问题，如果您直接转到的项目配置文件应用程序，则项目崩溃。
--   修复其中手动计划的任务更新不正确的用户从 Project 2013 升级的问题。
--   其中时打开项目从 SharePoint 任务列表，项目可能会崩溃，项目启动任务同步过程修复问题。
--   其中项目有时崩溃时转到建立工作组修复问题。
--   解决问题时保存项目比较基准信息其中会丢失。
--   解决问题打印输出何处阅读大型项目计划变得比较困难。
--   解决问题其中编辑 Project Web App 中的项目不显示公式字段的正确值。
--   解决问题其中资源企业自定义域的信息未正确保存的项目计划。
--   解决问题，更新任务的 %工时完成的信息更新任务的 %完整信息。
--   修复其中的项目的所有权更改保存项目时的问题。
--   摘要任务不正确地计算 CPI 其中修复问题。
--   解决问题，其中复制并粘贴任务可延伸的比较基准数据，数据将会保存，即使不允许用户保存受保护的比较基准数据。
--   解决问题将数据从 Excel 导入其中导致不正确的日期任务和工作分配的信息。
--   其中，打开报告后, 项目崩溃时关闭修复问题。
--   解决问题其中项目工作时停止保存项目的自定义列表其中包含验证设置。
--   解决问题其中输入"\>"在测试列在筛选器定义对话框中的字符不正确解释为含义"is greater than。"
--   相对于"比较基准计划。"进度线的显示与修复问题
--   解决问题时自定义筛选器字段名称下拉列表不显示的位置。
--   解决问题条形图样式预览不显示条形图样式对话框中的位置。
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了“创建项目网站”对话框，使其能够显示网站的正确位置。这样，在 Project Online 中，每个企业项目模板 (EPT) 都有自己的项目网站 URL。
+-   修复了以下问题：VBA BeforeClose 事件在保存提示出现前触发，无法以编程方式确定用户对保存提示的响应。
+-   修复了以下问题：对于在项目状态日期之后开始执行的任务，无法正确汇总“实际完成百分比”。
+-   修复了以下问题：将成本和工时资源分配给同一任务时，可能无法更改任务的状态管理员。
+-   修复了以下问题：对于某些项目，调配整个项目可能会进入无限循环。
+-   修复了以下问题：如果有特定的西班牙语区域设置，无法将任务开始日期和完成日期正确同步到 SharePoint 任务列表中。
+-   修复了以下问题：如果从 Project 客户端启动状态审批流程，可能永远无法完成，导致项目处于不可用状态。
+-   修复了以下问题：如果有中文和英语字词，打印预览无法正确列出任务名称。
+-   修复了以下问题：由于单个形状不可用，要将日程表复制到 PowerPoint 中。
+-   修复了以下问题：“在项目间链接”对话框意外显示值“找不到文件”。
+-   修复了以下问题：分配最大单位为 0 的资源时，获得的结果不一致。
+-   修复了以下问题：删除作业的开始日期后，任务的开始日期重置为“尽快”，忽略了前置任务等事项，进而导致对作业进行前导拆分。
+-   修复了以下问题：即使已启用“是否要求先签出文档然后再对其进行编辑?”设置，通过“最近”菜单打开 SharePoint 中的文件时，仍会自动签出项目。
+-   修复了以下问题：如果直接转到“Project Profiles”应用程序，Project 会发生故障。
+-   修复了以下问题：无法为从 Project 2013 升级的用户正确更新手动计划任务。
+-   修复了以下问题：打开 SharePoint 任务列表中的项目后，Project 可能会在启动任务同步进程时发生故障。
+-   修复了以下问题：转到“生成团队”时，Project 有时会发生故障。
+-   修复了以下问题：保存项目时丢失基线信息。
+-   修复了难以针对大型项目计划读取打印输出的问题。
+-   修复了在 Project Web App 中编辑的项目不显示公式域的正确值的问题。
+-   修复了未针对项目计划正确保存资源企业自定义字段的信息的问题。
+-   修复了更新任务的工时完成百分比信息时会更新任务的完成百分比信息的问题。
+-   修复了保存项目时项目所有权更改的问题。
+-   修复了对摘要任务错误计算 CPI 的问题。
+-   修复了即使用户不被允许保存受保护的基线数据，复制和粘贴任务时仍会覆盖基线数据并保存数据的问题。
+-   修复了从 Excel 导入数据导致任务和分配的日期信息不正确的问题。
+-   修复了在打开报告后，关闭时 Project 会崩溃的问题。
+-   修复了当保存项目时 Project 停止工作的问题，其中自定义列表包含验证设置。
+-   修复了在“筛选器定义”对话框中的“测试”列中输入“\>”字符未正确解释为“大于”的含义的问题。
+-   修复了与“基线计划”相关的进度线显示问题。
+-   修复了在自定义筛选器时不显示域名下拉列表的问题。
+-   修复了“条形图样式”对话框中不显示“条形图样式”预览的问题。
 
-### <a name="publisher-non-security-updates"></a>Publisher： 非安全更新
--   解决问题其中 Publisher 才会显示 CMYK TIF 图像。
+### <a name="publisher-non-security-updates"></a>Publisher：非安全更新
+-   修复了发布服务器不显示 CMYK TIFF 图像的问题。
 
-### <a name="skype-for-business-feature-updates"></a>Skype for Business： 功能更新
--   **插入的链接：** 将链接添加到 IM 和组聊天提供友好的文本，而不是完整的 URL 的链接。
--   **屏幕共享通知：** 当您正在共享屏幕 IM 对话中时，或者在屏幕共享继续在您离开会议后，在对话窗口中显示通知。 通知提醒您在您仍共享您的屏幕，并可以轻松要停止共享使用的"停止共享"按钮。
--   **Windows 信息保护 (WIP) 支持：** 作为 WIP 工作仅应用程序现在支持 for Business 的 Skype。  通过将 Skype 添加到允许应用程序列表中，它指示到 Windows 它并不处理个人数据。  Windows 将代表 for Business 的 Skype 保护数据。  [详细信息](https://aka.ms/wiptechnet)
--   **密码重置选项：** 用户无法至少一次登录时，重置按钮链接将出现在登录窗口。
+### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
+-   **插入链接：** 可以在 IM 和群组聊天中添加链接，并输入易记的链接文本，而不是完整 URL。
+-   **屏幕共享通知：** 在 IM 对话中共享屏幕或在离开会议后仍继续共享屏幕时，对话窗口中会显示屏幕共享通知。此通知旨在提醒仍在共享屏幕，只需使用“停止共享”按钮，即可轻松停止共享。
+-   **Windows 信息保护 (WIP) 支持：** Skype for Business 现作为“仅 WIP 作业”应用受到支持。通过将 Skype 添加到允许的应用列表，可以指示 Windows 不处理个人数据。Windows 将代表 Skype for Business 保护数据。 [更多信息](https://aka.ms/wiptechnet)
+-   **密码重置选项：** 当用户至少登录失败一次时，重置按钮链接将显示在登录窗口中。
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 安全更新
--   Microsoft 安全公告[MS17 013](https://technet.microsoft.com/library/security/ms17-013): Microsoft 图形组件 (4013075) 的安全更新
--   [CVE-2017年 0281年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 0283年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283): Windows Uniscribe 远程代码执行漏洞
--   [CVE-2017年 8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550)： 业务远程代码执行漏洞的 Skype
+### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
+-   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
+-   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283)：Windows Uniscribe 远程代码执行漏洞
+-   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550)：Skype for Business 远程代码执行漏洞
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   更改与策略禁用从"无法完成呼叫"到"不能调用因为 IT 管理员具有受限音频音频尝试呼叫用户消息。 转为尝试使用即时消息或电子邮件和提出要检查其 IT 管理员"。
--   添加"忘记了您的电话拨入 PIN"超链接到会议邀请的启用 PSTN 会议用户的 Skype 业务 online。
--   从 Skype 团队与会启用业务联机。
--   更改默认扬声器会话音量从 40%到 75%。
--   允许调整为较小的最小宽度选项卡列表的大小。
--   更新快捷键匹配选项卡的顺序。
--   从移动设备发送时，请修复不正确的希伯来语的文本的方向。
--   解说由屏幕阅读器存在桌面/授予控制权功能的信息解决问题。
--   除了选择会议室列表中的已关注聊天室显示打开聊天室。
--   添加功能时启用自定义 RCC 应用程序禁用 VoIP 功能。
--   更改脱机 IM 标志行以"尝试 Skype 业务移动应用程序"。
--   修复问题导致的自动接受的对话，而不是作为普通窗口中，打开对话窗口最小化，并意外离开其他窗口获得焦点。
--   在 Skype 会议选项对话框上使用屏幕阅读器修复问题。
--   解决问题其中邀请中的第一条不错过的对话电子邮件中所示。
--   解决问题从 Outlook 中使用新建 Skype 会议按钮创建会议邀请时显示重复的电话拨入式号码的位置。
--   解决问题时显示滚动条，IM 历史记录中的所有对话不都选中了时使用 Ctrl + A 选择全部。
--   修复其中输出文本可能不是相同的确切格式的使用 Export-csarchivingdata cmdlet 时的问题。
--   解决问题，会议组织者不能与 3 个或多个参与者使用立即开会时，请参阅远程参与者的视频。
--   解决问题在会议名单中的第一行为空的当用户右键单击参与者列表中的另一个用户的名称。
--   解决问题，用户将无法登录时内部和外部的企业网络之间进行切换。
--   修复其中的聊天区域不会关闭时从 IM 自发升级到音频咨询转接问题。
--   其中名称的两个终结点同时响铃使用时被截断吐司通知的情况下解决问题。
--   解决问题中文件共享通知其中被截断文件名。
--   将工具提示后添加到呼叫和转接按钮。
--   请在咨询转接窗口中供屏幕阅读器，如讲述人保持所用的时间。
--   添加作为咨询转接默认首选项中选择 IM 或呼叫的功能。
--   执行咨询转接，请右键单击"转接"按钮以查看联系人的电话号码的列表时，请添加的功能。
--   提高常规错误消息，以使其清除的问题是用户具有无效的许可证或尚未分配许可证。
--   解决问题并不是所有联系人的都显示位置中的对话窗口标题时用户与联系人开始对话，然后添加另一个联系人。
--   解决问题讲述人不在其中读取通知的第一行。
--   解决问题其中呼叫转移到 VOIP 而非顾问的号码。
--   解决问题时用户的定位内容的窗口中，讲述人其中宣布不正确的信息。
--   解决问题的创建者和修饰符名称不显示悬停在白板上批注时的位置
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   如果尝试呼叫用户未成功，且已根据策略禁用音频，显示的消息从“无法完成呼叫”更改为“由于 IT 管理员已限制音频，无法呼叫。请尝试改用即时消息或电子邮件，并咨询 IT 管理员。”
+-   在已启用 PSTN 会议的 Skype for Business Online 用户的会议邀请中添加了“忘记了拨入 PIN”超链接。
+-   允许从 Skype for Business Online 加入团队会议。
+-   将默认扬声器会话音量从 40% 更改为 75%。
+-   允许重设更小的选项卡列表最小宽度。
+-   将快捷键更新为与选项卡的顺序匹配。
+-   修复了以下问题：通过移动设备发送希伯来语文本时，文本方向不正确。
+-   修复了以下问题：屏幕阅读器中“演示桌面/授予控制权”功能的旁白信息不正确。
+-   “选择会议室”列表中除了显示关注的会议室之外，还显示已打开的会议室。
+-   添加了在启用自定义 RCC 应用的同时禁用 VoIP 功能的功能。
+-   将脱机 IM 标志行更改为“尝试 Skype for Business 移动应用”。
+-   修复了导致自动接受的对话的对话窗口以普通窗口而不是最小化窗口模式打开，并意外地将焦点从其他窗口移开的问题。
+-   修复了使用“Skype 会议选项”对话框上的屏幕阅读器时遇到的问题。
+-   修复了邀请中的第一个邮件不在“错过的对话”电子邮件中显示的问题。
+-   修复了使用“新建 Skype 会议”按钮从 Outlook 创建会议邀请时显示重复的拨号号码的问题。
+-   修复了在显示滚动条后使用 Ctrl+A 选中全部时未选中 IM 历史记录中的所有对话的问题。
+-   修复了使用 Export-CsArchivingData cmdlet 时输出文本的格式可能不完全相同的问题。
+-   修复了在有 3 个或更多个与会者的情况下使用“立即开会”时会议组织者无法看到远程与会者视频的问题。
+-   修复了用户右键单击与会者列表中的其他用户名字时会议名单的第一行为空白的问题。
+-   修复了以下问题：用户在切换内外公司网络后无法登录。
+-   修复了在咨询转接中从 IM 升级到音频时，聊天区域不会关闭的问题。
+-   修复了所使用的两个端点同时响铃时，toast 通知中的名称被截断的问题。
+-   修复了共享通知时，文件中的文件名被截断的问题。
+-   添加“返回通话”和转接按钮的工具提示。
+-   使“咨询转接”窗口的保持时间用于屏幕阅读器（如讲述人）。
+-   添加了可选择 IM 或呼叫作为咨询转接的默认首选项的功能。
+-   添加了以下功能：进行咨询式呼叫转移时，右键单击“转接”按钮可以查看联系人的电话号码列表。
+-   改进了常见错误消息，以表明问题在于用户具有无效的许可证还是尚未分配许可证。
+-   修复了当用户开始与联系人进行对话，然后添加其他联系人时，并非所有联系人都显示在对话窗口标题中的问题。
+-   修复了讲述人不读取通知第 2 行的问题。
+-   修复了呼叫转移到 VOIP 而不是咨询的号码的问题。
+-   修复了当用户在“内容”窗口中导航时，讲述者宣布不正确的信息的问题。
+-   修复了以下问题：将鼠标悬停在白板注释上时，看不到创建者和修改者名称
 
-### <a name="visio-feature-updates"></a>Visio： 功能更新
--   **查找第三方模具：** 搜索由所选内容的提供程序提供的第三方模具。
--   **幻灯片代码段：** 代码段的 Visio 绘图并将其导出为向 PowerPoint 幻灯片。 [详细信息](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
+### <a name="visio-feature-updates"></a>Visio：功能更新
+-   **查找第三方模具：** 搜索所选内容提供商提供的第三方模具。
+-   **幻灯片片段：** 获取 Visio 绘图的片段，并将其作为幻灯片导出到 PowerPoint。 [更多信息](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **Windows 信息保护 (WIP) 支持：**  Word 现启发式应用程序，并可以区分公司和个人数据，正确确定用于保护，基于已配置的策略。  [详细信息](https://aka.ms/wiptechnet)
--   **插入新的链接：** 将超链接附加到新的基于云的文件或网站，并创建的人员使用屏幕阅读器的有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **集中式外接程序部署**： 管理员可以部署和从 Office 365 管理中心更新为用户或组的加载项。  [详细信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
--   **迪拜字体：** 支持西欧语言以及使用阿拉伯语脚本的主要语言的字体系列。 [详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **背景删除：** 删除图片背景自由格式绘图工具。
--   **两侧：** 通过类似的纸张堆栈的左到右滑动导航页面视图中的页面。 [详细信息](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
--   **使用笔选择并更改对象：** 获取对象与要调整大小、 旋转、 移动、 数字笔等的句柄。
--   **SVG 图像：** 插入和编辑文档中的可缩放的向量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：** 转到插入来自标准的可缩放的向量图形 (SVG) 文件库使用图标\>的示意图，介绍\>图标。  [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **将保存到最近的文件夹：** 当您转到文件时，使用最近选项卡将文档保存到最近使用过文件夹\>另存为。
--   **改进阅读学习工具：** 读取模式提升读取技能通过调整间距的文本中的新命令，显示音节，之间的分隔符和突出显示每个 word 文档作为将朗读。 [详细信息](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
--   **形状识别：** 使用绘制自动转换为形状绘图\>转换形状。 [详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **Windows 信息保护 (WIP) 支持：**   Word 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](https://aka.ms/wiptechnet)
+-   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [更多信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
+-   **外接程序的集中式部署**：管理员可以从 Office 365 管理中心将加载项部署并更新到用户或组。 [更多信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
+-   **背景消除：** 使用任意格式的绘图工具删除图片背景。
+-   **并排：** 通过将页面像一叠纸一样并排滑动实现在页面视图下浏览页面。 [更多信息](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
+-   **使用触笔选择和更改对象：** 使用数字触笔捕捉对象句柄，以执行重设大小、旋转、移动等操作。
+-   **SVG 图像：** 在文档中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将文档保存到最近访问的文件夹中。
+-   **借助学习工具提升阅读技能：** 阅读模式中的新命令可提升阅读技能，具体包括调整文字间距、在音节之间显示分隔符和突出显示每个单词（如同在大声朗读文档一样）。 [更多信息](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
+-   **形状识别：** 使用“绘图”\>“转换为形状”将绘图自动转换为形状。 [详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   Microsoft 安全公告[MS17 014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office (3217868) 的安全更新
--   [CVE-2017年 0254年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Microsoft Office 内存损坏漏洞
--   [CVE-2017年 0281年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 0292年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Windows PDF 远程代码执行漏洞 
--   [CVE-2017年 8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Microsoft Office 远程代码执行漏洞  
+### <a name="word-security-updates"></a>Word：安全更新
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞
+-   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 远程代码执行漏洞 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 远程执行代码漏洞  
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   解决问题，用户不能在其中搜索 PST 文件。
--   解决问题，其中用户看到新"Microsoft Exchange"类型存储在"新建 Outlook 数据文件"对话框中，并选择此新的数据类型导致用户配置变得不可用。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了用户无法搜索 PST 文件的问题。
+-   修复了以下问题：用户在“新建 Outlook 数据文件”对话框中看到有新的“Microsoft Exchange”存储类型，但在选择这一新增的数据类型后用户的配置文件就不可用了。
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   [CVE-2017年 0199年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0199): Microsoft Office/写字板远程代码执行漏洞 w/Windows API
--   [CVE-2017年 0260年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0260): Microsoft Office 远程代码执行
--   [CVE-2017年 0261年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 0262年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0262): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 0281年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 8510](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8510): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 8512](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8512): Microsoft Office 远程代码执行漏洞
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2017-0199](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0199)：Microsoft Office/WordPad 远程代码执行漏洞 w/Windows API
+-   [CVE-2017-0260](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0260)：Microsoft Office 远程代码执行
+-   [CVE-2017-0261](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-0262](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0262)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-8510](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8510)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-8512](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8512)：Microsoft Office 远程执行代码漏洞
 
 
 
 ## <a name="version-1701-may-9"></a>版本 1701年： 年 5 月 9
 *版本 1701 （构建 7766.2084）*
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   修复，导致间歇性查看跳意外时删除邮件消息列表中的邮件选定内容的用户的问题。
--   修复，导致间歇性故障数的问题。
--   添加 HKEY\_当前\_用户\\软件\\Microsoft\\Office\\16.0\\Outlook\\选项\\常规\\允许管理员可以隐藏支持 DisableSupportBackstage 注册表项在文件选项卡下的选项。
--   添加 HKEY\_当前\_用户\\软件\\Microsoft\\Office\\16.0\\Outlook\\选项\\常规\\允许管理员关闭 DisableOutlookFeedbackFeatures 注册表项在文件下的"outlook 2016 Feedback"和"Outlook 博客"选项\>的反馈。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复了删除消息时导致用户间歇性地看到消息列表中的所选消息意外跳转的问题。
+-   修复了导致间歇性崩溃的问题。
+-   添加了 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Outlook\\Options\\General\\DisableSupportBackstage 注册表项，以允许管理员以隐藏“文件”选项卡下的支持选项。
+-   添加了 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Outlook\\Options\\General\\DisableOutlookFeedbackFeatures 注册表项，以便管理员可以在“文件”\>“反馈”下禁用“Outlook 2016 反馈”和“Outlook 博客”选项。
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 安全更新
--   [CVE-2017年 0281年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office 远程代码执行漏洞
+### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
+-   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   修复问题导致的自动接受的对话，而不是作为普通窗口中，打开对话窗口最小化，并意外离开其他窗口获得焦点。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   修复了导致自动接受的对话的对话窗口以普通窗口而不是最小化窗口模式打开，并意外地将焦点从其他窗口移开的问题。
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   [CVE-2017年 0254年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Microsoft Office 内存损坏漏洞
--   [CVE-2017年 0281年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office 远程代码执行漏洞
+### <a name="word-security-updates"></a>Word：安全更新
+-   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞
+-   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   [CVE-2017年 0261年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 0262年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0262): Microsoft Office 远程代码执行漏洞
--   [CVE-2017年 0281年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office 远程代码执行漏洞
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2017-0261](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-0262](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0262)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 
 
 
 ## <a name="version-1701-april-11"></a>版本 1701年： 年 4 月 11
 *版本 1701 （构建 7766.2076）*
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   修复其中一个新窗口显示处于灰显状态的.xls 工作簿打开时的问题。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了以下问题：打开 .xls 工作簿时，新窗口显示为灰色。
 
-### <a name="outlook-security-updates"></a>Outlook： 安全更新
--   [CVE 2017:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Microsoft Outlook 远程代码执行漏洞
--   [CVE-2017年 0204年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): Microsoft Office 安全功能绕过漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
+-   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204)：Microsoft Office 安全功能绕过漏洞
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   解决问题，其中用户看到新"Microsoft Exchange"类型存储在"新建 Outlook 数据文件"对话框中，并选择此新的数据类型导致用户配置变得不可用。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复了以下问题：用户在“新建 Outlook 数据文件”对话框中看到有新的“Microsoft Exchange”存储类型，但在选择这一新增的数据类型后用户的配置文件就不可用了。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   解决问题映像缺少错误发生时用户执行"另存为"到 PowerPoint 文件存储在可移动媒体，如 USB 缩略图驱动器上的备用位置。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了以下问题：用户在将 U 盘等可移动媒体上存储的 PowerPoint 文件“另存”到备用位置时看到图像缺失错误。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   解决问题，用户将无法登录时内部和外部的企业网络之间进行切换。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   修复了以下问题：用户在切换公司内外网络后无法登录。
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   [CVE-2017年 0199年](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0199): Microsoft Office/写字板远程代码执行漏洞 w/Windows API
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2017-0199](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0199)：Microsoft Office/WordPad 远程代码执行漏洞 w/Windows API
 
 
 
 ## <a name="version-1701-march-14"></a>版本 1701年： 年 3 月 14
 *版本 1701 （构建 7766.2071）*
 
-### <a name="access-non-security-updates"></a>Access： 非安全更新
--   解决问题无法取消弹出菜单的位置。
+### <a name="access-non-security-updates"></a>Access：非安全更新
+-   修复了无法取消浮出控件菜单的问题。
 
-### <a name="excel-security-updates"></a>Excel： 安全更新
--   Microsoft 安全公告[MS17 014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office (3217868) 的安全更新
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   其中，Excel 可能崩溃时插入超链接修复问题。
--   其中，Excel 可能会失败时添加 XML 映射修复问题。
--   其中外, 接程序的命令按钮不起作用升级外接程序后或之后删除和外接程序再次下载从 Office 商店修复问题。
--   修复其中 Excel 可能会崩溃，崩溃操作通过 VBA DLL 表时出现问题。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了插入超链接时 Excel 可能崩溃的问题。
+-   修复了在添加 XML 映射时 Excel 可能发生故障的问题。
+-   修复了外接程序升级后或从 Office 应用商店中删除并再次下载该外接程序后，外接程序的命令按钮不起作用的问题。
+-   修复了通过 VBA 操作 DLL 工作表时 Excel 可能崩溃的问题。
 
-### <a name="onenote-non-security-updates"></a>OneNote： 非安全更新
--   OneNote 页面画布其中停止响应后进行身份验证使用 PIN Windows 10 版本 1607 （也称为 Windows 周年日更新） 上的鼠标单击修复问题。
--   当用户插入一个可编辑的文档，如.docx 或.pptx 时，禁用优化 EDU 特定打印输出的行为。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
+-   修复了在 Windows 10 版本 1607（也称为 Windows 周年更新）上使用 PIN 进行身份验证后，OneNote 页面画布停止响应鼠标单击的问题。
+-   在用户插入可编辑文档（例如 .docx 或 .pptx）时禁用优化的、特定于 EDU 的输出行为。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   解决问题合并冲突错误时出现的位置的共同创作。
--   其中外, 接程序的命令按钮不起作用升级外接程序后或之后删除和外接程序再次下载从 Office 商店修复问题。
--   解决问题其中 VBA 调用对象模型将导致运行时错误时应用于图表中的形状。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了合并冲突在共同创作时不正确显示的问题。
+-   修复了外接程序升级后或从 Office 应用商店中删除并再次下载该外接程序后，外接程序的命令按钮不起作用的问题。
+-   修复了将 VBA对象模型应用于图表中的形状时，调用 VBA对象模型会导致运行时错误的问题。
 
-### <a name="publisher-non-security-updates"></a>Publisher： 非安全更新
--   解决问题其中 Publisher 才会显示 CMYK TIF 图像。
+### <a name="publisher-non-security-updates"></a>Publisher：非安全更新
+-   修复了发布服务器不显示 CMYK TIFF 图像的问题。
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 安全更新
--   Microsoft 安全公告[MS17 013](https://technet.microsoft.com/library/security/ms17-013): Microsoft 图形组件 (4013075) 的安全更新
+### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
+-   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   Microsoft 安全公告[MS17 014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office (3217868) 的安全更新
+### <a name="word-security-updates"></a>Word：安全更新
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   使用某些监视器配置时，请使用内存消耗修复问题。
--   其中外, 接程序的命令按钮不起作用升级外接程序后或之后删除和外接程序再次下载从 Office 商店修复问题。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了使用某些监视器配置时的内存消耗问题。
+-   修复了外接程序升级后或从 Office 应用商店中删除并再次下载该外接程序后，外接程序的命令按钮不起作用的问题。
 
 
 
 ## <a name="version-1701-february-22"></a>版本 1701年: 2 月 22 日
 *版本 1701 （构建 7766.2060）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **数据转换和连接的增强功能：** 具有值，之间分隔符的新文本列到展开列表并指定故障转移选项，连接到 SQL 时。
--   **数据转换和连接的增强功能：** 现在支持百分比数据类型，并二进制组合函数创作体验已得到增强。
--   **OLEDB 连接器：** 使用 Get 转换中的 OLEDB 连接器来创建查询通过指定连接字符串和 （可选） 的 SQL 语句，以执行导入数据。
--   **墨迹重播：** 转到绘制\>墨迹重播重播手写向前和向后隐藏和显示内容，提供分步说明，或更好地了解他人的想法的流。 [详细信息](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
--   **CSV (utf-8) 支持：** 打开和保存使用 utf-8 字符编码的 CSV 文件。
--   **数据转换和连接增强功能：** 选择要导入相关的表时加载数据从 OData 源与值来自函数计算，添加自定义列或显示查询使用专用的视图之间的依赖关系。
--   **与我共享：** 查看其他人通过转到文件共享与您的文档\>打开\>共享与 me。 [详细信息](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
--   **更改颜色：** 使用告诉我设置字体、 突出显示、 形状填充和更多的颜色。 [详细信息](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **改进了数据转换和连接性：** 将列表扩展为在各值之间使用分隔符的新文本列，并在连接 SQL 时指定故障转移选项。
+-   **改进了数据转换和连接性：** 现在支持百分比数据类型，并改进了二进制组合和函数创作体验。
+-   **OLEDB 连接器：** 在“获取并转换”中使用 OLEDB 连接器创建查询以导入数据，具体方法为指定连接字符串和要执行 SQL 语句（可选）。
+-   **墨迹重播：** 依次转到“绘图”\>“墨迹重播”，可以向前和向后重播手写内容以隐藏和显示内容，也可以提供分步说明或更好地理解其他人的思路。 [更多信息](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+-   **CSV (UTF-8) 支持：** 打开和保存使用 UTF-8 字符编码的 CSV 文件。
+-   **增强了数据转换功能和连接性：** 从 OData 源加载数据时选择导入相关表，添加包含函数计算值的自定义列，或使用专用视图展示查询之间的依赖关系。
+-   **与我共享的内容：** 依次转到“文件”\>“打开”\>“与我共享的内容”，查看其他人与你共享的文档。 [详细信息](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
+-   **更改颜色：** 使用“操作说明搜索”来设置字体、突出显示、形状填充等的颜色。 [更多信息](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="excel-security-updates"></a>Excel： 安全更新
--   Microsoft 安全公告[MS16 148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office (3204068) 的安全更新
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   其中，当 Office 主题设置为黑色，"意外错误"时出现错误消息右键单击工作簿查询窗格中的查询修复问题。
--   解决问题 Excel 其中崩溃时用户尝试访问数据透视表选项。
--   其中具有文本和双引号括起来的单元格值不另存为 CSV 或 CSV utf-8 时正确导出修复问题。
--   解决问题，其中 Excel 挂起或崩溃时关闭。
--   修复问题，其中包含 concatenate 公式的超链接将忽略 concatenate 结果的一部分。
--   解决问题其中富文本格式 (RTF) 对 Word 在粘贴 Excel 表格不保留的表格格式。
--   其中用户工作簿包含 MS Excel 4.0 宏工作表时无法执行另存为修复问题。
--   使 CTRL + ALT + 5 将选定内容移动到的对象层匹配其他应用程序的快捷方式。
--   修复的问题位置时的公式栏中键入和函数中使用下拉列表中，如 VLOOKUP，按 Enter 以完成公式选择顶部的项目从而不是 leavingthe 记忆式键入下拉列表中的值键入-是。
--   解决问题其中打开 Excel 97-Excel 2003 二进制文件格式 (BIFF8) 文件，包含受保护的工作表中的超链接使 Excel 认为该文件已损坏，Excel 尝试修复或删除的不可读的内容。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了以下问题：如果 Office 主题设为“黑色”，用户在“工作簿查询”窗格中右键单击查询时会看到内容为“意外错误”的错误消息。
+-   修复了以下问题：Excel 在用户尝试访问数据透视表选项时发生故障。
+-   修复了以下问题：在另存为 CSV 或 CSV UTF-8 时，无法正确导出包含文本和双引号的单元格值。
+-   修复了以下问题：Excel 在关闭时挂起或发生故障。
+-   修复了以下问题：包含连接公式的超链接忽略部分连接结果。
+-   修复了以下问题：在 Word 中粘贴 RTF 格式 Excel 表格时，无法保留表格格式。
+-   修复了以下问题：当工作簿包含 MS Excel 4.0 宏工作表时，用户无法另存为。
+-   设置 CTRL+ALT+5 快捷键，用于将选定内容移到对象层，以与其他应用程序保持一致。
+-   修复了以下问题：在编辑栏中键入内容并使用带下拉列表的函数（如 VLOOKUP）时，如果按下 Enter 完成公式，系统会选择自动完成下拉列表中最上面一项，而不是原封不动地保留所键入的值。
+-   修复了以下问题：打开受保护的工作表中有超链接的 Excel 97-Excel 2003 二进制文件格式 (BIFF8) 文件时，Excel 认为文件已损坏，并尝试修复或删除不可读取的内容。
 
-### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business： 非安全更新
--   解决问题，其中，如果 GrooveIntlResource.dll 无法加载成功 （这是正常情况下太），Office 应用程序可能会崩溃如果用户尝试打开或将文件保存到同步文件夹，或如果用户导航到 Windows 资源管理器可能会崩溃使用 Windows 资源管理器的同步的文件夹。
--   修复问题其中没有禁用 OneDrive for Business，即使相应的注册表项设置为 Office 配置为接收来自 Office 内容交付网络 (CDN) 之外的位置的更新时禁用它，也是如此。
+### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business：非安全更新
+-   修复了以下问题：在无法成功加载 GrooveIntlResource.dll 的情况下（通常不太可能会发生这种情况），如果用户尝试打开文件或将文件保存到同步文件夹，Office 应用可能会发生故障，或者如果用户使用 Windows 资源管理器转到同步文件夹，Windows 资源管理器可能会发生故障。
+-   修复了以下问题：如果将 Office 配置为从除 Office 内容传送网络 (CDN) 之外的位置接收更新程序，无法禁用 OneDrive for Business，即使将相应的注册表项设置为禁用它，也是如此。
 
-### <a name="onenote-feature-updates"></a>OneNote： 功能更新
--   **控制文件和图像的同步：** 转到文件\>选项\>是否笔记本中的所有页面的自动下载所有文件和图像同步到控件。
+### <a name="onenote-feature-updates"></a>OneNote：功能更新
+-   **控制文件和图像同步：** 依次转到“文件”\>“选项”\>“同步”，以控制是否为笔记本中的所有页面自动下载全部文件和图像。
 
-### <a name="onenote-non-security-updates"></a>OneNote： 非安全更新
--   解决问题 OneNote 崩溃时打印图像大于页上的位置。
--   解决问题，用户不能删除自定义网页模板。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
+-   修复了以下问题：当打印的图像大于页面时，OneNote 发生故障。
+-   修复了以下问题：用户无法删除自定义网页模板。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **附件实时协作：** 上载到 OneDrive for Business 人从事的最新版本的附件。 使用对附件下拉菜单中上载或将其保存。
--   **摘要卡的差旅预订和程序包：** 验证并跟踪差旅预订以及包 ニ，使用自动创建收件箱和日历中的摘要卡。 [详细信息](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
--   **编辑器：** 提供高级、 上下文校对帮助改善之一的编写。 [详细信息](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **针对附件开展实时协作：** 将附件上载到 OneDrive for Business，允许所有人使用最新版本。使用附件上的下拉菜单进行上载或保存。
+-   **旅游预订和行程的摘要卡：** 使用收件箱和日历中自动创建的摘要卡验证并跟踪旅游预订以及发送行程。 [更多信息](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
+-   **编辑器：** 提供了高级的上下文校对功能，有助于改进撰写内容。 [详细信息](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   解决问题时右键单击对话附件的附件列表中，, 所有的上下文菜单项是可见的而不是只适用的菜单项。
--   修复其中富文本格式 (RTF) 电子邮件时无法打开收件人发送邮件时使用信息权限管理问题。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复了以下问题：用户在右键单击对话附件列表中的附件时，可以看到所有上下文菜单项，而不是只看到适用的菜单项。
+-   修复了以下问题：收件人无法打开使用信息权限管理予以发送的 RTF 格式电子邮件。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **关闭标题：** 如果幻灯片包含已关闭标题的视频，可以在幻灯片播放标题。
--   **多个音频轨道：** 如果幻灯片包含具有多个音频跟踪的视频，可以在幻灯片播放跟踪。
--   **部分复制：** 复制和粘贴的演示文稿之间的节。
--   **与我共享：** 查看其他人通过转到文件共享与您的文档\>打开\>共享与 me。 [详细信息](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
--   **墨迹重播：** 重播手写向前和向后要隐藏和显示内容、 提供分步说明，或更好地了解他人的想法的流。 [详细信息](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
--   **更好的录制：** 创建构成录制幻灯片，屏幕录像和插入的视频，演示文稿，然后共享远程查看该录制的内容。 您还可以嵌入测验帮助远程学习和使您的演示文稿以及更改更多交互式墨迹颜色和使用简单控件添加到记录旁白和音频。
--   **设计器改进：** 提供了以下设计建议为项目符号过程列表使用 SmartArt。
--   **录制功能区选项卡：** 通过自定义功能区中添加一个录制选项卡。
--   **更改颜色：** 使用告诉我设置字体、 突出显示、 形状填充和更多的颜色。 [详细信息](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
--   **缩放 （英文):** 使用自动导航链接创建您的演示文稿交互式摘要。 [详细信息](https://support.office.com/article/9d6c58cd-2125-4d29-86b1-0097c7dc47d7)
--   **打开超链接：** 使用 CTRL + 单击编辑演示文稿时打开超链接。
--   **文本突出显示：** 使用文本荧光笔绘制注意重要的文本。
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **隐藏式字幕：** 如果幻灯片中的视频包含隐藏式字幕，可在幻灯片中播放这些字幕。
+-   **多音轨：** 如果幻灯片中的视频包含多音轨，可在幻灯片中播放这些音轨。
+-   **节复制：** 复制并粘贴演示文稿节。
+-   **与我共享的内容：** 依次转到“文件”\>“打开”\>“与我共享的内容”，查看其他人与你共享的文档。 [详细信息](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
+-   **墨迹重播：** 可以向前和向后重播手写内容以隐藏和显示内容，也可以提供分步说明或更好地理解其他人的思路。 [详细信息](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+-   **优化录制：** 可以使用录制好的幻灯片、屏幕录像和插入的视频创建演示文稿，然后分享这些录制的内容以进行远程查看。另外，也可以在其中嵌入问卷，帮助远程学习，让你的演示文稿更具交互性，还可以更改墨迹颜色并使用更简单的控件来录制旁白和音频。
+-   **设计器改进：** 提供了针对加点符的流程列表使用 SmartArt 的设计建议。
+-   **录制功能区选项卡：** 通过自定义功能区添加“录制”选项卡。
+-   **更改颜色：** 使用“操作说明搜索”来设置字体、突出显示、形状填充等的颜色。 [详细信息](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
+-   **缩放：** 创建带有自动导航链接的演示文稿交互式摘要。 [更多信息](https://support.office.com/article/9d6c58cd-2125-4d29-86b1-0097c7dc47d7)
+-   **打开超链接：** 使用 CTRL+单击，在编辑演示文稿时打开超链接。
+-   **文本突出显示：** 使用文本荧光笔突出显示重要文本。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   其中时裁剪图像, 的裁剪的图像部分显示深修复问题。
--   其中，当运行时在幻灯片放映模式和讲述人中，当用户单击超链接和站点上的 PowerPoint 崩溃太慢加载修复问题。
--   解决问题其中实时键入当 coauthoring 表不起作用。
--   修复已安装的 Malwarebytes 3.0 的计算机上打开 PowerPoint 时, 出现"已停止工作"错误或 PowerPoint 崩溃的位置，问题。
--   解决问题的默认模板不在文件下的显示位置\>新建。
--   解决问题，其中键入文本是中断，延迟具有嵌入字体的文件时自动保存。
--   与从 Adobe Illustrator 复制可缩放的向量图形 (SVG) 图像修复问题。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了以下问题：裁剪图像时，图像的裁剪部分看上去较暗。
+-   修复了以下问题：在幻灯片放映模式下，当“讲述人”正在运行时，如果用户单击超链接，PowerPoint 会发生故障，且网站加载缓慢。
+-   修复了以下问题：共同创作时，实时键入对表不起作用。
+-   修复了以下问题：在安装了 Malwarebytes 3.0 的计算机上打开 PowerPoint 时，看到“已停止运行”错误消息，或 PowerPoint 发生故障。
+-   修复了以下问题：“文件”\>“新建”下未显示默认模板。
+-   修复了以下问题：当包含嵌入字体的文件自动保存时，文本键入发生中断和延迟。
+-   修复了以下问题：无法从 Adobe Illustrator 复制可缩放的矢量图形 (SVG) 图像。
 
-### <a name="project-feature-updates"></a>项目： 功能更新
--   **Locked 字段：** 将值设置为是以防止工作组成员提交任务更新。
--   **时间线标签：** 通过使用标签为其提供描述性名称区分日程表栏。
--   **日程表进度指示器：** 使用复选标记，并且彩色中时间线视图，显示进展进度栏已与每个任务。
--   **辅助功能改进：** 使用键盘，讲述人和其他辅助技术来读取和编辑项目的改进的支持。
+### <a name="project-feature-updates"></a>Project：功能更新
+-   **锁定的字段：** 将值设为“是”可禁止团队成员提交任务更新。
+-   **日程表标签：** 使用标签为日程表条形图指定描述性名称，从而区分它们。
+-   **日程表进度指示器：** 在日程表视图中使用复选标记和彩色进度栏，显示每个任务的进度。
+-   **辅助功能改进：** 改进了支持，可以更好地使用键盘、讲述人和其他辅助技术阅读和编辑项目。
 
-### <a name="project-non-security-updates"></a>项目： 非安全更新
--   解决问题创建主项目和子项目之间的跨项目链接时没有链接线的显示位置。
--   解决问题，其中按时间分段比较基准值不会始终正确保存为 XML 格式，尤其是工作和成本包括部分持续时间的值。
--   其中，当应用状态更新，实际工时将添加到的工作分配的工作组成员未报告修复问题。
--   比较基准值的显示位置资源，资源尚未创建一个比较基准的情况下，即使修复问题。
--   打印预览其中剪辑文本，以便文本不可见的情况下解决问题。
--   解决问题其中，打开时的.mpp 文件从 sharepoint 网站使用快捷方式 URL，该文件以打开已签出，即使设置"需要签出其可以编辑文档？" 已启用。
--   从 Project Web Apps 更新材料资源不正确更改时间分段数据的情况下解决问题。
--   解决问题其中打开具有里程碑任务的项目可能的实际开始日期向其添加即使它没有在上次保存时的时间的日期。
--   与工作细分结构 (WBS) 重新编号修复问题。
--   解决问题，其中 Project 崩溃基于网格视图切换时，讲述人是上。
--   打开 XML 文件时，按时间分段数据截断有关显示不正确的错误消息是其中修复问题。
--   解决问题在其中保存比较基准不正确设置时间分段的值。
--   从 XML 文件中读取 project 数据时工作分配延迟，则忽略其中修复问题。
--   其中，当从 Project Online 中打开文件，而不是时区的 UTC 时间上次修改时间日期显示调整时间修复问题。
--   解决问题其中分组色带打印工作表视图中时不显示非分组行。
--   其中修复选项不正确时显示用户检查任务具有工作分配超过最大单位问题修复问题。
--   修复后发布项目大纲代码字段的值不能更改其中的问题。
--   其中甘特条形图不正确调整大小 175%显示在高 DPI 屏幕上修复问题。
--   解决问题，如果用户通过任务信息对话框设置延迟时间，它不正确设置为 24 小时制的工期。
--   其中时打开任务开始日期的某些 XML 文件，不正确设置由于工作分配的问题修复问题。
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了以下问题：在主项目与子项目之间创建跨项目链接时看不到链接线。
+-   修复了以下问题：时间分段基线值不能始终正确地保存为 XML 格式，尤其是包含部分工期的工时值和成本值。
+-   修复了以下问题：应用状态更新后，实际工时会添加到团队成员未报告的工作分配中。
+-   修复了以下问题：系统会显示资源的基线值，即使尚未为资源创建基线，也会显示。
+-   修复了以下问题：打印预览会剪切文本，导致文本不可见。
+-   修复了以下问题：使用快捷方式 URL 从 SharePoint 打开 .mpp 文件时，文件以已签出的形式打开，即使启用了“是否必须先签出文档，然后才能进行编辑?”设置，也是如此。
+-   修复了以下问题：更新 Project Web App 中的材料资源会不正确地更改时间分段数据。
+-   修复了以下问题：打开包含里程碑任务的项目会将实际开始日期添加到项目中，即使项目在上次保存时还没有日期，也是如此。
+-   修复了以下问题：工作分解结构 (WBS) 重新编号故障。
+-   修复了以下问题：当“讲述人”正在运行时，如果用户从基于网格的视图切换到其他视图，Project 发生故障。
+-   修复了以下问题：用户打开 XML 文件时，看到的时间分段数据截断错误消息不正确。
+-   修复了以下问题：保存基线并未正确设置时间分段值。
+-   修复了以下问题：从 XML 文件读取项目数据时，忽略工作分配延迟。
+-   修复了以下问题：当用户使用 Project Online 打开文件时，看到“上次修改日期”显示的是 UTC 时间，而不是时区调整后的时间。
+-   修复了以下问题：打印表视图时，没有看到非分组行的分组色带。
+-   修复了以下问题：当用户检查存在分配超出最大单位问题的任务时，修复选项没有正确显示。
+-   修复了以下问题：发布项目后无法更改“大纲代码”字段值。
+-   修复了以下问题：甘特条在显示比例为 175% 的高 DPI 屏幕上无法以正确大小显示。
+-   修复了以下问题：如果用户通过“任务信息”对话框设置延隔时间，延隔时间会设置为错误的 24 小时制工期。
+-   修复了以下问题：在打开某些 XML 文件时，由于工作分配存在问题，无法正确设置任务开始日期。
 
-### <a name="skype-for-business-feature-updates"></a>Skype for Business： 功能更新
--   **Windows 通知样式：** 更改的传入呼叫和对话通知的外观。 [详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **咨询转接：** 从内呼叫，请咨询通过 IM 或呼叫之前将呼叫转接到该用户的另一个用户。 [详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
--   **麦克风通知：** 麦克风静音操作系统中时，或者如果麦克风不拿任何音频，请在对话窗口中显示通知。
--   **禁用"我的号码":** 使用 DisableDisplayMyNumber 注册表项禁用"我的号码"拨号盘下。
+### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
+-   **Windows 通知样式：** 更改了传入呼叫和对话的通知外观。 [更多信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
+-   **咨询转接：** 从内呼叫，请咨询通过 IM 或呼叫之前将呼叫转接到该用户的另一个用户。[详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **麦克风通知：** 当操作系统中的麦克风静音或麦克风不拾音时，在对话窗口中显示通知。
+-   **禁用“我的号码”：** 使用 DisableDisplayMyNumber 注册表项禁止在拨号盘下显示“我的号码”。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   更改用于允许或拒绝参与者从文本图像 （X 或一个复选标记） 的会议厅按钮。
--   更改会议提醒通知文本"Accept"从"加入"。
--   更新收件人的状态设置为请勿打扰时，向 IM 发件人显示的消息。
--   更新时接收人处于脱机状态和"保存到历史记录"被禁用，以使其清除的发件人的即时消息，向显示邮件收件人不会收到消息。
--   添加的聊天历史记录和群聊中的名单之间移动的垂直拆分条的功能。
--   添加的功能来调整大小的即时消息或聊天室窗口中的选项卡列表。
--   添加选择聊天室时创建主题源搜索的功能。
--   修复其中消息停止聊天历史记录中端对话中出现问题。
--   解决问题： 在对话窗口中出现重复的邮件。
--   解决问题 （接受和忽略） 的吐司通知操作不会正确显示期间较大的通知。
--   解决问题用户不能在其中键入一条消息后使用 Alt + Tab 打开一个最小化的对话窗口。
--   解决问题其中 IM 按钮为灰显状态在联系人卡片中的用户，即使 IM 是可用。
--   解决问题，多个对话窗口不回其以前的大小和位置后打开正在关闭并重新打开。
--   其中自定义链接不启动时选择修复问题。
--   修复问题，其中区域字段中的联机会议文本显示不正确的非英语字符。
--   修复其中通知信息，如呼叫持续时间不正确呈现从右到左语言的问题。
--   其中时创建主题源，清除搜索结果不重置结果的关注的房间列表修复问题。
--   修复其中 for Business 的 Skype 挂起同时打开多个对话窗口时的问题。
--   解决问题一旦关闭其他所有选项卡最后一个对话窗口，显示为空白。
--   解决问题其中默认焦点时不在聊天输入区域选项卡式的对话都将被禁用。
--   解决问题其中"忘记了您的电话拨入 PIN？" 会议邀请中不显示链接。
--   时使用高 DPI 屏幕显示 175%或更高，其中一些文本是剪裁，截断问题修复常规和音频设备页面上。
--   解决问题时挂起的计算机或将其恢复时没有网络和计算机是"always on，始终连接 (AOAC)"的计算机的业务的 Skype 崩溃，其中。
--   修复任何麦克风检测到发生调用中使用 Polycom CX100 设备时的问题。
--   解决问题其中选择一个链接，如\\ \\servername 或 IM 消息中的 file:// 生成一条错误消息，而不是打开位置。
--   解决问题，使用基于位置的路由，其中用户不能发起或接收 PSTN 呼叫，因为服务器认为用户的位置不是有效的 PSTN 呼叫的虚拟桌面基础结构 (VDI) 环境中。
--   更改时从用户的状态设置为请勿打扰或演示时，对于错过消息，发送的电子邮件的主题行"错过的与对话\<名称\>"目标"\<名称\>for Business 的 Skype 在向您发送一条消息。"
--   启动捕获[统计数据](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices)来帮助标识登录可靠性趋势的一部分的第一次登录设备上的时间戳。
--   解决问题共享辅助监视器的选项与窗口 10 版本 1607 （也称为周年日更新） 上的特定监视器配置不出现的位置。
--   解决问题其中 Skype 对业务崩溃如果放大共享内容，如果共享者使用第三方 RDP 的实现。
--   解决问题时用户单击控件按钮中虚拟桌面基础结构 (VDI) 环境中的音频呼叫的音频控件面板不显示的位置。
--   解决问题，查看者看到黑屏时用户正在运行 Windows 7 和首先，共享主要监视器，然后切换共享第二个监视器。
--   解决问题其中某些特殊字符，例如与号 (&)，不能在搜索输入的框或"今天的最新动态？"中输入 部分的框。
--   修复的问题时有未读的计数不显示其中错过脱机 Im。
--   "通过电子邮件邀请"模板其中提到而不是 Skype Lync 修复问题。
--   修复问题，其中的行号是缺少从拨号盘下的"我的号码"区域。
--   其中鼠标指针不显示在 IM 输入区域中发送邮件中聊天后修复问题。
--   解决问题，其中 for Business 的 Skype 挂起时登录，并且没有问题加载缓存池。
--   其中 for Business 的 Skype 崩溃时登录并还原对话的情况下解决问题。
--   其中 for Business 的 Skype 挂起恢复后在登录后修复问题。
--   如果两个组织中的 Exchange 服务器禁用 TNEF 会议链接禁用的情况下解决问题。
--   如果没有事只有一个 IM 对话，则不能重新视频呼叫的情况下解决问题。
--   解决问题时将白板另存为 PNG 文件在白板上的文本注释其中会丢失。
--   解决问题时输入中日语 IM 窗口中的跨两行的第一行其中隐藏。
--   解决问题其中 & 字符 (&) 不正确替换为下划线字符名称中。
--   与计划的会议中的"加入联机会议"URL 修复问题。
--   解决问题其中鼠标悬停在窗口不激活窗口即使操作系统被配置为执行的操作。
--   其中传出呼叫对话历史记录项显示呼叫者而不是呼叫方修复问题。
--   F12 键不本地保存对话的情况下解决问题。
--   解决问题的错过的对话电子邮件其中不包含初始 IM。
--   解决问题 emoji 可以在其中添加 IM 文本区域中即使演示者已禁用 IM 参与。
--   与铃声和声音选项对话框的版式修复问题。
--   解决问题 for Business 的 Skype 其中崩溃时关闭对话窗口。
--   解决问题时作为虚域注册域 DNS 小于登录失败的位置。
--   解决问题，其中持久聊天通知设置不会被保存或无法正确加载。
--   其中现有的对等对话窗口或聊天室不显示登录，即使已设置的设置，以重新打开对话后修复问题。
--   解决问题其中调节到静音或 unmuting 活动对话使其他对话窗口中显示就好像他们有未读的邮件。
--   解决问题其中媒体绕过配置的用户将无法继续呼叫来自 PSTN 网关之后该呼叫置于保持状态。
--   修复其中用户看到一个蓝色框而不是视频时使用第三方的 RDP 实现加入通过 URL 会议时的问题。
--   解决问题的用户的 SIP 地址一部分而不吐司通知的显示名称的显示位置。
--   解决问题，其中，当 Skype for Business 连接至 SIP 服务器通过端口 443 和代理服务器 is present、 有登录过程中是较长的延迟，如果代理不允许这样的连接。 通过添加下 HKEY EnableDetectProxyForAllConnections DWORD 注册表项启用 fix\_当前\_用户\\软件\\Microsoft\\UCCPlatform\\Lync，并将值设置为 1。
--   其中，当使用选项卡式的对话，双击选项卡上，并开始键入有时会导致焦点移至不同的选项卡，并继续该对话窗口中键入修复问题。
--   修复问题，其中包括即时消息中的 Url 不能选择聊天历史记录窗口中使用键盘。
--   如果铃声和声音选项下选择"查看 IM 对话和人正在键入时播放声音"复选框，则应听到键入声音修复问题。
--   使用屏幕阅读器，如讲述人时显示的对话框不宣布其中修复问题。
--   解决问题，其中第一台运行本教程不能使用键盘来导航和无法读取由屏幕阅读器，如讲述人。
--   在高 DPI 设置缩放任务栏状态图标不其中修复问题。
--   不能在搜索框中的清除字段按钮选择使用键盘修复问题。
--   解决问题，用户无法启动会议，如果 invite 来自另一个池中的用户。
--   解决问题，用户将自己添加到会议错误地显示为其他用户。
--   其中状态更改通知上的联系人的状态图标已隐藏的传入呼叫的老板修复问题。
--   修复 IM 窗口中的文本光标闪烁速率不符键盘属性设置在 Windows 中的问题。
--   解决问题屏幕阅读器宣布组对话中的联系人名称不正确的位置。
--   解决问题，用户不能选择多个联系人使用键盘。
--   无法从 Exchange 中检索用户照片修复问题。
--   解决问题其中 Skype 业务客户端连接到 Skype 业务服务器在内部网络中，而不是一个在外部网络中，当用户连接使用直接访问。
--   解决问题其中 Skype 业务客户端崩溃时尝试解决会议所有者的名称。
--   其中更改 Windows 设置 for Business 的 Skype 启动时或关机的情况下会导致 for Business 崩溃的 Skype 修复问题。
--   解决问题 for Business 的 Skype 其中崩溃时打开持久聊天室中的参与者列表并尝试移动键盘焦点移至参与者列表中。
--   其中 for Business 的 Skype 崩溃在恢复时没有网络可修复问题。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   将用来允许或拒绝参与者的介绍按钮从文本更改为图像（X 或选中标记）。
+-   将会议提醒通知文本从“接受”更改为“加入”。
+-   更新了 IM 发件人在收件人的状态设置为“请勿打扰”时看到的消息。
+-   更新了 IM 发件人在收件人处于脱机状态且已禁用“保存到历史记录”时看到的消息，以明确指出收件人不会收到消息。
+-   新增以下功能：移动组聊天的聊天历史记录和名单之间的垂直拆分栏。
+-   新增以下功能：在 IM 或聊天室窗口中调整选项卡列表的大小。
+-   新增以下功能：在创建主题源时选择搜索到的聊天室。
+-   修复了以下问题：在对话中途，在聊天历史记录中看不到消息。
+-   修复了以下问题：对话窗口显示重复消息。
+-   修复了以下问题：在有大量通知的情况下，toast 通知操作（“接受”和“忽略”）不会正确显示。
+-   修复了以下问题：使用 Alt+Tab 打开最小化的对话窗口后，用户无法键入消息。
+-   修复了以下问题：IM 按钮在用户的联系人卡片中灰显，即使可发送 IM，也是如此。
+-   修复了以下问题：多个对话窗口在关闭并重新打开后无法恢复之前的大小和位置。
+-   修复了以下问题：选择自定义链接后无法启动。
+-   修复了以下问题：“地区”字段中的非英语字符联机会议文本无法正确显示。
+-   修复了以下问题：若为从右到左书写的语言，呼叫持续时间等通知信息无法正确呈现。
+-   修复了以下问题：创建主题源时，清除搜索结果不会将结果重置为访问过的聊天室列表。
+-   修复了以下问题：同时打开多个对话窗口时，Skype for Business 挂起。
+-   修复了以下问题：关闭其他所有选项卡后，最后一个对话窗口变为空白。
+-   修复了以下问题：禁用选项卡式对话后，默认焦点不在聊天输入区域中。
+-   修复了以下问题：会议邀请中没有显示“忘记了你的拨入 PIN?”链接。
+-   修复了以下问题：当用户使用显示比例为 175% 或更高比例的高 DPI 屏幕时，“常规和音频设备”页面上的某些文本遭到剪切和截断。
+-   修复了以下问题：当“始终开机，始终联网 (AOAC)”计算机因无法访问网络而暂停或恢复时，Skype for Busines 发生故障。
+-   修复了以下问题：如果使用 Polycom CX100 设备，通话时检测不到麦克风。
+-   修复了以下问题：在 IM 消息中单击 \\\\servername 或 file:// 等链接会看到错误消息，而不是打开相应的位置。
+-   修复了以下问题：在使用基于位置的路由的虚拟桌面基础结构 (VDI) 环境中，用户无法拨打或接听 PSTN 呼叫，因为服务器认为用户的位置对 PSTN 呼叫无效。
+-   将提醒状态设置为“请勿打搅”或“正在演示”的用户有未阅读消息的电子邮件的主题行从“错过与 \<name\> 的对话”更改为“\<Name\> 在 Skype for Business 中向你发送了消息”。
+-   开始在设备上捕获首次登录的时间戳作为 [统计数据的](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 一部分，以帮助确定登录可靠性趋势。
+-   修复了以下问题：在 Window 10 版本 1607（亦称为“周年更新”）上，用于共享辅助监视器的选项没有与特定的监视器配置一起显示。
+-   修复了以下问题：如果共享者使用第三方 RDP 实现，Skype for Business 在放大共享内容时发生故障。
+-   修复了以下问题：用户在虚拟桌面基础结构 (VDI) 环境中单击音频呼叫控件按钮后未看到“音频控件”面板。
+-   修复了以下问题：当运行 Windows 7 的用户先共享主监视器，然后切换共享另一台监视器时，出现黑屏。
+-   修复了以下问题：无法在搜索输入框或“今天有什么新鲜事?”部分框中输入某些特殊字符（如 & 号）。
+-   修复了以下问题：无法在有未读脱机 IM 时显示未读计数。
+-   修复了以下问题：“通过电子邮件邀请”模板提到的是 Lync，而不是 Skype。
+-   修复了以下问题：拨号盘下方的“我的号码”区域中缺少行号。
+-   修复了以下问题：发送聊天消息后，在 IM 输入区域中看不到鼠标指针。
+-   修复了以下问题：登录时，Skype for Business 挂起，无法加载缓存池。
+-   修复了以下问题：登录和还原对话时，Skype for Business 发生故障。
+-   修复了以下问题：在恢复后登录时，Skype for Business 挂起。
+-   修复了以下问题：如果两个组织的 Exchange 服务器均禁用 TNEF，会议链接也遭禁用。
+-   修复了以下问题：无法在只有一个 IM 对话的情况下重启视频呼叫。
+-   修复了以下问题：将白板另存为 PNG 文件时，丢失白板上的文本注释。
+-   修复了以下问题：在 IM 窗口中使用日语输入超过两行时，第一行被隐藏。
+-   修复了以下问题：名称中的 & 号字符被错误地替换为下划线字符。
+-   修复了预定的会议中的“加入联机会议”URL 存在的问题。
+-   修复了以下问题：无法通过在窗口上悬停鼠标来激活窗口，即使操作系统已进行了这样的配置，也是如此。
+-   修复了以下问题：传出呼叫对话历史记录项显示呼叫方，而不是被叫方。
+-   修复了以下问题：按 F12 无法在本地保存对话。
+-   修复了以下问题：未读的对话电子邮件不包含初始 IM。
+-   修复了以下问题：即使演示者已禁用 IM 参与，仍可以在 IM 文本区域中添加表情符号。
+-   修复了“铃声和声音”选项对话框布局存在的问题。
+-   修复了以下问题：关闭对话窗口时，Skype for Business 发生故障。
+-   修复了以下问题：如果域注册为虚域，免 DNS 登录失败。
+-   修复了以下问题：无法正确保存或加载持久聊天通知设置。
+-   修复了以下问题：登录后看不到现有对等对话窗口或聊天室，即使已设置重新打开对话，也是如此。
+-   修复了以下问题：静音或取消静音当前对话导致其他对话窗口显示，就像有未读消息一样。
+-   修复了以下问题：配置了媒体旁路的用户在将通话处于暂候状态后无法通过 PSTN 网关恢复通话。
+-   修复了以下问题：使用 RDP 第三方实现时，用户在通过 URL 加入会议时看到的是蓝色框，而不是视频。
+-   修复了以下问题：toast 警报中显示的是 SIP 地址的用户部分，而不是显示名称。
+-   修复了以下问题：当 Skype for Business 通过端口 443 连接到 SIP 服务器且存在代理服务器时，如果代理不允许此类连接，登录过程会明显延迟。通过在 HKEY\_CURRENT\_USER\\Software\\Microsoft\\UCCPlatform\\Lync 下添加 EnableDetectProxyForAllConnections DWORD 注册表项，并将值设置为 1，可以启用修复程序。
+-   修复了以下问题：使用选项卡式对话时，如果双击选项卡并开始键入内容，有时会导致焦点移至其他选项卡，但却继续在对话窗口中键入内容。
+-   修复了以下问题：无法在聊天历史记录窗口中使用键盘选择即时消息中的 URL。
+-   修复了选中“铃声”和“声音”选项下的“查看 IM 对话及键入时播放声音”复选框后，应可以听到键入声音的问题。
+-   修复了使用屏幕阅读器（例如 Narrator）时，显示的对话框不通知的问题。
+-   修复了第一个运行的教程无法用键盘导航、无法通过屏幕阅读器（例如 Narrator）读取的问题。
+-   修复了任务栏状态图标无法在高 DPI 设置中进行缩放的问题。
+-   修复了无法使用键盘选择搜索框中的“清除字段”按钮的问题。
+-   修复了邀请来自另一个池中的用户时，用户无法启动会议的问题。
+-   修复了用户将自己添加到会议时，错误地显示为其他用户的问题。
+-   修复了状态更改通知上的联系人状态图标在进行老板的传入呼叫时会隐藏的问题。
+-   修复了即时消息窗口中的文本光标闪烁频率与 Windows 中的键盘属性设置不匹配的问题。
+-   修复了屏幕阅读器通知组对话的错误的联系人名称的问题。
+-   修复了用户使用键盘无法选择多个联系人的问题。
+-   修复了无法从 Exchange 中检索用户照片的问题。
+-   修复了用户使用直接访问进行连接时，Skype for Business 客户端连接到内部网络上的 Skype for Business Server 而不是外部网络的问题。
+-   修复了尝试解析会议所有者的名称时，Skype for Business 客户端崩溃的问题。
+-   修复了 Skype for Business 启动或关闭导致 Skype for Business 崩溃的同时，Windows 设置会更改的问题。
+-   修复了以下问题：打开持久聊天室中的参与者列表并尝试将键盘焦点移至参与者列表时，Skype for Business 发生故障。
+-   修复了以下问题：Skype for Business 在无法连接网络时发生故障，无法继续运行。
 
-### <a name="visio-feature-updates"></a>Visio： 功能更新
--   **数据库建模加载项：** 使用外接程序创建的现有数据库以帮助规划新的数据库或了解一个现有数据库模型。 [详细信息](https://support.office.com/article/fb034862-acfc-45bc-88b2-f33d1e1f8614)，[下载外接程序](https://go.microsoft.com/fwlink/p/?linkid=835953)
--   **辅助功能改进：** 改进了对使用键盘、 讲述人和其他辅助技术来处理形状，支持编辑与其他人，等。
--   **第三方模板和图表：** 浏览或新模板和示例图表可从选择第三方内容提供搜索。 缩略图上列出的第三方提供程序的名称。
--   **墨迹支持：** 使用笔或手指以绘制和注释与新的绘制选项卡上的工具。
+### <a name="visio-feature-updates"></a>Visio：功能更新
+-   **数据库建模外接程序：** 使用外接程序创建现有数据库的数据库模型，以帮助规划新数据库或了解现有数据库。 [更多信息](https://support.office.com/article/fb034862-acfc-45bc-88b2-f33d1e1f8614), [下载外接程序](https://go.microsoft.com/fwlink/p/?linkid=835953)
+-   **辅助功能改进：** 改进了对键盘、讲述人和其他辅助技术的支持，方便用户处理图形、与他人协同编辑等。
+-   **第三方模板和关系图：** 浏览或搜索精选第三方内容提供商提供的新模板和示例图表。缩略图上列出了第三方提供商的名称。
+-   **墨迹书写支持：** 使用触笔或手指进行绘画，并使用新的“绘制”选项卡上的工具进行注释。
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **辅助功能改进：** 使用键盘，讲述人和其他辅助技术来读取和编辑文档的改进的支持。 [详细信息](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
--   **编辑器：** 提供高级、 上下文校对帮助改善之一的编写。 [详细信息](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
--   **墨迹重播：** 转到绘制\>墨迹重播重播手写向前和向后隐藏和显示内容，提供分步说明，或更好地了解他人的想法的流。 [详细信息](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
--   **使用自然笔势编辑：** 通过按旋转选择和交叉删除对文档进行更改。 [详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
--   **与我共享：** 查看其他人通过转到文件共享与您的文档\>打开\>共享与 me。 [详细信息](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
--   **更改颜色：** 使用告诉我设置字体、 突出显示、 形状填充和更多的颜色。 [详细信息](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **辅助功能改进：** 改进了支持，可以更好地使用键盘、讲述人和其他辅助技术阅读和编辑文档。 [详细信息](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
+-   **编辑器：** 提供了高级的上下文校对功能，有助于改进撰写内容。 [详细信息](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+-   **墨迹重播：** 依次转到“绘图”\>“墨迹重播”，可以向前和向后重播手写内容以隐藏和显示内容，也可以提供分步说明或更好地理解其他人的思路。 [更多信息](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+-   **用自然笔势进行编辑：** 通过画圈选择内容，以及通过划删除线删除内容，对文档进行更改。 [更多信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+-   **与我共享的内容：** 依次转到“文件”\>“打开”\>“与我共享的内容”，查看其他人与你共享的文档。 [详细信息](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
+-   **更改颜色：** 使用“操作说明搜索”来设置字体、突出显示、形状填充等的颜色。 [更多信息](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   修复问题，其中在阅读模式中查看一个文档阻止从正在查看的打印布局中的第二个文档中使用的 TAB 键。
--   Word 其中崩溃时加载多个语法库修复问题。
--   绘制的笔画其中消失后两个或三个笔画修复问题。
--   用引号引起来消失时使用 Google 输入法编辑器 (IME) 中修复问题。
--   解决问题，用户不能使用墨迹内容控件或进行连续的选择时。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了以下问题：在阅读模式下查看一个文档导致在页面视图中查看第二个文档时无法使用 TAB 键。
+-   修复了以下问题：加载多个语法库时 Word 发生故障。
+-   修复了以下问题：在绘制两个或三个笔划后，墨迹笔划消失。
+-   修复了以下问题：使用 Google 输入法编辑器 (IME) 时，引号消失。
+-   修复了以下问题：用户无法在有内容控件或进行非连续选择的情况下使用墨迹书写功能。
 
-### <a name="office-suite-feature-updates"></a>Office 套件： 功能更新
--   **提供反馈：** 建议新功能或告知 Microsoft 您喜欢或什么不起作用，转到文件\>的反馈
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+-   **提供反馈：** 依次转到“文件”\>“反馈”，提出新功能建议，或告诉 Microsoft 你喜欢的功能或无法使用的功能
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   Microsoft 安全公告[MS16 148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office (3204068) 的安全更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   解决问题其中德语键盘上使用 CTRL + ALT + 7 或 CTRL + ALT + 8 打开用户反馈工具，而不是插入相应字符。
--   其中 TraceLogging 使崩溃上安装或更新 Office 时的 Windows 7 修复问题。
--   其中，当使用墨迹绘图和使用鼠标释放鼠标按钮导致墨迹以 shift 稍微修复问题。
--   其中，Office 文档中插入 SVG 图像之后, SVG 图像将消失保存和重新打开文档时的情况下解决问题。
--   解决问题 Office 其中在非英语用户的激活过程中显示以下错误消息:"产品密钥的最大长度是 25 个字符。"
--   使用 VBA 表单会导致要停止运行或无法正确显示的帧 z-顺序的修复问题。
--   触发 System Center Configuration Manager 更新注册表中的 UpdateChannel 设置更改为不是有效的更新通道修复问题。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了以下问题：在德国键盘上按 CTRL+ALT+7 或 CTRL+ALT+8 会打开用户反馈工具，而不是插入相应的字符。
+-   修复了以下问题：安装或更新 Office 时，TraceLogging 导致 Windows 7 发生故障。
+-   修复了以下问题：使用墨迹绘图时，按住并释放鼠标按钮导致墨迹轻微移动。
+-   修复了以下问题：在 Office 文档中插入 SVG 图像后，SVG 图像在文档保存和重新打开后消失。
+-   修复了以下问题：针对非英语用户激活期间，Office 显示以下错误消息：“产品密钥的长度上限为 25 个字符。”
+-   修复了以下问题：使用 VBA 窗体可能会导致框架的 z 顺序无法正常运行或显示。
+-   修复了以下问题：System Center Configuration Manager 触发的更新将注册表中的 UpdateChannel 设置更改为无效的更新频道设置。
 
 
 
@@ -918,17 +918,17 @@ ms.locfileid: "19555922"
 
 注意： 在 Microsoft 安全公告[MS17 002](https://technet.microsoft.com/library/security/ms17-002)中介绍的安全更新不应用于此通道版本中的 Word 版本。
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   解决问题，使用编辑度量值对话框使 Excel 崩溃。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了以下问题：使用“编辑度量值”对话框导致 Excel 发生故障。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   其中使用形状有时会导致 PowerPoint 崩溃修复问题。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了以下问题：使用形状有时会导致 PowerPoint 发生故障。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   解决问题共享辅助监视器的选项与窗口 10 版本 1607 （也称为周年日更新） 上的特定监视器配置不出现的位置。
--   解决问题其中 Skype 对业务崩溃如果放大共享内容，如果共享者使用第三方 RDP 的实现。
--   解决问题，其中，当 Skype for Business 连接至 SIP 服务器通过端口 443 和代理服务器 is present、 有登录过程中是较长的延迟，如果代理不允许这样的连接。 通过添加下 HKEY EnableDetectProxyForAllConnections DWORD 注册表项启用 fix\_当前\_用户\\软件\\Microsoft\\UCCPlatform\\Lync，并将值设置为 1。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   修复了以下问题：在 Window 10 版本 1607（亦称为“周年更新”）上，用于共享辅助监视器的选项没有与特定的监视器配置一起显示。
+-   修复了以下问题：如果共享者使用第三方 RDP 实现，Skype for Business 在放大共享内容时发生故障。
+-   修复了以下问题：当 Skype for Business 通过端口 443 连接到 SIP 服务器且存在代理服务器时，如果代理不允许此类连接，登录过程会明显延迟。通过在 HKEY\_CURRENT\_USER\\Software\\Microsoft\\UCCPlatform\\Lync 下添加 EnableDetectProxyForAllConnections DWORD 注册表项，并将值设置为 1，可以启用修复程序。
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   其中，使用 InsertXML 方法时，则断开的图片链接的占位符显示而不是实际的图像修复问题。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了以下问题：使用 InsertXML 方法时，显示的是断开的图片链接占位符，而不是实际图像。
 

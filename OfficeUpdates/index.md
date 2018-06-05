@@ -46,7 +46,7 @@ Office 产品，包括 Office 365 ProPlus，Office mac 版，获取有关功能�
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office mac 版</h3>
+                        <h3>Office for Mac</h3>
                         <p><a href="release-notes-office-for-mac.md">发行说明</a></p>
                         <p><a href="update-history-office-for-mac.md">更新历史记录</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">MAU 版本</a></p>
@@ -110,7 +110,7 @@ Office 产品，包括 Office 365 ProPlus，Office mac 版，获取有关功能�
                 <div class="card">
                     <div class="cardText">
                         <h3>Microsoft 资源</h3>
-                            <p><a href="https://www.microsoft.com/itpro/windows-10/release-information">Windows 10 版本信息</a></p>
+                            <p><a href="https://www.microsoft.com/itpro/windows-10/release-information">Windows 10 发布信息</a></p>
                             <p><a href="https://support.microsoft.com/lifecycle">Microsoft 生命周期策略</a></p>
                             <p><a href="https://portal.msrc.microsoft.com/">Microsoft 安全更新指南</a></p>
                             <p><a href="https://techcommunity.microsoft.com/">Microsoft 技术社区</a></p>

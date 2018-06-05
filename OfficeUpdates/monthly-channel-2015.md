@@ -29,240 +29,240 @@ ms.locfileid: "19555918"
 ## <a name="version-1511-december-11"></a>版本 1511年： 年 12 月 11
 *版本 1511 （构建 6366.2036）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
+### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **BI 模板：** 利用商业智能 (BI) 功能的 Excel 的三个新模板：[日历见解](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)，[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)，[我现金流](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   其中拖动断行为长日期数字的单元格的填充柄崩溃使 Excel 修复问题。
--   解决问题其中的数据连接创建数据透视表或数据透视图，并放到新工作表导致 Excel 崩溃。
--   修复其中的数据透视图筛选器按钮不可见的未筛选的基础数据透视表字段时的问题。
--   解决问题时保存个人隐藏的宏工作簿时之前关闭 Excel 数据模型其中会丢失。
--   解决问题其中编辑与在早期版本的 Excel 2016 treemap 图表工作表不是在创建它使 treemap 图表丢失其数据。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   修复了拖动格式为使用数字作为长日期的单元格的填充手柄导致 Excel 崩溃的问题。
+-   修复从数据连接创建数据透视表或数据透视图并将其置于新表中导致 Excel 崩溃的问题。
+-   修复当未对基础数据透视表字段进行筛选时数据透视图的筛选按钮不可见的问题。
+-   修复当存在隐藏的私人宏工作簿时，在保存之前关闭 Excel 导致数据模型丢失的问题。
+-   修复在其创建所在的 Excel 2016 早期版本中使用树图编辑工作表导致树图丢失数据的问题。
 
-### <a name="onenote-feature-updates"></a>OneNote： 功能更新
--   **插入联机视频：** 将 YouTube、 OfficeMix 或 Vimeo 视频嵌入到页。 [详细信息](https://support.office.com/article/0a862f29-665c-43a5-9dd8-68009423cf7c)
+### <a name="onenote-feature-updates"></a>OneNote：功能更新
+-   **插入联机视频：** 将 YouTube、OfficeMix 或 Vimeo 视频嵌入到页面中。 [更多信息](https://support.office.com/article/0a862f29-665c-43a5-9dd8-68009423cf7c)
 
-### <a name="onenote-non-security-updates"></a>OneNote： 非安全更新
--   与 Office 365 企业版解决问题，其中尝试使用与 SharePoint 的 OneNote 将导致错误消息，告知他们必须升级到 Office 的不同版本的用户。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
+-   解决 Office 365 商业版问题，即尝试结合使用 SharePoint 和 OneNote 时会看到错误消息，提示用户需要升级到其他版本的 Office。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **波斯日历：** 添加作为主或备用日历波斯日历。
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **波斯语日历：** 添加波斯日历作为主要或备用日历。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   解决问题其中邮件列表拖动 scrollbar 使该列表以跳转到列表末尾。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复在消息列表中拖动滚动条导致列表跳到末尾的问题。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **变形转换：** 创建幻灯片之间的无缝切换和动画置于演示文稿更有效地传达概念和信息。 [详细信息](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
--   **PowerPoint 设计器：** 允许您采用您的内容并自动生成各种想法可以选择用来使您更好的外观的幻灯片的新服务。 [详细信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **Morph 转换：** 在幻灯片之间创建无缝转换并为演示文稿添加动画功能，以便更有效地传达概念和信息。 [详细信息](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
+-   **PowerPoint 设计器：** 允许您提取内容并自动生成各种想法，使您可从中选择以使您的幻灯片效果更佳的新服务。 [更多信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    此服务需要 Internet 连接。 若要禁用此功能，[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)和启用 PowerPoint 设计器选项设置。 您可以找到用户配置下的此策略设置\\管理模板\\Microsoft Office 2016\\工具 |选项 |常规 |服务选项...\\PowerPoint 设计器。
+    此服务需要 Internet 连接。若要禁用此功能，[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)和启用 PowerPoint 设计器选项设置。您可以找到用户配置下的此策略设置\\管理模板\\Microsoft Office 2016\\工具 |选项 |常规 |服务选项...\\PowerPoint 设计器。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 非安全更新
--   解决问题其中采用动画的 SmartArt 不会显示在幻灯片放映视图与演示者视图预期的顺序。
--   解决问题号码的主要导航无法在幻灯片放映视图。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复带有动画的 SmartArt 在演示者视图中不按预期顺序出现在幻灯片放映视图中的问题。
+-   修复数字键导航在幻灯片放映视图中不起作用的问题。
 
-### <a name="visio-non-security-updates"></a>Visio： 非安全更新
--   在 Visio 中查看 AutoCAD 文件会显示模糊修复问题。
+### <a name="visio-non-security-updates"></a>Visio：非安全更新
+-   修复在 Visio 中查看的 AutoCAD 文件看起来模糊不清的问题。
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   解决问题无法保存到文档库已必需的列的文档的位置。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复文档无法保存在具有所需列的文档库中的问题。
 
-### <a name="office-suite-feature-updates"></a>Office 套件： 功能更新
--   **作为选项发送**： 从 Word 或 PowerPoint 中的共享窗格中发送电子邮件作为附件或为 PDF 文档。
--   **插入图片 API**： 使用常见的 office.js 库中[document.setSelectedDataAsync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)将图像插入到 Word、 Excel 或 PowerPoint。 Word 的 JavaScript API 提供特定于宿主的方法调用 insertInlinePictureFromBase64() 设置[正文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 对象上的嵌入式图片。
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+-   **代理发送选项**：在 Word 或 PowerPoint 中从“共享”窗格将文档作为附件或 PDF 发送。
+-   **插入图片 API**： 使用常见的 office.js 库中[document.setSelectedDataAsync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)将图像插入到 Word、 Excel 或 PowerPoint。Word 的 JavaScript API 提供特定于宿主的方法调用 insertInlinePictureFromBase64() 设置[正文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 对象上的嵌入式图片。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   解决问题的修改日期信息时执行打开或另存为操作显示被截断的位置。
--   解决问题的 SmartArt 图形的文本窗格中双击其中导致应用程序崩溃。
--   其中安装过程中播放视频将一直保留在黑屏它完成后，关闭"安装已完成"对话框之前修复问题。
--   将鼠标悬停在受保护文档中的"受保护的视图"通知其中使该通知以通过很宽滚动按钮遮盖修复问题。
--   其中，计划 Office 更新的通知被截断哈萨克语和匈牙利语修复问题。
--   修复其中固定快捷方式在任务栏上不会删除所有用户手动升级过程中的问题。
--   解决问题其中自动升级过程中由与许可相关的操作导致的失败离开而无需 Office 安装的用户。
--   其中有 Office 预安装工具包在审核模式下运行的 Windows 7 OEM 计算机上升级到 Office 2016 导致错误 0x80070005 激活期间修复问题。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复执行“打开”或“另存为”操作时显示的“修改日期”信息被截断的问题。
+-   修复在 SmartArt 图形的文本窗格中双击导致应用崩溃的问题。
+-   修复在安装过程中播放的视频在播放完之后仍显示在黑色屏幕上，直到关闭“安装完成”对话框的问题。
+-   修复将鼠标悬停在受保护文档中的“受保护视图”通知上时导致通知被一个很宽的滚动按钮覆盖的问题。
+-   修复哈萨克语和匈牙利语中计划进行 Office 更新的通知被截断的问题。
+-   解决所有用户在手动升级过程中无法删除固定在任务栏上的快捷方式的问题。
+-   修复在自动升级过程中由于与许可相关的操作导致的失败使用户未能完成 Office 安装的问题。
+-   修复在 Office 预安装工具包在审核模式下运行的 Windows 7 OEM 计算机上升级到 Office 2016 时导致激活过程中出现错误 0x80070005 的问题。
 
 
 ## <a name="version-1509-december-8"></a>版本 1509年: 12 月 8 日
 *版本 1509 （构建 6001.1043）*
 
-### <a name="onenote-non-security-updates"></a>OneNote： 非安全更新
--   修复其中 XPS 或打印版本创建使用 Windows 的桌面客户端显示为红色 X 在非 Windows 桌面客户端，因为这些客户端不支持本机 XPS 呈现问题。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
+-   修复由于非 Windows 桌面客户端不支持本机 XPS 呈现，使用 Windows 桌面客户端创建的 XPS 或打印输出在非 Windows 桌面客户端中显示为一个红色 X 的问题。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   修复的问题在其中创建书签跨越多个段落，但当收到电子邮件时，转到使用时，则仅书签的第一段处于选中状态。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复书签跨多个段落创建，但当收到电子邮件时，使用“转到”时仅选择书签的第一段的问题。
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 安全更新
--   Microsoft 安全公告[MS15 128](https://go.microsoft.com/fwlink/?LinkId=690559): Microsoft 图形组件地址远程代码执行 (3104503) 的安全更新
+### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
+-   Microsoft 安全公告 [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559)：可修复远程执行代码的 Microsoft 图形组件安全更新 (3104503)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   修复应用程序共享会话的故障其中，尤其是期间突发通信问题。
--   修复，如果第一个应用程序启动之后安装 Office 2016 崩溃导致 for Business 的 Skype 的问题。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   修复应用共享会话失败（尤其是在突发通信期间）的问题。
+-   修复在安装 Office 2016 后第一个启动 Skype for Business 时导致其崩溃的问题。
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   Microsoft 安全公告[MS15 131](https://go.microsoft.com/fwlink/?LinkId=699410): Microsoft Office，以解决远程代码执行 (3116111) 的安全更新
+### <a name="word-security-updates"></a>Word：安全更新
+-   Microsoft 安全公告 [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410)：可解决远程执行代码的 Microsoft Office 安全更新 (3116111)
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   修复问题，其中不中断连字符时，显示为一个方形使用某些字体。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复在使用某些字体时不间断连字符显示为正方形的问题。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   更改将在后台的更新从缓存/位下载到 HTTP 默认传输类型。
--   解决问题其中自动升级过程中由与许可相关的操作导致的失败离开而无需 Office 安装的用户。
--   其中有 Office 预安装工具包在审核模式下运行的 Windows 7 OEM 计算机上升级到 Office 2016 导致错误 0x80070005 激活期间修复问题。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   将后台中对下载更新的默认传输从 Cached/BITS 更改到 HTTP。
+-   修复在自动升级过程中由于与许可相关的操作导致的失败使用户未能完成 Office 安装的问题。
+-   修复在 Office 预安装工具包在审核模式下运行的 Windows 7 OEM 计算机上升级到 Office 2016 时导致激活过程中出现错误 0x80070005 的问题。
 
 
 
 ## <a name="version-1509-november-10"></a>版本 1509年： 年 11 月 10
 *版本 1509 （构建 6001.1038）*
 
-### <a name="access-security-updates"></a>Access： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="access-security-updates"></a>Access：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="excel-security-updates"></a>Excel： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="excel-non-security-updates"></a>Excel： 非安全更新
--   录制宏查询创建其中导致编译错误修复问题。
--   其中，在删除某个列在查询编辑器中后，空白列结尾处出现表的刷新查询后修复问题。
--   快速分析的查询表中选择迷你图选项卡时，其中发生意外的错误修复问题。
--   其中，在执行剪切和粘贴操作中的查询表后，您无法刷新该查询使用工作簿查询窗格修复问题。
--   修复的问题刷新查询，将焦点移到其关联的查询表的表。
--   删除对电源查询有关受支持的 OData 版本的错误消息中的引用。
--   修复 Power 查询功能其中显示为可用，但不起作用，当产品未激活问题。
--   更新文件中的 Dotlesscss URL\>帐户\>有关 Excel。
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+-   解决记录查询创建宏导致编译错误的问题。
+-   解决在删除查询编辑器中的列并刷新查询后，表格的末尾处出现空白列的问题。
+-   解决在选择查询表的“快速分析”中的“迷你图表”选项卡时，出现意外错误的问题。
+-   解决在查询表中执行剪切和粘贴操作之后，您无法使用“工作簿查询”窗格刷新查询的问题。
+-   解决在您刷新查询时，焦点转移到相关查询表的工作表的问题。
+-   根据有关受支持的 OData 版本的错误消息，移除对 Power Query 的引用。
+-   解决当产品尚未激活时 Power Query 功能显示为可用但不起作用的问题。
+-   更新“文件”\>“帐户”\>“关于 Excel”中的 Dotlesscss URL。
 
-### <a name="onenote-security-updates"></a>OneNote： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="onenote-security-updates"></a>OneNote：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   解决问题不会显示将文本粘贴到 Outlook 全文如果粘贴文本的量大于窗口的高度。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   解决在粘贴的文本量大于窗口高度时，Outlook 不会显示粘贴的全部文本的问题。
 
-### <a name="powerpoint-security-updates"></a>PowerPoint： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="project-security-updates"></a>项目： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="project-security-updates"></a>Project：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="publisher-security-updates"></a>Publisher： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="publisher-security-updates"></a>Publisher：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
--   Microsoft 安全公告[MS15 123](https://technet.microsoft.com/library/security/ms15-123): Skype 商业和 Microsoft Lync，以解决信息泄露 (3105872) 的安全更新
+### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-123](https://technet.microsoft.com/library/security/ms15-123)：可修复信息泄漏的 Skype for Business 和 Microsoft Lync 安全更新 (3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   使用具有两个输入的麦克风设备上的音频干扰修复问题。
--   解决问题用户无法成功加入会议后恢复休眠模式的便携式计算机和 Skype 之前客户端已签名后中。
--   添加上下文的消息，可帮助向用户提供的功能的认知度的支持。
--   更新以将用户指引到正确的位置在 ui 中更改设置加入会议音频对话框中的文本。
--   通知用户，请参阅时遇到同时发送和接收网络问题与解决问题。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   解决有两个输入麦克风的设备上的音频噪声问题。
+-   解决用户在将笔记本电脑从休眠模式恢复后，以及在 Skype 客户端重新登录前，无法成功加入会议的问题。
+-   添加对上下文消息的支持，帮助用户注意到功能。
+-   更新“加入会议音频”对话框中的文本，将用户引导至 UI 中的正确位置来更改设置。
+-   解决用户在遇到发送和接收网络问题时看到的通知的相关问题。
 
-### <a name="visio-security-updates"></a>Visio： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="visio-security-updates"></a>Visio：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="word-security-updates"></a>Word：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   解决问题的脚注编号不与 Word 中的显示和打印输出之间时在后台打印文档已设置为"重新开始编号每一页"的脚注。
--   解决问题，其中实时共同创作不使用文件存储在 OneDrive，包括用户不显示给其他人为实时编辑并没有可用的状态信息。
--   从 SharePoint 或 OneDrive 期间对文档的实时共同创作 Word 崩溃的打开位置修复问题。
--   修复的格式的问题，这将导致表放置到 HTML 时无法正确呈现电子邮件中 Outlook 和窗口大小进行调整。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   解决在后台打印已将脚注设置为“每页重新开始编号”的文档时，Word 显示和打印结果中的脚注编号不一致的问题。
+-   解决实时共同创作对存储在 OneDrive 中的文件无效的问题，包括实时编辑时当前用户不向其他用户显示，以及无联机状态信息。
+-   解决在实时共同创作从 SharePoint 或 OneDrive 打开的文档期间，Word 发生故障的问题。
+-   解决导致在窗口调整大小时，Outlook 内 HTML 电子邮件中嵌入的表格无法正确呈现的格式设置问题。
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   Microsoft 安全公告[MS15 116](https://technet.microsoft.com/library/security/ms15-116): Microsoft Office，以解决远程代码执行 (3104540) 的安全更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   修复其中反复提示用户登录尝试从 SharePoint Online 中打开文件时的问题。
--   修复其中固定快捷方式在任务栏上不会删除所有用户手动升级过程中的问题。
--   添加用于检测如果 Outlook 连接到 Exchange Server 2007 或 Business Contact Manager 安装才能警告的可能的升级问题的用户单击即点即用手动升级过程的功能。
--   使对话结束进程更可见期间卸载或升级，因为这些对话框可以获取对用户隐藏的后面打开应用程序或其他用户界面。
--   解决问题，用户不获取登录到 Office 应用程序自动时用作标识的计算机加入域和云域。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   解决用户在尝试从 SharePoint Online 打开文件时反复收到登录提示的问题。
+-   解决所有用户在手动升级过程中无法删除固定在任务栏上的快捷方式的问题。
+-   添加使用即点即用手动升级流程的功能，以检测 Outlook 是否连接到 Exchange Server 2007，或 Business Contact Manager 是否安装以警告用户可能在升级中出现的问题。
+-   在卸载或升级过程中，结束进程的对话更显眼，因为这些对话可以隐藏在打开的应用或其他 UI 后面，不让用户看见。
+-   解决当计算机被识别为加入域和云域时，用户无法自动登录 Office 应用的问题。
 
 
 
 ## <a name="version-1509-october-21"></a>版本 1509年： 年 10 月 21
 *版本 1509 （构建 6001.1034）*
 
-### <a name="onenote-non-security-updates"></a>OneNote： 非安全更新
--   修复，导致 OneNote 崩溃相同的边框颜色选择颜色选取器中出现两次时的问题。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
+-   修复在颜色选取器中为某个边框两次选择同一种颜色时导致 OneNote 崩溃的问题。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 非安全更新
--   在其中屏幕阅读器仅读取多段落电子邮件签名的第一段编辑电子邮件签名时修复问题。
--   解决问题光标位置不在编写或答复电子邮件时在正确的位置。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+-   修复编辑电子邮件签名时屏幕阅读器仅读取多段落电子邮件签名的第一段的问题。
+-   修复撰写或回复电子邮件时光标位置不正确的问题。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   内存不足的情况，尝试查看共享的桌面或应用程序中的位置，将导致断开连接，并尝试自动重新连接并查看共享的桌面或应用程序的重复修复问题。
--   其中，参与者增加数，作为共享的桌面体验恶化修复问题。
--   配置多重身份验证，电话身份验证的重复的提示在一天的接收位置时，请修复问题。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   修复在内存不足的情况下，尝试查看共享桌面或应用导致连接断开并重复尝试自动重新连接和查看共享桌面或应用的问题。
+-   修复随着参与者数量增加，共享桌面体验下降的问题。
+-   修复当配置多重身份验证时，在一天内收到电话身份验证的重复提示的问题。
 
-### <a name="visio-non-security-updates"></a>Visio： 非安全更新
--   其中插入显示为图标的 Word 对象为空后关闭并重新打开 Visio 修复问题。
+### <a name="visio-non-security-updates"></a>Visio：非安全更新
+-   修复原本应显示为图标的插入 Word 对象在关闭并重新打开 Visio 后显示为空的问题。
 
-### <a name="word-non-security-updates"></a>Word： 非安全更新
--   解决问题，其中共同创作不可用，在 SharePoint Server 2013 文档时，可获取锁定文档。
--   其中 table 是可见的即使表中的内容必须包含隐藏选项的样式应用于其 docx 文档中解决问题。
--   解决问题带有相对的超链接的文档无法保存后执行自动更正的位置。
--   解决问题周围带有镜像缩进的文档中的段落的编辑过程中快速行。
--   修复其中行显示不一致编辑禁用子像素定位时过程中的问题。
--   解决问题其中单击第一个其中将标记为已完成的多个批注注释的弹出窗口会崩溃。
--   使用不正确的线条损坏修复问题。
--   解决问题，其中运行宏的文档中标题 textbox 中使用 TransformDocument 函数或页脚会导致崩溃。
--   解决问题.docm 文档 （英文） 打开文档时，其中就删除所有 ActiveX 控件导致错误。
--   其中 ContentControlOnExit 事件不会触发时在页眉单击修复问题。
--   解决问题跟踪更改其中显示具有相同名称的审阅者的删除。
--   保存的配置以移除个人信息其中更改显示修订为每个时间文档的文档的实时共同创作的问题的修补程序。
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复当文档位于 SharePoint Server 2013 上时共同创作不可用且文档可能锁定的问题。
+-   修复 docx 文档中即使表中的内容应用了包含隐藏选项的样式时，表仍然可见的问题。
+-   修复执行自动更正后无法保存包含相对超链接的文档的问题。
+-   修复在编辑具有镜像缩进的文档中的某个段落时行跳来跳去的问题。
+-   修复禁用子像素定位时行显示在编辑期间不一致的问题。
+-   修复在单击具有多个注释的注释弹出窗口，且第一个注释标记为“完成”时导致崩溃的问题。
+-   修复换行不正确的问题。
+-   修复运行宏导致崩溃的问题，该宏在页面或页脚中具有文本框的文档中使用 TransformDocument 函数。
+-   修复当 .docm 文档处于打开状态时删除所有 ActiveX 控件导致错误的问题。
+-   修复单击进入页眉时未触发 ContentControlOnExit 事件的问题。
+-   修复跟踪更改为名称相同的审阅者显示删除的问题。
+-   修复在对配置为删除个人信息的文档进行实时共同创作时，每次保存文档时更改都显示为已跟踪更改的问题。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   解决问题，其中第一次打开 Office 应用程序升级到 2016年后导致应用程序正在处于缩减的功能模式，需要重新启动以获取完整功能的应用程序。
--   其中运行 Office 与共享计算机激活时打开，告知用户他们需要使用 Office 的批量许可版本的应用程序，在出错，运行远程桌面服务结果的计算机上启用修复问题。
--   安装滞留在约 90%完成修复问题。
--   解决问题时它们不应是其中本地化产品名称。
--   解决问题，其中的工具提示和快捷键的"告诉我"的提示不匹配，与在不同的本地化版本中的功能区上的其他键提示冲突。
--   其中 Windows 显示 Outlook 作为新应用程序的升级后从 Office 2013 到 Office 2016 修复问题。
--   从 Office 2013 版本 15.0.4615.1002 （2014 年 5 月） 升级到 Office 2016 其中导致 0x80041015 错误修复问题。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复在升级到 2016 后第一次打开 Office 应用时导致应用处于功能缩减模式且要求应用重新启动才能获得完整功能的问题。
+-   修复在运行远程桌面服务的计算机上启用共享计算机激活的情况下运行 Office 导致在打开应用时出现错误，告知用户需使用 Office 批量许可版本的问题。
+-   修复安装在大约完成 90% 时卡住的问题。
+-   修复产品名称在不需要的时候被本地化的问题。
+-   修复不同本地化版本中“告诉我”的工具提示和键提示不匹配且与功能区上的其他键提示冲突的问题。
+-   修复从 Office 2013 升级到 Office 2016 之后 Windows 将 Outlook 显示为新应用的问题。
+-   修复从 Office 2013 版本 15.0.4615.1002（2014 年 5 月）升级到 Office 2016 导致 0x80041015 错误的问题。
 
 
 
 ## <a name="version-1509-october-5"></a>版本 1509年: 10 月 5 日
 *版本 1509 （构建 4229.1029）*
 
-### <a name="onenote-non-security-updates"></a>OneNote： 非安全更新
--   与 Office 365 企业版解决问题，其中尝试使用与 SharePoint 的 OneNote 将导致错误消息，告知他们必须升级到 Office 的不同版本的用户。
--   为 Surface Pro 3 其中视频录制预览不会显示正在录制内容修复问题。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
+-   解决 Office 365 商业版问题，即尝试结合使用 SharePoint 和 OneNote 时会看到错误消息，提示用户需要升级到其他版本的 Office。
+-   解决 Surface Pro 3 问题，即视频录制预览不显示正在录制的内容。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 非安全更新
--   更改查看者看到的内容时共享者 RDP 中锁定屏幕。 查看器立即显示通知，而不是 RDP 暂停图像。
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+-   更改当共享者在 RDP 中锁定屏幕时，查看者看到的内容。查看者现在看到的是通知，而不是 RDP 暂停图像。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 非安全更新
--   修复的即点即单击问题的 Office 2013 单击即点即用服务不还原，如果由于错误或用户取消而未完成对 Office 2016 的自动更新。
--   修复单击即点即用问题其中对 Office 2016 的自动更新期间的故障导致失败的更新且不能够使用或卸载 Office 2013 应用程序。
--   单击即点即用问题其中重新尝试自动更新到 Office 2016 在上一过程中重新启动后尝试更新的修复指向更新失败并无法关闭。
--   修复的即点即单击问题在安装过程中的流任务不是能够成功恢复如果重新启动计算机。
--   修复的即点即单击问题其中对 Office 2016 手动更新过程中重新启动离开任务"执行"状态。
--   修复的即点即单击问题其中期间安装中间启动新安装的应用程序处理在"Internet 连接丢失"对话框中显示的结果。
--   修复其中显示在安装过程中的应用程序图块并不是活动不启动应用程序，当用户单击应用程序图块的即点即单击问题。
--   修复其中自动更新到 Office 2016 sr-latn cr 安装不转换为客户端语言 sr-latn rs 单击即点即用问题。
--   修复其中自动更新失败时准备更新多个 Office Sku 时安装在计算机上的即点即单击问题。
--   修复的即点即单击问题如果手动更新已启动自动更新运行时错误对话框的显示位置。
--   更新对"加载项"产品其中术语的大写不正确的 UI 中的引用。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   解决即点即用问题，即因错误或用户取消而导致无法完成自动更新为 Office 2016 时，Office 2013 即点即用服务无法恢复。
+-   解决即点即用问题，即在自动更新为 Office 2016 期间出现故障，导致更新失败，并且无法使用或卸载 Office 2013 应用。
+-   解决即点即用问题，即在上一次更新尝试期间重启后，重新尝试自动更新为 Office 2016，导致更新失败且无法关闭。
+-   解决即点即用问题，即重启计算机后无法成功恢复安装过程中的流任务。
+-   解决即点即用问题，即在手动更新为 Office 2016 期间重启会遗留下处于“正在执行”状态的任务。
+-   解决即点即用问题，即在安装中途启动新安装的应用会导致系统显示“Internet 连接断开”对话框。
+-   解决即点即用问题，即安装过程中出现的应用磁贴不可用，用户在单击应用磁贴后无法启动应用。
+-   解决即点即用问题，即将 sr-latn-cr 安装自动更新为 Office 2016 没有将客户端语言转换为 sr-latn-rs。
+-   解决即点即用问题，即当计算机上安装了多个 Office SKU 时，准备更新时自动更新发生故障。
+-   解决即点即用问题，即在一边运行自动更新一边启动手动更新时，出现错误对话。
+-   更新产品 UI 中对“外接程序”的引用，其中字词大写是错误的。
 
 
 
 ## <a name="version-1509-september-22"></a>版本 1509年： 年 9 月 22
 *版本 1509 （构建 4229.1024）*
 
-这是此频道的初始版本。 此版本中提供了 Office 2016 应用程序的第一个可用性。
+这是此分支的初始版本。在此版本中，Office 2016 应用程序首次可用。
 
-### <a name="excel-security-updates"></a>Excel： 安全更新
--   Microsoft 安全公告[MS15 099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office 中的漏洞可能允许远程代码执行 (3089664)
--   Microsoft 安全公告[MS15 110](https://technet.microsoft.com/library/security/ms15-110)： 安全更新 for Microsoft Office，以解决远程代码执行 (3096440)
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   Microsoft 安全公告 [MS15-099](https://technet.microsoft.com/library/security/ms15-099)：Microsoft Office 中的漏洞可能允许远程执行代码 (3089664)
+-   Microsoft 安全公告 [MS15-110](https://technet.microsoft.com/library/security/ms15-110)：可修复远程执行代码的 Microsoft Office 安全更新 (3096440)
 
-### <a name="visio-security-updates"></a>Visio： 安全更新
--   Microsoft 安全公告[MS15 081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office 中的漏洞可能允许远程代码执行 (3080790)
+### <a name="visio-security-updates"></a>Visio：安全更新
+-   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
 
-### <a name="word-security-updates"></a>Word： 安全更新
--   Microsoft 安全公告[MS15 081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office 中的漏洞可能允许远程代码执行 (3080790)
+### <a name="word-security-updates"></a>Word：安全更新
+-   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全更新
--   Microsoft 安全公告[MS15 081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office 中的漏洞可能允许远程代码执行 (3080790)
--   Microsoft 安全公告[MS15 099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office 中的漏洞可能允许远程代码执行 (3089664)
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
+-   Microsoft 安全公告 [MS15-099](https://technet.microsoft.com/library/security/ms15-099)：Microsoft Office 中的漏洞可能允许远程执行代码 (3089664)

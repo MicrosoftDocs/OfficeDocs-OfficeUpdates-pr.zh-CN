@@ -5,24 +5,24 @@
 
 ## [发行说明](release-notes-office365-proplus.md)
 
-### 每月通道
+### 每月频道
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### 半年通道
+### 半年频道
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### 半年通道 （目标）
+### 半年频道（定向）
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
-# Office mac 版
+# Office for Mac
 ## [更新历史记录](update-history-office-for-mac.md)
 ## [发行说明](release-notes-office-for-mac.md)
 ## [MAU 版本历史记录](release-history-microsoft-autoupdate.md)
@@ -40,7 +40,7 @@
 ## [Project Server 更新](project-server-updates.md)
 ## [SharePoint 更新](sharepoint-updates.md)
 
-# 相关的链接
+# 相关链接
 ## [Windows 10 版本](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft 生命周期策略](https://support.microsoft.com/lifecycle)
 

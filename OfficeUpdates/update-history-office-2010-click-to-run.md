@@ -40,16 +40,16 @@ ms.locfileid: "19555896"
     
 3. 在下，**单击即点即用产品的更新**，请注意列出的版本号。
     
-    如果的版本号匹配的最新版本，您最新。 如果没有，您可以手动更新获取 Office 2010 的最新版本。 更新 Office，[请按照下列步骤](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
+    如果的版本号匹配的最新版本，您最新。如果没有，您可以手动更新获取 Office 2010 的最新版本。更新 Office，[请按照下列步骤](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>发布日期、 版本号和修复的 Office 2010 的信息的列表更新
 
-下表提供更新的列表 for Office 2010、office，首先列出的最新的发布日期。 如果可用，请向 Microsoft 知识库 (KB) 文章或包含有关更新中包含的修补程序的信息的 Microsoft 安全公告，表包含发行版和链接的版本号。
+下表提供更新的列表 for Office 2010、office，首先列出的最新的发布日期。如果可用，请向 Microsoft 知识库 (KB) 文章或包含有关更新中包含的修补程序的信息的 Microsoft 安全公告，表包含发行版和链接的版本号。
   
 新版本包含所有早期版本中包含的更新。
 
 > [!NOTE]
-> 下面列出的知识库文章供参考之用。 单击即点即用更新包括知识库文章中列出的所有修补程序。 不需要下载知识库文章中列出的单独更新。
+> 下面列出的知识库文章供参考之用。单击即点即用更新包括知识库文章中列出的所有修补程序。不需要下载知识库文章中列出的单独更新。
 
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
