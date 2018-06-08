@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 ms.custom: LIL_Placement
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: ce192e4290d1ddce170efbd82dd257eaedc7d3a2
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 41aebc13fd72fef6927bb2275b734113d1171a04
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555907"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709713"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -146,7 +146,7 @@ ms.locfileid: "19555907"
 ## <a name="related-topics"></a>相关主题
 
 - [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 365 专业增强版的发行说明](release-notes-office365-proplus.md)
+- [Office 365 专业增强版更新发行信息](release-notes-office365-proplus.md)
 - [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)
 
 [!INCLUDE [LinkedIn Learning Info](common/office/linkedin-learning-info.md)]
