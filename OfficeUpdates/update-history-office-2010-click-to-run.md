@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: IT 专业人员提供使用单击即点即用的永久版本的 Office 2010 的更新历史记录
-ms.openlocfilehash: 11c4aa06ce34d1c7d57d482647b862bea9ab230a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 59181f717a0a7ecc57bc64ebe306f4c876c03074
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555896"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709763"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 单击即点即用产品的更新历史记录
 
@@ -54,7 +54,7 @@ ms.locfileid: "19555896"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2018  <br/> |5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+|2018 |5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||4 月 10 日  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
 ||年 3 月 13  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||月 13 日发布  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
