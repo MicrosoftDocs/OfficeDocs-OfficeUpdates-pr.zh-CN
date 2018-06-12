@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 5b7f793ab49c492a5c92c0160276a47955d8835e
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 17e4b2b81ec0002f6dae5777dc235f9738bb3b34
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555902"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709723"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -23,13 +23,13 @@ ms.locfileid: "19555902"
   
 我们会先于实际发布日期提前提供此类信息，以帮助企业客户针对这些即将发布的频道更新来规划网络带宽利用率。由于我们是提前提供此类信息的，因此某些信息可能会在实际发布时有所变更。
   
-我们的目标是在发布前一周提供更新大小信息，但有时候信息远未提前公布。半年频道和半年频道（定向）发布计划于每个月的第二个星期二进行。每月频道发布的时间则不固定。
+我们的目标是在发布前提前一周提供更新大小信息，但有时候信息远未提前公布。半年频道和半年频道（定向）计划于每月的第二个星期二发布。每月频道没有固定的发布计划。
 
-有关指定版本中包含的功能、安全更新和非安全更新的信息，请参阅 [Office 365 专业增强版发行说明](release-notes-office365-proplus.md)。
+若要了解指定版本中包含的功能、安全更新程序和非安全更新程序，请参阅 [Office 365 专业增强版更新发布信息](release-notes-office365-proplus.md)。
 
   
 > [!NOTE]
-> - 下表中列出的近似下载大小仅适用于美国英语 x86 版 Office 365 专业增强版。 
+> - 下表列出的近似下载大小仅适用于美国英语 x86 版 Office 365 专业增强版。 
 > - 下载大小为近似值。实际下载大小可能会有所不同，可能的差值最多不超过 50 MB。 
 > - 设为斜体且用“\< \>”括起来的发布日期和内部版本号可能会发生变更。 
 > - 仅列出过去四个月的版本。
