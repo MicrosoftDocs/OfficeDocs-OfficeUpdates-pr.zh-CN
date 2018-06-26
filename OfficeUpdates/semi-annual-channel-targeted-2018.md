@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/18/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 7e4a881b7981ecd23d9771a5d1f375f4cf07eba7
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555913"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886628"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>有关 2018 年半年频道（定向）发行的发行说明
 
@@ -24,6 +24,32 @@ ms.locfileid: "19555913"
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+
+## <a name="version-1803-june-12"></a>版本 1803：6 月 12 日
+*版本 1803（生成号 9126.2227）*
+
+### <a name="excel-security-updates"></a>Excel：安全更新程序
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新程序
+-   修复了以下问题：Excel 数据透视表中的组合（或取消组合）操作有时可能会触发故障。
+
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新程序
+-   修复了以下问题：更改 Shape.Visibile 属性时，可能会发生潜在故障。
+-   修复了以下问题：无法合并合著文档中的更改。
+-   修复了以下问题：包含 ActiveX 控件的文档会导致合著失败。
+
+### <a name="project-non-security-updates"></a>Project：非安全更新程序
+-   修复了以下问题：“日程表”视图“将现有任务添加到日程表”对话框仅显示第一个摘要任务中的任务。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+-   修复了以下问题：使用 System Center Configuration Manager 将更新部署到运行 Office 应用程序的客户端时，在 Office 应用程序正在运行的情况下重启设备后更新未应用。
+
+
 
 ## <a name="version-1803-may-18"></a>版本 1803：5 月 18 日
 *版本 1803（内部版本 9126.2210）*

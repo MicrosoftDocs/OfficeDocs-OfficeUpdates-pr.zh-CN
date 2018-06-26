@@ -3,7 +3,7 @@ title: Office for Mac 发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 46548cbd64aaf43db8dd0f6070a3f8a2eb69df0a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555917"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886948"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -32,7 +32,32 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > - 仅为最新版本提供下载链接。
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
+## <a name="june-2018-release"></a>2018 年 6 月版本
+
+**发布日期：** 2018 年 6 月 13 日 
+
+*版本 16.14.1（生成号 18061302）*
+
+此版本修复了个人应用程序的更新程序包存在的问题。
+
+以下是有关更新程序包的下载链接：[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) 和 [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg)。
+
+<br/><br/>
+
+ **发布日期：** 2018 年 6 月 12 日 
   
+ *版本 16.14.0（生成号 18061000）* 
+  
+此版本提供以下更新。
+  
+|**应用程序**|**功能更新**|**更新包的下载链接**|
+|:-----|:-----|:-----|
+|Word  <br/> |**学习工具提高可读性：** 让你的双眼休息一下。调整文字间距、列宽和页面颜色。或听 Word 大声读出文档，同时它还会在朗读过程中突出显示文本。[了解更多](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
+|Excel  <br/> |**快速填充数据：** 为快速填充提供几个示例后，它就会为你填充数据。[了解更多](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **打破语言障碍：** 使用 Microsoft Translator 将字词、短句或句子翻译成其他语言。[了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
+|PowerPoint  <br/> |**打破语言障碍：** 使用 Microsoft Translator 将字词、短句或句子翻译成其他语言。[了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**使用其他生动颜色显示超链接：** 超链接不再只是蓝色的。可以根据需要应用任何字体颜色。[了解更多](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
+|Outlook  <br/> |**创建易记签名：** 使用丰富的字形、颜色、图像、链接等来表现自我。[了解更多](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **创建组并与之协作：** 要在 Outlook 中创建 Office 365 组？没问题！还可以添加和删除成员。Mac 上的协作过程变简单了。[了解更多](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
+|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+
 ## <a name="may-2018-release"></a>2018 年 5 月版本
 
 **发布日期：** 2018 年 5 月 24 日
@@ -94,10 +119,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
  *版本 16.11.1（内部版本 18031900）* 
   
-此版本修复了 Word、Excel 和 PowerPoint 在启动时偶尔无限期的无响应的问题。
-  
-以下是有关更新程序包的下载链接：[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.11.18031900_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.11.18031900_Updater.pkg) 和 [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.11.18031900_Updater.pkg)。
- 
+此版本修复了以下问题：Word、Excel 和 PowerPoint 偶尔在启动后永无响应。
+   
 <br/><br/>
  
  **发布日期：** 2018 年 3 月 13 日 
@@ -106,15 +129,14 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新**|**更新程序包的下载链接**|
+|**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**使用焦点模式实现更多功能：** 焦点模式现在可以在设置缩放级别中打开，并在滚动时显示页码。  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全功能规避漏洞  <br/> |||
 |PowerPoint  <br/> |**嵌入的字体：** 嵌入的字体确保你的演示文稿在每台计算机上显示的外观相同，并向读者显示你预期的内容。  <br/> ||||
-|Outlook  <br/> |**表：** 在邮件和日历事件中插入表，并为你的内容添加结构。无需再从其他 Office 应用中复制和粘贴。[了解详细信息](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **同时查看两个时区：** 想要知道在世界其他地区现在所处的时间？现在可以向 Outlook 添加第二个时区。<br/><br/> **跨时区计划日程：** 跨时区旅行？创建具有不同的开始和结束时区的事件，Outlook 将注意此对话。<br/><br/> **更改文本大小：** 增加或减少边栏、邮件列表和阅读窗格中的字体大小。[了解详细信息](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||修复了以下问题：如果计算机的默认时区观察到夏令时 (DST) 和周视图已被选中，则会看到日历网格上的所有事件在 DST 开始时都被偏移了一个小时。  <br/> |[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.11.18031100_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[OneNote 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.11.18031100_Updater.pkg) <br/> |
-|Office 套件  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 信息泄漏漏洞  <br/> ||不适用  <br/> |
-|Microsoft AutoUpdate 3.17  <br/> ||||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.17.18031100_Updater.pkg) <br/> |
+|Outlook  <br/> |**表：** 在邮件和日历事件中插入表，并为你的内容添加结构。无需再从其他 Office 应用中复制和粘贴。[了解详细信息](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **同时查看两个时区：** 想要知道在世界其他地区现在所处的时间？现在可以向 Outlook 添加第二个时区。<br/><br/> **跨时区计划日程：** 跨时区旅行？创建具有不同的开始和结束时区的事件，Outlook 将注意此对话。<br/><br/> **更改文本大小：** 增加或减少边栏、邮件列表和阅读窗格中的字体大小。[了解详细信息](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||修复了以下问题：如果计算机的默认时区观察到夏令时 (DST) 和周视图已被选中，则会看到日历网格上的所有事件在 DST 开始时都被偏移了一个小时。  <br/> |
+|Office 套件  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 信息泄漏漏洞  <br/> |
+
    
 ## <a name="february-2018-release"></a>2018 年 2 月版本
 
