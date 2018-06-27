@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新历史记录（按版本列出）
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按版本组织，含发行说明链接
-ms.openlocfilehash: 7edfe0ab6b126917cad30b2dbed9fd6660215098
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 5768fc34e735112f5a9e19f02b79bd56d2eb3568
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886588"
+ms.locfileid: "20036251"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>Office 365 专业增强版更新历史记录（按版本列出）
  
@@ -32,7 +32,8 @@ ms.locfileid: "19886588"
   
 |**版本**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|
-|1805  <br/> |**[9330.2124](monthly-channel-2018.md#version-1805-june-13)（2018 年 6 月 13 日）** <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12)（2018 年 6 月 12 日） <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24)（2018 年 5 月 24 日） <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23)（2018 年 5 月 23 日） <br/> |  <br/> |  <br/> |
+|1806  <br/> |**[10228.20080](monthly-channel-2018.md#version-1806-june-25)（2018 年 6 月 25 日）** <br/> |  <br/> |  <br/> |
+|1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13)（2018 年 6 月 13 日） <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12)（2018 年 6 月 12 日） <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24)（2018 年 5 月 24 日） <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23)（2018 年 5 月 23 日） <br/> |  <br/> |  <br/> |
 |1804  <br/> |[9226.2156](monthly-channel-2018.md#version-1804-may-14)（2018 年 5 月 14 日） <br/> [9226.2126](monthly-channel-2018.md#version-1804-may-8)（2018 年 5 月 8 日） <br/>  [9226.2114](monthly-channel-2018.md#version-1804-april-25)（2018 年 4 月 25 日） <br/> |  <br/> |  <br/> |
 |1803  <br/> | [9126.2152](monthly-channel-2018.md#version-1803-april-11)（2018 年 4 月 11 日）  <br/>  [9126.2116](monthly-channel-2018.md#version-1803-march-27)（2018 年 3 月 27 日）  <br/> |**[9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)（2018 年 6 月 12 日）** <br/> [9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18)（2018 年 5 月 18 日） <br/> [9126.2191](semi-annual-channel-targeted-2018.md#version-1803-may-8)（2018 年 5 月 8 日） <br/>  [9126.2152](semi-annual-channel-targeted-2018.md#version-1803-april-10)（2018 年 4 月 10 日）  <br/>  [9126.2098](semi-annual-channel-targeted-2018.md#version-1803-march-20)（2018 年 3 月 20 日）  <br/>  [9126.2072](semi-annual-channel-targeted-2018.md#version-1803-march-13)（2018 年 3 月 13 日）  <br/> |计划于 2018 年 7 月 10 日  <br/> |
 |1802  <br/> | [9029.2253](monthly-channel-2018.md#version-1802-march-13)（2018 年 3 月 13 日）  <br/>  [9029.2167](monthly-channel-2018.md#version-1802-february-26)（2018 年 2 月 26 日）  <br/> |  <br/> |  <br/> |

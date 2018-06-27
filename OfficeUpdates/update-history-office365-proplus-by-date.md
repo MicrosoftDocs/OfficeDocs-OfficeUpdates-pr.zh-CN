@@ -3,7 +3,7 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 ms.custom: LIL_Placement
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: a3e11b6b965243c05897c6e60184968d77b38f14
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 61d1d77c7601fc570e92dc4d2cd613306903495c
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19926668"
+ms.locfileid: "20036281"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -33,7 +33,8 @@ ms.locfileid: "19926668"
 
 |**年份**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 年|6 月 13 日   |[**版本 1805（生成号 9330.2124）**](monthly-channel-2018.md#version-1805-june-13) |||
+|2018 年|6 月 25 日   |[**版本 1806（生成号 10228.20080）**](monthly-channel-2018.md#version-1806-june-25) |||
+||6 月 13 日   |[版本 1805（生成号 9330.2124）](monthly-channel-2018.md#version-1805-june-13) |||
 ||6 月 12 日   |[版本 1805（生成号 9330.2118）](monthly-channel-2018.md#version-1805-june-12)  |[**版本 1803（生成号 9126.2227）**](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[**版本 1708（生成号 8431.2270）**](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [版本 1705（生成号 8201.2294）](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||5 月 24 日   |[版本 1805（生成号 9330.2087）](monthly-channel-2018.md#version-1805-may-24) |||
 ||5 月 23 日   |[版本 1805（内部版本 9330.2078）](monthly-channel-2018.md#version-1805-may-23)  |  |  |

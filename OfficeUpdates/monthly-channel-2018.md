@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886958"
+ms.locfileid: "20036301"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -24,6 +24,36 @@ ms.locfileid: "19886958"
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+
+
+
+## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
+*版本 1806（生成号 10228.20080）*
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+ - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。
+ - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+ - **重复周期默认设置：** 在“约会重复周期”对话框中（“重复周期范围”下），“结束日期”是默认设置（替代了“无结束日期”），并且是列出的第一个设置，同时还设置了默认结束日期。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+ - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="project-feature-updates"></a>Project：功能更新
+ - **最近保存位置有条理：** Project 通过可不断扩充的列表列出了其他项目的保存位置。准备保存项目时，只需选择最近保存位置之一，即可继续工作。
+
+### <a name="project-non-security-updates"></a>Project：非安全更新程序
+ - 修复了以下问题：无法从主项目保存子项目。
+
+### <a name="visio-feature-updates"></a>Visio：功能更新
+ - **更多模具、图标和选择：** 我们添加了 26 种模具，包括“分析”、“艺术”、“庆祝”、“人脸”、“位置”、“医疗”、“自然”、“人物”、“运动”、“天气”和“季节”等。
+
+### <a name="word-feature-updates"></a>Word：功能更新
+ - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+
 
 ## <a name="version-1805-june-13"></a>版本 1805：6 月 13 日
 *版本 1805（生成号 9330.2124）*
