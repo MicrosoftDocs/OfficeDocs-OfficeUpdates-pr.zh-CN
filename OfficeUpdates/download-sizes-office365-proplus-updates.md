@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 17e4b2b81ec0002f6dae5777dc235f9738bb3b34
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
+ms.openlocfilehash: e8ac5a96745dadae5527f01f2d291b1fb52b8893
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709723"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886838"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -36,6 +36,51 @@ ms.locfileid: "19709723"
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。 
   
+
+
+## <a name="june-13-2018"></a>2018 年 6 月 13 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新发布为版本 1805（生成号 9330.2118）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1805（生成号 9330.2118）  <br/> |2018 年 6 月 12 日  <br/> |57  <br/> |
+|版本 1805（生成号 9330.2087）  <br/> |2018 年 5 月 24 日  <br/> |83  <br/> |
+|版本 1805（生成号 9330.2078）  <br/> |2018 年 5 月 23 日  <br/> |262  <br/> |
+|版本 1804（生成号 9226.2156）  <br/> |2018 年 5 月 14 日  <br/> |203  <br/> |
+   
+## <a name="june-12-2018"></a>2018 年 6 月 12 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新发布为版本 1805（生成号 9330.2118）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1805（生成号 9330.2087）  <br/> |2018 年 5 月 24 日  <br/> |95  <br/> |
+|版本 1805（生成号 9330.2078）  <br/> |2018 年 5 月 23 日  <br/> |262  <br/> |
+|版本 1804（生成号 9226.2156）  <br/> |2018 年 5 月 14 日  <br/> |203  <br/> |
+   
+### <a name="semi-annual-channel"></a>半年频道
+
+最新发布为版本 1708（生成号 8431.2270）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1708（生成号 8431.2250）  <br/> |2018 年 5 月 8 日  <br/> |56  <br/> |
+|版本 1708（生成号 8431.2242）  <br/> |2018 年 4 月 10 日  <br/> |57  <br/> |
+   
+### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
+
+最新发布为版本 1803（生成号 9126.2227）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1803（生成号 9126.2210）  <br/> |2018 年 5 月 18 日  <br/> |94  <br/> |
+|版本 1803（生成号 9126.2191）  <br/> |2018 年 5 月 8 日  <br/> |96  <br/> |
+
 
 
 ## <a name="may-24-2018"></a>2018 年 5 月 24 日
@@ -88,7 +133,7 @@ ms.locfileid: "19709723"
 |版本 1804（内部版本 9226.2126）  <br/> |2018 年 5 月 8 日  <br/> |67  <br/> |
 |版本 1804（内部版本 9226.2114）  <br/> |2018 年 4 月 25 日  <br/> |81  <br/> |
 
- 
+
 ## <a name="may-8-2018"></a>2018 年 5 月 8 日
 
 ### <a name="monthly-channel"></a>每月频道
