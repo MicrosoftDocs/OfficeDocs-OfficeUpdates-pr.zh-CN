@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: e8ac5a96745dadae5527f01f2d291b1fb52b8893
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: c9aeb8d27fca4a5f5a7175ba5337f3ed4ef45adc
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886838"
+ms.locfileid: "20036241"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -38,6 +38,18 @@ ms.locfileid: "19886838"
   
 
 
+## <a name="june-25-2018"></a>2018 年 6 月 25 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新发布为版本 1806（生成号 10228.20080）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1805（生成号 9330.2124）  <br/> |2018 年 6 月 13 日  <br/> |155  <br/> |
+|版本 1805（生成号 9330.2118）  <br/> |2018 年 6 月 12 日  <br/> |402  <br/> |
+|版本 1805（生成号 9330.2087）  <br/> |2018 年 5 月 24 日  <br/> |154  <br/> |
+   
 ## <a name="june-13-2018"></a>2018 年 6 月 13 日
 
 ### <a name="monthly-channel"></a>每月频道
