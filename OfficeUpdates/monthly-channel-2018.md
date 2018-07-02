@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
+ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036301"
+ms.lasthandoff: 06/29/2018
+ms.locfileid: "20157860"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -24,8 +24,7 @@ ms.locfileid: "20036301"
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-
-
+ 
 
 ## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
 *版本 1806（生成号 10228.20080）*
@@ -36,15 +35,19 @@ ms.locfileid: "20036301"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **重复周期默认设置：** 在“约会重复周期”对话框中（“重复周期范围”下），“结束日期”是默认设置（替代了“无结束日期”），并且是列出的第一个设置，同时还设置了默认结束日期。
+ - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
+
 ### <a name="project-feature-updates"></a>Project：功能更新
  - **最近保存位置有条理：** Project 通过可不断扩充的列表列出了其他项目的保存位置。准备保存项目时，只需选择最近保存位置之一，即可继续工作。
+ - **管理冲刺 (sprint) 的新方法：** 采用敏捷方法来处理任务板。转到管理冲刺 (sprint) ，随着你的项目演进添加和删除冲刺 (sprint)。
 
-### <a name="project-non-security-updates"></a>Project：非安全更新程序
+
+### <a name="project-non-security-updates"></a>Project：非安全更新
  - 修复了以下问题：无法从主项目保存子项目。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
@@ -109,6 +112,7 @@ ms.locfileid: "20036301"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **在编辑时与合著者进行交流：** 无需离开 PowerPoint 即可与合著者进行交流，从而提高协作效率。[了解详细信息](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
  - **无需打字：** 使用语音，通过口述方式即可创建演示文稿。无需打字。[了解详细信息](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Microsoft Forms：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
  - 修复首次将项目保存到 Project Web App 时 Project 可能崩溃的问题。
