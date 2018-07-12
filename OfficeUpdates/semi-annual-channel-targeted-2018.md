@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886628"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246382"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>有关 2018 年半年频道（定向）发行的发行说明
 
@@ -24,6 +24,36 @@ ms.locfileid: "19886628"
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+
+## <a name="version-1803-july-10"></a>版本 1803：7 月 10 日
+*版本 1803（内部版本 9126.2259）*
+
+### <a name="access-security-updates"></a>Access：安全更新
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
+
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 篡改漏洞
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新程序
+-   修复了在日期单元格格式中使用日本和历日历时显示错误年份的问题。
+-   将数据导入 Excel 数据模型时，传入的负零值将导致错误。此次修复将此类值导入为零。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新程序
+-   修复了表格显示不正常并带有粗边框的问题。
+
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了以下问题：如果使用成本资源对任务进行拆分，则成本资源无法正确更新且成本丢失。
+-   修复了以下问题：“日程表”视图中的“将现有任务添加到日程表”对话框仅显示第一个摘要任务中的任务。
+-   修复了以下问题：将 Project Online 或 Project Server 中的主项目另存为 XML 可能会失败。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+-   修复了在某些应用场景中导致更新安装所用时间过长的 bug。 
+-   修复了 SVG 测试失败的问题
+-   修复了以下问题：使用 System Center Configuration Manager 将更新部署到运行 Office 应用程序的客户端时，在 Office 应用程序正在运行的情况下重启设备后更新未应用。
+
 
 ## <a name="version-1803-june-12"></a>版本 1803：6 月 12 日
 *版本 1803（生成号 9126.2227）*

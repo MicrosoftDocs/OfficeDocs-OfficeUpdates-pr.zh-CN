@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: c9aeb8d27fca4a5f5a7175ba5337f3ed4ef45adc
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 595887039a9e93f1796c539fd7fcd235fda25056
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036241"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246282"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -35,7 +35,38 @@ ms.locfileid: "20036241"
 > - 仅列出过去四个月的版本。
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。 
+
+ ## <a name="july-10-2018"></a>2018 年 7 月 10 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新发布为版本 1806（内部版本 10228.20104）。
   
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1805（内部版本 10228.20080）  <br/> |2018 年 6 月 25 日  <br/> |79  <br/> |
+|版本 1805（内部版本 9330.2124）  <br/> |2018 年 6 月 13 日  <br/> |149  <br/> |
+|版本 1805（内部版本 9330.2118）  <br/> |2018 年 6 月 12 日  <br/> |401  <br/> |
+|版本 1805（内部版本 9330.2087）  <br/> |2018 年 5 月 24 日  <br/> |150  <br/> |
+
+   
+### <a name="semi-annual-channel"></a>半年频道
+
+最新发布为版本 1708（内部版本 9126.2259）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1708（生成号 8431.2250）  <br/> |2018 年 5 月 8 日  <br/> |280  <br/> |
+|版本 1708（内部版本 8431.2242）  <br/> |2018 年 4 月 10 日  <br/> |280  <br/> |
+   
+### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
+
+最新发布为版本 1803（内部版本 9126.2259）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1803（内部版本 9126.2210）  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
+|版本 1803（内部版本 9126.2191）  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>2018 年 6 月 25 日

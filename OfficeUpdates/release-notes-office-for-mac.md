@@ -3,7 +3,7 @@ title: Office for Mac 发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886948"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246272"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -31,6 +31,25 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > - 这些发行还适用于 Office 2016 for Mac（它是 Office for Mac 的永久版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Office 365 订阅的情况下才适用。
 > - 仅为最新版本提供下载链接。
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
+
+## <a name="july-2018-release"></a>2018 年 7 月版本
+
+ **发布日期：** 2018 年 7 月 10 日 
+  
+ *版本 16.15.0（内部版本 18070902）* 
+  
+此版本提供以下更新。
+  
+|**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
+|:-----|:-----|:-----|
+|Word  <br/> |**辅助功能问题的一键式修复**：辅助功能检查器的性能得到了前所未有的提升：更新了对国际标准的支持，并提供了易用建议，使你的文档更易于访问。[了解更多信息](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Excel  <br/> |||[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**通过视频使介绍更加生动**：观看 YouTube 视频，向幻灯片添加实时操作，无需离开应用即可进行查看。[了解更多信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|Microsoft AutoUpdate 4.1  <br/> |更新到 Aria SDK 8.4。修复了内存泄漏问题。<br/><br/>对应用注册进行了更改。现在支持 Office 2019 预览版。||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
+|Office 套件  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞  <br/> ||
+
+
 
 ## <a name="june-2018-release"></a>2018 年 6 月版本
 
@@ -56,7 +75,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Excel  <br/> |**快速填充数据：** 为快速填充提供几个示例后，它就会为你填充数据。[了解更多](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **打破语言障碍：** 使用 Microsoft Translator 将字词、短句或句子翻译成其他语言。[了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
 |PowerPoint  <br/> |**打破语言障碍：** 使用 Microsoft Translator 将字词、短句或句子翻译成其他语言。[了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**使用其他生动颜色显示超链接：** 超链接不再只是蓝色的。可以根据需要应用任何字体颜色。[了解更多](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
 |Outlook  <br/> |**创建易记签名：** 使用丰富的字形、颜色、图像、链接等来表现自我。[了解更多](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **创建组并与之协作：** 要在 Outlook 中创建 Office 365 组？没问题！还可以添加和删除成员。Mac 上的协作过程变简单了。[了解更多](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
-|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18061000_Updater.pkg) <br/> |  
 
 ## <a name="may-2018-release"></a>2018 年 5 月版本
 
@@ -105,12 +124,12 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|:-----|
-|Word  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 文档将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在文档中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.12.18041000_Updater.pkg) <br/> |
-|Excel  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 工作簿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在工作簿中插入和编辑 可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞  <br/> ||[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.12.18041000_Updater.pkg) <br/> |
-|PowerPoint  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 演示文稿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。   <br/><br/> **添加视觉效果：** 在演示文稿中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |||[PowerPoint 更新程序包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.12.18041000_Updater.pkg) <br/> |
-|Outlook  <br/> |**添加视觉效果：** 在电子邮件中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**更易操作的日历：** 单击日历中的任何会议或事件，以查看所有相关联的详细信息。在同一位置查看受到邀请的人员、编辑你的响应或加入会议。<br/> <br/> **轻松扫描搜索结果：** Outlook 在项目列表或预览窗格中突出显示你的搜索项。  <br/> <br/> **周数：** 现在将在日历月份视图和边栏中的小型日历中显示周数。若要启用此功能，请选中 Outlook“首选项 \> 日历”\>\>日历选项中的“显示周数”。<br/> <br/> **计划 Skype 会议：** 代理人现在可以代表主体使用主体的电子邮件地址来计划 Skype for Business Online 会议。*（仅限 Skype for Business Online。将在以后服务器更新时对 Skype for Business Server 2015 启用该功能。）*  <br/> ||在编辑和删除服务器规则时提升了错误处理功能。在规则列表中首次显示服务器规则时，现在将突出显示含有错误的服务器规则。  <br/> |[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.12.18041000_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[OneNote 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.12.18041000_Updater.pkg) <br/> |
-|Microsoft AutoUpdate 3.18  <br/> |对 msupdate 命令行工具的支持。[了解详细信息](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> |||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.18.18041000_Updater.pkg) <br/> |
+|Word  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 文档将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在文档中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
+|Excel  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 工作簿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在工作簿中插入和编辑 可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞  <br/> ||||
+|PowerPoint  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 演示文稿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。   <br/><br/> **添加视觉效果：** 在演示文稿中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
+|Outlook  <br/> |**添加视觉效果：** 在电子邮件中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**更易操作的日历：** 单击日历中的任何会议或事件，以查看所有相关联的详细信息。在同一位置查看受到邀请的人员、编辑你的响应或加入会议。<br/> <br/> **轻松扫描搜索结果：** Outlook 在项目列表或预览窗格中突出显示你的搜索项。  <br/> <br/> **周数：** 现在将在日历月份视图和边栏中的小型日历中显示周数。若要启用此功能，请选中 Outlook“首选项 \> 日历”\>\>日历选项中的“显示周数”。<br/> <br/> **计划 Skype 会议：** 代理人现在可以代表主体使用主体的电子邮件地址来计划 Skype for Business Online 会议。*（仅限 Skype for Business Online。将在以后服务器更新时对 Skype for Business Server 2015 启用该功能。）*  <br/> ||在编辑和删除服务器规则时提升了错误处理功能。在规则列表中首次显示服务器规则时，现在将突出显示含有错误的服务器规则。  <br/> ||
+|OneNote  <br/> ||||
+|Microsoft AutoUpdate 3.18  <br/> |对 msupdate 命令行工具的支持。[了解详细信息](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> ||||
    
 ## <a name="march-2018-release"></a>2018 年 3 月版本
 

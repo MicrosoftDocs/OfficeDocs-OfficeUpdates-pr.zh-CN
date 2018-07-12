@@ -3,7 +3,7 @@ title: Project Server 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 在一个位置集中查找和管理 Project Server 2013 和 Project Server 2010 更新程序。单击此页面上的链接可以详细了解并下载这些更新程序。
-ms.openlocfilehash: 937c82bb1a039c463616d09549f48453b1943d9f
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 522f7301105728c078a1b6c5b7522fe0cf436b29
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886868"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246302"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -30,6 +30,7 @@ ms.locfileid: "19886868"
   
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2018 年 7 月  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
 |2018 年 6 月  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |2018 年 5 月  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
 |2018 年 4 月  <br/> |[KB4018346](https://support.microsoft.com/kb/4018346) <br/> |
@@ -75,8 +76,9 @@ ms.locfileid: "19886868"
    
 ## <a name="project-server-2010-update-history"></a>Project Server 2010 更新历史记录
 
-|**发布日期**|**KB 编号**|
+|**发布日期**|**知识库编号**|
 |:-----|:-----|:-----|
+|2018 年 7 月  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
 |2018 年 6 月  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |2018 年 5 月  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
 |2018 年 4 月  <br/> |[KB4018358](https://support.microsoft.com/kb/4018358) <br/> |

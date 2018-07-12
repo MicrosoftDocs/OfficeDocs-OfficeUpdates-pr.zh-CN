@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/29/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
-ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
+ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/29/2018
-ms.locfileid: "20157860"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246252"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -25,6 +25,18 @@ ms.locfileid: "20157860"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
  
+## <a name="version-1806-july-10"></a>版本 1806：7 月 10 日
+*版本 1806（内部版本 10228.20104）*
+
+### <a name="access-security-updates"></a>Access：安全更新
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
+
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 篡改漏洞
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞
+
 
 ## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
 *版本 1806（生成号 10228.20080）*
