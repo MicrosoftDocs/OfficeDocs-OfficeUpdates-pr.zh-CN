@@ -3,33 +3,33 @@ title: 每月通道版本中 2017年发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/12/2017
+ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供在 2017 Office 365 ProPlus 的发行版的 IT 专业人员使用的每月通道发行说明
-ms.openlocfilehash: 325036f301534ae903ec3e3693c31fac5356e30c
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555919"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334442"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>每月通道版本中 2017年发行说明
 
 这些发行说明提供涉及新功能、 安全更新和非安全更新 2017年在 Office 365 ProPlus 每月通道更新中包含的信息。
  
 > [!NOTE]
-> - 下面还提供了有关新功能、 安全更新和非安全更新的 Visio Pro for Office 365 和 Project Online 桌面客户端。
-> - 此信息也适用于 Office 365 企业版，即附带了一些 Office 365 计划，如企业高级版的 Office 的版本。
+> - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
+> - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 每月通道被命名为年 9 月 2017年之前的当前通道。
 
 ## <a name="version-1711-december-12"></a>版本 1711年: 12 月 12 日
-*版本 1711 （构建 8730.2127）*
+*版本 1711（内部版本 8730.2127）*
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939)：Microsoft Office 信息泄漏漏洞
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
@@ -38,7 +38,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1711-december-6"></a>版本 1711年： 年 12 月 6
-*版本 1711 （构建 8730.2122）*
+*版本 1711（内部版本 8730.2122）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **快速访问网站和组：** 使用“文件”菜单处理常用网站和组中存储的文档。
@@ -68,15 +68,15 @@ ms.locfileid: "19555919"
 -   修复了以下问题：Skype for Business 联系人卡片中不显示领英数据。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **字符数：** 在输入过程中，可以在状态栏上看到字符数。可以通过“自定义状态栏”菜单启用此功能。
+-   **字符计数：** 在输入过程中，可以在状态栏上看到字符计数。可以通过“自定义状态栏”菜单启用此功能。
 -   **快速访问网站和组：** 使用“文件”菜单处理常用网站和组中存储的文档。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   启用 Office COM 对象时，“文件 \> 帐户 \> 更新选项”中的“立即更新”选项处于隐藏状态，以便 System Center Configuration Manager 能够管理 Office 365 客户端更新。
 
 
 ## <a name="version-1710-november-27"></a>版本 1710年： 年 11 月 27 日
-*版本 1710 （构建 8625.2139）*
+*版本 1710（内部版本 8625.2139）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：使用宏打开 Office 2007 或更低版本工作簿（.xls 或 .xla）时，用户错误地看到“灾难性故障”错误消息。
@@ -87,10 +87,10 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1710-november-20"></a>版本 1710年： 年 11 月 20
-*版本 1710 （构建 8625.2132）*
+*版本 1710（内部版本 8625.2132）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
--   修复了以下问题：打开 Access 运行时应用程序 (.accde file) 出现“无法识别此数据库的格式”错误消息且应用程序无法打开。
+-   修复了以下问题：打开 Access 运行时应用程序 (.accde file) 导致“无法识别此数据库的格式”错误消息出现，且应用程序无法打开。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：当用户尝试在现有的工作簿中插入对象时，用户单击“浏览”导致 Excel 发生故障的问题。
@@ -100,20 +100,20 @@ ms.locfileid: "19555919"
 -   修复了以下问题：在使用可访问事件观察器 (AccEvent.exe) 进行监视时，切换文件夹导致 Outlook 故障。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了以下问题：引用基于 Flash Player 的 YouTube 嵌入代码，导致打开新窗口来播放视频。旧嵌入代码现已升级为，引用基于 HTML5 的 YouTube 视频，以便正确就地播放这些视频。
+-   修复了对基于 Flash Player 的 YouTube 嵌入代码进行引用导致打开新窗口播放视频的问题。旧嵌入代码现已升级以引用基于 HTML5 的 YouTube 视频，以便正确播放这些视频。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了以下问题：在动态 DPI 环境下 Office 加载项存在的缩放问题。
+-   修复了在动态 DPI 环境下 Office 外接程序缩放的问题。
 -   修复了以下问题：即使当前安装了 Office 365 专业增强版，Office 配置服务提供程序 (CSP) 的 CurrentStatus 节点也会返回空字符串。
--   修复了以下问题：.box 文件格式更改，影响安装在同一台计算机上的旧版 Office 的功能，因为 .box 文件在同一台计算机上所有版本的 Office 应用程序之间共享。
+-   修复了导致 .box 文件格式更改的问题，这些更改会影响安装在同一台计算机上的旧版 Office 的功能，因为 .box 文件在同一台计算机上的所有 Office 应用版本之间共享。
 
 
 
 ## <a name="version-1710-november-14"></a>版本 1710年: 11 月 14 日
-*版本 1710 （构建 8625.2127）*
+*版本 1710（内部版本 8625.2127）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能绕过漏洞
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能规避漏洞
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878)：Microsoft Excel 内存损坏漏洞
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884)：Microsoft Office 内存损坏漏洞
 
@@ -129,19 +129,19 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1710-november-2"></a>版本 1710年： 年 11 月 2
-*版本 1710 （构建 8625.2121）*
+*版本 1710（内部版本 8625.2121）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **数字铅笔：** 使用我们新的铅笔纹理记录或勾画创意灵感。只需倾斜支持的数字铅笔即可绘制底纹。
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解更多](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解更多](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **数字铅笔：** 使用我们新的铅笔纹理记录或勾画创意灵感。只需倾斜支持的数字铅笔即可绘制底纹。
 -   **发布到 Microsoft Stream：** 通过使用 Microsoft Stream 在组织中更为安全地将演示文稿作为视频进行共享。 [更多信息](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解更多](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **“任务板”视图：** 在“任务板”视图中，对卡片上的任务进行排序。在任务板上的各栏之间重新排序和移动卡片，就跟在敏捷项目中一样。
@@ -170,12 +170,12 @@ ms.locfileid: "19555919"
 -   **Microsoft Translator：** 在 Word 中直接使用 Microsoft Translator 将字词、短语或整篇文档翻译成其他语言。 [更多信息](https://support.office.com/article/24a987b3-03a1-4c17-8c1b-54495fca6b17)
 -   **数字铅笔：** 使用我们新的铅笔纹理记录或勾画创意灵感。只需倾斜支持的数字铅笔即可绘制底纹。
 -   **在 LinkedIn 的帮助下编写你的出色简历：** 通过简历助手查看工作经验、建议技能及给定角色的详细信息。 [了解详细信息](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a)
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解更多](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 
 
 ## <a name="version-1709-october-25"></a>版本 1709年： 年 10 月 25
-*版本 1709 （构建 8528.2147）*
+*版本 1709（内部版本 8528.2147）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
 -   修复了以下问题：尝试选择文本框或组合框中的文本时似乎会选择所有文本，而不是指示的选择内容。
@@ -183,10 +183,10 @@ ms.locfileid: "19555919"
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：拖动或拖动填充时，工具提示的位置未对齐。
 -   修复了以下问题：使用“文件”\>“另存为”保存工作簿时，包含句点的文件名在文件保存对话框中显示为空白或被截断。
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了以下问题：保存支持同步的文件时，Office 无法写入磁盘，但 Office 仍然将该文件上传到 OneDrive。使用此修复程序后，用户现在将看到一条错误消息，且上传不会继续执行。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了以下问题：保存支持同步的文件时，Office 无法写入磁盘，但 Office 仍然将该文件上传到 OneDrive。使用此修复程序后，用户现在将看到一条错误消息，且上传不会继续执行。
 
 ### <a name="publisher-non-security-updates"></a>Publisher：非安全更新
 -   修复了以下问题：运行“邮件合并”向导时，无法筛选包含 null（空）值的数据源字段。
@@ -194,12 +194,12 @@ ms.locfileid: "19555919"
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复了以下问题：如果用户尝试对 OneDrive for Business 上的现有文档执行“另存为”操作，然后又取消保存或尝试合并现有更改，Word 发生故障。
 -   修复了以下问题：运行“邮件合并”向导时，无法筛选包含 null（空）值的数据源字段。
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了以下问题：保存支持同步的文件时，Office 无法写入磁盘，但 Office 仍然将该文件上传到 OneDrive。使用此修复程序后，用户现在将看到一条错误消息，且上传不会继续执行。
 
 
 
 ## <a name="version-1709-october-16"></a>版本 1709年: 10 月 16 日
-*版本 1709 （构建 8528.2139）*
+*版本 1709（内部版本 8528.2139）*
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **使用数控笔执行幻灯片放映：** 使用 Surface 触控笔或其他带有蓝牙按钮的触笔切换幻灯片。需要安装 Windows 10 Fall Creators Update。 [更多信息](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
@@ -226,9 +226,9 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1708-october-10"></a>版本 1708年： 年 10 月 10
-*版本 1708 （构建 8431.2107）*
+*版本 1708（内部版本 8431.2107）*
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774)：Microsoft Outlook 安全功能绕过漏洞
 -   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776)：Microsoft Outlook 信息泄漏漏洞
 
@@ -236,15 +236,15 @@ ms.locfileid: "19555919"
 -   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826)：Microsoft Office 内存损坏漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 远程代码执行漏洞
 
 
 
 ## <a name="version-1708-october-4"></a>版本 1708年： 年 10 月 4
-*版本 1708 （构建 8431.2094）*
+*版本 1708（内部版本 8431.2094）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
--   修复了以下问题：如果查询与 Microsoft Dynamics 被链接表中的主键联接，查询将不会执行。
+-   修复了当查询与 Microsoft Dynamics 链接表中的主键存在连接时，查询不执行的问题。
 -   修复了以下问题：Microsoft Dynamics 表中货币值不显示小数位数。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -260,7 +260,7 @@ ms.locfileid: "19555919"
 -   修复了以下问题：在使用 SheetBeforeRightClick 事件时，插入与合并单元格相交的列不会展开合并的单元格。
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
--   修复了以下问题：使用深灰色主题时，策略提示中的“了解更多”链接不可见。
+-   修复了在使用深灰色主题时，策略提示中的“了解更多”链接不可见的问题。
 -   修复了以下问题：用户尝试设置新帐户和在完成帐户设置之前关闭窗口时，Outlook 崩溃。
 -   修复了以下问题：“标记为已读”和“标记为未读”显示为群组共享收件箱中的邮件选项。
 
@@ -279,19 +279,19 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1708-september-18"></a>版本 1708年： 年 9 月 18
-*版本 1708 （构建 8431.2079）*
+*版本 1708（内部版本 8431.2079）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
--   **Dynamics 连接器：** 导入 Microsoft Dynamics 中的数据，或链接到其中存储的数据。 [详细信息](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Salesforce 连接器：** 导入 Salesforce 中的数据，或链接到其中存储的数据。 [详细信息](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Dynamics 连接器：** 导入 Microsoft Dynamics 中的数据，或链接到其中存储的数据。[更多信息](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Salesforce 连接器：** 导入 Salesforce 中的数据，或链接到其中存储的数据。[详细信息](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **3D 模型：** 使用 3D 增强工作簿的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [更多信息](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **“从示例中添加列”增强功能：** 支持更多的日期/时间、数学和索引列转换。
--   **性能改进：** Excel 将以更快的速度打开包含多个工作表的复杂工作簿，以便可以更快地处理包含大片区域的公式、筛选多个行或进行复制和粘贴。
+-   **性能改进：** Excel 将以更快的速度打开包含多个工作表的复杂工作簿，以便可以更快地处理包含大片区域的公式、筛选多个行或进行复制和粘贴。 
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了从 Word 复制并粘贴制表符分隔的文本时制表符被忽略，进而导致文本无法解析到列中的问题。
@@ -306,7 +306,7 @@ ms.locfileid: "19555919"
 -   **3D 模型：** 使用 3D 增强演示文稿的视觉效果和创意效果。使用切换效果（例如可在幻灯片之间打造电影动画效果的“平滑”）使演示文稿中的 3D 模型栩栩如生。 [更多信息](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **在规划器中管理任务：** 将项目任务链接到规划器中，并为任务创建计划。将任务分解为子任务，添加团队，分配任务并管理任务板上的工作。
@@ -320,7 +320,7 @@ ms.locfileid: "19555919"
 -   修复了以下问题：无法始终正确计算摘要任务的状态字段。
 
 ### <a name="publisher-feature-updates"></a>Publisher：功能更新
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   添加对话框，解释当阻止特定端口或 IP 未列入白名单时，用户为何无法加入某个会议。
@@ -334,13 +334,13 @@ ms.locfileid: "19555919"
 -   修复了以下问题：IM 对话中的共享通知在共享停止前消除。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **3D 模型：** 使用 3D 增强文档的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [更多信息](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了无法显示“新增功能”对话框的问题。
@@ -348,7 +348,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1707-september-12"></a>版本 1707年： 年 9 月 12
-*版本 1707 （构建 8326.2107）*
+*版本 1707（内部版本 8326.2107）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631)：Microsoft Office 内存损坏漏洞
@@ -377,7 +377,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1707-august-29"></a>版本 1707年： 年 8 月 29
-*版本 1707 （构建 8326.2096）*
+*版本 1707（内部版本 8326.2096）*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 -   修复了以下问题：无法显示与字体关联的最终用户定义字符 (EUDC)。
@@ -385,7 +385,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1707-august-24"></a>版本 1707年: 8 月 24 日
-*版本 1707 （构建 8326.2087）*
+*版本 1707（内部版本 8326.2087）*
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全更新
 -   修复了以下问题：当通过双击文件图标或文件名打开 Visio 文件时，COM 外接程序不接收文档打开事件。
@@ -398,28 +398,28 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1707-august-18"></a>版本 1707年： 年 8 月 18
-*版本 1707 （构建 8326.2076）*
+*版本 1707（内部版本 8326.2076）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
--   修复了以下问题：无法在 Outlook 中配置 IMAP 帐户。
+-   修复了无法在 Outlook 中配置 IMAP 帐户的问题。
 -   修复了以下问题：打开 Outlook 时，发生间歇性故障。
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
--   修复了以下问题：加载 Grammarly 外接程序时，Word 意外关闭。
+-   修复了在加载 Grammarly 外接程序时，Word 意外关闭的问题。
 -   修复了以下问题：在某些情况下，当尝试恢复基于云的文件时，Word 发生故障。
 
 
 
 ## <a name="version-1707-august-11"></a>版本 1707年： 年 8 月 11
-*版本 1707 （构建 8326.2073）*
+*版本 1707（内部版本 8326.2073）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
--   修复了使用 SQL Server Analysis Services 服务器中的数据，且 Excel 与 SQL Server Analysis Services 服务器的区域设置不同时，数据刷新无法成功或 Excel 发生故障的问题。
+-   修复了以下问题：使用 SQL Server Analysis Services 服务器中的数据，且 Excel 与 SQL Server Analysis Services 服务器的区域设置不同时，数据刷新无法成功或 Excel 发生故障。
 
 
 
 ## <a name="version-1707-august-7"></a>版本 1707年： 年 8 月 7
-*版本 1707 （构建 8326.2070）*
+*版本 1707（内部版本 8326.2070）*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了某些非英语语言的登录屏幕为空的问题。
@@ -427,7 +427,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1707-july-31"></a>版本 1707年： 年 7 月 31 日
-*版本 1707 （构建 8326.2062）*
+*版本 1707（内部版本 8326.2062）*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了聊天和聊天历史记录中的非英语字符乱码问题。
@@ -435,7 +435,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1707-july-28"></a>版本 1707年： 年 7 月 28
-*版本 1707 （构建 8326.2059）*
+*版本 1707（内部版本 8326.2059）*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了以下问题：一些程序文件的签名方式存在问题，导致防病毒程序标记这些文件，并且 Windows 信息保护 (WIP) 无法保护或访问数据。
@@ -443,7 +443,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1707-july-27"></a>版本 1707年: 7 月 27 日
-*版本 1707 （构建 8326.2058）*
+*版本 1707（内部版本 8326.2058）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **标签名称属性：** 通过将标签与窗体上的控件相关联，增强了辅助功能。
@@ -459,14 +459,14 @@ ms.locfileid: "19555919"
 -   **下载云附件：** 将 OneDrive 附件保存或拖放到计算机后，我们会为用户下载文件。
 -   **实用的语音提示改进了辅助功能：** 启用语音提示后，可指导用户完成工作。此功能位于“文件”\>“选项”\>“辅助功能”中。无需使用加载项。 [更多信息](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能绕过漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能规避漏洞
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572)：Microsoft Office Outlook 信息泄漏漏洞
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663)：Microsoft Office Outlook 内存损坏漏洞
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **自动保存：** 自动保存对云中存储的演示文稿的更改，在几秒内就可以看到其他人的更新。 [更多信息](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
--   **突出显示修订：** 突出显示其他用户已修改的幻灯片。
+-   **修订突出显示：** 突出显示其他用户已修改的幻灯片。
 -   **离开期间：** PowerPoint 显示自你上次访问以后对共享演示文稿进行过编辑的用户。
 -   **设计器改进：** 现在，设计器会推荐有关项目符号列表中日程表的设计灵感。
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。 [更多信息](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -501,7 +501,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1706-july-19"></a>版本 1706年： 年 7 月 19
-*版本 1706 （构建 8229.2103）*
+*版本 1706（内部版本 8229.2103）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：在尝试将更改保存到与 OneDrive 客户端同步的文档时出现错误。
@@ -520,22 +520,22 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1706-july-13"></a>版本 1706年： 年 7 月 13
-*版本 1706 （构建 8229.2086）*
+*版本 1706（内部版本 8229.2086）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502)：Microsoft Office 内存损坏漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程代码执行漏洞
 
 
 
 ## <a name="version-1706-june-28"></a>1706 的版本： 6 月 28 日
-*版本 1706 （构建 8229.2073）*
+*版本 1706（内部版本 8229.2073）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **手写笔自定义：** 选择手写笔和荧光笔墨迹书写的个人设置。自定义设置在所有 Windows 电脑上可用。
+-   **触笔自定义：** 选择一组自己的触笔和荧光笔进行墨迹书写。自定义组适用于所有 Windows 电脑。
 -   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
 -   **Azure Data Lake Store 连接器：** 用户现在可以从 Azure Data Lake Store 导入数据。
 -   **“从示例中添加列”增强功能：** 支持建议、更多的日期/时间操作和其他转换。
@@ -544,7 +544,7 @@ ms.locfileid: "19555919"
 -   **新帐户配置：** 使用新向导设置一个手动操作步骤较少的新帐户。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **手写笔自定义：** 选择手写笔和荧光笔墨迹书写的个人设置。自定义设置在所有 Windows 电脑上可用。
+-   **触笔自定义：** 选择一组自己的触笔和荧光笔进行墨迹书写。自定义组适用于所有 Windows 电脑。
 -   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
@@ -563,13 +563,13 @@ ms.locfileid: "19555919"
 -   添加了新的 DWORD 注册表项以修复以下问题：当用户登录到执行 LyncAutoD 的外部网络上的客户端时，客户端将 OAuthUsed 注册表项重置为 False。若要修复此问题，请将 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的值设置为 1。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **手写笔自定义：** 选择手写笔和荧光笔墨迹书写的个人设置。自定义设置在所有 Windows 电脑上可用。
+-   **触笔自定义：** 选择一组自己的触笔和荧光笔进行墨迹书写。自定义组适用于所有 Windows 电脑。
 -   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
 
 
 
 ## <a name="version-1705-june-13"></a>1705 的版本： 6 月 13 日
-*版本 1705 （构建 8201.2102）*
+*版本 1705（内部版本 8201.2102）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：以编程方式为使用 Excel 2010 或更低版本创建的工作簿应用工作表保护密码时，Excel 无法设置此密码。
@@ -595,7 +595,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1705-june-7"></a>1705 的版本： 6 月 7 日
-*版本 1705 （构建 8201.2075）*
+*版本 1705（内部版本 8201.2075）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **保留副本**：在复制单元格后以及粘贴单元格前，仍可以执行其他任务，如键入内容或插入单元格。
@@ -616,7 +616,7 @@ ms.locfileid: "19555919"
 -   **链接附加对话框：** 使用功能区上的“附加文件”附加链接时，可以选择是将它添加为链接，还是添加为附件。如果不想每次都看到此对话框，请依次转到“文件”\>“选项”\>“常规”，并在“附件选项”下指定所需的链接附加方式。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **视频隐藏式字幕：** 可以在视频中添加隐藏式字幕，使其更易于访问。 [更多信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **视频的隐藏式字幕：** 可以在视频中添加隐藏式字幕，使其更易于访问。[详细信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **设计器改进：** 设计器现在对幻灯片中添加的图表提供设计灵感建议。
 -   **Windows 信息保护 (WIP) 支持：**   PowerPoint 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](https://aka.ms/wiptechnet)
 
@@ -653,7 +653,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1704-june-1"></a>1704 的版本： 6 月 1 日
-*版本 1704 （构建 8067.2157）*
+*版本 1704（内部版本 8067.2157）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
 -   修复了以下问题：显示多个段落时，OneNote 画布会隐藏内容或更新。
@@ -664,7 +664,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1704-may-18"></a>版本 1704年: 5 月 18 日
-*版本 1704 （构建 8067.2115）*
+*版本 1704（内部版本 8067.2115）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **插入最近使用的链接：** 轻松地将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
@@ -678,7 +678,7 @@ ms.locfileid: "19555919"
 -   **重点收件箱：** 收件箱分为两个选项卡 – 重点和其他。邮件根据邮件内容以及最常与之交互的联系人进行排序。 [更多信息](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
 -   **快速访问最常用的组：** 你最常与之交互的组现在显示在“文件夹”窗格的“组”下方列表的顶部。
 -   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [更多信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **可操作的消息：** 开发人员可以创建可轻松用户可以采取而无需切换到外部网站或单独的应用程序[的详细信息](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)的简单或快速操作直接在 Outlook 的邮件
+-   **可操作邮件：** 开发人员可以创建能够轻松地使用户直接从 Outlook 执行简单或快速操作而无需切换到外部网站或单独应用的邮件。[更多信息](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 -   **支持本地附件：** 本地 SharePoint Server 中的文件显示为“邮件”\>“附加文件”下的最近使用的文件，本地 OneDrive for Business 和 SharePoint 团队网站显示在“附加文件”\>“浏览 Web 位置”下，本地文件可以上传到本地的 OneDrive for Business 站点。
 -   **组业务分类：**  可在创建或编辑组时分配由租户管理员定义的业务分类级别，例如“机密”，并且分类会显示在组标头中。
 
@@ -724,7 +724,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1703-may-9"></a>版本 1703年： 年 5 月 9
-*版本 1703 （构建 7967.2161）*
+*版本 1703（内部版本 7967.2161）*
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
@@ -741,7 +741,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1703-april-21"></a>4 月 21 日 1703年的版本：
-*版本 1703 （构建 7967.2139）*
+*版本 1703（内部版本 7967.2139）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **新增功能对话框：** 在 Access 更新了新功能后，打开 Access 时，会显示一个突出显示新 Access 功能的对话框。此外，还可以通过转到“文件”\>“帐户”\>“新增功能”找到此对话框。
@@ -796,9 +796,9 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1702-april-11"></a>版本 1702年： 年 4 月 11
-*版本 1702 （构建 7870.2038）*
+*版本 1702（内部版本 7870.2038）*
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204)：Microsoft Office 安全功能绕过漏洞
 
@@ -808,7 +808,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1702-march-27"></a>版本 1702年： 年 3 月 27 日
-*版本 1702 （构建 7870.2031）*
+*版本 1702（内部版本 7870.2031）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了在用户尝试应用单元格级别权限时 Excel 出现故障的问题。
@@ -822,7 +822,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1702-march-14"></a>版本 1702年： 年 3 月 14
-*版本 1702 （构建 7870.2024）*
+*版本 1702（内部版本 7870.2024）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
@@ -831,12 +831,12 @@ ms.locfileid: "19555919"
 -   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
 
 
 
 ## <a name="version-1702-march-9"></a>版本 1702年： 年 3 月 9
-*版本 1702 （构建 7870.2020）*
+*版本 1702（内部版本 7870.2020）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **支持大数 (bigint)：** 使用 Access 表中的 Large Number 数据类型来计算大型数字，并链接到使用等效数据类型的外部数据库（如 SQL Server 中的 bigint）或从中导入。 [详细信息](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
@@ -915,7 +915,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1701-february-23"></a>版本 1701年： 年 2 月 23
-*版本 1701 （构建 7766.2060）*
+*版本 1701（内部版本 7766.2060）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **改进了数据转换和连接性：** 将列表扩展为在各值之间使用分隔符的新文本列，并在连接 SQL 时指定故障转移选项。
@@ -977,7 +977,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1612-january-31"></a>版本 1612年: 1 月 31 日
-*版本 1612 （构建 7668.2074）*
+*版本 1612（内部版本 7668.2074）*
 
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business：非安全更新
 -   修复了以下问题：在无法成功加载 GrooveIntlResource.dll 的情况下（通常不太可能会发生这种情况），如果用户尝试打开文件或将文件保存到同步文件夹，Office 应用可能会发生故障，或者如果用户使用 Windows 资源管理器转到同步文件夹，Windows 资源管理器可能会发生故障。
@@ -988,7 +988,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1612-january-25"></a>版本 1612年： 年 1 月 25
-*版本 1612 （构建 7668.2066）*
+*版本 1612（内部版本 7668.2066）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **对共享文件做出的更改** 查看共享文档的更改人，并还原旧版文档。 [更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
@@ -1067,7 +1067,7 @@ ms.locfileid: "19555919"
 
 
 ## <a name="version-1611-january-4"></a>版本 1611年： 年 1 月 4
-*版本 1611 （构建 7571.2109）*
+*版本 1611（内部版本 7571.2109）*
 
 注意： 在 Microsoft 安全公告[MS17 002](https://technet.microsoft.com/library/security/ms17-002)中介绍的安全更新不应用于此通道版本中的 Word 版本。
 
