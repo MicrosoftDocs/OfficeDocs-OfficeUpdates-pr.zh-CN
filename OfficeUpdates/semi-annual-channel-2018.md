@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 8de935da67b21dd14f3ff27dacef5c27dab3af93
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 96cad4972abd4987d6d3f2bd3a9d8815951ed891
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246262"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334432"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>有关 2018 年半年频道发行的发行说明
 
@@ -47,7 +47,7 @@ ms.locfileid: "20246262"
 -   **3D 模型：** 使用 3D 增强工作簿的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。 [了解更多](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **按帐户组织的文件位置：** 打开或保存文件时，位置列表是按与位置关联的帐户进行组织。
 -   **触笔自定义：** 选择一组自己的触笔和荧光笔进行墨迹书写。自定义组适用于所有 Windows 电脑。
@@ -142,8 +142,8 @@ ms.locfileid: "20246262"
 -   **3D 模型：** 使用 3D 增强演示文稿的视觉效果和创意效果。使用切换效果（例如可在幻灯片之间打造电影动画效果的“平滑”）使演示文稿中的 3D 模型栩栩如生。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
--   **修订突出显示：** 突出显示其他用户已修改的幻灯片。
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **修订突出显示：** 突出显示由其他用户已修改的幻灯片。
 -   **离开期间：** PowerPoint 显示自你上次访问以后对共享演示文稿进行过编辑的用户。
 -   **设计器改进：** 现在，设计器会推荐有关项目符号列表中日程表的设计灵感。
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。 [了解更多](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -203,7 +203,7 @@ ms.locfileid: "20246262"
 -   修复了以下问题：转到包含多个图像的报表时，Project 可能会发生故障。
 
 ### <a name="publisher-feature-updates"></a>Publisher：功能更新
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="publisher-non-security-updates"></a>Publisher：非安全更新
 -   修复了以下问题：运行“邮件合并”向导时，无法筛选包含 null（空）值的数据源字段。
@@ -255,7 +255,7 @@ ms.locfileid: "20246262"
 -   **创建移动应用程序的线框：** 使用模板创建移动应用程序的线框。[了解详细信息](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 -   **将数据图形应用到数据可视化工具图表：** 通过自动将形状数据应用为数据图形，从而在创建数据可视化工具图表时节省时间。 [了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6?#apply_dg)
 -   **协作绘图：** 通过在 OneDrive for Business 或 SharePoint Online 上共享绘图，可以与人协作绘图。可以查看谁正在处理绘图，也可以添加注释和查看文件活动。 [了解更多](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，这样就可以更改它们的颜色、尺寸或纹理。
@@ -268,7 +268,7 @@ ms.locfileid: "20246262"
 -   **3D 模型：** 使用 3D 增强文档的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **使用学习工具进行编辑：** 学习工具现适用于 Word 的 Web 布局。编辑时，可以调整文字间距，并显示音节。在任意视图中，大声朗读文档时，每个单词都会突出显示。 [了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **LaTeX 语法：** 使用 LaTeX 语法创建和编辑数学公式。
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。 [了解更多](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)

@@ -3,7 +3,7 @@ title: Office for Mac 发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: f1b878e883d8b8494c8e13b4c6cf55e1d90ca8d7
-ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
+ms.openlocfilehash: 8c3736486a5d0dc24fd99f2f382bd9bb426780b0
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2018
-ms.locfileid: "20275768"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334422"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -42,10 +42,10 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|
-|Word  <br/> |**辅助功能问题的一键式修复**：辅助功能检查器的性能得到了前所未有的提升：更新了对国际标准的支持，并提供了易用建议，使你的文档更易于访问。[了解更多信息](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Word  <br/> |||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**通过视频使介绍更加生动**：观看 YouTube 视频，向幻灯片添加实时操作，无需离开应用即可进行查看。[了解更多信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
-|Outlook  <br/> |||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |**提高 Google 帐户的安全性：** 安全改进意味着不再需要允许访问“安全级别较低的应用”或者设置应用密码，以便将 Google 帐户添加到 Outlook。[了解更多](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.1  <br/> |更新到 Aria SDK 8.4。修复了内存泄漏问题。<br/><br/>对应用注册进行了更改。现在支持 Office 2019 预览版。||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
 |Office 套件  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞  <br/> ||
 

@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新发行信息
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/18
+ms.date: 7/12/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: d4a315cdb40d7cf60739fea14239f732d1f7d6a5
-ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
+ms.openlocfilehash: 1ebca9f429fced94f9096ba8ffa00377ab9c93e9
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2018
-ms.locfileid: "20275748"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334402"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
@@ -28,7 +28,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 |:-----|:-----|:-----|:-----|:-----|
 |每月  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |版本 1807 已发布 <br/>|
 |半年（定向）  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2018 年 9 月 11 日 <br/>|
-|半年 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018 年 7 月 10 日  <br/> |2019 年 9 月 11 日 <br/>|
+|半年 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018 年 7 月 10 日  <br/> |2019 年 1 月 8 日 <br/>|
 |半年延期 <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2019 年 3 月 12 日 <br/>|
 
 有关从先前版本的 Office 365 专业增强版更新到最新版本时的大致下载大小的信息，请参阅 [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)。
