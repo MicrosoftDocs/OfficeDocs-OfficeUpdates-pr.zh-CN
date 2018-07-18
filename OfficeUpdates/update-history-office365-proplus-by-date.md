@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 7c9b1f343cb2f9e467b3118b454baf154061502f
-ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
+ms.openlocfilehash: 93ca6b7ae685e87054c4f2dd9508a62d2a3670ce
+ms.sourcegitcommit: 8abc8240e5b4b922070ac9498ed5ac311732e4b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2018
-ms.locfileid: "20275758"
+ms.lasthandoff: 07/17/2018
+ms.locfileid: "20435661"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -35,7 +35,7 @@ ms.locfileid: "20275758"
 |2018 年|7 月 10 日   |[**版本 1806（内部版本 10228.20104）**](monthly-channel-2018.md#version-1806-july-10) |[**版本 1803（内部版本 9126.2259）**](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[**版本 1803（内部版本 9126.2259）**](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [版本 1708（内部版本 8431.2280）](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||6 月 25 日   |[版本 1806（内部版本 10228.20080）](monthly-channel-2018.md#version-1806-june-25) |||
 ||6 月 13 日   |[版本 1805（生成号 9330.2124）](monthly-channel-2018.md#version-1805-june-13) |||
-||6 月 12 日   |[版本 1805（生成号 9330.2118）](monthly-channel-2018.md#version-1805-june-12)  |[**版本 1803（生成号 9126.2227）**](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[**版本 1708（生成号 8431.2270）**](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [版本 1705（生成号 8201.2294）](semi-annual-channel-2018.md#version-1705-may-8)   |
+||6 月 12 日   |[版本 1805（内部版本 9330.2118）](monthly-channel-2018.md#version-1805-june-12)  |[版本 1803（生成号 9126.2227）](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[版本 1708（生成号 8431.2270）](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [版本 1705（内部版本 8201.2294）](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||5 月 24 日   |[版本 1805（生成号 9330.2087）](monthly-channel-2018.md#version-1805-may-24) |||
 ||5 月 23 日   |[版本 1805（内部版本 9330.2078）](monthly-channel-2018.md#version-1805-may-23)  |  |  |
 ||5 月 18 日   |  |[版本 1803（生成号 9126.2210）](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |

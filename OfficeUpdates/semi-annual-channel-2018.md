@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/11/2018
+ms.date: 7/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
-ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
+ms.openlocfilehash: c986913ae1c92e6f8e5e8992c71484ef141fc976
+ms.sourcegitcommit: 8abc8240e5b4b922070ac9498ed5ac311732e4b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/17/2018
-ms.locfileid: "20397965"
+ms.locfileid: "20435671"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>有关 2018 年半年频道发行的发行说明
 
@@ -331,9 +331,9 @@ ms.locfileid: "20397965"
 ## <a name="version-1708-july-10"></a>版本 1708：7 月 10 日
 *版本 1708（内部版本 8431.2280）*
 
-* 这是自 2017 年 9 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新程序。不过，新版半年频道（即版本 1803，生成号 16.0.9126.2259）现已推出，其中包含新增功能、安全更新程序和非安全更新程序*
+*这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新程序。不过，新版半年频道（即版本 1803，生成号 16.0.9126.2259）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
-### <a name="access-security-updates"></a>Access：安全更新
+### <a name="access-security-updates"></a>Access：安全更新程序
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新程序
