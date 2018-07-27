@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246252"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222943"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -25,6 +25,26 @@ ms.locfileid: "20246252"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
  
+## <a name="version-1807-july-25"></a>版本 1807：7 月 25 日
+*版本 1807（内部版本 10325.20082）*
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+- **Outlook 加载项警告：** Outlook COM 加载项有时会遇到导致 Outlook 其余部分运行速度变慢的问题。这些问题可能是由事件延迟导致的，例如在 Outlook 文件夹之间切换、新邮件的到达、正在打开日历项目等。出现此类问题时，Outlook 将在通知栏中显示一条警告。
+- **从“Outlook 提醒”对话框加入团队会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是团队在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+ - **超链接颜色：** 超链接不再只是蓝色的。可以根据需要应用任何字体颜色。[了解更多](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+
+### <a name="visio-feature-updates"></a>Visio：功能更新
+ - **利用 Visio 形状生成 Word 文档：** 自动向 Word 文档添加关系图内容（包括形状和元数据）。然后对文档进行自定义，以创建过程准则和操作手册。[了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+ - **在 IRM 中使用跟踪更改：** 现在可以在受 IRM 保护的且你不是所有者的文档中使用 Word 的“跟踪更改”功能。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+ - 修复了阻止某些用户打开由其他组织中的人员与其共享的受 IRM 保护的文档和电子邮件的一系列问题。
+
+
 ## <a name="version-1806-july-10"></a>版本 1806：7 月 10 日
 *版本 1806（内部版本 10228.20104）*
 
