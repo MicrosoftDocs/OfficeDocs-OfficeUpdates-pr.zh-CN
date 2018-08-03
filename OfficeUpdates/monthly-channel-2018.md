@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222943"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772499"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -39,7 +39,7 @@ ms.locfileid: "21222943"
  - **利用 Visio 形状生成 Word 文档：** 自动向 Word 文档添加关系图内容（包括形状和元数据）。然后对文档进行自定义，以创建过程准则和操作手册。[了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
- - **在 IRM 中使用跟踪更改：** 现在可以在受 IRM 保护的且你不是所有者的文档中使用 Word 的“跟踪更改”功能。
+ - **结合使用修订和 IRM：** 现在无需拥有完全控制使用权限，即可在受 IRM 保护的 Word 文档中使用修订功能。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
  - 修复了阻止某些用户打开由其他组织中的人员与其共享的受 IRM 保护的文档和电子邮件的一系列问题。
@@ -420,3 +420,5 @@ ms.locfileid: "21222943"
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
 -   修复了以下问题：VBA 代码从项目中丢失。
+
+注意：如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛] (https://answers.microsoft.com/)或[技术社区] (https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门] (https://support.microsoft.com/contactus)。

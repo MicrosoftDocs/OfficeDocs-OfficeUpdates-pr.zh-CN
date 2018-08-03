@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新发行信息
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/12/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: 8845e3ba3eef05514b23e90ded0711749938f8c0
-ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
+ms.openlocfilehash: f407b9554688387f4ba085b66d7df6ae28e4dc95
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2018
-ms.locfileid: "20397955"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772469"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
@@ -26,7 +26,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
   
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持当前版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |版本 1807 已发布 <br/>|
+|每月  <br/> |1807  <br/> |[10325.20082](monthly-channel-2018.md#version-1807-july-25)  <br/> | 2018 年 7 月 25 日  <br/> |版本 1808 已发布 <br/>|
 |半年（定向）  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2018 年 9 月 11 日 <br/>|
 |半年 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018 年 7 月 10 日  <br/> |2019 年 1 月 8 日 <br/>|
 |半年 <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2019 年 3 月 12 日 <br/>|
@@ -67,3 +67,5 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 - [Office 365 消息中心概述](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10 发行信息](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft 安全更新指南](https://portal.msrc.microsoft.com/)
+
+注意：如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛] (https://answers.microsoft.com/)或[技术社区] (https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门] (https://support.microsoft.com/contactus)。

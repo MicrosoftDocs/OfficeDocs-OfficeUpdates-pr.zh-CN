@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 221a86c78a1777826a1e838d8dae150bcef6bb65
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 408a4936d0e6da5710764cbc210647ea3d4ecb62
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21223204"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772509"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -153,4 +153,6 @@ ms.locfileid: "21223204"
 - [Office 365 专业增强版更新发行信息](release-notes-office365-proplus.md)
 - [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)
 
+
+注意：如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛] (https://answers.microsoft.com/)或[技术社区] (https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门] (https://support.microsoft.com/contactus)。
 
