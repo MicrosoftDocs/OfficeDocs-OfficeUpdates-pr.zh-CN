@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供在 2017 Office 365 ProPlus 的发行版的 IT 专业人员使用半年通道发行说明
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19555931"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>半年通道版本中 2017年发行说明
 
 这些发行说明提供涉及新功能、 安全更新和非安全更新中 2017年半年通道更新到 Office 365 ProPlus 中包含的信息。 
 > [!NOTE]
-> - 下面还提供了有关新功能、 安全更新和非安全更新的 Visio Pro for Office 365 和 Project Online 桌面客户端。
-> - 此信息也适用于 Office 365 企业版，即附带了一些 Office 365 计划，如企业高级版的 Office 的版本。
-> - 半年通道被命名为年 1 月 2018年之前已推迟通道。
+> - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
+> - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+> - 在 2018 年 1 月前，半年频道被命名为延期频道。
 
 
 ## <a name="version-1705-december-12"></a>版本 1705年: 12 月 12 日
-*版本 1705 （构建 8201.2213）*
+*版本 1705（内部版本 8201.2213）*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 信息泄漏漏洞
@@ -38,7 +38,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1701-december-12"></a>版本 1701年: 12 月 12 日
-*版本 1701 （构建 7766.2130）*
+*版本 1701（内部版本 7766.2130）*
 
 *这是年 6 月 2017年以来已可用的推迟通道版本。它将继续支持和接收直到 2018 年 1 月版安全更新。但现已提供的新推迟通道版本 — 版本 1705 (生成 8201.2213)，其中包含的新功能、 安全更新和非安全更新。*
 
@@ -51,7 +51,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1705-november-24"></a>版本 1705年： 年 11 月 24
-*版本 1705 （构建 8201.2209）*
+*版本 1705（内部版本 8201.2209）*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复问题与 64 位版本的 Office 使 Office 应用程序崩溃，如用户将时转到文件\>选项。
@@ -59,10 +59,10 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1705-november-14"></a>版本 1705年: 11 月 14 日
-*版本 1705 （构建 8201.2207）*
+*版本 1705（内部版本 8201.2207）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能绕过漏洞
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能规避漏洞
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878)：Microsoft Excel 内存损坏漏洞
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884)：Microsoft Office 内存损坏漏洞
 
@@ -75,12 +75,12 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1701-november-14"></a>版本 1701年: 11 月 14 日
-*版本 1701 （构建 7766.2122）*
+*版本 1701（内部版本 7766.2122）*
 
 *这是年 6 月 2017年以来已可用的推迟通道版本。它将继续支持和接收直到 2018 年 1 月版安全更新。但现已提供的新推迟通道版本 — 版本 1705 (生成 8201.2207)，其中包含的新功能、 安全更新和非安全更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能绕过漏洞
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能规避漏洞
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878)：Microsoft Excel 内存损坏漏洞
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884)：Microsoft Office 内存损坏漏洞
 
@@ -93,7 +93,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1705-october-10"></a>版本 1705年： 年 10 月 10
-*版本 1705 （构建 8201.2200）*
+*版本 1705（内部版本 8201.2200）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：展开或折叠数据透视表时，Excel 暂时挂起，并且数据透视表标题移动到屏幕之外。
@@ -114,11 +114,11 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1701-october-10"></a>版本 1701年： 年 10 月 10
-*版本 1701 （构建 7766.2119）*
+*版本 1701（内部版本 7766.2119）*
 
 *这是年 6 月 2017年以来已可用的推迟通道版本。它将继续支持和接收直到 2018 年 1 月版安全更新。但现已提供的新推迟通道版本 — 版本 1705 (生成 8201.2200)，其中包含的新功能、 安全更新和非安全更新。*
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774)：Microsoft Outlook 安全功能绕过漏洞
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
@@ -133,7 +133,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1705-september-12"></a>版本 1705年： 年 9 月 12
-*版本 1705 （构建 8201.2193）*
+*版本 1705（内部版本 8201.2193）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **新增功能对话框：** 在 Access 更新了新功能后，打开 Access 时，会显示一个突出显示新 Access 功能的对话框。此外，还可以通过转到“文件”\>“帐户”\>“新增功能”找到此对话框。
@@ -201,7 +201,7 @@ ms.locfileid: "19555931"
 -   **SVG 图像：** 在电子邮件中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204)：Microsoft Office 安全功能绕过漏洞
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 远程代码执行
@@ -227,7 +227,7 @@ ms.locfileid: "19555931"
 -   **背景消除：** 使用任意格式的绘图工具删除图片背景。
 -   **SVG 图像：** 在演示文稿中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [更多信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **当共同创作的实时键入：** 请参阅其中其他人使用的演示文稿和视图更改在键入时。[详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **当共同创作的实时键入：** 请参阅其中其他人使用的演示文稿和视图更改在键入时。 [详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将演示文稿保存到最近访问的文件夹中。
 -   **精确创建墨迹形状：** 拖动线段橡皮擦擦去多余墨迹，直到与最近线段交汇之处为止。
 -   **使用触笔选择并操作对象：** 使用数字触笔时，利用对象句柄或套索选择墨迹带的支持触笔按钮来移动、调整大小或旋转对象。
@@ -394,7 +394,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1701-september-12"></a>版本 1701年： 年 9 月 12
-*版本 1701 （构建 7766.2116）*
+*版本 1701（内部版本 7766.2116）*
 
 *这是年 6 月 2017年以来已可用的推迟通道版本。它将继续支持和接收直到 2018 年 1 月版安全更新。但现已提供的新推迟通道版本 — 版本 1705 (生成 8201.2193)，其中包含的新功能、 安全更新和非安全更新。*
 
@@ -418,41 +418,41 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1701-july-27"></a>版本 1701年: 7 月 27 日
-*版本 1701 （构建 7766.2099）*
+*版本 1701（内部版本 7766.2099）*
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能绕过漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能规避漏洞
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572)：Microsoft Office Outlook 信息泄漏漏洞
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663)：Microsoft Office Outlook 内存损坏漏洞
 
 
 
 ## <a name="version-1609-july-27"></a>版本 1609年: 7 月 27 日
-*版本 1609 （构建 7369.2154）*
+*版本 1609（内部版本 7369.2154）*
 
 *这是 2017 年 2 月版以来已可用的推迟通道版本。它将继续支持和接收直到 2017 年 9 月版安全更新。但现已提供的新推迟通道版本 — 版本 1701 (生成 7766.2099)，其中包含的新功能、 安全更新和非安全更新。*
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能绕过漏洞
+### <a name="outlook-security-updates"></a>Outlook：安全更新
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能规避漏洞
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572)：Microsoft Office Outlook 信息泄漏漏洞
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663)：Microsoft Office Outlook 内存损坏漏洞
 
 
 
 ## <a name="version-1701-july-13"></a>版本 1701年： 年 7 月 13
-*版本 1701 （构建 7766.2096）*
+*版本 1701（内部版本 7766.2096）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502)：Microsoft Office 内存损坏漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程代码执行漏洞
 
 
 
 ## <a name="version-1609-july-13"></a>版本 1609年： 年 7 月 13
-*版本 1609 （构建 7369.2151）*
+*版本 1609（内部版本 7369.2151）*
 
 *这是 2017 年 2 月版以来已可用的推迟通道版本。它将继续支持和接收直到 2017 年 9 月版安全更新。但现已提供的新推迟通道版本 — 版本 1701 (生成 7766.2096)，其中包含的新功能、 安全更新和非安全更新。*
 
@@ -461,12 +461,12 @@ ms.locfileid: "19555931"
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502)：Microsoft Office 内存损坏漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程代码执行漏洞
 
 
 
 ## <a name="version-1701-june-13"></a>1701 的版本： 6 月 13 日
-*版本 1701 （构建 7766.2092）*
+*版本 1701（内部版本 7766.2092）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
 -   修复了无法取消浮出控件菜单的问题。
@@ -521,7 +521,7 @@ ms.locfileid: "19555931"
 -   **旅游预订和行程的摘要卡：** 使用收件箱和日历中自动创建的摘要卡验证并跟踪旅游预订以及发送行程。 [更多信息](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **编辑器：** 提供了高级的上下文校对功能，有助于改进撰写内容。 [详细信息](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204)：Microsoft Office 安全功能绕过漏洞
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 远程代码执行
@@ -598,7 +598,7 @@ ms.locfileid: "19555931"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **Windows 通知样式：** 更改了传入呼叫和对话的通知外观。 [更多信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **咨询转接：** 从内呼叫，请咨询通过 IM 或呼叫之前将呼叫转接到该用户的另一个用户。[详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **咨询转接：** 从内呼叫，请咨询通过 IM 或呼叫之前将呼叫转接到该用户的另一个用户。 [详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麦克风通知：** 当操作系统中的麦克风静音或麦克风不拾音时，在对话窗口中显示通知。
 -   **禁用“我的号码”：** 使用 DisableDisplayMyNumber 注册表项禁止在拨号盘下显示“我的号码”。
 
@@ -747,11 +747,11 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1609-june-13"></a>1609 的版本： 6 月 13 日
-*版本 1609 （构建 7369.2139）*
+*版本 1609（内部版本 7369.2139）*
 
 *这是 2017 年 2 月版以来已可用的推迟通道版本。它将继续支持和接收直到 2017 年 9 月版安全更新。但现已提供的新推迟通道版本 — 版本 1701 (生成 7766.2092)，其中包含的新功能、 安全更新和非安全更新。*
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 远程代码执行
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508)：Microsoft Office 安全功能绕过漏洞
@@ -772,7 +772,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1609-may-9"></a>版本 1609年： 年 5 月 9
-*版本 1609 （构建 7369.2130）*
+*版本 1609（内部版本 7369.2130）*
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
@@ -789,7 +789,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1605-may-9"></a>版本 1605年： 年 5 月 9
-*版本 1605 （构建 6965.2150）*
+*版本 1605（内部版本 6965.2150）*
 
 *这是年 10 月 2016年以来已可用的推迟通道版本。它将继续支持和接收直到 2017 年 6 月版安全更新。但现已提供的新推迟通道版本 — 版本 1609 (生成 7369.2130)，其中包含的新功能、 安全更新和非安全更新。*
 
@@ -808,7 +808,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1609-april-11"></a>版本 1609年： 年 4 月 11
-*版本 1609 （构建 7369.2127）*
+*版本 1609（内部版本 7369.2127）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：Excel 在用户尝试设置权限以便另一用户可以编辑范围时发生故障。
@@ -823,11 +823,11 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1605-april-11"></a>版本 1605年： 年 4 月 11
-*版本 1605 （构建 6965.2145）*
+*版本 1605（内部版本 6965.2145）*
 
 *这是年 10 月 2016年以来已可用的推迟通道版本。它将继续支持和接收直到 2017 年 6 月版安全更新。但现已提供的新推迟通道版本 — 版本 1609 (生成 7369.2127)，其中包含的新功能、 安全更新和非安全更新。*
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204)：Microsoft Office 安全功能绕过漏洞
 
@@ -837,7 +837,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1609-march-14"></a>版本 1609年： 年 3 月 14
-*版本 1609 （构建 7369.2120）*
+*版本 1609（内部版本 7369.2120）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
@@ -849,12 +849,12 @@ ms.locfileid: "19555931"
 -   修复了以下问题：同时打开多个对话窗口时，Skype for Business 挂起。
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
 
 
 
 ## <a name="version-1605-march-14"></a>版本 1605年： 年 3 月 14
-*版本 1605 （构建 6965.2140）*
+*版本 1605（内部版本 6965.2140）*
 
 *这是年 10 月 2016年以来已可用的推迟通道版本。它将继续支持和接收直到 2017 年 6 月版安全更新。但现已提供的新推迟通道版本 — 版本 1609 (生成 7369.2120)，其中包含的新功能、 安全更新和非安全更新。*
 
@@ -865,12 +865,12 @@ ms.locfileid: "19555931"
 -   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
 
 
 
 ## <a name="version-1609-february-22"></a>版本 1609年: 2 月 22 日
-*版本 1609 （构建 7369.2118）*
+*版本 1609（内部版本 7369.2118）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **dBASE 支持：** 支持导入或链接到 dBASE 数据库 (.dbf) 中存储的数据。 [详细信息](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
@@ -927,13 +927,13 @@ ms.locfileid: "19555931"
 -   修复删除某个表将导致 OneNote 崩溃的问题。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **\@提到:** 确保收件人知道他们正在询问输入或操作通过包括 @ 符号其后电子邮件或日历项目的正文是该人的姓名。这还会自动将将其添加到收件人行。[详细信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@提到:** 确保收件人知道他们正在询问输入或操作通过包括 @ 符号其后电子邮件或日历项目的正文是该人的姓名。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **旅游预订和行程的摘要卡：** 使用收件箱和日历中自动创建的摘要卡验证并跟踪旅游预订以及发送行程。 [更多信息](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加照片的微型预览**：将某个照片附加到电子邮件中时，Outlook 在邮件中显示该照片的微型预览。
 -   **恢复已删除的邮件链接：** 在“已删除邮件文件夹”中，“恢复最近从此文件夹删除的邮件”链接将显示在已删除邮件列表的上方，在选中该链接后，将打开“恢复已删除邮件”对话框。
 -   **点击：** 从组织的相关文档中查找和重新使用内容。 [详细信息](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
 -   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
 -   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
@@ -1086,7 +1086,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1605-january-10"></a>版本 1605年： 年 1 月 10
-*版本 1605 （构建 6965.2117）*
+*版本 1605（内部版本 6965.2117）*
 
 ### <a name="word-security-updates"></a>Word：安全更新
 -   Microsoft 安全公告 [MS17-002](https://technet.microsoft.com/library/security/ms17-002)：Microsoft Office 安全更新程序 (3214291)
@@ -1094,7 +1094,7 @@ ms.locfileid: "19555931"
 
 
 ## <a name="version-1602-january-10"></a>版本 1602年： 年 1 月 10
-*版本 1602 （构建 6741.2105）*
+*版本 1602（内部版本 6741.2105）*
 
 *这是年 6 月 2016年以来已可用的推迟通道版本。它将继续支持和接收直到 2017 年 2 月版安全更新。但现已提供的新推迟通道版本 — 版本 1605 (生成 6965.2117)，其中包含的新功能、 安全更新和非安全更新。*
 

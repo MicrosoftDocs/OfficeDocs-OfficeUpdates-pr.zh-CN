@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供在 2017 Office 365 ProPlus 的发行版的 IT 专业人员使用的每月通道发行说明
 ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/13/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "20334442"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>每月通道版本中 2017年发行说明
@@ -236,7 +236,7 @@ ms.locfileid: "20334442"
 -   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826)：Microsoft Office 内存损坏漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 远程执行代码漏洞
 
 
 
@@ -291,7 +291,7 @@ ms.locfileid: "20334442"
 -   **“从示例中添加列”增强功能：** 支持更多的日期/时间、数学和索引列转换。
 -   **性能改进：** Excel 将以更快的速度打开包含多个工作表的复杂工作簿，以便可以更快地处理包含大片区域的公式、筛选多个行或进行复制和粘贴。 
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了从 Word 复制并粘贴制表符分隔的文本时制表符被忽略，进而导致文本无法解析到列中的问题。
@@ -306,7 +306,7 @@ ms.locfileid: "20334442"
 -   **3D 模型：** 使用 3D 增强演示文稿的视觉效果和创意效果。使用切换效果（例如可在幻灯片之间打造电影动画效果的“平滑”）使演示文稿中的 3D 模型栩栩如生。 [更多信息](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **在规划器中管理任务：** 将项目任务链接到规划器中，并为任务创建计划。将任务分解为子任务，添加团队，分配任务并管理任务板上的工作。
@@ -320,7 +320,7 @@ ms.locfileid: "20334442"
 -   修复了以下问题：无法始终正确计算摘要任务的状态字段。
 
 ### <a name="publisher-feature-updates"></a>Publisher：功能更新
--   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   添加对话框，解释当阻止特定端口或 IP 未列入白名单时，用户为何无法加入某个会议。
@@ -334,13 +334,13 @@ ms.locfileid: "20334442"
 -   修复了以下问题：IM 对话中的共享通知在共享停止前消除。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
--   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **3D 模型：** 使用 3D 增强文档的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [更多信息](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险的扩展名：** 默认情况下，从激活，阻止的被视为高风险和嵌入 OLE 包对象，作为扩展。例如，.exe、 邮件和.js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了无法显示“新增功能”对话框的问题。
@@ -451,7 +451,7 @@ ms.locfileid: "20334442"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **协作编辑：** 与其他人同时协作处理工作簿。 [更多信息](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
--   **AutoSave:** 为工作簿存储在云中，会自动保存更改并可以查看他人的更新以秒为单位。[详细信息](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+-   **AutoSave:** 为工作簿存储在云中，会自动保存更改并可以查看他人的更新以秒为单位。 [详细信息](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。 [更多信息](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **按帐户组织的文件位置：** 在打开或保存文件时，按与位置关联的帐户来组织位置列表。
 
@@ -466,7 +466,7 @@ ms.locfileid: "20334442"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **自动保存：** 自动保存对云中存储的演示文稿的更改，在几秒内就可以看到其他人的更新。 [更多信息](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
--   **修订突出显示：** 突出显示其他用户已修改的幻灯片。
+-   **修订突出显示：** 突出显示由其他用户已修改的幻灯片。
 -   **离开期间：** PowerPoint 显示自你上次访问以后对共享演示文稿进行过编辑的用户。
 -   **设计器改进：** 现在，设计器会推荐有关项目符号列表中日程表的设计灵感。
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。 [更多信息](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -939,7 +939,7 @@ ms.locfileid: "20334442"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **Windows 通知样式：** 更改了传入呼叫和对话的通知外观。 [更多信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **咨询转接：** 从内呼叫，请咨询通过 IM 或呼叫之前将呼叫转接到该用户的另一个用户。[详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **咨询转接：** 从内呼叫，请咨询通过 IM 或呼叫之前将呼叫转接到该用户的另一个用户。 [详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麦克风通知：** 当操作系统中的麦克风静音或麦克风不拾音时，在对话窗口中显示通知。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新

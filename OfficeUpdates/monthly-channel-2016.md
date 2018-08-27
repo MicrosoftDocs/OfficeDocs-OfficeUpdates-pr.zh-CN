@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供在 2016 Office 365 ProPlus 的发行版的 IT 专业人员使用的每月通道发行说明
 ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19555914"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>每月通道版本中 2016年发行说明
@@ -22,22 +22,22 @@ ms.locfileid: "19555914"
 这些发行说明提供涉及新功能、 安全更新和非安全更新 2016年在 Office 365 ProPlus 每月通道更新中包含的信息。
  
 > [!NOTE]
-> - 下面还提供了有关新功能、 安全更新和非安全更新的 Visio Pro for Office 365 和 Project Online 桌面客户端。
-> - 此信息也适用于 Office 365 企业版，即附带了一些 Office 365 计划，如企业高级版的 Office 的版本。
+> - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
+> - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 每月通道被命名为年 9 月 2017年之前的当前通道。
 
 ## <a name="version-1611-december-13"></a>版本 1611年： 年 12 月 13
-*版本 1611 （构建 7571.2075）*
+*版本 1611（内部版本 7571.2075）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
+-   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新 (3204068)
 
 
 ## <a name="version-1611-december-6"></a>版本 1611年： 年 12 月 6
-*版本 1611 （构建 7571.2072）*
+*版本 1611（内部版本 7571.2072）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **地图图表：** 跨地理区域比较值和显示类别。 [更多信息](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
@@ -60,7 +60,7 @@ ms.locfileid: "19555914"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **SVG 图像：** 在演示文稿中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [更多信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **当共同创作的实时键入：** 请参阅其中其他人使用的演示文稿和视图更改在键入时。[详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **当共同创作的实时键入：** 请参阅其中其他人使用的演示文稿和视图更改在键入时。 [详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将演示文稿保存到最近访问的文件夹中。
 -   **精确创建墨迹形状：** 拖动线段橡皮擦擦去多余墨迹，直到与最近线段交汇之处为止。
 -   **使用触笔选择并操作对象：** 使用数字触笔时，利用对象句柄或套索选择墨迹带的支持触笔按钮来移动、调整大小或旋转对象。
@@ -136,7 +136,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1610-november-10"></a>版本于 1610年： 年 11 月 10
-*版本于 1610 （构建 7466.2038）*
+*版本 1610（内部版本 7466.2038）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **墨迹重播：** 依次转到“绘图”\>“墨迹重播”，可以向前和向后重播手写内容以隐藏和显示内容，也可以提供分步说明或更好地理解其他人的思路。 [更多信息](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
@@ -199,18 +199,18 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1609-november-8"></a>版本 1609年： 年 11 月 8
-*版本 1609 （构建 7369.2055）*
+*版本 1609（内部版本 7369.2055）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 安全更新程序 (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 安全更新程序 (3199168)
+-   Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 安全更新 (3199168)
 
 
 
 ## <a name="version-1609-november-2"></a>版本 1609年： 年 11 月 2
-*版本 1609 （构建 7369.2054）*
+*版本 1609（内部版本 7369.2054）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：使用 VBA 代码复制工作表时会取消隐藏已隐藏的工作表。
@@ -246,7 +246,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1609-october-11"></a>版本 1609年： 年 10 月 11
-*版本 1609 （构建 7369.2038）*
+*版本 1609（内部版本 7369.2038）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
 -   修复了在禁止任何注册表写入的计算机上写入注册表导致 OneNote 崩溃的问题。
@@ -263,7 +263,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1609-october-4"></a>版本 1609年： 年 10 月 4
-*版本 1609 （构建 7369.2024）*
+*版本 1609（内部版本 7369.2024）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **数据转换和连接性方面的增强功能：** 向查询添加参数，在合并或追加操作中创建新查询，以及使用 Web 连接器预览 Web 页。
@@ -279,7 +279,7 @@ ms.locfileid: "19555914"
 -   修复了寻找标记时，“标记摘要”面板中的文本行仅显示多个标记中的第一个标记的问题。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **\@提到:** 确保收件人知道他们正在询问输入或操作通过包括 @ 符号其后电子邮件或日历项目的正文是该人的姓名。这还会自动将将其添加到收件人行。[详细信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@提到:** 确保收件人知道他们正在询问输入或操作通过包括 @ 符号其后电子邮件或日历项目的正文是该人的姓名。 同时，这也会将他们自动添加到“收件人”行。 [详细信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了将自定义母本文档用作默认主题时，多余的换行符被添加到新的电子邮件且字体被设置为 Calibri 的问题。
@@ -331,7 +331,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1608-september-26"></a>版本 1608年: 9 月 26 日
-*版本 1608 （构建 7341.2035）*
+*版本 1608（内部版本 7341.2035）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
 -   修复了从套索工具切换到墨迹工具时出现笔画墨迹幻象的问题。
@@ -343,7 +343,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1608-september-21"></a>版本 1608年: 9 月 21 日
-*版本 1608 （构建 7341.2032）*
+*版本 1608（内部版本 7341.2032）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **保留了 Power Query 布局：** 查询刷新后，保留了使用获取和转换导入的数据的格式和计算列。
@@ -390,7 +390,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1607-september-13"></a>版本 1607年： 年 9 月 13
-*版本 1607 （构建 7167.2060）*
+*版本 1607（内部版本 7167.2060）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
@@ -407,7 +407,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1607-september-6"></a>版本 1607年： 年 9 月 6
-*版本 1607 （构建 7167.2055）*
+*版本 1607（内部版本 7167.2055）*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了二进制增量压缩导致之前内部版本的更新程序下载大小大于其应有大小的问题。
@@ -415,7 +415,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1607-august-31"></a>版本 1607年: 8 月 31 日
-*版本 1607 （构建 7167.2047）*
+*版本 1607（内部版本 7167.2047）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了设计自定义窗体，将字段拖至窗体时导致 Outlook 崩溃的问题。
@@ -426,7 +426,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1607-august-16"></a>版本 1607年： 年 8 月 16
-*版本 1607 （构建 7167.2040）*
+*版本 1607（内部版本 7167.2040）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **数据转换和连接性方面的改进：** 执行其他日期/时间转换和文本操作、将工作簿迁移到不同的环境、将两个或多个子句组合以进行行筛选以及在“查询编辑器”窗口中记录转换。
@@ -466,7 +466,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1606-august-9"></a>版本 1606年： 年 8 月 9
-*版本 1606 （构建 7070.2036）*
+*版本 1606（内部版本 7070.2036）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复由最新安全更新导致的一个问题，在从不受信任的位置打开 HTML 文件时会打开 Excel，显示不带任何错误消息的空白（空）屏幕，而不允许用户在受保护的视图中打开文件。
@@ -492,7 +492,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1606-july-26"></a>版本 1606年: 7 月 26 日
-*版本 1606 （构建 7070.2033）*
+*版本 1606（内部版本 7070.2033）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
 -   修复使用 Access 数据库引擎时（例如在 Access 应用中或带有将 Access 数据库引擎用作数据提供程序的外接程序）执行某排序查询导致应用崩溃的问题。
@@ -511,7 +511,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1606-july-20"></a>版本 1606年: 20 年 7 月
-*版本 1606 （构建 7070.2028）*
+*版本 1606（内部版本 7070.2028）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
 -   修复了全景手柄在页面上移动时消失的问题。
@@ -526,7 +526,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1606-july-12"></a>版本 1606年： 年 7 月 12
-*版本 1606 （构建 7070.2026）*
+*版本 1606（内部版本 7070.2026）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
@@ -549,7 +549,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1606-july-5"></a>版本 1606年： 年 7 月 5
-*版本 1606 （构建 7070.2022）*
+*版本 1606（内部版本 7070.2022）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **dBASE 支持：** 支持导入或链接到 dBASE 数据库 (.dbf) 中存储的数据。 [详细信息](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
@@ -576,7 +576,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1605-june-30"></a>1605 的版本： 6 月 30 日
-*版本 1605 （构建 6965.2063）*
+*版本 1605（内部版本 6965.2063）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   改进使用高 DPI 时包含表的邮件的外观。
@@ -598,7 +598,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1605-june-14"></a>1605 的版本： 6 月 14
-*版本 1605 （构建 6965.2058）*
+*版本 1605（内部版本 6965.2058）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
 -   修复了墨迹书写已选随机笔划且不能取消选择时的问题。
@@ -629,10 +629,10 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1605-june-6"></a>1605 的版本： 6 年 6 月
-*版本 1605 （构建 6965.2053）*
+*版本 1605（内部版本 6965.2053）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **获取和变换改进：** 新的或改进数据转换和电源查询的数据连接功能。[详细信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **获取和变换改进：** 新的或改进数据转换和电源查询的数据连接功能。 [详细信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了数据验证下拉列表损坏并且在工作簿中使用多个工作表重复自身的问题。
@@ -643,7 +643,7 @@ ms.locfileid: "19555914"
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **简化了配置文件创建：** 简化的用户界面 (UI) 体验，用于使用 Office 365 帐户登录后设置 Office 365 邮箱的其他 Outlook 配置文件。
 
-    注意： 此功能是要推出的时间段到订阅服务器，因此，可能不会立即看到此功能。当您收到此功能的计时还取决于您的组织如何更新 Office。
+    注意： 向订阅者推出此功能需要一段时间，因此你可能不会立即看到此功能。你收到此功能的时间还取决于你的组织如何更新 Office。
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了发送 .rtf 格式的电子邮件时扩展的符号字符更改为“1”的问题。
@@ -671,7 +671,7 @@ ms.locfileid: "19555914"
 -   **协作功能在功能区上被组合在一起：** 诸如共享、聊天、注释、文档活动等功能以及目前编辑文档的用户在 Word 和 PowerPoint 中的功能区上被组合到一起。 [更多信息](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **AD RMS 权限策略模板设置：** 确保将“授予所有者（作者）无过期期限的完全控制权限”的设置应用到新的 Word、Excel 和 PowerPoint 文件时都可被接受（尤其是当禁用此设置时）。如果禁用此设置，用户将看到一个警告：应用该模板可能限制对文档的访问。
 
-    注意： 已术 シ モ メ 具有配置此设置的模板的现有文档不会更改。所有者将仍具有完全控制和无过期期限这些文档。
+    注意： 将不会更改已由配置了该设置的模板保护的现有文档。所有者将仍然拥有这些文档的无过期期限的完全控制权限。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了由 Microsoft 启动的从 Office 365 客户端（例如 Office 365 ProPlus）的 Office 2013 版本升级到 Office 2016 版本之前导致要删除某些 Office 2013 授权和程序安装信息的问题。
@@ -679,7 +679,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1604-may-23"></a>版本 1604年： 年 5 月 23
-*版本 1604 （构建 6868.2067）*
+*版本 1604（内部版本 6868.2067）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了用于查看服务器上旧邮件的链接没有显示在文件夹（如“收件箱”或“已删除邮件”文件夹）中邮件列表底部的问题。
@@ -703,7 +703,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1604-may-10"></a>版本 1604年： 年 5 月 10
-*版本 1604 （构建 6868.2062）*
+*版本 1604（内部版本 6868.2062）*
 
 ### <a name="word-security-updates"></a>Word：安全更新
 -   Microsoft 安全公告 [MS16-054](https://technet.microsoft.com/library/security/ms16-054)：Microsoft Office 安全更新程序 (3155544)
@@ -714,7 +714,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1604-may-4"></a>版本 1604年: 5 月 4
-*版本 1604 （构建 6868.2060）*
+*版本 1604（内部版本 6868.2060）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **其他数据连接：** 来源为 JSON 和 Azure SQL 数据仓库的查询数据。
@@ -738,7 +738,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1603-april-28"></a>版本 1603年: 4 月 28 日
-*版本 1603 （构建 6769.2040）*
+*版本 1603（内部版本 6769.2040）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了在使用“数据”\>“获取和转换”\>“来自表”时，错误导入已命名的范围的问题。
@@ -747,7 +747,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1603-april-12"></a>版本 1603年： 年 4 月 12
-*版本 1603 （构建 6769.2017）*
+*版本 1603（内部版本 6769.2017）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-042](https://technet.microsoft.com/library/security/ms16-042)：Microsoft Office 安全更新程序 (3148775)
@@ -758,7 +758,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1603-april-4"></a>版本 1603年: 28、april 4
-*版本 1603 （构建 6769.2015）*
+*版本 1603（内部版本 6769.2015）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **Power Query 增强功能：** 增强了连接功能，并增加了新的转换。 [更多信息](https://blogs.office.com/2016/03/04/march-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
@@ -786,7 +786,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1602-march-24"></a>版本 1602年： 年 3 月 24
-*版本 1602 （构建 6741.2021）*
+*版本 1602（内部版本 6741.2021）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了使用键盘快捷方式访问电子邮件中的附件导致 Outlook 崩溃的问题。
@@ -794,7 +794,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1602-march-17"></a>版本 1602年： 年 3 月 17
-*版本 1602 （构建 6741.2017）*
+*版本 1602（内部版本 6741.2017）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **发布到 Power BI：** 保存工作簿项目（例如图表、范围和表）并将其发布到 powerbi.com，并且与仪表板格式的该数据进行交互。需要 Power BI 订阅。 [详细信息](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
@@ -835,16 +835,16 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1601-march-4"></a>版本 1601年： 年 3 月 4
-*版本 1601 （构建 6568.2036）*
+*版本 1601（内部版本 6568.2036）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复配置为使用 POP3 时在 Outlook 下载邮件后服务器上的所有邮件都从收件箱中删除的问题。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
--   解决问题，在配置为使用 POP3，邮件会下载多次，导致重复项。[有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
+-   解决问题，在配置为使用 POP3，邮件会下载多次，导致重复项。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
 
 
 
 ## <a name="version-1601-march-3"></a>版本 1601年： 年 3 月 3
-*版本 1601 （构建 6568.2034）*
+*版本 1601（内部版本 6568.2034）*
 
 ### <a name="word-security-updates"></a>Word：安全更新
 -   Microsoft 安全公告 [MS16-029](https://technet.microsoft.com/library/security/ms16-029)：可解决远程执行代码的 Microsoft Office 安全更新 (3141806)
@@ -858,7 +858,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1601-february-16"></a>版本 1601年： 年 2 月 16
-*版本 1601 （构建 6568.2025）*
+*版本 1601（内部版本 6568.2025）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **漏斗图：** 按逐渐递减的比例显示相关值。 [更多信息](https://support.office.com/article/ba21bcba-f325-4d9f-93df-97074589a70e)
@@ -914,7 +914,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1511-february-9"></a>版本 1511年： 年 2 月 9
-*版本 1511 （构建 6366.2068）*
+*版本 1511（内部版本 6366.2068）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214)：可解决远程执行代码的 Microsoft Office 安全更新 (3134226)
@@ -925,7 +925,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1511-january-25"></a>版本 1511年： 年 1 月 25
-*版本 1511 （构建 6366.2062）*
+*版本 1511（内部版本 6366.2062）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了使用 Application.OnKey() 截获击键会导致 Excel 崩溃的问题。
@@ -936,7 +936,7 @@ ms.locfileid: "19555914"
 
 
 ## <a name="version-1511-january-12"></a>版本 1511年： 年 1 月 12
-*版本 1511 （构建 6366.2056）*
+*版本 1511（内部版本 6366.2056）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：可解决远程执行代码的 Microsoft Office 安全更新 (3124585)
