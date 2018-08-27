@@ -12,10 +12,10 @@ localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: 提供与 Office 的链接的 IT 专业人员的 Office 365 ProPlus、 Office mac 版、 永久 Office 和 Office Server 版本内容产品
 ms.openlocfilehash: f2bd4b536cc1e7a6aa92cc5733695f7a42505874
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/26/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "21223380"
 ---
 # <a name="office-updates"></a>Office 更新
