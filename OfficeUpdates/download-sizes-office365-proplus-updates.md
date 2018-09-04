@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/2/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: 8590b1e56a9f3322947a890d9a94c8b57e4d468b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772489"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520594"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -35,6 +35,37 @@ ms.locfileid: "21772489"
 > - 仅列出过去四个月的版本。
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。 
+
+  ## <a name="august-14-2018"></a>2018 年 8 月 14 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新发布为版本 1807（内部版本 10325.20118）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1807（内部版本 10325.20082）  <br/> |2018 年 7 月 25 日  <br/> |82  <br/> |
+|版本 1807（内部版本 10228.20134）  <br/> |2018 年 7 月 17 日  <br/> |183  <br/> |
+
+  
+### <a name="semi-annual-channel"></a>半年频道
+
+最新版为版本 1803（内部版本 9126.2275）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1803（内部版本 8431.2259）  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
+|版本 1708（内部版本 8431.2270）  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
+
+最新版为版本 1803（内部版本 9126.2275）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1803（内部版本 8431.2259）  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
+|版本 1803（内部版本 9126.2227）  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>2018 年 7 月 25 日
 
@@ -60,9 +91,6 @@ ms.locfileid: "21772489"
 |版本 1805（内部版本 9330.2118）  <br/> |2018 年 6 月 12 日  <br/> |401  <br/> |
 |版本 1805（内部版本 9330.2087）  <br/> |2018 年 5 月 24 日  <br/> |150  <br/> |
 
-   
-### <a name="semi-annual-channel"></a>半年频道
-
 最新发布为版本 1803（内部版本 9126.2259）。
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
@@ -76,8 +104,8 @@ ms.locfileid: "21772489"
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1803（内部版本 9126.2210）  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
-|版本 1803（内部版本 9126.2191）  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
+|版本 1803（内部版本 9126.2227）  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
+|版本 1803（内部版本 9126.2210）  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>2018 年 6 月 25 日
@@ -127,6 +155,14 @@ ms.locfileid: "21772489"
 |版本 1708（生成号 8431.2242）  <br/> |2018 年 4 月 10 日  <br/> |57  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
+
+最新版为版本 1803（内部版本 9126.2275）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1708（内部版本 8431.2227）  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
+|版本 1708（内部版本 8431.2259）  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
+|版本 1708（内部版本 8431.2270）  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
 
 最新发布为版本 1803（生成号 9126.2227）。
   
@@ -386,4 +422,5 @@ ms.locfileid: "21772489"
 - [Office 365 专业增强版更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
 - [Office 365 专业增强版更新历史记录（按版本列出）](update-history-office365-proplus-by-version.md)
 
-注意：如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛] (https://answers.microsoft.com/)或[技术社区] (https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门] (https://support.microsoft.com/contactus)。
+> [!NOTE]
+> 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
