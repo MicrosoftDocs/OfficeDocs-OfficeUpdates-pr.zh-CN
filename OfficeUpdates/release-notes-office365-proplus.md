@@ -3,33 +3,33 @@ title: Office 365 专业增强版更新发行信息
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/2/18
+ms.date: 8/14/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: f407b9554688387f4ba085b66d7df6ae28e4dc95
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: b583775238a3ce42debbc35daaf56964532ae276
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772469"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520574"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
-Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过[更新频道](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)发行。对于每个更新频道中的每次发行，都会被分配一个版本号和内部版本号。 
+Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过[更新频道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)发行。对于每个更新频道中的每次发行，都会被分配一个版本号和内部版本号。 
 
 下表列出了每个更新频道支持的版本号和最新内部版本号。内部版本号直接链接到该版本的发行说明。 
 
   
-|**频道**|**版本**|**内部版本**|**发布日期**|**支持当前版本截至**|
+|**频道**|**版本**|**内部版本**|**发布日期**|**之前支持的版本**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1807  <br/> |[10325.20082](monthly-channel-2018.md#version-1807-july-25)  <br/> | 2018 年 7 月 25 日  <br/> |版本 1808 已发布 <br/>|
-|半年（定向）  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2018 年 9 月 11 日 <br/>|
-|半年 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018 年 7 月 10 日  <br/> |2019 年 1 月 8 日 <br/>|
-|半年 <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2019 年 3 月 12 日 <br/>|
+|每月  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 版本 1808 已发布 <br/>|
+|半年（定向）  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 2018 年 9 月 11 日 <br/>|
+|半年 <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 2018 年 8 月 14 日  <br/> | 2019 年 9 月 10日 <br/>|
+|半年 <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 2019 年 3 月 12 日 <br/>|
 
 有关从先前版本的 Office 365 专业增强版更新到最新版本时的大致下载大小的信息，请参阅 [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)。
 
@@ -60,7 +60,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 ## <a name="related-topics"></a>相关主题
 
-- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
 - [Office 365 的新增功能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Office 365 路线图](https://products.office.com/business/office-365-roadmap)
@@ -68,4 +68,5 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 - [Windows 10 发行信息](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft 安全更新指南](https://portal.msrc.microsoft.com/)
 
-注意：如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛] (https://answers.microsoft.com/)或[技术社区] (https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门] (https://support.microsoft.com/contactus)。
+> [!NOTE]
+> 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
