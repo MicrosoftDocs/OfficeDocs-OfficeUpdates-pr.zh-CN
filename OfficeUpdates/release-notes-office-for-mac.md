@@ -3,20 +3,19 @@ title: Office for Mac 发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/12/2018
+ms.date: 8/16/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-ms.custom: LIL_Placement
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 8c3736486a5d0dc24fd99f2f382bd9bb426780b0
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.openlocfilehash: 1ca096f0a4595eb8017f5af719a8d4b85bd58d73
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/13/2018
-ms.locfileid: "20334422"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520734"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -32,7 +31,24 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > - 仅为最新版本提供下载链接。
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
-## <a name="july-2018-release"></a>2018 年 7 月版本
+## <a name="august-2018-release"></a>2018 年 8 月发布
+
+ **发布日期：** 2018 年 8 月 14 日 
+  
+ *版本 16.16.0 （内部版本 18081201）* 
+  
+此版本提供以下更新。
+  
+|**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
+|:-----|:-----|:-----|
+|Word  <br/> |||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
+|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 远程代码执行漏洞  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞  <br/>  |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
+|PowerPoint  <br/> |||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
+|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412)：Microsoft AutoUpdate Office 特权提升漏洞  <br/>|[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
+|Office 套件  <br/> ||||
+
+## <a name="july-2018-release"></a>2018 年 7 月发布
 
  **发布日期：** 2018 年 7 月 10 日 
   
@@ -47,7 +63,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |PowerPoint  <br/> |**通过视频使介绍更加生动**：观看 YouTube 视频，向幻灯片添加实时操作，无需离开应用即可进行查看。[了解更多信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
 |Outlook  <br/> |**提高 Google 帐户的安全性：** 安全改进意味着不再需要允许访问“安全级别较低的应用”或者设置应用密码，以便将 Google 帐户添加到 Outlook。[了解更多](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.1  <br/> |更新到 Aria SDK 8.4。修复了内存泄漏问题。<br/><br/>对应用注册进行了更改。现在支持 Office 2019 预览版。||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
-|Office 套件  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞  <br/> ||
+|Office 套件  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞  <br/> ||
 
 
 ## <a name="june-2018-release"></a>2018 年 6 月版本
@@ -107,8 +123,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |**在编辑时与合著者进行交流：** 无需退出 Word 即可与合著者进行交流，从而提高协作效率。[了解详细信息](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **插入和编辑图标：** 使用图标（通过插入和编辑 500 个图标之一）向文档添加视觉效果。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/><br/> **在 LinkedIn 的帮助下编写你的出色简历：** 简历助手为你展示工作经验、领先技能及给定角色的详细信息。可在“审阅”选项卡上找到此设置。[了解详细信息](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a.aspx)<br/> <br/> **内置辅助功能：** 使用键盘快速访问功能区并对刚插入的字词或图片设置格式。  <br/> |||
-|Excel  <br/> |**在编辑时与合著者进行交流：** 无需离开 Excel 即可与合著者进行交流，从而提高协作效率。[了解详细信息](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **插入和编辑图标：** 使用图标（通过插入和编辑 500 个图标之一）向工作簿添加视觉效果。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**使用日程表筛选数据：** 通过日程表筛选器滑动日期范围来轻松筛选数据透视表。[了解详细信息](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 远程代码执行漏洞   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 远程代码执行漏洞  <br/> ||
-|PowerPoint  <br/> |**在编辑时与合著者进行交流：** 无需离开 PowerPoint 即可与合著者进行交流，从而提高协作效率。[了解详细信息](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**插入和编辑图标：** 使用图标（通过插入和编辑 500 个图标之一）向演示文稿添加视觉效果。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8176)：Microsoft PowerPoint 远程代码执行漏洞  <br/> ||
+|Excel  <br/> |**在编辑时与合著者进行交流：** 无需离开 Excel 即可与合著者进行交流，从而提高协作效率。[了解详细信息](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **插入和编辑图标：** 使用图标（通过插入和编辑 500 个图标之一）向工作簿添加视觉效果。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**使用日程表筛选数据：** 通过日程表筛选器滑动日期范围来轻松筛选数据透视表。[了解详细信息](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 远程代码执行漏洞   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 远程代码执行漏洞  <br/> ||
+|PowerPoint  <br/> |**在编辑时与合著者进行交流：** 无需离开 PowerPoint 即可与合著者进行交流，从而提高协作效率。[了解详细信息](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**插入和编辑图标：** 使用图标（通过插入和编辑 500 个图标之一）向演示文稿添加视觉效果。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8176)：Microsoft PowerPoint 远程代码执行漏洞  <br/> ||
 |Outlook  <br/> |**自定义轻扫手势：** 对你最常使用的操作设置向左轻扫和向右轻扫手势。从删除、存档、标记为已读、标记或无中选择。[了解详细信息](https://support.office.com/article/c8534c2e-1002-450d-a8f3-e53cc8e36b1d.aspx) <br/><br/> **对 Google日历和联系人的支持：** 无需离开 Outlook 即可管理你的 Google 日历和联系人。*[了解详细信息](https://support.office.com/article/985f9e19-d308-4e85-9d1d-0c6f32f8e981#officeversion=outlook_2016_for_mac) <br/><br/> \**向 Office 365 订阅者推出此功能需要一段时间，因此你可能不会立即看到此功能。* |||
 |Microsoft AutoUpdate 4.0  <br/> |||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18051301_Updater.pkg) <br/> |
    
@@ -124,9 +140,9 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 文档将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在文档中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
-|Excel  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 工作簿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在工作簿中插入和编辑 可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞  <br/> ||||
+|Excel  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 工作簿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在工作簿中插入和编辑 可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞  <br/> ||||
 |PowerPoint  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 演示文稿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。   <br/><br/> **添加视觉效果：** 在演示文稿中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
-|Outlook  <br/> |**添加视觉效果：** 在电子邮件中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**更易操作的日历：** 单击日历中的任何会议或事件，以查看所有相关联的详细信息。在同一位置查看受到邀请的人员、编辑你的响应或加入会议。<br/> <br/> **轻松扫描搜索结果：** Outlook 在项目列表或预览窗格中突出显示你的搜索项。  <br/> <br/> **周数：** 现在将在日历月份视图和边栏中的小型日历中显示周数。若要启用此功能，请选中 Outlook“首选项 \> 日历”\>\>日历选项中的“显示周数”。<br/> <br/> **计划 Skype 会议：** 代理人现在可以代表主体使用主体的电子邮件地址来计划 Skype for Business Online 会议。*（仅限 Skype for Business Online。将在以后服务器更新时对 Skype for Business Server 2015 启用该功能。）*  <br/> ||在编辑和删除服务器规则时提升了错误处理功能。在规则列表中首次显示服务器规则时，现在将突出显示含有错误的服务器规则。  <br/> ||
+|Outlook  <br/> |**添加视觉效果：** 在电子邮件中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**更易操作的日历：** 单击日历中的任何会议或事件，以查看所有相关联的详细信息。在同一位置查看受到邀请的人员、编辑你的响应或加入会议。  <br/> <br/> **轻松扫描搜索结果：** Outlook 在项目列表或预览窗格中突出显示你的搜索项。  <br/> <br/> **周数：** 现在将在日历月份视图和边栏中的小型日历中显示周数。若要启用此功能，请选中 Outlook“首选项 \> 日历”\>\>日历选项中的“显示周数”。  <br/> <br/> **计划 Skype 会议：** 代理人现在可以代表主体使用主体的电子邮件地址来计划 Skype for Business Online 会议。*（仅限 Skype for Business Online。将在以后服务器更新时对 Skype for Business Server 2015 启用该功能。）*  <br/> ||在编辑和删除服务器规则时提升了错误处理功能。在规则列表中首次显示服务器规则时，现在将突出显示含有错误的服务器规则。  <br/> ||
 |OneNote  <br/> ||||
 |Microsoft AutoUpdate 3.18  <br/> |对 msupdate 命令行工具的支持。[了解详细信息](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> ||||
    
@@ -150,10 +166,10 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**使用焦点模式实现更多功能：** 焦点模式现在可以在设置缩放级别中打开，并在滚动时显示页码。  <br/> ||||
-|Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全功能规避漏洞  <br/> |||
+|Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全功能规避漏洞  <br/> |||
 |PowerPoint  <br/> |**嵌入的字体：** 嵌入的字体确保你的演示文稿在每台计算机上显示的外观相同，并向读者显示你预期的内容。  <br/> ||||
-|Outlook  <br/> |**表：** 在邮件和日历事件中插入表，并为你的内容添加结构。无需再从其他 Office 应用中复制和粘贴。[了解详细信息](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **同时查看两个时区：** 想要知道在世界其他地区现在所处的时间？现在可以向 Outlook 添加第二个时区。<br/><br/> **跨时区计划日程：** 跨时区旅行？创建具有不同的开始和结束时区的事件，Outlook 将注意此对话。<br/><br/> **更改文本大小：** 增加或减少边栏、邮件列表和阅读窗格中的字体大小。[了解详细信息](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||修复了以下问题：如果计算机的默认时区观察到夏令时 (DST) 和周视图已被选中，则会看到日历网格上的所有事件在 DST 开始时都被偏移了一个小时。  <br/> |
-|Office 套件  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 信息泄漏漏洞  <br/> |
+|Outlook  <br/> |**表：** 在邮件和日历事件中插入表，并为你的内容添加结构。无需再从其他 Office 应用中复制和粘贴。[了解详细信息](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **同时查看两个时区：** 想要知道在世界其他地区现在所处的时间？现在可以向 Outlook 添加第二个时区。  <br/><br/> **跨时区计划日程：** 跨时区旅行？创建具有不同的开始和结束时区的事件，Outlook 将注意此对话。   <br/><br/> **更改文本大小：** 增加或减少边栏、邮件列表和阅读窗格中的字体大小。[了解详细信息](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||修复了以下问题：如果计算机的默认时区观察到夏令时 (DST) 和周视图已被选中，则会看到日历网格上的所有事件在 DST 开始时都被偏移了一个小时。  <br/> |
+|Office 套件  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 信息泄漏漏洞  <br/> |
 
    
 ## <a name="february-2018-release"></a>2018 年 2 月版本
@@ -189,10 +205,10 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**功能更新**|**安全更新**|
 |:-----|:-----|:-----|
-|Word  <br/> |**实时与他人编辑：** 窗口右上角的缩略图显示与你在共享的文档中一起协作的人员。标记图标显示其他人正在处理的位置，你可以在他们键入内容时查看所做的更改。[了解详细信息](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **我们为你保存！** 将自动保存对存储在云中的文档、工作表和演示文稿所做的更改，你可以在很短的时间内看到其他人的更新。需要回退？查看版本历史记录，以了解所做的更改的列表和对以前版本的访问。[了解详细信息](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **快速访问网站和组：** 在“打开”菜单中快速查找常用网站和组中存储的演示文稿。  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 远程代码执行漏洞  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 远程代码执行漏洞 |
+|Word  <br/> |**实时与他人编辑：** 窗口右上角的缩略图显示与你在共享的文档中一起协作的人员。标记图标显示其他人正在处理的位置，你可以在他们键入内容时查看所做的更改。[了解详细信息](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **我们为你保存！** 将自动保存对存储在云中的文档、工作表和演示文稿所做的更改，你可以在很短的时间内看到其他人的更新。需要回退？查看版本历史记录，以了解所做的更改的列表和对以前版本的访问。[了解详细信息](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **快速访问网站和组：** 在“打开”菜单中快速查找常用网站和组中存储的演示文稿。  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 远程代码执行漏洞  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 远程代码执行漏洞 |
 |Excel  <br/> |**协作编辑：** 在工作簿中与他人同时作业。窗口右上角的缩略图显示谁正在与你一同查看或编辑文件。[了解详细信息](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **我们为你保存！** 将自动保存对存储在云中的文档、工作表和演示文稿所做的更改，你可以在很短的时间内看到其他人的更新。需要回退？查看版本历史记录，以了解所做的更改的列表和对以前版本的访问。[了解详细信息](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **更多图表：** 使用新图表（例如，漏斗图、旭日图和直方图）将数据转换为专业可视化效果，或使用新的地图图表类型，只需几步即可将地理数据转换为地图。   <br/><br/> **更多功能：** 使用新的逻辑函数 [IFS 函数](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45) 和 [SWITCH 函数](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)来缩短你所编写的公式。   <br/><br/> **快速访问网站和组：** 在“打开”菜单中快速查找常用网站和组中存储的演示文稿。  <br/> <br/> **为数据透视表图表提供更好的支持：** 更改数据透视表中的筛选器后，创建的图表将自动调整为显示你需要的内容。  <br/> <br/> **多线程计算：** 当值更改时，公式的更新速度更快，因为 Excel 使用多处理线程。 |
 |PowerPoint  <br/> |**实时与他人编辑：** 窗口右上角的缩略图显示与你在共享的文档中一起协作的人员。标记图标显示其他人正在处理的位置，你可以在他们键入内容时查看所做的更改。[了解详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **我们为你保存！** 将自动保存对存储在云中的文档、工作表和演示文稿所做的更改，你可以在很短的时间内看到其他人的更新。需要回退？查看版本历史记录，以了解所做的更改的列表和对以前版本的访问。[了解详细信息](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **查看更改的内容：** 在你离开时被他人修改的幻灯片将被突出显示。[了解详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **快速启动研究：** 从头开始不容易。快速启动自动为你所选的主题创建大纲，并提供建议的话题和设计，使你的演示文稿脱颖而出。[了解详细信息](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **媒体剪裁：** 从音频或视频剪辑的开头或结尾删除不需要的内容。[了解详细信息](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **快速访问网站和组：** 在“打开”菜单中快速查找常用网站和组中存储的演示文稿。  <br/> <br/> **幻灯片放映时的激光笔：** 将鼠标用作激光笔，以将观众的注意力吸引到幻灯片的某部分。 |
-|Outlook  <br/> |**只需一次轻扫即可进行存档或删除：** 通过用两根手指在触摸板上向左轻扫存档电子邮件或向右轻扫将其删除来节省组织收件箱的时间。  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程代码执行漏洞 |
+|Outlook  <br/> |**只需一次轻扫即可进行存档或删除：** 通过用两根手指在触摸板上向左轻扫存档电子邮件或向右轻扫将其删除来节省组织收件箱的时间。  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程代码执行漏洞 |
 
    
 ## <a name="december-2017-release"></a>2017 年 12 月版本
@@ -212,7 +228,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**安全更新**|
 |:-----|:-----|
-|PowerPoint  <br/> |[CVE-2017-11934](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 信息泄漏漏洞 |
+|PowerPoint  <br/> |[CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 信息泄漏漏洞 |
 
    
 ## <a name="november-2017-release"></a>2017 年 11 月版本
@@ -226,8 +242,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**安全更新**|
 |:-----|:-----|
-|Word  <br/> |[公告 170020](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV170020)：Microsoft Office 深度防御更新  |
-|Excel  <br/> |[CVE-2017-11877](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能规避漏洞  |
+|Word  <br/> |[公告 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020)：Microsoft Office 深度防御更新  |
+|Excel  <br/> |[CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能规避漏洞  |
 
    
 ## <a name="october-2017-release"></a>2017 年 10 月版本
@@ -245,7 +261,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Excel  <br/> |**改进的 Visual Basic 编辑器：** 在 Visual Basic 编辑器中使用 IntelliSense、VBA 菜单和工具栏、调试工具、对象浏览器等创建和编辑宏。  |
 |PowerPoint  <br/> |**改进的 Visual Basic 编辑器：** 在 Visual Basic 编辑器中使用 IntelliSense、VBA 菜单和工具栏、调试工具、对象浏览器等创建和编辑宏。  |
 |Outlook  <br/> |**改进的可读性且更易于访问：** 你的电子邮件和会议邀请标头具有更好的可读性。更少的待筛选邮件、更好的键盘导航和改进的画外音。   |
-|Office 套件  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 远程代码执行漏洞  |
+|Office 套件  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 远程代码执行漏洞  |
 
    
 ## <a name="september-2017-release"></a>2017 年 9 月版本
@@ -259,8 +275,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**功能更新**|**安全更新**|
 |:-----|:-----|:-----|
-|Excel  <br/> ||[CVE-2017-8631](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-8631)：Microsoft Office 内存损坏漏洞   <br/><br/> [CVE-2017-8632](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-8632)：Microsoft Office 内存损坏漏洞  |
-|Office 套件  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-8676)：Windows GDI+ 信息泄漏漏洞  |
+|Excel  <br/> ||[CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631)：Microsoft Office 内存损坏漏洞   <br/><br/> [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632)：Microsoft Office 内存损坏漏洞  |
+|Office 套件  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676)：Windows GDI+ 信息泄漏漏洞  |
 |Microsoft AutoUpdate 3.9.3  <br/> |在检测到组件缺失或损坏时提醒用户重新安装 MAU。 |
    
 ## <a name="august-2017-release"></a>2017 年 8 月版本
@@ -300,7 +316,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |:-----|:-----|:-----|
 |Excel  <br/> |**页眉和页脚中的图片：** 通过将图像添加到页眉和页脚来自定义打印的工作簿。 ||
 |Outlook  <br/> |**按计划发送电子邮件：** 删除邮件发送或选择发送邮件的时间。[了解详细信息](https://support.office.com/article/a02097de-76c2-4895-9557-0818ef229024)  <br/><br/> **所有收藏夹均在一个位置：** 为常用的所有文件夹创建一个快捷方式。所有快捷方式均在边栏顶部的收藏夹中列出。[了解详细信息](https://support.office.com/article/4357e516-8608-4bfd-b229-fb08ad29b08d)  <br/><br/> **格式刷：** 在创建电子邮件、事件和任务时可用。  <br/> ||
-|Office 套件  <br/> ||[CVE-2017-8501](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 内存损坏漏洞 |
+|Office 套件  <br/> ||[CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 内存损坏漏洞 |
    
 ## <a name="june-2017-release"></a>2017 年 6 月版本
 
@@ -321,7 +337,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**功能更新**|**安全更新**|
 |:-----|:-----|:-----|
-|Word  <br/> ||[CVE-2017-8509](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 远程代码执行漏洞  |
+|Word  <br/> ||[CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 远程代码执行漏洞  |
 |Outlook  <br/> |**使用更少的时间撰写电子邮件：** 创建电子邮件模板并稍后重复使用它，以节省时间。[了解详细信息](https://support.office.com/article/6339b60e-2e5a-4aed-a9e6-2e7b5d7eb5a0)  <br/><br/> **请求已读回执和送达通知：** 当重要电子邮件已被送达并已被收件人打开时获得通知。[了解详细信息](https://support.office.com/article/2493ae0b-fba6-47f3-a5d5-ca0c0dbfe878)  <br/><br/> **更为轻松地设置帐户：** 现在，在添加 Exchange 或 Gmail 帐户时，将为你更新设置。只需提供你的用户名和密码，即可为你准备就绪。[了解详细信息](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b#PickTab=Outlook_for_Mac)|
 
 
@@ -339,7 +355,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Excel  <br/> |**迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**组：** 查看前 10 个组，并从组文件夹中直接阅读或回复组对话。  <br/> <br/> **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Office 套件  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞   |
+|Office 套件  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞   |
 
 <br/><br/>
    
@@ -375,7 +391,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|
 |:-----|:-----|:-----|
 |Excel  <br/> ||Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/MS17-014)：Microsoft Office 安全更新 (3217868)   |
-|Outlook  <br/> |**触摸栏支持：** 只需用指尖即可调用你正在使用的最相关的命令（仅与含有触摸栏的 MacBook Pro 兼容。）<br/><br/> **翻译工具加载项：** 无需退出 Outlook 即可翻译电子邮件。只需打开翻译工具加载项，一次点击即可进行翻译。从 60 种语言中选择。[了解详细信息](https://support.office.com/article/3d7e12ed-99d6-406e-a453-b9db0d9653fa#OutlookVersion=Mac)  <br/><br/> [从 Office 应用商店安装加载项](https://go.microsoft.com/fwlink/p/?linkid=841914)  <br/><br/> **直接从收件箱访问更多功能：** 借助 Outlook 加载项，可以使用奇妙清单创建任务、使用 Boomerang 跟踪电子邮件响应等。[了解详细信息](https://support.office.com/article/1ee261f9-49bf-4ba6-b3e2-2ba7bcab64c8#OfficeVersion=Outlook_2016_for_Mac)  |
+|Outlook  <br/> |**触摸栏支持：** 只需用指尖即可调用你正在使用的最相关的命令（仅与含有触摸栏的 MacBook Pro 兼容。）   <br/><br/> **翻译工具加载项：** 无需退出 Outlook 即可翻译电子邮件。只需打开翻译工具加载项，一次点击即可进行翻译。从 60 种语言中选择。[了解详细信息](https://support.office.com/article/3d7e12ed-99d6-406e-a453-b9db0d9653fa#OutlookVersion=Mac)  <br/><br/> [从 Office 应用商店安装加载项](https://go.microsoft.com/fwlink/p/?linkid=841914)  <br/><br/> **直接从收件箱访问更多功能：** 借助 Outlook 加载项，可以使用奇妙清单创建任务、使用 Boomerang 跟踪电子邮件响应等。[了解详细信息](https://support.office.com/article/1ee261f9-49bf-4ba6-b3e2-2ba7bcab64c8#OfficeVersion=Outlook_2016_for_Mac)  |
 |Office 套件  <br/> ||Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/MS17-014)：Microsoft Office 安全更新 (3217868)  |
    
 ## <a name="february-2017-release"></a>2017 年 2 月版本
@@ -468,6 +484,6 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Office 套件  <br/> || - 极大地提升了具有使用辅助功能需求的用户的体验。  <br/><br/>  - Microsoft 错误报告可配置为将最后一次崩溃的日志保存到磁盘（默认写入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE）。 <br/> <br/>  - 为 E1/K1 用户提供了更好的激活消息体验。不再提示用户出现错误并鼓励他们使用仅视图体验。  <br/><br/> - 安装程序和更新程序文件名格式更改。例如，使用 Microsoft_Office_2016_15.28.16111300_Installer.pkg 来代替 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
 |Microsoft AutoUpdate  <br/> |包括自动检测、下载和安装更新的新选项。  <br/> | - 版本号更新至 3.8.1。  <br/> <br/>- 修复了以下问题：在安装了旧版的 Microsoft Silverlight 后（尤其是在使用为 null 的 LCID 注册 Silverlight 时），MAU 可能崩溃。  <br/><br/>  - 修复了在使用 ManifestServer 首选项时 MAU 可能崩溃的问题。  <br/><br/> - Microsoft AU Daemon 捆绑包显示名称更改为“Microsoft 更新助手”。  <br/><br/> - 2016 应用的 MAU XML 源不再包含触发器词典，并依赖于“更新版本”进行版本检测。  <br/><br/> - MAU 现在在应用更新窗口中显示完整的版本字符串。例如，改为显示 15.28.16110300，而不是 15.28。  ||
    
-[!INCLUDE [LinkedIn Learning Info](common/office/linkedin-learning-info.md)]
+
    
 
