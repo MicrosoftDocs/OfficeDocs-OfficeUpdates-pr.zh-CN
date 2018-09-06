@@ -3,27 +3,57 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 34a789416bbd4f6ac436842d7d6ebb45a249a732
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520684"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839210"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
 这些发行说明提供了有关 2018 年 Office 365 专业增强版每月频道更新中所包含的新功能、安全更新和非安全更新的信息。
  
-> [!NOTE]
+ > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+
+## <a name="version-1808-september-5"></a>版本 1808：9 月 5 日
+*版本 1808（构建 10730.20088）*
+
+### <a name="access-feature-updates"></a>Access：功能更新
+ - **刷新、重新链接或删除链接的表** 更新的链接表管理器用于管理所有数据源和链接的表。 [了解更多](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+ - **关闭会议转发** 禁止与会者将会议转发给其他人。 只需转到功能区，然后单击“响应选项”。 [了解更多](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ 
+### <a name="visio-feature-updates"></a>Visio：功能更新
+ - **在下一个图表中享用图标** 有 26 个新模板供挑选，作为用于分析、艺术、庆典、联系人、运动会和其它主题的图标。 
+ - **使用 Visio 形状生成 Word 文档** 向 Word 文档自动添加图表内容，包括形状和元数据。 然后自定义文档以创建过程准则和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio 和 Power BI：携手共赢** 只通过几次单击，Visio 图表就变为交互式可视化 Power BI。 [了解更多](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+ ### <a name="project-feature-updates"></a>Project：功能更新
+ - **在任务板卡上查看更多详细信息** 当单独的标题无法把事情说清楚时，请自定义任务板卡以显示所有最重要的详细信息。 [了解更多](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+- 修复了 Excel 中的问题：标记用户选择进行复制的单元格范围的虚线不会消失，即使在后续用户操作（如粘贴）后仍保留在剪贴板中。 
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+ - 解决了导致配置了多个 Exchange 帐户的某些用户在搜索结果列表中缺少“单击以查看更多...”链接的问题。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+ - 修复了在某些应用场景中导致更新安装所用时间过长的问题。
+ 
+### <a name="lync-non-security-updates"></a>Lync：与安全无关的更新
+ - 解决了阻止即时消息中的表情图标显示问题。 
+
 
 ## <a name="version-1807-august-14"></a>版本 1807：8 月 14 日
 *版本 1807（内部版本 10325.20118）*
@@ -64,7 +94,7 @@ ms.locfileid: "23520684"
 ## <a name="version-1806-july-17"></a>版本 1806：7 月 17 日
 *版本 1806（内部版本 10228.20134）*
 
-### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
  - 修复了一些性能问题。
 
 ## <a name="version-1806-july-10"></a>版本 1806：7 月 10 日
@@ -73,7 +103,7 @@ ms.locfileid: "23520684"
 ### <a name="access-security-updates"></a>Access：安全更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 篡改漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
@@ -84,12 +114,12 @@ ms.locfileid: "23520684"
 *版本 1806（生成号 10228.20080）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。
+ - **改进的单元格和公式栏编辑：** 您现在可以使用 CTRL+A 在单元格或公式栏中选择文本。 此外，支持更多的表情符号和其他复杂字符。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **重复周期默认设置：** 在“约会重复周期”对话框中（“重复周期范围”下），“结束日期”是默认设置（替代了“无结束日期”），并且是列出的第一个设置，同时还设置了默认结束日期。
- - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。
+ - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。 [了解更多](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -123,11 +153,11 @@ ms.locfileid: "23520684"
 ## <a name="version-1805-june-12"></a>版本 1805：6 月 12 日
 *版本 1805（生成号 9330.2118）*
 
-### <a name="excel-security-updates"></a>Excel：安全更新程序
+### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
 
 ### <a name="outlook-non-security-updates"></a>Outlook 非安全更新程序
@@ -212,7 +242,7 @@ ms.locfileid: "23520684"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **收听电子邮件：** Outlook 可以大声读出电子邮件，并能一边朗读一边突出显示文本。[了解详细信息](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。
+-   **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。 如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。[了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到“文件”\>“选项”\>“邮件”\>“其他”。
 -   **加密选项：** Office 365 邮件加密用户可以加密邮件，并将邮件发送给组织内外的任何人。创建邮件时，可以在“选项”\>“权限”下找到加密选项。[了解详细信息](https://aka.ms/omeoverview)
 
