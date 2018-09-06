@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 8590b1e56a9f3322947a890d9a94c8b57e4d468b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f77d49e65138e26f9dac827a04d64d8800312551
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520594"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839190"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -36,6 +36,16 @@ ms.locfileid: "23520594"
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。 
 
+  ## <a name="september-5-2018"></a>2018 年 9 月 5 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新发布为版本 1808（内部版本 10730.20088）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1807（内部版本 10325.20082）  <br/> |2018 年 7 月 25 日  <br/> |237．  <br/> |
+|版本 1807（内部版本 10325.20118）  <br/> |2018 年 8 月 14 日  <br/> |231  <br/> |
   ## <a name="august-14-2018"></a>2018 年 8 月 14 日
 
 ### <a name="monthly-channel"></a>每月频道
@@ -50,7 +60,7 @@ ms.locfileid: "23520594"
   
 ### <a name="semi-annual-channel"></a>半年频道
 
-最新版为版本 1803（内部版本 9126.2275）。
+最新发布为版本 1803（内部版本 9126.2275）。
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -60,7 +70,7 @@ ms.locfileid: "23520594"
   
 ### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
 
-最新版为版本 1803（内部版本 9126.2275）。
+最新发布为版本 1803（内部版本 9126.2275）。
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -156,7 +166,7 @@ ms.locfileid: "23520594"
    
 ### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
 
-最新版为版本 1803（内部版本 9126.2275）。
+最新发布为版本 1803（内部版本 9126.2275）。
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|

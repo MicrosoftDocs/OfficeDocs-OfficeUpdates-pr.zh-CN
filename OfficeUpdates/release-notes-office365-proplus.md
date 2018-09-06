@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新发行信息
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/18
+ms.date: 9/5/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: b583775238a3ce42debbc35daaf56964532ae276
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 034f9eda427a72c0aad3020cf511b11a40fcc899
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520574"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839220"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
@@ -26,6 +26,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
   
 |**频道**|**版本**|**内部版本**|**发布日期**|**之前支持的版本**|
 |:-----|:-----|:-----|:-----|:-----|
+|每月  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 2018 年 9 月 5 日  <br/> |版本 1809 已发布 <br/>|
 |每月  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 版本 1808 已发布 <br/>|
 |半年（定向）  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 2018 年 9 月 11 日 <br/>|
 |半年 <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 2018 年 8 月 14 日  <br/> | 2019 年 9 月 10日 <br/>|
