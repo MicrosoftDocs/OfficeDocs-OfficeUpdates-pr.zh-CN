@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: f77d49e65138e26f9dac827a04d64d8800312551
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839190"
+ms.locfileid: "23848380"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -44,8 +44,9 @@ ms.locfileid: "23839190"
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1807（内部版本 10325.20082）  <br/> |2018 年 7 月 25 日  <br/> |237．  <br/> |
 |版本 1807（内部版本 10325.20118）  <br/> |2018 年 8 月 14 日  <br/> |231  <br/> |
+|版本 1807（内部版本 10325.20082）  <br/> |2018 年 7 月 25 日  <br/> |237  <br/> |
+
   ## <a name="august-14-2018"></a>2018 年 8 月 14 日
 
 ### <a name="monthly-channel"></a>每月频道
@@ -75,7 +76,7 @@ ms.locfileid: "23839190"
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
 |版本 1803（内部版本 8431.2259）  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
-|版本 1803（内部版本 9126.2227）  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
+|版本 1803（内部版本号 9126.2227）  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>2018 年 7 月 25 日
 
@@ -114,7 +115,7 @@ ms.locfileid: "23839190"
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1803（内部版本 9126.2227）  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
+|版本 1803（内部版本号 9126.2227）  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
 |版本 1803（内部版本 9126.2210）  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
 
 
