@@ -3,19 +3,19 @@ title: Office for Mac 发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/16/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 1ca096f0a4595eb8017f5af719a8d4b85bd58d73
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 5ec4d94714d59fe29735faa4c5f138b14d8f7304
+ms.sourcegitcommit: 5b6837d06af9089e443466b04c286f104411c6c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520734"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23959327"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -30,6 +30,24 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > - 这些发行还适用于 Office 2016 for Mac（它是 Office for Mac 的永久版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Office 365 订阅的情况下才适用。
 > - 仅为最新版本提供下载链接。
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
+
+## <a name="september-2018-release"></a>2018 年 9 月发布
+
+ **发布日期：** 2018 年 9 月 11 日 
+  
+ *版本 16.17.0 （内部版本 18090901）* 
+  
+此版本提供以下更新。
+
+  
+|**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
+|:-----|:-----|:-----|
+|Word  <br/> |**获取关注 \@提醒：** 使用注释 @mentions 让共同创作者知道需要他们的意见。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用墨迹绘制：** 使用鼠标或触摸板，以及“绘图”选项卡上的笔来书写、绘制和突出显示。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**插入 3D 模型以查看所有角度：** 轻松地插入 3D 模型，然后将其旋转 360 度。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**使用墨迹绘制：** 使用鼠标或触摸板，以及“绘图”选项卡上的笔来书写、绘制和突出显示。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入 3D 模型以查看所有角度：** 轻松地插入 3D 模型，然后将其旋转 360 度。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**重新推出自定义快捷方式：** 我们倾听用户的诉求！ 鉴于您的请求，我们已将重新加入自定义快捷键。 [了解更多](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞 <br/>  |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**获取关注 \@提醒：** 使用注释 @mentions 让共同创作者知道需要他们的意见。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用墨迹绘制：** 使用鼠标或触摸板，以及“绘图”选项卡上的笔来书写、绘制和突出显示。[了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入 3D 模型以查看所有角度：** 轻松地插入 3D 模型，然后将其旋转 360 度。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**您选择的字体作为显示字体：** 在文件中嵌入自定义字体，带来随时同步自定义字体显示效果。 [了解更多](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
+|Microsoft AutoUpdate 4.2  <br/> |||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Office 套件  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Microsoft 图形远程代码执行漏洞 <br/>||
 
 ## <a name="august-2018-release"></a>2018 年 8 月发布
 
@@ -48,7 +66,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412)：Microsoft AutoUpdate Office 特权提升漏洞  <br/>|[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
 |Office 套件  <br/> ||||
 
-## <a name="july-2018-release"></a>2018 年 7 月发布
+## <a name="july-2018-release"></a>2018 年 7 月版本
 
  **发布日期：** 2018 年 7 月 10 日 
   
@@ -73,10 +91,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 *版本 16.14.1（生成号 18061302）*
 
 此版本修复了个人应用程序的更新程序包存在的问题。
-
-以下是有关更新程序包的下载链接：[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) 和 [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg)。
-
 <br/><br/>
+
 
  **发布日期：** 2018 年 6 月 12 日 
   
