@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839210"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952422"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -24,6 +24,20 @@ ms.locfileid: "23839210"
  > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+
+## <a name="version-1808-september-11"></a>版本 1808：9 月11 日
+*版本 1808（内部版本 10730.20102）*
+
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞
+
+### <a name="word-security-updates"></a>Word：安全更新
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)：Word PDF 远程代码执行漏洞
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics 远程代码执行漏洞
+
 
 ## <a name="version-1808-september-5"></a>版本 1808：9 月 5 日
 *版本 1808（构建 10730.20088）*
@@ -36,19 +50,19 @@ ms.locfileid: "23839210"
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
  - **在下一个图表中享用图标** 有 26 个新模板供挑选，作为用于分析、艺术、庆典、联系人、运动会和其它主题的图标。 
- - **使用 Visio 形状生成 Word 文档** 向 Word 文档自动添加图表内容，包括形状和元数据。 然后自定义文档以创建过程准则和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **利用 Visio 形状生成 Word 文档**自动向 Word 文档添加关系图内容，包括形状和元数据。 然后自定义文档以创建过程准则和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
  - **Visio 和 Power BI：携手共赢** 只通过几次单击，Visio 图表就变为交互式可视化 Power BI。 [了解更多](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project：功能更新
  - **在任务板卡上查看更多详细信息** 当单独的标题无法把事情说清楚时，请自定义任务板卡以显示所有最重要的详细信息。 [了解更多](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
-- 修复了 Excel 中的问题：标记用户选择进行复制的单元格范围的虚线不会消失，即使在后续用户操作（如粘贴）后仍保留在剪贴板中。 
+-  修复了 Excel 中的问题：标记用户选择进行复制的单元格范围的虚线不会消失，即使在后续用户操作（如粘贴）后仍保留在剪贴板中。 
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
  - 解决了导致配置了多个 Exchange 帐户的某些用户在搜索结果列表中缺少“单击以查看更多...”链接的问题。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
  - 修复了在某些应用场景中导致更新安装所用时间过长的问题。
  
 ### <a name="lync-non-security-updates"></a>Lync：与安全无关的更新
@@ -67,7 +81,7 @@ ms.locfileid: "23839210"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 深度防御更新 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞 
@@ -94,7 +108,7 @@ ms.locfileid: "23839210"
 ## <a name="version-1806-july-17"></a>版本 1806：7 月 17 日
 *版本 1806（内部版本 10228.20134）*
 
-### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
  - 修复了一些性能问题。
 
 ## <a name="version-1806-july-10"></a>版本 1806：7 月 10 日
@@ -114,7 +128,7 @@ ms.locfileid: "23839210"
 *版本 1806（生成号 10228.20080）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **改进的单元格和公式栏编辑：** 您现在可以使用 CTRL+A 在单元格或公式栏中选择文本。 此外，支持更多的表情符号和其他复杂字符。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 此外，支持更多的表情符号和其他复杂字符。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
@@ -164,7 +178,7 @@ ms.locfileid: "23839210"
 
 - 修复了以下问题：应用程序调用 MAPI API 可能会导致故障。
 
-### <a name="project-non-security-updates"></a>Project 非安全更新程序
+### <a name="project-non-security-updates"></a>Project 非安全更新
 
 - 修复了以下问题：通过主项目的上下文处理子项目时，无法保存子项目。
 
@@ -401,7 +415,7 @@ ms.locfileid: "23839210"
 *版本 1712（内部版本 8827.2148）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，这样就可以更改它们的颜色、尺寸或纹理。
+-   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，以便可更改其颜色、大小或纹理。
 -   **取消选中单元格：** 在工作表中进行选择，并取消选中不小心单击的单元格，而不必重新开始。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -474,4 +488,4 @@ ms.locfileid: "23839210"
 -   修复了以下问题：VBA 代码从项目中丢失。
 
 > [!NOTE]
-> 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
+> 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[客户支持](https://support.microsoft.com/contactus)。
