@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: f7d33739981dcbe14a9a940ea09c93ba9e9a46fc
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f1f0e3b40a49db9d2c3b66c7d07fab2fb864902b
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520654"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952442"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>有关 2018 年半年频道发行的发行说明
 
@@ -25,6 +25,36 @@ ms.locfileid: "23520654"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 在 2018 年 1 月前，半年频道被命名为延期频道。
+
+## <a name="version-1803-september-11"></a>版本 1803：9 月 11 日
+*版本 1803（内部版本 9126.2282）*
+
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞
+
+### <a name="word-security-updates"></a>Word：安全更新
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)：Word PDF 远程代码执行漏洞
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics 远程代码执行漏洞
+
+
+## <a name="version-1708-september-11"></a>版本 1708：9 月 11 日
+*版本 1708（内部版本 8431.2309）*
+
+*这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新程序。不过，新版半年频道（即版本 1803，内部版本 16.0.9126.2282）现已推出，其中包含新增功能、安全更新和非安全更新。*
+
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞
+
+### <a name="word-security-updates"></a>Word：安全更新
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)：Word PDF 远程代码执行漏洞
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics 远程代码执行漏洞
+
 
 ## <a name="version-1803-august-14"></a>版本 1803：8 月 14 日
 *版本 1803（内部版本 9126.2275）*
@@ -38,7 +68,7 @@ ms.locfileid: "23520654"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 深度防御更新 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞 
@@ -47,7 +77,7 @@ ms.locfileid: "23520654"
 ## <a name="version-1708-august-14"></a>版本 1708：8 月 14 日
 *版本 1708（内部版本 8431.2299）*
 
-*这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1803，内部版本 16.0.9126.2259）现已推出，其中包含新增功能、安全更新和非安全更新。*
+*这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1803，内部版本 16.0.9126.2275）现已推出，其中包含新增功能、安全更新和非安全更新。*
 
 ### <a name="access-security-updates"></a>Access：安全更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
@@ -58,7 +88,7 @@ ms.locfileid: "23520654"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 深度防御更新 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞 
@@ -369,7 +399,7 @@ ms.locfileid: "23520654"
 ## <a name="version-1708-july-10"></a>版本 1708：7 月 10 日
 *版本 1708（内部版本 8431.2280）*
 
-*这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1803，内部版本 16.0.9126.2259）现已推出，其中包含新增功能、安全更新和非安全更新。*
+*这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1803，内部版本 9126.2259）现已推出，其中包含新增功能、安全更新和非安全更新。*
 
 ### <a name="access-security-updates"></a>Access：安全更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
@@ -388,7 +418,7 @@ ms.locfileid: "23520654"
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新程序
@@ -405,7 +435,7 @@ ms.locfileid: "23520654"
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
 
 
