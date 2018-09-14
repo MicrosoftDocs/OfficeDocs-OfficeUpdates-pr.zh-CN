@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
+ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954818"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23965138"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -101,7 +101,8 @@ ms.locfileid: "23954818"
 |版本 1805（内部版本 9330.2124）  <br/> |2018 年 6 月 13 日  <br/> |149  <br/> |
 |版本 1805（内部版本 9330.2118）  <br/> |2018 年 6 月 12 日  <br/> |401  <br/> |
 |版本 1805（内部版本 9330.2087）  <br/> |2018 年 5 月 24 日  <br/> |150  <br/> |
-
+  
+### <a name="semi-annual-channel"></a>半年频道
 最新发布为版本 1803（内部版本 9126.2259）。
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
