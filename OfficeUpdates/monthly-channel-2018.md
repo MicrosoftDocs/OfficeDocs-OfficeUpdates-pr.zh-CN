@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 03c65ea79f989e380f4c51dc1bcade10ee609e01
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952422"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991930"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -25,7 +25,7 @@ ms.locfileid: "23952422"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 
-## <a name="version-1808-september-11"></a>版本 1808：9 月11 日
+## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
 *版本 1808（内部版本 10730.20102）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -292,7 +292,7 @@ ms.locfileid: "23952422"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
-
+-   **阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。  了解更多 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
 *版本 1803（内部版本 9126.2116）*
@@ -301,7 +301,7 @@ ms.locfileid: "23952422"
 -   **Microsoft Translator：** 使用 Microsoft Translator 将字词、短语或句子翻译成其他语言。可以在功能区的“审阅”选项卡中执行此操作。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
--   修复了以下问题：无法快速打印附加到 Outlook 电子邮件的 Excel 工作簿。
+-   修复了无法快速打印附加到 Outlook 电子邮件的 Excel 工作簿的问题。
 -   修复了以下问题：单击超链接可能会导致 Excel 发生故障。
 -   修复了以下问题：使用多维数据集函数导致 Excel 发生故障。
 
@@ -415,7 +415,7 @@ ms.locfileid: "23952422"
 *版本 1712（内部版本 8827.2148）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，以便可更改其颜色、大小或纹理。
+-   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，这样就可以更改它们的颜色、尺寸或纹理。
 -   **取消选中单元格：** 在工作表中进行选择，并取消选中不小心单击的单元格，而不必重新开始。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -488,4 +488,4 @@ ms.locfileid: "23952422"
 -   修复了以下问题：VBA 代码从项目中丢失。
 
 > [!NOTE]
-> 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[客户支持](https://support.microsoft.com/contactus)。
+> 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。

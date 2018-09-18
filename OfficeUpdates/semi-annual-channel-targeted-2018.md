@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/12/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: bb6e9f8f4a2740f7ee98b178563afa03aad561e7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 8d89c9f250fcec6994cbc2763a6a094ae1b58064
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952432"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991940"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>有关 2018 年半年频道（定向）发行的发行说明
 
@@ -37,7 +37,7 @@ ms.locfileid: "23952432"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **协作编辑：** 与其他人同时协作处理工作簿。 [了解更多](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **云文件自动保存功能现在默认启用：** 在 2018 年 9 月半年频道（定向）发行中，自动保存功能默认启用。 此更改意味着用户不必担心丢失其存储在 OneDrive 或 SharePoint Online 上的文档中的更改。 更改将自动保存在云中，并且用户将不再必须明确地按 Ctrl + S 或“保存”按钮。 但是，他们必须了解此行为更改，以防对文档进行意外更改。 请注意，用户可以使用屏幕顶部的“自动保存” 开关来关闭“自动保存”功能。 我们建议你将这个即将发布的更改告知用户，并指引他们如何最有效地利用 Office 365 中的这一新功能。 [详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [详细了解 IT 管理员应掌握的“自动保存”相关信息](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- 改进的单元格和公式栏编辑：你现在可以使用 CTRL+A 在单元格或公式栏中选择文本。** ** 此外，支持更多的表情符号和其他复杂字符。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 同时还改进了对表情符号和其他复杂字符的支持。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的工作簿更易于访问。 [了解更多](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **避免意外编辑：** 将你的工作簿设置为以只读方式打开，以防止意外更改。 转到“文件”>“信息”>“保护工作簿”>“始终以只读方式打开”
 
@@ -79,7 +79,7 @@ ms.locfileid: "23952432"
 - **知道将与谁一起开会：** 即使你不是组织者，现在也可以看到其他人对会议请求的响应。
 - **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。 如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。[了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到“文件”\>“选项”\>“邮件”\>“其他”。
-- **查看三个时区：** 需要跨时区安排会议？ 将多个时区添加到你的日历，以方便地查看每个人的状态并选择适合于所有人的时间。 [了解更多](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+- **查看三个时区：** 需要跨时区安排会议？ 将多个时区添加到你的日历，轻松地查看每个人的空闲时间并选择适合所有人的时间。 [了解更多](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
 - **精简创建组的用户体验：** 我们优化了创建组的用户体验，使其更加现代且更具条理。[了解更多](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 - **密件抄送 (Bcc) 警告：** 如果对之前密件抄送的邮件选择“全部答复”，将显示警告。
 
@@ -100,9 +100,9 @@ ms.locfileid: "23952432"
 -   修复了以下问题：一些用户没有收到租户管理员已启用的支持功能。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新 
-- **无需打字：** 使用语音，通过口述方式即可创建演示文稿。无需打字。[了解详细信息](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **无需打字：** 使用语音，通过口述方式即可创建演示文稿。无需打字。[了解更多](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **云文件自动保存功能现在默认启用：** 在 2018 年 9 月半年频道（定向）发行中，自动保存功能默认启用。 此更改意味着用户不必担心丢失其存储在 OneDrive 或 SharePoint Online 上的文档中的更改。 更改将自动保存在云中，并且用户将不再必须明确地按 Ctrl + S 或“保存”按钮。 但是，他们必须了解此行为更改，以防对文档进行意外更改。 请注意，用户可以使用屏幕顶部的“自动保存” 开关来关闭“自动保存”功能。 我们建议你将这个即将发布的更改告知用户，并指引他们如何最有效地利用 Office 365 中的这一新功能。 [详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [详细了解 IT 管理员应掌握的“自动保存”相关信息](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- 改进的单元格和公式栏编辑：你现在可以使用 CTRL+A 在单元格或公式栏中选择文本。** ** 此外，支持更多的表情符号和其他复杂字符。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 同时还改进了对表情符号和其他复杂字符的支持。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **转换墨迹：** 获取自由曲线备注和绘图，并将它们转换为可读文本和清晰形状，以创建完善的演示文稿。[了解详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
@@ -150,7 +150,7 @@ ms.locfileid: "23952432"
  - **使用 Visio 形状生成 Word 文档** 向 Word 文档自动添加图表内容，包括形状和元数据。 然后自定义文档以创建过程准则和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
-- **无需打字：** 使用语音，通过口述方式即可创建文档。无需打字。[了解详细信息](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **无需打字：** 使用语音，通过口述方式即可创建文档。无需打字。[了解更多](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **云文件自动保存功能现在默认启用：** 在 2018 年 9 月半年频道（定向）发行中，自动保存功能默认启用。 此更改意味着用户不必担心丢失其存储在 OneDrive 或 SharePoint Online 上的文档中的更改。 更改将自动保存在云中，并且用户将不再必须明确地按 Ctrl + S 或“保存”按钮。 但是，他们必须了解此行为更改，以防对文档进行意外更改。 请注意，用户可以使用屏幕顶部的“自动保存” 开关来关闭“自动保存”功能。 我们建议你将这个即将发布的更改告知用户，并指引他们如何最有效地利用 Office 365 中的这一新功能。 [详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [详细了解 IT 管理员应掌握的“自动保存”相关信息]
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的文档更易于访问。 [了解更多](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -173,8 +173,9 @@ ms.locfileid: "23952432"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
+-   **出于安全考虑，阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。 可以在[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解更多。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 -  修复了在某些应用场景中导致更新安装所用时间过长的问题。
 -  修复以下问题：在打开应用程序时，用户可能会看到关于以安全模式启动而应用程序无法打开的消息。
 -  修复了一些性能问题。
@@ -229,7 +230,7 @@ ms.locfileid: "23952432"
 ## <a name="version-1803-june-12"></a>版本 1803：6 月 12 日
 *版本 1803（生成号 9126.2227）*
 
-### <a name="excel-security-updates"></a>Excel：安全更新程序
+### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
 
@@ -338,7 +339,7 @@ ms.locfileid: "23952432"
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了无法快速打印附加到 Outlook 电子邮件的 Excel 工作簿的问题。
 -   修复了以下问题：单击超链接可能会导致 Excel 发生故障。
--   修复了以下问题：使用多维数据集函数导致 Excel 发生故障。
+-   修复了使用多维数据集函数导致 Excel 崩溃的问题。
 
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business：非安全更新
 -   修复了以下问题：OneDrive for Business (Groove.exe) 在任务管理器中长时间使用 CPU 的一个 CPU 内核资源（例如，4 核 CPU 的 25%）。
