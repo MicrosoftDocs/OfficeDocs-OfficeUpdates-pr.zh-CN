@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 0075744d2adeae80a8ab591c598970b49c54d668
-ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
+ms.openlocfilehash: 275e38720009a2201df50c2edc1d7558529f79f3
+ms.sourcegitcommit: 02b7e0005dd4397f74aa831598ee35e7ed36d051
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23965148"
+ms.lasthandoff: 09/18/2018
+ms.locfileid: "23998551"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -33,7 +33,7 @@ ms.locfileid: "23965148"
 |**年份**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
 |2018 年|9 月 11 日   |[**版本 1808（内部版本 10730.20102）**](monthly-channel-2018.md#version-1808-september-11)|[**版本 1808（内部版本 10730.20102）**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**版本 1803（内部版本 9126.2282）**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [版本 1708（内部版本 8431.2309）](semi-annual-channel-2018.md#version-1708-september-11)   |
-|2018 年|9 月 5 日   |[版本 1808（内部版本 10730.20088）**](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018 年| 9 月 5 日   |[版本 1808（构建 10730.20088）](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018 年|8 月 14 日   |[版本 1807（内部版本 10325.20118）](monthly-channel-2018.md#version-1807-august-14)|[版本 1803（内部版本 9126.2275）](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[版本 1803（内部版本 9126.2275）](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [版本 1708（内部版本 8431.2299）](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[版本 1807（内部版本 10325.20082）](monthly-channel-2018.md#version-1807-july-25) | | |
 ||7 月 17 日   |[版本 1806（内部版本 10228.20134）](monthly-channel-2018.md#version-1806-july-17) | | |
