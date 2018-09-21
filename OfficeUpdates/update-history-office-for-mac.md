@@ -3,19 +3,19 @@ title: Office for Mac 的更新历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: f8b461a204840d8fab957c8f79364d3ed9a1fb83
-ms.sourcegitcommit: 974fa36131b2fad205b3fc64dcfa526a99b54eb7
+ms.openlocfilehash: 3cfecfaadaa03e8f1177cbcdc8a578a0a6958015
+ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2018
-ms.locfileid: "23981448"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24056131"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
 
@@ -29,7 +29,7 @@ ms.locfileid: "23981448"
 16.17 (18090901)  <br/> |2018 年 9 月 11 日  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[发行说明](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - 此信息也适用于 Office 2016 for Mac，这是 Office for Mac 的永久版本，可从零售商店或通过批量许可协议进行一次性购买。
+> - 此信息不再适用于 Office 2016 for Mac，它是 Office for Mac 的永久版本，可从零售商店或通过批量许可协议进行一次性购买。  可以通过 Office for Mac 2016 批量许可证激活包括 16.16 或更旧的版本。 但是，自 16.17 起 2016 批量许可证将不再兼容。
 > - 有关指定版本的 Office for Mac 中包含的功能、安全更新和非安全更新的信息，请参阅 [Office for Mac 发行说明](release-notes-office-for-mac.md)。
 > - 如果想尽早访问新版本，请加入 [Office 预览体验成员](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)计划。
 
