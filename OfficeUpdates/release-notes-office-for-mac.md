@@ -3,19 +3,19 @@ title: Office for Mac 发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 8db9d034e7a95d69e9d0eca05731e57e217f6bcc
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056141"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004449"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -23,11 +23,13 @@ ms.locfileid: "24056141"
 随 Office 365 订阅一起提供的 Office for Mac 将定期更新，以提供新功能、安全更新和非安全更新。
   
 Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，请启动 Office 应用程序（例如，Word），然后选择“帮助”**** > “查看更新”****。如果你是管理员并想要使用现有软件部署工具更新组织中的计算机，可以下载和部署每个应用程序的更新包。
+
   
 > [!NOTE]
 > - 有关全部 Office for Mac 发行的列表和其他下载链接，请参阅 [Office for Mac 的更新历史记录](update-history-office-for-mac.md)。 
 > - 如果你是 Office 预览体验成员，请参阅[针对预览体验成员内部版本（快）的发行说明](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
-> - 此信息不再适用于 Office 2016 for Mac，它是 Office for Mac 的永久版本，可从零售商店或通过批量许可协议进行一次性购买。  可以通过 Office for Mac 2016 批量许可证激活包括 16.16 或更旧的版本。 但是，自 16.17 起 2016 批量许可证将不再兼容。
+> - 从 2018 年 9 月发布的 16.17 起，这些发行说明也适用于 Office 2019 for Mac，这是 Office for Mac 的一个版本，可从零售店一次性购买或通过批量许可协议获取。 但是，发行说明中列出的一些功能只有在您有 Office 365 订阅时才可用。
+> - 16.16 及早期版本的发布说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一个版本，可一次性购买。 可以通过 Office 2016 for Mac 批量许可证激活 16.16 或更旧的版本。 无法通过批量许可激活 Office 2016 for Mac 的 16.17 或更高版本。 
 > - 仅为最新版本提供下载链接。
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
