@@ -23,8 +23,9 @@
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Office for Mac
-## [更新历史记录](update-history-office-for-mac.md)
-## [发行说明](release-notes-office-for-mac.md)
+## [更新历史记录 (Office 365，2019年)](update-history-office-for-mac.md)
+## [发行说明 (Office 365，2019年)](release-notes-office-for-mac.md)
+## [发行说明 (2016)](release-notes-office-2016-mac.md)
 ## [MAU 版本历史记录](release-history-microsoft-autoupdate.md)
 
 # Office （永久）
