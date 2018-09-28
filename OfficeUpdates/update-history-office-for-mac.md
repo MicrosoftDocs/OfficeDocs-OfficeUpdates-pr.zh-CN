@@ -3,19 +3,19 @@ title: Office for Mac 的更新历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/24/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
-ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
+ms.openlocfilehash: b143ab1be848e0efe17709fcce92302e04855c2a
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25004439"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341377"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
 
@@ -30,7 +30,7 @@ ms.locfileid: "25004439"
   
 > [!NOTE]
 > - 从 2018 年 9 月发布的 16.17 起，此信息也适用于 Office 2019 for Mac，这是 Office for Mac 的一个版本，可从零售店一次性购买或通过批量许可协议获取。
-> - 16.16 及早期版本的更新历史记录信息也适用于 Office 2016 for Mac，它也是 Office for Mac 的一个版本，可一次性购买。 可以通过 Office 2016 for Mac 批量许可证激活 16.16 或更旧的版本。 无法通过批量许可激活 Office 2016 for Mac 的 16.17 或更高版本。
+> - 16.16 及早期版本的更新历史记录信息也适用于 Office 2016 for Mac，它也是 Office for Mac 的一个版本，可一次性购买。可以通过 Office 2016 for Mac 批量许可证激活 16.16 或更旧的版本。无法通过批量许可激活 Office 2016 for Mac 的 16.17 或更高版本。有关 9 月起发布的 Office 2016 for Mac 的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)
 > - 有关指定版本的 Office for Mac 中包含的功能、安全更新和非安全更新的信息，请参阅 [Office for Mac 发行说明](release-notes-office-for-mac.md)。
 > - 如果想尽早访问新版本，请加入 [Office 预览体验成员](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)计划。
 
@@ -56,7 +56,7 @@ ms.locfileid: "25004439"
 |**程序**|**版本**|**程序包**|**SHA1 哈希**|**详细信息**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | 此更新包是 64 位版本。 <br/><br/>[MAU 的版本历史记录](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.21.0.65  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 31235D956A16159A7552B5351A26704074A10722 <br/> |最新版已于 2018 年 9 月 14 日发布。 <br/><br/>[最新更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Skype for Business  <br/> |16.21.0.75  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | A530ADCB7DEF1EFDB9590B159CDB27DE571D1269 <br/> |最新版已于 2018 年 9 月 14 日发布。 <br/><br/>[最新更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |远程桌面 | 10.2.1 (1143) | [下载](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | 此安装包是 64 位版本。 <br/> <br/>[新增功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Intune 公司门户 |1.5 (52.1805002.000) [180509] | [下载](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Microsoft Intune 新增功能](https://docs.microsoft.com/intune/whats-new)|
 |适用于 Office 2016 for Mac 的 Microsoft SharePoint 本地 Safari 浏览器插件  <br/> |15.32.0 (170309)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | 此安装包是 64 位版本。  <br/> |
