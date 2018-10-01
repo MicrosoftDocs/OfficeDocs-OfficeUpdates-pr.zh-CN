@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/13/2018
+ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 275e38720009a2201df50c2edc1d7558529f79f3
-ms.sourcegitcommit: 02b7e0005dd4397f74aa831598ee35e7ed36d051
+ms.openlocfilehash: 6990f8b6b8268594d34dbae8c4e31e59ba3cd58a
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2018
-ms.locfileid: "23998551"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25346998"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -30,22 +30,23 @@ ms.locfileid: "23998551"
 
 
 
-|**年份**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
+|**年份**|**发布日期**|**每月频道**|**半年频道（定向）**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 年|9 月 11 日   |[**版本 1808（内部版本 10730.20102）**](monthly-channel-2018.md#version-1808-september-11)|[**版本 1808（内部版本 10730.20102）**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**版本 1803（内部版本 9126.2282）**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [版本 1708（内部版本 8431.2309）](semi-annual-channel-2018.md#version-1708-september-11)   |
-|2018 年| 9 月 5 日   |[版本 1808（构建 10730.20088）](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018 年|9 月 27 日   |[**版本 1809 （内部版本 10827.20138）**](monthly-channel-2018.md#version-1809-september-27)| | |
+|2018 年|9 月 11 日   |[版本 1808（内部版本 10730.20102）](monthly-channel-2018.md#version-1808-september-11)|[**版本 1808（内部版本 10730.20102）**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**版本 1803（内部版本 9126.2282）**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [版本 1708（内部版本 8431.2309）](semi-annual-channel-2018.md#version-1708-september-11)   |
+|2018 年|9 月 5 日   |[版本 1808（内部版本 10730.20088）](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018 年|8 月 14 日   |[版本 1807（内部版本 10325.20118）](monthly-channel-2018.md#version-1807-august-14)|[版本 1803（内部版本 9126.2275）](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[版本 1803（内部版本 9126.2275）](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [版本 1708（内部版本 8431.2299）](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[版本 1807（内部版本 10325.20082）](monthly-channel-2018.md#version-1807-july-25) | | |
 ||7 月 17 日   |[版本 1806（内部版本 10228.20134）](monthly-channel-2018.md#version-1806-july-17) | | |
 ||7 月 10 日   |[版本 1806（内部版本 10228.20104）](monthly-channel-2018.md#version-1806-july-10) |[版本 1803（内部版本 9126.2259）](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[版本 1803（内部版本 9126.2259）](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [版本 1708（内部版本 8431.2280）](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||6 月 25 日   |[版本 1806（内部版本 10228.20080）](monthly-channel-2018.md#version-1806-june-25) |||
-||6 月 13 日   |[版本 1805（生成号 9330.2124）](monthly-channel-2018.md#version-1805-june-13) |||
-||6 月 12 日   |[版本 1805（内部版本 9330.2118）](monthly-channel-2018.md#version-1805-june-12)  |[版本 1803（生成号 9126.2227）](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[版本 1708（生成号 8431.2270）](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [版本 1705（内部版本 8201.2294）](semi-annual-channel-2018.md#version-1705-may-8)   |
-||5 月 24 日   |[版本 1805（生成号 9330.2087）](monthly-channel-2018.md#version-1805-may-24) |||
+||6 月 13 日   |[版本 1805（内部版本 9330.2124）](monthly-channel-2018.md#version-1805-june-13) |||
+||6 月 12 日   |[版本 1805（内部版本 9330.2118）](monthly-channel-2018.md#version-1805-june-12)  |[版本 1803（n内部版本 9126.2227）](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[版本 1708（内部版本 8431.2270）](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [版本 1705（内部版本 8201.2294）](semi-annual-channel-2018.md#version-1705-may-8)   |
+||5 月 24 日   |[版本 1805（内部版本 9330.2087）](monthly-channel-2018.md#version-1805-may-24) |||
 ||5 月 23 日   |[版本 1805（内部版本 9330.2078）](monthly-channel-2018.md#version-1805-may-23)  |  |  |
-||5 月 18 日   |  |[版本 1803（生成号 9126.2210）](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
+||5 月 18 日   |  |[版本 1803（内部版本 9126.2210）](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
 ||5 月 14 日   |[版本 1804（内部版本 9226.2156）](monthly-channel-2018.md#version-1804-may-14)  |  |  |
-||5 月 8 日   |[版本 1804（内部版本 9226.2126）](monthly-channel-2018.md#version-1804-may-8)  |[版本 1803（生成号 9126.2191）](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[版本 1708（生成号 8431.2250）](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [版本 1705（生成号 8201.2278）](semi-annual-channel-2018.md#version-1705-may-8)   |
+||5 月 8 日   |[版本 1804（内部版本 9226.2126）](monthly-channel-2018.md#version-1804-may-8)  |[版本 1803（内部版本 9126.2191）](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[版本 1708（内部版本 8431.2250）](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [版本 1705（内部版本 8201.2278）](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||4 月 25 日   | [版本 1804（内部版本 9226.2114）](monthly-channel-2018.md#version-1804-april-25)   |   |   |
 ||4 月 11 日   | [版本 1803（内部版本 9126.2152）](monthly-channel-2018.md#version-1803-april-11)   |   |   |
 ||4 月 10 日   |   | [版本 1803（内部版本 9126.2152）](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [版本 1708（内部版本 8431.2242）](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [版本 1705（内部版本 8201.2272）](semi-annual-channel-2018.md#version-1705-april-10)   |
@@ -54,7 +55,7 @@ ms.locfileid: "23998551"
 ||3 月 13 日  | [版本 1802（内部版本 9029.2253）](monthly-channel-2018.md#version-1802-march-13)   | [版本 1803（内部版本 9126.2072）](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [版本 1708（内部版本 8431.2236）](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [版本 1705（内部版本 8201.2265）](semi-annual-channel-2018.md#version-1705-march-13)   |
 ||2 月 26 日   | [版本 1802（内部版本 9029.2167）](monthly-channel-2018.md#version-1802-february-26)   |   |   |
 ||2 月 13 日   | [版本 1801（内部版本 9001.2171）](monthly-channel-2018.md#version-1801-february-13)   | [版本 1708（内部版本 8431.2215）](semi-annual-channel-targeted-2018.md#version-1708-february-13)   | [版本 1708（内部版本 8431.2215）](semi-annual-channel-2018.md#version-1708-february-13)  <br/>   [版本 1705（内部版本 8201.2258）](semi-annual-channel-2018.md#version-1705-february-13)   |
-||2 月 7 日   | [版本 1801（内部版本 9001.2144）](monthly-channel-2018.md#version-1801-february-7)   |   |   |
+||2 月 7 日   | [2 月 7 日](monthly-channel-2018.md#version-1801-february-7)   |   |   |
 ||2 月 1 日   | [版本 1801（内部版本 9001.2138）](monthly-channel-2018.md#version-1801-february-1)   |   |   |
 ||1 月 30 日   | [版本 1712（内部版本 8827.2179）](monthly-channel-2018.md#version-1712-january-30)  |   |   |
 ||1 月 17 日   | [版本 1712（内部版本 8827.2148）](monthly-channel-2018.md#version-1712-january-17)   |   |   |
@@ -143,7 +144,7 @@ ms.locfileid: "23998551"
 ||2 月 9 日  <br/> |[版本 1511（内部版本 6366.2068）](monthly-channel-2016.md#version-1511-february-9)  <br/> |[版本 1509（内部版本 6001.1061）](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[版本 1509（内部版本 6001.1061）](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
 ||1 月 25 日  <br/> |[版本 1511（内部版本 6366.2062）](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |
 ||1 月 12 日  <br/> |[版本 1511（内部版本 6366.2056）](monthly-channel-2016.md#version-1511-january-12)  <br/> |[版本 1509（内部版本 6001.1054）](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
-|2015 年|12 月 11 日  <br/> |[版本 1511（内部版本 6366.2036）](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
+|2015|12 月 11 日  <br/> |[版本 1511（内部版本 6366.2036）](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
 ||12 月 8 日  <br/> |[版本 1509（内部版本 6001.1043）](monthly-channel-2015.md#version-1509-december-8)  <br/> |[版本 1509（内部版本 6001.1043）](semi-annual-channel-targeted-2015.md#version-1509-december-8)  <br/> |  <br/> |
 ||11 月 10 日  <br/> |[版本 1509（内部版本 6001.1038）](monthly-channel-2015.md#version-1509-november-10)  <br/> |[版本 1509（内部版本 6001.1038）](semi-annual-channel-targeted-2015.md#version-1509-november-10)  <br/> |  <br/> |
 ||10 月 21 日  <br/> |[版本 1509（内部版本 6001.1034）](monthly-channel-2015.md#version-1509-october-21)  <br/> |[版本 1509（内部版本 6001.1034）](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
