@@ -3,30 +3,30 @@ title: Office 365 专业增强版更新发行信息
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/18
+ms.date: 9/28/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: 86a81b16337785d3d33046cd9e52edd0f26538c1
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 56d4196a2927ab36e3f6155b9e47e02f58d2efcc
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952382"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25346978"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
-Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过[更新频道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)发行。对于每个更新频道中的每次发行，都会被分配一个版本号和内部版本号。 
+Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过使用[更新频道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)发行。对于每个更新频道中的每次发行，都会被分配一个版本号和内部版本号。 
 
 下表列出了每个更新频道支持的版本号和最新内部版本号。内部版本号直接链接到该版本的发行说明。 
 
   
 |**频道**|**版本**|**内部版本**|**发布日期**|**之前支持的版本**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月一次  <br/> |1808  <br/> |[10730.20102](monthly-channel-2018.md#version-1808-september-11)  <br/> | 2018 年 9 月 11 日  <br/> |版本 1809 已发布 <br/>|
+|每月一次  <br/> |1809  <br/> |[10827.20138](monthly-channel-2018.md#version-1809-september-27)  <br/> | 2018 年 9 月 27 日  <br/> |版本 1810 已发布 <br/>|
 |半年（定向）  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 3 月 13 日 <br/>|
 |半年 <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-september-11) <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 9 月 10日 <br/>|
 |半年 <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-september-11)  <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 3 月 13 日 <br/>|
