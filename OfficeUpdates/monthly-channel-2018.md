@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/17/2018
+ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 03c65ea79f989e380f4c51dc1bcade10ee609e01
-ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
+ms.openlocfilehash: 60d4edfce49b15246cccf5ecbc441db2e0cfeb79
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2018
-ms.locfileid: "23991930"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25347008"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -24,6 +24,30 @@ ms.locfileid: "23991930"
  > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+
+## <a name="version-1809-september-27"></a>版本 1809年：9 月 27 日
+*版本 1809 （内部版本 10827.20138）*
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+- **快速查找** 我们加速了你的 VLOOKUP、HLOOKUP 和 MATCH 计算，以便你可以更快获取答案。
+- **了解数据的更多信息** Office 365 应用采用人工智能 (AI)，帮助你做到最好。 Ideas 窗格使用 AI 创建智能，可行动建议节省你的时间并增强你的内容。[了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **调用所有获取和转换功能**如果你经常使用获取和转换，你会高兴示例列功能得到了改进。 同时，多个连接器也得到了改进。 [了解更多](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **功能区图标具有新的外观**不要担心，一切的使用方式相同。 另外，这在所有尺寸的屏幕上都看起来很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+- **查看即将发布的产品**在发布前试用新的用户体验，同时告诉我们你的想法。 [了解更多](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **查看安全链接后面的 URL**安全链接帮助计算机抵御电子邮件中收到，但隐藏原始 URL 的恶意 URL。 现在，只需将鼠标悬停在 URL 以查看原始地址，即使受安全链接保护的链接。
+- **获取搜索拼写的建议**执行搜索之后，Outlook 将提供带拼写更正的建议搜索查询。
+- **功能区图标具有新的外观**不要担心，一切的使用方式相同。 另外，这在所有尺寸的屏幕上都看起来很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+- **新的校对工具**让你对单词不会感到有压力。 PowerPoint 现提供语法和编写建议。 [了解更多](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **功能区图标具有新的外观**不要担心，一切的使用方式相同。 另外，这在所有尺寸的屏幕上都看起来很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+- **获取关注 \@提醒：** 在 @mentions 中使用注释，让合著者知道你何时需要他们的意见。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **功能区图标具有新的外观**不要担心，一切的使用方式相同。 另外，这在所有尺寸的屏幕上都看起来很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **公式编辑器转换器**转换器允许用户将使用 Microsoft 公式编辑器创建的公式转换为 Office 数学 ML 格式以进行编辑。 
 
 ## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
 *版本 1808（内部版本 10730.20102）*
@@ -40,21 +64,21 @@ ms.locfileid: "23991930"
 
 
 ## <a name="version-1808-september-5"></a>版本 1808：9 月 5 日
-*版本 1808（构建 10730.20088）*
+*版本 1808（内部版本 10730.20088）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
- - **刷新、重新链接或删除链接的表** 更新的链接表管理器用于管理所有数据源和链接的表。 [了解更多](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **刷新、重新链接或删除链接的表**更新的链接表管理器用于管理所有数据源和链接的表。 [了解更多](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **关闭会议转发** 禁止与会者将会议转发给其他人。 只需转到功能区，然后单击“响应选项”。 [了解更多](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **关闭会议转发**禁止与会者将会议转发给其他人。 只需转到功能区，然后单击响应选项。 [了解更多](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **在下一个图表中享用图标** 有 26 个新模板供挑选，作为用于分析、艺术、庆典、联系人、运动会和其它主题的图标。 
- - **利用 Visio 形状生成 Word 文档**自动向 Word 文档添加关系图内容，包括形状和元数据。 然后自定义文档以创建过程准则和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio 和 Power BI：携手共赢** 只通过几次单击，Visio 图表就变为交互式可视化 Power BI。 [了解更多](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **在下一个图表中享受经典时刻**有 26 个新模板供挑选，作为用于分析、艺术、庆典、联系人、运动会和其它主题的图标。 
+ - **使用 Visio 形状生成 Word 文档**向 Word 文档自动添加图表内容，包括形状和元数据。 然后自定义文档以创建过程准则和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio 和 Power BI：携手共赢**只通过几次单击，Visio 图表就变为交互式可视化 Power BI。 [了解更多](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project：功能更新
- - **在任务板卡上查看更多详细信息** 当单独的标题无法把事情说清楚时，请自定义任务板卡以显示所有最重要的详细信息。 [了解更多](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **在任务板卡上查看更多详细信息**当单独的标题无法把事情说清楚时，请自定义任务板卡以显示所有最重要的详细信息。 [了解更多](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -  修复了 Excel 中的问题：标记用户选择进行复制的单元格范围的虚线不会消失，即使在后续用户操作（如粘贴）后仍保留在剪贴板中。 
@@ -81,7 +105,7 @@ ms.locfileid: "23991930"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 深度防御更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞 
@@ -94,7 +118,7 @@ ms.locfileid: "23991930"
 - **从“Outlook 提醒”对话框加入团队会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是团队在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **超链接颜色：** 超链接不再只是蓝色的。可以根据需要应用任何字体颜色。[了解更多](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+ - **超链接颜色**：超链接不再只是蓝色的。可以根据需要应用任何字体颜色。[了解更多](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
  - **利用 Visio 形状生成 Word 文档：** 自动向 Word 文档添加关系图内容（包括形状和元数据）。然后对文档进行自定义，以创建过程准则和操作手册。[了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
@@ -125,7 +149,7 @@ ms.locfileid: "23991930"
 
 
 ## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
-*版本 1806（生成号 10228.20080）*
+*版本 1806（内部版本 10228.20080）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 此外，支持更多的表情符号和其他复杂字符。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
@@ -157,15 +181,15 @@ ms.locfileid: "23991930"
 
 
 ## <a name="version-1805-june-13"></a>版本 1805：6 月 13 日
-*版本 1805（生成号 9330.2124）*
+*版本 1805（内部版本 9330.2124）*
 
-### <a name="outlook-non-security-updates"></a>Outlook 非安全更新程序
+### <a name="outlook-non-security-updates"></a>Outlook 非安全更新
  - 修复了以下问题：应用程序调用 MAPI API 可能会导致故障。
 
 
 
 ## <a name="version-1805-june-12"></a>版本 1805：6 月 12 日
-*版本 1805（生成号 9330.2118）*
+*版本 1805（内部版本 9330.2118）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
@@ -174,7 +198,7 @@ ms.locfileid: "23991930"
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
 
-### <a name="outlook-non-security-updates"></a>Outlook 非安全更新程序
+### <a name="outlook-non-security-updates"></a>Outlook 非安全更新
 
 - 修复了以下问题：应用程序调用 MAPI API 可能会导致故障。
 
@@ -183,9 +207,9 @@ ms.locfileid: "23991930"
 - 修复了以下问题：通过主项目的上下文处理子项目时，无法保存子项目。
 
 ## <a name="version-1805-may-24"></a>版本 1805：5 月 24 日
-*版本 1805（生成号 9330.2087）*
+*版本 1805（内部版本 9330.2087）*
 
-### <a name="outlook-non-security-updates"></a>Outlook 非安全更新程序
+### <a name="outlook-non-security-updates"></a>Outlook 非安全更新
  - 修复了以下问题：使用 iCloud 加载项时 Outlook 发生故障。
  
 
@@ -257,8 +281,8 @@ ms.locfileid: "23991930"
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **收听电子邮件：** Outlook 可以大声读出电子邮件，并能一边朗读一边突出显示文本。[了解详细信息](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。 如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。[了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
--   **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到“文件”\>“选项”\>“邮件”\>“其他”。
--   **加密选项：** Office 365 邮件加密用户可以加密邮件，并将邮件发送给组织内外的任何人。创建邮件时，可以在“选项”\>“权限”下找到加密选项。[了解详细信息](https://aka.ms/omeoverview)
+-   **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到文件\>选项\>邮件\>其他。
+-   **加密选项：** Office 365 邮件加密用户可以加密邮件，并将邮件发送给组织内外的任何人。创建邮件时，可以在选项\>权限下找到加密选项。[了解详细信息](https://aka.ms/omeoverview)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **转换墨迹：** 获取自由曲线备注和绘图，并将它们转换为可读文本和清晰形状，以创建完善的演示文稿。[了解详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -279,8 +303,8 @@ ms.locfileid: "23991930"
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了以下问题：多个用户在同一个演示文稿中共同创作导致幻灯片母板复制不正确。
--   修复了以下问题：打开保存在 OneDrive 上的文件导致 PowerPoint 在退出受保护的视图时出现故障。
+-   修复了多个用户在同一个演示文稿中共同创作导致幻灯片母板复制不正确的问题。
+-   修复了打开保存在 OneDrive 上的文件导致 PowerPoint 在退出受保护的视图时出现故障的问题。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了与 TLS 1.2 支持相关的问题。
@@ -292,7 +316,7 @@ ms.locfileid: "23991930"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
--   **阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。  了解更多 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
+-   **出于安全考虑，阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。  了解更多 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
 *版本 1803（内部版本 9126.2116）*
@@ -302,29 +326,29 @@ ms.locfileid: "23991930"
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了无法快速打印附加到 Outlook 电子邮件的 Excel 工作簿的问题。
--   修复了以下问题：单击超链接可能会导致 Excel 发生故障。
--   修复了以下问题：使用多维数据集函数导致 Excel 发生故障。
+-   修复了单击超链接可能会导致 Excel 发生故障的问题。
+-   修复了使用多维数据集函数导致 Excel 崩溃的问题。
 
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business：非安全更新
 -   修复了以下问题：OneDrive for Business (Groove.exe) 在任务管理器中长时间使用 CPU 的一个 CPU 内核资源（例如，4 核 CPU 的 25%）。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **密件抄送 (Bcc) 警告：** 如果对之前密件抄送的邮件选择“全部答复”，将显示警告。
--   **更智能的“收件人:”行：** 在单击“收件人:”行处理邮件时，会提示用户可能要选择的收件人。此外，还可以看到收件人的照片，这样用户便知道将要向其发送邮件的收件人正确无误。 
+-   **密件抄送 (Bcc) 警告：** 如果对之前密件抄送的邮件选择全部答复，将显示警告。
+-   **更智能的收件人:行：** 在单击收件人:行处理邮件时，会提示用户可能要选择的收件人。此外，还可以看到收件人的照片，这样用户便知道将要向其发送邮件的收件人正确无误。 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **Microsoft Translator：** 使用 Microsoft Translator 将字词、短语或句子翻译成其他语言。可以在功能区的“审阅”选项卡中执行此操作。
--   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。 [了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
--   修复了在会议中通过选择“Skype 通话”来添加用户导致出错的问题。
+-   修复了在会议中通过选择 Skype 通话来添加用户导致出错的问题。
 -   如果 Skype 会议室已被添加为位置且会议已包含 Teams 会议协调人，则删除要求用户向会议添加 Skype 协调人的提示。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
--   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。 [了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。 [了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 
 ## <a name="version-1802-march-13"></a>版本 1802：3 月 13 日
@@ -352,8 +376,8 @@ ms.locfileid: "23991930"
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了以下问题：即使将 UseLocationForE911Only 设置为 true，位置也会被填充。
--   修复了以下问题：通过“使用会议中心呼叫”选项邀请名单中的用户时，Skype for Business 挂起。
--   修复了以下问题：创建 Skype for Business 会议期间，终端服务器上运行的 Outlook 冻结。
+-   修复了通过“使用会议中心呼叫”选项邀请名单中的用户时，Skype for Business 挂起的问题。
+-   修复了创建 Skype for Business 会议期间，终端服务器上运行的 Outlook 冻结的问题。
 -   将 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的默认值更改为 TRUE。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
@@ -381,14 +405,14 @@ ms.locfileid: "23991930"
 *版本 1801（内部版本 9001.2144）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
--   修复了以下问题：如果编辑语言是日语、中文或韩语，那么尝试在“开始”选项卡上选择新字体或进行编辑时，Excel 可能会冻结。
+-   修复了以下问题：如果编辑语言是日语、中文或韩语，那么尝试在开始选项卡上选择新字体或进行编辑时，Excel 可能会冻结。
 
 
 ## <a name="version-1801-february-1"></a>版本 1801：2 月 1 日
 *版本 1801（内部版本 9001.2138）*
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
--   修复了以下问题：在“​​保存以共享”会话中删除“实际工时”后，它仍显示在报表中。
+-   修复了以下问题：在​​保存以共享会话中删除实际工时后，它仍显示在报表中。
 -   修复了进行日程安排时在德语版本中使用“星期”日期格式返回错误的问题。
 -   修复了在日程安排 Web 部件中编辑完成日期时任务每天停留 8 小时而不随着时间推移的问题。
 -   修复了在意外的位置绘制“进度点形状”的问题。
@@ -427,7 +451,7 @@ ms.locfileid: "23991930"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **3D 动画：** 通过添加轻轻摇摆、跳跃和旋转等动画效果，让你的 3D 模型活起来。
--   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，以便可更改其颜色、大小或纹理。
+-   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，这样就可以更改它们的颜色、尺寸或纹理。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   在用于传入 PSTN 呼叫的 Toast UI 中添加呼叫转移按钮。
