@@ -1,38 +1,39 @@
 ---
-title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:2018 年 10 月 1 日 ms.audience: ITPro ms.topic: 参考 ms.service: o365-proplus-itpro localization_priority: 关键 ms.collection: RelNotes_ProPlus description: "为 IT 专业人员提供 2018 年 Office 365 专业增强版的每月频道发行的发行说明"
+title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:2018 年 10 月 3 日 ms.audience: ITPro ms.topic: 参考 ms.service: o365-proplus-itpro localization_priority: 关键 ms.collection: RelNotes_ProPlus description: "为 IT 专业人员提供 2018 年 Office 365 专业增强版的每月频道发行的发行说明"
 ---
 
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月频道发行的发行说明
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
 这些发行说明提供了有关 2018 年 Office 365 专业增强版每月频道更新中所包含的新功能、安全更新和非安全更新等信息。
  
  > [!NOTE]
-> - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新等信息。
+> - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如商业高级版）。
 
-## <a name="version-1809-september-27"></a>版本 1809：9 月 27 日
+## <a name="version-1809-september-27"></a>版本 1809年：9 月 27 日
 *版本 1809（内部版本 10827.20138）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
-- **快速查找**我们加速了你的 VLOOKUP、HLOOKUP 和 MATCH 计算，以便你可以更快获取答案。
-- **了解数据的更多信息** Office 365 应用采用人工智能 (AI)，帮助你尽力做好工作。 Ideas 窗格使用 AI 创建可节省你的时间并增强你的内容的智能、可操作建议。[了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **调用所有“获取与转换”功能**如果你经常使用“获取与转换”，你会很高兴了解“示例列”功能已得到改进。 同时，许多连接器也已得到改进。 [了解更多](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **快速查找**我们加速了你的 VLOOKUP、HLOOKUP 和 MATCH 计算，以便你可以更快获取答案。 [了解详细信息](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **了解数据的更多信息** Office 365 应用采用人工智能 (AI)，帮助你做到最好。 Ideas 窗格使用 AI 创建可节省你的时间并增强你的内容的智能、可操作建议。[了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **调用所有获取和转换功能**如果你经常使用获取和转换，你会高兴示例列功能得到了改进。 同时，许多连接器也已得到改进。 [了解详细信息](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
-- **查看即将发布的产品**在发布前试用新的用户体验，并告诉我们你的想法。 [了解更多](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **查看“安全链接”后面的 URL**“安全链接”有助于保护计算机抵御电子邮件中收到的恶意 URL，但它们隐藏原始 URL。 现在，只需将鼠标悬停在 URL 上便可查看原始地址，甚至在受“安全链接”保护的链接。
+- **查看即将发布的产品**在发布前试用新的用户体验，并告诉我们你的想法。 [了解详细信息](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **查看“安全链接”后面的 URL**“安全链接”有助于保护计算机抵御电子邮件中收到的恶意 URL，但它们隐藏原始 URL。 现在，只需将鼠标悬停在 URL 以查看原始地址，即使受安全链接保护的链接。
 - **获取搜索拼写的建议**执行搜索之后，Outlook 将提供带拼写更正的建议搜索查询。
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
-- **新的校对工具**不要对你的单词忧心忡忡。 PowerPoint 现在提供语法和书写建议。 [了解更多](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **观看幻灯片并非处于活动状态** 在屏幕插入动画的三维图形，以查看心形心跳、 行星通道和 T Rex rampage。  [了解详细信息](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **新的校对工具**不要对你的单词忧心忡忡。 PowerPoint 现在提供语法和书写建议。 [了解详细信息](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
-- **用 \@mentions 获取关注**在注释中使用 @mentions，让合著者知道你何时需要他们的意见。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **公式编辑器转换器**转换器使用户可以将使用 Microsoft 公式编辑器创建的公式转换为 Office 数学 ML 格式以进行编辑。 
+- **用 \@mentions 获取关注**在注释中使用 @mentions，让合著者知道你何时需要他们的意见。 [了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **公式编辑器转换器**转换器允许用户将使用 Microsoft 公式编辑器创建的公式转换为 Office 数学 ML 格式以进行编辑。
 
 ## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
 *版本 1808（内部版本 10730.20102）*
@@ -52,30 +53,30 @@ title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: a
 *版本 1808（内部版本 10730.20088）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
- - **刷新、重新链接或删除链接的表**更新的“链接表管理器”是用于管理所有数据源和链接的表的位置。 [了解更多](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **刷新、重新链接或删除链接的表**更新的“链接表管理器”是用于管理所有数据源和链接的表的位置。 [了解详细信息](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **关闭会议转发**防止与会者将会议转发给其他人。 只需转到功能区，然后单击“响应选项”。 [了解更多](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **关闭会议转发**禁止与会者将会议转发给其他人。 只需转到功能区，然后单击“响应选项”。 [了解详细信息](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **在下一个图表中享受图标时刻**有 26 个新模板供挑选，还有用于分析、艺术、庆典、联系人、运动会等的图标。 
- - **使用 Visio 形状生成 Word 文档**自动将包括形状和元数据在内的图表内容添加到 Word 文档。 然后自定义文档以创建过程准则和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio 和 Power BI：更好合作**只用几下单击，就将 Visio 图表变为交互式可视化 Power BI。 [了解更多](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **在下一个图表中享受经典时刻**有 26 个新模板供挑选，作为用于分析、艺术、庆典、联系人、运动会和其它主题的图标。 
+ - **使用 Visio 形状生成 Word 文档**自动将包括形状和元数据在内的图表内容添加到 Word 文档。 然后自定义文档以创建过程准则和操作手册。 [了解详细信息](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio 和 Power BI：更好合作**只用几下单击，就将 Visio 图表变为交互式可视化 Power BI。 [了解详细信息](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project：功能更新
- - **在任务板卡上查看更多信息**当单独的标题无法把文章说清楚时，请自定义“任务板”卡以显示所有最重要的详细信息。 [了解更多](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **在任务板卡上查看更多信息**当单独的标题无法把文章说清楚时，请自定义“任务板”卡以显示所有最重要的详细信息。 [了解详细信息](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -  修复了 Excel 中的问题：标记用户选择进行复制的单元格范围的虚线不会消失，即使在后续用户操作（如粘贴）后仍保留在剪贴板中。 
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
- - 解决了导致配置了多个 Exchange 帐户的某些用户在搜索结果列表中缺失“单击以查看更多...”链接的问题。
+ - 解决了导致配置了多个 Exchange 帐户的某些用户在搜索结果列表中缺少“单击以查看更多...”链接的问题。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
  - 修复了在某些应用场景中导致更新安装所用时间过长的问题。
  
 ### <a name="lync-non-security-updates"></a>Lync：非安全更新
- - 修复了阻止即时消息中的表情图标显示的问题。 
+ - 解决了阻止即时消息中的表情图标显示问题。 
 
 
 ## <a name="version-1807-august-14"></a>版本 1807：8 月 14 日
@@ -90,7 +91,7 @@ title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: a
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 深度防御更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞 
@@ -99,7 +100,7 @@ title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: a
 *版本 1807（内部版本 10325.20082）*
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
-- **Outlook 加载项警告：** Outlook COM 加载项有时会遇到导致 Outlook 其余部分运行速度变慢的问题。这些问题可能是由事件延迟导致的，例如在 Outlook 文件夹之间切换、新邮件的到达、打开“日历”项目等。出现此类问题时，Outlook 将在通知栏中显示一条警告。
+- **Outlook 加载项警告：** Outlook COM 加载项有时会遇到导致 Outlook 其余部分运行速度变慢的问题。这些问题可能是由事件延迟导致的，例如在 Outlook 文件夹之间切换、新邮件的到达、正在打开日历项目等。出现此类问题时，Outlook 将在通知栏中显示一条警告。
 - **从“Outlook 提醒”对话框加入“团队”会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是“团队”在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
@@ -142,7 +143,7 @@ title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: a
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **重复周期默认设置：** 在“约会重复周期”对话框中（“重复周期范围”下），“结束日期”是默认设置（替代了“无结束日期”），并且是列出的第一个设置，同时还设置了默认结束日期。
- - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。 [了解更多](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。 [了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -158,7 +159,7 @@ title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: a
  - 修复了以下问题：无法从主项目保存子项目。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **更多模具、图标和选择：** 我们添加了 26 种模具，包括“分析”、“艺术”、“庆祝”、“人脸”、“位置”、“医疗”、“自然”、“人物”、“运动”、“天气”和“季节”等。
+ - **更多模具，更多图标，更多选择：** 我们已添加 26 种模具，包括分析、艺术、庆祝、面、位置、医疗、 自然、人、体育、天气和季节等。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
