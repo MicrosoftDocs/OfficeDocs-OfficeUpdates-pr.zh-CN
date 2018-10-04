@@ -1,7 +1,22 @@
 ---
-title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:2018 年 10 月 3 日 ms.audience: ITPro ms.topic: 参考 ms.service: o365-proplus-itpro localization_priority: 关键 ms.collection: RelNotes_ProPlus description: "为 IT 专业人员提供 2018 年 Office 365 专业增强版的每月频道发行的发行说明"
+title: 有关 2018 年每月频道发行的发行说明
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 10/3/2018
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
+ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
+ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362707"
 ---
-
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
 这些发行说明提供了有关 2018 年 Office 365 专业增强版每月频道更新中所包含的新功能、安全更新和非安全更新等信息。
@@ -15,8 +30,7 @@ title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: a
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 - **快速查找**我们加速了你的 VLOOKUP、HLOOKUP 和 MATCH 计算，以便你可以更快获取答案。 [了解详细信息](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **了解数据的更多信息** Office 365 应用采用人工智能 (AI)，帮助你做到最好。 Ideas 窗格使用 AI 创建可节省你的时间并增强你的内容的智能、可操作建议。[了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **调用所有获取和转换功能**如果你经常使用获取和转换，你会高兴示例列功能得到了改进。 同时，许多连接器也已得到改进。 [了解详细信息](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **调用所有“获取与转换”功能**如果你经常使用“获取与转换”，你会很高兴了解“示例列”功能已得到改进。 同时，许多连接器也已得到改进。 [了解详细信息](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
@@ -159,7 +173,7 @@ title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: a
  - 修复了以下问题：无法从主项目保存子项目。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **更多模具，更多图标，更多选择：** 我们已添加 26 种模具，包括分析、艺术、庆祝、面、位置、医疗、 自然、人、体育、天气和季节等。
+ - **更多模板、图标和选择：** 我们添加了 26 种模板，包括“分析”、“艺术”、“庆祝”、“人脸”、“位置”、“医疗”、“自然”、“人物”、“运动”、“天气”和“季节”等。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -300,8 +314,8 @@ title: "2018 年每月频道发行的发行说明" ms.author: andrewmo author: a
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
 -   **出于安全考虑，阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。  了解更多 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
