@@ -1,9 +1,9 @@
 ---
-title: Project Server 更新
+title: Project Server 更新程序
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -12,17 +12,17 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: 在一个位置集中查找和管理 Project Server 2013 和 Project Server 2010 更新程序。单击此页面上的链接可以详细了解并下载这些更新程序。
-ms.openlocfilehash: a855804aeb3f9ffc07bf2dcf85a74239123f4738
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+description: 在一个位置集中查找和管理 Project Server 2013 和 Project Server 2010 更新信息。单击此页面上的链接可以详细了解并下载这些更新程序。
+ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954788"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456696"
 ---
-# <a name="project-server-updates"></a>Project Server 更新
+# <a name="project-server-updates"></a>Project Server 更新程序
 
-单击此页面上的链接可以详细了解并下载 Project Server 2013 和 Project Server 2010 更新。 
+单击此页面上的链接可以详细了解并下载 Project Server 2013 和 Project Server 2010 更新程序。 
 > [!NOTE]
 > 有关 Project Server 2016 的更新信息，请参阅 [SharePoint 更新](sharepoint-updates.md)，因为 Project Server 2016 是 SharePoint Server 2016 企业版的一部分。
   
@@ -30,6 +30,7 @@ ms.locfileid: "23954788"
   
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2018 年 10 月  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |2018 年 9 月  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |2018 年 8 月  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |2018 年 7 月  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
@@ -80,6 +81,7 @@ ms.locfileid: "23954788"
 
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2018 年 10 月  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |2018 年 9 月  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |2018 年 8 月  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |2018 年 7 月  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
