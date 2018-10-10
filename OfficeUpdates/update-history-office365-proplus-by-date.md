@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/28/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 6990f8b6b8268594d34dbae8c4e31e59ba3cd58a
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
+ms.openlocfilehash: b43645d1ee37144af913529d421986550776471a
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25346998"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25459399"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -32,8 +32,9 @@ ms.locfileid: "25346998"
 
 |**年份**|**发布日期**|**每月频道**|**半年频道（定向）**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 年|9 月 27 日   |[**版本 1809 （内部版本 10827.20138）**](monthly-channel-2018.md#version-1809-september-27)| | |
-|2018 年|9 月 11 日   |[版本 1808（内部版本 10730.20102）](monthly-channel-2018.md#version-1808-september-11)|[**版本 1808（内部版本 10730.20102）**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**版本 1803（内部版本 9126.2282）**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [版本 1708（内部版本 8431.2309）](semi-annual-channel-2018.md#version-1708-september-11)   |
+|2018 年|10 月 9 日 |[**版本 1809（内部版本 10827.20150）**](monthly-channel-2018.md#version-1809-october-9)|[**版本 1808（内部版本 10730.20155）**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**版本 1803（内部版本 9126.2295）**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [版本 1708（内部版本 8431.2316）](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018 年|9 月 27 日   |[版本 1809 （内部版本 10827.20138）](monthly-channel-2018.md#version-1809-september-27)| | |
+|2018 年|9 月 11 日   |[版本 1808（内部版本 10730.20102）](monthly-channel-2018.md#version-1808-september-11)|[版本 1808（内部版本 10730.20102）](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[版本 1803（内部版本 9126.2282）](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [版本 1708（内部版本 8431.2309）](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018 年|9 月 5 日   |[版本 1808（内部版本 10730.20088）](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018 年|8 月 14 日   |[版本 1807（内部版本 10325.20118）](monthly-channel-2018.md#version-1807-august-14)|[版本 1803（内部版本 9126.2275）](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[版本 1803（内部版本 9126.2275）](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [版本 1708（内部版本 8431.2299）](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[版本 1807（内部版本 10325.20082）](monthly-channel-2018.md#version-1807-july-25) | | |
