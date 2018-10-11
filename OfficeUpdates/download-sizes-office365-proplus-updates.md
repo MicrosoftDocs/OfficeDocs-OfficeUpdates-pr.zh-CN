@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新的下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/28/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 0ea2d9e80271223dfe72bfa5871a1a25ba032939
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
+ms.openlocfilehash: 78ab2d6fa201e495f4dcbb48ac1a331100119fd9
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25346988"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25459409"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新的下载大小
 
@@ -25,7 +25,7 @@ ms.locfileid: "25346988"
   
 我们的目标是在发布前提前一周提供更新大小信息，但有时候信息未能提前如此长的时间公布。半年频道和半年频道（定向）计划于每月的第二个星期二发布。每月频道没有固定的发布计划。
 
-若要了解指定版本中包含的功能、安全更新程序和非安全更新程序，请参阅 [Office 365 专业增强版更新发布信息](release-notes-office365-proplus.md)。
+有关指定版本中包含的功能、安全更新和非安全更新的信息，请参阅 [Office 365 专业增强版更新发布信息](release-notes-office365-proplus.md)。
 
   
 > [!NOTE]
@@ -35,6 +35,39 @@ ms.locfileid: "25346988"
 > - 仅列出过去四个月的版本。
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。 
+
+## <a name="october-9-2018"></a>2018 年 10 月 9 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新版为版本 1809（内部版本 10827.20150）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1808（内部版本 10730.20088）  <br/> |2018 年 9 月 5 日  <br/> |170  <br/> |
+|版本 1808（内部版本 10730.20102）  <br/> |2018 年 9 月 12 日  <br/> |176 <br/> |
+|版本 1808（内部版本 10730.20127）  <br/> |2018 年 9 月 24 日  <br/> |396 <br/> |
+|版本 1809（内部版本 10827.20138）  <br/> |2018 年 9 月 27 日  <br/> |80 <br/> |
+  
+### <a name="semi-annual-channel"></a>半年频道
+
+最新版为版本 1803（内部版本 9126.2295）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1803（内部版本 9126.2275）  <br/> |2018 年 8 月 14 日  <br/> |104 <br/> |
+|版本 1803（内部版本 9126.2282）  <br/> |2018 年 9 月 11 日  <br/> |100<br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
+
+最新发布为版本 1808（内部版本 10730.20155）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1803（内部版本 9126.2275）  <br/> |2018 年 8 月 14 日  <br/> |292 <br/> |
+|版本 1808（内部版本 10730.20102）  <br/> |2018 年 9 月 11 日  <br/>   |87  <br/>|
+
 
   ## <a name="september-27-2018"></a>2018 年 9 月 27 日
 
