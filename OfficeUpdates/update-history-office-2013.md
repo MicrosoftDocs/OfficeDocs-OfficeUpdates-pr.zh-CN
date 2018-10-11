@@ -3,42 +3,42 @@ title: Office 2013 更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2013 永久版本的更新历史记录
-ms.openlocfilehash: c1227107084ba85f142c4a5941168f58707f09a0
-ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
+ms.openlocfilehash: 1723306ef27882f0df9662266397740509eb6a76
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2018
-ms.locfileid: "23936694"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456706"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 更新历史记录
 
 大多数 Office 2013 产品使用名为即点即用的技术自动保持最新。如果你想验证你的产品是否为最新版本，请检查 Office 版本号并在需要时手动更新 Office。
   
 > [!NOTE]
-> Office 2013 的最新版本是 **15.0.5067.1000**，这是在 2018 年 9 月 11 日发布的。 
+> Office 2013 的最新版本是 2018 年 10 月 9 日发布的 **15.0.5075.1001**。 
   
 若要检查你的 Office 版本，请执行下列操作：
   
-1. 打开任意 Office 2013 应用程序，如 Word 或 Excel。
+1. 打开任何一种 Office 2013 应用程序，如 Word 或 Excel。
     
-2. 选择“文件”**** > “帐户”****。
+2. 选择**文件** > **帐户**。
     
-3. 在“产品信息”**** 下，记下“Office 更新”**** 下的版本号。
+3. 在**产品信息**下，记下 **Office 更新**下的版本号。
     
     如果此版本号与最新版本一致，那你的产品是最新的。如果不一致，你可以手动更新以获取 Office 2013 的最新版本。若要更新 Office，[请按照以下步骤操作](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013)。
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>发布日期、版本号和 Office 2013 更新的修复信息列表
 
-下表提供了 Office 2013 更新的列表，最近的发布日期列在前面。该表包含版本的版本号和指向 Microsoft 知识库 (KB) 文章的链接（如果有），其中包含有关此更新中包含的修补程序的信息。
+下表提供了 Office 2013 更新的列表，最近的发布日期列在前面。该表包含该版本的版本号和指向 Microsoft 知识库 (KB) 文章的链接（如果有），其中包含有关此更新中包含的修补程序的信息。
   
-新版本包含先前版本所包含的所有更新。
+新版本包含先前版本具有的所有更新。
 
 > [!NOTE]
 > 下面列出的 KB 文章仅供参考。即点即用更新包括 KB 文章中列出的所有修补程序。无需下载 KB 文章中列出的单独更新。
@@ -46,7 +46,8 @@ ms.locfileid: "23936694"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2018 年 |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
+|2018 年 |10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
+| |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
 ||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
 ||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
 ||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
@@ -75,7 +76,7 @@ ms.locfileid: "23936694"
 ||7 月 25 日   |15.0.4841.1002   |[KB 3179661](https://support.microsoft.com/kb/3179661)  |
 ||7 月 12 日   |15.0.4841.1001   |[KB 3173835](https://support.microsoft.com/kb/3173835)  |
 ||6 月 14 日   |15.0.4833.1001   |[KB 3166910](https://support.microsoft.com/kb/3166910)  |
-||5 月 25 日   |15.0.4823.1004   |此版本修复了安装过程中可能会崩溃的问题。   |
+||5 月 25 日   |15.0.4823.1004   |此版本修复了安装过程中可能有的系统死机的问题。   |
 ||5 月 10 日   |15.0.4823.1002   |[KB 3158453](https://support.microsoft.com/kb/3158453 )  |
 ||4 月 12 日   |15.0.4815.1002   |[KB 3150264](https://support.microsoft.com/kb/3150264)  |
 ||3 月 8 日   |15.0.4805.1003   |[KB 3143491](https://support.microsoft.com/kb/3143491)  |
@@ -83,7 +84,7 @@ ms.locfileid: "23936694"
 ||2 月 9 日   |15.0.4797.1002   |[KB 3137471](https://support.microsoft.com/kb/3137471)  |
 ||1 月 12 日   |15.0.4787.1002   |[KB 3131245](https://support.microsoft.com/kb/3131245)  |
 |2015   |12 月 8 日   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |
-||11 月 24 日   |15.0.4771.1004   |此版本修复了 Outlook 崩溃问题。   |
+||11 月 24 日   |15.0.4771.1004   |此版本修复了 一个Outlook 死机的问题。   |
 ||11 月 10 日   |15.0.4771.1003   |[KB 3108456](https://support.microsoft.com/kb/3108456)  |
 ||10 月 13 日   |15.0.4763.1003   |[KB 3099951](https://support.microsoft.com/kb/3099951)  |
 ||9 月 8 日   |15.0.4753.1003   |[KB 3092181](https://support.microsoft.com/kb/3092181)  |

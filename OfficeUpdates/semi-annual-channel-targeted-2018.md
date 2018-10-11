@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/27/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 7ec2469aa05f6885be6187cb3a733968c992a401
-ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
+ms.openlocfilehash: c3f16becd1676238d4c7af6754346f7d0d7a7d11
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2018
-ms.locfileid: "25341387"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456796"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>有关 2018 年半年频道（定向）发行的发行说明
 
@@ -25,7 +25,44 @@ ms.locfileid: "25341387"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 
- ## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
+## <a name="version-1808-october-9"></a>版本 1808：10 月 9
+*版本 1808（内部版本 10730.20155）*
+
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502)：Microsoft Excel 远程代码执行漏洞 
+
+### <a name="outlook-security-updates"></a>Outlook：安全更新 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 深度防御更新 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新 
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501)：Microsoft PowerPoint 远程代码执行漏洞
+
+### <a name="word-security-updates"></a>Word：安全更新 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504)：Microsoft Word 远程代码执行漏洞 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 深度防御更新 
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft 图形组件远程代码执行漏洞 
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新 
+-   修复了范围 2190...2194 中的符号切换到 Cambria Math 的问题。 这导致 Excel 单元格的高度增加了 3 倍。
+-   此更新修复了 Excel 的问题，即当用户在有多个已定义名称的工作簿中将鼠标悬停在格式选项上时 Excel 可能无响应，以及即便禁用了选项的实时预览功能 Excel 也可能在快速分析工具中无响应。
+-   我们目前正在调查当将 Excel 应用程序窗口从一个桌面移到另一个桌面时性能变差的问题。 在此期间，如果你正好碰上这一问题，可考虑采取变通方案，在文件选项对话框的“常规”选项卡中为“使用多部显示器时”选择“兼容性最优化”。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了在保存带 ActiveX 内容的文件时可能出现文件损坏的问题。
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了当插入 Word Document 对象时会出现公式编辑器的问题。
+
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了当你为打印输出设置了标头或页角后下次继续打印项目时变更不能持续的问题。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了尽管通过辅助功能和性能设置关闭了动画应用仍显示动画的问题。 
+-   修复了使用荧光笔绘图工具时背景变为空白的问题。
+
+## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
 *版本 1808（内部版本 10730.20102）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -37,13 +74,13 @@ ms.locfileid: "25341387"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **协作编辑：** 与其他人同时协作处理工作簿。 [了解更多](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **云文件自动保存功能现在默认启用：** 在 2018 年 9 月半年频道（定向）发行中，自动保存功能默认启用。 此更改意味着用户不必担心丢失其存储在 OneDrive 或 SharePoint Online 上的文档中的更改。 更改将自动保存在云中，并且用户将不再必须明确地按 Ctrl + S 或“保存”按钮。 但是，他们必须了解此行为更改，以防对文档进行意外更改。 请注意，用户可以使用屏幕顶部的“自动保存” 开关来关闭“自动保存”功能。 我们建议你将这个即将发布的更改告知用户，并指引他们如何最有效地利用 Office 365 中的这一新功能。 [详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [详细了解 IT 管理员应掌握的“自动保存”相关信息](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 同时还改进了对表情符号和其他复杂字符的支持。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 此外，支持更多的表情符号和其他复杂字符。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的工作簿更易于访问。 [了解更多](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **避免意外编辑：** 将你的工作簿设置为以只读方式打开，以防止意外更改。 转到“文件”>“信息”>“保护工作簿”>“始终以只读方式打开”
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞
--   [ExcelCVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 远程代码执行漏洞 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379)：Microsoft Excel 远程代码执行漏洞 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞
@@ -76,7 +113,7 @@ ms.locfileid: "25341387"
 - **Outlook 加载项警告：** Outlook COM 加载项有时会遇到导致 Outlook 其余部分运行速度变慢的问题。这些问题可能是由事件延迟导致的，例如在 Outlook 文件夹之间切换、新邮件的到达、正在打开日历项目等。出现此类问题时，Outlook 将在通知栏中显示一条警告。
 - **知道将与谁一起开会：** 即使你不是组织者，现在也可以看到其他人对会议请求的响应。
 - **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。 如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。[了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到“文件”\>“选项”\>“邮件”\>“其他”。
+- **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到文件\>选项\>邮件\>其他。
 - **查看三个时区：** 需要跨时区安排会议？ 将多个时区添加到你的日历，轻松地查看每个人的空闲时间并选择适合所有人的时间。 [了解更多](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
 - **精简创建组的用户体验：** 我们优化了创建组的用户体验，使其更加现代且更具条理。[了解更多](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 
@@ -84,10 +121,10 @@ ms.locfileid: "25341387"
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 篡改漏洞
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全功能规避漏洞
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 深度防御更新
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
--   修复了如果将系统语言切换为日语，并且在 VBA IDE 在 Outlook 内加载时尝试在其中键入日语字符，它将失去响应的问题。
+-   修复了如果将系统语言切换为日语，并尝试在 Outlook 中加载时将日语字符键入 VBA IDE，它会冻结的问题。
 -   修复了切换到发件箱或已发送邮件文件夹会导致 Outlook 崩溃的问题。
 -   修复了当会议正文或附件更改时，所有与会者都会收到会议更新（而不是向与会者发送会议更新）属于可选项的问题。
 -   修复了由于 User-Agent 字符串的更改，导致用户无法连接到 EWS 和 REST 终结点的问题。
@@ -98,7 +135,7 @@ ms.locfileid: "25341387"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新 
 - **云文件自动保存功能现在默认启用：** 在 2018 年 9 月半年频道（定向）发行中，自动保存功能默认启用。 此更改意味着用户不必担心丢失其存储在 OneDrive 或 SharePoint Online 上的文档中的更改。 更改将自动保存在云中，并且用户将不再必须明确地按 Ctrl + S 或“保存”按钮。 但是，他们必须了解此行为更改，以防对文档进行意外更改。 请注意，用户可以使用屏幕顶部的“自动保存” 开关来关闭“自动保存”功能。 我们建议你将这个即将发布的更改告知用户，并指引他们如何最有效地利用 Office 365 中的这一新功能。 [详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [详细了解 IT 管理员应掌握的“自动保存”相关信息](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 同时还改进了对表情符号和其他复杂字符的支持。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 此外，还改进了对表情符号和其他复杂字符的支持。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **转换墨迹：** 获取自由曲线备注和绘图，并将它们转换为可读文本和清晰形状，以创建完善的演示文稿。[了解更多](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
@@ -121,12 +158,12 @@ ms.locfileid: "25341387"
 - **冲刺 (sprint) 管理：** 快速添加、更新或删除敏捷冲刺。
 - **任务板筛选：** 通过筛选主要资源或摘要任务来简化任务板。
 - **在任务板中设置完成百分比：** 为每列都选择一个完成百分比，再通过拖放操作来更新任务完成进度。
-- **冲刺导航：** 从一个冲刺视图切换到另一个，并在两个冲刺视图之间快速移动任务。
-- **管理冲刺的新方法：** 采用敏捷方法来处理任务板。转到“管理冲刺”，随着你的项目演进添加和删除冲刺。
+- **冲刺 (sprint) 导航：** 从一个冲刺 (sprint) 视图切换到另一个，并在两个冲刺 (sprint) 视图之间快速移动任务。
+- **管理冲刺 (sprint) 的新方法：** 采用敏捷方法来处理任务板。转到管理冲刺 (sprint) ，随着你的项目演进添加和删除冲刺 (sprint)。
 - **最近保存位置有条理：** Project 通过可不断扩充的列表列出了其他项目的保存位置。准备保存项目时，只需选择最近保存位置之一，即可继续工作。
 
 ### <a name="project-non-security-updates"></a>Project 非安全更新程序
-- 修复了通过主项目的上下文处理子项目时，无法保存子项目的问题。
+- 修复了以下问题：通过主项目的上下文处理子项目时，无法保存子项目。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了与 TLS 1.2 支持相关的问题。 （注意：这与 4 月 10 日的笔记中提到的修复方法相同，并在 9 月汇总时再次提及。）
@@ -309,7 +346,7 @@ ms.locfileid: "25341387"
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新程序
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 -   修复了多个用户在同一个演示文稿中共同创作导致幻灯片母板复制不正确的问题。
 -   修复了打开保存在 OneDrive 上的文件导致 PowerPoint 在退出受保护的视图时出现故障的问题。
 
@@ -391,7 +428,7 @@ ms.locfileid: "25341387"
 -   修复了以编程方式调用 Workbook.Open() 可能会导致 Excel 崩溃的问题。
 -   修复了使用宏打开 Office 2007 或更低版本工作簿（.xls 或 .xla）时，用户错误地看到“灾难性故障”错误消息的问题。
 -   修复了 Excel 可能会在用户打开关联菜单时发生故障的问题。
--   修复了当用户尝试在现有的工作簿中插入对象时，用户单击“浏览”导致 Excel 崩溃的问题。
+-   修复了当用户尝试在现有的工作簿中插入对象时，用户单击“浏览”导致 Excel 发生故障的问题。
 -   修复了如果使用密码保护区域，看不到用于输入密码以解锁区域的对话框的问题。
 -   修复了当文件名包含方括号时，用户无法关闭受保护的视图中的工作簿的问题。
 -   修复了拖动或拖动填充时，工具提示的位置未对齐的问题。
@@ -435,7 +472,7 @@ ms.locfileid: "25341387"
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
 -   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
--   **修订突出显示：** 突出显示由其他用户已修改的幻灯片。
+-   **修订突出显示：** 突出显示已由其他用户修改的幻灯片。
 -   **离开期间：** PowerPoint 显示自你上次访问以后对共享演示文稿进行过编辑的用户。
 -   **设计器改进：** 现在，设计器会推荐有关项目符号列表中日程表的设计灵感。
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。[了解更多](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -486,7 +523,7 @@ ms.locfileid: "25341387"
 -   修复了运行“邮件合并”向导时，无法筛选包含 null（空）值的数据源字段的问题。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
--   修复了在会议中通过选择“Skype 通话”来添加用户导致出错的问题。
+-   修复了在会议中通过选择 Skype 通话来添加用户导致出错的问题。
 -   如果 Skype 会议室已被添加为位置且会议已包含 Teams 会议协调人，则删除要求用户向会议添加 Skype 协调人的提示。
 -   修复了即使将 UseLocationForE911Only 设置为 true，位置也会被填充的问题。
 -   修复了通过“使用会议中心呼叫”选项邀请名单中的用户时，Skype for Business 挂起的问题。
@@ -569,7 +606,7 @@ ms.locfileid: "25341387"
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复了如果用户尝试对 OneDrive for Business 上的现有文档执行“另存为”操作，然后又取消保存或尝试合并现有更改，Word 崩溃的问题。
 -   修复了运行“邮件合并”向导时，无法筛选包含 null（空）值的数据源字段的问题。
--   修复了保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive 的问题。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
 -   修复了无法撤消对文档的 IRM 保护的问题。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
@@ -580,9 +617,9 @@ ms.locfileid: "25341387"
 -   [公告 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防御更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复以下问题：在打开应用程序时，用户可能会看到关于以安全模式启动而应用程序无法打开的消息。
+-   修复了在打开应用程序时，用户可能会看到关于以安全模式启动而应用程序无法打开的消息的问题。
 -   启用 Office COM 对象时，“文件 \> 帐户 \> 更新选项”中的“立即更新”选项处于隐藏状态，以便 System Center Configuration Manager 能够管理 Office 365 客户端更新。
--   修复了当用户尝试使用“激活 Office”对话框激活 Office 时，Office 应用程序崩溃的问题。
+-   修复了当用户尝试使用“激活 Office”对话框激活 Office 时，Office 应用程序发生故障的问题。
 -   修复了在动态 DPI 环境下 Office 加载项存在的缩放问题。
 -   修复了即使当前安装了 Office 365 专业增强版，Office 配置服务提供程序 (CSP) 的 CurrentStatus 节点也会返回空字符串的问题。
 -   修复了导致 .box 文件格式更改的问题，这些更改会影响安装在同一台计算机上的旧版 Office 的功能，因为 .box 文件在同一台计算机上的所有 Office 应用版本之间共享。
@@ -640,7 +677,7 @@ ms.locfileid: "25341387"
 -   [公告 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防御更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   针对 Office 365 Germany 计划，为身份与本地 Active Directory 联合的域用户添加了单一登录 (SSO) 的支持。
+-   针对 Office 365 德国计划，为身份与本地 Active Directory 联合的域用户添加了单一登录 (SSO) 的支持。
 -   添加了防止未成年人获取和激活来自 Office 应用商店的 Office 外接程序的功能。
 
 
