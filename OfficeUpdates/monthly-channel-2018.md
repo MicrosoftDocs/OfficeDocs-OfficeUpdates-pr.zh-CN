@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/3/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
-ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362707"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456786"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -25,28 +25,65 @@ ms.locfileid: "25362707"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如商业高级版）。
 
-## <a name="version-1809-september-27"></a>版本 1809年：9 月 27 日
+## <a name="version-1809-october-9"></a>版本 1809：10 月 9 日
+*版本 1809（内部版本 10827.20150）*
+
+### <a name="excel-security-updates"></a>Excel：安全更新
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502)：Microsoft Excel 远程代码执行漏洞 
+
+### <a name="outlook-security-updates"></a>Outlook：安全更新 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 深度防御更新 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新 
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501)：Microsoft PowerPoint 远程代码执行漏洞
+
+### <a name="word-security-updates"></a>Word：安全更新 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504)：Microsoft Word 远程代码执行漏洞 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 深度防御更新 
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft 图形组件远程代码执行漏洞 
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新 
+-   修复了范围 2190...2194 中的符号切换到 Cambria Math 的问题。 这导致 Excel 单元格的高度增加了 3 倍。
+-   此更新修复了 Excel 的问题，即当用户在有多个已定义名称的工作簿中将鼠标悬停在格式选项上时 Excel 可能无响应，以及即便禁用了选项的实时预览功能 Excel 也可能在快速分析工具中无响应。
+-   我们目前正在调查当将 Excel 应用程序窗口从一个桌面移到另一个桌面时性能变差的问题。 在此期间，如果你正好碰上这一问题，可考虑采取变通方案，在文件选项对话框的“常规”选项卡中为“使用多部显示器时”选择“兼容性最优化”。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了在保存带 ActiveX 内容的文件时可能出现文件损坏的问题。
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了当插入 Word Document 对象时会出现公式编辑器的问题。
+
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了当你为打印输出设置了标头或页角后下次继续打印项目时变更不能持续的问题。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了尽管通过辅助功能和性能设置关闭了动画应用仍显示动画的问题。 
+-   修复了使用荧光笔绘图工具时背景变为空白的问题。
+
+## <a name="version-1809-september-27"></a>版本 1809：9 月 27 日
 *版本 1809（内部版本 10827.20138）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
-- **快速查找**我们加速了你的 VLOOKUP、HLOOKUP 和 MATCH 计算，以便你可以更快获取答案。 [了解详细信息](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **调用所有“获取与转换”功能**如果你经常使用“获取与转换”，你会很高兴了解“示例列”功能已得到改进。 同时，许多连接器也已得到改进。 [了解详细信息](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **快速查找**我们加速了你的 VLOOKUP、HLOOKUP 和 MATCH 计算，以便你可以更快获取答案。 [了解更多](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **调用所有“获取与转换”功能**如果你经常使用“获取与转换”，你会很高兴了解“示例列”功能已得到改进。 同时，许多连接器也已得到改进。 [了解更多](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
-- **查看即将发布的产品**在发布前试用新的用户体验，并告诉我们你的想法。 [了解详细信息](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **查看即将发布的产品**在发布前试用新的用户体验，并告诉我们你的想法。 [了解更多](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **查看“安全链接”后面的 URL**“安全链接”有助于保护计算机抵御电子邮件中收到的恶意 URL，但它们隐藏原始 URL。 现在，只需将鼠标悬停在 URL 以查看原始地址，即使受安全链接保护的链接。
 - **获取搜索拼写的建议**执行搜索之后，Outlook 将提供带拼写更正的建议搜索查询。
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
-- **观看幻灯片并非处于活动状态** 在屏幕插入动画的三维图形，以查看心形心跳、 行星通道和 T Rex rampage。  [了解详细信息](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **新的校对工具**不要对你的单词忧心忡忡。 PowerPoint 现在提供语法和书写建议。 [了解详细信息](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **观看幻灯片并非处于活动状态** 在屏幕插入动画的三维图形，以查看心形心跳、 行星通道和 T Rex rampage。  [了解更多](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **新的校对工具**不要对你的单词忧心忡忡。 PowerPoint 现在提供语法和书写建议。 [了解更多](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
-- **用 \@mentions 获取关注**在注释中使用 @mentions，让合著者知道你何时需要他们的意见。 [了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **用 \@mentions 获取关注**在注释中使用 @mentions，让合著者知道你何时需要他们的意见。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **公式编辑器转换器**转换器允许用户将使用 Microsoft 公式编辑器创建的公式转换为 Office 数学 ML 格式以进行编辑。
 
 ## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
@@ -67,18 +104,18 @@ ms.locfileid: "25362707"
 *版本 1808（内部版本 10730.20088）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
- - **刷新、重新链接或删除链接的表**更新的“链接表管理器”是用于管理所有数据源和链接的表的位置。 [了解详细信息](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **刷新、重新链接或删除链接的表**更新的“链接表管理器”是用于管理所有数据源和链接的表的位置。 [了解更多](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **关闭会议转发**禁止与会者将会议转发给其他人。 只需转到功能区，然后单击“响应选项”。 [了解详细信息](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **关闭会议转发**禁止与会者将会议转发给其他人。 只需转到功能区，然后单击“响应选项”。 [了解更多](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
  - **在下一个图表中享受经典时刻**有 26 个新模板供挑选，作为用于分析、艺术、庆典、联系人、运动会和其它主题的图标。 
- - **使用 Visio 形状生成 Word 文档**自动将包括形状和元数据在内的图表内容添加到 Word 文档。 然后自定义文档以创建过程准则和操作手册。 [了解详细信息](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio 和 Power BI：更好合作**只用几下单击，就将 Visio 图表变为交互式可视化 Power BI。 [了解详细信息](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **使用 Visio 形状生成 Word 文档**自动将包括形状和元数据在内的图表内容添加到 Word 文档。 然后自定义文档以创建过程准则和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio 和 Power BI：更好合作**只用几下单击，就将 Visio 图表变为交互式可视化 Power BI。 [了解更多](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project：功能更新
- - **在任务板卡上查看更多信息**当单独的标题无法把文章说清楚时，请自定义“任务板”卡以显示所有最重要的详细信息。 [了解详细信息](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **在任务板卡上查看更多信息**当单独的标题无法把文章说清楚时，请自定义“任务板”卡以显示所有最重要的详细信息。 [了解更多](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -  修复了 Excel 中的问题：标记用户选择进行复制的单元格范围的虚线不会消失，即使在后续用户操作（如粘贴）后仍保留在剪贴板中。 
@@ -157,7 +194,7 @@ ms.locfileid: "25362707"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **重复周期默认设置：** 在“约会重复周期”对话框中（“重复周期范围”下），“结束日期”是默认设置（替代了“无结束日期”），并且是列出的第一个设置，同时还设置了默认结束日期。
- - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。 [了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。 [了解更多](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -314,8 +351,8 @@ ms.locfileid: "25362707"
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
 -   **出于安全考虑，阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。  了解更多 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
