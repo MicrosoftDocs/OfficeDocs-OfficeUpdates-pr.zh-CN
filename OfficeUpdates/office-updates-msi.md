@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Office 版本的最新更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
-description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: 8ba1a34f2fa2d549ed903254d163d67d88830ed9
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+description: 为 IT 专业人员提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新信息的链接
+ms.openlocfilehash: 8b88f21c8a2d934de8a6c3b8828faf33a1643f4e
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954778"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456726"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新更新
 
@@ -32,23 +32,25 @@ ms.locfileid: "23954778"
 
 |**版本和产品**|**最新 Service Pack (SP)**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不适用  <br/> |2018 年 9 月公开更新  <br/> [KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不适用  <br/> |2018 年 10 月公开更新  <br/> [KB4464656](https://support.microsoft.com/help/4464656) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 更新
 
 |**版本和产品**|**最新 Service Pack (SP)**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 9 月公开更新  <br/> [KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 10 月公开更新  <br/> [KB4464656](https://support.microsoft.com/help/4464656) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 
 |**版本和产品**|**最新 Service Pack (SP)**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 套件  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 服务器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 产品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 9 月公开更新 <br/>[KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/>|
+|**2010** <br/> Office 2010 套件  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 服务器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 产品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 10 月公开更新 <br/>[KB4464656](https://support.microsoft.com/help/4464656) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>最近 12 个月发布的更新
+
+[2018 年 10 月安全和非安全更新：KB4464656](https://support.microsoft.com/help/4464656)
 
 [2018 年 9 月安全和非安全更新：KB4459402](https://support.microsoft.com/help/4459402) 
 
@@ -56,9 +58,9 @@ ms.locfileid: "23954778"
 
 [2018 年 7 月安全和非安全更新：KB4340798](https://support.microsoft.com/help/4340798)   
 
-[2018 年 6 月安全更新程序和非安全更新程序：KB4299875](https://support.microsoft.com/help/4299875)  
+[2018 年 6 月安全和非安全更新：KB4299875](https://support.microsoft.com/help/4299875)  
 
-[2018 年 5 月安全更新程序和非安全更新程序：KB4133083 ](https://support.microsoft.com/en-us/help/4133083)
+[2018 年 5 月安全和非安全更新：KB4133083 ](https://support.microsoft.com/en-us/help/4133083)
   
 [2018 年 4 月安全和非安全更新：KB4098622](https://support.microsoft.com/en-us/help/4098622) 
   
@@ -72,7 +74,6 @@ ms.locfileid: "23954778"
   
 [2017 年 11 月安全和非安全更新：KB4051890](https://support.microsoft.com/help/4051890)   
   
-[2017 年 10 月安全和非安全更新：KB4043461](https://support.microsoft.com/help/4043461)   
     
 
   
