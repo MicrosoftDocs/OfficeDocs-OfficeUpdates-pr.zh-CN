@@ -3,7 +3,7 @@ title: SharePoint 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在一个位置集中查找和管理 SharePoint Server 2016、SharePoint 2013 和 SharePoint 2010 更新。单击此页面上的链接可以获取这些更新的详细信息，并下载它们。
-ms.openlocfilehash: 9a4b6884be84070f2c15d8bb94659c5516e22ffc
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: d58388fdd2653eec09e3645853693faa0da88893
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954838"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456806"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -33,6 +33,7 @@ ms.locfileid: "23954838"
 
 |**包名称**|**KB 编号**|**发布日期**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4461447](https://support.microsoft.com/en-us/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/en-us/help/4092463) <br/> |2018 年 10 月  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |2018 年 9 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |2018 年 8 月  <br/> |
 |SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |2018 年 7 月  <br/> |
@@ -78,6 +79,7 @@ ms.locfileid: "23954838"
     
 |**包名称**|**KB 编号**|**发布日期**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/en-us/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/en-us/help/4461458) <br/> |2018 年 10 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |2018 年 9 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |2018 年 8 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |2018 年 7 月  <br/> |
@@ -138,6 +140,7 @@ ms.locfileid: "23954838"
 
 |**包名称**|**KB 编号**|**发布日期**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/en-us/help/4461464) <br/> |2018 年 10 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |2018 年 9 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |2018 年 8 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |2018 年 6 月  <br/> |

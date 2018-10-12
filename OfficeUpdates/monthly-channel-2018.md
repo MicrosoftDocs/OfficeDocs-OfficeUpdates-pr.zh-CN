@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
+ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456786"
+ms.locfileid: "25493868"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -44,23 +44,6 @@ ms.locfileid: "25456786"
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft 图形组件远程代码执行漏洞 
 
-### <a name="excel-non-security-updates"></a>Excel：非安全更新 
--   修复了范围 2190...2194 中的符号切换到 Cambria Math 的问题。 这导致 Excel 单元格的高度增加了 3 倍。
--   此更新修复了 Excel 的问题，即当用户在有多个已定义名称的工作簿中将鼠标悬停在格式选项上时 Excel 可能无响应，以及即便禁用了选项的实时预览功能 Excel 也可能在快速分析工具中无响应。
--   我们目前正在调查当将 Excel 应用程序窗口从一个桌面移到另一个桌面时性能变差的问题。 在此期间，如果你正好碰上这一问题，可考虑采取变通方案，在文件选项对话框的“常规”选项卡中为“使用多部显示器时”选择“兼容性最优化”。
-
-### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了在保存带 ActiveX 内容的文件时可能出现文件损坏的问题。
-
-### <a name="word-non-security-updates"></a>Word：非安全更新
--   修复了当插入 Word Document 对象时会出现公式编辑器的问题。
-
-### <a name="project-non-security-updates"></a>Project：非安全更新
--   修复了当你为打印输出设置了标头或页角后下次继续打印项目时变更不能持续的问题。
-
-### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了尽管通过辅助功能和性能设置关闭了动画应用仍显示动画的问题。 
--   修复了使用荧光笔绘图工具时背景变为空白的问题。
 
 ## <a name="version-1809-september-27"></a>版本 1809：9 月 27 日
 *版本 1809（内部版本 10827.20138）*
@@ -351,7 +334,7 @@ ms.locfileid: "25456786"
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
 -   **出于安全考虑，阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。  了解更多 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
 
