@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 1f8cb9864a3a30df8bb493cd3aebc8c4bd86bea5
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: a9edf21d49e4d7d7946ac22f6f014d2a5d242b8a
+ms.sourcegitcommit: d0a66098beda134e12800930e4b236f673d5dd72
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456826"
+ms.locfileid: "25492772"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>有关 2018 年半年频道发行的发行说明
 
@@ -27,7 +27,7 @@ ms.locfileid: "25456826"
 > - 在 2018 年 1 月前，半年频道被命名为延期频道。
 
 ## <a name="version-1803-october-9"></a>版本 1803：10 月 9 日
-*版本 1808（内部版本 9126.2295）*
+*版本 1803（内部版本 9126.2295）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502)：Microsoft Excel 远程代码执行漏洞 
@@ -45,6 +45,23 @@ ms.locfileid: "25456826"
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft 图形组件远程代码执行漏洞 
 
+### <a name="excel-non-security-updates"></a>Excel：非安全更新 
+-   修复了范围 2190...2194 中的符号切换到 Cambria Math 的问题。 这导致 Excel 单元格的高度增加了 3 倍。
+-   此更新修复了 Excel 的问题，即当用户在有多个已定义名称的工作簿中将鼠标悬停在格式选项上时 Excel 可能无响应，以及即便禁用了选项的实时预览功能 Excel 也可能在快速分析工具中无响应。
+-   我们目前正在调查当将 Excel 应用程序窗口从一个桌面移到另一个桌面时性能变差的问题。 在此期间，如果你正好碰上这一问题，可考虑采取变通方案，在文件选项对话框的“常规”选项卡中为“使用多部显示器时”选择“兼容性最优化”。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了在保存带 ActiveX 内容的文件时可能出现文件损坏的问题。
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了当插入 Word Document 对象时会出现公式编辑器的问题。
+
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了当你为打印输出设置了标头或页角后下次继续打印项目时变更不能持续的问题。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了尽管通过辅助功能和性能设置关闭了动画应用仍显示动画的问题。 
+-   修复了使用荧光笔绘图工具时背景变为空白的问题。
 
 ## <a name="version-1708-october-9"></a>版本 1708：10 月 9 日
 *版本 1708（内部版本 8431.2316）*
@@ -67,6 +84,23 @@ ms.locfileid: "25456826"
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft 图形组件远程代码执行漏洞 
 
+### <a name="excel-non-security-updates"></a>Excel：非安全更新 
+-   修复了范围 2190...2194 中的符号切换到 Cambria Math 的问题。 这导致 Excel 单元格的高度增加了 3 倍。
+-   此更新修复了 Excel 的问题，即当用户在有多个已定义名称的工作簿中将鼠标悬停在格式选项上时 Excel 可能无响应，以及即便禁用了选项的实时预览功能 Excel 也可能在快速分析工具中无响应。
+-   我们目前正在调查当将 Excel 应用程序窗口从一个桌面移到另一个桌面时性能变差的问题。 在此期间，如果你正好碰上这一问题，可考虑采取变通方案，在文件选项对话框的“常规”选项卡中为“使用多部显示器时”选择“兼容性最优化”。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+-   修复了在保存带 ActiveX 内容的文件时可能出现文件损坏的问题。
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+-   修复了当插入 Word Document 对象时会出现公式编辑器的问题。
+
+### <a name="project-non-security-updates"></a>Project：非安全更新
+-   修复了当你为打印输出设置了标头或页角后下次继续打印项目时变更不能持续的问题。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了尽管通过辅助功能和性能设置关闭了动画应用仍显示动画的问题。 
+-   修复了使用荧光笔绘图工具时背景变为空白的问题。
 
 ## <a name="version-1803-september-11"></a>版本 1803：9 月 11 日
 *版本 1803（内部版本 9126.2282）*
@@ -145,7 +179,7 @@ ms.locfileid: "25456826"
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
 -   修复了打开 Access 运行时应用程序 (.accde file) 导致“无法识别此数据库的格式”错误消息出现，且应用程序无法打开的问题。
--   修复了以下问题：尝试选择文本框或组合框中的文本时，似乎会选择所有文本，而不是指示的选择内容。
+-   修复了尝试选择文本框或组合框中的文本时，似乎会选择所有文本，而不是指示的选择内容的问题。
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **Microsoft Translator：** 使用 Microsoft Translator 将字词、短语或句子翻译成其他语言。可以在功能区的“审阅”选项卡中执行此操作。
@@ -197,14 +231,14 @@ ms.locfileid: "25456826"
 -   修复了在文件资源管理器中双击文件名打开多个工作簿时，工作簿引用失败的问题。
 -   修复了在编程创建数据透视表后，编程刷新导致 Excel 崩溃的问题。
 -   修复了以编程方式调用 Workbook.Open() 可能会导致 Excel 崩溃的问题。
--   修复了以下问题：使用宏打开 Office 2007 或更低版本工作簿（.xls 或 .xla）时，用户错误地看到“灾难性故障”错误消息。
+-   修复了使用宏打开 Office 2007 或更低版本工作簿（.xls 或 .xla）时，用户错误地看到“灾难性故障”错误消息的问题。
 -   修复了 Excel 可能会在用户打开关联菜单时发生故障的问题。
 -   修复了当用户尝试在现有的工作簿中插入对象时，用户单击“浏览”导致 Excel 发生故障的问题。
 -   修复了如果使用密码保护区域，看不到用于输入密码以解锁区域的对话框的问题。
--   修复了当文件名包含方括号时，用户无法在受保护视图中关闭工作簿的问题。
+-   修复了当文件名包含方括号时，用户无法关闭受保护的视图中的工作簿的问题。
 -   修复了拖动或拖动填充时，工具提示的位置未对齐的问题。
 -   修复了使用“文件”\>“另存为”保存工作簿时，包含句点的文件名在文件保存对话框中显示为空白或被截断的问题。
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive 的问题。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **轻松排序电子邮件：** 感谢提供反馈，我们已为未使用重点收件箱的用户，在邮件列表和未读邮件筛选器上方恢复了排序功能。
@@ -278,7 +312,7 @@ ms.locfileid: "25456826"
 -   修复了以下问题：多个用户在同一个演示文稿中共同创作导致幻灯片母板复制不正确。
 -   修复了以下问题：在退出受保护的视图时，打开保存在 OneDrive 上的文件导致 PowerPoint 故障。修复了以下问题：删除文档属性和个人信息导致保存到 SharePoint 失败。
 -   修复了以下问题：引用基于 Flash Player 的 YouTube 嵌入代码，导致打开新窗口来播放视频。旧嵌入代码现已升级为，引用基于 HTML5 的 YouTube 视频，以便正确就地播放这些视频。
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive 的问题。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **“任务板”视图：在“任务板”视图中，对卡片上的任务进行排序。在任务板上的各栏之间重新排序和移动卡片，就跟在敏捷项目中一样。**
@@ -409,7 +443,7 @@ ms.locfileid: "25456826"
 -   修复了以下问题：无法打印列表中的项目符号。
 -   修复了以下问题：如果用户尝试对 OneDrive for Business 上的现有文档执行“另存为”操作，然后又取消保存或尝试合并现有更改，Word 发生故障。
 -   修复了运行“邮件合并”向导时，无法筛选包含 null（空）值的数据源字段的问题。
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive 的问题。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
 -   修复了无法撤消对文档的 IRM 保护的问题。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
@@ -596,7 +630,7 @@ ms.locfileid: "25456826"
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 信息泄漏漏洞
+-   CTRL + S[CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 信息泄漏漏洞
 
 
 
@@ -670,7 +704,7 @@ ms.locfileid: "25456826"
 -   修复了在打开或创建新工作簿时，Excel 启动时创建的第一个工作簿将不会关闭的问题。
 -   修复了拖动或拖动填充时，工具提示的位置未对齐的问题。
 -   修复了使用“文件”\>“另存为”保存工作簿时，包含句点的文件名在文件保存对话框中显示为空白或被截断的问题。
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive 的问题。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
 -   修复了由于图形驱动程序错误导致出现黑线和标题的呈现问题。
 -   修复了在插入图表后 Excel 发生故障或无法保存工作簿的问题。
 -   修复了在分页预览下页面分隔线定位不正确的问题。
@@ -733,7 +767,7 @@ ms.locfileid: "25456826"
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 信息泄漏漏洞
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive 的问题。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
 -   修复了在表格中执行撤销操作后编辑和格式化的文本导致 PowerPoint 发生故障的问题。
 -   修复了以下问题：引用基于 Flash Player 的 YouTube 嵌入代码，导致打开新窗口来播放视频。旧嵌入代码现已升级为，引用基于 HTML5 的 YouTube 视频，以便正确就地播放这些视频。
 -   修复了以下问题：从版本早于 SharePoint Server 2016 的 SharePoint Server 打开演示文稿时，PowerPoint 崩溃。
@@ -825,7 +859,7 @@ ms.locfileid: "25456826"
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复了以下问题：如果用户尝试对 OneDrive for Business 上的现有文档执行“另存为”操作，然后又取消保存或尝试合并现有更改，Word 发生故障。
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive 的问题。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
 -   修复了在用户打开 Word 后立即导航到“插入”选项卡时 Word 挂起的问题。
 -   修复了在单击边距后，若输入字符，字符会显示在屏幕左上角的问题。
 -   修复了在打开文档（从版本早于 SharePoint Server 2016 的 SharePoint 服务器打开）的“活动”窗格时，Word 崩溃的问题。
