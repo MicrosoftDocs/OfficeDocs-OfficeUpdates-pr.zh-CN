@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 8db9d034e7a95d69e9d0eca05731e57e217f6bcc
-ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
+ms.openlocfilehash: ea8fc3ac72f23561f2b0b3375787673c1517116e
+ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25004449"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25504994"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -28,12 +28,12 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > [!NOTE]
 > - 有关全部 Office for Mac 发行的列表和其他下载链接，请参阅 [Office for Mac 的更新历史记录](update-history-office-for-mac.md)。 
 > - 如果你是 Office 预览体验成员，请参阅[针对预览体验成员内部版本（快）的发行说明](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
-> - 从 2018 年 9 月发布的 16.17 起，这些发行说明也适用于 Office 2019 for Mac，这是 Office for Mac 的一个版本，可从零售店一次性购买或通过批量许可协议获取。 但是，发行说明中列出的一些功能只有在您有 Office 365 订阅时才可用。
-> - 16.16 及早期版本的发布说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一个版本，可一次性购买。 可以通过 Office 2016 for Mac 批量许可证激活 16.16 或更旧的版本。 无法通过批量许可激活 Office 2016 for Mac 的 16.17 或更高版本。 
+> - 从 2018 年 9 月发布的 16.17 起，这些发行还适用于 Office 2019 for Mac（它是 Office for Mac 的一个版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Office 365 订阅的情况下才适用。
+> - 16.16 及早期版本的发行说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一个版本，可一次性购买。可以通过 Office 2016 for Mac 批量许可证激活 16.16 或更旧的版本。无法通过批量许可激活 Office 2016 for Mac 的 16.17 或更高版本。有关 9 月起发布的 Office 2016 for Mac 的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)
 > - 仅为最新版本提供下载链接。
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
-## <a name="september-2018-release"></a>2018 年 9 月发布
+## <a name="september-2018-release"></a>2018 年 9 月发行版
 
  **发布日期：** 2018 年 9 月 11 日 
   
@@ -45,7 +45,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|
 |Word  <br/> |**获取关注 \@提醒：** 使用注释 @mentions 让共同创作者知道需要他们的意见。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用墨迹绘制：** 使用鼠标或触摸板，以及“绘图”选项卡上的笔来书写、绘制和突出显示。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**插入 3D 模型以查看所有角度：** 轻松地插入 3D 模型，然后将其旋转 360 度。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**使用墨迹绘制：** 使用鼠标或触摸板，以及“绘图”选项卡上的笔来书写、绘制和突出显示。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入 3D 模型以查看所有角度：** 轻松地插入 3D 模型，然后将其旋转 360 度。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**重新推出自定义快捷方式：** 我们倾听用户的诉求！ 鉴于您的请求，我们已将重新加入自定义快捷键。 [了解更多](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[ExcelCVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞 <br/>  |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**使用墨迹绘制：** 使用鼠标或触摸板，以及“绘图”选项卡上的笔来书写、绘制和突出显示。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入 3D 模型以查看所有角度：** 轻松地插入 3D 模型，然后将其旋转 360 度。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**重新推出自定义快捷方式：** 我们倾听用户的诉求！ 鉴于您的请求，我们已将重新加入自定义快捷键。 [了解更多](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞 <br/>  |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**获取关注 \@提醒：** 使用注释 @mentions 让共同创作者知道需要他们的意见。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用墨迹绘制：** 使用鼠标或触摸板，以及“绘图”选项卡上的笔来书写、绘制和突出显示。[了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入 3D 模型以查看所有角度：** 轻松地插入 3D 模型，然后将其旋转 360 度。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**您选择的字体作为显示字体：** 在文件中嵌入自定义字体，带来随时同步自定义字体显示效果。 [了解更多](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||[Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
@@ -90,7 +90,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 **发布日期：** 2018 年 6 月 13 日 
 
-*版本 16.14.1（生成号 18061302）*
+*版本 16.14.1（内部版本 18061302）*
 
 此版本修复了个人应用程序的更新程序包存在的问题。
 <br/><br/>
@@ -98,11 +98,11 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
  **发布日期：** 2018 年 6 月 12 日 
   
- *版本 16.14.0（生成号 18061000）* 
+ *版本 16.14.0（内部版本 18061000）* 
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**更新包的下载链接**|
+|**应用程序**|**功能更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|
 |Word  <br/> |**学习工具提高可读性：** 让你的双眼休息一下。调整文字间距、列宽和页面颜色。或听 Word 大声读出文档，同时它还会在朗读过程中突出显示文本。[了解更多](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
 |Excel  <br/> |**快速填充数据：** 为快速填充提供几个示例后，它就会为你填充数据。[了解更多](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **打破语言障碍：** 使用 Microsoft Translator 将字词、短句或句子翻译成其他语言。[了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
@@ -155,12 +155,12 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新**|**更新程序包的下载链接**|
+|**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新程序**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 文档将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在文档中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
 |Excel  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 工作簿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。  <br/> <br/> **添加视觉效果：** 在工作簿中插入和编辑 可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞  <br/> ||||
 |PowerPoint  <br/> |**更好地进行共享和协作：** 本地同步的 OneDrive 演示文稿将从云中直接打开，使你能够轻松地自动保存、共享和进行协作。   <br/><br/> **添加视觉效果：** 在演示文稿中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
-|Outlook  <br/> |**添加视觉效果：** 在电子邮件中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**更易操作的日历：** 单击日历中的任何会议或事件，以查看所有相关联的详细信息。在同一位置查看受到邀请的人员、编辑你的响应或加入会议。  <br/> <br/> **轻松扫描搜索结果：** Outlook 在项目列表或预览窗格中突出显示你的搜索项。  <br/> <br/> **周数：** 现在将在日历月份视图和边栏中的小型日历中显示周数。若要启用此功能，请选中 Outlook“首选项 \> 日历”\>\>日历选项中的“显示周数”。  <br/> <br/> **计划 Skype 会议：** 代理人现在可以代表主体使用主体的电子邮件地址来计划 Skype for Business Online 会议。*（仅限 Skype for Business Online。将在以后服务器更新时对 Skype for Business Server 2015 启用该功能。）*  <br/> ||在编辑和删除服务器规则时提升了错误处理功能。在规则列表中首次显示服务器规则时，现在将突出显示含有错误的服务器规则。  <br/> ||
+|Outlook  <br/> |**添加视觉效果：** 在电子邮件中插入和编辑可扩展矢量图形 (SVG)，以添加视觉效果并保持高质量的图片。[了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**更易操作的日历：** 单击日历中的任何会议或事件，以查看所有相关联的详细信息。在同一位置查看受到邀请的人员、编辑你的响应或加入会议。  <br/> <br/> **轻松扫描搜索结果：** Outlook 在项目列表或预览窗格中突出显示你的搜索项。  <br/> <br/> **周数：** 现在将在日历月份视图和边栏中的小型日历中显示周数。若要启用此功能，请选中 Outlook“首选项” \> “日历”\>\>日历选项中的“显示周数”。  <br/> <br/> **计划 Skype 会议：** 代理人现在可以代表主体使用主体的电子邮件地址来计划 Skype for Business Online 会议。*（仅限 Skype for Business Online。将在以后服务器更新时对 Skype for Business Server 2015 启用该功能。）*  <br/> ||在编辑和删除服务器规则时提升了错误处理功能。在规则列表中首次显示服务器规则时，现在将突出显示含有错误的服务器规则。  <br/> ||
 |OneNote  <br/> ||||
 |Microsoft AutoUpdate 3.18  <br/> |对 msupdate 命令行工具的支持。[了解详细信息](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> ||||
    
@@ -181,7 +181,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新**|
+|**应用程序**|**功能更新**|**安全更新**|**与安全无关的更新程序**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**使用焦点模式实现更多功能：** 焦点模式现在可以在设置缩放级别中打开，并在滚动时显示页码。  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全功能规避漏洞  <br/> |||
@@ -199,7 +199,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**与安全无关的更新**|
+|**应用程序**|**功能更新**|**与安全无关的更新程序**|
 |:-----|:-----|:-----|
 |Excel  <br/> |**精准选择：** 是否有过选择的单元格过多或选择了错误的单元格的经历？现在可以取消选择无关的单元格，而无需重新选择。[了解详细信息](https://support.office.com/article/d1b56f30-7d63-4a64-8f0b-da4958204b52) <br/> <br/> **切割表数据：** 你所喜爱的数据透视表切片器。现在也可将其用于表中，以查看应用了哪些筛选器。[了解详细信息](https://support.office.com/article/249f966b-a9d5-4b0f-b31a-12651785d29d?#officeversion=mac) |
 |PowerPoint  <br/> |**标记重要事务：** 使用新的荧光笔来标记重要信息。[了解详细信息](https://support.office.com/article/28623777-d955-4fcf-bbc5-a50051552219#OperatingSystem=Mac&OfficeVersion=Mac) |
@@ -381,7 +381,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**与安全无关的更新**|
+|**应用程序**|**与安全无关的更新程序**|
 |:-----|:-----|
 |Microsoft AutoUpdate 3.9.1  <br/> | - 修复了在选中“自动检查”时阻止自动更新通知这一严重问题。  <br/><br/>  - 修复了 AutoUpdate 在 OS X 10.10 上崩溃的问题。  <br/><br/> - 修复了应用在更新挂起时无法启动的问题。   <br/><br/> **重要提示：** 如果你已更新至 Microsoft AutoUpdate 3.9.0 且已将 AutoUpdate 设置设置为“自动检查”，则需通过以下任一方法手动更新到 Microsoft AutoUpdate 3.9.1：  <br/><br/>  - 转到“帮助”**** > “检查更新”****，然后选择“检查更新”****。  <br/><br/>  - 转到“帮助”**** > “检查更新”****，然后选择“自动下载和安装”****。  |
    
@@ -421,7 +421,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**与安全无关的更新**|
+|**应用程序**|**功能更新**|**与安全无关的更新程序**|
 |:-----|:-----|:-----|
 |Word  <br/> |**触摸栏支持：** 只需用指尖即可调用你正在使用的最相关的命令（仅与含有触摸栏的 MacBook Pro 兼容。）   |
 |Excel  <br/> |**触摸栏支持：** 只需用指尖即可调用你正在使用的最相关的命令（仅与含有触摸栏的 MacBook Pro 兼容。）   |
@@ -437,7 +437,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**与安全无关的更新**|
+|**应用程序**|**功能更新**|**与安全无关的更新程序**|
 |:-----|:-----|:-----|
 |Word  <br/> |其他焦点模式选择，包括橡木、红木和石墨。仅适用于 Office 365 订阅者。[了解详细信息](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx) <br/> |修复了各种性能问题（例如，键入或滚动延迟和编辑大型文档时的低性能表现）。  |
 |Microsoft AutoUpdate  <br/> |其他日志记录和故障排除功能。  <br/> |版本号更新至 3.8.3。  |
@@ -459,13 +459,13 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**与安全无关的更新**|**安全更新**|
+|**应用程序**|**功能更新**|**与安全无关的更新程序**|**安全更新**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> | 在转换到 PDF 时保留文档的保真度和超链接的有效性。[了解详细信息](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。[了解详细信息](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
 |Excel  <br/> | 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。[了解详细信息](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | 修复了在使用数据验证时向错误消息框中输入文本时 Excel 崩溃的问题。  <br/> |Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)   |
 |PowerPoint  <br/> | 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。[了解详细信息](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
 |Office 套件  <br/> | 对其他三种语言的支持：希腊语、匈牙利语和斯洛伐克语  <br/> ||Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)  |
-|Microsoft AutoUpdate  <br/> || - - 版本号更新至 3.8.2。  <br/> - 改进了可靠性和小 bug 修复。  <br/> |Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)  |
+|Microsoft AutoUpdate  <br/> || - 版本号更新至 3.8.2。  <br/> - 改进了可靠性和小 bug 修复。  <br/> |Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)  |
    
 ## <a name="november-2016-release"></a>2016 年 11 月版本
 
@@ -493,13 +493,13 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 此版本提供以下更新。
   
-|**应用程序**|**功能更新**|**与安全无关的更新**|**安全更新**|
+|**应用程序**|**功能更新**|**与安全无关的更新程序**|**安全更新**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |对捷克语、匈牙利语、韩语、挪威语、波兰语、俄语和土耳其语的新语法支持。  <br/> | 修复了以下问题：当含有某种边框内容的 Excel 电子表格被嵌入到文档时，Word 无法保存文档。  <br/> |Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/MS16-133)：Microsoft Office 安全更新 (3199168) |
 |Excel  <br/> || 修复了 Excel 无法保存对某些企业存储配置（例如，NetApp FAS 单位）所做的更改的长时间运行的问题。  <br/> |Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/MS16-133)：Microsoft Office 安全更新 (3199168)  <br/> |
 |PowerPoint  <br/> |使用适用于 Windows 的 PowerPoint 2016 中的 Zoom 命令来查看创建的交互式摘要和自动导航链接。  <br/> | 修复了图像未呈现并被替换为显示引用 rID# 的错误的问题。  ||
 |Outlook  <br/> |查找并修复了在使用辅助功能检查器撰写邮件或邀请时出现的辅助功能问题。[了解详细信息](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | 修复了在撰写电子邮件时的自动语言检测问题。 ||
-|Office 套件  <br/> || - 极大地提升了具有使用辅助功能需求的用户的体验。  <br/><br/>  - Microsoft 错误报告可配置为将最后一次崩溃的日志保存到磁盘（默认写入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE）。 <br/> <br/>  - 为 E1/K1 用户提供了更好的激活消息体验。不再提示用户出现错误并鼓励他们使用仅视图体验。  <br/><br/> - 安装程序和更新程序文件名格式更改。例如，使用 Microsoft_Office_2016_15.28.16111300_Installer.pkg 来代替 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
+|Office 套件  <br/> || - 对于有使用辅助功能需求的用户，极大地提升了他们的体验。  <br/><br/>  - Microsoft 错误报告可配置为将最后一次崩溃的日志保存到磁盘（默认写入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE）。 <br/> <br/>  - 为 E1/K1 用户提供了更好的激活消息体验。不再提示用户出现错误并欢迎他们使用仅视图体验。  <br/><br/> - 安装程序和更新程序文件名格式更改。例如，使用 Microsoft_Office_2016_15.28.16111300_Installer.pkg 来代替 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
 |Microsoft AutoUpdate  <br/> |包括自动检测、下载和安装更新的新选项。  <br/> | - 版本号更新至 3.8.1。  <br/> <br/>- 修复了以下问题：在安装了旧版的 Microsoft Silverlight 后（尤其是在使用为 null 的 LCID 注册 Silverlight 时），MAU 可能崩溃。  <br/><br/>  - 修复了在使用 ManifestServer 首选项时 MAU 可能崩溃的问题。  <br/><br/> - Microsoft AU Daemon 捆绑包显示名称更改为“Microsoft 更新助手”。  <br/><br/> - 2016 应用的 MAU XML 源不再包含触发器词典，并依赖于“更新版本”进行版本检测。  <br/><br/> - MAU 现在在应用更新窗口中显示完整的版本字符串。例如，改为显示 15.28.16110300，而不是 15.28。  ||
    
 
