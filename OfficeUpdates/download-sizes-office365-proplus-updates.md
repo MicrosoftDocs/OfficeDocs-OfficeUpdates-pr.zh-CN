@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新的下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 78ab2d6fa201e495f4dcbb48ac1a331100119fd9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: a9d529bb4702f5006c7992af382e80ea8e008534
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459409"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607329"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新的下载大小
 
@@ -36,6 +36,20 @@ ms.locfileid: "25459409"
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。 
 
+## <a name="october-16-2018"></a>2018 年 10 月 16 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新版为版本 1809（内部版本 10827.20181）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1808（内部版本 10730.20088）  <br/> |2018 年 9 月 5 日  <br/> |170  <br/> |
+|版本 1808（内部版本 10730.20102）  <br/> |2018 年 9 月 12 日  <br/> |176 <br/> |
+|版本 1808（内部版本 10730.20127）  <br/> |2018 年 9 月 24 日  <br/> |396 <br/> |
+|版本 1809（内部版本 10827.20138）  <br/> |2018 年 9 月 27 日  <br/> |86 <br/> |
+|版本 1809（内部版本 10827.20150）  <br/> |2018 年 10 月 9 日  <br/> |82 <br/> |
+
 ## <a name="october-9-2018"></a>2018 年 10 月 9 日
 
 ### <a name="monthly-channel"></a>每月频道
@@ -51,7 +65,7 @@ ms.locfileid: "25459409"
   
 ### <a name="semi-annual-channel"></a>半年频道
 
-最新版为版本 1803（内部版本 9126.2295）。
+最新发布为版本 1803（内部版本 9126.2295）。
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|

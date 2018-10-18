@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/11/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25504984"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607349"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -24,6 +24,13 @@ ms.locfileid: "25504984"
  > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如商业高级版）。
+
+## <a name="version-1809-october-16"></a>版本 1809: 10 月 16 日
+*版本 1809（内部版本 10827.20181）* 
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新 
+-  修复了各种性能问题。
+
 
 ## <a name="version-1809-october-9"></a>版本 1809：10 月 9 日
 *版本 1809（内部版本 10827.20150）*
@@ -51,21 +58,21 @@ ms.locfileid: "25504984"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 - **快速查找** 我们加速了你的 VLOOKUP、HLOOKUP 和 MATCH 计算，以便你可以更快获取答案。 [了解详细信息](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **调用所有获取与转换功能**如果您经常使用获取与转换，您会高兴了解示例功能已得到改善。同时，多个连接器也已得到改进。[了解详细信息](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **功能区图标具有新的外观** 不要担心，一切使用方式都相同。另外，这在所有尺寸的屏幕上都看起来很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能区图标具有新的外观** 不要担心，一切使用方式都相同。另外，它们在各种尺寸的屏幕上都看起来很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **查看即将发布的产品**在发布前试用新的用户体验，并告诉我们你的想法。[了解详细信息](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **请参阅安全链接后面的 URL** 安全链接有助于保护计算机抵御电子邮件中收到的恶意 Url ，但它们往往隐藏原始 URL。现在，只需将鼠标悬停在URL以查看原始地址，即使是受安全链接保护的链接。
 - **获取搜索拼写的建议**执行搜索之后，Outlook 将提供带拼写更正的建议搜索查询。
-- **功能区图标具有新的外观** 不要担心，一切使用方式都相同。另外，这在所有尺寸的屏幕上都看起来很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能区图标具有新的外观** 不要担心，一切使用方式都相同。另外，它们在各种尺寸的屏幕上都看起来很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
-- **观看幻灯片并非处于活动状态** 在屏幕插入动画的三维图形，以查看心形心跳、 行星通道和 T Rex rampage。[了解详细信息](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **观看幻灯片变得栩栩如生** 插入动画 3D 图形，在屏幕上观看心脏跳动、行星绕轨道运行和霸王龙爆虐横行。[了解详细信息](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **功能区图标具有新的外观** 不要担心，一切使用方式都相同。另外，它们在各种尺寸的屏幕上都看起来很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 - **用 \@mentions 获取关注**在注释中使用 @mentions，让合著者知道你何时需要他们的意见。 [了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **功能区图标具有新的外观**不要担心，一切使用方式都相同。 另外，这在所有尺寸的屏幕上看起来都很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能区图标具有新的外观** 不要担心，一切使用方式都相同。另外，它们在各种尺寸的屏幕上都看起来很棒。 [了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **公式编辑器转换器**转换器允许用户将使用 Microsoft 公式编辑器创建的公式转换为 Office 数学 ML 格式以进行编辑。
 
 ## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
@@ -137,10 +144,10 @@ ms.locfileid: "25504984"
 - **从“Outlook 提醒”对话框加入“团队”会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是“团队”在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **超链接颜色：** 超链接不再只是蓝色的。请应用你喜欢的任何字体颜色。[了解详细信息](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+ - **超链接颜色：** 超链接不再只是蓝色的。请应用你喜欢的任何字体颜色。[了解更多](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **利用 Visio 形状生成 Word 文档：** 自动将包括形状和元数据在内的图表内容添加到 Word 文档。然后自定义文档以创建过程准则和操作手册。[了解详细信息](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **利用 Visio 形状生成 Word 文档：** 自动将包括形状和元数据在内的图表内容添加到 Word 文档。然后自定义文档以创建过程准则和操作手册。[了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
  - **结合使用修订和 IRM：** 现在无需拥有完全控制使用权限，即可在受 IRM 保护的 Word 文档中使用修订功能。
@@ -171,16 +178,16 @@ ms.locfileid: "25504984"
 *版本 1806（内部版本 10228.20080）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 还有对表情符号和其他复杂字符的改进了的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。 还有对表情符号和其他复杂字符的改进了的支持。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **重复周期默认设置：** 在“约会重复周期”对话框中（“重复周期范围”下），“结束日期”是默认设置（替代了“无结束日期”），并且是列出的第一个设置，同时还设置了默认结束日期。
  - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。 [了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
- - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+ - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 
 ### <a name="project-feature-updates"></a>Project：功能更新
@@ -195,7 +202,7 @@ ms.locfileid: "25504984"
  - **更多模板、图标和选择：** 我们添加了 26 种模板，包括“分析”、“艺术”、“庆祝”、“人脸”、“位置”、“医疗”、“自然”、“人物”、“运动”、“天气”和“季节”等。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
- - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 
 
@@ -240,7 +247,7 @@ ms.locfileid: "25504984"
  - **利用新图表实现数据的可视化效果：** 从 11 个图表中选择一个图表并将其添加到窗体和报表，更好地实现数据的可视化效果，并做出明智的决策。[了解详细信息](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **在编辑时与合著者进行交流：** 无需离开 Excel 即可与合著者进行交流，从而提高协作效率。 请注意，此功能在某些地区不可用。[了解详细信息](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **在编辑时与合著者进行交流：** 无需离开 Excel 即可与合著者进行交流，从而提高协作效率。 请注意，此功能在某些地区不可用。[了解更多](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **无需打字：** 使用语音，通过口述方式即可创建电子邮件。无需打字。[了解详细信息](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -299,7 +306,7 @@ ms.locfileid: "25504984"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **收听电子邮件：** Outlook 可以大声读出电子邮件，并能一边朗读一边突出显示文本。[了解详细信息](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。 如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。[了解详细信息](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。 如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。[了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到文件\>选项\>邮件\>其他。
 -   **加密选项：** Office 365 邮件加密用户可以加密邮件，并将邮件发送给组织内外的任何人。创建邮件时，可以在选项\>权限下找到加密选项。[了解详细信息](https://aka.ms/omeoverview)
 
@@ -335,7 +342,7 @@ ms.locfileid: "25504984"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程代码执行漏洞
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
--   **出于安全考虑，阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。  了解详细信息 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
+-   **出于安全考虑，阻止激活 Office 中的 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上新版本的 Microsoft Office for Office 365 会阻止激活 Flash、Silverlight 和 Shockwave 控件。  了解更多 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
 *版本 1803（内部版本 9126.2116）*
@@ -357,17 +364,17 @@ ms.locfileid: "25504984"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **Microsoft Translator：** 使用 Microsoft Translator 将字词、短语或句子翻译成其他语言。可以在功能区的“审阅”选项卡中执行此操作。
--   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解详细信息](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了在会议中通过选择 Skype 通话来添加用户导致出错的问题。
 -   如果 Skype 会议室已被添加为位置且会议已包含 Teams 会议协调人，则删除要求用户向会议添加 Skype 协调人的提示。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
--   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解详细信息](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解详细信息](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。[了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 
 ## <a name="version-1802-march-13"></a>版本 1802：3 月 13 日
