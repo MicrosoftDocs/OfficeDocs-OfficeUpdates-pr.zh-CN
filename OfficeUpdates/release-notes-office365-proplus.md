@@ -10,32 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供每个更新频道的 Office 365 专业增强版最新版本列表和发行说明链接与更新历史记录
-ms.openlocfilehash: f4b6580d0466a6a04bba6f22f98ccdfa0859d1b4
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: 1d1f776e7616d967ecb7a555b7cfa41fe587509d
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607309"
+ms.locfileid: "25638152"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
-Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过使用[更新频道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)发行。每个更新频道中的每次发行都分配有一个版本号和内部版本号。 
-
-下表列出了每个更新频道支持的版本和最新内部版本号。内部版本号直接链接到该版本的发行说明。 
-
-  
-|**频道**|**版本**|**内部版本**|**发布日期**|**版本支持到**|
-|:-----|:-----|:-----|:-----|:-----|
-|每月一次  <br/> |1809  <br/> |[10827.20181](monthly-channel-2018.md#version-1809-october-16)  <br/> | 2018 年 10 月 16 日  <br/> |版本 1810 已发布 <br/>|
-|半年（定向）  <br/> |1808  <br/> |[10730.20155](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
-|半年 <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |2018 年 10 月 9 日  <br/> | 2019 年 12 月 10 日 <br/>|
-|半年 <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
-
-有关从先前版本的 Office 365 专业增强版更新到最新版本时的近似下载大小的信息，请参阅 [Office 365 专业增强版更新的下载大小](download-sizes-office365-proplus-updates.md)。
-
 > [!NOTE]
-> - 这些版本和内部版本号还适用于 Office 365 商业版、Visio Pro for Office 365 和 Project Online 桌面客户端。Office 365 商业版是随附有一些 Office 365 计划（例如商业高级版）的 Office 版本。
-> - 不再支持表中未列出的更新频道版本。例如，不再支持每月频道的版本 1704 。 
+> - 列出每个更新通道支持的版本的表已移至 [Office 365 专业增强版更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)。
+
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 专业增强版版本更新历史记录
