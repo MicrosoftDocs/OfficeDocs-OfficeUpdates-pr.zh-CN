@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: e1e1e7d2fe5d4f069b0005f769b11c6c231de21b
-ms.sourcegitcommit: 6f2752d626a3c59bcfa984d4351e944cad171b8d
+ms.openlocfilehash: a27ee420c88373802be4ec0b874ec5f7a70175fa
+ms.sourcegitcommit: f9fd919ac17ebaaea3d9c382f66210fe267b1cdb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25578953"
+ms.lasthandoff: 10/19/2018
+ms.locfileid: "25676969"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -28,8 +28,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > [!NOTE]
 > - 有关全部 Office for Mac 发行的列表和其他下载链接，请参阅 [Office for Mac 的更新历史记录](update-history-office-for-mac.md)。 
 > - 如果你是 Office 预览体验成员，请参阅[针对预览体验成员内部版本（快）的发行说明](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
-> - 从 2018 年 9 月发布的 16.17 起，这些发行说明还适用于 Office 2019 for Mac（它是 Office for Mac 的一个版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Office 365 订阅的情况下才适用。
-> - 16.16 及早期版本的发行说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一个版本，可一次性购买。 可以通过 Office 2016 for Mac 批量许可证激活 16.16 或更旧的版本。 无法通过 Office 2016 for Mac 批量许可激活 16.17 或更高版本。 有关 9 月后 Office 2016 for Mac 发行版本的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)
+> - 从 2018 年 9 月发布的 16.17 起，这些发行还适用于 Office 2019 for Mac（它是 Office for Mac 的一个版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Office 365 订阅的情况下才适用。
+> - 16.16 及早期版本的发行说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一个版本，可一次性购买。可以通过 Office 2016 for Mac 批量许可证激活 16.16 或更旧的版本。无法通过批量许可激活 Office 2016 for Mac 的 16.17 或更高版本。有关 9 月起发布的 Office 2016 for Mac 的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)
 > - 仅为最新版本提供下载链接。
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
@@ -43,9 +43,9 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|
-|Word  <br/>|**用 \@mentions 获取关注**在注释中使用 @mentions，让合著者知道你需要他们的意见。[了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/> <br/>**使您的图像可访问：** Office 会建议有视力障碍的人可以阅读的说明文字。  <br/> ||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
+|Word  <br/>|**使图像可访问：** 当插入图片时，Office 会建议有视力障碍的人可以阅读的说明文字。  <br/> ||[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
 |Excel  <br/>|**与注释协作：** 在电子表格中使用内置回复框保持对话的正确。  [了解更多](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **了解数据的更多信息：** 新的“创意”按钮可查找数据中的模式，并使用它们创建智能、个性化的建议。  [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **更多＂自动＂在记忆式键入中：** 当您键入公式时，将显示帮助记忆式键入菜单，显示了可供选择的参数选项。  <br/><br/> **现在已改进： 画外音导航：** 在 Excel 中使用画外音？ 按 VO + U 在整个表中移动。 您也可以启用 macOS Trackpad Commander 这样做。 <br/> ||[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
-|Powerpoint  <br/>|通过**提醒： \@获取关注**使用注释 @mentions 让共同创作者知道您需要他们的输入。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/> **使您的图像可访问：** Office 会建议有视力障碍的人可以阅读的说明文字。  <br/><br/> **动画触发器在这里：** 您要求的 ！ 动画触发器不再只是用于 Windows 了。 [动画选项卡上找到这些](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da)了解更多 <br/><br/> ||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
+|Powerpoint  <br/>|**使图像可访问：** 当插入图片时，Office 会建议有视力障碍的人可以阅读的说明文字。  <br/><br/> **动画触发器在这里：** 您要求的 ！ 动画触发器不再只是用于 Windows 了。 [动画选项卡上找到这些](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da)了解更多 <br/><br/> ||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**改进搜索：** 选择搜索框中快速建议基于您最近的搜索历史记录。 不需要键入。  [了解更多](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
 |Office 套件  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)Microsoft 图形组件远程代码执行漏洞 <br/>||
 
@@ -386,7 +386,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|
 |:-----|:-----|:-----|
 |Word  <br/> |**焦点模式的新式背景：** 在处于“视图”**** 选项卡上的焦点模式时，从“黎明”或“极夜”背景中进行选择。[了解详细信息](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**迪拜字体：支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。了解详细信息**[](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |** 迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。了解详细信息[ ](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**组：** 查看前 10 个组，并从组文件夹中直接阅读或回复组对话。  <br/> <br/> **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Office 套件  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞   |
@@ -399,7 +399,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**非安全更新**|
 |:-----|:-----|
-|Microsoft AutoUpdate 3.9.1  <br/> | ​- 修复了在选中“自动检查”时阻止自动更新通知这一严重问题。  <br/><br/>  - 修复了 AutoUpdate 在 OS X 10.10 上崩溃的问题。  <br/><br/> - 修复了应用在更新挂起时无法启动的问题。   <br/><br/> **重要提示：** 如果你已更新至 Microsoft AutoUpdate 3.9.0 且已将 AutoUpdate 设置设置为“自动检查”，则需通过以下任一方法手动更新到 Microsoft AutoUpdate 3.9.1：  <br/><br/>  - 转到**帮助** > **检查更新** ，然后选择**检查更新** 。  <br/><br/>  - 转到**帮助** > **检查更新**，然后选择**自动下载和安装**。  |
+|Microsoft AutoUpdate 3.9.1  <br/> | ​- 修复了在选中“自动检查”时阻止自动更新通知这一严重问题。  <br/><br/>  - 修复了 AutoUpdate 在 OS X 10.10 上崩溃的问题。  <br/><br/> - 修复了应用在更新挂起时无法启动的问题。   <br/><br/> **重要提示：** 如果你已更新至 Microsoft AutoUpdate 3.9.0 且已将 AutoUpdate 设置设置为“自动检查”，则需通过以下任一方法手动更新到 Microsoft AutoUpdate 3.9.1：  <br/><br/>  - 转到**帮助** > **检查更新**，然后选择**检查更新**。  <br/><br/>  - 转到**帮助** > **检查更新**，然后选择**自动下载和安装**。  |
    
 ## <a name="april-2017-release"></a>2017 年 4 月版本
 
@@ -479,7 +479,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |:-----|:-----|:-----|:-----|
 |Word  <br/> | 在转换到 PDF 时保留文档的保真度和超链接的有效性。[了解详细信息](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。[了解详细信息](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
 |Excel  <br/> | 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。[了解详细信息](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | 修复了在使用数据验证时向错误消息框中输入文本时 Excel 崩溃的问题。  <br/> |Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)   |
-|PowerPoint  <br/> | 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。了解更多信息[](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
+|PowerPoint  <br/> | 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。了解更多信息[ ](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
 |Office 套件  <br/> | 对其他三种语言的支持：希腊语、匈牙利语和斯洛伐克语  <br/> ||Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)  |
 |Microsoft AutoUpdate  <br/> || - 版本号更新至 3.8.2。  <br/> - 改进了可靠性和小错误修复。  <br/> |Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)  |
    
@@ -515,8 +515,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Excel  <br/> || 修复了 Excel 无法保存对某些企业存储配置（例如，NetApp FAS 单位）所做的更改的长时间运行的问题。  <br/> |Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/MS16-133)：Microsoft Office 安全更新 (3199168)  <br/> |
 |PowerPoint  <br/> |使用适用于 Windows 的 PowerPoint 2016 中的 Zoom 命令来查看创建的交互式摘要和自动导航链接。  <br/> | 修复了图像未呈现并被替换为显示引用 rID# 的错误的问题。  ||
 |Outlook  <br/> |查找并修复了在使用辅助功能检查器撰写邮件或邀请时出现的辅助功能问题。[了解详细信息](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | 修复了在撰写电子邮件时的自动语言检测问题。 ||
-|Office 套件  <br/> || - 对于有可访问性需求的用户的显著改进。  <br/><br/>  - Microsoft 错误报告可配置为将最后一次崩溃的日志保存到磁盘（默认写入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE）。 <br/> <br/>  - 为 E1/K1 用户提供了更好的激活消息体验。不再提示用户出现错误并欢迎他们使用仅视图体验。  <br/><br/> -  安装程序和更新程序文件名格式更改。例如，使用 Microsoft_Office_2016_15.28.16111300_Installer.pkg 来代替 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
-|Microsoft AutoUpdate  <br/> |包括自动检测、下载和安装更新的新选项。  <br/> | -  版本号更新至 3.8.1。  <br/> <br/>-  修复在安装了较早版本的 Microsoft Silverlight 时，特别在使用 null LCID 注册 Silverlight  时，MAU 可能崩溃的问题。  <br/><br/>  - 修复了在使用 ManifestServer 首选项时 MAU 可能崩溃的问题。  <br/><br/> - Microsoft AU Daemon 捆绑包显示名称更改为“Microsoft 更新助手”。  <br/><br/> - 2016 应用的 MAU XML 源不再包含触发器词典，并依赖于“更新版本”进行版本检测。  <br/><br/> - MAU 现在在应用更新窗口中显示完整的版本字符串。例如，显示 15.28.16110300，而不是仅 15.28。  ||
+|Office 套件  <br/> || - 对于有可访问性需求的用户的显著改进。  <br/><br/>  - Microsoft 错误报告可配置为将最后一次崩溃的日志保存到磁盘（默认写入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE）。 <br/> <br/>  -为 E1/K1 用户提供了更好的激活消息体验。不再提示用户出现错误并欢迎他们使用仅视图体验。  <br/><br/> -  安装程序和更新程序文件名格式更改。例如，使用 Microsoft_Office_2016_15.28.16111300_Installer.pkg 来代替 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
+|Microsoft AutoUpdate  <br/> |包括自动检测、下载和安装更新的新选项。  <br/> | -  版本号更新至 3.8.1。  <br/> <br/>-  修复在安装了较早版本的 Microsoft Silverlight 时，特别在使用 null LCID 注册 Silverlight  时，MAU 可能崩溃的问题。  <br/><br/>  -  修复了在使用 ManifestServer 首选项时 MAU 可能崩溃的问题。  <br/><br/> -  Microsoft AU Daemon 捆绑包显示名称更改为“Microsoft 更新助手”。  <br/><br/> -  2016 应用的 MAU XML 源不再包含触发器词典，并依赖于“更新版本”进行版本检测。  <br/><br/> - MAU 现在在应用更新窗口中显示完整的版本字符串。例如，显示 15.28.16110300，而不是仅 15.28。  ||
    
 
    
