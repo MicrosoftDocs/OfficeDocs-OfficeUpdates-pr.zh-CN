@@ -3,19 +3,19 @@ title: Office for Mac 发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: a27ee420c88373802be4ec0b874ec5f7a70175fa
-ms.sourcegitcommit: f9fd919ac17ebaaea3d9c382f66210fe267b1cdb
+ms.openlocfilehash: 9c39c4845d600c86e2f0019fe4095ae3e64417da
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2018
-ms.locfileid: "25676969"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718976"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -32,6 +32,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > - 16.16 及早期版本的发行说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一个版本，可一次性购买。可以通过 Office 2016 for Mac 批量许可证激活 16.16 或更旧的版本。无法通过批量许可激活 Office 2016 for Mac 的 16.17 或更高版本。有关 9 月起发布的 Office 2016 for Mac 的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)
 > - 仅为最新版本提供下载链接。
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
+> - 我们经常在一段时间内向每月频道推出功能（有时甚至是修补程序）。 这使我们能够在向更广泛的受众发布功能之前确保事情顺利进行。 因此，如果你没有看到如下所述的一些内容，不必担心，你最终会得到它。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="october-2018-release"></a>2018 年 10 月发布
 
@@ -399,7 +400,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
   
 |**应用程序**|**非安全更新**|
 |:-----|:-----|
-|Microsoft AutoUpdate 3.9.1  <br/> | ​- 修复了在选中“自动检查”时阻止自动更新通知这一严重问题。  <br/><br/>  - 修复了 AutoUpdate 在 OS X 10.10 上崩溃的问题。  <br/><br/> - 修复了应用在更新挂起时无法启动的问题。   <br/><br/> **重要提示：** 如果你已更新至 Microsoft AutoUpdate 3.9.0 且已将 AutoUpdate 设置设置为“自动检查”，则需通过以下任一方法手动更新到 Microsoft AutoUpdate 3.9.1：  <br/><br/>  - 转到**帮助** > **检查更新**，然后选择**检查更新**。  <br/><br/>  - 转到**帮助** > **检查更新**，然后选择**自动下载和安装**。  |
+|Microsoft AutoUpdate 3.9.1  <br/> | - 修复了在选中“自动检查”时阻止自动更新通知这一严重问题。  <br/><br/>  - 修复了 AutoUpdate 在 OS X 10.10 上崩溃的问题。  <br/><br/> - 修复了应用在更新挂起时无法启动的问题。   <br/><br/> **重要提示：** 如果你已更新至 Microsoft AutoUpdate 3.9.0 且已将 AutoUpdate 设置设置为“自动检查”，则需通过以下任一方法手动更新到 Microsoft AutoUpdate 3.9.1：  <br/><br/>  - 转到**帮助** > **检查更新** ，然后选择**检查更新** 。  <br/><br/>  - 转到**帮助** > **检查更新**，然后选择**自动下载和安装**。  |
    
 ## <a name="april-2017-release"></a>2017 年 4 月版本
 
@@ -515,8 +516,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Excel  <br/> || 修复了 Excel 无法保存对某些企业存储配置（例如，NetApp FAS 单位）所做的更改的长时间运行的问题。  <br/> |Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/MS16-133)：Microsoft Office 安全更新 (3199168)  <br/> |
 |PowerPoint  <br/> |使用适用于 Windows 的 PowerPoint 2016 中的 Zoom 命令来查看创建的交互式摘要和自动导航链接。  <br/> | 修复了图像未呈现并被替换为显示引用 rID# 的错误的问题。  ||
 |Outlook  <br/> |查找并修复了在使用辅助功能检查器撰写邮件或邀请时出现的辅助功能问题。[了解详细信息](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | 修复了在撰写电子邮件时的自动语言检测问题。 ||
-|Office 套件  <br/> || - 对于有可访问性需求的用户的显著改进。  <br/><br/>  - Microsoft 错误报告可配置为将最后一次崩溃的日志保存到磁盘（默认写入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE）。 <br/> <br/>  -为 E1/K1 用户提供了更好的激活消息体验。不再提示用户出现错误并欢迎他们使用仅视图体验。  <br/><br/> -  安装程序和更新程序文件名格式更改。例如，使用 Microsoft_Office_2016_15.28.16111300_Installer.pkg 来代替 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
-|Microsoft AutoUpdate  <br/> |包括自动检测、下载和安装更新的新选项。  <br/> | -  版本号更新至 3.8.1。  <br/> <br/>-  修复在安装了较早版本的 Microsoft Silverlight 时，特别在使用 null LCID 注册 Silverlight  时，MAU 可能崩溃的问题。  <br/><br/>  -  修复了在使用 ManifestServer 首选项时 MAU 可能崩溃的问题。  <br/><br/> -  Microsoft AU Daemon 捆绑包显示名称更改为“Microsoft 更新助手”。  <br/><br/> -  2016 应用的 MAU XML 源不再包含触发器词典，并依赖于“更新版本”进行版本检测。  <br/><br/> - MAU 现在在应用更新窗口中显示完整的版本字符串。例如，显示 15.28.16110300，而不是仅 15.28。  ||
+|Office 套件  <br/> || - 对于有可访问性需求的用户的显著改进。  <br/><br/>  - Microsoft 错误报告可配置为将最后一次崩溃的日志保存到磁盘（默认写入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE）。 <br/> <br/>  - 为 E1/K1 用户提供了更好的激活消息体验。不再提示用户出现错误并欢迎他们使用仅视图体验。  <br/><br/> - 安装程序和更新程序文件名格式更改。例如，使用 Microsoft_Office_2016_15.28.16111300_Installer.pkg 来代替 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
+|Microsoft AutoUpdate  <br/> |包括自动检测、下载和安装更新的新选项。  <br/> | - 版本号更新至 3.8.1。  <br/> <br/>- 修复在安装了较早版本的 Microsoft Silverlight 时，特别在使用 null LCID 注册 Silverlight 时，MAU 可能崩溃的问题。  <br/><br/>  - 修复了在使用 ManifestServer 首选项时 MAU 可能崩溃的问题。  <br/><br/> - Microsoft AU Daemon 捆绑包显示名称更改为“Microsoft 更新助手”。  <br/><br/> - 2016 应用的 MAU XML 源不再包含触发器词典，并依赖于“更新版本”进行版本检测。  <br/><br/> - MAU 现在在应用更新窗口中显示完整的版本字符串。例如，改为显示 15.28.16110300，而不是 15.28。  ||
    
 
    
