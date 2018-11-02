@@ -1,6 +1,5 @@
-# Office 365 ProPlus
+# Office 365 专业增强版
 ## [（按日期） 的更新历史记录](update-history-office365-proplus-by-date.md)
-## [（通过版本） 的更新历史记录](update-history-office365-proplus-by-version.md)
 ## [更新大小](download-sizes-office365-proplus-updates.md)
 
 ## [发行说明](release-notes-office365-proplus.md)
