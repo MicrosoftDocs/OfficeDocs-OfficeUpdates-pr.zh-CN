@@ -38,7 +38,7 @@
 ## [Office 2010 更新](update-history-office-2010-click-to-run.md)
 
 # Office 服务器产品
-## [Exchange Server 更新](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+## [Exchange Server 更新](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server 更新程序](project-server-updates.md)
 ## [SharePoint 更新](sharepoint-updates.md)
 ## [Skype Business Server 更新](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
