@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: dec4a8e8af5cc2cb4e15a47df3c9047f5e7cc8e4
-ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
+ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "25841248"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031641"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -33,6 +33,7 @@ ms.locfileid: "25841248"
 ### <a name="excel-feature-updates"></a>Excel：功能更新 
 
 - **通过注释进行协作：** 使用内置回复框在电子表格中保持正常对话。 [了解更多](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **股票报价触手可及：** 使用新增的“股票”数据类型，检索最新股票价格、价格变化等。 新增的数据类型还有“地理位置”。 [了解更多](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 - **显示图片背后的内容：** 将图片置于工作表中，选择预设，然后观察透明度的变化。 就是这么简单。 [了解更多](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **在编辑栏中轻松编辑：** 现在可以使用 CTRL+A 选择单元格或编辑栏中的文本。 另外，还增强了对表情符号和其他复杂字符的支持。 [了解详细信息](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
