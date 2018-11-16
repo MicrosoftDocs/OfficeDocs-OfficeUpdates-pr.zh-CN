@@ -3,19 +3,19 @@ title: Office 2010 单击即点即用产品的更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: IT 专业人员提供使用单击即点即用的永久版本的 Office 2010 的更新历史记录
-ms.openlocfilehash: b8dac3a66f54c2048c36e466925b0fa8badaf8f5
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: b45180ca519493021d840d3fb51aaac2c179183f
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456756"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296622"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 单击即点即用产品的更新历史记录
 
@@ -30,7 +30,7 @@ ms.locfileid: "25456756"
 如果您正在使用它这些产品，并且您想要验证您是最新，检查您的 Office 版本号码，并手动更新 Office 必要。
   
 > [!NOTE]
-> Office 2010 的最新版本是**14.0.7214.5000**，2018 年 10 月 9 上, 发布。 
+> Office 2010 的最新版本是**14.0.7224.5000**，2018 年 11 月 13 上, 发布。 
   
 若要检查你的 Office 版本，请执行下列操作：
   
@@ -40,11 +40,11 @@ ms.locfileid: "25456756"
     
 3. 在下，**单击即点即用产品的更新**，请注意列出的版本号。
     
-    如果的版本号匹配的最新版本，您最新。 如果没有，您可以手动更新获取 Office 2010 的最新版本。 更新 Office，[请按照下列步骤](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
+    如果的版本号匹配的最新版本，您最新。如果没有，您可以手动更新获取 Office 2010 的最新版本。更新 Office，[请按照下列步骤](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>发布日期、 版本号和修复的 Office 2010 的信息的列表更新
 
-下表提供更新的列表 for Office 2010、office，首先列出的最新的发布日期。 如果可用，请向 Microsoft 知识库 (KB) 文章或包含有关更新中包含的修补程序的信息的 Microsoft 安全公告，表包含发行版和链接的版本号。
+下表提供更新的列表 for Office 2010、office，首先列出的最新的发布日期。如果可用，请向 Microsoft 知识库 (KB) 文章或包含有关更新中包含的修补程序的信息的 Microsoft 安全公告，表包含发行版和链接的版本号。
   
 新版本包含先前版本所包含的所有更新。
 
@@ -54,7 +54,8 @@ ms.locfileid: "25456756"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2018 |10 月 9  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
+|2018 |11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
+||10 月 9  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
 | |9 月 11  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
 ||8 月 14 日  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
 ||7 月 10 日  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |

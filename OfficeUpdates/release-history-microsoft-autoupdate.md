@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的发布历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 11/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 8e99458552d1532dbac1a71391b2f081a8da1b65
-ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
+ms.openlocfilehash: 383bc62ac9e21b7f9b139a2f8170d2e9c1c4f01c
+ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2018
-ms.locfileid: "23940303"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "26526327"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -31,6 +31,8 @@ ms.locfileid: "23940303"
   
 |**发布日期**|**版本**|**详细信息**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|
+|2018 年 11 月 14 日 <br/> |4.5.0 <br/> |[发行说明](release-notes-office-for-mac.md#november-2018-release) <br/> |[下载 MAU 4.5.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|2018 年 10 月 16 日 <br/> |4.4.0 <br/> |[发行说明](release-notes-office-for-mac.md#october-2018-release) <br/> |[下载 MAU 4.4.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
 |2018 年 9 月 11 日  <br/> |4.3.0  <br/> |[发行说明](release-notes-office-for-mac.md#september-2018-release) <br/> |[下载 MAU 4.3.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
 |2018 年 8 月 14 日  <br/> |4.2.0  <br/> |[发行说明](release-notes-office-for-mac.md#august-2018-release) <br/> |[下载 MAU 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |2018 年 7 月 10 日  <br/> |4.1.0  <br/> |[发行说明](release-notes-office-for-mac.md#july-2018-release) <br/> |[下载 MAU 4.1.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
