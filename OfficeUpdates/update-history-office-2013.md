@@ -3,42 +3,42 @@ title: Office 2013 更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2013 永久版本的更新历史记录
-ms.openlocfilehash: 1723306ef27882f0df9662266397740509eb6a76
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: 12f398ed28d41cda77c3bb6395bb34bd0d9bd9d8
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456706"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296602"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 更新历史记录
 
 大多数 Office 2013 产品使用名为即点即用的技术自动保持最新。如果你想验证你的产品是否为最新版本，请检查 Office 版本号并在需要时手动更新 Office。
   
 > [!NOTE]
-> Office 2013 的最新版本是 2018 年 10 月 9 日发布的 **15.0.5075.1001**。 
+> Office 2013 的最新版本是 2018 年 11 月 13 日发布的 **15.0.5085.1000**。 
   
 若要检查你的 Office 版本，请执行下列操作：
   
-1. 打开任何一种 Office 2013 应用程序，如 Word 或 Excel。
+1. 打开任意 Office 2013 应用程序，如 Word 或 Excel。
     
-2. 选择**文件** > **帐户**。
+2. 选择“文件”**** > “帐户”****。
     
-3. 在**产品信息**下，记下 **Office 更新**下的版本号。
+3. 在“产品信息”**** 下，记下“Office 更新”**** 下的版本号。
     
     如果此版本号与最新版本一致，那你的产品是最新的。如果不一致，你可以手动更新以获取 Office 2013 的最新版本。若要更新 Office，[请按照以下步骤操作](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013)。
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>发布日期、版本号和 Office 2013 更新的修复信息列表
 
-下表提供了 Office 2013 更新的列表，最近的发布日期列在前面。该表包含该版本的版本号和指向 Microsoft 知识库 (KB) 文章的链接（如果有），其中包含有关此更新中包含的修补程序的信息。
+下表提供了 Office 2013 更新的列表，最近的发布日期列在前面。该表包含版本的版本号和指向 Microsoft 知识库 (KB) 文章的链接（如果有），其中包含有关此更新中包含的修补程序的信息。
   
-新版本包含先前版本具有的所有更新。
+新版本包含先前版本所包含的所有更新。
 
 > [!NOTE]
 > 下面列出的 KB 文章仅供参考。即点即用更新包括 KB 文章中列出的所有修补程序。无需下载 KB 文章中列出的单独更新。
@@ -46,17 +46,18 @@ ms.locfileid: "25456706"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2018 年 |10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
-| |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
-||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
-||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
-||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
-||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
-||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
-||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
+|2018 年 |11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/zh-CN/help/4469617)  |
+||10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/zh-CN/help/4464656)  |
+| |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/zh-CN/help/4459402)  |
+||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/zh-CN/help/4346823)  |
+||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/zh-CN/help/4340798)  |
+||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/zh-CN/help/4299875)  |
+||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/zh-CN/help/4133083)  |
+||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/zh-CN/help/4098622)  |
+||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/zh-CN/help/4090988)  |
 ||2 月 13 日   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||1 月 9 日   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
-|2017   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
+|2017 年   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
 ||11 月 14 日   |15.0.4981.1001   |[KB 4051890](https://support.microsoft.com/help/4051890)  |
 ||10 月 10 日   |15.0.4971.1002   |[KB 4043461](https://support.microsoft.com/help/4043461)  |
 ||9 月 12 日   |15.0.4963.1002   |[KB 4040279](https://support.microsoft.com/help/4040279)  |
@@ -67,8 +68,8 @@ ms.locfileid: "25456706"
 ||4 月 11 日   |15.0.4919.1002   |[KB 4016803](https://support.microsoft.com/help/4016803)  |
 ||3 月 14 日   |15.0.4911.1002   |[KB 4013886](https://support.microsoft.com/help/4013886)  |
 ||2 月 22 日   |15.0.4903.1002   |[KB 4010765](https://support.microsoft.com/help/4010765)  |
-||1 月 10 日   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/en-us/kb/3214449)  |
-|2016   |12 月 13 日   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595)  |
+||1 月 10 日   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/zh-CN/kb/3214449)  |
+|2016 年   |12 月 13 日   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/zh-CN/kb/3208595)  |
 ||11 月 8 日   |15.0.4875.1001   |[KB 3200802](https://support.microsoft.com/kb/3200802)  |
 ||10 月 11 日   |15.0.4867.1003   |[KB 3194160](https://support.microsoft.com/kb/3194160)  |
 ||9 月 13 日   |15.0.4859.1002   |[KB 3188548](https://support.microsoft.com/kb/3188548)  |
@@ -76,15 +77,15 @@ ms.locfileid: "25456706"
 ||7 月 25 日   |15.0.4841.1002   |[KB 3179661](https://support.microsoft.com/kb/3179661)  |
 ||7 月 12 日   |15.0.4841.1001   |[KB 3173835](https://support.microsoft.com/kb/3173835)  |
 ||6 月 14 日   |15.0.4833.1001   |[KB 3166910](https://support.microsoft.com/kb/3166910)  |
-||5 月 25 日   |15.0.4823.1004   |此版本修复了安装过程中可能有的系统死机的问题。   |
+||5 月 25 日   |15.0.4823.1004   |此版本修复了安装过程中可能会崩溃的问题。   |
 ||5 月 10 日   |15.0.4823.1002   |[KB 3158453](https://support.microsoft.com/kb/3158453 )  |
 ||4 月 12 日   |15.0.4815.1002   |[KB 3150264](https://support.microsoft.com/kb/3150264)  |
 ||3 月 8 日   |15.0.4805.1003   |[KB 3143491](https://support.microsoft.com/kb/3143491)  |
 ||2 月 17 日   |15.0.4797.1003   |此版本修复了可能会在滚动窗口或复制和粘贴文本时导致 Office 应用（例如 Word、Excel 或 Outlook）冻结或运行非常缓慢的问题。   |
 ||2 月 9 日   |15.0.4797.1002   |[KB 3137471](https://support.microsoft.com/kb/3137471)  |
 ||1 月 12 日   |15.0.4787.1002   |[KB 3131245](https://support.microsoft.com/kb/3131245)  |
-|2015   |12 月 8 日   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |
-||11 月 24 日   |15.0.4771.1004   |此版本修复了 一个Outlook 死机的问题。   |
+|2015 年   |12 月 8 日   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |
+||11 月 24 日   |15.0.4771.1004   |此版本修复了 Outlook 崩溃问题。   |
 ||11 月 10 日   |15.0.4771.1003   |[KB 3108456](https://support.microsoft.com/kb/3108456)  |
 ||10 月 13 日   |15.0.4763.1003   |[KB 3099951](https://support.microsoft.com/kb/3099951)  |
 ||9 月 8 日   |15.0.4753.1003   |[KB 3092181](https://support.microsoft.com/kb/3092181)  |
@@ -95,7 +96,7 @@ ms.locfileid: "25456706"
 ||4 月 14 日   |15.0.4711.1003   |[KB 3050766](https://support.microsoft.com/kb/3050766)  |
 ||3 月 10 日   |15.0.4701.1002   |[KB 3040794](https://support.microsoft.com/kb/3040794)  |
 ||2 月 10 日   |15.0.4693.1002   |[KB 3032763](https://support.microsoft.com/kb/3032763)  |
-|2014   |12 月 9 日   |15.0.4675.1002   |[KB 3020812](https://support.microsoft.com/kb/3020812)  |
+|2014 年   |12 月 9 日   |15.0.4675.1002   |[KB 3020812](https://support.microsoft.com/kb/3020812)  |
 ||11 月 11 日   |15.0.4667.1002   |[KB 3012392](https://support.microsoft.com/kb/3012392)  |
 ||10 月 14 日   |15.0.4659.1001   |[KB 3003800](https://support.microsoft.com/kb/3003800)  |
 ||9 月 16 日   |15.0.4649.1003   |[KB 2889931](https://support.microsoft.com/kb/2889931)  |
@@ -110,7 +111,7 @@ ms.locfileid: "25456706"
 ||3 月 11 日   |15.0.4569.1508   |[KB 2937335](https://support.microsoft.com/kb/2937335)  |
 ||2 月 25 日   |15.0.4569.1507   |[KB 2817430](https://support.microsoft.com/kb/2817430) (Service Pack 1)   |
 ||1 月 14 日   |15.0.4551.1512   |[KB 2923177](https://support.microsoft.com/kb/2923177)  |
-|2013   |12 月 10 日   |15.0.4551.1011   |[KB 2916204](https://support.microsoft.com/kb/2916204)  |
+|2013 年   |12 月 10 日   |15.0.4551.1011   |[KB 2916204](https://support.microsoft.com/kb/2916204)  |
 ||11 月 12 日   |15.0.4551.1005   |[KB 2908105](https://support.microsoft.com/kb/2908105)  |
 ||10 月 8 日   |15.0.4535.1511   |[KB 2892139](https://support.microsoft.com/kb/2892139)  |
 ||9 月 10 日   |15.0.4535.1004   |[KB 2884129](https://support.microsoft.com/kb/2884129)  |

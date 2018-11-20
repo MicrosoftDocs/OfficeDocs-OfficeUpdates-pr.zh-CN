@@ -3,7 +3,7 @@ title: SharePoint 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在一个位置集中查找和管理 SharePoint Server 2016、SharePoint 2013 和 SharePoint 2010 更新。单击此页面上的链接可以获取这些更新的详细信息，并下载它们。
-ms.openlocfilehash: a6d0d8e5b547668b0c711814106070de69fb9400
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.openlocfilehash: da04ad6480cd0ec469c437d2f4aae34930b7e735
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024606"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296662"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -29,10 +29,16 @@ ms.locfileid: "26024606"
 
 <a name="BKMK_2016"> </a>
   
+## <a name="sharepoint-2019-update-history"></a>SharePoint 2019 更新历史记录
+
+|**包名称**|**KB 编号**|**发布日期**|
+|:-----|:-----|:-----|
+|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/zh-CN/help/4461513)  <br/> |2018 年 11 月  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>SharePoint 2016 更新历史记录
 
 |**包名称**|**KB 编号**|**发布日期**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/zh-CN/help/4461501) <br/>  |2018 年 11 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4461447](https://support.microsoft.com/zh-CN/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/zh-CN/help/4092463) <br/> |2018 年 10 月  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/zh-CN/help/4092459) <br/>  |2018 年 9 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4032256](https://support.microsoft.com/zh-CN/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/zh-CN/help/4022231) <br/> |2018 年 8 月  <br/> |
@@ -79,6 +85,7 @@ ms.locfileid: "26024606"
     
 |**包名称**|**KB 编号**|**发布日期**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/zh-CN/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/zh-CN/help/4461510) <br/> |2018 年 11 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/zh-CN/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/zh-CN/help/4461458) <br/> |2018 年 10 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/zh-CN/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/zh-CN/help/4092476) <br/> |2018 年 9 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/zh-CN/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/zh-CN/help/4032247) <br/> |2018 年 8 月  <br/> |
@@ -140,6 +147,7 @@ ms.locfileid: "26024606"
 
 |**包名称**|**KB 编号**|**发布日期**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4011713](https://support.microsoft.com/help/4011713) <br/> [KB 4461528](https://support.microsoft.com/help/4461528) <br/> |2018 年 11 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/zh-CN/help/4461464) <br/> |2018 年 10 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/zh-CN/help/4227169) <br/> |2018 年 9 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/zh-CN/help/4032221) <br/> |2018 年 8 月  <br/> |
