@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526387"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706646"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -25,6 +25,28 @@ ms.locfileid: "26526387"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1811-november-27"></a>版本 1811：11 月 27 日
+*版本 1811（内部版本 11029.20079）* 
+
+### <a name="access-feature-updates"></a>Access：功能更新
+
+- **将其涂成黑色，将其涂成灰色：** 根据需要随时更改 Access 的外观。四种主题可供选择：彩色、深灰色、黑色和白色。[了解详细信息](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。[了解详细信息](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Outlook 异步移动邮件：** 以异步方式执行移动邮件，以提高 Outlook 用户的工作效率。
+- **已优化重点收件箱打开和关闭体验：** 未读电子邮件显示在所有文件夹上，而不仅仅在关闭重点收件箱时显示在收件箱中。按添加的标记状态排序。通过搜索更好地与重点收件箱进行互动：重点收件箱一直保持到搜索开始为止。搜索完成后显示“结果”文本。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **请参阅打印的讲义上的幻灯片编号：** 将幻灯片编号添加到讲义的打印副本中。[了解详细信息](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **通过“信息位置”中新公开的按钮共享和上载文档：** 以前只能在文档保存路径下访问“共享”、“将路径复制到剪贴板”和“打开文件位置”按钮。现在可以在“信息位置”中清楚地看到这些按钮！像往常一样导航到“文件”>“信息”即可看到这些按钮。
+
 
 ## <a name="version-1810-november-13"></a>版本 1810：11 月 13 日
 *版本 1810（内部版本 11001.20108）* 
