@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 11/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
+ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706646"
+ms.lasthandoff: 11/29/2018
+ms.locfileid: "26987092"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -37,7 +37,8 @@ ms.locfileid: "26706646"
 
 - **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。[了解详细信息](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
 - **Outlook 异步移动邮件：** 以异步方式执行移动邮件，以提高 Outlook 用户的工作效率。
-- **已优化重点收件箱打开和关闭体验：** 未读电子邮件显示在所有文件夹上，而不仅仅在关闭重点收件箱时显示在收件箱中。按添加的标记状态排序。通过搜索更好地与重点收件箱进行互动：重点收件箱一直保持到搜索开始为止。搜索完成后显示“结果”文本。
+- **在 Outlook 中查看联系人的领英详细信息：** 现在，可以在打开联系人的个人资料卡片时，通过查看他们的领英个人资料来详细了解他们。
+- **优化了重点收件箱的启用和禁用体验：** 对于不使用重点收件箱的客户，我们跨所有文件夹恢复了邮件列表中的“未读”选项卡。此外，我们还添加了按标志排序功能，以简化已标志项的查找过程。最后，重点收件箱改进了搜索交互模型：重点收件箱一直保留到用户开始搜索，我们在搜索完成后显示“结果”文本。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
