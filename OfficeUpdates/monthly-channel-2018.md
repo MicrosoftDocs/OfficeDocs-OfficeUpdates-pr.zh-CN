@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/29/2018
+ms.date: 12/04/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
+ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26987092"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "27154820"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -25,6 +25,7 @@ ms.locfileid: "26987092"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1811-november-27"></a>版本 1811：11 月 27 日
 *版本 1811（内部版本 11029.20079）* 
@@ -39,6 +40,7 @@ ms.locfileid: "26987092"
 - **Outlook 异步移动邮件：** 以异步方式执行移动邮件，以提高 Outlook 用户的工作效率。
 - **在 Outlook 中查看联系人的领英详细信息：** 现在，可以在打开联系人的个人资料卡片时，通过查看他们的领英个人资料来详细了解他们。
 - **优化了重点收件箱的启用和禁用体验：** 对于不使用重点收件箱的客户，我们跨所有文件夹恢复了邮件列表中的“未读”选项卡。此外，我们还添加了按标志排序功能，以简化已标志项的查找过程。最后，重点收件箱改进了搜索交互模型：重点收件箱一直保留到用户开始搜索，我们在搜索完成后显示“结果”文本。
+- **默认阻止下载 SMIME 加密和签名的电子邮件中的外部内容：** 鉴于 SMIME 协议中的漏洞，Outlook 将阻止下载由 SMIME 加密或签名的邮件上的外部内容。用户将无法通过 Outlook UI 单击下载外部内容，以防止受到安全漏洞的危害。“选项”对话框提供了一个新选项，用户可使用它还原至旧行为。 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
