@@ -3,19 +3,19 @@ title: Office 2016 产品的最新的.msp 文件的列表
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 12/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: IT 专业人员提供的最新的.msp 文件的永久版本的 Office 2016 使用 Windows Installer (MSI) 的列表
-ms.openlocfilehash: 47b4c9bcd20b9cb3f4d47ffdfa2ed9dfc77d382d
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: 004c21ad9cdd6ba8da87547b349786b454dc15d5
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296632"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241393"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 产品的最新的.msp 文件的列表
 
@@ -25,20 +25,16 @@ ms.locfileid: "26296632"
   
 ## <a name="most-recently-updated-msp-files"></a>最近更新的.msp 文件
 
-下表列出了已在**年 11 月 2018年**中更新的.msp 文件。
+下表列出了已在**年 12 月 2018年**中更新的.msp 文件。
   
-|**与安全无关的更新**|**安全更新**|
+|非安全更新 ***|安全更新 ***|
 |:-----|:-----|
-|lip-*呼叫-cc* <sup>1</sup> <br/>       |excel-x-无  <br/> |
-|mso-x-无<br/>          |图-x-无  <br/> |
-|msodll30-x-无<br/>          |lync-x-无 |      
-|msodll99l-x-无  <br/>   |outlook-x-无|
-|powerpoint-x-无  <br/>     |project-x-无|
-|visio-x-无  <br/>  |word-x-无 |
+|lync-x-无  <br/> |excel-x-无  <br/> |
+|project-x-无  <br/> |outlook-x-无  <br/> |
+|  <br/> |powerpoint-x-无  <br/> |
 
+<br/>
 
-
-  
 ## <a name="list-of-all-msp-files"></a>所有.msp 文件的列表
 
 下表列出了自 Office 2016 年 9 月 2015年中发布以来已发布的所有.msp 文件。
@@ -54,7 +50,7 @@ ms.locfileid: "26296632"
 |csisyncclient-x-无  <br/> |Office 2016  <br/> |2016 年 10 月 4 日  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |dcf-x-无  <br/> |Office 2016  <br/> |2018 年 9 月 4 日  <br/> |[3114853](https://support.microsoft.com/help/3114853) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |eqnedt32-x-无  <br/> |Office 2016  <br/> |不适用  <br/> |不适用  <br/> |2018 年 1 月 9 日  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|excel-x-无  <br/> |Excel 2016  <br/> |2018 年 7 月 3 日  <br/> |[4022229](https://support.microsoft.com/help/4022229) <br/> |2018 年 11 月 13 日  <br/> |[4461503](https://support.microsoft.com/en-us/help/4461503) <br/> |[4461448](https://support.microsoft.com/en-us/help/4461448) <br/> |
+|excel-x-无  <br/> |Excel 2016  <br/> |2018 年 7 月 3 日  <br/> |[4022229](https://support.microsoft.com/help/4022229) <br/> |2018 年 12 月 11 日  <br/> |[4461542](https://support.microsoft.com/en-us/help/4461542) <br/> |[4461503](https://support.microsoft.com/en-us/help/4461503) <br/> |
 |excelpp-x-无  <br/> |Office 2016  <br/> |2017 年 12 月 5 日  <br/> |[4011218](https://support.microsoft.com/help/4011218) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |exppdf-x-无  <br/> |Office 2016  <br/> |2016 年 4 月 5 日  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |filterpack-x-无  <br/> |Office 2016  <br/> |2015 年 12 月 8 日  <br/> |[2920684](https://support.microsoft.com/help/2920684) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
@@ -65,7 +61,7 @@ ms.locfileid: "26296632"
 |ieawsdc-x-无  <br/> |Office 2016  <br/> |2015 年 10 月 13 日  <br/> |[3085538](https://support.microsoft.com/help/3085538) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |kohhc-x-无  <br/> |Office 2016  <br/> |2017 年 6 月 6 日  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |lip-*呼叫-cc* <sup>1</sup> <br/> |Office 2016 语言界面包  <br/> |2018 年 11 月 6 日  <br/> |[4461475](https://support.microsoft.com/en-us/help/4461475) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|lync-x-无  <br/> |Skype for Business 2016  <br/> |2018 年 10 月 2 日  <br/> |[4092445](https://support.microsoft.com/en-us/help/4092445) <br/> |2018 年 11 月 13 日  <br/> |[4461473](https://support.microsoft.com/help/4461473) <br/> |[4022221](https://support.microsoft.com/help/4022221)  <br/> |
+|lync-x-无  <br/> |Skype for Business 2016  <br/> |2018 年 12 月 11 日  <br/> |[4461545](https://support.microsoft.com/en-us/help/4461545) <br/> |2018 年 11 月 13 日  <br/> |[4461473](https://support.microsoft.com/help/4461473) <br/> |[4022221](https://support.microsoft.com/help/4022221)  <br/> |
 |mscomctlocx-x-无  <br/> |Office 2016  <br/> |不适用  <br/> |不适用  <br/> |2016 年 1 月 12 日  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |无  <br/> |
 |msmipc-x-无  <br/> |Office 2016  <br/> |2017 年 4 月 4 日  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |mso-x-无  <br/> |Office 2016  <br/> |2018 年 11 月 6 日  <br/> |[4461505](https://support.microsoft.com/en-us/help/4461505) <br/> |2018 年 10 月 9 日  <br/> |[4461437](https://support.microsoft.com/en-us/help/4461437) <br/> |[4032233](https://support.microsoft.com/en-us/help/4032233) <br/> |
@@ -86,11 +82,11 @@ ms.locfileid: "26296632"
 |otkruntimertl-x-无  <br/> |Office 2016  <br/> |不适用  <br/> |不适用  <br/> |2016 年 3 月 8 日  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |无  <br/> |
 |outexum-x-无  <br/> |Office 2016  <br/> |2018 年 7 月 3 日  <br/> |[3191864](https://support.microsoft.com/help/3191864) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |outlfltr-x-无  <br/> |Office 2016  <br/> |2016 年 8 月 2日，  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|outlook-x-无  <br/> |Outlook 2016  <br/> |2018 年 9 月 4 日  <br/> |[4092462](https://support.microsoft.com/en-us/help/4092462) <br/> |2018 年 11 月 13 日  <br/> |[4461506](https://support.microsoft.com/help/4461506) <br/> |[4461440](https://support.microsoft.com/help/4461440) <br/> |
+|outlook-x-无  <br/> |Outlook 2016  <br/> |2018 年 9 月 4 日  <br/> |[4092462](https://support.microsoft.com/en-us/help/4092462) <br/> |2018 年 12 月 11 日  <br/> |[4461544](https://support.microsoft.com/help/4461544) <br/> |[4461506](https://support.microsoft.com/help/4461506) <br/> |
 |policytips-x-无  <br/> |Office 2016  <br/> |2016 年 6 月 7 日  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|powerpoint-x-无  <br/> |PowerPoint 2016  <br/> |2018 年 11 月 6 日  <br/> |[4461502](https://support.microsoft.com/en-us/help/4461502) <br/> |2018 年 10 月 9 日  <br/> |[4461434](https://support.microsoft.com/help/4461434) <br/> |[4011041](https://support.microsoft.com/en-us/help/4011041) <br/> |
+|powerpoint-x-无  <br/> |PowerPoint 2016  <br/> |2018 年 11 月 6 日  <br/> |[4461502](https://support.microsoft.com/en-us/help/4461502) <br/> |2018 年 12 月 11 日  <br/> |[4461532](https://support.microsoft.com/help/4461532) <br/> |[4461434](https://support.microsoft.com/en-us/help/4461434) <br/> |
 |ppaddin-x-无  <br/> |Office 2016  <br/> |2017 年 12 月 5 日  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|project-x-无  <br/> |Project 2016  <br/> |2018 年 10 月 2 日  <br/> |[4461443](https://support.microsoft.com/en-us/help/4461443) <br/> |2018 年 11 月 13 日  <br/> |[4461478](https://support.microsoft.com/help/4461478) <br/> |[2920698](https://support.microsoft.com/help/2920698)  <br/> |
+|project-x-无  <br/> |Project 2016  <br/> |2018 年 12 月 11 日  <br/> |[4461540](https://support.microsoft.com/en-us/help/4461540) <br/> |2018 年 11 月 13 日  <br/> |[4461478](https://support.microsoft.com/help/4461478) <br/> |[2920698](https://support.microsoft.com/help/2920698)  <br/> |
 |证明-x-无  <br/> |Office 2016  <br/> |2018 年 1 月 2 日  <br/> |[3178662](https://support.microsoft.com/help/3178662) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |protocolhandler-x-无  <br/> |Office 2016  <br/> |2016 年 2 月 9 日  <br/> |[2910954](https://support.microsoft.com/help/2910954) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |publisher-x-无  <br/> |Publisher 2016  <br/> |2017 年 8 月 1 日  <br/> |[3178696](https://support.microsoft.com/help/3178696) <br/> |2015 年 11 月 10 日  <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |无  <br/> |

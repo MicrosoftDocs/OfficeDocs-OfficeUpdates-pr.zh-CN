@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: IT 专业人员提供使用单击即点即用的永久版本的 Office 2010 的更新历史记录
-ms.openlocfilehash: b45180ca519493021d840d3fb51aaac2c179183f
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: a13085d71336e28d919e9d0097320afa6ebe67df
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296622"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241383"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 单击即点即用产品的更新历史记录
 
@@ -54,9 +54,9 @@ ms.locfileid: "26296622"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2018 |11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
-||10 月 9  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
-| |9 月 11  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
+|2018 年|11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
+||10 月 9 日  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
+| |9 月 11 日  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
 ||8 月 14 日  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
 ||7 月 10 日  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
 ||6 月 12 日  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
@@ -65,7 +65,7 @@ ms.locfileid: "26296622"
 ||3 月 13 日  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||2 月 13 日  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
 ||1 月 9 日  <br/> |14.0.7193.5000  <br/> |[KB 4058103](https://support.microsoft.com/help/4058103) <br/> |
-|2017  <br/> |12 月 12 日  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
+|2017 年  <br/> |12 月 12 日  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
 ||11 月 14 日  <br/> |14.0.7190.5001  <br/> |[KB 4051890](https://support.microsoft.com/help/4051890) <br/> |
 ||10 月 10 日  <br/> |14.0.7189.5001  <br/> |[KB 4043461](https://support.microsoft.com/help/4043461) <br/> |
 ||9 月 12 日  <br/> |14.0.7188.5002  <br/> |[KB 4040279](https://support.microsoft.com/help/4040279) <br/> |
@@ -75,7 +75,7 @@ ms.locfileid: "26296622"
 ||5 月 9 日  <br/> |14.0.7181.5002  <br/> |[KB 4020152](https://support.microsoft.com/help/4020152) <br/> |
 ||4 月 11 日  <br/> |14.0.7180.5002  <br/> |[KB 4016803](https://support.microsoft.com/help/4016803) <br/> |
 ||3 月 14 日  <br/> |14.0.7179.5002  <br/> |[KB 4013886](https://support.microsoft.com/help/4013886) <br/> |
-|2016  <br/> |12 月 13 日  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
+|2016 年  <br/> |12 月 13 日  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
 ||11 月 8 日  <br/> |14.0.7176.5000  <br/> |[KB 3200802](https://support.microsoft.com/kb/3200802) <br/> |
 ||10 月 11 日  <br/> |14.0.7174.1001  <br/> |[KB 3194160](https://support.microsoft.com/kb/3194160) <br/> |
 ||9 月 13 日  <br/> |14.0.7173.1001  <br/> |[KB 3188548](https://support.microsoft.com/kb/3188548) <br/> |
@@ -87,7 +87,7 @@ ms.locfileid: "26296622"
 ||3 月 8 日  <br/> |14.0.7167.5001  <br/> |[KB 3143491](https://support.microsoft.com/kb/3143491) <br/> |
 ||2 月 9 日  <br/> |14.0.7166.5001  <br/> |[KB 3137471](https://support.microsoft.com/kb/3137471) <br/> |
 ||1 月 12 日  <br/> |14.0.7165.5002  <br/> |[KB 3131245](https://support.microsoft.com/kb/3131245) <br/> |
-|2015  <br/> |12 月 8 日  <br/> |14.0.7164.5001  <br/> |[KB 3121650](https://support.microsoft.com/kb/3121650) <br/> |
+|2015 年  <br/> |12 月 8 日  <br/> |14.0.7164.5001  <br/> |[KB 3121650](https://support.microsoft.com/kb/3121650) <br/> |
 ||11 月 10 日  <br/> |14.0.7162.5003  <br/> |[KB 3108456](https://support.microsoft.com/kb/3108456) <br/> |
 ||10 月 13 日  <br/> |14.0.7160.5000  <br/> |[KB 3099951](https://support.microsoft.com/kb/3099951) <br/> |
 ||9 月 8 日  <br/> |14.0.7157.5002  <br/> |[KB 3092181](https://support.microsoft.com/kb/3092181) <br/> |
@@ -107,7 +107,7 @@ ms.locfileid: "26296622"
 ||4 月 8 日  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||年 2 月 12  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |5 月 14 日  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |10 月 9  <br/> |14.0.6126.5003  <br/> |[Microsoft 安全公告 MS12 064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Microsoft 安全公告 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> 定义 Office 2010 更新  <br/> |
+|2012  <br/> |10 月 9 日  <br/> |14.0.6126.5003  <br/> |[Microsoft 安全公告 MS12 064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Microsoft 安全公告 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> 定义 Office 2010 更新  <br/> |
 ||3 月 13 日  <br/> |14.0.6117.5002  <br/> |定义 Office 2010 更新  <br/> |
 |2011  <br/> |12 月 13 日  <br/> |14.0.6114.5002  <br/> |[Microsoft 安全公告 MS11 089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> 更新 Outlook 2010 垃圾邮件筛选器  <br/> |
 ||4 月 12 日  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> 定义 Office 2010 更新  <br/> |
