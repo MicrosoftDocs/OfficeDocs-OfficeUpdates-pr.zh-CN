@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: 4476a4fba6d423eba0f40f7c98ec8c1fa65bf3c6
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 8ba613b04a8a91d438891cbcda75216cd4715456
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26999446"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241253"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
@@ -24,6 +24,25 @@ ms.locfileid: "26999446"
 > [!NOTE]
 > - 下面还介绍了 Visio Pro for Office 365 和 Project Online 桌面客户端的安全更新程序。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+## <a name="december-11-2018"></a>2018 年 12 月 11 日
+每月频道：版本 1811（内部版本 11029.20108）  
+半年频道：版本 1803（内部版本 9126.2336）  
+半年频道（定向）：版本 1808（内部版本 10730.20262）  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)
 
 ## <a name="november-13-2018"></a>2018 年 11 月 13 日
 每月频道：版本 1810（生成号 11001.20108）  
