@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 60a0e8914a33ff22c72d81633018e5fd41b4aa82
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 751079b24cfe9ac537ad2dc61f4c79ee637e5a1a
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706626"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241423"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -31,10 +31,10 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
  
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1811  <br/> |11029.20079<br/> | 2018 年 11 月 27 日  <br/> |版本 1812 已发布 <br/>|
-|半年（定向）  <br/> |1808  <br/> |10730.20205 <br/> | 2018 年 11 月 13 日  <br/> | 2019 年 3 月 12 日 <br/>|
-|半年 <br/> |1803  <br/> | 9126.2315<br/> | 2018 年 11 月 13 日  <br/> |  2019 年 9 月 10 日 <br/>|
-|半年 <br/> |1708  <br/> | 8431.2329  <br/> | 2018 年 11 月 13 日  <br/> |  2019 年 3 月 12 日 <br/>|
+|每月  <br/> |1811  <br/> |11029.20108<br/> | 2018 年 12 月 11 日  <br/> |版本 1812 已发布 <br/>|
+|半年（定向）  <br/> |1808  <br/> |10730.20262 <br/> | 2018 年 12 月 11 日  <br/> | 2019 年 3 月 12 日 <br/>|
+|半年 <br/> |1803  <br/> | 9126.2336<br/> | 2018 年 12 月 11 日 <br/> |  2019 年 9 月 10 日 <br/>|
+|半年 <br/> |1708  <br/> | 8431.2351  <br/> | 2018 年 12 月 11 日 <br/> |  2019 年 3 月 12 日 <br/>|
 
 有关从先前版本的 Office 365 专业增强版更新到最新版本时的大致下载大小的信息，请参阅 [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)。
 
@@ -44,6 +44,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**年份**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2018 年|12 月 11 日 |[版本 1811（内部版本 11029.20108）](monthly-channel-2018.md#version-1811-december-11)|[版本 1808（内部版本 10730.20262）](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[版本 1803（内部版本 9126.2336）](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [版本 1708（内部版本 8431.2351）](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018 年|11 月 27 日   |[版本 1811（内部版本 11029.20079）](monthly-channel-2018.md#version-1811-november-27)| | |
 |2018 年|11 月 13 日 |[版本 1810（内部版本 11001.20108）](monthly-channel-2018.md#version-1810-november-13)|[版本 1808（内部版本 10730.20205）](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[版本 1803（内部版本 9126.2315）](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [版本 1708（内部版本 8431.2329）](semi-annual-channel-2018.md#version-1708-november-13)   |
 |2018 年|10 月 29 日 |[版本 1810（内部版本 11001.20074）](monthly-channel-2018.md#version-1810-october-29)| | |

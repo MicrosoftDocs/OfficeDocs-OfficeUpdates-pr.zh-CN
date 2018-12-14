@@ -3,19 +3,19 @@ title: Office for Mac 的更新历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/19/2018
+ms.date: 12/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: 6ff1db0780b912056e9eb31818d3f05848207fca
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: c83e0965a99bd55ee48ef01ffda556648071fa19
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618412"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241373"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
 
@@ -26,7 +26,7 @@ ms.locfileid: "26618412"
 
 |**当前版本**|**发布日期**|**下载链接**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-16.19 (18110915)  <br/> |2018 年 11 月 13 日  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[发行说明](release-notes-office-for-mac.md#november-2018-release) <br/> |
+16.20 (18120801)  <br/> |2018 年 12 月 11 日  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[发行说明](release-notes-office-for-mac.md#december-2018-release) <br/> |
   
 > [!NOTE]
 > - 出于安全考虑，Microsoft 已停用 SHA-1。[了解详细信息](https://docs.microsoft.com/zh-CN/security-updates/SecurityAdvisories/2017/4010323)
@@ -37,17 +37,16 @@ ms.locfileid: "26618412"
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Office for Mac 的最新程序包
 
-
 下表列出了 Office for Mac 和各个应用程序（如 Word 和 Excel）的最新程序包。所有程序包仅提供 64 位版本。创建日期在版本号后以 YYMMDD 格式在括号中列出。如果尚未安装该应用程序，则使用安装包，而更新包用于更新现有安装。
   
 |**应用程序**|**版本**|**下载链接**|**安装包的 SHA-256 哈希**|
 |:-----|:-----|:-----|:-----|
-|Office 套件（所有应用程序）  <br/> |16.19.0 (18110915)  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |15E2E11412CD606091DA03921060248D51B7D39FA30EEA81430D536298440B3F <br/> |
-|Word  <br/> |16.19.0 (18110915)  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg) <br/> |D25069971D782074373E23C1974DE4BF0FC29BBF974711D7A57EC358F5C812A7 <br/> |
-|Excel  <br/> |16.19.0 (18110915)   <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/> |32508976C9D0250A72F1A8094B3A63D336467B7F237B965E745A06EBC1D560DB  <br/> |
-|PowerPoint  <br/> |16.19.0 (18110915)    <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.19.18110915_Updater.pkg) <br/> |148C4C17C35BD788481A62CF29E21CA0BEA277B7942EAE301DBE13571C49E01F <br/> |
-|Outlook  <br/> |16.19.0 (18110915)   <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.19.18110915_Updater.pkg) <br/> |F94B0C238B0E8C30E381EFBBA3F6CC5208473FC09F86C9E5ACDDFDB3279CE58D  <br/> |
-|OneNote  <br/> |16.19.0 (18110915)    <br/> |[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.19.18110915_Updater.pkg) <br/> |不适用  <br/> |
+|Office 套件（所有应用程序）  <br/> |16.20.0 (18120801)  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |182C7F59C4D8D0F55F944979AE9B2E85BBB1269B4E1A542BFF1BD9BD79A6C235 <br/> |
+|Word  <br/> |16.20.0 (18120801)   <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/> |23A62FCCB9C834DA37233EF9AF9E037D496F0F7D11CF060432E0C914219C9AAF <br/> |
+|Excel  <br/> |16.20.0 (18120801)   <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.20.18120801_Updater.pkg) <br/> |3B95883B8739F47F6FBEDA9DFE15FEF12BA63CACF94A244E207AF34EF10856D4  <br/> |
+|PowerPoint  <br/> |16.20.0 (18120801)    <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/> |75A9A05648FB4449582ACF4FF774BED65C61F304B8962734F5F27C297BFE2492 <br/> |
+|Outlook  <br/> |16.20.0 (18120801)   <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/> |3D3DBCC8D036C7BF74862A6B1133F49711672A309458787C99DC87921210A5A5  <br/> |
+|OneNote  <br/> |16.20.0 (18120801)    <br/> |[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_20.18120801_Updater.pkg) <br/> |不适用  <br/> |
    
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft 提供的适用于其他 Mac 程序的最新程序包
@@ -56,7 +55,7 @@ ms.locfileid: "26618412"
   
 |**程序**|**版本**|**程序包**|**详细信息**|**SHA-1/ SHA-256 哈希**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft 自动更新 (MAU)  <br/> |4.5 (18110402)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   此更新包是 64 位版本。 <br/><br/>[MAU 的版本历史记录](release-history-microsoft-autoupdate.md)<br/> |86F07C38AE324691671FDF55217D2339D16DC04FDE833EB847D99A9056D4D409  <br/>|
+|Microsoft 自动更新 (MAU)  <br/> |4.6 (18120801)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   此更新包是 64 位版本。 <br/><br/>[MAU 的版本历史记录](release-history-microsoft-autoupdate.md)<br/> |5FB669DB651237FEC165E45BE4E82F3A82F969042B06DB6FA00A10B79B1BEDE6 <br/>|
 |Skype for Business  <br/> |16.23.0.64 <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版已于 2018 年 11 月 14 日发布。 <br/><br/>[最新更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 2030D149B52E37D338CAE99437219FFB7D148B4C0F85A2131A8974C5A3949F78 <br/> |
 |远程桌面 | 10.2.2 (1291)  | [下载](https://go.microsoft.com/fwlink/?linkid=868963) | 此安装包是 64 位版本。 <br/> <br/>[新增功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
 |Intune 公司门户 |1.5 (52.1805002.000) [180509] | [下载](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune 新增功能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
@@ -72,11 +71,12 @@ ms.locfileid: "26618412"
   
 |**发布日期**|**版本**|**详细信息**|**安装包**|**更新包**|
 |:-----|:-----|:-----|:-----|:-----|
+2018 年 12 月 11 日  <br/> |16.20 (18120801)  <br/> |[发行说明](release-notes-office-for-mac.md#december-2018-release) <br/> |[Office 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.20.18120801_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.20.18120801_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.20.18120801_Updater.pkg) <br/>
 |2018 年 11 月 13 日  <br/> |16.19 (18110915)  <br/> |[发行说明](release-notes-office-for-mac.md#november-2018-release) <br/> |[Office 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.19.18110915_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.19.18110915_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.19.18110915_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.19.18110915_Updater.pkg) <br/> |
 |2018 年 10 月 16 日  <br/> |16.18 (18101400)  <br/> |[发行说明](release-notes-office-for-mac.md#october-2018-release) <br/> |[Office 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.18.18101400_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |
 |2018 年 9 月 11 日  <br/> |16.17 (18090901)  <br/> |[发行说明](release-notes-office-for-mac.md#september-2018-release) <br/> |[Office 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.17.18090901_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |
-|2018 年 8 月 14 日  <br/> |16.16 (18081201)  <br/> |[发行说明](release-notes-office-for-mac.md#august-2018-release) <br/> |[Office 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.16.18081201_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18081201_Updater.pkg) <br/> |
-|2018 年 7 月 10 日  <br/> |16.15 (18070902)  <br/> |[发行说明](release-notes-office-for-mac.md#july-2018-release) <br/> |[Office 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.15.18070902_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.15.18070902_Updater.pkg) <br/> |
+|2018 年 8 月 14 日  <br/> |16.16 (18081201)  <br/> |[发行说明](release-notes-office-for-mac.md#august-2018-release) <br/> |[Office 套件]
+|2018 年 7 月 10 日  <br/> |16.15 (18070902)  <br/> |[发行说明](release-notes-office-for-mac.md#july-2018-release) <br/> |[Office 套件]
 |2018 年 6 月 13 日  <br/> |16.14.1 (18061302)  <br/> |[发行说明](release-notes-office-for-mac.md#june-2018-release) <br/> |||
 |2018 年 6 月 12 日  <br/> |16.14.0 (18061000)  <br/> |[发行说明](release-notes-office-for-mac.md#june-2018-release) <br/> |||
 |2018 年 5 月 24 日  <br/> |16.13.1 (18052304)  <br/> |[发行说明](release-notes-office-for-mac.md#may-2018-release) <br/> |||
@@ -132,5 +132,3 @@ ms.locfileid: "26618412"
 |2015 年 7 月 28 日  <br/> |15.12.3 (150724)  <br/> |[KB 3074482](https://support.microsoft.com/kb/3074482) <br/> |||
 |2015 年 7 月 9 日  <br/> |15.11.2 (150701)  <br/> |[KB 3074479](https://support.microsoft.com/kb/3074479) <br/>|||
    
-
-

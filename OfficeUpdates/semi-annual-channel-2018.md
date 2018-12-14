@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 8018fdf91a14b24f725f19a80298f951a14be7c0
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526427"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241493"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>有关 2018 年半年频道发行的发行说明
 
@@ -25,6 +25,62 @@ ms.locfileid: "26526427"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 在 2018 年 1 月前，半年频道被命名为延期频道。
+
+> [!NOTE]
+> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+
+## <a name="version-1803-december-11"></a>版本 1803：12 月 11 日
+*版本 1803（内部版本 9126.2336）*
+
+### <a name="excel-security-updates"></a>Excel：安全更新 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)：Microsoft Excel 远程代码执行漏洞 
+
+### <a name="outlook-security-updates"></a>Outlook：安全更新 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)：Microsoft Outlook 远程代码执行漏洞 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 远程代码执行漏洞 
+
+
+### <a name="outlook-non-secirity-updates"></a>Outlook：非安全更新
+
+- 修复了导致 Outlook 在更新某些联系人字段时意外关闭的问题。
+- 解决了导致用户在启动“管理规则和警报”对话框时看到错误消息的问题。
+- 解决了导致 Outlook 用户在运行某些外接程序时发生崩溃的问题。
+
+
+## <a name="version-1708-december-11"></a>版本 1708：12 月 11 日
+*版本 1708（内部版本 8431.2351）*
+
+*这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新程序。不过，新版半年频道（即版本 1803，内部版本 16.0.9126.2336）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
+
+### <a name="excel-security-updates"></a>Excel：安全更新 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)：Microsoft Excel 远程代码执行漏洞 
+
+### <a name="outlook-security-updates"></a>Outlook：安全更新 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)：Microsoft Outlook 远程代码执行漏洞 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 远程代码执行漏洞 
+
+### <a name="outlook-non-secirity-updates"></a>Outlook：非安全更新
+
+- 修复了导致 Outlook 在更新某些联系人字段时意外关闭的问题。
+- 解决了导致用户在启动“管理规则和警报”对话框时看到错误消息的问题。
+- 解决了导致 Outlook 用户在运行某些外接程序时发生崩溃的问题。
+
 
 ## <a name="version-1803-november-13"></a>版本 1803：11 月 13 日
 *版本 1803（内部版本 9126.2315）*
