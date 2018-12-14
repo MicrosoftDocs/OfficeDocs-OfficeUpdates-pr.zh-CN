@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/19/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618432"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241513"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>有关 2018 年半年频道（定向）发行的发行说明
 
@@ -24,6 +24,55 @@ ms.locfileid: "26618432"
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+
+ 
+> [!NOTE]
+> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+
+## <a name="version-1808-december-11"></a>版本 1808：12 月 11 日
+*版本 1808（内部版本 10730.20262）*
+
+### <a name="excel-security-updates"></a>Excel：安全更新 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)：Microsoft Excel 远程代码执行漏洞 
+
+### <a name="outlook-security-updates"></a>Outlook：安全更新 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)：Microsoft Outlook 远程代码执行漏洞 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 远程代码执行漏洞 
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新 
+
+- 修复了以下问题：在合著会话中，当其他用户对切片器中的数据应用列筛选之后，切片器无法正确更新。
+- 修复了以下问题：在合著会话中，如果其中一个用户清除了某个切片器的标题，则会导致合著会话中的其他用户遇到 Excel 崩溃的情况。
+- 修复了以下问题：将创建的多个表切片器绑定到同一数据列，然后再删除该数据列时，可能会出现崩溃。
+- 修复了以下问题：自动调整列宽选项关闭时，如果刷新单元格中包含换行文本的已筛选查询表，Excel 有时会发生崩溃。
+- 修复了以下问题：当切片器中显示的项数改变时，如果在更高版本的 Excel 中打开在 Excel 2007 中保存的切片器，将会触发崩溃。
+- 修复了导致用户在打开“对话历史记录”文件夹时发生挂机的问题。
+- 引入了对“获取诊断”按钮的支持，以简化对支持请求的调查。
+
+### <a name="outlook-non-secirity-updates"></a>Outlook：非安全更新
+
+- 修复了导致用户在启动“管理规则和警报”对话框时看到错误消息的问题。
+- 修复了导致用户在使用按流量计费的连接时无法通过 DirectAccess 连接到其邮箱的问题。
+- 修复了导致用户看到“公用文件夹”中保存的免费文本在“受保护的视图”中错误打开的问题。
+- 修复了导致用户在转发带有内嵌附件的项目时意外看到附件的问题。
+- 修复了导致 OFT 文件在作为附件发送之后呈现效果欠佳的问题。
+- 修复了导致部分使用加载项的用户在向共享日历添加会议时发生崩溃的问题。
+
+### <a name="project-non-security-updates"></a>Project：非安全更新
+
+- 修复了与 Project 中新增委内瑞拉货币支持相关的问题。
+- 修复了以下问题：使用连接到外部监视器的 Surface 4 时，Project 可能会挂机。
+- 修复了以下问题：将项目保存为 XML 格式时，Project 可能会发生崩溃。
+- 修复了以下问题：编辑某个资源的日历之后，企业资源自定义字段可能会被删除。
+- 修复了导致用户在搜索韩语显示名称时发生崩溃的问题。
 
 ## <a name="version-1808-november-13"></a>版本 1808：11 月 13 日
 *版本 1808（内部版本 10730.20205）*
