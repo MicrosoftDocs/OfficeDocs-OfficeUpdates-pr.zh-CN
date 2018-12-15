@@ -3,19 +3,19 @@ title: Office for Mac 的更新历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/13/2018
+ms.date: 12/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: a5458f6c5cc795c3ffaeb5505632e5364de6ab6b
-ms.sourcegitcommit: 9b6f17fd40e7565dec1a6b205de3f6f06d7aaf34
+ms.openlocfilehash: 911d7d5378d2cd1ed18ef87625c19b8e23c783ee
+ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 12/14/2018
-ms.locfileid: "27264221"
+ms.locfileid: "27279683"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
 
@@ -41,7 +41,7 @@ ms.locfileid: "27264221"
   
 |**应用程序**|**版本**|**下载链接**|**安装包的 SHA-256 哈希**|
 |:-----|:-----|:-----|:-----|
-|Office 套件（所有应用程序）  <br/> |16.20.0 (18120801)  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |182C7F59C4D8D0F55F944979AE9B2E85BBB1269B4E1A542BFF1BD9BD79A6C235 <br/> |
+|Office 套件（所有应用程序）  <br/> |16.20.0 (18120801)  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |61ED9026F803A31D442E0F6A2896328E84E0E350A264C6EA9314B68C066EB5CC <br/> |
 |Word  <br/> |16.20.0 (18120801)   <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/> |23A62FCCB9C834DA37233EF9AF9E037D496F0F7D11CF060432E0C914219C9AAF <br/> |
 |Excel  <br/> |16.20.0 (18120801)   <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.20.18120801_Updater.pkg) <br/> |3B95883B8739F47F6FBEDA9DFE15FEF12BA63CACF94A244E207AF34EF10856D4  <br/> |
 |PowerPoint  <br/> |16.20.0 (18120801)    <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/> |75A9A05648FB4449582ACF4FF774BED65C61F304B8962734F5F27C297BFE2492 <br/> |
@@ -57,7 +57,7 @@ ms.locfileid: "27264221"
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft 自动更新 (MAU)  <br/> |4.6 (18120801)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   此更新包是 64 位版本。 <br/><br/>[MAU 的版本历史记录](release-history-microsoft-autoupdate.md)<br/> |5FB669DB651237FEC165E45BE4E82F3A82F969042B06DB6FA00A10B79B1BEDE6 <br/>|
 |Skype for Business  <br/> |16.23.0.64 <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版已于 2018 年 11 月 14 日发布。 <br/><br/>[最新更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 2030D149B52E37D338CAE99437219FFB7D148B4C0F85A2131A8974C5A3949F78 <br/> |
-|远程桌面 | 10.2.4.1  | [下载](https://go.microsoft.com/fwlink/?linkid=868963) | 此安装包是 64 位版本。 <br/> <br/>[新增功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  e3e4af2c716c5d5f10354075b56149b914f8793fd6c36f153b7168872d0113d1 <br/> |
+|远程桌面 | 10.2.5  | [下载](https://go.microsoft.com/fwlink/?linkid=868963) | 此安装包是 64 位版本。 <br/> <br/>[新增功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  1933ebe38bfc3990ba5b3bd1153935868c12be7a90a487c0b1c3ae808bc40d65 <br/> |
 |Intune 公司门户 |1.5 (52.1805002.000) [180509] | [下载](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune 新增功能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |适用于 Office 2016 for Mac 的 Microsoft SharePoint 本地 Safari 浏览器插件  <br/> |15.32.0 (170309)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |此安装包是 64 位版本。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
