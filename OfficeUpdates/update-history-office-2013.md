@@ -3,26 +3,26 @@ title: Office 2013 更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 12/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2013 永久版本的更新历史记录
-ms.openlocfilehash: c9bc33cbb9fbac0fece3da84a954f99eed8a33bd
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 1115ae73e04ab24b5059323f1ffc517e318a0045
+ms.sourcegitcommit: 521ec634035dc680126a01d94c513493df7251a2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241403"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "27378532"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 更新历史记录
 
 大多数 Office 2013 产品使用名为即点即用的技术自动保持最新。如果你想验证你的产品是否为最新版本，请检查 Office 版本号并在需要时手动更新 Office。
   
 > [!NOTE]
-> Office 2013 的最新版本是 2018 年 11 月 13 日发布的 **15.0.5085.1000**。 
+> Office 2013 的最新版本为 **15.0.5093.1001**，其于 2018 年 12 月 19 日发布。 
   
 若要检查你的 Office 版本，请执行下列操作：
   
@@ -46,7 +46,8 @@ ms.locfileid: "27241403"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2018 年|11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/zh-CN/help/4469617)  |
+|2018 年|12 月 19 日   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/zh-CN/help/4477615)  |
+||11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/zh-CN/help/4469617)  |
 ||10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/zh-CN/help/4464656)  |
 | |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/zh-CN/help/4459402)  |
 ||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/zh-CN/help/4346823)  |
