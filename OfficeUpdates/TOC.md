@@ -7,6 +7,7 @@
 ### [安全更新程序](office365-proplus-security-updates.md)
 
 ### 每月频道
+#### [2019 年](monthly-channel-2019.md)
 #### [2018 年](monthly-channel-2018.md)
 #### [2017 年](monthly-channel-2017.md)
 #### [2016 年](monthly-channel-2016.md)
