@@ -51,5 +51,3 @@
 # 相关链接
 ## [Windows 10 版本](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft 生命周期策略](https://support.microsoft.com/lifecycle)
-
-
