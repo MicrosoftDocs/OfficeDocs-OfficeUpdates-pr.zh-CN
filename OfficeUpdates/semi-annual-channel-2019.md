@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: e6c20afbeb967d0fc3c559e5be7f798b51b6d7bd
-ms.sourcegitcommit: 3cabf1996522b156bf438969f8aa086f54baec7d
+ms.openlocfilehash: 6ac26aaa333a9391e72ccc75b5319bf659540801
+ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27777448"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "27801489"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -39,7 +39,7 @@ ms.locfileid: "27777448"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **协作编辑：** 与其他人同时协作处理工作簿。[了解详细信息](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **现在，默认情况下启用云文件自动保存：** 在 2018 年 9 月半年频道（定向）发布中默认启用自动保存。此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对文档作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对文档作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的工作簿更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **避免不需要的编辑：** 将工作簿设置为以只读方式打开，避免意外更改。转到“文件”>“信息”>“保护工作簿”>“始终以只读方式打开”
@@ -102,7 +102,7 @@ ms.locfileid: "27777448"
 - 修复了涉及同步和导航到已删除分区时可能出现的稳定性问题。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新 
-- **现在，默认情况下启用云文件自动保存：** 在 2018 年 9 月半年频道（定向）发布中默认启用自动保存。此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对演示文稿作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对演示文稿作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **转换墨迹：** 获取自由曲线备注和绘图，并将它们转换为可读文本和清晰形状，以创建完善的演示文稿。[了解详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -141,7 +141,7 @@ ms.locfileid: "27777448"
 - 修复了以下问题：通过主项目的上下文处理子项目时，无法保存子项目。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
-- **现在，默认情况下启用云文件自动保存：** 在 2018 年 9 月半年频道（定向）发布中默认启用自动保存。此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对演示文稿作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [详细了解 IT 管理员应知晓的自动保存内容]
+- **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对演示文稿作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的文档更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -175,8 +175,10 @@ ms.locfileid: "27777448"
 ## <a name="version-1803-january-8"></a>版本 1803：1 月 8 日
 *版本 1803（内部版本 9126.2351）*
 
-*这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1803）现已推出，其中包含新增功能、安全更新和非安全更新。*
+*这是自 2018 年 7 月起就已发布的半年频道版本。2019 年 9 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1808）现已推出，其中包含新增功能、安全更新和非安全更新。*
 
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+- 修复了确保 Office 应用程序之间 LinkedIn 选项的功能奇偶一致性的问题。
 
 
 > [!NOTE]

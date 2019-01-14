@@ -3,19 +3,19 @@ title: 有关 2018 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: f2e1c394266de2b07acaad5ae95d6d19cfc17684
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241483"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992126"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -191,11 +191,13 @@ ms.locfileid: "27241483"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 - **查看栩栩如生的幻灯片：** 插入动态 3D 图形，观看心跳、行星轨道以及在整个屏幕中横冲直撞的霸王龙。[了解详细信息](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **功能区图标具有新外观** 不用担心，一切功能和以前一样。这些图标在所有大小的屏幕上都很美观。[了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 - **通过 \@提及吸引同事的注意力** 在注释中使用 @提及，以在需要同事的意见时让他们知悉。[了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **功能区图标具有新外观** 不用担心，一切功能和以前一样。这些图标在所有大小的屏幕上都很美观。[了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **公式编辑器转换器** 用户可以使用转换器将使用 Microsoft 公式编辑器创建的公式转换为 Office Math ML 格式以启用编辑。
+- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
 *版本 1808（内部版本 10730.20102）*
