@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2019
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 6ac26aaa333a9391e72ccc75b5319bf659540801
-ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
+ms.openlocfilehash: 990e7afafea208c46e58d2e2b11dd6ec7555c7af
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "27801489"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992116"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -109,6 +109,7 @@ ms.locfileid: "27801489"
 - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **避免不需要的编辑：** 将工作簿设置为以只读方式打开，避免意外更改。转到“文件”>“信息”>“保护工作簿”>“始终以只读方式打开”
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使演示文稿更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+-  **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 - 修复了以下问题：保存包含 ActiveX 内容的文件时，文件可能损坏。
@@ -144,6 +145,7 @@ ms.locfileid: "27801489"
 - **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对演示文稿作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的文档更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 - 修复了导致出现内存不足消息的问题。
