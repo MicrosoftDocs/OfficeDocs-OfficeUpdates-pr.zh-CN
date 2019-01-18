@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 54c9b62bebb657ade63b8c72f1ce0430611dfee6
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773174"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325412"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -36,6 +36,10 @@ ms.locfileid: "27773174"
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新 
 
 - 修复了导致用户遇到日历同步错误的问题。
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+
+- 提高打开性能。
 
 
 > [!NOTE]
