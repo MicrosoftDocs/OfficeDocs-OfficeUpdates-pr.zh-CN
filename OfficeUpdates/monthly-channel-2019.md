@@ -3,19 +3,19 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27724913"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "28723125"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -29,11 +29,14 @@ ms.locfileid: "27724913"
  > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
 
+## <a name="version-1812-january-8"></a>版本 1812：1 月 8 日
+*版本 1812（内部版本 11126.20196）* 
+
+### <a name="project-non-security-updates"></a>Project：非安全更新
+- 修复了在选中甘特图后，无法取消选中甘特图的“严重”、“延迟”和“可宽延时间”栏样式的问题。
+
 ## <a name="version-1812-january-3"></a>版本 1812：1 月 3 日
 *版本 1812（内部版本 11126.20188）* 
-
-### <a name="access-feature-updates"></a>Access：功能更新
-- **使用 Microsoft Graph，更智能：** 导入或链接到智能数据并使用智能技术重新创建桌面数据库。[了解更多](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
@@ -61,3 +64,5 @@ ms.locfileid: "27724913"
 
 
 
+> [!NOTE]
+> 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。

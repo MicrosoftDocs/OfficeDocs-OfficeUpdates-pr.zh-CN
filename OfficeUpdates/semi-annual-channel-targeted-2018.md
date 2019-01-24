@@ -3,19 +3,19 @@ title: 有关 2018 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241513"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27258498"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>有关 2018 年半年频道（定向）发行的发行说明
 
@@ -54,10 +54,9 @@ ms.locfileid: "27241513"
 - 修复了以下问题：将创建的多个表切片器绑定到同一数据列，然后再删除该数据列时，可能会出现崩溃。
 - 修复了以下问题：自动调整列宽选项关闭时，如果刷新单元格中包含换行文本的已筛选查询表，Excel 有时会发生崩溃。
 - 修复了以下问题：当切片器中显示的项数改变时，如果在更高版本的 Excel 中打开在 Excel 2007 中保存的切片器，将会触发崩溃。
-- 修复了导致用户在打开“对话历史记录”文件夹时发生挂机的问题。
 - 引入了对“获取诊断”按钮的支持，以简化对支持请求的调查。
 
-### <a name="outlook-non-secirity-updates"></a>Outlook：非安全更新
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 
 - 修复了导致用户在启动“管理规则和警报”对话框时看到错误消息的问题。
 - 修复了导致用户在使用按流量计费的连接时无法通过 DirectAccess 连接到其邮箱的问题。
@@ -65,6 +64,7 @@ ms.locfileid: "27241513"
 - 修复了导致用户在转发带有内嵌附件的项目时意外看到附件的问题。
 - 修复了导致 OFT 文件在作为附件发送之后呈现效果欠佳的问题。
 - 修复了导致部分使用加载项的用户在向共享日历添加会议时发生崩溃的问题。
+- 修复了导致用户在打开“对话历史记录”文件夹时发生挂机的问题。
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
 
