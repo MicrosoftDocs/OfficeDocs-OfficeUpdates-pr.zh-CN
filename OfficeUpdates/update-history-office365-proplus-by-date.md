@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2019
+ms.date: 1/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 9bc0c8007bb551f1578eea1255a3e641e89fc510
-ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
+ms.openlocfilehash: 6011bb4e60b4c6cce214226a163281593a01e117
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "27801499"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442088"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -31,7 +31,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
  
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月一次  <br/> |1812  <br/> |11126.20196 <br/> | 2019 年 1 月 8 日 <br/> |版本 1901 已发布 <br/>|
+|每月一次  <br/> |1812  <br/> |11126.20266 <br/> | 2019 年 1 月 14 日 <br/> |版本 1901 已发布 <br/>|
 |半年（定向）  <br/> |1808  <br/> |10730.20264 <br/> |  2019 年 1 月 8 日 <br/> | 2019 年 3 月 12 日 <br/>|
 |半年 <br/> |1808  <br/> | 10730.20264<br/> | 2019 年 1 月 8 日  <br/> |  2020 年 3 月 10 日 <br/>|
 |半年 <br/> |1803  <br/> | 9126.2351  <br/> | 2019 年 1 月 8 日  <br/> |  2019 年 9 月 10 日 <br/>|
@@ -45,6 +45,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**年份**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019 年|1 月 14 日   |[版本 1812（内部版本 11126.20266）](monthly-channel-2019.md#version-1812-january-14)| | |
 |2019 年|1 月 8 日 |[版本 1812（内部版本 11126.20196）](monthly-channel-2019.md#version-1812-january-8)|[版本 1808（内部版本 10730.20264）](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[版本 1808（内部版本 10730.20264）](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [版本 1803（内部版本 9126.2351）](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [版本 1708（内部版本 8431.2366）](office365-proplus-security-updates.md#january-8-2019) |
 |2019 年|1 月 3 日   |[版本 1812（内部版本 11126.20188）](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018 年|12 月 11 日 |[版本 1811（内部版本 11029.20108）](monthly-channel-2018.md#version-1811-december-11)|[版本 1808（内部版本 10730.20262）](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[版本 1803（内部版本 9126.2336）](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [版本 1708（内部版本 8431.2351）](semi-annual-channel-2018.md#version-1708-december-11)   |
