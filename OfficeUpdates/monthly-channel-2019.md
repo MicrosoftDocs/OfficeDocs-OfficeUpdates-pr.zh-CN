@@ -3,66 +3,72 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/17/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "28723125"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442058"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2019"></a><span data-ttu-id="e2d76-103">有关 2019 年每月频道发行的发行说明</span><span class="sxs-lookup"><span data-stu-id="e2d76-103">Release notes for Monthly Channel releases in 2019</span></span>
+# <a name="release-notes-for-monthly-channel-releases-in-2019"></a><span data-ttu-id="73279-103">有关 2019 年每月频道发行的发行说明</span><span class="sxs-lookup"><span data-stu-id="73279-103">Release notes for Monthly Channel releases in 2019</span></span>
 
-<span data-ttu-id="e2d76-104">这些发行说明提供了有关 2019 年 Office 365 专业增强版每月频道更新中所包含的新功能、安全更新和非安全更新的信息。</span><span class="sxs-lookup"><span data-stu-id="e2d76-104">These release notes provide information about new features, security updates, and non-security updates that are included in Monthly Channel updates to Office 365 ProPlus in 2019.</span></span>
+<span data-ttu-id="73279-104">这些发行说明提供了有关 2019 年 Office 365 专业增强版每月频道更新中所包含的新功能、安全更新和非安全更新的信息。</span><span class="sxs-lookup"><span data-stu-id="73279-104">These release notes provide information about new features, security updates, and non-security updates that are included in Monthly Channel updates to Office 365 ProPlus in 2019.</span></span>
  
  > [!NOTE]
-> - <span data-ttu-id="e2d76-105">以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。</span><span class="sxs-lookup"><span data-stu-id="e2d76-105">The following also provides information about new features, security updates, and non-security updates for Visio Pro for Office 365 and Project Online Desktop Client.</span></span>
-> - <span data-ttu-id="e2d76-106">此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。</span><span class="sxs-lookup"><span data-stu-id="e2d76-106">This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.</span></span>
-> - <span data-ttu-id="e2d76-p101">我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)</span><span class="sxs-lookup"><span data-stu-id="e2d76-p101">We often roll out features (and sometimes even fixes) to Monthly over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually. [Learn more](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)</span></span>
+> - <span data-ttu-id="73279-105">以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。</span><span class="sxs-lookup"><span data-stu-id="73279-105">The following also provides information about new features, security updates, and non-security updates for Visio Pro for Office 365 and Project Online Desktop Client.</span></span>
+> - <span data-ttu-id="73279-106">此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。</span><span class="sxs-lookup"><span data-stu-id="73279-106">This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.</span></span>
+> - <span data-ttu-id="73279-p101">我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)</span><span class="sxs-lookup"><span data-stu-id="73279-p101">We often roll out features (and sometimes even fixes) to Monthly over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually. [Learn more](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)</span></span>
 
  > [!NOTE]
-> - <span data-ttu-id="e2d76-111">Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。</span><span class="sxs-lookup"><span data-stu-id="e2d76-111">The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md).</span></span> 
+> - <span data-ttu-id="73279-111">Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。</span><span class="sxs-lookup"><span data-stu-id="73279-111">The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md).</span></span> 
 
-## <a name="version-1812-january-8"></a><span data-ttu-id="e2d76-112">版本 1812：1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e2d76-112">Version 1812: January 3</span></span>
-<span data-ttu-id="e2d76-113">*版本 1812（内部版本 11126.20196）*</span><span class="sxs-lookup"><span data-stu-id="e2d76-113">*Version 1812 (Build 11126.20196)*</span></span> 
+## <a name="version-1812-january-14"></a><span data-ttu-id="73279-112">版本 1812：1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="73279-112">Version 1812: January 14</span></span>
+<span data-ttu-id="73279-113">*版本 1812（内部版本 11126.20266）*</span><span class="sxs-lookup"><span data-stu-id="73279-113">*Version 1812 (Build 11126.20266)*</span></span> 
 
-### <a name="project-non-security-updates"></a><span data-ttu-id="e2d76-114">Project：非安全更新</span><span class="sxs-lookup"><span data-stu-id="e2d76-114">Project: Non-security updates</span></span>
-- <span data-ttu-id="e2d76-115">修复了在选中甘特图后，无法取消选中甘特图的“严重”、“延迟”和“可宽延时间”栏样式的问题。</span><span class="sxs-lookup"><span data-stu-id="e2d76-115">Fixed an issue where you couldn't uncheck the Critical, Late and Slack bar styles for the Gantt chart after you checked one.</span></span>
-
-## <a name="version-1812-january-3"></a><span data-ttu-id="e2d76-116">版本 1812：1 月 3 日</span><span class="sxs-lookup"><span data-stu-id="e2d76-116">Version 1812: January 3</span></span>
-<span data-ttu-id="e2d76-117">*版本 1812（内部版本 11126.20188）*</span><span class="sxs-lookup"><span data-stu-id="e2d76-117">*Version 1812 (Build 11126.20188)*</span></span> 
-
-### <a name="excel-feature-updates"></a><span data-ttu-id="e2d76-118">Excel：功能更新</span><span class="sxs-lookup"><span data-stu-id="e2d76-118">Excel: Feature updates</span></span>
-
-- <span data-ttu-id="e2d76-p102">**工作时保持运行辅助功能检查器：** 在不需要始终打开辅助功能检查器的情况下跟踪文档中的辅助功能问题。通过状态栏中的指示器，就像拼写检查一样，Excel 标记你工作时发现的辅助功能问题。</span><span class="sxs-lookup"><span data-stu-id="e2d76-p102">**Keep accessibility checker running while you work:** Keep track of accessibility issues in your document without needing the accessibility checker always open. Via an indicator in the status bar, much like spellcheck, Excel flags found accessibility issues while you are working.</span></span> 
-
-### <a name="outlook-feature-updates"></a><span data-ttu-id="e2d76-121">Outlook：功能更新</span><span class="sxs-lookup"><span data-stu-id="e2d76-121">Outlook: Feature updates</span></span>
-
-- <span data-ttu-id="e2d76-p103">**所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。[了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)</span><span class="sxs-lookup"><span data-stu-id="e2d76-p103">**All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message. [Learn more](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)</span></span>
+<span data-ttu-id="73279-p102">仅限非安全更新。即将发布更多信息。</span><span class="sxs-lookup"><span data-stu-id="73279-p102">Non-security updates only. More information coming soon.</span></span>
 
 
-### <a name="powerpoint-feature-updates"></a><span data-ttu-id="e2d76-124">PowerPoint：功能更新</span><span class="sxs-lookup"><span data-stu-id="e2d76-124">PowerPoint: Feature updates</span></span>
+## <a name="version-1812-january-8"></a><span data-ttu-id="73279-116">版本 1812：1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="73279-116">Version 1812: January 8</span></span>
+<span data-ttu-id="73279-117">*版本 1812（内部版本 11126.20196）*</span><span class="sxs-lookup"><span data-stu-id="73279-117">*Version 1812 (Build 11126.20196)*</span></span> 
 
-- <span data-ttu-id="e2d76-p104">**用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。[了解更多](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)</span><span class="sxs-lookup"><span data-stu-id="e2d76-p104">**Ink a splendid slide:** Convert your ink to standard shapes and text, then get smart slide-design ideas from PowerPoint Designer. [Learn more](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)</span></span>
-- <span data-ttu-id="e2d76-p105">**工作时保持运行辅助功能检查器：** 在不需要始终打开辅助功能检查器的情况下跟踪文档中的辅助功能问题。通过状态栏中的指示器，就像拼写检查一样，PowerPoint 标记你工作时发现的辅助功能问题。</span><span class="sxs-lookup"><span data-stu-id="e2d76-p105">**Keep accessibility checker running while you work:** Keep track of accessibility issues in your document without needing the accessibility checker always open. Via an indicator in the status bar, much like spellcheck, PowerPoint flags found accessibility issues while you are working.</span></span> 
+### <a name="project-non-security-updates"></a><span data-ttu-id="73279-118">Project：非安全更新</span><span class="sxs-lookup"><span data-stu-id="73279-118">Project: Non-security updates</span></span>
+- <span data-ttu-id="73279-119">修复了在选中甘特图后，无法取消选中甘特图的“严重”、“延迟”和“可宽延时间”栏样式的问题。</span><span class="sxs-lookup"><span data-stu-id="73279-119">Fixed an issue where you couldn't uncheck the Critical, Late and Slack bar styles for the Gantt chart after you checked one.</span></span>
 
-### <a name="word-feature-updates"></a><span data-ttu-id="e2d76-129">Word：功能更新</span><span class="sxs-lookup"><span data-stu-id="e2d76-129">Word: Feature updates</span></span>
+## <a name="version-1812-january-3"></a><span data-ttu-id="73279-120">版本 1812：1 月 3 日</span><span class="sxs-lookup"><span data-stu-id="73279-120">Version 1812: January 3</span></span>
+<span data-ttu-id="73279-121">*版本 1812（内部版本 11126.20188）*</span><span class="sxs-lookup"><span data-stu-id="73279-121">*Version 1812 (Build 11126.20188)*</span></span> 
 
-- <span data-ttu-id="e2d76-p106">**使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)</span><span class="sxs-lookup"><span data-stu-id="e2d76-p106">**Improve comprehension with Line Focus:** Move through a document line by line without distractions. Adjust the focus to put one, three, or five lines in view at a time. [Learn more](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)</span></span>
-- <span data-ttu-id="e2d76-p107">**将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)</span><span class="sxs-lookup"><span data-stu-id="e2d76-p107">**Take your doc from static to stunning:** Transform your document into an interactive, easy-to-share web page that looks great on any device. [Learn more](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)</span></span>
-- <span data-ttu-id="e2d76-p108">**工作时保持运行辅助功能检查器：** 在不需要始终打开辅助功能检查器的情况下跟踪文档中的辅助功能问题。通过状态栏中的指示器，就像拼写检查一样，Word 标记你工作时发现的辅助功能问题。</span><span class="sxs-lookup"><span data-stu-id="e2d76-p108">**Keep accessibility checker running while you work:** Keep track of accessibility issues in your document without needing the accessibility checker always open. Via an indicator in the status bar, much like spellcheck, Word flags found accessibility issues while you are working.</span></span> 
+### <a name="excel-feature-updates"></a><span data-ttu-id="73279-122">Excel：功能更新</span><span class="sxs-lookup"><span data-stu-id="73279-122">Excel: Feature updates</span></span>
 
-### <a name="visio-feature-updates"></a><span data-ttu-id="e2d76-137">Visio：功能更新</span><span class="sxs-lookup"><span data-stu-id="e2d76-137">Visio: Feature updates</span></span>
+- <span data-ttu-id="73279-p103">**工作时保持运行辅助功能检查器：** 在不需要始终打开辅助功能检查器的情况下跟踪文档中的辅助功能问题。通过状态栏中的指示器，就像拼写检查一样，Excel 标记你工作时发现的辅助功能问题。</span><span class="sxs-lookup"><span data-stu-id="73279-p103">**Keep accessibility checker running while you work:** Keep track of accessibility issues in your document without needing the accessibility checker always open. Via an indicator in the status bar, much like spellcheck, Excel flags found accessibility issues while you are working.</span></span> 
 
-- <span data-ttu-id="e2d76-p109">**告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。[了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)</span><span class="sxs-lookup"><span data-stu-id="e2d76-p109">**Say goodbye to broken Excel links:** Can't find the Excel workbook linked to your Data Visualizer diagram? Relink it, and you're back in business. [Learn more](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)</span></span>
+### <a name="outlook-feature-updates"></a><span data-ttu-id="73279-125">Outlook：功能更新</span><span class="sxs-lookup"><span data-stu-id="73279-125">Outlook: Feature updates</span></span>
+
+- <span data-ttu-id="73279-p104">**所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。[了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)</span><span class="sxs-lookup"><span data-stu-id="73279-p104">**All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message. [Learn more](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)</span></span>
+
+
+### <a name="powerpoint-feature-updates"></a><span data-ttu-id="73279-128">PowerPoint：功能更新</span><span class="sxs-lookup"><span data-stu-id="73279-128">PowerPoint: Feature updates</span></span>
+
+- <span data-ttu-id="73279-p105">**用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。[了解更多](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)</span><span class="sxs-lookup"><span data-stu-id="73279-p105">**Ink a splendid slide:** Convert your ink to standard shapes and text, then get smart slide-design ideas from PowerPoint Designer. [Learn more](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)</span></span>
+- <span data-ttu-id="73279-p106">**工作时保持运行辅助功能检查器：** 在不需要始终打开辅助功能检查器的情况下跟踪文档中的辅助功能问题。通过状态栏中的指示器，就像拼写检查一样，PowerPoint 标记你工作时发现的辅助功能问题。</span><span class="sxs-lookup"><span data-stu-id="73279-p106">**Keep accessibility checker running while you work:** Keep track of accessibility issues in your document without needing the accessibility checker always open. Via an indicator in the status bar, much like spellcheck, PowerPoint flags found accessibility issues while you are working.</span></span> 
+
+### <a name="word-feature-updates"></a><span data-ttu-id="73279-133">Word：功能更新</span><span class="sxs-lookup"><span data-stu-id="73279-133">Word: Feature updates</span></span>
+
+- <span data-ttu-id="73279-p107">**使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)</span><span class="sxs-lookup"><span data-stu-id="73279-p107">**Improve comprehension with Line Focus:** Move through a document line by line without distractions. Adjust the focus to put one, three, or five lines in view at a time. [Learn more](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)</span></span>
+- <span data-ttu-id="73279-p108">**将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)</span><span class="sxs-lookup"><span data-stu-id="73279-p108">**Take your doc from static to stunning:** Transform your document into an interactive, easy-to-share web page that looks great on any device. [Learn more](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)</span></span>
+- <span data-ttu-id="73279-p109">**工作时保持运行辅助功能检查器：** 在不需要始终打开辅助功能检查器的情况下跟踪文档中的辅助功能问题。通过状态栏中的指示器，就像拼写检查一样，Word 标记你工作时发现的辅助功能问题。</span><span class="sxs-lookup"><span data-stu-id="73279-p109">**Keep accessibility checker running while you work:** Keep track of accessibility issues in your document without needing the accessibility checker always open. Via an indicator in the status bar, much like spellcheck, Word flags found accessibility issues while you are working.</span></span> 
+
+### <a name="visio-feature-updates"></a><span data-ttu-id="73279-141">Visio：功能更新</span><span class="sxs-lookup"><span data-stu-id="73279-141">Visio: Feature updates</span></span>
+
+- <span data-ttu-id="73279-p110">**告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。[了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)</span><span class="sxs-lookup"><span data-stu-id="73279-p110">**Say goodbye to broken Excel links:** Can't find the Excel workbook linked to your Data Visualizer diagram? Relink it, and you're back in business. [Learn more](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)</span></span>
 
 
 
 > [!NOTE]
-> <span data-ttu-id="e2d76-141">如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。</span><span class="sxs-lookup"><span data-stu-id="e2d76-141">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="73279-145">如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。</span><span class="sxs-lookup"><span data-stu-id="73279-145">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
