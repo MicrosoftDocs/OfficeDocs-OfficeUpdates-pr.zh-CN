@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/23/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: 81fe906a9b9a26ec2a6465c0c8047e304c0eeb2d
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442078"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530257"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -44,8 +44,8 @@ ms.locfileid: "29442078"
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1812（内部版本 11126.20188）  <br/> |2019 年 1 月 3 日  <br/> | TBD<br/> |
-|版本 1812（内部版本 11126.20196）  <br/> |2019 年 1 月 8 日 <br/> |TBD<br/> |
+|版本 1812（内部版本 11126.20196）  <br/> |2019 年 1 月 8 日 <br/> |81<br/> |
+|版本 1812（内部版本 11126.20188）  <br/> |2018 年 12 月 11 日 <br/> |162<br/> |
 
 ## <a name="january-8-2019"></a>2019 年 1 月 8 日
 

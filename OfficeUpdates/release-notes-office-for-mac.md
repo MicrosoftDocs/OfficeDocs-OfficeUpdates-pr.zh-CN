@@ -3,19 +3,19 @@ title: Office for Mac 发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/16/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28726705"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530287"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -35,6 +35,25 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="january-2019-release"></a>2019 年 1 月版本
+
+ **发布日期：** 2019 年 1 月 24 日 
+  
+ *版本 16.21.0（内部版本 19011700）*
+
+ 此版本提供以下更新：
+
+|**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
+|:-----|:-----|:-----|
+|Word  <br/>| 已修复了中文本地化问题。<br/><br/>| |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
+|Outlook  <br/>| 已修复了中文本地化问题。<br/><br/>  | |[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
+
+ **发布日期：** 2019 年 1 月 23 日 
+  
+ *版本 16.21.0（内部版本 190102303）* 此版本提供以下更新：
+ 
+|**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
+ |:-----|:-----|:-----|
+ |Excel  <br/>| 修复了混合 unicode 和非 unicode 时字符间距倒退的问题。 <br/><br/> | <br/><br/>  |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19012303_Updater.pkg) <br/>|
 
  **发布日期：** 2019 年 1 月 16 日 
   
