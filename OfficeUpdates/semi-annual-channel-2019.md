@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 1/29/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
+ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325432"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29647017"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -109,7 +109,7 @@ ms.locfileid: "28325432"
 - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **避免不需要的编辑：** 将工作簿设置为以只读方式打开，避免意外更改。转到“文件”>“信息”>“保护工作簿”>“始终以只读方式打开”
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使演示文稿更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
--  **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 - 修复了以下问题：保存包含 ActiveX 内容的文件时，文件可能损坏。
