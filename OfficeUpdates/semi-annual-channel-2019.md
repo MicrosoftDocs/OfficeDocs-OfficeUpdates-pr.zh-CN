@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
-ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
+ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29647017"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690724"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -40,7 +40,7 @@ ms.locfileid: "29647017"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **协作编辑：** 与其他人同时协作处理工作簿。[了解详细信息](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对文档作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **改进了单元格和编辑栏编辑：** 现可按 Ctrl+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的工作簿更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **避免不需要的编辑：** 将工作簿设置为以只读方式打开，避免意外更改。转到“文件”>“信息”>“保护工作簿”>“始终以只读方式打开”
 
@@ -103,7 +103,7 @@ ms.locfileid: "29647017"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新 
 - **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对演示文稿作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **改进了单元格和编辑栏编辑：** 现可按 Ctrl+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **转换墨迹：** 获取自由曲线备注和绘图，并将它们转换为可读文本和清晰形状，以创建完善的演示文稿。[了解详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)

@@ -3,19 +3,19 @@ title: Office for Mac 的更新历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/24/2018
+ms.date: 1/31/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: e750390effe3ebe42ea59480d8d76f1a99c23c0c
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: 18ef0c14a32d35e8171d1617feb9f98e0e1920f0
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530277"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690734"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
 
@@ -59,8 +59,8 @@ ms.locfileid: "29530277"
 |**程序**|**版本**|**程序包**|**详细信息**|**SHA-1/ SHA-256 哈希**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft 自动更新 (MAU)  <br/> |4.7 (19011500)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   此更新包是 64 位版本。 <br/><br/>[MAU 的版本历史记录](release-history-microsoft-autoupdate.md)<br/> |90D8C109CEE96F1113FDEA7C263337545AD84883C97671A985A580C2D65D65B2 <br/>|
-|Skype for Business  <br/> |16.23.0.64 <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版已于 2018 年 11 月 14 日发布。 <br/><br/>[最新更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 2030D149B52E37D338CAE99437219FFB7D148B4C0F85A2131A8974C5A3949F78 <br/> |
-|远程桌面 | 10.2.5  | [下载](https://go.microsoft.com/fwlink/?linkid=868963) | 此安装包是 64 位版本。 <br/> <br/>[新增功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  1933ebe38bfc3990ba5b3bd1153935868c12be7a90a487c0b1c3ae808bc40d65 <br/> |
+|Skype for Business  <br/> |16.24.0.191 <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版本已于 2019 年 1 月 31 日发布。 <br/><br/>[最新更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  B35E2BE81C90D9E0ABFE1EC3A9384A3DE826C35D9F1304C111C56D5B44BB2A72 <br/> |
+|远程桌面 | 10.2.6  | [下载](https://go.microsoft.com/fwlink/?linkid=868963) | 此安装包是 64 位版本。 <br/> <br/>[新增功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  654fdf45afe636c63ecc3edd1997a3e0cb2d4e0b3353ec24933ca6a916916e6b <br/> |
 |Intune 公司门户 |1.5 (52.1805002.000) [180509] | [下载](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune 新增功能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |适用于 Office 2016 for Mac 的 Microsoft SharePoint 本地 Safari 浏览器插件  <br/> |15.32.0 (170309)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |此安装包是 64 位版本。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
