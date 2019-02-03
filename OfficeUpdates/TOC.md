@@ -26,6 +26,10 @@
 #### [2016 年](semi-annual-channel-targeted-2016.md)
 #### [2015 年](semi-annual-channel-targeted-2015.md)
 
+### Office 预览体验成员计划
+#### [预览体验成员频道的更新历史记录](update-history-office-insider.md)
+#### [每月频道（定向）的更新历史记录](update-history-monthly-channel-targeted.md)
+
 # Office for Mac
 ## [更新历史记录（Office 365，2019 年）](update-history-office-for-mac.md)
 ## [发行说明（Office 365，2019 年）](release-notes-office-for-mac.md)
