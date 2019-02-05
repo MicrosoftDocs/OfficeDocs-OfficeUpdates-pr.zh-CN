@@ -11,7 +11,7 @@
 #### [2018 年](monthly-channel-2018.md)
 #### [2017 年](monthly-channel-2017.md)
 #### [2016 年](monthly-channel-2016.md)
-#### [2015 年](monthly-channel-2015.md)
+
 
 ### 半年频道
 #### [2019 年](semi-annual-channel-2019.md)
@@ -24,7 +24,7 @@
 #### [2018 年](semi-annual-channel-targeted-2018.md)
 #### [2017 年](semi-annual-channel-targeted-2017.md)
 #### [2016 年](semi-annual-channel-targeted-2016.md)
-#### [2015 年](semi-annual-channel-targeted-2015.md)
+
 
 ### Office 预览体验成员计划
 #### [预览体验成员频道的更新历史记录](update-history-office-insider.md)
