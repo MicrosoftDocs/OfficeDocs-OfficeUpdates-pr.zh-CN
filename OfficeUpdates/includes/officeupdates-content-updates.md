@@ -3,17 +3,6 @@
 
 
 
-## <a name="week-of-december-31-2018"></a>2018 年 12 月 31，这一周
-
-
-| 发布时间 |主题标题 | 更改 |
-|------|------------|--------|
-| 1/3/2019 | [Office 365 专业增强版更新的下载大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改时间 |
-| 1/3/2019 | [有关 2019 年每月频道发行的发行说明](/OfficeUpdates/monthly-channel-2019) | 添加 |
-| 1/3/2019 | [Office 365 专业增强版更新历史记录（按日期列出）](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改时间 |
-| 2019 年 1/4 | [Office 365 专业增强版更新的下载大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改时间 |
-
-
 ## <a name="week-of-january-07-2019"></a>2019 年 1 月 7 日所在周
 
 
@@ -74,7 +63,7 @@
 | 1/24/2019 | [Office for Mac 更新历史记录](/OfficeUpdates/update-history-office-for-mac) | 修改时间 |
 
 
-## <a name="week-of-january-28-2019"></a>2019 年 1 月 28，这一周
+## <a name="week-of-january-28-2019"></a>2019 年 1 月 28 日所在周
 
 
 | 发布时间 |主题标题 | 更改 |
@@ -87,3 +76,13 @@
 | 2/1/2019 | [Office 每月频道（定向）的更新历史记录](/OfficeUpdates/update-history-monthly-channel-targeted) | 添加 |
 | 2/1/2019 | [更新 Office 内幕通道的历史记录](/OfficeUpdates/update-history-office-insider) | 添加 |
 | 2/1/2019 | [Office 365 专业增强版更新历史记录（按日期列出）](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改时间 |
+
+
+## <a name="week-of-february-04-2019"></a>2019 年 2 月 4，这一周
+
+
+| 发布时间 |主题标题 | 更改 |
+|------|------------|--------|
+| 2/5/2019 | [Office 365 专业增强版更新的下载大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改时间 |
+| 2/5/2019 | [Office for Mac 更新历史记录](/OfficeUpdates/release-notes-office-insider) | 添加 |
+| 2/5/2019 | [Office 内幕发行说明](/OfficeUpdates/release-notes-office-insider) | 修改时间 |

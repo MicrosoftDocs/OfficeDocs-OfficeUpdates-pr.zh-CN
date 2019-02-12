@@ -1,12 +1,41 @@
 ---
-标题:"Office 内部的发行说明"ms.author: andrewmo 作者： mikho 管理器： andrewmo ms.date: 1/28/2019 ms.audience: Win32 Fast ms.topic： 引用 ms.service: o365 proplus localization_priority： 关键 ms.collection: RelNotes_ProPlus说明:"提供内部快速访问群体与最新列表的主要新功能、 修补程序或已知的问题
+标题:"Office 内部的发行说明"ms.author: andrewmo 作者： mikho 管理器： andrewmo ms.date: 2/11/2019 ms.audience: Win32 Fast ms.topic： 引用 ms.service: o365 proplus localization_priority： 关键 ms.collection: RelNotes_ProPlus说明:"提供内部快速访问群体与最新列表的主要新功能、 修补程序或已知的问题
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 内幕发行说明
 
 本文包含内幕生成的 Word、 Excel、 PowerPoint、 Outlook、 访问和项目的 Windows 桌面发行说明。每周，我们将突出显示有意义的新功能、 重要的修补程序和任何我们希望您了解的重要问题。请注意，我们通常推出功能 （和有时甚至修补程序） 到内部人员通过一段时间。这样，我们以确保在释放更多访问群体功能之前平稳工作事项。因此，如果您看不到内容如下所述，不必担心您将最终获取它。  
 
-## <a name="february-1-2019-version-1902-build-1132620000"></a>2019 年 2 月 1，版本 1902 （构建 11326.20000）
+## <a name="february-9-2019-version-1902-build-1133020014"></a>2 月 9 2019年版本 1902 （构建 11330.20014）
+
+
+## <a name="notable-fixes"></a>重要的修补程序
+
+### <a name="word"></a>Word 
+- 固定问题其中一些自定义的样式无法应用到 word online
+- 我们使用 Word 中的富对象固定上下文预览问题
+- 固定问题其中粘贴列表会导致在 Word 崩溃
+
+### <a name="excel"></a>Excel
+- 固定问题其中追加的空格后的数字格式不带货币符号时不再显示
+- 我们通过自动修复问题的股票检测
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修补程序
+
+### <a name="outlook"></a>Outlook
+- 各种性能和稳定性修补程序
+
+### <a name="access"></a>访问
+- 各种性能和稳定性修补程序
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修补程序
+
+
+
+
+## <a name="january-30-2019-version-1902-build-1132620000"></a>2019 年 1 月 30，版本 1902 （构建 11326.20000）
 
 
 ## <a name="notable-fixes"></a>重要的修补程序
