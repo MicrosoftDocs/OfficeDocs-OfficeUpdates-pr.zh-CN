@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 02/05/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: f6468864d9512a35d8039ecabed84b8b0652c645
-ms.sourcegitcommit: 2efea0f3a7d37521268b072a1121007242196431
+ms.openlocfilehash: af2a2c8268aa1682bd459e06d9336ea94de0f46b
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/05/2019
-ms.locfileid: "29740737"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954044"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -40,32 +40,32 @@ ms.locfileid: "29740737"
 
 ### <a name="monthly-channel"></a>每月频道
 
-暂定版本为版本 1901（内部版本 11231.20136）。 
+当前最新版本是版本 1901（内部版本11231.20174）。 
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1901（内部版本 11231.20130）  <br/> |2019 年 1 月 31 日  <br/> |60<br/> |
-|版本 1812（内部版本 11126.20266）  <br/> |2019 年 1 月 14 日  <br/> |159 个<br/> |
-|版本 1812（内部版本 11126.20196）  <br/> |2019 年 1 月 8 日  <br/> |160<br/> |
+|版本 1901（内部版本 11231.20130）  <br/> |2019 年 1 月 31 日  <br/> |66<br/> |
+|版本 1812（内部版本 11126.20266）  <br/> |2019 年 1 月 14 日  <br/> |158<br/> |
+
 
 ### <a name="semi-annual-channel"></a>半年频道
 
-暂定版本为版本 1808（内部版本 10730.20276）。
+当前最新版本是版本 1808（内部版本10730.20280）
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1808（内部版本 10730.20264）  <br/> |2019 年 1 月 8 日  <br/> |83<br/> |
-|版本 1803（内部版本 9126.2336） <br/> |2018 年 12 月 11 日  <br/> | 279<br/> |
+|版本 1808（内部版本 10730.20264）  <br/> |2019 年 1 月 8 日  <br/> |79<br/> |
+|版本 1803（内部版本 9126.2336） <br/> |2018 年 12 月 11 日  <br/> |280<br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
 
-暂定版本为版本 1808（内部版本 10730.20276）。
+当前最新版本是版本 1808（内部版本10730.20280）。
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1808（内部版本 10730.20264）  <br/> |2019 年 1 月 8 日  <br/> |83<br/> |
-|版本 1808（内部版本 10730.20262）  <br/> |2018 年 12 月 11 日  <br/> |89 <br/> |
+|版本 1808（内部版本 10730.20264）  <br/> |2019 年 1 月 8 日  <br/> |79 <br/> |
+|版本 1808（内部版本 10730.20262）  <br/> |2018 年 12 月 11 日  <br/> |280 <br/> |
 
 
 ## <a name="january-31-2019"></a>2019 年 1 月 31 日

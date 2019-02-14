@@ -3,19 +3,19 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/31/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 3d3d89e04afc5b1db95e740c5064173bb5e465c2
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 9ad21789db5aa940eb879f14684d7e56c4ddfbb4
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690674"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954004"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -28,6 +28,11 @@ ms.locfileid: "29690674"
 
  > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
+
+## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
+版本 1901（内部版本 11231.20174）** 
+
+[此处](office365-proplus-security-updates.md)列出安全更新
 
 ## <a name="version-1901-january-31"></a>版本 1901：1 月 31 日
 *版本 1901（内部版本 11231.20130）* 

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d9ace400fb5f3c92d1e0089c851f51109dfc2228
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325412"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29953994"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -28,6 +28,24 @@ ms.locfileid: "28325412"
  
 > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+
+## <a name="version-1808-february-12"></a>版本 1808：2 月 12 日
+版本 1808（内部版本 10730.20280）** 
+
+### <a name="access-non-security-updates"></a>Access：非安全更新 
+
+- 此更新将对新日本和历的支持添加到 Access。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新 
+
+- 解决以下问题：具有引用不再存在的文件夹规则的用户在尝试管理规则时看到错误，以及看到客户端规则运行失败。
+- 处理以下问题：具有缓存委托邮箱的用户在不可预测的时间间隔遇到频繁挂起。
+- 处理以下问题：由于会议结束时间设置为第二天的午夜，在一些视图中，全天会议似乎超过预期的一天时间。
+- 修复了创建引用日本和历的新约会或会议时的挂起。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+
+- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-CN/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
 
 
 ## <a name="version-1808-january-8"></a>版本 1808：1 月 8 日
