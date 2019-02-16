@@ -1,24 +1,121 @@
 ---
-标题:"Office 内部的发行说明"ms.author: andrewmo 作者： mikho 管理器： andrewmo ms.date: 2/11/2019 ms.audience: Win32 Fast ms.topic： 引用 ms.service: o365 proplus localization_priority： 关键 ms.collection: RelNotes_ProPlus说明:"提供内部快速访问群体与最新列表的主要新功能、 修补程序或已知的问题
+标题: "Office 预览体验成员体验的发行说明" ms. author: andrewmo author: mikho 管理器: andrewmo 毫秒。日期: 2/15/2019) 受众: Win32 Fast ms. 主题: reference ms. service: o365-专业增强版-使用: 关键毫秒. 集合: RelNotes_ProPlus说明: "通过最新的关键新功能、修补程序或已知问题的最新列表为内部人员提供快速访问群体
 ---
 
-# <a name="release-notes-for-office-insiders"></a>Office 内幕发行说明
+# <a name="release-notes-for-office-insiders"></a>Office 预览体验成员的发行说明
 
-本文包含内幕生成的 Word、 Excel、 PowerPoint、 Outlook、 访问和项目的 Windows 桌面发行说明。每周，我们将突出显示有意义的新功能、 重要的修补程序和任何我们希望您了解的重要问题。请注意，我们通常推出功能 （和有时甚至修补程序） 到内部人员通过一段时间。这样，我们以确保在释放更多访问群体功能之前平稳工作事项。因此，如果您看不到内容如下所述，不必担心您将最终获取它。  
+本文包含适用于 Word、Excel、PowerPoint、Outlook、Access 和 Project for Windows desktop 的内幕版版本的发行说明。我们将重点介绍有趣的新功能、重要修补程序以及我们想要了解的任何重大问题。请注意, 我们通常会在一段时间内将功能 (甚至有时是修复) 部署到内部人员。这使我们能够在向更广泛的访问群体发布功能前确保一切正常工作。因此, 如果看不到下面所述的内容, 请不要担心您最终会获得它。  
 
-## <a name="february-9-2019-version-1902-build-1133020014"></a>2 月 9 2019年版本 1902 （构建 11330.20014）
+## <a name="february-12-2019-version-1902-build-1133020014"></a>12 2019 年2月版本 1902 (内部版本 11330.20014)
+
+## <a name="whats-new"></a>新增功能:
+
+### <a name="powerpoint"></a>PowerPoint
 
 
-## <a name="notable-fixes"></a>重要的修补程序
+### <a name="morph-transition-enhancements---morph-by-name"></a>平滑转换增强-按名称的平滑
+
+指定要进行变形的形状
+
+#### <a name="getting-started"></a>入门:
+
+- 若要进行平滑处理以将两个对象作为同一个对象, 用户可以使用选择窗格重命名形状。
+- 名称必须以 "!!" 开头(两个感叹号) 用于进行变形以将其替换为默认匹配行为, 例如 "!!别名
+- 用户可以继续使用不以 "!!" 开头的任何名称重命名形状, 而无需担心它会改变平滑工作方式
+
+#### <a name="scenarios-to-try"></a>要尝试的方案:
+
+- 在幻灯片中插入形状, 让我们说出矩形
+- 创建新幻灯片
+- 在第二张幻灯片中插入一个不同的形状, 让我们说出三角形
+- 打开 SelectionPane, 将幻灯片1中的矩形重命名为 "!!形状 ", 然后将幻灯片2中的三角形重命名为"!!shape
+- 在第二张幻灯片上应用变形
+
+</BR>
+
+### <a name="morph-transition-enhancements---smartart"></a>平滑转换增强-SmartArt
+
+具有更平滑转换的 SmartArt 变形
+
+#### <a name="getting-started"></a>入门:
+
+使用与 SmartArt 相同的方式进行平滑处理
+
+#### <a name="scenarios-to-try"></a>要尝试的方案:
+
+- 在幻灯片中插入 SmartArt
+- 复制幻灯片
+- 调整大小/更改/移动复制的幻灯片上的 SmartArt
+- 对重复的幻灯片应用变形
+
+</BR>
+
+### <a name="morph-transition-enhancements---tables"></a>平滑转换增强功能-表
+
+具有更平滑转换的表变形
+
+#### <a name="getting-started"></a>入门:
+像对待表那样使用平滑处理方式
+
+#### <a name="scenarios-to-try"></a>要尝试的方案:
+
+- 在幻灯片中插入表格
+- 复制幻灯片
+- 调整大小/更改/移动复制的幻灯片上的表格
+- 对重复的幻灯片应用变形
+
+</BR>
+
+### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a>Word、Excel、PowerPoint、OneNote、Access、Project、Publisher & Visio
+
+### <a name="seamlessly-switch-between-accounts"></a>在帐户之间无缝切换
+
+新帐户管理器将所有工作和个人帐户都显示在一个位置, 并使您可以控制这些帐户之间的切换。此更新体验使您可以清楚地登录的方式, 现在您可以在工作和个人帐户之间进行切换, 而无需首先注销或处理复杂对话框。
+
+
+
+#### <a name="scenarios-to-try"></a>要尝试的方案:
+- 在帐户之间切换
+- 添加新帐户 [注意: 你可能需要先转到 "文件" | "帐户 |连接的服务并删除任何连接到工作帐户的个人服务, 反之亦然]
+- 从帐户注销
+</BR>
+
+## <a name="notable-fixes"></a>显著修补程序:
 
 ### <a name="word"></a>Word 
-- 固定问题其中一些自定义的样式无法应用到 word online
-- 我们使用 Word 中的富对象固定上下文预览问题
-- 固定问题其中粘贴列表会导致在 Word 崩溃
+- 我们修复了有关表 & 图像的上下文预览问题
 
 ### <a name="excel"></a>Excel
-- 固定问题其中追加的空格后的数字格式不带货币符号时不再显示
-- 我们通过自动修复问题的股票检测
+- 我们修复了以下问题: 自动筛选搜索字段中的文本是黑色主题中的白色
+- 我们通过新的 Office 加载项修复了一个同意 UI 问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 我们修复了在笔记本或平板电脑上呈现适用幻灯片时自动扩展显示的问题。
+
+### <a name="outlook"></a>Outlook
+- 我们修复了 "发送到 OneNote" 按钮显示的问题
+
+### <a name="access"></a>访问
+- 各种性能和稳定性修补程序
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修补程序
+
+
+</BR></BR>
+## <a name="february-9-2019-version-1902-build-1133020014"></a>9 2019 年2月版本 1902 (内部版本 11330.20014)
+
+
+## <a name="notable-fixes"></a>显著修补程序:
+
+### <a name="word"></a>Word 
+- 我们修复了以下问题: 某些自定义样式无法应用于 word online
+- 我们在 Word 中解决了与富对象相关的上下文预览问题
+- 我们修复了以下问题: 粘贴列表会导致 Word 崩溃
+
+### <a name="excel"></a>Excel
+- 我们修复了以下问题: 当没有货币符号时, 数字格式后面的附加空格将不再显示
+- 我们在自动检测股票时解决了问题
 
 ### <a name="powerpoint"></a>PowerPoint
 - 各种性能和稳定性修补程序
@@ -32,33 +129,33 @@
 ### <a name="project"></a>Project
 - 各种性能和稳定性修补程序
 
+</BR></BR>
 
 
+## <a name="january-30-2019-version-1902-build-1132620000"></a>2019年1月30日版本 1902 (内部版本 11326.20000)
 
-## <a name="january-30-2019-version-1902-build-1132620000"></a>2019 年 1 月 30，版本 1902 （构建 11326.20000）
 
-
-## <a name="notable-fixes"></a>重要的修补程序
+## <a name="notable-fixes"></a>显著修补程序
 
 ### <a name="word"></a>Word 
-- 我们的固定大小调整嵌入 Excel 表格中的单元格问题
-- 我们使用复制/粘贴的绘图画布上形状固定问题
+- 我们解决了在嵌入的 Excel 表中调整单元格的大小的问题
+- 我们解决了在绘图画布中复制/粘贴形状时遇到的问题
 
 ### <a name="excel"></a>Excel
-- 我们固定与从 Excel Web app 打开文件的问题
-- 我们固定问题其中保存为 CSV 文件。XLSX 已失败由于文件名大小
-- 我们固定的上下文菜单显示上下文菜单选项
+- 我们解决了从 Excel Web app 打开文件时遇到的问题
+- 我们修复了将 CSV 文件另存为的问题。由于文件名大小, .xlsx 失败
+- 修复了上下文菜单, 以显示上下文菜单选项
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我们固定颁发无法使用键盘快捷方式 ctrl + alt + 7/ctrl + alt + 8 输入方括号用户个
-- 固定问题其中本地视频插入 PPT 会减少 'C' 驱动器磁盘空间
-- 我们固定发布到 Microsoft 流按钮已不显示对某些用户
+- 我们修复了用户无法使用键盘快捷方式 ctrl + alt + 7/ctrl + alt + 8 以输入方括号的已发出的情况
+- 我们修复了以下问题: 将本地视频插入 PPT 会减少 "C" 驱动器磁盘空间
+- 我们修复了 "发布到 Microsoft Stream" 按钮, 但未向某些用户显示
 
 ### <a name="outlook"></a>Outlook
-- 固定问题其中日历中的任务视图不正确显示任务主题
+- 我们修复了以下问题: "日历" 中的任务视图未正确显示任务主题
 
 ### <a name="access"></a>访问
-- 我们与图表固定缩放问题
+- 我们解决了图表的扩展问题
 
 ### <a name="project"></a>Project
 - 各种性能和稳定性修补程序
