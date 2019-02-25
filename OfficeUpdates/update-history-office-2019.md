@@ -1,5 +1,5 @@
 ---
-title: Office 2019 更新历史记录
+title: Office 2016 C2R 和 Office 2019 更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
-description: 为 IT 专业人员提供使用即点即用的 Office 2019 永久版本的更新历史记录
-ms.openlocfilehash: 172483a017b86853f00726ce7b1b66e70b4ad0b4
-ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
+description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
+ms.openlocfilehash: d7c215682cf2677e7a98d5d81ebaf78aede21eef
+ms.sourcegitcommit: a6a3f8b01c2856eacc1af871687d561cf68b92a8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29964544"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "30178311"
 ---
-# <a name="update-history-for-office-2019"></a>Office 2019 更新历史记录
+# <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
-Microsoft 根据需要为 Office 2019 发布安全更新和质量更新，例如提供稳定性或性能改进的更新。这些更新大约每月发布一次，通常在每月的第二个星期二发布。
+Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R 版的安全更新和质量更新。这些更新大约每月发布一次，发布时间通常为当月的第二个星期二。
 
 如果要验证是否是最新版本，请检查 Office 版本号，并在必要时手动更新 Office。要检查 Office 版本，请执行以下操作：
 
-  1.    打开任意 Office 2019 应用程序，如 Word 或 Excel。
+  1.    打开任何 Office 应用程序，如 Word 或 Excel。
   2.    选择“**文件”>“帐户**”。
   3.    在“**产品信息**”下，记下“**关于**”部分下的版本号。
 
-如果此版本号与最新版本一致，那你的产品是最新的。如果不一致，你可以手动更新以获取 Office 2019 的最新版本。若要更新 Office，[请按照以下步骤操作](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
+如果此版本号与最新版本一致，那你的产品是最新的。如果不一致，你可以手动更新以获取 Office 的最新版本。若要更新 Office，[请按照以下步骤操作](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 
-下表提供了 Office 2019 的更新历史记录，其中最近的发布日期列在前列。该表包含发行版本和内部版本的版本号，并列出了发行版中包含的安全更新，以及指向有关安全更新详细信息的链接。
+下表提供了 Office 2019 批量许可版以及 Office 2016 C2R 和 Office 2019 零售版的更新历史记录，其中第一列为最近的发布日期。该表包含发行版本和内部版本的版本号，并列出了发行版中包含的安全更新，以及指向安全更新相关详细信息的链接。
 
 新版本包含先前版本所包含的所有更新。
 
@@ -45,8 +45,8 @@ Microsoft 根据需要为 Office 2019 发布安全更新和质量更新，例如
 |2018 年 11 月 13 日   |版本 1808（内部版本 10338.20019）  |[CVE-2018-8522](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8582) <br/>|
 |2018 年 10 月 9 日   |版本 1808（内部版本 10337.20021）  |[CVE-2018-8432](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV180026) <br/>|
 
-## <a name="retail-versions-of-office-2019"></a>Office 2019 零售版本
-以下信息适用于 Office 2019 的零售版本，例如在零售店购买的 Office Professional 2019。
+## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 零售版
+以下信息适用于 Office 2016 C2R 和 Office 2019 的零售版本，这二者的发布日期和版本号相同。
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
