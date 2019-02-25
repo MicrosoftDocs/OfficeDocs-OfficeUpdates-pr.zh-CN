@@ -38,16 +38,16 @@
 ## [MAU 版本历史记录](release-history-microsoft-autoupdate.md)
 
 # Office（永久）
-## [Office 2019 更新](update-history-office-2019.md)
-## [Office 2010、2013 和 2016 更新 (MSI)](office-updates-msi.md)
-## [Outlook 2010、2013 和 2016 更新 (MSI)](outlook-updates-msi.md)
+## [Office 2016 和 2019 更新 (C2R)](update-history-office-2019.md)
 ## [Office 2013 更新 (C2R)](update-history-office-2013.md)
 ## [Office 2010 更新 (C2R)](update-history-office-2010-click-to-run.md)
+## [Office 2010、2013 和 2016 更新 (MSI)](office-updates-msi.md)
+## [Outlook 2010、2013 和 2016 更新 (MSI)](outlook-updates-msi.md)
+## [Office 2016 .msp 文件 (MSI)](msp-files-office-2016.md)
+## [Office 2013 .msp 文件 (MSI)](msp-files-office-2013.md)
 ## [Skype for Business 更新 (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
-## [Office 2016.msp 文件](msp-files-office-2016.md)
-## [Office 2013.msp 文件](msp-files-office-2013.md)
 
-# Office 服务器产品
+# Office Server 产品
 ## [Exchange Server 更新](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server 更新](project-server-updates.md)
 ## [SharePoint 更新](sharepoint-updates.md)
