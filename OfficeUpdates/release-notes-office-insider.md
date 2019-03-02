@@ -1,12 +1,44 @@
 ---
-标题: "Office 预览体验成员体验的发行说明" ms. author: andrewmo author: mikho 管理器: andrewmo 毫秒。日期: 2/15/2019) 受众: Win32 Fast ms. 主题: reference ms. service: o365-专业增强版-使用: 关键毫秒. 集合: RelNotes_ProPlus说明: "通过最新的关键新功能、修补程序或已知问题的最新列表为内部人员提供快速访问群体
+标题: "Office 预览体验成员体验的发行说明" ms. author: andrewmo author: mikho 管理器: andrewmo 毫秒。日期: 3/1/2019) 受众: Win32 Fast ms. 主题: reference ms. service: o365-专业增强版-使用: 关键毫秒. 集合: RelNotes_ProPlus说明: "通过最新的关键新功能、修补程序或已知问题的最新列表为内部人员提供快速访问群体
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员的发行说明
 
 本文包含适用于 Word、Excel、PowerPoint、Outlook、Access 和 Project for Windows desktop 的内幕版版本的发行说明。我们将重点介绍有趣的新功能、重要修补程序以及我们想要了解的任何重大问题。请注意, 我们通常会在一段时间内将功能 (甚至有时是修复) 部署到内部人员。这使我们能够在向更广泛的访问群体发布功能前确保一切正常工作。因此, 如果看不到下面所述的内容, 请不要担心您最终会获得它。  
 
-## <a name="february-12-2019-version-1902-build-1133020014"></a>12 2019 年2月版本 1902 (内部版本 11330.20014)
+## <a name="february-25-2019-version-1903-build-1133020014"></a>2019年2月25日版本 1903 (内部版本 11330.20014)
+
+
+## <a name="notable-fixes"></a>显著修补程序:
+
+### <a name="word"></a>Word 
+- 我们修复了在选项中按 "ESC" 时发生的崩溃问题
+- 我们修复了复制 & 从 Word 粘贴到 PowerPoint Online 的问题
+
+### <a name="excel"></a>Excel
+- 我们修复了以下问题: 在 Excel 中复制单元格时, 在打开受保护的文档和可编辑文档时, 会导致 CPU 使用率较高
+
+### <a name="powerpoint"></a>PowerPoint
+- 在 PowerPoint 中使用 @Mentions 时, 我们修复了幻灯片图像大小的问题
+
+### <a name="outlook"></a>Outlook
+- 我们修复了以下问题: Outlook 搜索不接受所选的按时间顺序排序
+- 我们修复了以下问题: "打开此任务" 工作流功能区按钮对某些电子邮件没有响应
+- 我们修复了以下问题: 用户在会议室查找器中选择了可用聊天室后, Outlook 在本地聊天室中未清除。
+
+### <a name="access"></a>访问
+- 我们更新了在使用 datasource 确认重新链接表时显示的提示文本
+- 我们修复了白色背景为深色主题的已保存的导入/导出对话框
+- 我们修复了以下问题: 用户无法将 "是/否" 字段的显示控件属性设置为表设计中的 Textbox
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修补程序
+
+</BR></BR>
+
+
+
+## <a name="february-12-2019-version-1903-build-1133020014"></a>12 2019 年2月版本 1903 (内部版本 11330.20014)
 
 ## <a name="whats-new"></a>新增功能:
 
@@ -73,6 +105,7 @@
 新帐户管理器将所有工作和个人帐户都显示在一个位置, 并使您可以控制这些帐户之间的切换。此更新体验使您可以清楚地登录的方式, 现在您可以在工作和个人帐户之间进行切换, 而无需首先注销或处理复杂对话框。
 
 
+![MeMock](Images/MeMock.png)
 
 #### <a name="scenarios-to-try"></a>要尝试的方案:
 - 在帐户之间切换
@@ -103,7 +136,7 @@
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1902-build-1133020014"></a>9 2019 年2月版本 1902 (内部版本 11330.20014)
+## <a name="february-9-2019-version-1903-build-1133020014"></a>9 2019 年2月版本 1903 (内部版本 11330.20014)
 
 
 ## <a name="notable-fixes"></a>显著修补程序:
