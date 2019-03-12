@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379357"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509295"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -46,10 +46,9 @@ ms.locfileid: "30379357"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **在连续召开的会议之间提供时间：** 默认将会议设置为提前 5-10 分钟结束，让与会者有时间喘口气或来往于不同地点。在[此处](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)和[此处](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)了解详细信息
+- **在连续召开的会议之间提供时间：** 默认将会议设置为提前 5-10 分钟结束，让与会者有时间喘口气或来往于不同地点。[了解详细信息](https://support.office.com/zh-CN/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **使用“大声朗读”来收听你的电子邮件：** Outlook 可以大声朗读你的电子邮件，并突出显示正在阅读的文本。要打开大声朗读功能，请转到“轻松访问”设置。[了解详细信息](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **邮件加密：仅加密 IRM 策略：** 新的仅加密选项显示在 Office 365 邮件加密用户的“选项”>“权限”菜单中。此选项允许你加密邮件并将其发送给组织内部或外部的任何人。[了解详细信息](https://aka.ms/omeoverview)
-- **重复周期范围的新默认值：** 对于“重复周期”对话框，在过去重复周期范围的默认值为“无结束日期”。这有助于创建长期运行的定期系列，随着时间的推移可能会损坏。我们将“重复周期”对话框的默认值更新为“结束日期”，以便我们的默认值与建议的日历最佳做法相匹配。
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
