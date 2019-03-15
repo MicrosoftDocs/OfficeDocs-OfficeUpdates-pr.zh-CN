@@ -3,19 +3,19 @@ title: Office 预览体验成员频道的更新历史记录
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/08/2019
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: f8aef9345c96956c144922e07fa39bf208287a25
-ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
+ms.openlocfilehash: df55a06dc21013ee1d061f0031d5d9db312f45f8
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2019
-ms.locfileid: "30512791"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568145"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 预览体验成员频道的更新历史记录
 
@@ -32,6 +32,8 @@ ms.locfileid: "30512791"
 如果你注册的是预览体验成员级别，你将经常获得包含新功能和增强功能的更新。以下列表显示了最近的预览体验成员版本和内部版本的历史记录，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。 
 
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/zh-CN/OfficeUpdates/release-notes-office-insider)。
+
+**2019 年 3 月 12 日**<br/> 版本 1903（内部版本 11425.20096）<br/>
 
 **2019 年 3 月 1 日**<br/> 版本 1903（内部版本 11425.20036）<br/> 
 
