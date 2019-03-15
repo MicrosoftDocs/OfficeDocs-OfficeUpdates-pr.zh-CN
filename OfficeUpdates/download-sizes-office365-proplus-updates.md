@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/4/2019
+ms.date: 3/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: a9860958b4d093b72d84b68b3681094cb3b2f19d
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379347"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568195"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -35,6 +35,36 @@ ms.locfileid: "30379347"
 > - 仅列出过去四个月的版本。
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。 
+
+## <a name="march-12-2019"></a>2019 年 3 月 12 日
+
+### <a name="monthly-channel"></a>每月频道
+
+最新版为版本 1902（内部版本 11328.20158）。 
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1901（内部版本 11231.20130）  <br/> |2019 年 1 月 31 日  <br/> |179<br/> |
+|版本 1901（内部版本 11231.20174）  <br/> |2019 年 2 月 12 日  <br/> |177<br/> |
+|版本 1902（内部版本 11328.20146）  <br/> |2019 年 3 月 4 日  <br/> |278<br/> |
+
+### <a name="semi-annual-channel"></a>半年频道
+
+最新版为版本 1808（内部版本 10730.20304）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1808（内部版本 10730.20264）  <br/> |2019 年 1 月 8 日  <br/> |84<br/> |
+|版本 1808（内部版本 10730.20280） <br/> |2019 年 2 月 12 日  <br/> |74<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
+
+最新版为版本 1902（内部版本 11328.20158）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1808（内部版本 10730.20264）  <br/> |2019 年 1 月 8 日  <br/> |257 <br/> |
+|版本 1808（内部版本 10730.20280）  <br/> |2019 年 2 月 12 日  <br/> |256 <br/> |
 
 ## <a name="march-4-2019"></a>2019 年 3 月 4 日
 
