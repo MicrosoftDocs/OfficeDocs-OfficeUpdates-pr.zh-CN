@@ -1,5 +1,5 @@
 ---
-标题: "Office 预览体验成员体验的发行说明" ms. author: andrewmo author: mikho 管理器: andrewmo 毫秒。日期: 3/08/2019) 受众: Win32 Fast ms. 主题: reference ms. service: o365-专业增强版-使用: 关键毫秒. 集合: RelNotes_ProPlus说明: "通过最新的关键新功能、修补程序或已知问题的最新列表为内部人员提供快速访问群体
+标题: "Office 预览体验成员体验的发行说明" ms. author: andrewmo author: almuzz 管理器: andrewmo ms. 日期: 3/15/2019) 受众: Win32 Fast ms. 主题: reference ms. service: o365-专业增强版-使用: 关键毫秒. 集合: RelNotes_专业增强版说明: "提供内部人员快速访问群体, 其中列出了主要新功能、修复或已知问题的最新列表
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员的发行说明
@@ -10,6 +10,32 @@
 > - 发行说明是每周发布的, 可能是多个版本的汇总
 > - 发行说明发布日期可能与实际生成发布日期不匹配
 
+## <a name="march-15-2019"></a>2019年3月15日 
+版本 1904 (内部版本 11504.20000)
+
+## <a name="notable-fixes"></a>显著修补程序:
+
+### <a name="word"></a>Word 
+- 我们修复了以下问题: 保存为 PDF 格式的文档中的图像的 DPI 不正确
+
+### <a name="excel"></a>Excel
+- 各种性能和稳定性修补程序
+
+### <a name="powerpoint"></a>PowerPoint
+- 我们修复了以下问题: 注释窗格无法正常打开或关闭
+- 我们修复了以下问题: 应用程序在删除视频时可能发生故障
+- 我们解决了以下问题: 在某些情况下, 应用程序将无法启动
+
+### <a name="outlook"></a>Outlook
+- 我们修复了以下问题: 以日语查看时, 已读回执不正确
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修补程序
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修补程序
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>2019年3月8日 
 版本 1903 (内部版本 11425.20036)
