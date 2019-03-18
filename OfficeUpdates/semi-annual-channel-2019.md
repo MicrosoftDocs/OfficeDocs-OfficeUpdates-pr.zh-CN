@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 3/6/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
-ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
+ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466109"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568355"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -29,6 +29,25 @@ ms.locfileid: "30466109"
 > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
+
+## <a name="version-1808-march-12"></a>版本 1808：3 月 12 日
+*版本 1808（内部版本 10730.20304）*
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+
+- 已修复 VBA 返回不正确页码问题。
+- 缩短保存本地 Word 文件的时间。 
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+
+- 提供了 regkey 以禁用 Office 365 邮件加密菜单中的“仅加密”选项。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+
+- 已修复 Office 更新可能会在尝试下载时停滞一段时间的问题。
+
+## <a name="version-1803-march-12"></a>版本 1803：3 月 12 日 
+本月没有更新。
 
 ## <a name="version-1808-february-12"></a>版本 1808：2 月 12 日
 版本 1808（内部版本 10730.20280）**
