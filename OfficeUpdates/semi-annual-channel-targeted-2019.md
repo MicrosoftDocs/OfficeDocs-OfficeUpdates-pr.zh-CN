@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 4c8b3cfc3c02a83b9c20e3fe5ec7c2db27d6ef0e
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: b8d90867b24a7765cf4e92c45d7592c9ee32b8b7
+ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568095"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30691301"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -41,7 +41,6 @@ ms.locfileid: "30568095"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
 - **通过注释进行协作：** 使用内置回复框在电子表格中保持正常对话。[了解详细信息](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **使用 \@提及功能引起他人的注意：** 在注释中使用 \@提及，以在需要同事的意见时让他们知悉。 了解更多“通过注释进行协作：使用内置回复框在电子表格中保持正常对话”的信息。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **功能区图标具有新的外观：** 请不要担心，所有功能的工作方式不变。 此外，这些图标在各种尺寸的屏幕上看起来都很美观。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **显示图片背后的内容：** 将图片置于工作表中，选择预设，然后观察透明度的变化。就是这样！[了解详细信息](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
