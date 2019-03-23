@@ -1,5 +1,5 @@
 ---
-标题: "Office 预览体验成员体验的发行说明" ms. author: andrewmo author: almuzz 管理器: andrewmo ms. 日期: 3/15/2019) 受众: Win32 Fast ms. 主题: reference ms. service: o365-专业增强版-使用: 关键毫秒. 集合: RelNotes_专业增强版说明: "提供内部人员快速访问群体, 其中列出了主要新功能、修复或已知问题的最新列表
+标题: "Office 预览体验成员体验的发行说明" ms. author: andrewmo author: almuzz 管理器: andrewmo ms. 日期: 3/22/2019) 受众: Win32 Fast ms. 主题: reference ms. service: o365-专业增强版-使用: 关键毫秒. 集合: RelNotes_专业增强版说明: "提供内部人员快速访问群体, 其中列出了主要新功能、修复或已知问题的最新列表
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员的发行说明
@@ -10,7 +10,36 @@
 > - 发行说明是每周发布的, 可能是多个版本的汇总
 > - 发行说明发布日期可能与实际生成发布日期不匹配
 
-## <a name="march-15-2019"></a>2019年3月15日 
+## <a name="march-22-2019"></a>2019年3月22日
+版本 1904 (内部版本 11514.20004)
+
+## <a name="notable-fixes"></a>显著修补程序:
+
+### <a name="word"></a>Word 
+- 我们修复了 UI 将不断显示 "正在检查更改" 的问题
+
+### <a name="excel"></a>Excel
+- 我们修复了以下问题: 在移动工作表后应用程序可能会崩溃
+- 我们修复了以下问题: 在另存为 PDF 后, 应用程序可能会崩溃
+- 我们修复了 "保存" 对话框不接受一些朝鲜语字符的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修补程序
+
+### <a name="outlook"></a>Outlook
+- 各种性能和稳定性修补程序
+
+### <a name="access"></a>Access
+- 我们修复了 access 中创建了额外的访问快捷方式的错误消息
+- 我们修复了以下问题: 链接的 SharePoint 中的数据将错误地显示
+
+### <a name="project"></a>项目
+- 我们修复了语言设置将从中文切换为英语的问题
+- 我们修复了以下问题: 在同步到 SharePoint 时应用程序可能会崩溃
+
+</BR></BR>
+
+## <a name="march-15-2019"></a>2019年3月15日
 版本 1904 (内部版本 11504.20000)
 
 ## <a name="notable-fixes"></a>显著修补程序:
@@ -32,7 +61,7 @@
 ### <a name="access"></a>Access
 - 各种性能和稳定性修补程序
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 各种性能和稳定性修补程序
 
 </BR></BR>
@@ -80,7 +109,7 @@
 - 我们修复了白色背景为深色主题的已保存的导入/导出对话框
 - 我们修复了以下问题: 用户无法在表设计中将 "是/否" 字段的 DisplayControl 属性设置为 Textbox
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 各种性能和稳定性修补程序
 
 
@@ -110,7 +139,7 @@
 - 我们修复了白色背景为深色主题的已保存的导入/导出对话框
 - 我们修复了以下问题: 用户无法将 "是/否" 字段的显示控件属性设置为表设计中的 Textbox
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 各种性能和稳定性修补程序
 
 </BR></BR>
@@ -211,7 +240,7 @@
 ### <a name="access"></a>Access
 - 各种性能和稳定性修补程序
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 各种性能和稳定性修补程序
 
 
@@ -240,7 +269,7 @@
 ### <a name="access"></a>Access
 - 各种性能和稳定性修补程序
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 各种性能和稳定性修补程序
 
 </BR></BR>
@@ -272,5 +301,5 @@
 ### <a name="access"></a>Access
 - 我们解决了图表的扩展问题
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 各种性能和稳定性修补程序
