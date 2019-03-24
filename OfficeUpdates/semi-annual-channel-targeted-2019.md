@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: c01b296758bed8c5bbcd908a9ad178d69a6d4645
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: 05050765ac9666d9559bb496820cc9fd3920725e
+ms.sourcegitcommit: 484c4d70dc2898a7c100ebf898f70da5318c4316
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697610"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30741236"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -45,6 +45,7 @@ ms.locfileid: "30697610"
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **显示图片背后的内容：** 将图片置于工作表中，选择预设，然后观察透明度的变化。就是这样！[了解详细信息](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **呼叫所有“获取和转换”功能的粉丝：** 如果你经常使用“获取和转换”功能，那么对于“从示例中添加列”功能已得到改进的消息一定兴奋不已。 另外，许多连接器也得到了改进。 [了解更多](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。 [了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
@@ -58,12 +59,13 @@ ms.locfileid: "30697610"
 - **重复周期范围的新默认值：** 对于“重复周期”对话框，在过去重复周期范围的默认值为“无结束日期”。这有助于创建长期运行的定期系列，随着时间的推移可能会损坏。我们将“重复周期”对话框的默认值更新为“结束日期”，以便我们的默认值与建议的日历最佳做法相匹配。
 - **从“Outlook 提醒”对话框加入团队会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是团队在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
 - **停止查看过去活动的提醒：** 可以将日历设置为在活动结束后自动关闭活动提醒。 [了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **查看安全链接背后的 URL：** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 现在，只需将鼠标悬停在 URL 上即可查看原始 URL，即使在受安全链接保护的链接中也是如此。
+- **查看安全链接背后的 URL：** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL上。 需要高级威胁防护许可证。 [了解更多](https://products.office.com/zh-CN/exchange/advance-threat-protection)
 - **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。 [了解更多](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **邮件加密：仅加密 IRM 策略：** 新的仅加密选项显示在 Office 365 邮件加密用户的“选项”>“权限”菜单中。 此选项允许你加密邮件并将其发送给组织内部或外部的任何人。
 - **密件抄送 (BCC) 警告：** BCC 信息提示会在你意外对被密件抄送的邮件全部答复之前发出警告。
 - **更智能的“收件人:”行：** 在单击“收件人:”行处理邮件时，会提示用户可能要选择的收件人。 此外，还可以看到收件人的照片，这样用户便知道将要向其发送邮件的收件人正确无误。 [了解更多](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。 [了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
@@ -106,6 +108,13 @@ ms.locfileid: "30697610"
 - **Office 第三方应用程序现已支持通过 office.js API 插入 SVG：** 第三方应用程序也称为 Office 中的加载项，它们现可插入 SVG。用户现可将其个人的 SVG 集合连接到 Office。而开发人员可通过 Office.js API 使用该项功能。
 - **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
 
+### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
+
+- **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。 [了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+
+### <a name="teams-feature-updates"></a>Teams：功能更新
+
+- **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。 [了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ## <a name="version-1808-february-12"></a>版本 1808：2 月 12 日
 版本 1808（内部版本 10730.20280）** 
