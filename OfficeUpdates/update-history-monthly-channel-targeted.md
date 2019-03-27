@@ -3,19 +3,19 @@ title: Office 每月频道（定向）的更新历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/18/2019
+ms.date: 03/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 8d0dc92dffc1e7ef6b8b490243b41bd0aeec4ef7
-ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
+ms.openlocfilehash: 85e8f4d9d367ea9b4d308da792a3f0e21dafa1a1
+ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30568395"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30800532"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -28,6 +28,8 @@ ms.locfileid: "30568395"
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
 > - 发行说明的更新速度将放慢，可能是已发布内部版本号之前的发行说明的多个内部版本的更新编译
+
+**2019 年 3 月 25 日**<br/> 版本 1903（内部版本 11425.20184）<br/>
 
 **2019 年 3 月 18 日**<br/> 版本 1903（内部版本 11425.20140）<br/>
 
