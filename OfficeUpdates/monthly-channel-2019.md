@@ -3,31 +3,47 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/25/2019
+ms.date: 4/1/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
-ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
+ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
+ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30800522"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31027882"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
-这些发行说明提供了有关 2019 年 Office 365 专业增强版每月频道更新中所包含的新功能、安全更新和非安全更新的信息。
+这些发行说明提供了 2019 年 Office 365 专业增强版（包括 Visio Pro for Office 365 和 Project Online 桌面客户端）每月频道更新中所包含的新功能和非安全更新的相关信息。
  
  > [!NOTE]
-> - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
+
+## <a name="version-1903-april-01"></a>版本 1903：4 月 1 日
+*版本 1903（内部版本 11425.20202）*
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **增加内容的覆盖面：** 需要让你的电子表格易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **切换效果更好：** 对形状命名，以更好地掌控其平滑效果。 [了解详细信息](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
+
+- **增加内容的覆盖面：** 需要让你的演示文稿易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **增加内容的覆盖面：** 需要让你的文档易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
 
 ## <a name="version-1902-march-25"></a>版本 1902：3 月 25 日
 *版本 1902（内部版本 11328.20222）*
