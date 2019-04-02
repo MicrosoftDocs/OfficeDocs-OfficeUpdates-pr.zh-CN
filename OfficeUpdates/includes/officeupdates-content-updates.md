@@ -56,10 +56,10 @@
 | 3/15/2019 | [Office for Mac 更新历史记录](/OfficeUpdates/update-history-office-for-mac) | 修改时间 |
 | 3/15/2019 | [Office 预览体验成员的发行说明](/OfficeUpdates/release-notes-office-insider) | 修改时间 |
 | 3/15/2019 | [Office 每月频道（定向）的更新历史记录](/OfficeUpdates/update-history-monthly-channel-targeted) | 修改时间 |
-| 3/15/2019 | [Office 预览体验成员频道的更新历史记录](/OfficeUpdates/update-history-office-insider) | 修改时间 |
+| 3/15/2019 | [Office 预览体验成员频道的更新历史记录](/OfficeUpdates/update-history-office-insider) | 修改内容 |
 
 
-## <a name="week-of-march-18-2019"></a>2019年3月18日一周
+## <a name="week-of-march-18-2019"></a>2019 年 3 月 18 日所在周
 
 
 | 发布日期 |主题标题 | 更改 |
@@ -78,16 +78,21 @@
 | 3/22/2019 | [Office 预览体验成员的发行说明](/OfficeUpdates/release-notes-office-insider) | 修改时间 |
 
 
-## <a name="week-of-february-18-2019"></a>2019 年 2 月 18 日一周
+## <a name="week-of-march-25-2019"></a>2019年3月25日一周
 
 
 | 发布日期 |主题标题 | 更改 |
 |------|------------|--------|
-| 2019/2/20 | [Office for Mac 发行说明](/OfficeUpdates/release-notes-office-for-mac) | 修改时间 |
-| 2019/2/20 | [Office for Mac 更新历史记录](/OfficeUpdates/update-history-office-for-mac) | 修改时间 |
-| 2/21/2019 | [Office 2016 C2R 和 Office 2019 更新历史记录](/OfficeUpdates/update-history-office-2019) | 修改时间 |
-| 2/22/2019 | [Office 每月频道（定向）的更新历史记录](/OfficeUpdates/update-history-monthly-channel-targeted) | 修改时间 |
-| 2/22/2019 | [Office 预览体验成员频道的更新历史记录](/OfficeUpdates/update-history-office-insider) | 修改时间 |
+| 3/25/2019 | [Office 每月频道（定向）的更新历史记录](/OfficeUpdates/update-history-monthly-channel-targeted) | 修改时间 |
+| 3/25/2019 | [有关 2019 年每月频道发行的发行说明](/OfficeUpdates/monthly-channel-2019) | 修改时间 |
+| 3/27/2019 | [有关 2019 年每月频道发行的发行说明](/OfficeUpdates/monthly-channel-2019) | 修改时间 |
+| 3/27/2019 | [有关 2019 年半年频道发行的发行说明](/OfficeUpdates/semi-annual-channel-2019) | 修改时间 |
+| 3/27/2019 | [有关 2019 年半年频道（定向）发行的发行说明](/OfficeUpdates/semi-annual-channel-targeted-2019) | 修改时间 |
+| 3/27/2019 | [Office for Mac 发行说明](/OfficeUpdates/release-notes-office-for-mac) | 修改时间 |
+| 3/27/2019 | [Office for Mac 更新历史记录](/OfficeUpdates/update-history-office-for-mac) | 修改时间 |
+| 3/27/2019 | [Office 365 专业增强版更新的下载大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改时间 |
+| 3/27/2019 | [Office 365 专业增强版更新历史记录（按日期列出）](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改时间 |
+| 3/28/2019 | [Office for Mac 更新历史记录](/OfficeUpdates/update-history-office-for-mac) | 修改时间 |
 
 
 ## <a name="week-of-february-25-2019"></a>2019年2月25日一周
