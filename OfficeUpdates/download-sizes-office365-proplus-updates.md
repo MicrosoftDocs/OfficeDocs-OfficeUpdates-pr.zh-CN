@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新下载大小
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/27/2019
+ms.date: 4/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 604b71c37813e37bde2d4e299f78508627a6121b
-ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
+ms.openlocfilehash: b62212216545a690172901bef75543778b6dad64
+ms.sourcegitcommit: 7380adc27555df032fbc89fb3b68bafa82e0fad4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30936842"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31043428"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -35,6 +35,36 @@ ms.locfileid: "30936842"
 > - 仅列出过去四个月的版本。
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。
+
+
+### <a name="semi-annual-channel"></a>半年频道
+
+暂定版本为版本 1808（内部版本 10730.20334）
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1808（内部版本 10730.20304）  <br/> |2019 年 3 月 12 日  <br/> |81<br/> |
+|版本 1808（内部版本 10730.20280） <br/> |2019 年 2 月 12 日  <br/> |81<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>半年频道（定向）
+
+暂定版本为版本 1902（内部版本 11328.20230）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1902（内部版本 11328.20158）  <br/> |2019 年 3 月 12 日  <br/> |68 <br/> |
+|版本 1808（内部版本 10730.20280）  <br/> |2019 年 2 月 12 日  <br/> |307 <br/> |
+
+## <a name="april-1-2019"></a>2019 年 4 月 1 日
+
+### <a name="monthly-channel"></a>每月频道
+
+暂定版本为版本 1903（内部版本 11425.20202）。 
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1902（内部版本 11328.20158）  <br/> |2019 年 3 月 12 日  <br/> |204<br/> |
+|版本 1902（内部版本 11328.20222）  <br/> |2019 年 3 月 25 日  <br/> |205<br/> |
 
 ## <a name="march-25-2019"></a>2019 年 3 月 25 日
 
@@ -315,7 +345,7 @@ ms.locfileid: "30936842"
     
 ## <a name="related-topics"></a>相关主题
 
-- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 专业增强版的更新通道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 365 专业增强版更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
