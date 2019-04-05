@@ -1,7 +1,22 @@
 ---
-标题: "Office 预览体验成员体验的发行说明" ms. author: andrewmo author: almuzz 管理器: andrewmo ms. 日期: 3/22/2019) 受众: Win32 Fast ms. 主题: reference ms. service: o365-专业增强版-使用: 关键毫秒. 集合: RelNotes_专业增强版说明: "提供内部人员快速访问群体, 其中列出了主要新功能、修复或已知问题的最新列表
+title: Office 预览体验成员的发行说明
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: 为内幕人士提供最新的关键新功能、修补程序或已知问题列表的快速访问群体
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478539"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员的发行说明
 
 本文包含适用于 Word、Excel、PowerPoint、Outlook、Access 和 Project for Windows desktop 的内幕版版本的发行说明。 我们将重点介绍有趣的新功能、重要修补程序以及我们想要了解的任何重大问题。 请注意, 我们通常会在一段时间内将功能 (甚至有时是修复) 部署到内部人员。 这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
@@ -127,7 +142,7 @@
 - 我们修复了以下问题: 在 Excel 中复制单元格时, 在打开受保护的文档和可编辑文档时, 会导致 CPU 使用率较高
 
 ### <a name="powerpoint"></a>PowerPoint
-- 在 PowerPoint 中使用 @Mentions 时, 我们修复了幻灯片图像大小的问题
+- 在 PowerPoint 中使用@Mentions时, 我们修复了幻灯片图像大小的问题
 
 ### <a name="outlook"></a>Outlook
 - 我们修复了以下问题: Outlook 搜索不接受所选的按时间顺序排序
