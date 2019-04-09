@@ -3,28 +3,26 @@ title: 有关 2019 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/6/2019
+ms.date: 4/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568355"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478569"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
-这些发行说明提供了有关 2019 年 Office 365 专业增强版半年频道更新中所包含的新功能、安全更新和非安全更新的信息。 
+这些发行说明提供了 2019 年 Office 365 专业增强版（包括 Visio Pro for Office 365 和 Project Online 桌面客户端）半年频道更新中所包含的新功能和非安全更新的相关信息。
 
 > [!NOTE]
-> - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 在 2019 年 1 月前，半年频道被命名为延期频道。
 
 > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
@@ -50,7 +48,7 @@ ms.locfileid: "30568355"
 本月没有更新。
 
 ## <a name="version-1808-february-12"></a>版本 1808：2 月 12 日
-版本 1808（内部版本 10730.20280）**
+*版本 1808（内部版本 10730.20280）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新 
 
@@ -69,9 +67,9 @@ ms.locfileid: "30568355"
 
 
 ## <a name="version-1803-february-12"></a>版本 1803：2 月 12 日
-版本 1803（内部版本 9126.2356）**
+*版本 1803（内部版本 9126.2356）*
 
-这是自 2018 年 7 月起就已发布的半年频道版本。2019 年 9 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1808，内部版本 10730.20280）现已推出，其中包含新增功能、安全更新和非安全更新**。
+*这是自 2018 年 7 月以来已经提供的半年频道版本。 2019 年 9 月前，我们将继续支持该版本并提供安全更新程序。 不过，新版的半年频道（即版本 1808，内部版本 10730.20280）现已推出，其中包含新增功能、安全更新程序以及一些非安全更新程序。*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新 
 
@@ -103,7 +101,7 @@ ms.locfileid: "30568355"
 ## <a name="version-1708-february-12"></a>版本 1708：2 月 12 日
 *版本 1708（内部版本 8431.2372）*
 
-这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新程序。不过，新版半年频道（即版本 1808，内部版本 10730.20280）现已推出，其中包含新增功能、安全更新程序和非安全更新程序**。
+*这是自 2018 年 1 月以来已经提供的半年频道版本。 2019 年 3 月前，我们将继续支持该版本并提供安全更新程序。 不过，新版的半年频道（即版本 1808，内部版本 10730.20280）现已推出，其中包含新增功能、安全更新程序以及一些非安全更新程序。*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
@@ -262,9 +260,9 @@ ms.locfileid: "30568355"
 ## <a name="version-1803-january-8"></a>版本 1803：1 月 8 日
 *版本 1803（内部版本 9126.2351）*
 
-*这是自 2018 年 7 月起就已发布的半年频道版本。2019 年 9 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1808）现已推出，其中包含新增功能、安全更新和非安全更新。*
+*这是自 2018 年 7 月以来已经提供的半年频道版本。 2019 年 9 月前，我们将继续支持该版本并提供安全更新程序。 不过，新版的半年频道（即版本 1808）现已推出，其中包含新增功能、安全更新程序以及一些非安全更新程序。*
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新程序
 - 修复了确保 Office 应用程序之间 LinkedIn 选项的功能奇偶一致性的问题。
 
 
