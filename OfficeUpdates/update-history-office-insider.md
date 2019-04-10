@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: cd4a6dd474302e7dc4f0896c5e9f6ab4480a340d
-ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
+ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30737512"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516467"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 预览体验成员频道的更新历史记录
 
@@ -32,6 +32,8 @@ ms.locfileid: "30737512"
 如果你注册的是预览体验成员级别，你将经常获得包含新功能和增强功能的更新。以下列表显示了最近的预览体验成员版本和内部版本的历史记录，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。 
 
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/zh-CN/OfficeUpdates/release-notes-office-insider)。
+
+**2019 年 4 月 1 日**<br/> 版本 1904（内部版本 11527.20004）<br/>
 
 **2019 年 3 月 18 日**<br/> 版本 1904（内部版本 11520.20004）<br/>
 
@@ -66,9 +68,7 @@ ms.locfileid: "30737512"
 **Twitter 上的 Office 预览体验成员**<br/> 在 @OfficeInsider 上，我们经常发布有关预览体验成员版本的帖子和主办面向预览体验成员的特别活动。<br/> 
 [在 Twitter 上关注我们](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
-  ![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![I显示 Facebook 图标的图像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **抢先获取新功能**
