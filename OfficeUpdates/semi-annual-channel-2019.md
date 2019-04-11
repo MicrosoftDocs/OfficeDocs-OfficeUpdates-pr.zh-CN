@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478569"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745544"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -27,6 +27,18 @@ ms.locfileid: "31478569"
 > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
+
+## <a name="version-1808-april-9"></a>版本 1808：4 月 9 日
+*版本 1808（内部版本 10730.20334）*
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+
+- 修复了以下问题：用户可以在 IE 或 Edge 中匿名打开文档。
+- 修复了以下问题：应用于任何 Word 文档页眉/页脚 PAGE 和/或 NUMPAGES 字段的文本高亮颜色格式将字段呈现为黑色而不是应用的文本突出显示颜色。
+- 我们添加了对 Word 日语明信片向导加载项的支持，用于日本新时代。 
+
+## <a name="version-1803-april-9"></a>版本 1803：4 月 9 日
+本月没有更新。
 
 ## <a name="version-1808-march-12"></a>版本 1808：3 月 12 日
 *版本 1808（内部版本 10730.20304）*
