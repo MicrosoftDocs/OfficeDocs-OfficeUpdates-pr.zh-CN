@@ -3,19 +3,19 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/1/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 05f442b7b9a8ec761f737b9e982e81d8b8b368e5
-ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
+ms.openlocfilehash: 17a39855ca7e302eeb92f0ca642dfd55db422b7d
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31027892"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751503"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -31,10 +31,10 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
  
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1903 <br/> |11425.20202 <br/> | 2019 年 4 月 1 日 <br/> |版本 1904 已发布 <br/>|
-|半年（定向）  <br/> |1902  <br/> |11328.20158 <br/> |  2019 年 3 月 12 日 <br/> | 2019 年 9 月 10 日 <br/>|
-|半年 <br/> |1808  <br/> | 10730.20304<br/> | 2019 年 3 月 12 日  <br/> |  2020 年 3 月 10 日 <br/>|
-|半年 <br/> |1803  <br/> | 9126.2356  <br/> | 2019 年 2 月 12 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|每月  <br/> |1903 <br/> |11425.20204 <br/> | 2019 年 4 月 9 日 <br/> |版本 1904 已发布 <br/>|
+|半年（定向）  <br/> |1902  <br/> |11328.20230 <br/> |  2019 年 4 月 9 日 <br/> | 2019 年 9 月 10 日 <br/>|
+|半年 <br/> |1808  <br/> | 10730.20334<br/> | 2019 年 4 月 9 日  <br/> |  2020 年 3 月 10 日 <br/>|
+|半年 <br/> |1803  <br/> | 9126.2382  <br/> | 2019 年 4 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
 
 有关从先前版本的 Office 365 专业增强版更新到最新版本时的大致下载大小的信息，请参阅 [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)。
 
@@ -42,13 +42,14 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 下表提供了在以下更新频道发布的每个 Office 365 专业增强版更新的版本号和内部版本号的列表：每月、半年（定向）和半年。表中的每项直接链接到该版本的发行说明。发行说明提供了有关 Office 365 专业增强版更新中包含的功能、安全更新和非安全更新的信息。
 
 
-|**年份**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
+|**年**|**发布日期**|**每月频道**|**半年频道（定向）**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019 年|4 月 9 日 |[版本 1903（内部版本 11425.20204）](monthly-channel-2019.md#version-1903-april-9)|[版本 1902（内部版本 11328.20230）](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[版本 1808（内部版本 10730.20334）](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [版本 1803（内部版本 9126.2382）](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019 年|4 月 1 日 |[版本 1903（内部版本 11425.20202）](monthly-channel-2019.md#version-1903-april-01)| | |
 |2019 年|3 月 25 日 |[版本 1902（内部版本 11328.20222）](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019 年|3 月 12 日 |[版本 1902（内部版本 11328.20158）](monthly-channel-2019.md#version-1902-march-12)|[版本 1902（内部版本 11328.20158）](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[版本 1808（内部版本 10730.20304）](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
 |2019 年|3 月 4 日  |[版本 1902（内部版本 11328.20146）](monthly-channel-2019.md#version-1902-march-4)| | |
-|2019 年|2 月 12 日 |版本 1901（内部版本 11231.20174）[](monthly-channel-2019.md#version-1901-february-12)|版本 1808（内部版本 10730.20280）[](semi-annual-channel-targeted-2019.md#version-1808-february-12) |版本 1808（内部版本 10730.20280）[](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  版本 1803（内部版本 9126.2356）[](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [版本 1708（内部版本 8431.2372）](office365-proplus-security-updates.md#february-12-2019) |
+|2019 年|2 月 12 日 |[版本 1901（内部版本 11231.20174）](monthly-channel-2019.md#version-1901-february-12)|[版本 1808（内部版本 10730.20280）](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[版本 1808（内部版本 10730.20280）](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [版本 1803（内部版本 9126.2356）](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [版本 1708（内部版本 8431.2372）](office365-proplus-security-updates.md#february-12-2019) |
 |2019 年|1 月 31 日   |[版本 1901（内部版本 11231.20130）](monthly-channel-2019.md#version-1901-january-31)| | |
 |2019 年|1 月 14 日   |[版本 1812（内部版本 11126.20266）](monthly-channel-2019.md#version-1812-january-14)| | |
 |2019 年|1 月 8 日 |[版本 1812（内部版本 11126.20196）](monthly-channel-2019.md#version-1812-january-8)|[版本 1808（内部版本 10730.20264）](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[版本 1808（内部版本 10730.20264）](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [版本 1803（内部版本 9126.2351）](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [版本 1708（内部版本 8431.2366）](office365-proplus-security-updates.md#january-8-2019) |
@@ -65,15 +66,15 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 |2018 年|8 月 14 日   |[版本 1807（内部版本 10325.20118）](monthly-channel-2018.md#version-1807-august-14)|[版本 1803（内部版本 9126.2275）](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[版本 1803（内部版本 9126.2275）](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [版本 1708（内部版本 8431.2299）](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[版本 1807（内部版本 10325.20082）](monthly-channel-2018.md#version-1807-july-25) | | |
 ||7 月 17 日   |[版本 1806（内部版本 10228.20134）](monthly-channel-2018.md#version-1806-july-17) | | |
-||7 月 10 日   |[版本 1806（内部版本 10228.20104）](monthly-channel-2018.md#version-1806-july-10) |[版本 1803（内部版本 9126.2259）](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[版本 1803（内部版本 9126.2259）](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [版本 1708（内部版本 8431.2280）](semi-annual-channel-2018.md#version-1708-july-10)   |
+||7 月 10 日   |[版本 1806（内部版本10228.20104）](monthly-channel-2018.md#version-1806-july-10) |[版本 1803（内部版本 9126.2259）](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[版本 1803（内部版本 9126.2259）](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [版本 1708（内部版本 8431.2280）](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||6 月 25 日   |[版本 1806（内部版本 10228.20080）](monthly-channel-2018.md#version-1806-june-25) |||
-||6 月 13 日   |[版本 1805（生成号 9330.2124）](monthly-channel-2018.md#version-1805-june-13) |||
-||6 月 12 日   |[版本 1805（内部版本 9330.2118）](monthly-channel-2018.md#version-1805-june-12)  |[版本 1803（生成号 9126.2227）](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[版本 1708（生成号 8431.2270）](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [版本 1705（内部版本 8201.2294）](semi-annual-channel-2018.md#version-1705-may-8)   |
-||5 月 24 日   |[版本 1805（生成号 9330.2087）](monthly-channel-2018.md#version-1805-may-24) |||
+||6 月 13 日   |[版本 1805（内部版本 9330.2124）](monthly-channel-2018.md#version-1805-june-13) |||
+||6 月 12 日   |[版本 1805（内部版本 9330.2118）](monthly-channel-2018.md#version-1805-june-12)  |[版本 1803（内部版本 9126.2227）](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[版本 1708（内部版本 8431.2270）](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [版本 1705（内部版本 8201.2294）](semi-annual-channel-2018.md#version-1705-may-8)   |
+||5 月 24 日   |[版本 1805（内部版本 9330.2087）](monthly-channel-2018.md#version-1805-may-24) |||
 ||5 月 23 日   |[版本 1805（内部版本 9330.2078）](monthly-channel-2018.md#version-1805-may-23)  |  |  |
-||5 月 18 日   |  |[版本 1803（生成号 9126.2210）](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
+||5 月 18 日   |  |[版本 1803（内部版本 9126.2210）](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
 ||5 月 14 日   |[版本 1804（内部版本 9226.2156）](monthly-channel-2018.md#version-1804-may-14)  |  |  |
-||5 月 8 日   |[版本 1804（内部版本 9226.2126）](monthly-channel-2018.md#version-1804-may-8)  |[版本 1803（生成号 9126.2191）](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[版本 1708（生成号 8431.2250）](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [版本 1705（生成号 8201.2278）](semi-annual-channel-2018.md#version-1705-may-8)   |
+||5 月 8 日   |[版本 1804（内部版本 9226.2126）](monthly-channel-2018.md#version-1804-may-8)  |[版本 1803（内部版本 9126.2191）](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[版本 1708（内部版本 8431.2250）](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [版本 1705（内部版本 8201.2278）](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||4 月 25 日   | [版本 1804（内部版本 9226.2114）](monthly-channel-2018.md#version-1804-april-25)   |   |   |
 ||4 月 11 日   | [版本 1803（内部版本 9126.2152）](monthly-channel-2018.md#version-1803-april-11)   |   |   |
 ||4 月 10 日   |   | [版本 1803（内部版本 9126.2152）](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [版本 1708（内部版本 8431.2242）](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [版本 1705（内部版本 8201.2272）](semi-annual-channel-2018.md#version-1705-april-10)   |
@@ -119,12 +120,12 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 ||5 月 18 日  <br/> | [版本 1704（内部版本 8067.2115）](monthly-channel-2017.md#version-1704-may-18)  <br/> |  <br/> |  <br/> |
 ||5 月 9 日  <br/> | [版本 1703（内部版本 7967.2161）](monthly-channel-2017.md#version-1703-may-9)  <br/> | [版本 1701（内部版本 7766.2084）](semi-annual-channel-targeted-2017.md#version-1701-may-9)  <br/> | [版本 1609（内部版本 7369.2130）](semi-annual-channel-2017.md#version-1609-may-9)  <br/>  [版本 1605（内部版本 6965.2150）](semi-annual-channel-2017.md#version-1605-may-9)  <br/> |
 ||4 月 21 日  <br/> | [版本 1703（内部版本 7967.2139）](monthly-channel-2017.md#version-1703-april-21)  <br/> |  <br/> |  <br/> |
-||4 月 11 日  <br/> | [版本 1702（内部版本 7870.2038）](monthly-channel-2017.md#version-1702-april-11)  <br/> | [版本 1701（内部版本 7766.2076）](semi-annual-channel-targeted-2017.md#version-1701-april-11)  <br/> | [版本 1609（内部版本 7369.2127）](semi-annual-channel-2017.md#version-1609-april-11)  <br/>  [版本 1605（内部版本 6965.2145）](semi-annual-channel-2017.md#version-1605-april-11)  <br/> |
+||4 月 11 日  <br/> | [版本 1702（内部版本 7870.2038）](monthly-channel-2017.md#version-1702-april-11)  <br/> | [版本 1701（内部版本 7766.2076）](semi-annual-channel-targeted-2017.md#version-1701-april-11)  <br/> | [版本 1609（内部版本 7369.2127）](semi-annual-channel-2017.md#version-1609-april-11)  <br/>  [版本 1605（生成号 6965.2145）](semi-annual-channel-2017.md#version-1605-april-11)  <br/> |
 ||3 月 27 日  <br/> | [版本 1702（内部版本 7870.2031）](monthly-channel-2017.md#version-1702-march-27)  <br/> |  <br/> |  <br/> |
 ||3 月 14 日  <br/> | [版本 1702（内部版本 7870.2024）](monthly-channel-2017.md#version-1702-march-14)  <br/> | [版本 1701（内部版本 7766.2071）](semi-annual-channel-targeted-2017.md#version-1701-march-14)  <br/> | [版本 1609（内部版本 7369.2120）](semi-annual-channel-2017.md#version-1609-march-14)  <br/>  [版本 1605（内部版本 6965.2140）](semi-annual-channel-2017.md#version-1605-march-14)  <br/> |
 ||3 月 9 日  <br/> | [版本 1702（内部版本 7870.2020）](monthly-channel-2017.md#version-1702-march-9)  <br/> |  <br/> |  <br/> |
 ||2 月 23 日  <br/> | [版本 1701（内部版本 7766.2060）](monthly-channel-2017.md#version-1701-february-23)  <br/> |  <br/> |  <br/> |
-||2 月 22 日  <br/> |  <br/> | [版本 1701（内部版本 7766.2060）](semi-annual-channel-targeted-2017.md#version-1701-february-22)  <br/> | [版本 1609（内部版本 7369.2118）](semi-annual-channel-2017.md#version-1609-february-22)  |
+||2 月 22 日  <br/> |  <br/> | [版本 1701（生成号 7766.2060）](semi-annual-channel-targeted-2017.md#version-1701-february-22)  <br/> | [版本 1609（生成号 7369.2118）](semi-annual-channel-2017.md#version-1609-february-22)  |
 ||1 月 31 日  <br/> |[版本 1612（内部版本 7668.2074）](monthly-channel-2017.md#version-1612-january-31)  <br/> |  <br/> |  <br/> |
 ||1 月 25 日  <br/> | [版本 1612（内部版本 7668.2066）](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |
 ||1 月 10 日  <br/> |  <br/> | [版本 1609（内部版本 7369.2102）](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [版本 1605（内部版本 6965.2117）](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [版本 1602（内部版本 6741.2105）](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
@@ -181,9 +182,9 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 ## <a name="related-topics"></a>相关主题
 
-- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 专业增强版的更新通道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 365 专业增强版更新发行信息](release-notes-office365-proplus.md)
-- [Office 365 专业增强版更新的下载大小](download-sizes-office365-proplus-updates.md)
+- [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
