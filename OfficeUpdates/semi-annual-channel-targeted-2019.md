@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 68384248cc9385dc03a9f67408a5e0603e1e9986
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: e72fac101cd74306e818790d2a90db01dc9c36c4
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478549"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751493"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -27,6 +27,26 @@ ms.locfileid: "31478549"
  
 > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+
+## <a name="version-1902-april-9"></a>版本 1902：4 月 9 日
+*版本 1902（内部版本 11328.20230）*
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+
+- 解决了导致客户在联系人卡片上加载图片时遇到崩溃的问题。
+- 解决了导致某些客户在启动 Office 应用程序时遇到崩溃的问题。
+- 修复了当系统任务栏保留在屏幕左侧或顶部时窗口不会出现在正确位置的问题。
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+
+- 如果文件以只读模式打开，并且你从“信息”窗格中单击“另存为”，则修复问题以便显示“保存 UI”。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+
+- 修复了导致 Windows 10（版本 1803 或更高版本）设备上出现过多登录提示的问题。
+- 修复了下载链接图片时导致挂起的回归。
+- 修复了粘贴在 Word、Excel、PowerPoint 中的大型 EMF 文件的模糊性。
+- 修复了版本历史记录解析逻辑中的 bug，这些 bug 在少数情况下会导致文档以只读方式打开。
 
 ## <a name="version-1902-march-12"></a>版本 1902：3 月 12 日
 *版本 1902（内部版本 11328.20158）*
