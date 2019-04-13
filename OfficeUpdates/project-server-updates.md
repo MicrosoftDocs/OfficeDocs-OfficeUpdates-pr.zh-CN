@@ -3,7 +3,7 @@ title: Project Server 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 03/13/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 在一个位置集中查找和管理 Project Server 2013 和 Project Server 2010 更新程序。单击此页面上的链接可以详细了解并下载这些更新程序。
-ms.openlocfilehash: 5ed56e7ec406da4cb89c40aa42abab46dadffe87
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 75e8e5f56450363669c938156a121d5f87452593
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568345"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745474"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -30,6 +30,7 @@ ms.locfileid: "30568345"
   
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2019 年 4 月  <br/> |[KB4464513](https://support.microsoft.com/kb/4464513) <br/>|
 |2019 年 3 月  <br/> |[KB4462218](https://support.microsoft.com/kb/4462218) <br/>|
 |2019 年 2 月  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |2019 年 1 月  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
@@ -86,6 +87,7 @@ ms.locfileid: "30568345"
 
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2019 年 4 月  <br/>  |[KB4464521](https://support.microsoft.com/kb/4464521) <br/>|
 |2019 年 3 月  <br/>  |[KB4462227](https://support.microsoft.com/kb/4462227) <br/>|
 |2019 年 2 月  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |2019 年 1 月  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
