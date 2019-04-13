@@ -3,19 +3,19 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 99ea2f8a3ec131b643fc6c964585e7e0b592efe7
-ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
+ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31751523"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818499"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -45,6 +45,8 @@ ms.locfileid: "31751523"
 - **切换效果更好：** 对形状命名，以更好地掌控其平滑效果。 [了解更多信息](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **增加内容的覆盖面：** 需要让你的演示文稿易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
+
+- **为什么重新使用时可以重新发明？**  通过重新使用你创建的幻灯片或其他人与你共享的幻灯片来节省时间。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 
@@ -77,7 +79,7 @@ ms.locfileid: "31751523"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
-- **通过 \@提及吸引同事的注意力：** 在注释中使用 @mentions，以在需要同事的意见时让他们知悉。 [了解更多信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **通过 \@提及吸引同事的注意力：** 在注释中使用 @mentions，以在需要同事的意见时让他们知悉。[了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。[了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
