@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/5/2019
+ms.date: 4/11/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516067"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818509"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -25,7 +25,38 @@ ms.locfileid: "31516067"
 > - 发行说明每周发布一次，可能是多个版本的编译
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
 
-## <a name="april-5th-2019"></a>2019 年 4 月 5 日
+## <a name="april-11-2019"></a>2019 年 4 月 11 日
+版本 1905（内部版本 11601.20042）
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all-applications"></a>所有应用程序
+ - 我们修复了一个阻止某些用户将文件保存到云端的问题
+ - 我们修复了错误的窗格可以从功能区打开的问题
+
+### <a name="word"></a>Word 
+- 各种性能和稳定性修复
+
+### <a name="excel"></a>Excel
+- 我们修复了一个问题，即当工作簿不包含链接的数据类型时，用户会看到链接的数据类型的错误消息
+- 我们修复了一个问题，即当在本地和在线查看时，Word 文档中的 URL 链接可能会发生变化
+
+### <a name="powerpoint"></a>PowerPoint
+- 我们修复了从动画选项卡中撤消更改后应用程序可能崩溃的问题
+
+### <a name="outlook"></a>Outlook
+- 我们修复了阻止某些用户修改公用文件夹中联系人的“备注”字段的问题
+- 我们修复了在到期日期和删除日期之间可能发生冲突的问题
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
+
+## <a name="april-5-2019"></a>2019 年 4 月 5 日
 版本 1904（内部版本 11527.20014）
 
 ## <a name="notable-fixes"></a>显著修复：
