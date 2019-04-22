@@ -3,19 +3,19 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
+ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818499"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31912568"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -27,6 +27,16 @@ ms.locfileid: "31818499"
 
  > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
+
+## <a name="version-1903-april-17"></a>版本 1903：4 月 17 日
+*版本 1903（内部版本 11425.20228）*
+
+- 各种 bug 和性能修补程序。
+
+## <a name="version-1903-april-16"></a>版本 1903：4 月 16 日
+*版本 1903（内部版本 11425.20218）*
+
+- 各种 bug 和性能修补程序。
 
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903（内部版本 11425.20204）* 
@@ -42,7 +52,7 @@ ms.locfileid: "31818499"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
-- **切换效果更好：** 对形状命名，以更好地掌控其平滑效果。 [了解更多信息](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
+- **切换效果更好：** 对形状命名，以更好地掌控其平滑效果。 [了解详细信息](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **增加内容的覆盖面：** 需要让你的演示文稿易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
 
@@ -79,7 +89,7 @@ ms.locfileid: "31818499"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
-- **通过 \@提及吸引同事的注意力：** 在注释中使用 @mentions，以在需要同事的意见时让他们知悉。[了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **通过 \@提及吸引同事的注意力：** 在注释中使用 @提及，以在需要同事的意见时让他们知悉。[了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。[了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -108,7 +118,7 @@ ms.locfileid: "31818499"
 - **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。[了解详细信息](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
-*版本 1901（内部版本 11231.20174）* 
+版本 1901（内部版本 11231.20174）** 
 
 [此处](office365-proplus-security-updates.md)列出安全更新
 
