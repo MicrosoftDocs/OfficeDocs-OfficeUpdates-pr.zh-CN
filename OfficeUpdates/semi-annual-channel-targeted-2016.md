@@ -1,5 +1,5 @@
 ---
-title: 半年通道 （目标） 版本中 2016年发行说明
+title: 2016中的半年频道 (定向) 发布的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: IT 专业人员使用发行说明半年通道 （目标） 版本的 Office 365 proplus 中提供 2016
+description: 为 IT 专业人员提供针对 Office 365 专业增强版的半年频道 (定向) 发布的发行说明2016
 ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19555923"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438997"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>半年通道 （目标） 版本中 2016年发行说明
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中的半年频道 (定向) 发布的发行说明
 
-这些发行说明提供涉及新功能、 安全更新和非安全更新中 2016年半年通道 （目标） 对 Office 365 ProPlus 的更新中包含的信息。
+这些发行说明提供了有关在2016中的 Office 365 专业增强版的半年频道 (定向) 更新中包含的新功能、安全更新和非安全更新的信息。
  
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 半年通道 （目标） 是用于之前年 9 月 2017年推迟通道名为第一版。
+> - 半年频道 (定向) 在9月2017之前先为延期频道命名为第一版。
 
-## <a name="version-1609-december-13"></a>版本 1609年： 年 12 月 13
+## <a name="version-1609-december-13"></a>版本 1609:12 月13日
 *版本 1609（内部版本 7369.2095）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -37,7 +37,7 @@ ms.locfileid: "19555923"
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 -   修复了以下问题：PowerPoint 在用户尝试打开或保存文件时发生故障。
--   修复了以下问题：用户在自定义幻灯片大小时看到的“inches”缩写泰语翻译不正确。 
+-   修复了以下问题：用户在自定义幻灯片大小时看到的“inches”缩写泰语翻译不正确。 
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了以下问题：当运行 Windows 7 的用户先共享主监视器，然后切换共享另一台监视器时，出现黑屏。
@@ -48,7 +48,7 @@ ms.locfileid: "19555923"
 -   修复了以下问题：使用 UK 键盘时，按 CTRL+ALT+4 快捷键无法键入欧元符号。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
+-   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新 (3204068)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了以下问题：使用 VBA 窗体可能会导致框架的 z 顺序无法正常运行或显示。
@@ -57,7 +57,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1609-november-8"></a>版本 1609年： 年 11 月 8
+## <a name="version-1609-november-8"></a>版本 1609:11 月8日
 *版本 1609（内部版本 7369.2055）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -68,7 +68,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1609-november-2"></a>版本 1609年： 年 11 月 2
+## <a name="version-1609-november-2"></a>版本 1609:11 月2日
 *版本 1609（内部版本 7369.2054）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -84,38 +84,38 @@ ms.locfileid: "19555923"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **更新了可视元素：** 更改了图标和颜色，以改进辅助功能。 [更多信息](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **将 UI 更新为“共享”：** UI 元素中的“演示”变为“共享”。例如，“演示桌面”变为“共享桌面”，“演示程序”变为“共享窗口”。
+-   **将 ui 更新为 "共享":** 将 ui 元素中的 "现有" 更改为 "共享", 如将 "存在桌面" 更改为 "共享桌面" 和 "显示程序" 以 "共享窗口"。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了以下问题：用户在迁移到 Exchange Online 后，无法通过连接 Exchange 来获取对话历史记录、联系人或语音邮件信息。
 -   修复了以下问题：在对话窗口中，尝试将信息粘贴到拨号盘或白板的文本注释中会错误地将信息粘贴到聊天输入文本框中。
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全更新
--   修复了以下问题：在用户关闭已保存的 Visio 文件后，Visio 无法关闭。
+-   修复了在关闭已保存的 Visio 文件后，Visio 不会关闭的问题。
 -   修复了大型元文件或高度缩放的元文件显示模糊的问题。
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复了使用输入法编辑器 (IME) 键入东亚语言字符时，焦点切换到右上角的一个小对话框，然后用户无法继续编辑文档的问题。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了以下问题：VBA 表单控件可导致透明标签控件显示为不透明；现有表单不再按预期方式显示或运行；尝试打开包含表单控件的启用宏的文件时，Office 应用程序停止响应。
+-   修复了可导致透明标签控件显示为不透明、现有表单不再按预期方式显示或工作、尝试打开包含表单控件的启用宏的文件时，Office 应用程序停止响应的 VBA 表单控件问题。
 -   修复了使用托管元数据属性时，“显示详细信息”按钮显示在“文件”\>“信息”下的“属性”部分，而不是设置的元数据值的问题。
 -   修复了在使用操作说明搜索时，选择“获取帮助”后“帮助”窗格显示为单独的对话框而不显示在应用程序中的问题。
 -   修复了 OfficeC2RClient.exe 不将“频道”识别为可选设置的问题。
 -   修复了新版本和内部版本格式不会显示在“文件”\>“帐户”下的 Office Update 中的问题。
 -   修复了切换到不同的更新频道可能会导致下次运行更新过程时会安装较早的内部版本的问题。
--   修复了以下问题：使用 GDI 打印机驱动程序 V3 版本的打印机无法打印。
+-   修复了使用 GDI 打印机驱动程序 V3 版本的打印机的打印问题。
 
 
 
-## <a name="version-1609-october-11"></a>版本 1609年： 年 10 月 11
+## <a name="version-1609-october-11"></a>版本 1609:10 月11日
 *版本 1609（内部版本 7369.2038）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **dBASE 支持：** 支持导入或链接到 dBASE 数据库 (.dbf) 中存储的数据。 [详细信息](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
--   修复了以下问题：使用 Access 数据库引擎（例如，使用 Access 应用或将 Access 数据库引擎用作数据提供程序的外接程序）时，通过排序执行查询导致应用发生故障。
+-   修复使用 Access 数据库引擎时（例如在 Access 应用中或带有将 Access 数据库引擎用作数据提供程序的外接程序）执行某排序查询导致应用崩溃的问题。
 -   修复“数字”数据类型的“字段大小”下拉列表不显示任何值的问题，该问题阻止用户在创建或修改表时指定“数字”字段类型。
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -163,13 +163,13 @@ ms.locfileid: "19555923"
 -   修复删除某个表将导致 OneNote 崩溃的问题。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **\@提到:** 确保收件人知道他们正在询问输入或操作通过包括 @ 符号其后电子邮件或日历项目的正文是该人的姓名。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@提到:** 确保收件人通过将 "@" 符号 (后跟人员姓名) 添加到 "电子邮件" 或 "日历" 项目的正文中, 从而知道要求输入或执行操作。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **旅游预订和行程的摘要卡：** 使用收件箱和日历中自动创建的摘要卡验证并跟踪旅游预订以及发送行程。 [更多信息](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加照片的微型预览**：将某个照片附加到电子邮件中时，Outlook 在邮件中显示该照片的微型预览。
 -   **恢复已删除的邮件链接：** 在“已删除邮件文件夹”中，“恢复最近从此文件夹删除的邮件”链接将显示在已删除邮件列表的上方，在选中该链接后，将打开“恢复已删除邮件”对话框。
 -   **点击：** 从组织的相关文档中查找和重新使用内容。 [详细信息](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
 -   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
 -   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
 -   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
@@ -269,7 +269,7 @@ ms.locfileid: "19555923"
 -   Microsoft 安全公告 [MS16-121](https://technet.microsoft.com/library/security/ms16-121)：Microsoft Office 安全更新程序 (3194063)
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
--   修复了以下问题：使用日语输入法编辑器 (IME) 输入双字节字符集 (DBCS) 符号字符时，字体更改为 Segoe UI 表情符号。
+-   修复使用日语输入法编辑器 (IME) 输入双字节字符集 (DBCS) 符号字符时，字体更改为 Segoe UI 表情符号的问题。
 -   修复了在用户尝试将博客文章发布到 SharePoint 时，系统错误地提示用户提供博客主凭据的问题。
 -   修复了用户更改默认编辑或校对语言时，该更改未在下次 Word 打开时继承的问题。
 -   修复在需要基于表单的身份验证的服务器上打开文档导致 Word 崩溃的问题。
@@ -283,7 +283,7 @@ ms.locfileid: "19555923"
 -   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了以下问题：执行联机修复时看不到安装用户界面 (UI)。
+-   修复了在执行联机修复时安装用户界面 (UI) 不显示的问题。
 -   修复了即使对联机模板的访问权限已被组策略设置或注册表设置禁用，“联机模板搜索”框仍然启用的问题。
 -   修复了了打开 Office 应用时，用户收到错误消息“Microsoft 无法找到应用程序的许可证，且修复尝试已失败或取消”，然后 Office 应用关闭的问题。
 -   修复了二进制增量压缩导致之前内部版本的更新程序下载大小大于其应有大小的问题。
@@ -291,11 +291,11 @@ ms.locfileid: "19555923"
 -   修复了多个用户同时在一台具有特定权限配置的计算机上运行 Office 导致 Office 应用崩溃的问题。
 -   修复使用 Office 外接程序命令导致 Excel、Word 或 PowerPoint 随机崩溃的问题。
 -   修复了更新 Office 会覆盖 ODBC 注册表项并要求安装或修复 Microsoft Access 数据库引擎可再发行的问题。
--   修复了以下问题：通过 URL（如 SharePoint）打开 Office 文档且 URL 以 / 字符结尾时，PowerPoint、Word 或 Excel 发生故障。
+-   修复了从 URL（例如从 SharePoint 和以 / 字符结尾的 URL）打开 Office 文档时的 PowerPoint、Word 或 Excel 崩溃问题。
 
 
 
-## <a name="version-1605-september-13"></a>版本 1605年： 年 9 月 13
+## <a name="version-1605-september-13"></a>版本 1605: 9 月13日
 *版本 1605（内部版本 6965.2084）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -330,17 +330,17 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1605-august-9"></a>版本 1605年： 年 8 月 9
+## <a name="version-1605-august-9"></a>版本 1605: 8 月9日
 *版本 1605（内部版本 6965.2076）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
--   修复在尝试编辑包含大量文本框的工作簿时 Excel 挂起的问题。
+-   修复了在尝试编辑包含大量文本框的工作簿时 Excel 挂起的问题。
 -   修复由最新安全更新导致的一个问题，在从不受信任的位置打开 HTML 文件时会打开 Excel，显示不带任何错误消息的空白（空）屏幕，而不允许用户在受保护的视图中打开文件。
 
 ### <a name="onenote-security-updates"></a>OneNote：安全更新
 -   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
@@ -354,14 +354,14 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1605-july-21"></a>版本 1605年： 年 7 月 21
+## <a name="version-1605-july-21"></a>版本 1605: 7 月21日
 *版本 1605（内部版本 6965.2069）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
 -   修复使用 Access 数据库引擎时（例如在 Access 应用中或带有将 Access 数据库引擎用作数据提供程序的外接程序）执行某排序查询导致应用崩溃的问题。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
--   修复刷新 OLAP 数据源一分钟后超时的问题。
+-   修复了刷新 OLAP 数据源一分钟后超时的问题。
 -   解决以下问题：通过使用 Application.OnUndo 保存包含编程撤消级别的工作簿时，工作簿的上次更改被撤消的问题。
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全更新
@@ -369,7 +369,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1605-july-12"></a>版本 1605年： 年 7 月 12
+## <a name="version-1605-july-12"></a>版本 1605: 7 月12
 *版本 1605（内部版本 6965.2066）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -378,18 +378,18 @@ ms.locfileid: "19555923"
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复在某些情况下 Excel 不通知讲述人单元格值发生更改的问题。
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
 
 ### <a name="word-security-updates"></a>Word：安全更新
 -   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了更新 Office 会覆盖 ODBC 注册表项并要求安装或修复 Microsoft Access 数据库引擎可再发行的问题。
+-   修复更新 Office 会覆盖 ODBC 注册表项并要求安装或修复 Microsoft Access 数据库引擎可再发行的问题。
 
 
 
-## <a name="version-1605-june-30"></a>1605 的版本： 6 月 30 日
+## <a name="version-1605-june-30"></a>版本 1605: 6 月30日
 *版本 1605（内部版本 6965.2063）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
@@ -410,15 +410,15 @@ ms.locfileid: "19555923"
 -   解决在 PowerPoint 幻灯片中使用包含链接的文档时 Word 没有响应的问题。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复记录遥测仪表板的信息导致日志中的信息在上载到遥测仪表板之前被覆盖，并造成要上载的文件大小增加的问题。
+-   修复了记录遥测仪表板的信息导致日志中的信息在上载到遥测仪表板之前被覆盖，并造成要上载的文件大小增加的问题。
 
 
 
-## <a name="version-1605-june-14"></a>1605 的版本： 6 月 14
+## <a name="version-1605-june-14"></a>版本 1605: 6 月14日
 *版本 1605（内部版本 6965.2058）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **获取和变换改进：** 新的或改进数据转换和电源查询的数据连接功能。 [详细信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **获取 & 转换改进:** Power Query 的新的或改进的数据转换和数据连接功能。 [详细信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **其他数据连接：** 来源为 JSON 和 Azure SQL 数据仓库的查询数据。
 -   **Power Query 改进：** 改进和新增了数据转换和数据连接功能。 [更多信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **大地址感知支持：** 32 位版本的 Excel 可以使用更多内存（若有）。 [详细信息](https://support.microsoft.com/kb/3160741)
@@ -444,12 +444,12 @@ ms.locfileid: "19555923"
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **简化了配置文件创建：** 简化的用户界面 (UI) 体验，用于使用 Office 365 帐户登录后设置 Office 365 邮箱的其他 Outlook 配置文件。
 
-    注意： 向订阅者推出此功能需要一段时间，因此你可能不会立即看到此功能。你收到此功能的时间还取决于你的组织如何更新 Office。
+    注意： 向订阅者推出此功能需要一段时间，因此你可能不会立即看到此功能。 你收到此功能的时间还取决于你的组织如何更新 Office。
 
 -   **对话的附件列表：** Office 365 组中对话的所有附件均可从阅读窗格右上角的下拉列表中查看。
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
--   修复即使在“文件 \> 选项 \> 邮件 \> 信纸和字体”下选中“答复或转发时选用新颜色”，答复或转发时仍使用黑色字体颜色而不选用新颜色的问题。
+-   修复了即使在“文件”\>“选项”\>“邮件”\>“信纸和字体”下选中“答复或转发时选用新颜色”，答复或转发时仍使用黑色字体颜色而不选用新颜色的问题。
 -   改进可能即将出现的 PST 损坏的检测并添加相应步骤，以尝试阻止损坏发生。
 -   修复了发送 .rtf 格式的电子邮件时扩展的符号字符更改为“1”的问题。
 -   修复了用于查看服务器上旧邮件的链接没有显示在文件夹（如“收件箱”或“已删除邮件”文件夹）中邮件列表底部的问题。
@@ -512,7 +512,7 @@ ms.locfileid: "19555923"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 -   **AD RMS 权限策略模板设置：** 确保将“授予所有者（作者）无过期期限的完全控制权限”的设置应用到新的 Word、Excel 和 PowerPoint 文件时都可被接受（尤其是当禁用此设置时）。如果禁用此设置，用户将看到一个警告：应用该模板可能限制对文档的访问。
 
-    注意： 将不会更改已由配置了该设置的模板保护的现有文档。所有者将仍然拥有这些文档的无过期期限的完全控制权限。
+    注意： 将不会更改已由配置了该设置的模板保护的现有文档。 所有者将仍然拥有这些文档的无过期期限的完全控制权限。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   Microsoft 安全公告 [MS16-054](https://technet.microsoft.com/library/security/ms16-054)：Microsoft Office 安全更新程序 (3155544)
@@ -527,7 +527,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1602-june-7"></a>1602 的版本： 6 月 7 日
+## <a name="version-1602-june-7"></a>版本 1602: 6 月7日
 *版本 1602（内部版本 6741.2047）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
@@ -541,7 +541,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1602-may-23"></a>版本 1602年： 年 5 月 23
+## <a name="version-1602-may-23"></a>版本 1602: 5 月23日
 *版本 1602（内部版本 6741.2042）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
@@ -554,11 +554,11 @@ ms.locfileid: "19555923"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了在 Office 应用崩溃后下次打开时（尤其是崩溃后立即重新打开应用）不显示文档恢复任务窗格的问题。
--   更新 OfficeC2RClient.exe 以使用 "channel" 而不是 "branch" 作为命令行选项。
+-   更新 OfficeC2RClient.exe 以使用“channel”而不是“branch”作为命令行选项。
 
 
 
-## <a name="version-1602-may-10"></a>版本 1602年： 年 5 月 10
+## <a name="version-1602-may-10"></a>版本 1602: 5 月10日
 *版本 1602（内部版本 6741.2037）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -580,7 +580,7 @@ ms.locfileid: "19555923"
 -   修复了在保存和关闭项目时删除的基准日历导致 Project 在项目重新打开时发生故障的问题。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
--   修复了在你使用向上箭头键滚动浏览聊天历史记录中的旧即时消息时，选择消息后会意外返回至聊天历史记录底部的消息的问题。
+-   修复了使用向上箭头键滚动浏览聊天历史记录中以前的即时消息时，选中的项意外返回至聊天历史记录底部的项的问题。
 -   修复了 Skype 错误创建联系人组（而非联系人）的问题。
 
 ### <a name="word-security-updates"></a>Word：安全更新
@@ -594,7 +594,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1602-may-3"></a>版本 1602年： 年 5 月 3
+## <a name="version-1602-may-3"></a>版本 1602: 5 月3
 *版本 1602（内部版本 6741.2033）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -610,8 +610,8 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1602-april-12"></a>版本 1602年： 年 4 月 12
-*版本 1602 （构建 6741.2026）*
+## <a name="version-1602-april-12"></a>版本 1602: 4 月12日
+*版本 1602 (内部版本 6741.2026)*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-042](https://technet.microsoft.com/library/security/ms16-042)：Microsoft Office 安全更新程序 (3148775)
@@ -621,15 +621,15 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1602-april-4"></a>版本 1602年: 28、april 4
+## <a name="version-1602-april-4"></a>版本 1602: 4 月4日
 *版本 1602（内部版本 6741.2025）*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
--   修复了屏幕共享（主要是在 Windows 7 中）可能导致屏幕共享会话在大约 10 分钟后冻结，并且 Skype 可能不会响应用户输入的问题。
+-   修复了屏幕共享（主要在 Windows 7 中）可能导致屏幕共享会话在大约 10 分钟后冻结，并且 Skype 可能不会响应用户输入的问题。
 
 
 
-## <a name="version-1602-march-23"></a>版本 1602年: 3 月 23 日
+## <a name="version-1602-march-23"></a>版本 1602: 3 月23日
 *版本 1602（内部版本 6741.2021）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
@@ -637,7 +637,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1602-march-16"></a>版本 1602年： 年 3 月 16
+## <a name="version-1602-march-16"></a>版本 1602: 3 月16日
 *版本 1602（内部版本 6741.2017）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
@@ -645,7 +645,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1602-march-14"></a>版本 1602年： 年 3 月 14
+## <a name="version-1602-march-14"></a>版本 1602: 3 月14
 *版本 1602（内部版本 6741.2015）*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
@@ -653,7 +653,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1602-march-8"></a>版本 1602年： 年 3 月 8
+## <a name="version-1602-march-8"></a>版本 1602: 3 月8日
 *版本 1602（内部版本 6741.2014）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
@@ -729,7 +729,7 @@ ms.locfileid: "19555923"
 -   修复了在“从”下拉列表中的项目不能完全以高对比度模式突出显示的问题。
 -   修复了在使用“SHIFT + 单击”选择多个附件时，仅选中第一个附件的问题。
 -   修复配置为使用 POP3 时在 Outlook 下载邮件后服务器上的所有邮件都从收件箱中删除的问题。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
--   解决问题，在配置为使用 POP3，邮件会下载多次，导致重复项。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
+-   修复了以下问题: 当配置为使用 POP3 时, 邮件会多次下载, 从而导致重复的项目。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
 -   修复了用户无法访问驻留在 Exchange Server 2010 上的公用文件夹的问题。
 -   修复了在高 DPI 设备和普通 DPI 监视器之间发送邮件时显示图像大小错误的问题。
 -   修复在消息列表中拖动滚动条导致列表跳到末尾的问题。
@@ -743,7 +743,7 @@ ms.locfileid: "19555923"
 -   **Morph 转换：** 在幻灯片之间创建无缝转换并为演示文稿添加动画功能，以便更有效地传达概念和信息。 [详细信息](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 设计器：** 允许您提取内容并自动生成各种想法，使您可从中选择以使您的幻灯片效果更佳的新服务。 [更多信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    此服务需要 Internet 连接。 若要禁用此功能，[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)和启用 PowerPoint 设计器选项设置。 您可以找到用户配置下的此策略设置\\管理模板\\Microsoft Office 2016\\工具 |选项 |常规 |服务选项...\\PowerPoint 设计器。
+    此服务需要 Internet 连接。 若要禁用此功能, 请[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)并启用 PowerPoint 设计器选项设置。 可以在 "用户配置\\管理模板\\" 下找到此策略设置 Microsoft\\Office 2016 Tools |选项 |常规 |服务选项 .。。\\PowerPoint 设计器。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
 -   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
@@ -834,7 +834,7 @@ ms.locfileid: "19555923"
 -   **“文件”\>“打开”中的排序功能：** 在除 Outlook 之外的所有应用中，可以在“文件”\>“打开”中按名称或修改日期排序。对于 Word、Excel 和 PowerPoint，还可以在“文件”\>“另存为”中进行排序。
 -   **“文件”\>“另存为”中的文件夹浏览功能：** 对于 OneDrive 文件夹、OneDrive for Business 文件夹和计算机，可在 Word、Excel 和 PowerPoint 中的“文件”\>“另存为”中使用完整文件夹导航。
 -   **代理发送选项：** 在 Word 或 PowerPoint 中从“共享”窗格将文档作为附件或 PDF 发送。
--   **插入图片 API:** 将图像插入到 Word、 Excel 或 PowerPoint，常见的 office.js 库中使用[document.setSelectedDataAsync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)。 Word JavaScript API 提供主机特定的方法（称为 insertInlinePictureFromBase64()），用于在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx),[ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range对象上设置内联图片。
+-   **插入图片 API:** 使用通用的 document.setselecteddataasync 库中的[document 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)将图像插入到 Word、Excel 或 PowerPoint 中。 Word JavaScript API 提供主机特定的方法（称为 insertInlinePictureFromBase64()），用于在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx),[ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range对象上设置内联图片。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
@@ -882,7 +882,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1509-february-9"></a>版本 1509年： 年 2 月 9
+## <a name="version-1509-february-9"></a>版本 1509: 2 月9日
 *版本 1509（内部版本 6001.1061）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -893,7 +893,7 @@ ms.locfileid: "19555923"
 
 
 
-## <a name="version-1509-january-12"></a>版本 1509年： 年 1 月 12
+## <a name="version-1509-january-12"></a>版本 1509:12 月12日
 *版本 1509（内部版本 6001.1054）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新

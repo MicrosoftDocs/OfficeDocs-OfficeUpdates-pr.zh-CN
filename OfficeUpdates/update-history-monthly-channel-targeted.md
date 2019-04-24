@@ -3,23 +3,23 @@ title: Office 每月频道（定向）的更新历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/29/2019
+ms.date: 04/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: fdced22eae18b138ae8a0ae59449c1131207a0e4
-ms.sourcegitcommit: bc2b4e9dc112c3d123c2e4fd50e5533032ee5471
+ms.openlocfilehash: 7e50142c1c0e404ef9693f19cd6a5fccfefa0b42
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31026383"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958113"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
-你好，预览体验成员！如果你想知道是否安装了最新的更新或查找最近的每月频道（定向）内部版本列表，那么你来对地方了。单击[此处](https://insider.office.com/)以了解有关预览体验成员计划的详细信息。
+你好，预览体验成员！无论你是要确定自己是否已安装最新的更新，还是要查找最近每月频道（定向）的列表，你都来对了地方。单击[此处](https://insider.office.com/)可详细了解预览体验计划。
 
 ## <a name="office-insider-versions-and-builds"></a>Office 预览体验成员版本和内部版本
 
@@ -28,6 +28,14 @@ ms.locfileid: "31026383"
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
 > - 发行说明的更新速度将放慢，可能是已发布内部版本号之前的发行说明的多个内部版本的更新编译
+
+[//]: # (请勿移除)
+
+**2019 年 4 月 16 日**<br/>
+版本 1903（内部版本 11425.20218）<br/>
+
+**2019 年 4 月 9 日**<br/>
+版本 1903（内部版本 11425.20204）<br/>
 
 **2019 年 3 月 29 日**<br/> 版本 1903（内部版本 11425.20202）<br/>
 

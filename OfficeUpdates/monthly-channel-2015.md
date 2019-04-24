@@ -1,5 +1,5 @@
 ---
-title: 每月通道版本中 2015年发行说明
+title: 2015中的每月频道发布的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 提供在 2015 Office 365 ProPlus 的发行版的 IT 专业人员使用的每月通道发行说明
+description: 为 IT 专业人员提供有关 Office 365 专业增强版的每月频道发布的发行说明2015
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19555918"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438804"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>每月通道版本中 2015年发行说明
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015中的每月频道发布的发行说明
 
-这些发行说明提供涉及新功能、 安全更新和非安全更新 2015年在 Office 365 ProPlus 每月通道更新中包含的信息。
+这些发行说明提供了有关在2015中的 Office 365 专业增强版的每月频道更新中包含的新功能、安全更新和非安全更新的信息。
  
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 每月通道被命名为年 9 月 2017年之前的当前通道。
+> - 每月频道的名称为9月2017日之前的当前频道。
 
-## <a name="version-1511-december-11"></a>版本 1511年： 年 12 月 11
+## <a name="version-1511-december-11"></a>版本 1511:12 月11日
 *版本 1511（内部版本 6366.2036）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **BI 模板：** 利用商业智能 (BI) 功能的 Excel 的三个新模板：[日历见解](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)，[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)，[我现金流](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI 模板:** 利用 Excel 的商业智能 (BI) 功能的三个新模板:[日历见解](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、我的[现金流量](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了拖动格式为使用数字作为长日期的单元格的填充手柄导致 Excel 崩溃的问题。
@@ -55,7 +55,7 @@ ms.locfileid: "19555918"
 -   **Morph 转换：** 在幻灯片之间创建无缝转换并为演示文稿添加动画功能，以便更有效地传达概念和信息。 [详细信息](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 设计器：** 允许您提取内容并自动生成各种想法，使您可从中选择以使您的幻灯片效果更佳的新服务。 [更多信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    此服务需要 Internet 连接。 若要禁用此功能，[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)和启用 PowerPoint 设计器选项设置。 您可以找到用户配置下的此策略设置\\管理模板\\Microsoft Office 2016\\工具 |选项 |常规 |服务选项...\\PowerPoint 设计器。
+    此服务需要 Internet 连接。 若要禁用此功能, 请[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)并启用 PowerPoint 设计器选项设置。 可以在 "用户配置\\管理模板\\" 下找到此策略设置 Microsoft\\Office 2016 Tools |选项 |常规 |服务选项 .。。\\PowerPoint 设计器。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 -   修复带有动画的 SmartArt 在演示者视图中不按预期顺序出现在幻灯片放映视图中的问题。
@@ -69,7 +69,7 @@ ms.locfileid: "19555918"
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 -   **代理发送选项**：在 Word 或 PowerPoint 中从“共享”窗格将文档作为附件或 PDF 发送。
--   **插入图片 API**： 使用常见的 office.js 库中[document.setSelectedDataAsync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)将图像插入到 Word、 Excel 或 PowerPoint。 Word 的 JavaScript API 提供特定于宿主的方法调用 insertInlinePictureFromBase64() 设置[正文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 对象上的嵌入式图片。
+-   **插入图片 API**：使用通用 office.js 库中的 [document.setSelectedDataAsync 方法将图像插入 Word、](https://msdn.microsoft.com/library/office/fp142145.aspx)Excel 或 PowerPoint。 Word JavaScript API 提供了特定于主机的方法, 称为 insertInlinePictureFromBase64 (), 用于在[Body](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 对象上设置内联图片。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复执行“打开”或“另存为”操作时显示的“修改日期”信息被截断的问题。
@@ -82,7 +82,7 @@ ms.locfileid: "19555918"
 -   修复在 Office 预安装工具包在审核模式下运行的 Windows 7 OEM 计算机上升级到 Office 2016 时导致激活过程中出现错误 0x80070005 的问题。
 
 
-## <a name="version-1509-december-8"></a>版本 1509年: 12 月 8 日
+## <a name="version-1509-december-8"></a>版本 1509:12 月8日
 *版本 1509（内部版本 6001.1043）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -111,7 +111,7 @@ ms.locfileid: "19555918"
 
 
 
-## <a name="version-1509-november-10"></a>版本 1509年： 年 11 月 10
+## <a name="version-1509-november-10"></a>版本 1509:11 月10日
 *版本 1509（内部版本 6001.1038）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
@@ -180,7 +180,7 @@ ms.locfileid: "19555918"
 
 
 
-## <a name="version-1509-october-21"></a>版本 1509年： 年 10 月 21
+## <a name="version-1509-october-21"></a>版本 1509:10 月21日
 *版本 1509（内部版本 6001.1034）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -223,7 +223,7 @@ ms.locfileid: "19555918"
 
 
 
-## <a name="version-1509-october-5"></a>版本 1509年: 10 月 5 日
+## <a name="version-1509-october-5"></a>版本 1509:10 月5日
 *版本 1509（内部版本 4229.1029）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -248,7 +248,7 @@ ms.locfileid: "19555918"
 
 
 
-## <a name="version-1509-september-22"></a>版本 1509年： 年 9 月 22
+## <a name="version-1509-september-22"></a>版本 1509: 9 月22日
 *版本 1509（内部版本 4229.1024）*
 
 这是此分支的初始版本。在此版本中，Office 2016 应用程序首次可用。
