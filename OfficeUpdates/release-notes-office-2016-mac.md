@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供自 2018 年 9 月开始的 Office 2016 for Mac 发行版的发行说明
-ms.openlocfilehash: 801964703a2a43f721a31b7692d1dd24f69450d0
-ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
+ms.openlocfilehash: 7b46ce1be815d252ab4493630ac18989282cbcb5
+ms.sourcegitcommit: 5a3394599c426087999ef0a7044a7a511405b665
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31924330"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "32460137"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Office 2016 for Mac 发行说明
 
@@ -35,7 +35,7 @@ Office 2016 for Mac 的更新可从 Microsoft AutoUpdate (MAU) 获得。若要�
 下表列出了 Office 2016 for Mac 和各个应用程序（如 Word 和 Excel）的最新程序包。所有程序包仅提供 64 位版本。创建日期在版本号后以 YYMMDD 格式在括号中列出。如果尚未安装该应用程序，则使用安装包，而更新包用于更新现有安装。
 
 ### <a name="april-16-2019"></a>2019 年 4 月 16 日
-版本 16.16 (19041201)
+版本 16.16.9 (19041201)
 
 |**应用程序**|**下载链接**|**安装包的 SHA256 哈希**|
 |:-----|:-----|:-----|:-----|
@@ -50,7 +50,7 @@ Office 2016 for Mac 的更新可从 Microsoft AutoUpdate (MAU) 获得。若要�
 
  **发布日期：** 2019 年 4 月 16 日 
   
- *版本 16.16（内部版本 19041201）* 
+ *版本 16.16.9（内部版本 19041201）* 
   
 此版本提供以下更新。
   
