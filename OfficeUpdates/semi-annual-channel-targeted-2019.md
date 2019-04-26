@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: cdf78723e289a421c81986fd3ccc15e199fbb6ef
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958043"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33235242"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -31,11 +31,26 @@ ms.locfileid: "31958043"
 ## <a name="version-1902-april-9"></a>版本 1902：4 月 9 日
 *版本 1902（内部版本 11328.20230）*
 
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+
+- 解决了在包含以定义名称结尾的公式的单元格中按 Tab 键不会移动到下一个单元格的问题。
+- 解决了单元格格式化导致文件大小不必要增长的问题。
+- 解决了在工作簿之间剪切和粘贴数据透视表可能导致数据被粘贴的问题，不包含与你正在协作的其他人的数据透视表。
+
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 
+- 修复了当系统任务栏保留在屏幕左侧或顶部时窗口不会出现在正确位置的问题。
 - 解决了导致客户在联系人卡片上加载图片时遇到崩溃的问题。
 - 解决了导致某些客户在启动 Office 应用程序时遇到崩溃的问题。
 - 修复了当系统任务栏保留在屏幕左侧或顶部时窗口不会出现在正确位置的问题。
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+
+- 修复了以下问题：Lync (Skype for Business) 中对于任何有 7 个以上参与者的在线会议，会议窗口可能会消失。
+
+### <a name="visio-non-security-updates"></a>Visio：非安全更新
+
+- 修复了以下问题：导致通过禁用动态 DPI 功能扩展 Visio 的第 3 方解决方案的窗口层次结构损坏问题。
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 
@@ -43,6 +58,9 @@ ms.locfileid: "31958043"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
+- 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 
+  [了解详细信息]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+- 修复了如果使用 Office 部署工具安装 Office 且存在不匹配的情况时，可能导致产品被删除或未激活的 bug。
 - 修复了导致 Windows 10（版本 1803 或更高版本）设备上出现过多登录提示的问题。
 - 修复了下载链接图片时导致挂起的回归。
 - 修复了粘贴在 Word、Excel、PowerPoint 中的大型 EMF 文件的模糊性。

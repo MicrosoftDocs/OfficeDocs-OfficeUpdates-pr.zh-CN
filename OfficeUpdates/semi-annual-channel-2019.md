@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745544"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33234894"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -31,6 +31,9 @@ ms.locfileid: "31745544"
 ## <a name="version-1808-april-9"></a>版本 1808：4 月 9 日
 *版本 1808（内部版本 10730.20334）*
 
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+- 修复了以下问题：Lync (Skype for Business) 中对于任何有 7 个以上参与者的在线会议，会议窗口可能会消失。
+
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 
 - 修复了以下问题：用户可以在 IE 或 Edge 中匿名打开文档。
@@ -38,7 +41,7 @@ ms.locfileid: "31745544"
 - 我们添加了对 Word 日语明信片向导加载项的支持，用于日本新时代。 
 
 ## <a name="version-1803-april-9"></a>版本 1803：4 月 9 日
-本月没有更新。
+- [此处](office365-proplus-security-updates.md)列出安全更新
 
 ## <a name="version-1808-march-12"></a>版本 1808：3 月 12 日
 *版本 1808（内部版本 10730.20304）*
@@ -57,10 +60,10 @@ ms.locfileid: "31745544"
 - 已修复 Office 更新可能会在尝试下载时停滞一段时间的问题。
 
 ## <a name="version-1803-march-12"></a>版本 1803：3 月 12 日 
-本月没有更新。
+- [此处](office365-proplus-security-updates.md)列出安全更新
 
 ## <a name="version-1808-february-12"></a>版本 1808：2 月 12 日
-*版本 1808（内部版本 10730.20280）*
+版本 1808（内部版本 10730.20280）**
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新 
 
@@ -79,9 +82,9 @@ ms.locfileid: "31745544"
 
 
 ## <a name="version-1803-february-12"></a>版本 1803：2 月 12 日
-*版本 1803（内部版本 9126.2356）*
+版本 1803（内部版本 9126.2356）**
 
-*这是自 2018 年 7 月以来已经提供的半年频道版本。 2019 年 9 月前，我们将继续支持该版本并提供安全更新程序。 不过，新版的半年频道（即版本 1808，内部版本 10730.20280）现已推出，其中包含新增功能、安全更新程序以及一些非安全更新程序。*
+这是自 2018 年 7 月起就已发布的半年频道版本。2019 年 9 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1808，内部版本 10730.20280）现已推出，其中包含新增功能、安全更新和非安全更新**。
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新 
 
@@ -113,7 +116,7 @@ ms.locfileid: "31745544"
 ## <a name="version-1708-february-12"></a>版本 1708：2 月 12 日
 *版本 1708（内部版本 8431.2372）*
 
-*这是自 2018 年 1 月以来已经提供的半年频道版本。 2019 年 3 月前，我们将继续支持该版本并提供安全更新程序。 不过，新版的半年频道（即版本 1808，内部版本 10730.20280）现已推出，其中包含新增功能、安全更新程序以及一些非安全更新程序。*
+这是自 2018 年 1 月起就已发布的半年频道版本。2019 年 3 月前，此版本会继续获得支持，并接收安全更新程序。不过，新版半年频道（即版本 1808，内部版本 10730.20280）现已推出，其中包含新增功能、安全更新程序和非安全更新程序**。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
@@ -272,9 +275,9 @@ ms.locfileid: "31745544"
 ## <a name="version-1803-january-8"></a>版本 1803：1 月 8 日
 *版本 1803（内部版本 9126.2351）*
 
-*这是自 2018 年 7 月以来已经提供的半年频道版本。 2019 年 9 月前，我们将继续支持该版本并提供安全更新程序。 不过，新版的半年频道（即版本 1808）现已推出，其中包含新增功能、安全更新程序以及一些非安全更新程序。*
+*这是自 2018 年 7 月起就已发布的半年频道版本。2019 年 9 月前，此版本会继续获得支持，并接收安全更新。不过，新版半年频道（即版本 1808）现已推出，其中包含新增功能、安全更新和非安全更新。*
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新程序
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 - 修复了确保 Office 应用程序之间 LinkedIn 选项的功能奇偶一致性的问题。
 
 

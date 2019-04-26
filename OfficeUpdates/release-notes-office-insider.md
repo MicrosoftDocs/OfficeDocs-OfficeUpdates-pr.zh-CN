@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818509"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438899"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -25,7 +25,60 @@ ms.locfileid: "31818509"
 > - 发行说明每周发布一次，可能是多个版本的编译
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
 
-## <a name="april-11-2019"></a>2019 年 4 月 11 日
+## <a name="april-19-2019"></a>2019 年 4 月 19 日
+版本 1905（内部版本 11609.20002）
+
+## <a name="whats-new"></a>最近更新：
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>改进了使用数据类型的着色地图体验
+
+对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。
+
+##### <a name="getting-started"></a>入门：
+
+- 此功能是对 Excel 中现有功能的改进。 若要使用此改进功能，可将位置转换为“丰富实体”并使用着色地图绘图。 
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+- 用户可尝试绘制城市、省/市/自治区、县、国家/地区和邮政编码。 
+
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all-applications"></a>所有应用程序
+- 修复了应用程序启动时显示“首次运行”对话框的问题
+- 修复了“另存为”对话框中的 SharePoint 链接可能丢失的问题。
+- 修复了用户将误看到“立即修复”对话框的问题
+
+### <a name="word"></a>Word 
+- 修复了一些用户在请求字体时可能会收到内存或磁盘空间不足错误的问题
+- 修复了从批注窗格切换时窗口可能丢失焦点的问题
+
+### <a name="excel"></a>Excel
+- 各种性能和稳定性修复
+
+### <a name="powerpoint"></a>PowerPoint
+- 修复了阻止调整品牌形状大小的问题
+- 修复了 PowerPoint 在保护视图模式下打开文件时可能崩溃的问题
+
+### <a name="outlook"></a>Outlook
+- 修复了阻止某些用户选择中文字词的问题
+- 修复了到期日期未正确计算的问题
+
+### <a name="access"></a>Access
+- 修复了阻止某些用户使用宏生成器的问题
+- 修复了打印报告只打印第一页的问题
+- 修复了在鼠标悬停在超链接上时应用程序可能崩溃的问题
+- 修复了在使用关系视图时导致一些项目出现在屏幕之外的问题
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>2019 年 4 月 12 日
 版本 1905（内部版本 11601.20042）
 
 ## <a name="notable-fixes"></a>显著修复：
@@ -213,7 +266,7 @@ ms.locfileid: "31818509"
 - 我们修复了打开受保护文档和可编辑文档时在 Excel 中复制单元格导致 CPU 使用率过高的问题
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我们修复了在 PowerPoint 中使用 @Mentions 提及功能时幻灯片图像大小的问题
+- 我们修复了在 PowerPoint 中使用 @提及功能时幻灯片图像大小的问题
 
 ### <a name="outlook"></a>Outlook
 - 我们修复了 Outlook 搜索不按选定的时间顺序排序的问题
