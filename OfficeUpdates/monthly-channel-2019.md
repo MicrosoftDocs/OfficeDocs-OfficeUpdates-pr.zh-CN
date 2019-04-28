@@ -3,19 +3,19 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 6222443b6b6d22d2d80b135fe10fec61ff96d708
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438647"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33234884"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -46,9 +46,12 @@ ms.locfileid: "32438647"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903（内部版本 11425.20204）* 
 
-[此处](office365-proplus-security-updates.md)列出安全更新
+- [此处](https://docs.microsoft.com/zh-CN/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
-## <a name="version-1903-april-01"></a>版本 1903：4 月 1 日 
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+- 修复了以下问题：Lync (Skype for Business) 中对于任何有 7 个以上参与者的在线会议，会议窗口可能会消失。
+
+## <a name="version-1903-april-01"></a>版本 1903：4 月 1 日
 *版本 1903（内部版本 11425.20202）* 
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
