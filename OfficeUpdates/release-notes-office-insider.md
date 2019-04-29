@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438899"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370184"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -24,6 +24,32 @@ ms.locfileid: "32438899"
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
+
+## <a name="april-26-2019"></a>2019 年 4 月 26 日
+版本 1905（内部版本 11617.20002）
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="word"></a>Word 
+- 各种性能和稳定性修复
+
+### <a name="excel"></a>Excel
+- 修复了规划求解宏运行失败的问题
+- 修复了可能阻止将 Excel 文件导入 SharePoint 的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修复
+
+### <a name="outlook"></a>Outlook
+- 各种性能和稳定性修复
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="april-19-2019"></a>2019 年 4 月 19 日
 版本 1905（内部版本 11609.20002）
