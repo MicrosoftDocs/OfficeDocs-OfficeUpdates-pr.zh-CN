@@ -3,19 +3,19 @@ title: Office for Mac 发行说明
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 5/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 6cb4866a65ad45e54a13f62e1b422675d8e4ede4
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 57e30df61e42547b0c23cdb797142dcf87666a56
+ms.sourcegitcommit: b3d71e9fbbece2bba40b6b71f2ad3f4bbbee7a55
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370254"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33527777"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -36,7 +36,24 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ## <a name="april-2019-release"></a>2019 年 4 月版本
 
- **发布日期：** 2019 年 4 月 16 日 
+**发布日期：** 2019 年 4 月 29 日 
+  
+ *版本 16.24.1（内部版本 19042400）*
+
+
+ 此版本提供以下更新：
+
+|**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
+|:-----|:-----|:-----|:-----|
+|Word<br/>|更新捆绑字体以包含新的日本时代字形。<br/>|<br/>|[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19042400_Updater.pkg)<br/>|
+|Excel<br/>|更新捆绑字体以包含新的日本时代字形。<br/>|<br/>|[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19042400_Updater.pkg)<br/>|
+|Powerpoint<br/>|更新捆绑字体以包含新的日本时代字形。<br/>|<br/>|[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19042400_Updater.pkg)<br/>|
+|Outlook<br/>|更新捆绑字体以包含新的日本时代字形。<br/>|<br/>|[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19042400_Updater.pkg)<br/>|
+|OneNote<br/>|更新捆绑字体以包含新的日本时代字形。<br/>|<br/>|[OneNote 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Onenote_16.24.19042400_Updater.pkg)<br/>|
+
+
+
+ **发布日期：** 2019 年 4 月 16 日
   
  *版本 16.24（内部版本 19041401）*
 
