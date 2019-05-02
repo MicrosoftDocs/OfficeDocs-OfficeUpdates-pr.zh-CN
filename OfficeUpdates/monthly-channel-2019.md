@@ -3,19 +3,19 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370284"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480084"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -27,6 +27,30 @@ ms.locfileid: "33370284"
 
  > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
+
+## <a name="version-1904-april-29"></a>版本 1904：4 月 29 日
+*版本 1904（内部版本 11601.20144）* 
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+
+- **新的 Office 应用图标：** 重新设计的应用图标，以反映出 Office 简单、强大而智能的体验。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+修复了将采用平假名和日语汉字的新纪元名称“Reiwa”错误地标识为拼写错误或不符合语法的表达式的问题。
 
 ## <a name="version-1903-april-23"></a>版本 1903：4 月 23 日
 *版本 1903（内部版本 11425.20244）*
