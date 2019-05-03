@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
+ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438717"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "33568602"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -59,7 +59,6 @@ ms.locfileid: "32438717"
 
 - **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。[了解详细信息](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **移动邮件时继续工作：** Outlook 现在在后台移动邮件，因此你可以在文件夹之间移动大量邮件时继续工作。
-- **在 Outlook 中查看联系人的领英详细信息：** 现在，可以在打开联系人的个人资料卡片时，通过查看他们的领英个人资料来详细了解他们。
 - **优化了重点收件箱的启用和禁用体验：** 对于不使用重点收件箱的客户，我们跨所有文件夹恢复了邮件列表中的“未读”选项卡。此外，我们还添加了按标志排序功能，以简化已标志项的查找过程。最后，重点收件箱改进了搜索交互模型：重点收件箱一直保留到用户开始搜索，我们在搜索完成后显示“结果”文本。
 - **默认阻止下载 SMIME 加密和签名的电子邮件中的外部内容：** 鉴于 SMIME 协议中的漏洞，Outlook 将阻止下载由 SMIME 加密或签名的邮件上的外部内容。用户将无法通过 Outlook UI 单击下载外部内容，以防止受到安全漏洞的危害。“选项”对话框提供了一个新选项，用户可使用它还原至旧行为。 
 
