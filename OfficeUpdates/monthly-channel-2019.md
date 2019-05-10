@@ -3,19 +3,18 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
+ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480084"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33834811"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -28,6 +27,11 @@ ms.locfileid: "33480084"
  > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
 
+## <a name="version-1904-may-08"></a>版本 1904：5 月 8 日 
+*版本 1904（内部版本 11601.20178）* 
+
+ - 各种 bug 和性能修补程序。
+
 ## <a name="version-1904-april-29"></a>版本 1904：4 月 29 日
 *版本 1904（内部版本 11601.20144）* 
 
@@ -35,15 +39,25 @@ ms.locfileid: "33480084"
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **将 LinkedIn 网络连接到 Outlook：** 以安全的方式将 LinkedIn 帐户连接到 Microsoft 帐户，直接在“人员”卡片中查看 LinkedIn 中的信息。 [了解更多](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
+- **将流程图导出至 Word：** 向 Word 文档自动添加流程图内容，如形状和元数据。 然后自定义文档以创建过程指南和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+ - **修订、备注和实时同步协作的颜色：** 产品中的修复现在可确保以相同的颜色显示备注、修订和协作者光标。
+
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **新图标：** 我们已根据用户反馈添加了 300 多个新图标。 你可以使用功能区“插入”选项卡上的“图标”按钮找到它们。
 
 - **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
@@ -79,6 +93,8 @@ ms.locfileid: "33480084"
 *版本 1903（内部版本 11425.20202）* 
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **Excel 中的见解：** 见解为多位用户提供值。 见解可提供一种较为温和的数据分析方法，并且还可以为其他人提供不同的数据观点。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **增加内容的覆盖面：** 需要让你的电子表格易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试，我们在状态栏中找到你需要查看的内容时会通知你。
 
@@ -166,6 +182,8 @@ ms.locfileid: "33480084"
 - **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。[了解详细信息](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
+
+- **数据流程图上的 Double-take：** 数据可视化工具流程图上引入注目的新布局干净、清爽且易于理解。 [了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **内置 Azure 模具：** 使用数十个 Azure 模具设计云应用或规划基础结构。[了解详细信息](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 

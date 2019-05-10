@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: 0efbe8b5ffd532ac8b128db806f187c65da6e7ee
-ms.sourcegitcommit: f22412210c12d031708aa590d72231f93ab38d09
+ms.openlocfilehash: eeb5d5141eb2626c83b39134c63aaf2362d06ef2
+ms.sourcegitcommit: 3851db1b0d239bf34187d1e7c98f5d5c3a567367
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33661298"
+ms.lasthandoff: 05/08/2019
+ms.locfileid: "33663316"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
@@ -35,7 +35,6 @@ Microsoft Office 2016 的更新 ([KB2920717](https://support.microsoft.com/help/
 Microsoft Office 2016 的更新 ([KB4461441](https://support.microsoft.com/help/4461441))<br/>
 Microsoft Office 2016 的更新 ([KB4461477](https://support.microsoft.com/help/4461477))<br/>
 Microsoft Office 2016 的更新 ([KB4462119](https://support.microsoft.com/help/4462119))<br/>
-Microsoft Office 2016 的更新 ([KB4462238](https://support.microsoft.com/help/4462238))<br/>
 Microsoft Office 2016 的更新 ([KB4462243](https://support.microsoft.com/help/4462243))<br/>
 Microsoft Office 2016 的更新 ([KB4464538](https://support.microsoft.com/help/4464538))<br/>
 Microsoft Office 2016 的更新 ([KB4464552](https://support.microsoft.com/help/4464552))<br/>
