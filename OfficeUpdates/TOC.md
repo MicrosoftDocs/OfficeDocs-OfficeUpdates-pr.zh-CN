@@ -43,6 +43,7 @@
 ## [Office 2010 更新 (C2R)](update-history-office-2010-click-to-run.md)
 ## [Office 2010、2013 和 2016 更新 (MSI)](office-updates-msi.md)
 ## [Outlook 2010、2013 和 2016 更新 (MSI)](outlook-updates-msi.md)
+## [Office 非安全更新 (MSI)](office-MSI-non-security-updates.md)
 ## [Office 2016 .msp 文件 (MSI)](msp-files-office-2016.md)
 ## [Office 2013 .msp 文件 (MSI)](msp-files-office-2013.md)
 ## [Skype for Business 更新 (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)

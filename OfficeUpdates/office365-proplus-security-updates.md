@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: b96348d9dc180220cc604d644db27ee75bb7e927
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: dc34957ed448b9be20019988ce862ca9cad76c4d
+ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438777"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33639613"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
@@ -24,6 +24,8 @@ ms.locfileid: "32438777"
 > [!NOTE]
 > - 下面还介绍了 Visio Pro for Office 365 和 Project Online 桌面客户端的安全更新程序。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+
+[//]: # (请勿删除上面的线条，它用于调节间距)
 ## <a name="april-09-2019"></a>2019 年 4 月 9 日
 每月频道：版本 1903（内部版本 11425.20204）  
 半年频道（定向）：版本 1902（生成号 11328.20230）  
