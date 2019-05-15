@@ -3,19 +3,18 @@ title: Office 365 专业增强版安全更新程序发行说明
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: dc34957ed448b9be20019988ce862ca9cad76c4d
-ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
+ms.openlocfilehash: 52cea04d6b90a87494f751149633d5fc9a7ca5f7
+ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33639613"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34034474"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
@@ -23,9 +22,26 @@ ms.locfileid: "33639613"
  
 > [!NOTE]
 > - 下面还介绍了 Visio Pro for Office 365 和 Project Online 桌面客户端的安全更新程序。
-> - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+> - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。  
 
-[//]: # (请勿删除上面的线条，它用于调节间距)
+[//]: # (请勿删除上面的线条，它用于调节间距)  
+
+
+## <a name="may-14-2019"></a>2019 年 5 月 14 日
+每月频道：版本 1904（内部版本 11601.20204）  
+半年频道（定向）：版本 1902（内部版本 11328.20286）  
+半年频道：版本 1808（内部版本 10730.20344）  
+半年频道：版本 1803（内部版本 9126.2387）  
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
+
 ## <a name="april-09-2019"></a>2019 年 4 月 9 日
 每月频道：版本 1903（内部版本 11425.20204）  
 半年频道（定向）：版本 1902（生成号 11328.20230）  
@@ -34,16 +50,16 @@ ms.locfileid: "33639613"
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-0828](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0828)
+-   [CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-0822](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0822)
--   [CVE-2019-0827](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0827)
--   [CVE-2019-0824](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0824)
--   [CVE-2019-0825](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0825)
--   [CVE-2019-0826](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0826)
--   [CVE-2019-0801](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0801)
+-   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
+-   [CVE-2019-0827](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0827)
+-   [CVE-2019-0824](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0824)
+-   [CVE-2019-0825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0825)
+-   [CVE-2019-0826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0826)
+-   [CVE-2019-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0801)
 
 ## <a name="march-12-2019"></a>2019 年 3 月 12 日
 本月任何渠道没有安全更新。
@@ -58,16 +74,16 @@ ms.locfileid: "33639613"
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-0669](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0669)
+-   [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-0540](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0540)
--   [CVE-2019-0674](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0674)
--   [CVE-2019-0673](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0673)
--   [CVE-2019-0672](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0672)
--   [CVE-2019-0582](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0582)
--   [CVE-2019-0671](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0671)
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0674)
+-   [CVE-2019-0673](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0673)
+-   [CVE-2019-0672](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0672)
+-   [CVE-2019-0582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0582)
+-   [CVE-2019-0671](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0671)
 
 ## <a name="january-8-2019"></a>2019 年 1 月 8 日
 
@@ -79,15 +95,15 @@ ms.locfileid: "33639613"
 
 
 ### <a name="outlook"></a>Outlook
--   [CVE-2019-0559](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0559)
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0559)
 
 ### <a name="word-security-updates"></a>Word：安全更新 
--   [CVE-2019-0561](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0561)
--   [CVE-2019-0585](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0585) 
+-   [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561)
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585) 
  
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新 
--   [CVE-2019-0541](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0541)
--   [CVE-2019-0560](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0560)
+-   [CVE-2019-0541](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0541)
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0560)
 
 ## <a name="december-11-2018"></a>2018 年 12 月 11 日
 每月频道：版本 1811（内部版本 11029.20108）  
@@ -96,18 +112,18 @@ ms.locfileid: "33639613"
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597)
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627)
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598)
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587)
 
 ### <a name="powerpoint"></a>PowerPoint
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628)
 
 ## <a name="november-13-2018"></a>2018 年 11 月 13 日
 每月频道：版本 1810（生成号 11001.20108）  
@@ -116,26 +132,26 @@ ms.locfileid: "33639613"
 
 ### <a name="excel"></a>Excel：
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8574)
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8577)
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574)
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577)
 
 ### <a name="outlook"></a>Outlook：
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8522)
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8524)
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8558)
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8576)
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8579)
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8582)
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522)
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524)
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558)
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576)
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579)
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582)
 
 ### <a name="project"></a>Project：
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8575)
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575)
 
 ### <a name="skype-for-business"></a>Skype for Business：
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8546)
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546)
 
 ### <a name="word"></a>Word：
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8573)
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573)
