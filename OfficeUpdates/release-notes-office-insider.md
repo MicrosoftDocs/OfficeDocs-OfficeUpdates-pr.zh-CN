@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370184"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882761"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -24,6 +24,65 @@ ms.locfileid: "33370184"
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
+
+## <a name="may-10-2019"></a>2019 年 5 月 10 日
+版本 1906（内部版本 11702.20000）
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all"></a>所有
+- 修复了“另存为”对话框可能显示错误路径的问题
+
+### <a name="word"></a>Word 
+- 修复了“操作说明搜索”中的某些选项无法插入的问题
+
+### <a name="excel"></a>Excel
+- 各种性能和稳定性修复
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修复
+
+### <a name="outlook"></a>Outlook
+- 各种性能和稳定性修复
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 修复了任务 ID 可能需要突出显示才能看到的问题
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>2019 年 5 月 3 日
+版本 1906（内部版本 11629.20008）
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all"></a>所有
+- 修复了一些用户在与 OneDrive for Business 同步时会遇到问题的问题
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- 修复了在升级到较新版本的 Excel 后，有时会从工作簿中删除外部链接的问题
+- 修复了某些用户在新工作簿中选择单元格时可能会遇到困难的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 修复了在将绘图转换为文本时字体大小不一致的问题
+
+### <a name="outlook"></a>Outlook
+- 修复了从 .VCF 文件中保存联系人可能会导致空字段的问题
+- 修复了尽管邮件已发送，但仍可能卡在发件箱文件夹中的问题
+- 修复了在查看 DRM 邮件时 Outlook 可能会崩溃的问题
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 修复了编辑器可能会从中文切换到英语的问题
+- 修复了未发布任务可能出现在主项目的已发布副本中的问题
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>2019 年 4 月 26 日
 版本 1905（内部版本 11617.20002）
