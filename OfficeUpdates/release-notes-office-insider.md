@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/10/2019
+ms.date: 5/17/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
-ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
+ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
+ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33882761"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34161561"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -24,6 +24,117 @@ ms.locfileid: "33882761"
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
+
+## <a name="may-17-2019"></a>2019 年 5 月 17 日
+版本 1906（内部版本 11708.20006）
+
+## <a name="whats-new"></a>最近更新：
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="user-experience-updates"></a>用户体验更新
+
+现在即将推出的更新包含简化功能区, 以及文件夹窗格、邮件列表和阅读窗格的可视刷新。
+
+##### <a name="getting-started"></a>入门指南：
+
+这些更改将成为新的默认 UI 的一部分;自12月中旬以来, 它一直对"即将推出"的切换按钮提供100% 的支持
+
+#### <a name="customizable-simplified-ribbon"></a>可自定义的简化功能区
+
+可在经典视图和简化视图之间轻松切换，还可置顶/取消置顶命令。
+
+##### <a name="getting-started"></a>入门指南：
+
+用户可以通过打开 "即将推出" (最初) 并单击功能区中的燕尾形来切换经典的多行功能和新的简化的单行功能, 从而获得简化的功能区。
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+从经典功能区切换为简化功能区
+
+#### <a name="pick-your-favorite-action"></a>挑选你喜欢的操作
+
+不要使用“标志”和“删除”？ “存档”或“标记为已读”呢？ 使用你最常用的命令自定义快速操作菜单。
+
+##### <a name="getting-started"></a>入门指南：
+
+若要选择“快速操作”, 请右键单击邮件列表中的电子邮件以显示“上下文菜单”。 选择”设置快速操作“
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+将 "标记中的默认值" 和 "删除" 更改为 "存档"、"移动"、"标记为已读" 或 "无", 清理邮件列表
+
+#### <a name="relaxed-or-tighter-layout-you-choose"></a>更紧凑还是更宽松的布局？ 由你决定
+
+“更紧凑的间距”让你能够决定是希望项目之间间距更大，还是希望布局更紧凑以显示更多内容。
+
+##### <a name="getting-started"></a>入门指南：
+
+"查看" 选项卡, 使用更紧凑的间距复选框——在 "消息" 组中的 "经典功能区"、"当前视图" 设置 (用于简化功能区)
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+使用 Outlook 在启用和不启用设置的情况下对电子邮件进行分类和写入。 使用更紧凑的间距, 每页都可容纳更多的邮件, 撰写表格上的控件也会更加精简。
+
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a>使用 Onedrive 同步客户端时重复序列显示 MRU 项
+
+通过删除 mru 条目, 实现与带云附件的 onedrive 同步客户端更好的集成, 并为同步数据启用更快的附加作为复制行为
+
+##### <a name="getting-started"></a>入门指南：
+
+如果你使用 OneDrive 同步客户端, 则在附件 MRU 中将不会再看到文件重复的情况。
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+启用 OneDrive 同步客户端并使用 Outlook 桌面版中的 "附件" 菜单
+
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a>改进了多个文件夹的邮箱的共享文件夹同步
+
+多年来同步共享邮箱时, Outlook 的最大数量限制为500文件夹。 通过此更改, Outlook 已得到改进, 以不再遇到此500个文件夹限制的方式进行同步。
+
+##### <a name="getting-started"></a>入门指南：
+
+在邮箱中创建1000个文件夹, 让其他人访问该邮箱, 创建 "他人" 的 Outlook 配置文件, 并验证同步是否有效。
+
+### <a name="word"></a>Word
+
+#### <a name="erase-just-a-little-bit"></a>只需删除一点
+
+##### <a name="getting-started"></a>入门指南：
+
+转到 "绘图" 选项卡。选择 "橡皮擦" 下拉列表。 选择 "小型橡皮擦" 或 "中擦除"。
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+转到 "绘图" 选项卡。选择笔。 绘制墨迹笔划。 选择 "橡皮擦" 下拉列表。 选择 "小型橡皮擦" 或 "中擦除"。 擦除墨迹笔划中的那位。
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all"></a>全部 
+- 我们已修复了可能会阻止某些用户另存为 PDF 的问题
+- 我们修复了一个问题, 该问题可能会影响用户在32位系统上保存大型文件的情况。
+
+### <a name="word"></a>Word 
+- 显著提高了听写功能的响应性
+
+### <a name="excel"></a>Excel
+- 我们修复了触摸屏设备上双击事件可能失败的问题。
+- 我们修复了可能会阻止某些用户编辑 VBA 宏的问题
+- 我们解决了在使用切片器时可能会影响性能的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修复
+
+### <a name="outlook"></a>Outlook
+- 我们解决了以下问题：可能会显示所选内容错误的模板
+
+### <a name="access"></a>Access
+- 我们解决了以下问题: 使用 "缩放生成器" 显示长格式文本, 可能很难阅读
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="may-10-2019"></a>2019 年 5 月 10 日
 版本 1906（内部版本 11702.20000）
@@ -62,6 +173,7 @@ ms.locfileid: "33882761"
 - 修复了一些用户在与 OneDrive for Business 同步时会遇到问题的问题
 
 ### <a name="word"></a>Word 
+- 修复了在某些情况下 Word 需要很长时间才能启动的问题。
 
 ### <a name="excel"></a>Excel
 - 修复了在升级到较新版本的 Excel 后，有时会从工作簿中删除外部链接的问题
@@ -200,7 +312,7 @@ ms.locfileid: "33882761"
 ## <a name="notable-fixes"></a>显著修复：
 
 ### <a name="all-applications"></a>所有应用程序
- - 我们修复了以下问题：Excel 的上下文菜单中的应用图标无法正常显示
+- 我们修复了以下问题：Excel 的上下文菜单中的应用图标无法正常显示
 - 我们修复了以下问题：安装更新后，“文件”菜单按钮可能会消失
 - 我们修复了可能更改用户许可证的问题
 
