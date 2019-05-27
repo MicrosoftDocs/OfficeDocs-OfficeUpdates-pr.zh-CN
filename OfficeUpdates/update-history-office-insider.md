@@ -3,19 +3,18 @@ title: Office 预览体验成员频道的更新历史记录
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 04/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: dd5f4c337d4060ba2b1812cad8d7b6edd48137f2
-ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
+ms.openlocfilehash: c750a9379472576ed8316e54804709fe2c094cab
+ms.sourcegitcommit: 6c539a93fcd2137394873885154e2317de606e11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33639623"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34403567"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 预览体验成员频道的更新历史记录
 
@@ -34,6 +33,10 @@ ms.locfileid: "33639623"
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/zh-CN/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (请勿移除)
+
+**2019 年 5 月 22 日**<br/> 版本 1906（内部版本 11715.20002）<br/> 
+
+**2019 年 5 月 14 日**<br/> 版本 1906（内部版本 11708.20006）<br/>
 
 **2019 年 5 月 6 日**<br/>
 版本 1906（内部版本 11702.20000）<br/>
@@ -85,7 +88,7 @@ ms.locfileid: "33639623"
 
 
   [
-  ![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+  ![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-CN/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **抢先获取新功能**

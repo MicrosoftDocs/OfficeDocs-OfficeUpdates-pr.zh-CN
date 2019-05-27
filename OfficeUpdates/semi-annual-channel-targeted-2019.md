@@ -3,18 +3,19 @@ title: 有关 2019 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034493"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337106"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -32,6 +33,13 @@ ms.locfileid: "34034493"
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
  -  解决了在 Excel 中使用照相机工具会导致电子表格挂起的问题。
+ - 修复了在带有图表工作表的活动窗口中使用鼠标滚轮时导致崩溃的问题。
+ - 解决了在 SharePoint 中导入电子表格时出现“意外错误”消息的问题。
+ - 解决了在打开包含使用其规则的名称和应用了自定义视图的条件格式的工作簿时导致 Excel 崩溃的问题。
+ - 使用长度超过 255 个字符的公式进行数据验证的宏可能会产生运行时错误。 此问题现已得到更正。
+ - 导致包含链接到其他工作簿的数据透视表的文件加载缓慢的问题。 此问题已解决。
+ - 解决了打开 HTML 文件和接收“文件格式和扩展名不匹配”错误的问题。
+ - 已经进行了更改以解决在非活动窗口上滚动鼠标滚轮的问题。  
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
  - 解决了导致客户无法在已迁移的项目上编辑部分字段的问题。
