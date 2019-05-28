@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
-ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
+ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34161561"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432410"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -24,6 +24,42 @@ ms.locfileid: "34161561"
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
+
+## <a name="may-24-2019"></a>2019 年 5 月 24 日
+版本 1906（内部版本 11715.20002）
+
+## <a name="whats-new"></a>最近更新：
+
+#### <a name="user-experience-updates"></a>用户体验更新
+
+现在即将推出的更新包含简化功能区, 以及文件夹窗格、邮件列表和阅读窗格的可视刷新。
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all"></a>全部
+
+- 我们解决了“聊天”窗格未显示的问题
+
+### <a name="word"></a>Word 
+- 我们修复了在某些情况下 Word 可能不正确地突出显示具有语法错误的文字的问题
+
+### <a name="excel"></a>Excel
+- 我们修复了图标元素中使用了不正确的图标的问题
+- 我们修复了在已打开工作簿时可能会在 VBA 脚本中激活不正确的工作簿的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修复
+
+### <a name="outlook"></a>Outlook
+- 各种性能和稳定性修复
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 我们修复了在切换至任务栏后 Project 可能会崩溃的问题
+
+</BR></BR>
 
 ## <a name="may-17-2019"></a>2019 年 5 月 17 日
 版本 1906（内部版本 11708.20006）
@@ -278,6 +314,22 @@ ms.locfileid: "34161561"
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 版本 1905（内部版本 11601.20042）
 
+## <a name="whats-new"></a>最近更新：
+
+### <a name="access"></a>Access
+
+#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Access 新增功能 - Microsoft Graph 数据连接器
+
+链接到 Microsoft Graph 服务或者从 Microsoft Graph 服务导入，以构建可利用 Graph 中存储的智能上下文数据的应用程序
+
+#### <a name="getting-started"></a>入门：
+
+工具区中的“外部数据”选项卡，单击“新数据”并在“联机服务”菜单中找到新的 Graph 连接器
+
+#### <a name="scenarios-to-try"></a>可尝试的方案：
+
+从不同 Graph 服务导入或链接至不同 Graph 服务，包括人脉、组和 OneDrive 项。
+
 ## <a name="notable-fixes"></a>显著修复：
 
 ### <a name="all-applications"></a>所有应用程序
@@ -308,6 +360,55 @@ ms.locfileid: "34161561"
 
 ## <a name="april-5-2019"></a>2019 年 4 月 5 日
 版本 1904（内部版本 11527.20014）
+
+## <a name="whats-new"></a>最近更新：
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a>Outlook for Windows：设置和共享“重点收件箱”设置
+
+“重点收件箱”首选项存储在云中，因此，在任何计算机上使用 Outlook for Windows 和 Outlook 网页版时，可以享受相同、一致的体验。
+
+#### <a name="getting-started"></a>入门：
+
+“文件”>“选项”>“常规”选项卡下存在“将我的 Outlook 设置存储在云中”的新首选项。 用户需要选中该框，才能使其“重点收件箱”设置漫游到其他桌面 Outlook 安装和 OWA。
+
+#### <a name="scenarios-to-try"></a>可尝试的方案：
+
+在计算机上更改已启用云设置首选项的“重点收件箱”。 导航至 OWA 并查看此处应用的首选项。 在 OWA 中更改“重点收件箱”并启动 Outlook 桌面版以查看反映的首选项。
+
+### <a name="word"></a>Word
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>“学习工具”模式可提供更多页面颜色的其他支持
+
+Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。  许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
+
+#### <a name="getting-started"></a>入门：
+
+若要尝试，请转至“视图”选项卡并选择“学习工具”，然后再选择“页面颜色”。
+
+#### <a name="scenarios-to-try"></a>可尝试的方案：
+
+若要尝试，请转至“视图”选项卡并选择“学习工具”，然后再选择“页面颜色”。
+
+### <a name="excel"></a>Excel
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a>利用动画 3D 模型提升创意
+
+Office 现支持动画模型，这些模型可以在编辑器中播放，从而让你的表单看起来栩栩如生！
+
+#### <a name="getting-started"></a>入门：
+
+1. 打开 Excel
+2. 插入动画 3D 模型（即将在 Remix 中推出，但目前请访问以下位置的动画模型：\\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art）
+3. 动画模型将在编辑器中播放！ 选中幻灯片放映模式 - 它也可以在此播放！
+4. 在 3D 格式功能区中，浏览此模型中的更多动画场景
+
+#### <a name="scenarios-to-try"></a>可尝试的方案：
+
+1. 插入动画模型并在编辑器中观看该模型
+2. 通过场景库（可在 3D 格式功能区中找到）浏览动画模型中可用的动画场景
+3. 通过功能区、浮动条或空格键轻松播放/暂停动画。
 
 ## <a name="notable-fixes"></a>显著修复：
 
@@ -378,6 +479,22 @@ ms.locfileid: "34161561"
 ## <a name="march-15-2019"></a>2019 年 3 月 15 日
 版本 1904（内部版本 11504.20000）
 
+## <a name="whats-new"></a>最近更新：
+
+### <a name="word"></a>Word
+
+#### <a name="focus-mode"></a>焦点模式
+
+切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 仅适用于 Office 365 订阅者。
+
+#### <a name="getting-started"></a>入门：
+
+查看功能区状态栏中的选项卡“焦点”按钮 -“焦点”按钮
+
+#### <a name="scenarios-to-try"></a>可尝试的方案：
+
+进入焦点模式并体验焦点体验
+
 ## <a name="notable-fixes"></a>显著修复：
 
 ### <a name="word"></a>Word 
@@ -421,7 +538,19 @@ ms.locfileid: "34161561"
 
 - 搜索学院、最近使用的文档或搜索最常用的功能区命令
 - 查找主题以获取有关它的详细信息
+- 
+#### <a name="coauthoring"></a>CoAuthoring
 
+厌倦了被包含宏的文档拒之门外？ 现在，OneDrive for Business 上的文档文件允许被多位创作者同时编辑。
+
+#### <a name="getting-started"></a>入门：
+
+用户无需在 UI 中按任何按钮即可访问此功能。 默认情况下，OneDrive for Business 文档文件已启用此功能。
+因此，用户应将文档文件保存到 OneDrive for Business 中以进行试用。
+
+#### <a name="scenarios-to-try"></a>可尝试的方案：
+
+在 OneDrive for Business 上创建一个文档文件，将其与同事共享，然后进行协作！
 
 ## <a name="notable-fixes"></a>显著修复：
 
@@ -452,6 +581,21 @@ ms.locfileid: "34161561"
 ## <a name="march-1-2019"></a>2019 年 3 月 1 日 
 版本 1903（内部版本 11414.20014）
 
+## <a name="whats-new"></a>新增功能
+
+### <a name="word"></a>Word
+
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a>修订、备注和实时同步协作的颜色
+
+产品中的修复现在可确保以相同的颜色显示备注、修订和协作者光标。
+
+#### <a name="getting-started"></a>入门：
+
+打开其他人已打开的 SharePoint 或 OneDrive 文档。 验证用户的修订和备注颜色是否与用户光标的颜色匹配。
+
+#### <a name="scenarios-to-try"></a>可尝试的方案：
+
+打开其他人已打开的 SharePoint 或 OneDrive 文档。 验证用户的修订和备注颜色是否与用户光标的颜色匹配。
 
 ## <a name="notable-fixes"></a>显著修复：
 

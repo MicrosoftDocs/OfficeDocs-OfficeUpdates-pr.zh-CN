@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337106"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432420"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -60,6 +60,8 @@ ms.locfileid: "34337106"
  - 解决了在 Word 启动时出现“未能加载资源”对话框的问题。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+ - 这是文件无法保存至 Apache WebDAV 文件夹问题的修复。
+ - 修复了在客户打开某些云存储文件时 Office 突然关闭的问题。
  - 修复了将采用平假名和日语汉字的新纪元名称“Reiwa”错误地标识为拼写错误或不符合语法的表达式的问题。
  - 解决了 Windows 10 上貌似已清除多位用户的“最近使用的文件”列表这一问题。
  - 解决了即使站在进行管理器触发的更新，最终用户仍会看到“Office 更新”业务栏的问题。
