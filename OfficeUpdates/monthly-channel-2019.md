@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834811"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549739"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -22,10 +22,72 @@ ms.locfileid: "33834811"
  
  > [!NOTE]
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
+> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+
+## <a name="version-1905-may-29"></a>版本 1905：5 月 29 日
+*版本 1905（内部版本 11629.20196）*
+
+### <a name="access-feature-updates"></a>Access：功能更新
+
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **即将推出：** 了解 Office 即将发生什么激动人心的功能变化，试用这些功能，并为我们提供反馈。 [了解更多](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **在批注中使用 @提及功能更有效地进行协作：** 协作变得简单了许多！ 现在，可以在文档批注中使用 @ 来提及团队成员，他们会自动收到可将他们拉入文档中的电子邮件通知。
+
+- **共同创作合并改进：** 使用条件格式、单元格样式、范围保护、视图网格线和跨工作表剪切/粘贴时，共同创作提高了合并成功率。 
+
+### <a name="outlook"></a>Outlook
+
+- **添加帐户的更快捷方式：** 由于帐户设置改进，现在可以更轻松地将使用双重身份验证的 Outlook.com 和 Gmail 帐户添加到 Outlook。 [了解更多](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **实时字幕和对白字幕：** 演示者的文字会作为字幕自动显示在屏幕上或翻译成你所选语言的对白字幕。 [了解更多](https://support.office.com/article/d68d20e49-aec3-456a-939d-34a79e8ddd5f)
+
+- **即将推出：** 了解 Office 即将发生什么激动人心的功能变化，试用这些功能，并为我们提供反馈。 [了解更多](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **在批注中使用 @提及功能更有效地进行协作：** 协作变得简单了许多！ 现在，可以在文档批注中使用 @ 来提及团队成员，他们会自动收到可将他们拉入文档中的电子邮件通知。
+
+### <a name="project-feature-updates"></a>Project：功能更新
+
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="visio-feature-updates"></a>Visio：功能更新
+
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **导出为 PDF、PPT 或设置用于电子邮件订阅的 Power BI 报表现在也将具有 Visio Visual 功能：** 如果将 Power BI 报表导出为 PDF、PPT 或将其设置电子邮件订阅，则 Visio Visual 将以这些导出格式无缝呈现。 [了解更多](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### <a name="word-feature-updates"></a>Word：功能更新  
+
+- **在批注中使用 @提及功能更有效地进行协作：** 协作变得简单了许多！ 现在，可以在文档批注中使用 @ 来提及团队成员，他们会自动收到可将他们拉入文档中的电子邮件通知。
+
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **“学习工具”模式可额外支持更多页面颜色：** Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。  许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
+
+- **即将推出：** 了解 Office 即将发生什么激动人心的功能变化，试用这些功能，并为我们提供反馈。 [了解更多](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+## <a name="version-1904-may-22"></a>版本 1904：5 月 22 日
+*版本 1904（内部版本 11601.20230）*
+
+这解决了用户即使在选择并提交了其隐私级别选项后，每次启动应用程序时都会看到新的隐私提示的问题。
+
+## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
+*版本 1904（内部版本 11601.20204）*
+
+ - 
+  [此处](https://docs.microsoft.com/zh-CN/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 ## <a name="version-1904-may-08"></a>版本 1904：5 月 8 日 
 *版本 1904（内部版本 11601.20178）* 
@@ -84,7 +146,8 @@ ms.locfileid: "33834811"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903（内部版本 11425.20204）* 
 
-- [此处](https://docs.microsoft.com/zh-CN/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+- 
+  [此处](https://docs.microsoft.com/zh-CN/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 - 修复了以下问题：Lync (Skype for Business) 中对于任何有 7 个以上参与者的在线会议，会议窗口可能会消失。
@@ -144,7 +207,8 @@ ms.locfileid: "33834811"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **在连续召开的会议之间提供时间：** 默认将会议设置为提前 5-10 分钟结束，让与会者有时间喘口气或来往于不同地点。[了解详细信息](https://support.office.com/zh-CN/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- 
+  **在连续召开的会议之间提供时间：** 默认将会议设置为提前 5-10 分钟结束，让与会者有时间喘口气或来往于不同地点。[了解详细信息](https://support.office.com/zh-CN/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **使用“大声朗读”来收听你的电子邮件：** Outlook 可以大声朗读你的电子邮件，并突出显示正在阅读的文本。要打开大声朗读功能，请转到“轻松访问”设置。[了解详细信息](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -163,7 +227,8 @@ ms.locfileid: "33834811"
  
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。[了解详细信息](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
+- 
+  **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。[了解详细信息](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 版本 1901（内部版本 11231.20174）** 
@@ -185,7 +250,11 @@ ms.locfileid: "33834811"
 
 - **数据流程图上的 Double-take：** 数据可视化工具流程图上引入注目的新布局干净、清爽且易于理解。 [了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **内置 Azure 模具：** 使用数十个 Azure 模具设计云应用或规划基础结构。[了解详细信息](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **内置 Azure 模具：** 使用数十个 Azure 模具设计云应用或规划基础结构。 [了解更多](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
@@ -223,8 +292,7 @@ ms.locfileid: "33834811"
 ### <a name="word-feature-updates"></a>Word：功能更新
 
 - **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
-- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **工作时保持运行辅助功能检查器：** 在不需要始终打开辅助功能检查器的情况下跟踪文档中的辅助功能问题。通过状态栏中的指示器，就像拼写检查一样，Word 标记你工作时发现的辅助功能问题。 
+- **工作时保持运行辅助功能检查器：** 在不需要始终打开辅助功能检查器的情况下跟踪文档中的辅助功能问题。通过状态栏中的指示器，就像拼写检查一样，Word 标记你工作时发现的辅助功能问题。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 

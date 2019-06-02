@@ -3,24 +3,22 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 9164af0880b564149beafdf2f6a2145714522a57
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480093"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549749"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
 Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过[更新频道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)发行。对于每个更新频道中的每次发行，都会被分配一个版本号和内部版本号。 
-
 
 > [!NOTE]
 > - 这些版本和内部版本号还适用于 Office 365 商业版、Visio Pro for Office 365 和 Project Online 桌面客户端。Office 365 商业版是随附有部分 Office 365 计划（例如商业高级版）的 Office 版本。
@@ -28,22 +26,31 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 > - 若要详细了解更新频道，请参阅 [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
 下表列出了每个更新频道支持的版本和最新内部版本号。 
- 
+
+[//]: # (EOSTABLESTART)
+
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1904 <br/> |11601.20144 <br/> | 2019 年 4 月 29 日 <br/> |版本 1905 已发布 <br/>|
-|半年（定向）  <br/> |1902  <br/> |11328.20230 <br/> |  2019 年 4 月 9 日 <br/> | 2019 年 9 月 10 日 <br/>|
-|半年 <br/> |1808  <br/> | 10730.20334<br/> | 2019 年 4 月 9 日  <br/> |  2020 年 3 月 10 日 <br/>|
-|半年 <br/> |1803  <br/> | 9126.2382  <br/> | 2019 年 4 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|每月<br/>|1905<br/>|11629.20196<br/>|2019 年 5 月 29 日<br/>|版本 1906 已发布<br/>|
+|半年（定向）<br/>|1902<br/>|11328.20286<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
+|半年<br/>|1808<br/>|10730.20344<br/>|2019 年 5 月 14 日<br/>|2020 年 3 月 10 日<br/>|
+|半年<br/>|1803<br/>|9126.2387<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
+
+[//]: # (EOSTABLEEND)
 
 有关从先前版本的 Office 365 专业增强版更新到最新版本时的大致下载大小的信息，请参阅 [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)。
 
 
-下表提供了在以下更新频道发布的每个 Office 365 专业增强版更新的版本号和内部版本号的列表：每月、半年（定向）和半年。表中的每项直接链接到该版本的发行说明。发行说明提供了有关 Office 365 专业增强版更新中包含的功能、安全更新和非安全更新的信息。
+下表提供了在以下更新频道发布的每个 Office 365 专业增强版更新的版本号和内部版本号的列表：每月、半年（定向）和半年。表中的每项直接链接到该版本的发行说明。发行说明提供了有关 Office 365 专业增强版更新中包含的功能、安全更新和非安全更新的信息。  
 
+[//]: # (HISTORYTABLESTART)
 
 |**Year**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019 年|5 月 29 日 |[版本 1905（内部版本 11629.20196）](monthly-channel-2019.md#version-1905-may-29)| | |
+|2019 年|5 月 22 日 |[版本 1904（内部版本 11601.20230）](monthly-channel-2019.md#version-1904-may-22)| | |
+|2019 年|5 月 14 日 |[版本 1904（内部版本 11601.20204）](monthly-channel-2019.md#version-1904-may-14)|[版本 1902（内部版本 11328.20286）](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[版本 1808（内部版本 10730.20344）](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [版本1803（内部版本 9126.2387）](semi-annual-channel-2019.md#version-1803-may-14) |
+|2019 年|5 月 8 日 |[版本 1904（内部版本 11601.20178）](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019 年|4 月 29 日 |[版本 1904（内部版本 11601.20144）](monthly-channel-2019.md#version-1904-april-29)| | |
 |2019 年|4 月 22 日 |[版本 1903（内部版本 11425.20244）](monthly-channel-2019.md#version-1903-april-22)| | |
 |2019 年|4 月 17 日 |[版本 1903（内部版本 11425.20228）](monthly-channel-2019.md#version-1903-april-17)| | |
@@ -182,7 +189,8 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 ||10 月 21 日  <br/> |[版本 1509（内部版本 6001.1034）](monthly-channel-2015.md#version-1509-october-21)  <br/> |[版本 1509（内部版本 6001.1034）](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
 ||10 月 5 日  <br/> |[版本 1509（内部版本 4229.1029）](monthly-channel-2015.md#version-1509-october-5)  <br/> |[版本 1509（内部版本 4229.1029）](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
 ||9 月 22 日  <br/> |[版本 1509（内部版本 4229.1024）](monthly-channel-2015.md#version-1509-september-22)  <br/> |[版本 1509（内部版本 4229.1024）](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
-   
+
+[//]: # (HISTORYTABLEEND)
 
 ## <a name="related-topics"></a>相关主题
 

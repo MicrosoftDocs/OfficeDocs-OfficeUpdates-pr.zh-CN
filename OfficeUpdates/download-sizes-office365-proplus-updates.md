@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: a9580e323499f1e3493a4fd07646363ba228e8d2
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: ce40e3d5b770e13c163d3372525e248cd95c3df9
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034475"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549729"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -35,6 +35,28 @@ ms.locfileid: "34034475"
 > - 下表中仅列出了上一版。若要从更低版本更新，下载大小会更大。
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。
 
+## <a name="may-29-2019"></a>2019 年 5 月 29 日
+*版本 1905（内部版本 11629.20196）*
+### <a name="monthly-channel"></a>每月频道
+
+最新版是版本 1905（内部版本 11629.20196）。 
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1904（内部版本 11601.20230）  <br/> |2019 年 5 月 22 日  <br/> |193<br/> |
+|版本 1904（内部版本 11601.20204）  <br/> |2019 年 5 月 14 日  <br/> |60<br/> |
+
+## <a name="may-22-2019"></a>2019 年 5 月 22 日
+*版本 1904（内部版本 11601.20230）*
+### <a name="monthly-channel"></a>每月频道
+
+最新版本为版本 1904（内部版本 11601.20230）。
+  
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1904（内部版本 11601.20204）  <br/> |2019 年 5 月 14 日  <br/> |193<br/> |
+|版本 1904（内部版本 11601.20178）  <br/> |2019 年 5 月 8 日  <br/> |62<br/> |
+
 ## <a name="may-14-2019"></a>2019 年 5 月 14 日
 ### <a name="monthly-channel"></a>每月频道
 
@@ -42,8 +64,8 @@ ms.locfileid: "34034475"
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1904（内部版本 11601.20178）  <br/> |2019 年 5 月 8 日  <br/> |185<br/> |
-|版本 1904（内部版本 11601.20144）  <br/> |2019 年 4 月 29 日  <br/> |188<br/> |
+|版本 1904（内部版本 11601.20178）  <br/> |2019 年 5 月 8 日  <br/> |60<br/> |
+|版本 1904（内部版本 11601.20144）  <br/> |2019 年 4 月 29 日  <br/> |71<br/> |
 
 ### <a name="semi-annual-channel"></a>半年频道
 
