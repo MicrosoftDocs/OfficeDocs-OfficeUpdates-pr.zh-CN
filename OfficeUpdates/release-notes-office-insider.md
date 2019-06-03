@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432410"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659779"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -24,6 +24,112 @@ ms.locfileid: "34432410"
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
+
+
+## <a name="may-31-2019"></a>2019 年 5 月 31 日
+版本 1906（内部版本 11722.20008）
+
+## <a name="whats-new"></a>新增功能：
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>用于联系支持人员的对话框现可停靠且显示在右侧
+
+用于联系支持人员的对话框现将显示在右侧窗格且作为停靠的窗口启动。
+
+#### <a name="ink-in-your-email"></a>电子邮件中的墨迹功能！
+
+现可在 Outlook 电子邮件中绘制图片并进行批注。
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>在 Word 中打开文档链接
+
+单击 Office 中的文档链接时，可更新要在 Word 应用中的默认打开的首选项。  要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/zh-CN/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>开始使用：
+
+功能默认关闭。 用户可通过“选项”->“高级”->“链接处理”设置将其启用，也可在 Win32 WXP 应用引导其使用“选择加入”体验时选择加入。
+当用户通过 Outlook/Word/PowerPoint/Excel 单击 OneDrive/OneDrive for Business/SharePoint 上存储的 Word/PowerPoint/Excel 文件的链接时，这些链接将在相应的 Office 应用程序中打开，而不是默认在浏览器中打开。
+
+要更改此默认设置，用户可在 Outlook/Word/Excel/PowerPoint 中更新以下设置：
+
+“文件”->“选项”->“高级”->“链接处理”
+
+此设置跨 Outlook/Word/PowerPoint/Excel 共享，且可在上述任一应用中进行设置。
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+要触发“选择加入”体验 - 请通过 Outlook/Word/PowerPoint/Excel 打开 OneDrive/SharePoint 中存储的 Word 文档的链接（通过 Office Online 在客户端中单击“打开”），在 30 天的时间段内执行此操作两次。 选择加入后，链接将在 Win32 应用中默认启动。
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>在 PowerPoint 中打开演示文稿链接
+
+单击 Office 中的演示文稿链接时，可更新要在 PowerPoint 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/zh-CN/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>开始使用：
+
+功能默认关闭。 用户可通过“选项”->“高级”->“链接处理”设置将其启用，也可在 Win32 WXP 应用引导其使用“选择加入”体验时选择加入。
+当用户通过 Outlook/Word/PowerPoint/Excel 单击 OneDrive/OneDrive for Business/SharePoint 上存储的 Word/PowerPoint/Excel 文件的链接时，这些链接将在相应的 Office 应用程序中打开，而不是默认在浏览器中打开。
+
+要更改此默认设置，用户可在 Outlook/Word/Excel/PowerPoint 中更新以下设置：
+
+“文件”->“选项”->“高级”->“链接处理”
+
+此设置跨 Outlook/Word/PowerPoint/Excel 共享，且可在上述任一应用中进行设置。
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+要触发“选择加入”体验 - 请通过 Outlook/Word/PowerPoint/Excel 打开 OneDrive/SharePoint 中存储的 PowerPoint 演示文稿的链接（通过 Office Online 在客户端中单击“打开”），在 30 天的时间段内执行此操作两次。 选择加入后，链接将在 Win32 应用中默认启动。
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>在 Excel 中打开工作簿链接
+
+单击 Office 中的工作簿链接时，可更新要在 Excel 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/zh-CN/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>开始使用：
+
+功能默认关闭。 用户可通过“选项”->“高级”->“链接处理”设置将其启用，也可在 Win32 WXP 应用引导其使用“选择加入”体验时选择加入。
+当用户通过 Outlook/Word/PowerPoint/Excel 单击 OneDrive/OneDrive for Business/SharePoint 上存储的 Word/PowerPoint/Excel 文件的链接时，这些链接将在相应的 Office 应用程序中打开，而不是默认在浏览器中打开。
+
+要更改此默认设置，用户可在 Outlook/Word/Excel/PowerPoint 中更新以下设置：
+
+“文件”->“选项”->“高级”->“链接处理”
+
+此设置跨 Outlook/Word/PowerPoint/Excel 共享，且可在上述任一应用中进行设置。
+
+##### <a name="scenarios-to-try"></a>可尝试的方案：
+
+要触发“选择加入”体验 - 请通过 Outlook/Word/PowerPoint/Excel 打开 OneDrive/SharePoint 中存储的 Excel 工作簿的链接（通过 Office Online 在客户端中单击“打开”），在 30 天的时间段内执行此操作两次。 选择加入后，链接将在 Win32 应用中默认启动。
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all"></a>所有
+- 修复了即使已禁用“自动保存”，文件有时也会自动保存的问题
+
+### <a name="word"></a>Word 
+- 修复了可能会阻止某些用户保存到 SharePoint 的问题
+
+### <a name="excel"></a>Excel
+- 修复了非活动筛选器的图标可能显示不正确的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修复
+
+### <a name="outlook"></a>Outlook
+- 修复了某些用户在“小组日程”视图中错误地显示为“离线”的问题
+- 修复了阻止 SafeLink 分析带尾随空格的 URL 的问题
+- 修复了会议室在非工作时间之外显示为可用状态的问题
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>2019 年 5 月 24 日
 版本 1906（内部版本 11715.20002）
