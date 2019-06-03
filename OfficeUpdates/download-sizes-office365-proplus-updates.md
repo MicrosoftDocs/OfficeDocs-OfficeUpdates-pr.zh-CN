@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: ce40e3d5b770e13c163d3372525e248cd95c3df9
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 9f7c1e10c63e9c37bf6a8695b6c3a909fc2ed925
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549729"
+ms.locfileid: "34550883"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -43,8 +43,8 @@ ms.locfileid: "34549729"
   
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 1904（内部版本 11601.20230）  <br/> |2019 年 5 月 22 日  <br/> |193<br/> |
-|版本 1904（内部版本 11601.20204）  <br/> |2019 年 5 月 14 日  <br/> |60<br/> |
+|版本 1904（内部版本 11601.20230）  <br/> |2019 年 5 月 22 日  <br/> |188<br/> |
+|版本 1904（内部版本 11601.20204）  <br/> |2019 年 5 月 14 日  <br/> |193<br/> |
 
 ## <a name="may-22-2019"></a>2019 年 5 月 22 日
 *版本 1904（内部版本 11601.20230）*

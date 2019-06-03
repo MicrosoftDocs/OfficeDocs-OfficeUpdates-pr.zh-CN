@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549739"
+ms.locfileid: "34550893"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -76,7 +76,15 @@ ms.locfileid: "34549739"
 
 - **“学习工具”模式可额外支持更多页面颜色：** Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。  许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
 
-- **即将推出：** 了解 Office 即将发生什么激动人心的功能变化，试用这些功能，并为我们提供反馈。 [了解更多](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+- **即将推出：** 了解 Office 即将发生什么激动人心的功能变化，试用这些功能，并为我们提供反馈。 [了解详细信息](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
+
+- 为 Skype for Business Online 用户提供禁用“添加照片 - 帮助他人了解你自己”上下文提示的选项。 若要启用此修复，可以查阅[了解详细信息](https://support.microsoft.com/help/4503469)。
+
+- 阻止在重启 Skype for Business 之后辅助电铃设置始终启用。 若要启用此修复，可以查阅[了解详细信息](https://support.microsoft.com/help/4503470)。
+
+ - 修复了在使用 Lync 基于 SDK 的应用程序的同时加入大型会议时导致 Skype for Business 停止响应的问题。 若要启用此修复，可以查阅[了解详细信息](https://support.microsoft.com/help/4503472)。
 
 ## <a name="version-1904-may-22"></a>版本 1904：5 月 22 日
 *版本 1904（内部版本 11601.20230）*
