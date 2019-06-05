@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
-ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
+ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34550893"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683988"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -26,6 +26,11 @@ ms.locfileid: "34550893"
 
  > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+
+## <a name="version-1905-june-03"></a>版本 1905：6 月 3 日
+*版本 1905（内部版本 11629.20214）*
+
+ - 修复了某些加载项会在图表中的形状周围引发意外错误的问题。
 
 ## <a name="version-1905-may-29"></a>版本 1905：5 月 29 日
 *版本 1905（内部版本 11629.20196）*
