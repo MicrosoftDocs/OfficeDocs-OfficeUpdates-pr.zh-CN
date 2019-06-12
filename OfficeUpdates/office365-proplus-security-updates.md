@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: 52cea04d6b90a87494f751149633d5fc9a7ca5f7
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: af4f418640b2931062d7fbe7157d14f3354c54b4
+ms.sourcegitcommit: 09fce01ca8aaf16478bdf41ee05a19b1b3c3cbb2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034474"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34852886"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
@@ -26,6 +26,16 @@ ms.locfileid: "34034474"
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
 
+## <a name="june-11-2019"></a>2019 年 6 月 11 日
+每月频道：版本 1905（内部版本 11629.20246）  
+半年频道（定向）：版本 1902（生成号 11328.20318）  
+半年频道：版本 1808（内部版本 10730.20348）  
+半年频道：版本 1803（内部版本 9126.2388）  
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)
+-   [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)
 
 ## <a name="may-14-2019"></a>2019 年 5 月 14 日
 每月频道：版本 1904（内部版本 11601.20204）  

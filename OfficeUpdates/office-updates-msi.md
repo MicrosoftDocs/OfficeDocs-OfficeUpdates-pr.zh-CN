@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Office 版本的最新更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 06/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: 82f0e6e29bebaf99f87a91ef98bfe115f114954a
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: b067e713b656c9e78f8e2fe65cdbfa1d44b5f42f
+ms.sourcegitcommit: cdd306015ae726c3f2f94b27fbbbb13c82c56a58
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438567"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34854114"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新更新
 
@@ -32,27 +32,34 @@ ms.locfileid: "32438567"
 
 |**版本和产品**|**最新 Service Pack (SP)**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不适用  <br/> |2019 年 4 月 PU  <br/> [KB4495300](https://support.microsoft.com/help/4495300) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不适用  <br/> |2019 年 6 月 PU  <br/> [KB4505743](https://support.microsoft.com/help/4505743) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 更新
 
 |**版本和产品**|**最新 Service Pack (SP)**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Online  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2019 年 4 月 PU  <br/> [KB4495300](https://support.microsoft.com/help/4495300) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Online  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2019 年 6 月 PU  <br/> [KB4505743](https://support.microsoft.com/help/4505743) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 
 |**版本和产品**|**最新 Service Pack (SP)**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 套件  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 服务器  <br/> Office Online  <br/> Search Server 2010  <br/> SharePoint 2010 产品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2019 年 4 月 PU <br/>[KB4495300](https://support.microsoft.com/help/4495300) <br/>|
+|**2010** <br/> Office 2010 套件  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 服务器  <br/> Office Online  <br/> Search Server 2010  <br/> SharePoint 2010 产品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2019 年 6 月 PU <br/>[KB4505743](https://support.microsoft.com/help/4505743) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>最近 12 个月发布的更新
 
-[2019 年 4 月安全和非安全更新：KB4495300](https://support.microsoft.com/zh-CN/help/4495300)
+[2019 年 6 月安全更新程序和非安全更新程序：KB4505743](https://support.microsoft.com/help/4505743)
 
-[2019 年 3 月安全和非安全更新：KB4491754](https://support.microsoft.com/zh-CN/help/4491754) 
+
+  [2019 年 5 月安全更新程序和非安全更新程序：KB4501270](https://support.microsoft.com/zh-CN/help/4501270)
+
+
+  [2019 年 4 月安全和非安全更新：KB4495300](https://support.microsoft.com/zh-CN/help/4495300)
+
+
+  [2019 年 3 月安全和非安全更新：KB4491754](https://support.microsoft.com/zh-CN/help/4491754) 
 
 [2019 年 2 月安全和非安全更新：KB4488446](https://support.microsoft.com/help/4488446)
 
@@ -70,9 +77,9 @@ ms.locfileid: "32438567"
 
 [2018 年 7 月安全更新程序和非安全更新程序：KB4340798](https://support.microsoft.com/help/4340798)   
 
-[2018 年 6 月安全更新程序和非安全更新程序：KB4299875](https://support.microsoft.com/help/4299875)  
+  
 
-[2018 年 5 月安全更新程序和非安全更新程序：KB4133083](https://support.microsoft.com/zh-CN/help/4133083)
+
   
  
   
