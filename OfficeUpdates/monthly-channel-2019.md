@@ -1,36 +1,56 @@
 ---
 title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
+//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34683988"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857742"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
-这些发行说明提供了 2019 年 Office 365 专业增强版（包括 Visio Pro for Office 365 和 Project Online 桌面客户端）每月频道更新中所包含的新功能和非安全更新的相关信息。
+这些发行说明提供了 2019 年 Office 365 专业增强版（包括 Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business）每月频道更新中所包含的新功能和非安全更新的相关信息。
  
  > [!NOTE]
-> - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
+> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+> - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
-## <a name="version-1905-june-03"></a>版本 1905：6 月 3 日
-*版本 1905（内部版本 11629.20214）*
+## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
+*版本 1905（内部版本 11629.20246）*
+<br/>
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+
+- 解决了导致瀑布图和漏斗图无法与插入或删除单元格时的表格同步的问题。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 
  - 修复了某些加载项会在图表中的形状周围引发意外错误的问题。
+
+### <a name="visio-non-security-updates"></a>Visio：非安全更新
+
+ - 从 Visio 导出到 SVG 的操作无法用于各种形状。
+
+## <a name="version-1905-june-03"></a>版本 1905：6 月 3 日 
+*版本 1905（内部版本 11629.20214）*
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+
+- 修复了某些加载项会在图表中的形状周围引发意外错误的问题。
 
 ## <a name="version-1905-may-29"></a>版本 1905：5 月 29 日
 *版本 1905（内部版本 11629.20196）*
