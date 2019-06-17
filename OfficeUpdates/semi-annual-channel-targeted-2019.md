@@ -3,19 +3,19 @@ title: 有关 2019 年半年频道（定向）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/22/2019
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432420"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910392"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -27,6 +27,32 @@ ms.locfileid: "34432420"
  
 > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+
+## <a name="version-1902-june-11"></a>版本 1902：6 月 11 日
+*版本 1902（内部版本 11328.20318）*
+<br/>
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+ - 解决了将包含 XML 映射的文件保存为 PDF 时导致崩溃的问题。
+ - 解决了在加载包含无效工作表名称的工作簿时导致外部链接被删除的问题。
+ - 解决了在 Excel 中使用照相机工具会导致电子表格挂起的问题。
+ - 解决了导致瀑布图和漏斗图无法与插入或删除单元格时的表格同步的问题。
+ - 解决了在工作表计算期间使用另一张工作表上的数组公式（具体取决于表）重新计算数据表时发生崩溃的问题。 
+ - 解决了在未先签出文件的情况下阻止从 SharePoint 打开受密码保护的工作簿的问题。
+ - 已进行更改，以确保在共享或切换“自动保存”时处理 BeforeSave 事件。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+ - 解决了在向“分组依据”添加第 2 个条件时导致客户看到其任务似乎消失的问题。
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+ - 修复了在共享当前处于协作状态的文档时生成扩展名为 .asd 的附件的问题。
+ - 修复了将评论归因于随机作者的问题。
+ - 修复了在签出文档时删除签名的问题。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
+ - 修复了在执行“撤消”操作后 VBA 报告错误形状填充状态的问题。
+
 
 ## <a name="version-1902-may-14"></a>版本 1902：5 月 14 日
 *版本 1902（内部版本 11328.20286）*

@@ -3,19 +3,19 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-//: ''
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857742"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910382"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -114,7 +114,9 @@ ms.locfileid: "34857742"
 ## <a name="version-1904-may-22"></a>版本 1904：5 月 22 日
 *版本 1904（内部版本 11601.20230）*
 
-这解决了用户即使在选择并提交了其隐私级别选项后，每次启动应用程序时都会看到新的隐私提示的问题。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+
+- 这解决了用户即使在选择并提交了其隐私级别选项后，每次启动应用程序时都会看到新的隐私提示的问题。
 
 ## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
 *版本 1904（内部版本 11601.20204）*

@@ -3,18 +3,19 @@ title: Office 365 专业增强版更新历史记录（按日期列出）
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: f3848c46626369f6f957ed0839f7692af755f574
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 3eae3d3143d7e774ae785ce56f7934eb35dfac0e
+ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34683998"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34935904"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -31,10 +32,10 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1905<br/>|11629.20214<br/>|2019 年 6 月 3 日<br/>|版本 1906 已发布<br/>|
-|半年（定向）<br/>|1902<br/>|11328.20286<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
-|半年<br/>|1808<br/>|10730.20344<br/>|2019 年 5 月 14 日<br/>|2020 年 3 月 10 日<br/>|
-|半年<br/>|1803<br/>|9126.2387<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
+|每月<br/>|1905<br/>|11629.20246<br/>|2019 年 6 月 11 日<br/>|版本 1906 已发布<br/>|
+|半年（定向）<br/>|1902<br/>|11328.20318<br/>|2019 年 6 月 11 日<br/>|2019 年 9 月 10 日<br/>|
+|半年<br/>|1808<br/>|10730.20348<br/>|2019 年 6 月 11 日<br/>|2020 年 3 月 10 日<br/>|
+|半年<br/>|1803<br/>|9126.2388<br/>|2019 年 6 月 11 日<br/>|2019 年 9 月 10 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -47,6 +48,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**Year**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019 年|6 月 11 日|[版本 1905（内部版本 11629.20246）](monthly-channel-2019.md#version-1905-june-11)|[版本 1902（内部版本 11328.20318）](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[版本 1808（内部版本 10730.20348）](semi-annual-channel-2019.md#version-1808-june-11)<br/>[版本 1803（内部版本 9126.2388）](semi-annual-channel-2019.md#version-1803-june-11)|
 |2019 年|6 月 3日|[版本 1905（内部版本 11629.20214）](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019 年|5 月 29 日 |[版本 1905（内部版本 11629.20196）](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019 年|5 月 22 日 |[版本 1904（内部版本 11601.20230）](monthly-channel-2019.md#version-1904-may-22)| | |
@@ -184,12 +186,6 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 ||2 月 9 日  <br/> |[版本 1511（内部版本 6366.2068）](monthly-channel-2016.md#version-1511-february-9)  <br/> |[版本 1509（内部版本 6001.1061）](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[版本 1509（内部版本 6001.1061）](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
 ||1 月 25 日  <br/> |[版本 1511（内部版本 6366.2062）](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |
 ||1 月 12 日  <br/> |[版本 1511（内部版本 6366.2056）](monthly-channel-2016.md#version-1511-january-12)  <br/> |[版本 1509（内部版本 6001.1054）](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
-|2015 年|12 月 11 日  <br/> |[版本 1511（内部版本 6366.2036）](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
-||12 月 8 日  <br/> |[版本 1509（内部版本 6001.1043）](monthly-channel-2015.md#version-1509-december-8)  <br/> |[版本 1509（内部版本 6001.1043）](semi-annual-channel-targeted-2015.md#version-1509-december-8)  <br/> |  <br/> |
-||11 月 10 日  <br/> |[版本 1509（内部版本 6001.1038）](monthly-channel-2015.md#version-1509-november-10)  <br/> |[版本 1509（内部版本 6001.1038）](semi-annual-channel-targeted-2015.md#version-1509-november-10)  <br/> |  <br/> |
-||10 月 21 日  <br/> |[版本 1509（内部版本 6001.1034）](monthly-channel-2015.md#version-1509-october-21)  <br/> |[版本 1509（内部版本 6001.1034）](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
-||10 月 5 日  <br/> |[版本 1509（内部版本 4229.1029）](monthly-channel-2015.md#version-1509-october-5)  <br/> |[版本 1509（内部版本 4229.1029）](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
-||9 月 22 日  <br/> |[版本 1509（内部版本 4229.1024）](monthly-channel-2015.md#version-1509-september-22)  <br/> |[版本 1509（内部版本 4229.1024）](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
 
 [//]: # (HISTORYTABLEEND)
 
