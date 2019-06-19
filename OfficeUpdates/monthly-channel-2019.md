@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910382"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017362"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -39,13 +39,13 @@ ms.locfileid: "34910382"
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 
- - 修复了某些加载项会在图表中的形状周围引发意外错误的问题。
+- 修复了某些加载项会在图表中的形状周围引发意外错误的问题。
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全更新
 
- - 从 Visio 导出到 SVG 的操作无法用于各种形状。
+- 从 Visio 导出到 SVG 的操作无法用于各种形状。
 
-## <a name="version-1905-june-03"></a>版本 1905：6 月 3 日 
+## <a name="version-1905-june-3"></a>版本 1905：6 月 3 日
 *版本 1905（内部版本 11629.20214）*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
@@ -124,13 +124,13 @@ ms.locfileid: "34910382"
  - 
   [此处](https://docs.microsoft.com/zh-CN/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
-## <a name="version-1904-may-08"></a>版本 1904：5 月 8 日 
-*版本 1904（内部版本 11601.20178）* 
+## <a name="version-1904-may-8"></a>版本 1904：5 月 8 日
+*版本 1904（内部版本 11601.20178）*
 
- - 各种 bug 和性能修补程序。
+- 各种 bug 和性能修补程序。
 
 ## <a name="version-1904-april-29"></a>版本 1904：4 月 29 日
-*版本 1904（内部版本 11601.20144）* 
+*版本 1904（内部版本 11601.20144）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
@@ -148,7 +148,7 @@ ms.locfileid: "34910382"
 
 - **将流程图导出至 Word：** 向 Word 文档自动添加流程图内容，如形状和元数据。 然后自定义文档以创建过程指南和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
- - **修订、备注和实时同步协作的颜色：** 产品中的修复现在可确保以相同的颜色显示备注、修订和协作者光标。
+- **修订、备注和实时同步协作的颜色：** 产品中的修复现在可确保以相同的颜色显示备注、修订和协作者光标。
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
