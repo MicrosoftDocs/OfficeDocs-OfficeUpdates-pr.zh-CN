@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: 739f393f003db9d0486013158109f16cb1c2b666
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770093"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948778"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
@@ -32,8 +32,8 @@ ms.locfileid: "27770093"
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 专业增强版版本的发行说明
 
 有关按更新频道和年份列出的发行说明的完整列表，请参阅以下文章：
- - 每月：[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)、[2015](monthly-channel-2015.md)
- - 半年（定向）：[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)、[2015](semi-annual-channel-targeted-2015.md)
+ - 每月：[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
+ - 半年（定向）：[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
  - 半年：[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
 
 ## <a name="office-for-mac-release-information"></a>Office for Mac 发行信息
@@ -45,7 +45,7 @@ ms.locfileid: "27770093"
 
 ## <a name="related-topics"></a>相关主题
 
-- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
 - [Office 365 的新增功能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Office 365 路线图](https://products.office.com/business/office-365-roadmap)

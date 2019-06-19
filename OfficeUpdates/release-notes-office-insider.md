@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-//: ''
+ms.date: 6/14/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857752"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948788"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,7 +26,41 @@ ms.locfileid: "34857752"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
 
  > [!NOTE]
-> - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+> - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="june-14-2019"></a>2019 年 6 月 14 日
+版本 1907（内部版本 11807.20000）
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="word"></a>Word 
+- 我们修复了可能会阻止用户在保存到 OneDrive 时登录的问题
+- 我们修复了以下问题：在限制访问模式下，系统可能会阻止用户更改 SharePoint 属性
+- 我们修复了在调整边距时页眉和页脚内容可能发生更改的问题
+- 我们修复了在切换到 Web 视图时格式可能会遭到破坏的问题
+- 我们修复了可能会阻止用户在从 SharePoint 打开时使用自定义字段的问题
+
+### <a name="excel"></a>Excel
+- 我们修复了在删除筛选集的行时出现的性能问题
+- 我们修复了在受保护的视图中有时可能会导致鼠标闪烁的问题
+- 我们修复了在删除系列时可能导致崩溃的问题
+- 我们修复了以下问题：在没有可用版本历史记录的情况下，某些用户却可以获得用以添加该信息的选项
+- 我们修复了在使用电子表格比较工具时可能导致异常的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 我们修复了在单击 SharePoint 链接时出现崩溃的问题
+- 我们修复了在使用 Surface 触控笔键入过程中可能将用户切换到下一页的问题
+
+### <a name="outlook"></a>Outlook
+- 我们修复了在某些情况下“收件人”字段比正常情况更大的问题
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="june-7-2019"></a>2019 年 6 月 7 日
 版本 1907（内部版本 11727.20064）
