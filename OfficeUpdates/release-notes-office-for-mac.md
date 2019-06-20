@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 6b4f1f4f2b7613617645cd5e1d1eebd7682f7698
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
+ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935874"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060294"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -48,7 +48,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/><br/>|使用 @提及功能引起他人的注意：在批注中使用 @提及，以在需要他人的意见时让他们知悉。 |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)：Microsoft Word 远程代码执行漏洞<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)：Microsoft Word 远程代码执行漏洞<br/>|[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|使用 @提及功能引起他人的注意：在批注中使用 @提及，以在需要他人的意见时让他们知悉。|<br/>|[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
+|Excel<br/>|使用 @提及功能引起他人的注意：在批注中使用 @提及，以在需要他人的意见时让他们知悉。<br/><br/>**分组或不分组**：无须对数据透视表日期进行分组。 在以下位置关闭自动分组：Excel > 首选项 > 表和筛选器。<br/><br/>**下标和上标概览：** 如果要设置下标、上标和删除线的格式，请将它们添加到功能区和快速访问工具栏中，以便可以轻松访问它们。| |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
 |Powerpoint<br/>|使用 @提及功能引起他人的注意：在批注中使用 @提及，以在需要他人的意见时让他们知悉。<br/><br/>**联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。<br/><br/>**实时字幕和对白字幕：** 在你进行演示期间，你所说的话会自动显示为字幕或翻译成其他语言的对白字幕。 为了获得最佳结果，请使用耳机式麦克风。||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
 |Outlook|**只需一键即可从 Outlook 保存到 OneNote：** 单击一个按钮即可将 Outlook 邮件和会议笔记保存到 OneNote 笔记本。 将其用作存档工具或存放资料的方便位置。 <br/> | |[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
 
