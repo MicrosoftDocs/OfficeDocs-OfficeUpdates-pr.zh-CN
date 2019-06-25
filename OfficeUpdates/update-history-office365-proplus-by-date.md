@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 0e719fa7c142989d3099b1ce43f24b9b8c084316
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 52cbaa1193d576b48770f1bd48b7b0db435be84b
+ms.sourcegitcommit: 6687d3d967294413101e7888d96750a4e389bd46
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203701"
+ms.locfileid: "35215323"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -32,7 +32,9 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
 |每月<br/>|1906<br/>|11727.20210<br/>|2019 年 6 月 24 日<br/>|版本 1907 已发布<br/>|
+|半年（定向）<br/>|1902<br/>|11328.20318<br/>|2019 年 6 月 11 日<br/>|2019 年 9 月 10 日<br/>|
 |半年<br/>|1808<br/>|10730.20348<br/>|2019 年 6 月 11 日<br/>|2020 年 3 月 10 日<br/>|
+|半年<br/>|1803<br/>|9126.2388<br/>|2019 年 6 月 11 日<br/>|2019 年 9 月 10 日<br/>|
 
 [//]: # (EOSTABLEEND)
 

@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/21/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
+ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948788"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130641"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -27,6 +27,76 @@ ms.locfileid: "34948788"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="june-21-2019"></a>2019 年 6 月 21 日
+版本 1907（生成号 11815.20002）
+
+## <a name="whats-new"></a>新变化：
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Outlook Desktop 中黑色主题的深色模式
+
+在深色模式下，使用黑色主题的用户现在还可以在阅读电子邮件时看到有深色背景的阅读窗格，并在撰写电子邮件时看到有深色背景的撰写窗格。 阅读窗格和功能区上有“太阳/月亮”切换，以防用户想要改用浅色背景来预览邮件外观。
+
+#### <a name="getting-started"></a>开始使用：
+
+1. 黑色主题和深色模式默认处于启用状态。
+2. 用户可以使用阅读窗格和功能区上的“月亮/太阳”切换，在浅色模式下预览邮件外观
+
+#### <a name="scenarios-to-try"></a>可尝试的方案
+
+1. 在深色模式下阅读电子邮件。 如果无法阅读某些内容，请使用阅读窗格中的“太阳”切换，切换为浅色背景。 
+2. 在深色模式下撰写电子邮件。 使用功能区中的“太阳”切换，可以在浅色背景下预览邮件外观。 
+
+如果遇到任何无法正常呈现的电子邮件，请将它们作为附件发送到 OutlookDarkModeFail。
+
+#### <a name="get-location-suggestions"></a>获取位置建议
+
+开始键入内容，Outlook 将会搜索匹配的位置。
+
+这适用于在创建约会和会议时看到的“位置”字段。
+
+#### <a name="getting-started"></a>开始使用：
+
+- 在 Outlook 的 O365 或 Outlook.com 日历上创建约会或会议。 
+- 单击“位置”字段，并开始键入内容…
+
+#### <a name="scenarios-to-try"></a>可尝试的方案
+
+向会议添加会议室时，单击“位置”字段，而不是使用“会议室查找器”加载项或通讯录。
+对于在有公共位置的实体场所（比如餐馆、咖啡店或甚至是牙医诊所）进行的约会，试着用新的选取器来查找确切位置。 这样一来，就可以在要离开时收到 Outlook Mobile 通知。
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all"></a>全部
+- 修复了以下问题：搜索框在脱机时一直处于启用状态
+
+### <a name="word"></a>Word 
+- 修复了以下问题：键盘焦点有时难以看到
+- 修复了以下问题：粘贴到新文档中的文本有时可能会出现错误的文本对齐方式
+- 修复了以下问题：某些用户可能无法在暂停计算机后保存更改
+- 修复了以下问题：在某些情况下，打印的是整个文档，而不是选定页面
+- 修复了以下问题：批注可能会在小型显示器上难以阅读
+- 修复了以下问题：在捕获到设备时可能会发生故障
+
+### <a name="excel"></a>Excel
+- 各种性能和稳定性修复
+
+### <a name="powerpoint"></a>PowerPoint
+- 修复了以下问题：键盘焦点有时难以看到
+
+### <a name="outlook"></a>Outlook
+- 修复了以下问题：禁用的加载项可能会错误地显示为已启用。
+- 修复了以下问题：客户无法查看所有保留策略（如果有大量保留策略的话）。
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="june-14-2019"></a>2019 年 6 月 14 日
 版本 1907（内部版本 11807.20000）
@@ -484,22 +554,6 @@ ms.locfileid: "34948788"
 
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 版本 1905（内部版本 11601.20042）
-
-## <a name="whats-new"></a>最近更新：
-
-### <a name="access"></a>Access
-
-#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Access 新增功能 - Microsoft Graph 数据连接器
-
-链接到 Microsoft Graph 服务或者从 Microsoft Graph 服务导入，以构建可利用 Graph 中存储的智能上下文数据的应用程序
-
-#### <a name="getting-started"></a>入门：
-
-工具区中的“外部数据”选项卡，单击“新数据”并在“联机服务”菜单中找到新的 Graph 连接器
-
-#### <a name="scenarios-to-try"></a>可尝试的方案：
-
-从不同 Graph 服务导入或链接至不同 Graph 服务，包括人脉、组和 OneDrive 项。
 
 ## <a name="notable-fixes"></a>显著修复：
 
