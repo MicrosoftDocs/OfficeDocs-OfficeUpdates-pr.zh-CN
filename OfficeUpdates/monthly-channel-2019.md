@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
-ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
+ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017362"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203711"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -27,6 +27,50 @@ ms.locfileid: "35017362"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="version-1906-june-24"></a>版本 1906：6 月 24 日
+*版本 1906（内部版本 11727.20210）*
+* 各种 bug 和性能修补程序。
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 
+  [了解更多](https://support.office.com/zh-CN/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **还可自定义的简化功能区：** 最常用的按钮排成一行，带给你简化体验。 可在经典视图和简化视图之间轻松切换，还可固定/取消固定命令。 
+  [了解更多](https://support.office.com/zh-CN/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+
+- **挑选你喜欢的操作：** 不要使用“标志”和“删除”？ “存档”或“标记为已读”呢？ 使用你最常用的命令自定义快速操作菜单。
+
+- **改进了多个文件夹的邮箱的共享文件夹同步：** 多年来同步共享邮箱时, Outlook 的最大数量限制为500文件夹。 通过此更改, Outlook 已得到改进, 以不再遇到此500个文件夹限制的方式进行同步。
+
+- **“重点收件箱”设置在各设备之间保持不变：** 重点收件箱的首选项现在存储在云中。 在任何计算机上使用 Outlook for Windows 和 Outlook 网页版时，都可享受相同的体验。 
+  [了解更多](https://support.office.com/zh-CN/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **更紧凑还是更宽松的布局？由你决定：**“更紧凑的间距”让你能够决定是希望项目之间间距更大，还是希望布局更紧凑以显示更多内容。
+
+- **我们已经为你更新了 Outlook 用户体验：** 简化的体验，以前可供预览，现即将推出，旨在帮助你关注最重要的内容。 
+  [了解更多](https://support.office.com/zh-CN/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+
+- **电子邮件中的墨迹功能！** 现可在 Outlook 电子邮件中绘制图片并进行批注。 
+  [了解更多](https://support.office.com/zh-CN/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **CoAuthoring：** 厌倦了被包含宏的文档拒之门外？ 现在，OneDrive for Business 上的文档文件允许被多位创作者同时编辑。
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新 
+
+ - 当显示器缩放超过 100％ 时，修复为在会议中显示 Polycom CX5500 和相关设备的所有摄像机流
+
+- 启用“在会议中裁剪和居中我的视频”设置时，在 4K 显示器上正确裁剪会议中的视频
+
+- 允许从具有多个网络适配器的 Windows 10 计算机将文件传输到旧版 Office Communicator 客户端。 [了解更多信息] (https://support.microsoft.com/help/4508477)
+
+- 改善了 Skype for Business 与 Microsoft Teams 参与者之间的通信体验
+
 
 ## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
 *版本 1905（内部版本 11629.20246）*
