@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203711"
+ms.locfileid: "35226862"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -26,7 +26,7 @@ ms.locfileid: "35203711"
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+> - Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Microsoft Teams 将在更新这些安装时包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
 ## <a name="version-1906-june-24"></a>版本 1906：6 月 24 日
 *版本 1906（内部版本 11727.20210）*
@@ -54,7 +54,7 @@ ms.locfileid: "35203711"
 - **我们已经为你更新了 Outlook 用户体验：** 简化的体验，以前可供预览，现即将推出，旨在帮助你关注最重要的内容。 
   [了解更多](https://support.office.com/zh-CN/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **电子邮件中的墨迹功能！** 现可在 Outlook 电子邮件中绘制图片并进行批注。 
+- **让我把它画出来：** 在图片上进行涂鸦或添加绘图画布以使用墨迹表达你的想法。 
   [了解更多](https://support.office.com/zh-CN/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
@@ -67,7 +67,7 @@ ms.locfileid: "35203711"
 
 - 启用“在会议中裁剪和居中我的视频”设置时，在 4K 显示器上正确裁剪会议中的视频
 
-- 允许从具有多个网络适配器的 Windows 10 计算机将文件传输到旧版 Office Communicator 客户端。 [了解更多信息] (https://support.microsoft.com/help/4508477)
+- 允许从具有多个网络适配器的 Windows 10 计算机将文件传输到旧版 Office Communicator 客户端。 [了解更多](https://support.microsoft.com/help/4508477)
 
 - 改善了 Skype for Business 与 Microsoft Teams 参与者之间的通信体验
 
