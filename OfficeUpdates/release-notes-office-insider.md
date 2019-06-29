@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/21/2019
+ms.date: 6/28/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
-ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
+ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
+ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130641"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35393336"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -27,6 +27,41 @@ ms.locfileid: "35130641"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="june-28-2019"></a>2019 年 6 月 28 日
+版本 1907（内部版本 11819.20002）
+
+## <a name="whats-new"></a>新增功能：
+
+### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint 和 Visio
+
+#### <a name="recommended-documents"></a>建议的文档
+
+查找为你推荐的相关活动的文档。
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="word"></a>Word 
+- 我们修复了可能阻止打开某些 .DOC 文件的问题
+- 我们修复了可能阻止正确加载批注的问题
+
+### <a name="excel"></a>Excel
+- 我们改进了 Power 查询的性能
+
+### <a name="powerpoint"></a>PowerPoint
+- 我们修复了与在 Surface 设备上使用触控笔相关的问题，这可能会导致屏幕闪烁
+
+### <a name="outlook"></a>Outlook
+- 我们修复了一个问题，该问题可能会在转换为会议时更改约会的忙/闲状态
+- 我们修复了一个问题，即当使用临时模板保护电子邮件时，将显示错误的模板和说明
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="june-21-2019"></a>2019 年 6 月 21 日
 版本 1907（生成号 11815.20002）
