@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203691"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345559"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -35,6 +35,38 @@ ms.locfileid: "35203691"
 > - 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。
 
 [//]: # (请勿移除)
+
+## <a name="june-27-2019"></a>2019 年 6 月 27 日
+
+[//]: # (请勿移除内容开头 2019 年 6 月 27 日)
+
+### <a name="monthly-channel"></a>每月频道
+
+最新版为版本 1906（内部版本 11727.20230）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1906（内部版本 11727.20224） <br/> |2019 年 6 月 26 日 <br/> |187<br/> |
+|版本 1906（内部版本 11727.20210） <br/> |2019 年 6 月 24 日 <br/> |287<br/> |
+
+
+[//]: # (请勿移除内容结尾 2019 年 6 月 27 日)
+
+## <a name="june-26-2019"></a>2019 年 6 月 26 日
+
+[//]: # (请勿移除内容开头 2019 年 6 月 26 日)
+
+### <a name="monthly-channel"></a>每月频道
+
+最新版为版本 1906（内部版本 11727.20224）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1906（内部版本 11727.20210） <br/> |2019 年 6 月 24 日 <br/> |60<br/> |
+|版本 1905（内部版本 11629.20246） <br/> |2019 年 6 月 11 日 <br/> |170<br/> |
+
+
+[//]: # (请勿移除内容结尾 2019 年 6 月 26 日)
 
 ## <a name="june-24-2019"></a>2019 年 6 月 24 日
 

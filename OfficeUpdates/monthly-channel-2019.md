@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226862"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345579"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -26,7 +26,26 @@ ms.locfileid: "35226862"
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Microsoft Teams 将在更新这些安装时包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+> - Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Microsoft Teams 将在更新这些安装时包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="version-1906-june-27"></a>版本 1906：6 月 27 日
+*版本 1906（内部版本 11727.20230）*
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+
+- 解决了导致部分 POP3 用户看到无论设置如何，其所有电子邮件均采用纯文本格式的问题。  此修补程序将还原 HTML 格式邮件的视图。
+
+## <a name="version-1906-june-26"></a>版本 1906：6 月 26 日
+*版本 1906（内部版本 11727.20224）*
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+
+- 修复了 Excel 中的问题，其中分配给形状或表单控件的宏可能显示不正确的错误消息，或者可能在不正确的目标区域中工作。
+- 解决了在与其他人共同创作时导致表旁边的剪切和粘贴操作失败的问题。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+
+- 解决了导致经理不清楚代理人是否已响应指定的会议请求的问题。
 
 ## <a name="version-1906-june-24"></a>版本 1906：6 月 24 日
 *版本 1906（内部版本 11727.20210）*
