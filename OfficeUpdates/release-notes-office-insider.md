@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
-ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
+ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35393336"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587893"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -27,6 +27,60 @@ ms.locfileid: "35393336"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="july-5-2019"></a>2019 年 7 月 5 日
+版本 1908（内部版本 11901.20002）
+
+## <a name="whats-new"></a>新增功能：
+
+### <a name="word-excel-powerpoint"></a>Word、Excel、PowerPoint
+
+#### <a name="sketchy-shapes"></a>粗略形状！
+
+正在起草演示文稿？ 你可以应用粗略样式来表明自己仍在进行此工作。 因此，无需转换成自由形式的手绘形状，即可为对象提供个性化风格。
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all"></a>全部
+- 显著提高了功能区快捷键提示的性能
+- 我们修复了阻止“查看即将推出的内容”对话框正确显示的问题
+- 我们修复了可能导致“共同创作图库”浮出控件中的照片未对齐问题
+
+### <a name="word"></a>Word 
+- 我们修复了有时可能会阻止添加新批注的问题
+- 我们修复了表有时可能导致崩溃的问题
+- 我们修复了可能会在邮件合并结尾处添加无效数据的问题
+- 我们修复了可能导致某些 LaTeX 公式错误呈现的问题
+
+### <a name="excel"></a>Excel
+- 我们修复了更改图表类型有时会导致运行时异常的问题
+- 我们修复了在打开多个窗口时可能会显示错误功能区的问题
+- 我们修复了在宏打开工作簿的第二个实例时可能会导致错误的问题
+- 我们修复了在打开或创建工作簿或者在工作簿之间切换时可能导致崩溃的问题
+- 我们修复了阻止用户打开通过 Teams 中的 Word 创建的 PDF 的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 我们修复了将图表导出到 pdf 时可能降低图表质量的问题
+- 我们修复了阻止显示工具提示（用于指示与中心之间的距离）的问题
+
+### <a name="outlook"></a>Outlook
+- 我们修复了有时可能会阻止显示“磁盘已满”错误的问题
+- 我们修复了在更新会议请求时可能会导致附件出现重复的问题
+
+### <a name="access"></a>Access
+- 我们修复了阻止某些查询返回大型整数值的问题
+- 我们修复了可能使 SQL 文本框不可编辑的问题
+- 我们修复了难以在一些高 DPI 显示器上查看工具提示的问题
+
+### <a name="project"></a>Project
+- 我们修复了可能导致标志值在新任务中不可编辑的问题
+- 我们修复了可能导致状态更新会错误地设置工作分配和任务的实际开始日期的问题
+- 我们修复了可能会导致某些资源错误地显示为过度分配的问题
+- 我们修复了当添加 Lag 时、小数点分隔符为逗号时以及连接到服务器时 TaskDependencies Add 方法可能失败的问题
+- 我们修复了通过 CSOM 更新本地自定义字段查找表值可能会导致 PCS 崩溃的问题
+- 我们修复了总工时值包含小数时可能显示不正确的问题
+
+</BR></BR>
 
 ## <a name="june-28-2019"></a>2019 年 6 月 28 日
 版本 1907（内部版本 11819.20002）
@@ -82,9 +136,9 @@ ms.locfileid: "35393336"
 #### <a name="scenarios-to-try"></a>可尝试的方案
 
 1. 在深色模式下阅读电子邮件。 如果无法阅读某些内容，请使用阅读窗格中的“太阳”切换，切换为浅色背景。 
-2. 在深色模式下撰写电子邮件。 使用功能区中的“太阳”切换，可以在浅色背景下预览邮件外观。 
+2. 在深色模式下撰写电子邮件。 使用功能区中的太阳切换按钮，在浅色背景下预览邮件的显示效果。 
 
-如果遇到任何无法正常呈现的电子邮件，请将它们作为附件发送到 OutlookDarkModeFail。
+如果遇到任何无法正常呈现的电子邮件，请将它们作为附件发送到 OutlookDarkModeFail@service.microsoft.com
 
 #### <a name="get-location-suggestions"></a>获取位置建议
 
