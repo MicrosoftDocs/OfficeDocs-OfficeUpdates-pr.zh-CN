@@ -3,21 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>5月27日一周, 2019
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 5/27/2019 | [Office 每月频道（定向）的更新历史记录](/OfficeUpdates/update-history-monthly-channel-targeted) | 修改内容 |
-| 5/29/2019 | [Office 365 专业增强版更新历史记录（按日期列出）](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改内容 |
-| 5/29/2019 | [Office for Mac 发行说明](/OfficeUpdates/release-notes-office-for-mac) | 修改内容 |
-| 5/29/2019 | [Office 预览体验成员频道的更新历史记录](/OfficeUpdates/update-history-office-insider) | 修改内容 |
-| 5/29/2019 | [有关 2019 年每月频道发行的发行说明](/OfficeUpdates/monthly-channel-2019) | 修改内容 |
-| 5/29/2019 | [Office 365 专业增强版更新的下载大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改内容 |
-| 5/31/2019 | [Office 预览体验成员发行说明](/OfficeUpdates/release-notes-office-insider) | 修改内容 |
-| 5/31/2019 | [Office 预览体验成员频道的更新历史记录](/OfficeUpdates/update-history-office-insider) | 修改内容 |
-
-
 ## <a name="week-of-june-03-2019"></a>2019年6月3日一周
 
 
@@ -100,3 +85,12 @@
 | 6/27/2019 | [Office 365 专业增强版更新历史记录（按日期列出）](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改内容 |
 | 6/28/2019 | [Office for Mac 发行说明](/OfficeUpdates/release-notes-office-for-mac) | 修改内容 |
 | 6/28/2019 | [Office 预览体验成员发行说明](/OfficeUpdates/release-notes-office-insider) | 修改内容 |
+
+
+## <a name="week-of-july-01-2019"></a>2019年7月1日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 7/2/2019 | [使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新](/OfficeUpdates/office-msi-non-security-updates) | 修改内容 |
+| 7/5/2019 | [Office 预览体验成员发行说明](/OfficeUpdates/release-notes-office-insider) | 修改内容 |
