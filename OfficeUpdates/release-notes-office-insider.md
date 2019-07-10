@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
-ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
+ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35587893"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607366"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,9 +29,9 @@ ms.locfileid: "35587893"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
 ## <a name="july-5-2019"></a>2019 年 7 月 5 日
-版本 1908（内部版本 11901.20002）
+版本 1907（内部版本 11901.20018）
 
-## <a name="whats-new"></a>新增功能：
+## <a name="whats-new"></a>最近更新：
 
 ### <a name="word-excel-powerpoint"></a>Word、Excel、PowerPoint
 
