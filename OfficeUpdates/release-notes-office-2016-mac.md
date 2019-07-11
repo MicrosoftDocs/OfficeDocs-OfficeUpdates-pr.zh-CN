@@ -1,5 +1,5 @@
 ---
-title: Office 2016 for Mac 发行说明
+title: Office 2016 for Mac 的更新历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -10,14 +10,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供自 2018 年 9 月开始的 Office 2016 for Mac 发行版的发行说明
-ms.openlocfilehash: 607abf772306e7c98657080fdabe5e304eccb051
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 094e0654c5e92dee64d0f1ce3c74a0f9f2443b06
+ms.sourcegitcommit: 7a98878289dd61a6cfa7ea5e9a4ee90ad085b9bb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935894"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35110774"
 ---
-# <a name="release-notes-for-office-2016-for-mac"></a>Office 2016 for Mac 发行说明
+# <a name="update-history-for-office-2016-for-mac"></a>Office 2016 for Mac 的更新历史记录
 
 Office 2016 for Mac 是通过零售商店或批量许可协议获得的一次性购买的 Office 版本。2020 年 10 月 13 日前，根据需要，此版本受到安全更新和 bug 修补程序支持。Office 2016 for Mac 支持的最低 macOS 版本是 10.10 (Yosemite)。
 

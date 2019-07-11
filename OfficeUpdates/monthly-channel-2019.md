@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
+ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345579"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601511"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -27,6 +27,16 @@ ms.locfileid: "35345579"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Microsoft Teams 将在更新这些安装时包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
+*版本 1906（内部版本 11727.20244）*
+
+
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+
+ - 解决导致当前文件夹搜索间歇性失败的问题。
 
 ## <a name="version-1906-june-27"></a>版本 1906：6 月 27 日
 *版本 1906（内部版本 11727.20230）*

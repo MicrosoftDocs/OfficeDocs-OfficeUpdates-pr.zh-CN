@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: 5cba7eb79cf38354f25f3ebc71464695400445fc
-ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
+ms.openlocfilehash: 6adf19fbc0136c6d5e48bc564d8b0119c6666d21
+ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "35585570"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601493"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
@@ -26,9 +26,34 @@ ms.locfileid: "35585570"
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
 
+## <a name="july-09-2019"></a>2019 年 7 月 9 日
+每月频道：版本 1906（内部版本 11727.20244）  
+半年频道（定向）：版本 1902（内部版本 11328.20368）  
+半年频道：版本 1902（内部版本 11328.20368）  
+半年频道：版本 1808（内部版本 10730.20360）  
+半年频道：版本 1803（内部版本 9126.2428）   
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1112](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1112)
+-   [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110)
+-   [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)
+
+### <a name="skype-for-business"></a>Skype for Business
+
+-   [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2019-1109](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1109)
+
 ## <a name="june-11-2019"></a>2019 年 6 月 11 日
 每月频道：版本 1905（内部版本 11629.20246）  
-半年频道（定向）：版本 1902（生成号 11328.20318）  
+半年频道（定向）：版本 1902（生成号 11328.20318）   
 半年频道：版本 1808（内部版本 10730.20348）  
 半年频道：版本 1803（内部版本 9126.2388）  
 

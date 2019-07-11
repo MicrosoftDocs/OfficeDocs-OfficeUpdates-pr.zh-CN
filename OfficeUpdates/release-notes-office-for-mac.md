@@ -3,19 +3,19 @@ title: Office for Mac 发行说明
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
+ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060294"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390970"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -26,31 +26,46 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
   
 > [!NOTE]
-> - 有关全部 Office for Mac 发行的列表和其他下载链接，请参阅 [Office for Mac 的更新历史记录](update-history-office-for-mac.md)。 
+> - 有关全部 Office for Mac 版本的列表、更新包和其他下载链接，请参阅 [Office for Mac 的更新历史记录](update-history-office-for-mac.md)。 
 > - 如果你是 Office 预览体验成员，请参阅[针对预览体验内部版本（快）的发行说明](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
 > - 2018 年 9 月开始发行 16.17 版，这些发行说明还适用于 Office 2019 for Mac（它是 Office for Mac 的一种版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Office 365 订阅的情况下才适用。
 > - 16.16 和更早版本的发行说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一种版本，可一次性购买。可以使用 Office 2016 for Mac 批量许可证激活 16.16 版本之前（包括 16.16）的较旧版本。无法使用 Office 2016 for Mac 批量许可证激活版本 16.17 或更高版本。有关从 9 月开始的 Office 2016 for Mac 发行版的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)。
-> - 仅为最新版本提供下载链接。
-> - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
+> 
+> 
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
   **注意：** Microsoft 自动更新 (MAU) 发布信息已移至“[MAU 发布历史记录](https://docs.microsoft.com/zh-CN/officeupdates/release-history-microsoft-autoupdate)”页面。<br/>
 
-## <a name="june-2019-release"></a>2019 年 6 月发布
-
-**发布日期：** 2019 年 6 月 11 日
-
+## <a name="june-11-2019-release"></a>2019 年 6 月 11 日发布
 *版本 16.26（内部版本 19060901）*
 
- 此版本提供以下更新：
 
-|**应用程序**|**更新**|**安全更新**|**更新程序包的下载链接**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/><br/>|使用 @提及功能引起他人的注意：在批注中使用 @提及，以在需要他人的意见时让他们知悉。 |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)：Microsoft Word 远程代码执行漏洞<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)：Microsoft Word 远程代码执行漏洞<br/>|[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|使用 @提及功能引起他人的注意：在批注中使用 @提及，以在需要他人的意见时让他们知悉。<br/><br/>**分组或不分组**：无须对数据透视表日期进行分组。 在以下位置关闭自动分组：Excel > 首选项 > 表和筛选器。<br/><br/>**下标和上标概览：** 如果要设置下标、上标和删除线的格式，请将它们添加到功能区和快速访问工具栏中，以便可以轻松访问它们。| |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
-|Powerpoint<br/>|使用 @提及功能引起他人的注意：在批注中使用 @提及，以在需要他人的意见时让他们知悉。<br/><br/>**联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。<br/><br/>**实时字幕和对白字幕：** 在你进行演示期间，你所说的话会自动显示为字幕或翻译成其他语言的对白字幕。 为了获得最佳结果，请使用耳机式麦克风。||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
-|Outlook|**只需一键即可从 Outlook 保存到 OneNote：** 单击一个按钮即可将 Outlook 邮件和会议笔记保存到 OneNote 笔记本。 将其用作存档工具或存放资料的方便位置。 <br/> | |[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **使用 \@提及功能引起他人的注意：** 在批注中使用 @提及，以在需要他人的意见时让他们知悉。
+
+### <a name="word-security-updates"></a>Word：安全更新
+
+- [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)：Microsoft Word 远程代码执行漏洞
+- [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)：Microsoft Word 远程代码执行漏洞
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **使用 \@提及功能引起他人的注意：** 在批注中使用 @提及，以在需要他人的意见时让他们知悉。
+- **分组或不分组**：无须对数据透视表日期进行分组。 在以下位置关闭自动分组：Excel > 首选项 > 表和筛选器。
+- **下标和上标概览：** 如果要设置下标、上标和删除线的格式，请将它们添加到功能区和快速访问工具栏中，以便可以轻松访问它们。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **使用 \@提及功能引起他人的注意：** 在批注中使用 @提及，以在需要他人的意见时让他们知悉。
+- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。
+- **实时字幕和对白字幕：** 在你进行演示期间，你所说的话会自动显示为字幕或翻译成其他语言的对白字幕。 为了获得最佳结果，请使用耳机式麦克风。
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **只需一键即可从 Outlook 保存到 OneNote：** 单击一个按钮即可将 Outlook 邮件和会议笔记保存到 OneNote 笔记本。 将其用作存档工具或存放资料的方便位置。<br/><br/>
+
 
 ## <a name="may-2019-release"></a>2019 年 5 月发布      
 
