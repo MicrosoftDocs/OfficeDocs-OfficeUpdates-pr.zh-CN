@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: 041802476192d1ca6b684a46046aefa2c9ba2a73
+ms.sourcegitcommit: 9e7d201c887af0708df6ce48fba7f414b066dcd0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605581"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35612141"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -29,8 +29,7 @@ ms.locfileid: "35605581"
 
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902（内部版本 11328.20368）*
-
-
+<br/>
   [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
@@ -197,6 +196,28 @@ ms.locfileid: "35605581"
 - 修复了下载链接图片时导致挂起的回归。
 - 修复了粘贴在 Word、Excel、PowerPoint 中的大型 EMF 文件的模糊性。
 - 修复了版本历史记录解析逻辑中的 bug，这些 bug 在少数情况下会导致文档以只读方式打开。
+
+
+## <a name="version-1808-july-09"></a>版本 1808：7 月 9 日
+*版本 1808（内部版本 10730.20360）*
+<br/>
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+
+- 改善了为“文档属性”启用“文档部件”时的性能。
+- 修复了在签出文件时删除签名的相关问题。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+
+- 修复了影响在虚拟化 Windows 上运行的 Office 应用程序的问题。
+
+
+## <a name="version-1803-july-09"></a>版本 1803：7 月 9 日
+*版本 1803（内部版本 9126.2428）*
+<br/>
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 ## <a name="version-1808-june-11"></a>版本 1808：6 月 11 日
