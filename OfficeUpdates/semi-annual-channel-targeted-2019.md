@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910392"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607356"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -27,6 +27,50 @@ ms.locfileid: "34910392"
  
 > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+
+## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
+*版本 1902（内部版本 11328.20368）*
+
+
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+- 修复了删除已筛选的 excel 行时速度极慢的问题。
+- 修复了双指滚动时会在工作表上留下灰色矩形印及 Excel 无响应的问题。
+
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+- 解决了以下问题：用户偶尔看到 Outlook 插入英语拼音字母, 而不是将 IME 字符窗口保持打开状态以供选择中文字词。
+- 解决了以下问题：用户看到房间被推荐为会议室，然而会议却被安排在会议室不可用时。
+- 解决了导致用户尝试打开会议系列而不是打开主系列异常的问题。
+- 解决了导致用户看到“已删除项”文件夹中的项的到期日期计算错误的问题。
+
+
+### <a name="teams-non-security-updates"></a>Teams：非安全更新
+
+- 安装完成后，Teams 安装程序现在已有用于关闭自动启动的策略。
+
+
+### <a name="visio-non-security-updates"></a>Visio：非安全更新
+
+- 解决了 Visio 无法与 Office 365 搭配使时与 ActiveX 解决方案相关的问题，错误信息指示无法找到 riched20.dll。
+
+
+### <a name="word--non-security-updates"></a>Word：非安全更新
+
+- 修复了用于禁用模板搜索栏的 GPO 设置
+- 修复了以下问题：在脱机并编辑仅限服务器的文档之后，用户丢失了部分更改。
+- 改善了启用“文档属性”中“文档部件”时的性能
+- 修复了从服务器首次下载修订可能失败的问题
+
+
+### <a name="office-suite--non-security-updates"></a>Office 套件：非安全更新
+
+- 解决了以下问题：在安装其他 Office 产品或语言包时，使用共享计算机激活的设备可能会意外恢复成基于用户的激活。
+- 修复了代理身份验证作为 SYSTEM 运行时 Office 更新受阻的问题。
+- 修复解决了 Office 加载项在用户配置文件更改时消失的问题。
+
 
 ## <a name="version-1902-june-11"></a>版本 1902：6 月 11 日
 *版本 1902（内部版本 11328.20318）*
