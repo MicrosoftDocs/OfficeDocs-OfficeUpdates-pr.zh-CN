@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: a5e42d04fc0a072ec28c9a1f9c946f8f50a0d0af
-ms.sourcegitcommit: 803d07608e5f541e9334d59ebc48e7c6b705f3b6
+ms.openlocfilehash: f649456c3549647d8e80d44b1c5c1d8b13f818ce
+ms.sourcegitcommit: c75a988f6e9414866f0f0d73d0ea788c4ec33c4d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35191825"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35630469"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -33,6 +33,15 @@ ms.locfileid: "35191825"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+**2019 年 7 月 9 日**<br/>
+版本 1906（内部版本 11727.20244）<br/>
+
+**2019 年 6 月 27 日**<br/>
+版本 1906（内部版本 11727.20230）<br/>
+
+**2019 年 6 月 26 日**<br/>
+版本 1906（内部版本 11727.20224）<br/>
 
 **2019 年 6 月 23 日**<br/>
 版本 1906（内部版本 11727.20210）<br/>
