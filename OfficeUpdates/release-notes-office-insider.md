@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/5/2019
+ms.date: 7/12/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
+ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607366"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35643034"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -27,6 +27,39 @@ ms.locfileid: "35607366"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="july-12-2019"></a>2019 年 7 月 12 日
+版本 1907（内部版本 11901.20038）
+
+## <a name="whats-new"></a>最近更新：
+
+### <a name="powerpoint"></a>PowerPoint
+ 
+#### <a name="use-ink-replay-in-your-presentations"></a>在演示文稿中使用墨迹重播
+ 
+在 PowerPoint 中应用墨迹的重播动画，在演示文稿中表达和传达更多信息。 
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="word"></a>Word 
+- 各种性能和稳定性修复
+
+### <a name="excel"></a>Excel
+- 各种性能和稳定性修复
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修复
+
+### <a name="outlook"></a>Outlook
+- 各种性能和稳定性修复
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="july-5-2019"></a>2019 年 7 月 5 日
 版本 1907（内部版本 11901.20018）
