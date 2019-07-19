@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的发布历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 77894c5325931fc3978f8113175de2a72623d8c8
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: e5905b289963cb91a61f2a29f3c97bd9df895610
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060304"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759392"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,31 +29,32 @@ ms.locfileid: "35060304"
 > - 仅提供最新版 Microsoft AutoUpdate 的下载链接
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
   
-## <a name="june-2019-release"></a>2019 年 6 月发布
+## <a name="july-2019-release"></a>2019 年 7 月发布
 
-**发布日期：** 2019 年 6 月 11 日
+**发布日期：** 2019 年 7 月 16 日
 
-*Microsoft 自动更新 4.12*
+*Microsoft 自动更新 4.13*
 
  **功能更新：**
 
-- 二进制增量更新：对于 SSD 设备，将推出大小较小的更新，从而减少由于更新导致的带宽消耗。
-- 支持配件应用：MAU 现支持 Microsoft OneDrive 等配件应用。
-- “克隆安装”增强功能：克隆更新现在变得更加可靠，且防故障能力更强。
+- MAU 隐私权变更：所需的数据收集通知将作为合规性的一部分向最终用户显示。
+- MAU 更新截止日期：Mac 管理员现在可以在 MAU 中设置截止日期，从而跨其 Mac 用户强制执行更新。
+- 各种 Bug 和性能修补程序。
 
 **MAU 更新链接：**
 
-[下载 Microsoft 自动更新 4.12 包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+[下载 Microsoft 自动更新 4.13 包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071500_Updater.pkg)<br/>
 <br/>
-**SHA-1/ SHA-256 哈希：**
+**SHA-1/SHA-256 哈希：**
 
-ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+2f86ed6bba92bb57ac1189ba561de8b5e36c90003c178d50d7c71960050ea667
 <br/><br/>
 
 ## <a name="release-history"></a>发布历史记录
 
 |**发布日期**|**版本**|**详细信息**||
 |:-----|:-----|:-----|:-----|
+|2019 年 7 月 16 日 <br/>|4.13 <br/> |  [发行说明](release-notes-office-for-mac.md) <br/> ||
 |2019 年 6 月 11 日 <br/>|4.12 <br/> |  <br/> ||
 |2019 年 5 月 14 日 <br/>|4.11 <br/> | [发行说明](release-notes-office-for-mac.md#May-2019-release) <br/> | <br/> |
 |2019 年 4 月 16 日 <br/>|4.10 <br/> | [发行说明](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
