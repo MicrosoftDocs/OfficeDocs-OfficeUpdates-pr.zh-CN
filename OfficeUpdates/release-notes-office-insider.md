@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/12/2019
+ms.date: 7/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
-ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
+ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
+ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35643034"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803159"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -27,6 +27,50 @@ ms.locfileid: "35643034"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="july-19-2019"></a>2019 年 7 月 19 日
+版本 1908（内部版本 11911.20000）
+
+## <a name="whats-new"></a>最近更新：
+
+### <a name="word"></a>Word
+
+#### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>了解在 Word Online 中阅读时所遇到的首字母缩略词的含义
+
+当你遇到首字母缩略词时，我们会尝试使用组织内的数据来定义它。
+
+#### <a name="coauthoring-improvements"></a>共同创作改进
+
+通过让其他人以更接近实时的方式接收内容更改，改进了共同创作体验。
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="word"></a>Word 
+- 我们修复了缺少 BookMarkEnd 标记的问题。
+- 我们修复了在用户输入特殊字符时字体选择可能发生改变的问题
+- 我们修复了有时导致对新评论卡进行空白回复的问题
+- 我们修复了可能导致共享电子邮件时格式设置丢失的问题
+
+### <a name="excel"></a>Excel
+- 我们修复了包含大区域的数组有时可能导致崩溃的问题
+- 我们显著提高了从已筛选区域复制数据的性能
+- 我们修复了一个问题，即如果文件名包含特殊字符，则会阻止打开某些文件
+
+### <a name="powerpoint"></a>PowerPoint
+- 我们修复了一个问题，即默认情况下未为 PowerPoint 中新创建的分区选择分区名称。
+- 我们修复了当使用 4:3 显示时可能导致 UI 难以使用的问题
+
+### <a name="outlook"></a>Outlook
+- 我们修复了可能阻止列出可用房间的问题
+- 我们修复了阻止某些 POP3 用户使用 HTML 格式设置的问题
+
+### <a name="access"></a>访问
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="july-12-2019"></a>2019 年 7 月 12 日
 版本 1907（内部版本 11901.20038）
