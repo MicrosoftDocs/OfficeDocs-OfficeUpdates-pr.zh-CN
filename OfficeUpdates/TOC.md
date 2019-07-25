@@ -1,5 +1,5 @@
+# [版本信息](release-notes-office365-proplus.md)
 # Office 365 专业增强版
-## [版本信息](release-notes-office365-proplus.md)
 ## [安全更新](office365-proplus-security-updates.md)
 ## [更新历史记录（按日期）](update-history-office365-proplus-by-date.md)
 ## [更新大小](download-sizes-office365-proplus-updates.md)
