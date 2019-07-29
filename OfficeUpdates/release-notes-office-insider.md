@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
-ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
+ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
+ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803159"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916965"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -27,6 +27,44 @@ ms.locfileid: "35803159"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="july-26-2019"></a>2019 年 7 月 26 日
+版本 1908（内部版本 11916.20000）
+
+## <a name="whats-new"></a>新增功能：
+
+### <a name="word-excel-powerpoint"></a>Word、Excel、PowerPoint
+
+#### <a name="create-more-accessible-pdfs"></a>创建更易于访问的 PDF
+
+创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。
+
+## <a name="notable-fixes"></a>显著修复：
+
+### <a name="all"></a>全部
+
+- 我们修复了 Office 的文件类型关联和图标有时可能会在 Office 更新后中断的问题
+
+### <a name="word"></a>Word 
+- 各种性能和稳定性修复
+
+### <a name="excel"></a>Excel
+- 我们修复了移动图表有时会导致崩溃的问题
+- 我们修复了在更改图表类型后，从图表对象中获取工作簿对象有时会导致错误的问题
+
+### <a name="powerpoint"></a>PowerPoint
+- 各种性能和稳定性修复
+
+### <a name="outlook"></a>Outlook
+- 我们修复了在简化功能区中，禁用的控件有时不能在功能区中呈灰色显示的问题
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="project"></a>Project
+- 各种性能和稳定性修复
+
+</BR></BR>
 
 ## <a name="july-19-2019"></a>2019 年 7 月 19 日
 版本 1908（内部版本 11911.20000）
