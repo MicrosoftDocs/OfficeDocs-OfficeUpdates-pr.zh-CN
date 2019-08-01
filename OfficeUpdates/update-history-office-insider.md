@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: c997873b4156301a45efb3e170c626b30abd8123
-ms.sourcegitcommit: dbd7a9ad8194eaf6c1e560e6b1345adeddb9dcc8
+ms.openlocfilehash: ef09f90745cc6f31c5c1fcf9449c2bbd2f31b61f
+ms.sourcegitcommit: 34a16fa224fdb9533efc3f16729796211b59035b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701495"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049381"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 预览体验成员频道的更新历史记录
 
@@ -33,6 +33,15 @@ ms.locfileid: "35701495"
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/zh-CN/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (请勿移除)
+
+**2019 年 7 月 31 日**<br/>
+版本 1908（内部版本 11929.20002）<br/>
+
+**2019 年 7 月 29 日**<br/>
+版本 1908（内部版本 11924.20004）<br/>
+
+**2019 年 7 月 22 日**<br/>
+版本 1908（内部版本 11916.20000）<br/>
 
 **2019 年 7 月 15 日**<br/>
 版本 1908（内部版本 11911.20000）<br/>
