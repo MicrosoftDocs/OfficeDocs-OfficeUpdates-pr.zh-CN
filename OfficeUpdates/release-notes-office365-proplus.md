@@ -3,31 +3,39 @@ title: Office 365 专业增强版更新发行信息
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2018
+ms.date: 7/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
+ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948778"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "35823951"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
-> [!NOTE]
-> - 列出每个更新频道的支持版本的表格已移至 [Office 365 专业增强版更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)。
 
+## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 专业增强版版本的安全更新
+
+有关安全更新的完整列表，请参阅以下文章：
+ - [Office 365 专业增强版的安全更新](office365-proplus-security-updates.md)
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 专业增强版版本更新历史记录
 
-有关完整的版本列表，请参阅以下文章：
+有关每个频道的完整版本列表和支持的版本，请参阅以下文章：
  - [Office 365 专业增强版更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
+
+
+ ## <a name="update-sizes-for-office-365-proplus-releases"></a>Office 365 专业增强版版本的更新大小
+
+有关更新版本大小的完整列表，请参阅以下文章：
+ - [Office 365 专业增强版更新的下载大小](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 专业增强版版本的发行说明
 
@@ -41,6 +49,7 @@ ms.locfileid: "34948778"
 有关 Office for Mac 更新（包含 Office 365 专业增强版的 Office 365 订阅计划随附）的信息，请参阅以下文章：
  - [Office for Mac 更新历史记录](update-history-office-for-mac.md)
  - [Office for Mac 发行说明](release-notes-office-for-mac.md)
+ - [MAU 版本历史记录](release-history-microsoft-autoupdate.md)
 
 
 ## <a name="related-topics"></a>相关主题
