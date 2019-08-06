@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759452"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937620"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -64,8 +64,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **共享来自云文件的附件：** 轻松将云文件附加到电子邮件中，以增强协作。<br/>
-
+- **共享来自云文件的附件：** 将云文件轻松附加到电子邮件中来增强协作。<br/>
+- **阅读窗格中支持深色模式：** 你收到的电子邮件现具有深色背景，便于在弱光环境下更轻松查看。 需要 macOS Mojave。 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)：Microsoft Exchange 信息泄漏漏洞<br/><br/>

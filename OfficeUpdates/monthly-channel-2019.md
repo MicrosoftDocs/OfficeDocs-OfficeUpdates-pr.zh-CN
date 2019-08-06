@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
-ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
+ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/30/2019
-ms.locfileid: "35931162"
+ms.locfileid: "35936333"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -264,11 +264,13 @@ ms.locfileid: "35931162"
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
-- **将流程图导出至 Word：** 向 Word 文档自动添加流程图内容，如形状和元数据。 然后自定义文档以创建过程指南和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
-
 - **修订、备注和实时同步协作的颜色：** 产品中的修复现在可确保以相同的颜色显示备注、修订和协作者光标。
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
+
+### <a name="visio-feature-updates"></a>Visio：功能更新
+
+- **将流程图导出至 Word：** 向 Word 文档自动添加流程图内容，如形状和元数据。 然后自定义文档以创建过程指南和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
