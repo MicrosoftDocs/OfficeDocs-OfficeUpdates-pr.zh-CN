@@ -3,19 +3,19 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
+ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
+ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916965"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36168327"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,7 +26,98 @@ ms.locfileid: "35916965"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致
 
  > [!NOTE]
-> - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+> - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+[//]: # (请勿移除)
+
+
+## <a name="august-02-2019br"></a>**2019 年 8 月 2 日**<br/>
+版本 1908（内部版本 11929.20002）<br/>
+
+### <a name="excel-feature-updates"></a>Excel 功能更新：
+
+- **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
+
+
+- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+
+
+### <a name="outlook-feature-updates"></a>Outlook 功能更新：
+
+- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 功能更新：
+
+- **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
+
+
+- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+
+
+### <a name="word-feature-updates"></a>Word 功能更新：
+
+- **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
+
+
+- **重写功能帮你大忙：** 想要用另一种方法表达？ 使用“重写”可以查看有关收发邮件的不同建议。
+
+
+- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+
+
+
+
+## <a name="non-security-updates"></a>与安全无关的更新：
+
+### <a name="access"></a>Access
+- 各种性能和稳定性修复
+
+### <a name="excel"></a>Excel
+
+- <div><span>我们修复了打印到 PDF 时似乎应用了&quot;重复所有标签&quot;的问题</span></div>
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我们修复了可能会阻止用户在桌面上打开文档的问题</span></div>
+
+- <div><span>我们修复了错误消息&quot;正在进行其他安装&quot;阻止升级的问题</span></div>
+
+- <div><span>我们修复了安装安全更新时用户可能会看到错误消息的问题</span></div>
+
+- <div><span>我们解决了可能会导致光标消失的问题</span></div>
+
+- <div><span>我们修复了用户可能默认使用“绘图”选项卡而不是“开始”选项卡的问题</span></div>
+
+- <div><span>我们修复了大型树视图可能会导致崩溃的问题</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">我们解决了可能会导致不断提示输入密码的问题</span>
+
+- <div><span>我们修复了可能会妨碍电子邮件地址被正确查询的问题</span></div>
+
+- <div><span>我们修复了可能会阻止用户打开旧版 Outlook 所创建的日历项目的问题</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我们修复了可能阻止某些动画启动的问题</span></div>
+
+### <a name="project"></a>项目
+- 各种性能和稳定性修复
+
+### <a name="word"></a>Word
+
+- <div><span>我们解决了批注回复显示顺序错误的问题</span></div>
+
+- <div><span>我们解决了在某些情况下, 显示的是提示, 而不是批注的问题</span></div>
+
+- <div><span>我们解决了当用户尝试添加新的批注时，修订窗格可能会显示的问题</span></div>
+
+- <div><span>我们解决了可能会阻止显示“撤消”下拉列表的问题</span></div>
+
+- <div><span>我们修复了有时可能会阻止添加批注的问题</span></div>
+
 
 ## <a name="july-26-2019"></a>2019 年 7 月 26 日
 版本 1908（内部版本 11916.20000）

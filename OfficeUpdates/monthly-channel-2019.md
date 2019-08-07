@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
+ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936333"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36222960"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -36,8 +36,7 @@ ms.locfileid: "35936333"
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。 
-  [了解更多](https://support.office.com/zh-CN/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+- **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
 - **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 
   [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
@@ -276,12 +275,14 @@ ms.locfileid: "35936333"
 
 - **新图标：** 我们已根据用户反馈添加了 300 多个新图标。 你可以使用功能区“插入”选项卡上的“图标”按钮找到它们。
 
-- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解详细信息](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **新的 Office 应用图标：** 重新设计的应用图标，以反映出 Office 简单、强大而智能的体验。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+
+- 解决了导致主题显示非常小的问题。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
-修复了将采用平假名和日语汉字的新纪元名称“Reiwa”错误地标识为拼写错误或不符合语法的表达式的问题。
+- 修复了将采用平假名和日语汉字的新纪元名称“Reiwa”错误地标识为拼写错误或不符合语法的表达式的问题。
 
 ## <a name="version-1903-april-23"></a>版本 1903：4 月 23 日
 *版本 1903（内部版本 11425.20244）*
