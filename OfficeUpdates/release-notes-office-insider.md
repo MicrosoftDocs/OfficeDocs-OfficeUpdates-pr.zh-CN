@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
-ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
+ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36168327"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231597"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -57,10 +57,10 @@ ms.locfileid: "36168327"
 
 ### <a name="word-feature-updates"></a>Word 功能更新：
 
-- **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
+- **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
 
 
-- **重写功能帮你大忙：** 想要用另一种方法表达？ 使用“重写”可以查看有关收发邮件的不同建议。
+- **换一种说法：** 想要用另一种方法表达，重写功能帮你大忙。 重写功能为你完善语言提供了替代方案。
 
 
 - **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
