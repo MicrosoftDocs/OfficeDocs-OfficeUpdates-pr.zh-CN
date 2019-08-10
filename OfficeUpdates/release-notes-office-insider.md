@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
+ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231597"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36285979"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,60 @@ ms.locfileid: "36231597"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+
+## <a name="august-09-2019br"></a>**2019 年 8 月 9 日**<br/>
+版本 1909（内部版本 12001.20000）<br/>
+
+### <a name="excel-feature-updates"></a>Excel 功能更新：
+
+- 协作更简单：** 共同创作改进意味着使用条件格式、单元格样式等时，所做的更改将与协作者无缝合并。
+
+
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会告诉你已挑选的数目。
+
+
+### <a name="office-suite-feature-updates"></a>Office 套件功能更新：
+
+- **新的 Office 应用图标：** 重新设计应用图标，以反映出 Office 简单、强大而智能的体验。
+
+
+### <a name="outlook-feature-updates"></a>Outlook 功能更新：
+
+- **针对攻击的高级防护：** 通过 Office 365 高级威胁防护, 可通过电子邮件主题中的超链接、附加邮件、签名邮件、网络路径等的方式抵御攻击。
+
+
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会告诉你已挑选的数目。
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 功能更新：
+
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会告诉你已挑选的数目。
+
+
+### <a name="word-feature-updates"></a>Word 功能更新：
+
+- **其他人可以快速查看你所做的更改: **共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+
+
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会告诉你已挑选的数目。
+
+
+
+
+## <a name="non-security-updates"></a>非安全更新：
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我们修复了导致会议收件人在取消会议后收到两个通知的问题</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我们修复了用户为“形状”和“图标”选择 "无轮廓" 或 "无填充" 时，可能会导致崩溃的问题</span></div>
+
+
+
 
 
 ## <a name="august-02-2019br"></a>**2019 年 8 月 2 日**<br/>
@@ -168,9 +222,6 @@ ms.locfileid: "36231597"
 
 当你遇到首字母缩略词时，我们会尝试使用组织内的数据来定义它。
 
-#### <a name="coauthoring-improvements"></a>共同创作改进
-
-通过让其他人以更接近实时的方式接收内容更改，改进了共同创作体验。
 
 ## <a name="notable-fixes"></a>显著修复：
 
@@ -291,8 +342,14 @@ ms.locfileid: "36231597"
 ## <a name="june-28-2019"></a>2019 年 6 月 28 日
 版本 1907（内部版本 11819.20002）
 
-## <a name="whats-new"></a>新增功能：
+## <a name="whats-new"></a>最近更新：
 
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
+
+- **在类似列上连接表：** 在比较列时，获取和转换 (Power Query) 现在具有近似文本匹配逻辑（也称为模糊匹配），用于合并表。
+ 
 ### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint 和 Visio
 
 #### <a name="recommended-documents"></a>建议的文档
@@ -771,6 +828,18 @@ ms.locfileid: "36231597"
 ## <a name="april-26-2019"></a>2019 年 4 月 26 日
 版本 1905（内部版本 11617.20002）
 
+## <a name="new-features"></a>新功能
+
+### <a name="excel"></a>Excel
+
+#### <a name="coauthoring-improvements"></a>共同创作改进
+
+通过让其他人以更接近实时的方式接收内容更改，改进了共同创作体验。
+
+### <a name="visio"></a>Visio
+
+- **从 Power BI 导出 Visio 视觉对象：** 将 Power BI 报表导出为 PDF、PowerPoint 文件等时，Power BI 的 Visio 视觉对象现在将会正常显示。
+
 ## <a name="notable-fixes"></a>显著修复：
 
 ### <a name="word"></a>Word 
@@ -969,6 +1038,12 @@ Office 现支持动画模型，这些模型可以在编辑器中播放，从而�
 
 ## <a name="march-22-2019"></a>2019 年 3 月 22 日
 版本 1904（内部版本 11514.20004）
+
+## <a name="new-features"></a>新功能
+
+- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 了解更多<https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。
 
 ## <a name="notable-fixes"></a>显著修复：
 
