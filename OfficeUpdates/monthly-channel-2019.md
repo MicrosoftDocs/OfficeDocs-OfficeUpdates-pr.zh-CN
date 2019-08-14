@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222960"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302471"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -58,6 +58,8 @@ ms.locfileid: "36222960"
 
 - **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 
   [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
@@ -315,6 +317,7 @@ ms.locfileid: "36222960"
 
 - **Excel 中的见解：** 见解为多位用户提供值。 见解可提供一种较为温和的数据分析方法，并且还可以为其他人提供不同的数据观点。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **增加内容的覆盖面：** 需要让你的电子表格易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试，我们在状态栏中找到你需要查看的内容时会通知你。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
@@ -324,6 +327,10 @@ ms.locfileid: "36222960"
 - **增加内容的覆盖面：** 需要让你的演示文稿易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
 
 - **为什么重新使用时可以重新发明？**  通过重新使用你创建的幻灯片或其他人与你共享的幻灯片来节省时间。
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+
+- 已修复了 Excel 中的合并冲突问题，该问题会导致系统提示用户重新打开工作簿以使更改生效。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 

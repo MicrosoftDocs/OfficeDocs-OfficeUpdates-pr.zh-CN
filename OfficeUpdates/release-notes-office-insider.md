@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
-ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
+ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36285979"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302481"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -36,7 +36,7 @@ ms.locfileid: "36285979"
 
 ### <a name="excel-feature-updates"></a>Excel 功能更新：
 
-- 协作更简单：** 共同创作改进意味着使用条件格式、单元格样式等时，所做的更改将与协作者无缝合并。
+- **协作更简单：** 共同创作改进意味着使用条件格式、单元格样式等时，所做的更改将与协作者无缝合并。
 
 
 - **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会告诉你已挑选的数目。
@@ -295,6 +295,10 @@ ms.locfileid: "36285979"
 #### <a name="sketchy-shapes"></a>粗略形状！
 
 正在起草演示文稿？ 你可以应用粗略样式来表明自己仍在进行此工作。 因此，无需转换成自由形式的手绘形状，即可为对象提供个性化风格。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 
 
 ## <a name="notable-fixes"></a>显著修复：
 
