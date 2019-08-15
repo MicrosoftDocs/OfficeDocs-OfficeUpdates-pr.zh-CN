@@ -3,19 +3,19 @@ title: Office for Mac 发行说明
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
-ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
+ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937620"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396596"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -37,7 +37,56 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
   **注意：** Microsoft 自动更新 (MAU) 发布信息已移至“[MAU 发布历史记录](https://docs.microsoft.com/zh-CN/officeupdates/release-history-microsoft-autoupdate)”页面。<br/>
 
-## <a name="july-16-2019-release"></a>2019 年 7 月 16 日发布
+## <a name="august-13-2019-release"></a>2019 年 8 月 13 日版本
+*版本 16.28（内部版本 19081202）*
+
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **精确擦除：** 从两个橡皮擦尺寸中进行选择以修复小墨迹缺陷。 [了解详细信息](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
+- **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解详细信息](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-security-updates"></a>Word：安全更新
+
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201)：Microsoft Word 远程代码执行漏洞
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205)：Microsoft Word 远程代码执行漏洞
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **关注剩余待办事项：** 选择“解决”可折叠评论并突出显示待处理的项目。
+- **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解更多](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **幻灯片放映期间的持久墨迹书写：** 在演示过程中在幻灯片上绘图，在结束前你的笔会一直保持活动状态。 还要保存批注。 [了解详细信息](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解更多](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **共享来自云文件的附件：** 将云文件轻松附加到电子邮件中来增强协作。 [了解详细信息](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全更新
+
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148)：Microsoft 图形组件信息泄漏漏洞
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149)：Microsoft Graphics 远程代码执行漏洞
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151)：Microsoft Graphics 远程代码执行漏洞
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153)：Microsoft 图形组件信息泄漏漏洞
+
+
+## <a name="july-16-2019-release"></a>2019 年 7 月 16 日版本
 *版本 16.27（内部版本 19071500）*
 
 
