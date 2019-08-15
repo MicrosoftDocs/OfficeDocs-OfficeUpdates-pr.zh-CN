@@ -3,19 +3,19 @@ title: Office 2016 C2R 和 Office 2019 更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 08/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: d1955fa3a6207d89a472993b200bcfcffad8313f
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: 3a37d8786df5242cd72a7d4608e90b9763bee24d
+ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594580"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384573"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -39,28 +39,27 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2019 年 8 月 13 日   |版本 1808（内部版本 10349.20017）  |[CVE-2019-1155](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1205) <br/>  |
 |2019 年 7 月 9 日   |版本 1808（内部版本 10348.20020）  |[CVE-2019-1084](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1112) <br/>|
 |2019 年 6 月 11 日   |版本 1808（内部版本 10346.20002）  |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1034) <br/> [CVE-2019-1035](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1035) <br/> |
 |2019 年 5 月 14 日   |版本 1808（内部版本 10344.20008）  |[CVE-2019-0945](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0945) <br/> [CVE-2019-0946](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0946) <br/> [CVE-2019-0953](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0953) <br/>|
 |2019 年 4 月 9 日   |版本 1808（内部版本 10343.20013）  |[CVE-2019-0801](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0801) <br/> [CVE-2019-0822](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0822) <br/> [CVE-2019-0824](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0824) <br/> [CVE-2019-0825](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0825) <br/> [CVE-2019-0826](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0826) <br/> [CVE-2019-0827](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0827) <br/> [CVE-2019-0828](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0828) <br/> |
 |2019 年 3 月 12 日   |版本 1808（内部版本 10342.20010）  |仅与安全无关的更新 <br/> |
-|2019 年 2 月 12 日   |版本 1808（内部版本 10341.20010）  |[CVE-2019-0540](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0540) <br/> [CVE-2019-0582](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0582) <br/> [CVE-2019-0669](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0669) <br/> [CVE-2019-0671](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0671) <br/> [CVE-2019-0672](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0672) <br/> [CVE-2019-0673](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0673) <br/> [CVE-2019-0674](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0674) <br/><br/> |
 
 
-
-
+<br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 零售版
 以下信息适用于 Office 2016 C2R 和 Office 2019 的零售版本，这二者的发布日期和版本号相同。
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2019 年 8 月 13 日   |版本 1907（内部版本 11901.20218）  |[CVE-2019-1155](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1205) <br/>  |
 |2019 年 7 月 9 日   |版本 1906（内部版本 11727.20244）  |[CVE-2019-1084](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1112) <br/>|
 |2019 年 6 月 11 日   |版本 1905（内部版本 11629.20246）  |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1034) <br/> [CVE-2019-1035](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1035) <br/> |
 |2019 年 5 月 14 日   |版本 1904（内部版本 11601.20204）  |[CVE-2019-0945](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0945) <br/> [CVE-2019-0946](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0946) <br/> [CVE-2019-0953](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0953) <br/>|
 |2019 年 4 月 9 日   |版本 1903（内部版本 11425.20204）  |[CVE-2019-0801](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0801) <br/> [CVE-2019-0822](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0822) <br/> [CVE-2019-0824](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0824) <br/> [CVE-2019-0825](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0825) <br/> [CVE-2019-0826](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0826) <br/> [CVE-2019-0827](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0827) <br/> [CVE-2019-0828](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0828) <br/> |
 |2019 年 3 月 12 日   |版本 1902（内部版本 11328.20158）  |仅与安全无关的更新 <br/> |
-|2019 年 2 月 12 日   |版本 1901（内部版本 11231.20174）  |[CVE-2019-0540](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0540) <br/> [CVE-2019-0582](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0582) <br/> [CVE-2019-0669](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0669) <br/> [CVE-2019-0671](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0671) <br/> [CVE-2019-0672](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0672) <br/> [CVE-2019-0673](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0673) <br/> [CVE-2019-0674](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0674) <br/> |
 
 
 

@@ -3,19 +3,18 @@ title: 有关 2019 年每月频道发行的发行说明
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302471"
+ms.locfileid: "36393207"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -27,6 +26,19 @@ ms.locfileid: "36302471"
 
  > [!NOTE]
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Microsoft Teams 将在更新这些安装时包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
+*版本 1907（内部版本 11901.20218）*
+
+
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+
+ - 修复了在更改数据透视表的排序方式并在与其他用户进行共同创作会话期间刷新它时可能触发的问题。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+  - 修复了将邮箱从基本身份验证升级到新式身份验证的用户最终获得与其 Outlook 配置文件关联的错误帐户的问题。
 
 ## <a name="version-1907-july-29"></a>版本 1907：7 月 29 日
 *版本 1907（内部版本 11901.20176）*
@@ -60,6 +72,7 @@ ms.locfileid: "36302471"
   [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 
+  [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 

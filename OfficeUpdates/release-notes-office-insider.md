@@ -3,19 +3,18 @@ title: Office 预览体验成员发行说明
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302481"
+ms.locfileid: "36393217"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -299,6 +298,7 @@ ms.locfileid: "36302481"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 
+  [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>显著修复：
 
@@ -402,7 +402,7 @@ ms.locfileid: "36302481"
 
 #### <a name="scenarios-to-try"></a>可尝试的方案
 
-1. 在深色模式下阅读电子邮件。 如果无法阅读某些内容，请使用阅读窗格中的“太阳”切换，切换为浅色背景。 
+1. 在深色模式下阅读电子邮件。 如果你无法阅读某些内容，请使用“阅读窗格”中的太阳切换按钮切换为浅色背景。 
 2. 在深色模式下撰写电子邮件。 使用功能区中的太阳切换按钮，在浅色背景下预览邮件的显示效果。 
 
 如果遇到任何无法正常呈现的电子邮件，请将它们作为附件发送到 OutlookDarkModeFail@service.microsoft.com
