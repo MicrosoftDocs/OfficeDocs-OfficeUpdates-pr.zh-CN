@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
+ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393207"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404476"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -298,6 +298,8 @@ ms.locfileid: "36393207"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 - 修复了将采用平假名和日语汉字的新纪元名称“Reiwa”错误地标识为拼写错误或不符合语法的表达式的问题。
+
+- 修复了代理身份验证作为 SYSTEM 运行时 Office 更新受阻的问题。
 
 ## <a name="version-1903-april-23"></a>版本 1903：4 月 23 日
 *版本 1903（内部版本 11425.20244）*
