@@ -9,23 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
-ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
+ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
+ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36404476"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36473442"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
-这些发行说明提供了 2019 年 Office 365 专业增强版（包括 Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business）每月频道更新中所包含的新功能和非安全更新的相关信息。
+这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的每月频道更新中所包含的新功能和非安全更新的相关信息。
  
  > [!NOTE]
-> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
-> - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 
+  [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
- > [!NOTE]
-> - Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Microsoft Teams 将在更新这些安装时包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907（内部版本 11901.20218）*
