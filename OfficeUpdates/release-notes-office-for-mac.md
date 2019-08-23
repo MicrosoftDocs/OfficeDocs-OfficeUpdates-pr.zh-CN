@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
+ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396596"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36567202"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -30,8 +30,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > - 如果你是 Office 预览体验成员，请参阅[针对预览体验内部版本（快）的发行说明](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
 > - 2018 年 9 月开始发行 16.17 版，这些发行说明还适用于 Office 2019 for Mac（它是 Office for Mac 的一种版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Office 365 订阅的情况下才适用。
 > - 16.16 和更早版本的发行说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一种版本，可一次性购买。可以使用 Office 2016 for Mac 批量许可证激活 16.16 版本之前（包括 16.16）的较旧版本。无法使用 Office 2016 for Mac 批量许可证激活版本 16.17 或更高版本。有关从 9 月开始的 Office 2016 for Mac 发行版的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)。
-> 
-> 
+> > 
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
@@ -39,7 +38,6 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ## <a name="august-13-2019-release"></a>2019 年 8 月 13 日版本
 *版本 16.28（内部版本 19081202）*
-
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
@@ -52,18 +50,11 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 - [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201)：Microsoft Word 远程代码执行漏洞
 - [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205)：Microsoft Word 远程代码执行漏洞
 
-
-
-
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
 - **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **关注剩余待办事项：** 选择“解决”可折叠评论并突出显示待处理的项目。
 - **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解更多](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-
-
-
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
@@ -71,12 +62,12 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 - **幻灯片放映期间的持久墨迹书写：** 在演示过程中在幻灯片上绘图，在结束前你的笔会一直保持活动状态。 还要保存批注。 [了解详细信息](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
 - **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解更多](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-
-
-
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **共享来自云文件的附件：** 将云文件轻松附加到电子邮件中来增强协作。 [了解详细信息](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+- **共享来自云文件的附件：** 将云文件轻松附加到电子邮件中来增强协作。 [了解更多](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 
