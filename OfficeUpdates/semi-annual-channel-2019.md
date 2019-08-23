@@ -9,23 +9,64 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 65c4e73c6696d1d7056a1b15397b7256c448660a
-ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
+ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
+ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054814"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36488504"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
-这些发行说明提供了 2019 年 Office 365 专业增强版（包括 Visio Pro for Office 365 和 Project Online 桌面客户端）半年频道更新中所包含的新功能和非安全更新的相关信息。
+这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的半年频道更新中所包含的新功能和非安全更新的相关信息。
 
 > [!NOTE]
-> - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-
-> [!NOTE]
-> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到。 
+  [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
+
+## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
+*版本 1902（内部版本 11328.20392）*
+
+
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+### <a name="excel-non-security-updates"></a>Excel：非安全更新
+- 修复了表中针对已筛选切片器和未筛选切片器均显示清除筛选器图标的问题。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
+- 修复了将邮箱从基本身份验证升级到新式身份验证的用户最终获得错误的关联帐户的问题
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
+- 修复了在与其他用户协作处理文档的情况下应用程序可能意外终止的问题。
+
+### <a name="word-non-security-updates"></a>Word：非安全更新
+- 修复了 VBA 更新字段的速度缓慢的问题。
+- 修复了打开某个 DOC 文件时系统表示该文件已损坏的问题。
+- 修复了在与其他用户协作处理文档的情况下应用程序可能意外终止的问题。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+- 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/zh-CN/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
+## <a name="version-1808-august-13"></a>版本 1808 8 月 13 日
+*版本 1808（内部版本 10730.20370）*
+
+
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+- 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/zh-CN/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
+
+## <a name="version-1803-august-13"></a>版本 1803 8 月 13 日
+*版本 1803（内部版本 9126.2432）*
+
+
+  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+- 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/zh-CN/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
 
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902（内部版本 11328.20368）*
