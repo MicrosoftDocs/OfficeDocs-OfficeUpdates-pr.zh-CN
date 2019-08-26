@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393217"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620521"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -28,6 +28,122 @@ ms.locfileid: "36393217"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+
+## <a name="august-23-2019br"></a>**2019 年 8 月 23 日**<br/>
+版本 1909（内部版本 12015.20004）<br/>
+
+
+
+## <a name="non-security-updates"></a>与安全无关的更新：
+
+### <a name="excel"></a>Excel
+
+- <div><span>显著提高了使用合并单元格删除列的性能</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>修复了在浏览器中查看时某些 Unicode 字符无法显示的问题</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>修复了使文件无法保存到 WebDAV 位置的问题</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>修复了单击一个评论却选中的是另一个评论的问题</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**2019 年 8 月 16 日**<br/>
+版本 1909（内部版本 12013.20000）<br/>
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 功能更新：
+
+- **打印讲义上的幻灯片编号：** 幻灯片编号将会自动包括在讲义上。 打开或是关闭它们，全都取决于你。
+
+
+
+
+## <a name="non-security-updates"></a>与安全无关的更新：
+
+### <a name="excel"></a>Excel
+
+- <div><span>解决了可能导致启用“自动保存”功能的问题</span></div>
+
+
+- <div>修复了未能准确测量单元格高度的问题</div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>解决了一项问题，从而显著提高了“评论”功能的性能</span></div>
+
+
+- <div><span>解决了在搜索时使用箭头键可能会导致崩溃的问题</span></div>
+
+
+- <div><span>解决了如果 @ 符号位于某些字符之后可能会阻止 @ 提及的问题</span></div>
+
+
+- <div><span>解决了删除 @ 提及时，有时会出现崩溃的问题</span></div>
+
+
+- <div><span>解决了表情符号无法在评论卡片中正确显示的问题</span></div>
+
+
+- <div><span>解决了活动剪贴板​​有时会导致崩溃的问题</span></div>
+
+
+- <div><span>修复了致使“快速访问工具栏”按钮停止工作的问题</span></div>
+
+
+- <div><span>解决了阻止“文档格式预览”切换到后台操作的问题</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- 解决了在 Office 主题设置为“空白”时分区名称在分区下拉列表中显示空白的问题。
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>解决了发送事件时可能导致 Outlook 反复获得和失去焦点的问题</span></div>
+
+
+- <div><span>解决了阻止“将答复投递到文件夹”快捷方式正常工作的问题</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>解决了协作时“受保护的视图”有时出现故障的问题</span></div>
+
+
+- <div><span>解决了可能阻止评论窗格中的任务正确显示的问题</span></div>
+
+
+- <div><span>解决了插入新的幻灯片时可能会发生崩溃的问题</span></div>
+
+
+### <a name="user-lifecycle"></a>用户生命周期
+
+- <div><span>解决了有时导致订阅功能不可见的问题</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>解决了在超链接包含某些字符时超链接可能遭到损坏的问题</span></div>
+
+
+- <div><span>解决了查看图像的注释时图像尺寸可能不正确的问题</span></div>
+
+
+- <div><span>修复了“项目符号列表”下拉菜单有时会崩溃的问题</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**2019 年 8 月 9 日**<br/>
