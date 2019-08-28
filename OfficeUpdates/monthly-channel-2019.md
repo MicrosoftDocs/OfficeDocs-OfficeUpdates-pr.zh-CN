@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473442"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631229"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -23,8 +23,50 @@ ms.locfileid: "36473442"
  > [!NOTE]
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 
   [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+>- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅 [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)（使用 Office 365 专业增强版部署 Microsoft Teams）。
 
+
+## <a name="version-1908-august-26"></a>版本 1908：8 月 26 日
+*版本 1908（内部版本 11929.20254）*
+* 各种 bug 和性能修补程序。
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **手绘：** 让工作簿中的 Office 形状呈现随意的手绘外观。 
+  [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 
+  [了解详细信息](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **关注剩余待办事项：** 选择“解决”可折叠评论并突出显示待处理的项目。
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **获取位置建议：** 在安排约会和会议时，开始键入位置，Outlook 就会推荐会议室、地址和其他邻近位置。 
+  [了解详细信息](https://support.office.com/zh-CN/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 
+  [了解更多](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 
+  [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 
+  [了解更多](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **手绘：** 让文档中的 Office 形状呈现随意的手绘外观。 
+  [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 
+  [了解详细信息](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907（内部版本 11901.20218）*
