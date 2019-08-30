@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488504"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672902"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的半年频道更新中所包含的新功能和非安全更新的相关信息。
 
 > [!NOTE]
-> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到。 
+> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 
   [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
 
