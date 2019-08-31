@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
-ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
+ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
+ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620521"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "36693879"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,102 @@ ms.locfileid: "36620521"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1909-august-30"></a>版本 1909：8 月 30 日
+*版本 1909（内部版本 12026.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 
+  [了解详细信息](https://support.office.com/zh-CN/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div><span>我们修复了&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">敏感度</span>的快捷键提示与&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">另一个快捷键提示相冲突的问题。</span></span></div>
+
+- <div><span>我们修复了在处理共享工作簿和尝试保存时发生的问题。</span></div>
+
+- <div><span>我们修复了一个问题，即 Excel 仅列出位于“\Excel\Add-in Manager”注册表值中的前 16 个加载项。<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></div>
+
+
+- <div><span>我们修复了 Frequency 函数返回错误结果的问题。</span></div>
+
+
+- <div><span>我们显著提高了按颜色筛选的性能。</span></div>
+
+
+- <div><span>我们修复了 Surface 用户遇到的一个问题，即移动鼠标可能解释为鼠标单击事件。</span></div>
+
+
+- <div><span>我们修复了阻止在“查找/替换”对话框中进行键盘导航的问题</span></div>
+
+
+- <div><span>我们修复了某些字体名称无法正确显示的问题</span></div>
+
+
+- <div><span>我们修复了阻止 CSV 显示为受支持的文件类型的问题</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>我们修复了一个问题，即用户在使用共享数据库时可能会收到“&quot;不一致状态&quot;”错误。</div>
+
+
+- <div><span>我们修复了可能导致在错误时间显示日期选取器的问题</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>们修复了阻止向某些 POP3 用户显示 HTML 内容的问题</span></div>
+
+
+- <div><span>我们修复了一个问题，即在其不可用的环境中工作时，将从联系人卡片的溢出菜单中删除不起作用的“规划器”链接。</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- <div><span>我们修复了 &nbsp;OneNote 后台同步有时会成为焦点的问题。</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我们修复了会影响 3D 转盘旋转方向的问题。</span></div>
+
+- <div><span>我们修复了如果某些超链接中包含特殊字符，则会阻止其打开的问题。</span></div>
+
+- <div><span>我们修复了导致多个评论窗格同时打开的问题。</span></div>
+
+### <a name="project"></a>Project
+
+- <div><span>我们修复了在打印工作组规划器视图后有时会导致崩溃的问题。</span></div>
+
+### <a name="word"></a>Word
+
+- <div>我们<span>修复了垂直文本框中的多字节字符在阅读视图中重叠显示的问题。<br></span></div>
+
+- <div><span>我们&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">修复了以下问题：当用户在加载项向导中执行操作时，找不到日语明信片和贺卡相关加载项资源。</span></span></div>
+
+- <div><span>我们修复了一个问题，即在受保护视图中，它可能导致标题栏用户界面出现问题</span></div>
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">我们修复了在包含普通形状和连接线形状的选择中更改形状时出现的文件损坏问题。</span></span></div>
+
+- <div><span>我们修复了<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">从多个外部显示器使用停靠/取消停靠时导致应用程序出现问题的问题。</span></span></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="august-23-2019br"></a>**2019 年 8 月 23 日**<br/>
 版本 1909（内部版本 12015.20004）<br/>
@@ -1038,6 +1134,14 @@ ms.locfileid: "36620521"
 
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 版本 1905（内部版本 11601.20042）
+
+## <a name="whats-new"></a>最近更新：
+
+### <a name="access"></a>Access
+
+#### <a name="get-smart-with-microsoft-graph"></a>使用 Microsoft Graph，更智能
+
+导入或链接到智能数据，通过智能技术彻底改变你的桌面数据库。
 
 ## <a name="notable-fixes"></a>显著修复：
 
