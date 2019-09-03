@@ -33,77 +33,38 @@ ms.locfileid: "36384593"
 
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
-|SharePoint Server 2019  <br/>  |
-  [KB 4475555](https://support.microsoft.com/zh-CN/help/4475555)  <br/> |16.0.10349.20000  |2019 年 8 月  <br/> |
-|SharePoint Server 2019  <br/>  |
-  [KB 4475529](https://support.microsoft.com/zh-CN/help/4475529)  <br/> |16.0.10348.12104|2019 年 7 月  <br/> |
-|SharePoint Server 2019  <br/>  |
-  [KB 4475512](https://support.microsoft.com/zh-CN/help/4475512)  <br/> |16.0.10346.20001|2019 年 6 月  <br/> |
-|SharePoint Server 2019  <br/>  |
-  [KB 4464556](https://support.microsoft.com/zh-CN/help/4464556)  <br/> |16.0.10345.12101|2019 年 5 月  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |
-  [KB 4464518](https://support.microsoft.com/zh-CN/help/4464518) <br/> 
-  [KB 4462221](https://support.microsoft.com/zh-CN/help/4462221) <br/> ||2019 年 4 月  <br/> |
-|SharePoint Server 2019  <br/>  |
-  [KB 4462199](https://support.microsoft.com/zh-CN/help/4462199)  <br/> ||2019 年 3 月  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |
-  [KB 4462171](https://support.microsoft.com/zh-CN/help/4462171) <br/> 
-  [KB 4462170](https://support.microsoft.com/zh-CN/help/4462170) <br/> ||2019 年 2 月  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |
-  [KB 4461634](https://support.microsoft.com/zh-CN/help/4461634) <br/> 
-  [KB 4461514](https://support.microsoft.com/zh-CN/help/4461514) <br/> ||2019 年 1 月  <br/> |
-|SharePoint Server 2019  <br/>  |
-  [KB 4461548](https://support.microsoft.com/zh-CN/help/4461548)  <br/> ||2018 年 12 月  <br/> |
-|SharePoint Server 2019  <br/>  |
-  [KB 4461513](https://support.microsoft.com/zh-CN/help/4461513)  <br/> ||2018 年 11 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4475555](https://support.microsoft.com/zh-CN/help/4475555)  <br/> |16.0.10349.20000  |2019 年 8 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4475529](https://support.microsoft.com/zh-CN/help/4475529)  <br/> |16.0.10348.12104|2019 年 7 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4475512](https://support.microsoft.com/zh-CN/help/4475512)  <br/> |16.0.10346.20001|2019 年 6 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4464556](https://support.microsoft.com/zh-CN/help/4464556)  <br/> |16.0.10345.12101|2019 年 5 月  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |[KB 4464518](https://support.microsoft.com/zh-CN/help/4464518) <br/> [KB 4462221](https://support.microsoft.com/zh-CN/help/4462221) <br/> ||2019 年 4 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4462199](https://support.microsoft.com/zh-CN/help/4462199)  <br/> ||2019 年 3 月  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |[KB 4462171](https://support.microsoft.com/zh-CN/help/4462171) <br/> [KB 4462170](https://support.microsoft.com/zh-CN/help/4462170) <br/> ||2019 年 2 月  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |[KB 4461634](https://support.microsoft.com/zh-CN/help/4461634) <br/> [KB 4461514](https://support.microsoft.com/zh-CN/help/4461514) <br/> ||2019 年 1 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/zh-CN/help/4461548)  <br/> ||2018 年 12 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/zh-CN/help/4461513)  <br/> ||2018 年 11 月  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>SharePoint 2016 更新历史记录
 
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |
-  [KB 4475549](https://support.microsoft.com/zh-CN/help/4475549) <br/> 
-  [KB 4464553](https://support.microsoft.com/zh-CN/help/4464553) <br/> |16.0.4888.1000  |2019 年 8 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4475520](https://support.microsoft.com/zh-CN/help/4475520) <br/>  |16.0.4873.1000|2019 年 7 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4464594](https://support.microsoft.com/zh-CN/help/4464594) <br/>  |16.0.4861.1000|2019 年 6 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4464549](https://support.microsoft.com/zh-CN/help/4464549) <br/> |16.0.4849.1000 |2019 年 5 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |
-  [KB 4464510](https://support.microsoft.com/zh-CN/help/4464510) <br/> 
-  [KB 4461507](https://support.microsoft.com/zh-CN/help/4461507) <br/> ||2019 年 4 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4462211](https://support.microsoft.com/zh-CN/help/4462211) <br/>  ||2019 年 3 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4462155](https://support.microsoft.com/zh-CN/help/4462155) <br/>  ||2019 年 2 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4461598](https://support.microsoft.com/zh-CN/help/4461598) <br/>  ||2019 年 1 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4461541](https://support.microsoft.com/zh-CN/help/4461541) <br/>  ||2018 年 12 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4461501](https://support.microsoft.com/zh-CN/help/4461501) <br/>  ||2018 年 11 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |
-  [KB 4461447](https://support.microsoft.com/zh-CN/help/4461447) <br/> 
-  [KB 4092463](https://support.microsoft.com/zh-CN/help/4092463) <br/> ||2018 年 10 月  <br/> |
-|SharePoint Server 2016  <br/>  |
-  [KB 4092459](https://support.microsoft.com/zh-CN/help/4092459) <br/>  ||2018 年 9 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |
-  [KB 4032256](https://support.microsoft.com/zh-CN/help/4032256) <br/> 
-  [KB 4022231](https://support.microsoft.com/zh-CN/help/4022231) <br/> ||2018 年 8 月  <br/> |
-|SharePoint Server 2016  <br/> |
-  [KB 4022228](https://support.microsoft.com/zh-CN/help/4022228)  <br/> ||2018 年 7 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |
-  [KB 4022173](https://support.microsoft.com/zh-CN/help/4022173) <br/> 
-  [KB 4022178](https://support.microsoft.com/zh-CN/help/4022178) <br/> ||2018 年 6 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |
-  [KB 4018381](https://support.microsoft.com/zh-CN/help/4018381) <br/> 
-  [KB 4018386](https://support.microsoft.com/zh-CN/help/4018386) <br/> ||2018 年 5 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |
-  [KB 4018336](https://support.microsoft.com/zh-CN/help/4018336) <br/> 
-  [KB 4018340](https://support.microsoft.com/zh-CN/help/4018340) <br/> ||2018 年 4 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |
-  [KB 4018293](https://support.microsoft.com/zh-CN/help/4018293) <br/> 
-  [KB 4011687](https://support.microsoft.com/zh-CN/help/4011687) <br/> ||2018 年 3 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4475549](https://support.microsoft.com/zh-CN/help/4475549) <br/> [KB 4464553](https://support.microsoft.com/zh-CN/help/4464553) <br/> |16.0.4888.1000  |2019 年 8 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4475520](https://support.microsoft.com/zh-CN/help/4475520) <br/>  |16.0.4873.1000|2019 年 7 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4464594](https://support.microsoft.com/zh-CN/help/4464594) <br/>  |16.0.4861.1000|2019 年 6 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4464549](https://support.microsoft.com/zh-CN/help/4464549) <br/> |16.0.4849.1000 |2019 年 5 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4464510](https://support.microsoft.com/zh-CN/help/4464510) <br/> [KB 4461507](https://support.microsoft.com/zh-CN/help/4461507) <br/> ||2019 年 4 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4462211](https://support.microsoft.com/zh-CN/help/4462211) <br/>  ||2019 年 3 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4462155](https://support.microsoft.com/zh-CN/help/4462155) <br/>  ||2019 年 2 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461598](https://support.microsoft.com/zh-CN/help/4461598) <br/>  ||2019 年 1 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461541](https://support.microsoft.com/zh-CN/help/4461541) <br/>  ||2018 年 12 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/zh-CN/help/4461501) <br/>  ||2018 年 11 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4461447](https://support.microsoft.com/zh-CN/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/zh-CN/help/4092463) <br/> ||2018 年 10 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/zh-CN/help/4092459) <br/>  ||2018 年 9 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4032256](https://support.microsoft.com/zh-CN/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/zh-CN/help/4022231) <br/> ||2018 年 8 月  <br/> |
+|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/zh-CN/help/4022228)  <br/> ||2018 年 7 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4022173](https://support.microsoft.com/zh-CN/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/zh-CN/help/4022178) <br/> ||2018 年 6 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4018381](https://support.microsoft.com/zh-CN/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/zh-CN/help/4018386) <br/> ||2018 年 5 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4018336](https://support.microsoft.com/zh-CN/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/zh-CN/help/4018340) <br/> ||2018 年 4 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4018293](https://support.microsoft.com/zh-CN/help/4018293) <br/> [KB 4011687](https://support.microsoft.com/zh-CN/help/4011687) <br/> ||2018 年 3 月  <br/> |
 |SharePoint Server 2016  <br/> |[KB 4011680](https://support.microsoft.com/help/4011680) <br/> ||2018 年 2 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4011642](https://support.microsoft.com/help/4011642) <br/> [KB 4011645](https://support.microsoft.com/help/4011645) <br/> ||2018 年 1 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4011576](https://support.microsoft.com/help/4011576) <br/> [KB 4011578](https://support.microsoft.com/help/4011578) <br/> ||2017 年 12 月  <br/> |
@@ -142,60 +103,24 @@ ms.locfileid: "36384593"
     
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4475559](https://support.microsoft.com/zh-CN/help/4475559) <br/> 
-  [KB 4475561](https://support.microsoft.com/zh-CN/help/4475561) <br/> |15.0.5163.1000  |2019 年 8 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4475523](https://support.microsoft.com/zh-CN/help/4475523) <br/> 
-  [KB 4475526](https://support.microsoft.com/zh-CN/help/4475526) <br/> |15.0.5153.1000|2019 年 7 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4464598](https://support.microsoft.com/zh-CN/help/4464598) <br/> 
-  [KB 4464601](https://support.microsoft.com/zh-CN/help/4464601) <br/> |15.0.5145.1000|2019 年 6 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4464560](https://support.microsoft.com/zh-CN/help/4464560) <br/> 
-  [KB 4464563](https://support.microsoft.com/zh-CN/help/4464563) <br/> |15.0.5137.1000|2019 年 5 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4464512](https://support.microsoft.com/zh-CN/help/4464512) <br/> 
-  [KB 4464514](https://support.microsoft.com/zh-CN/help/4464514) <br/> ||2019 年 4 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4462217](https://support.microsoft.com/zh-CN/help/4462217) <br/> 
-  [KB 4462219](https://support.microsoft.com/zh-CN/help/4462219) <br/> ||2019 年 3 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4462150](https://support.microsoft.com/zh-CN/help/4462150) <br/> 
-  [KB 4462152](https://support.microsoft.com/zh-CN/help/4462152) <br/> ||2019 年 2 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4461603](https://support.microsoft.com/zh-CN/help/4461603) <br/> 
-  [KB 4461605](https://support.microsoft.com/zh-CN/help/4461605) <br/> ||2019 年 1 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4461552](https://support.microsoft.com/zh-CN/help/4461552) <br/> 
-  [KB 4461555](https://support.microsoft.com/zh-CN/help/4461555) <br/> ||2018 年 12 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4461508](https://support.microsoft.com/zh-CN/help/4461508) <br/> 
-  [KB 4461510](https://support.microsoft.com/zh-CN/help/4461510) <br/> ||2018 年 11 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4461455](https://support.microsoft.com/zh-CN/help/4461455) <br/> 
-  [KB 4461458](https://support.microsoft.com/zh-CN/help/4461458) <br/> ||2018 年 10 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4092474](https://support.microsoft.com/zh-CN/help/4092474) <br/> 
-  [KB 4092476](https://support.microsoft.com/zh-CN/help/4092476) <br/> ||2018 年 9 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4032244](https://support.microsoft.com/zh-CN/help/4032244) <br/> 
-  [KB 4032247](https://support.microsoft.com/zh-CN/help/4032247) <br/> ||2018 年 8 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4022239](https://support.microsoft.com/zh-CN/help/4022239) <br/> 
-  [KB 4022241](https://support.microsoft.com/zh-CN/help/4022241) <br/> ||2018 年 7 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4022184](https://support.microsoft.com/zh-CN/help/4022184) <br/> 
-  [KB 4022187](https://support.microsoft.com/zh-CN/help/4022187) <br/> ||2018 年 6 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4018394](https://support.microsoft.com/zh-CN/help/4018394) <br/> 
-  [KB 4018397](https://support.microsoft.com/zh-CN/help/4018397) <br/> ||2018 年 5 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4018345](https://support.microsoft.com/zh-CN/help/4018345) <br/> 
-  [KB 4018348](https://support.microsoft.com/zh-CN/help/4018348) <br/> ||2018 年 4 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
-  [KB 4018299](https://support.microsoft.com/zh-CN/help/4018299) <br/> 
-  [KB 4018302](https://support.microsoft.com/zh-CN/help/4018302) <br/> ||2018 年 3 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4475559](https://support.microsoft.com/zh-CN/help/4475559) <br/> [KB 4475561](https://support.microsoft.com/zh-CN/help/4475561) <br/> |15.0.5163.1000  |2019 年 8 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4475523](https://support.microsoft.com/zh-CN/help/4475523) <br/> [KB 4475526](https://support.microsoft.com/zh-CN/help/4475526) <br/> |15.0.5153.1000|2019 年 7 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4464598](https://support.microsoft.com/zh-CN/help/4464598) <br/> [KB 4464601](https://support.microsoft.com/zh-CN/help/4464601) <br/> |15.0.5145.1000|2019 年 6 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4464560](https://support.microsoft.com/zh-CN/help/4464560) <br/> [KB 4464563](https://support.microsoft.com/zh-CN/help/4464563) <br/> |15.0.5137.1000|2019 年 5 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4464512](https://support.microsoft.com/zh-CN/help/4464512) <br/> [KB 4464514](https://support.microsoft.com/zh-CN/help/4464514) <br/> ||2019 年 4 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462217](https://support.microsoft.com/zh-CN/help/4462217) <br/> [KB 4462219](https://support.microsoft.com/zh-CN/help/4462219) <br/> ||2019 年 3 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462150](https://support.microsoft.com/zh-CN/help/4462150) <br/> [KB 4462152](https://support.microsoft.com/zh-CN/help/4462152) <br/> ||2019 年 2 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461603](https://support.microsoft.com/zh-CN/help/4461603) <br/> [KB 4461605](https://support.microsoft.com/zh-CN/help/4461605) <br/> ||2019 年 1 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461552](https://support.microsoft.com/zh-CN/help/4461552) <br/> [KB 4461555](https://support.microsoft.com/zh-CN/help/4461555) <br/> ||2018 年 12 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/zh-CN/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/zh-CN/help/4461510) <br/> ||2018 年 11 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/zh-CN/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/zh-CN/help/4461458) <br/> ||2018 年 10 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/zh-CN/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/zh-CN/help/4092476) <br/> ||2018 年 9 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/zh-CN/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/zh-CN/help/4032247) <br/> ||2018 年 8 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/zh-CN/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/zh-CN/help/4022241) <br/> ||2018 年 7 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/zh-CN/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/zh-CN/help/4022187) <br/> ||2018 年 6 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018394](https://support.microsoft.com/zh-CN/help/4018394) <br/> [KB 4018397](https://support.microsoft.com/zh-CN/help/4018397) <br/> ||2018 年 5 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018345](https://support.microsoft.com/zh-CN/help/4018345) <br/> [KB 4018348](https://support.microsoft.com/zh-CN/help/4018348) <br/> ||2018 年 4 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018299](https://support.microsoft.com/zh-CN/help/4018299) <br/> [KB 4018302](https://support.microsoft.com/zh-CN/help/4018302) <br/> ||2018 年 3 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011693](https://support.microsoft.com/help/4011693) <br/> [KB 4011696](https://support.microsoft.com/help/4011696) <br/> ||2018 年 2 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011649](https://support.microsoft.com/help/4011649) <br/> [KB 4011652](https://support.microsoft.com/help/4011652) <br/> ||2018 年 1 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011588](https://support.microsoft.com/help/4011588) <br/> [KB 4011593](https://support.microsoft.com/help/4011593) <br/> ||2017 年 12 月  <br/> |
@@ -251,30 +176,21 @@ ms.locfileid: "36384593"
 |:-----|:-----|:-----|:-----|
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4475575](https://support.microsoft.com/help/4475575) <br/> [KB 4475572](https://support.microsoft.com/help/4475572) <br/> |14.0.7236.5000  |2019 年 8 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4475510](https://support.microsoft.com/help/4475510) <br/> [KB 4475535](https://support.microsoft.com/help/4475535) <br/> |14.0.7235.5000|2019 年 7 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4475508](https://support.microsoft.com/zh-CN/help/4475508) <br/> |14.0.7234.5000|2019 年 6 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4475508](https://support.microsoft.com/zh-CN/help/4475508) <br/> |14.0.7234.5000|2019 年 6 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4464573](https://support.microsoft.com/help/4464573) <br/> [KB 4464569](https://support.microsoft.com/help/4464569) <br/> |14.0.7233.5000|2019 年 5 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4464528](https://support.microsoft.com/help/4464528) <br/> [KB 4464523](https://support.microsoft.com/help/4464523) <br/> ||2019 年 4 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4462231](https://support.microsoft.com/help/4462231) <br/> [KB 4462228](https://support.microsoft.com/help/4462228) <br/> ||2019 年 3 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461630](https://support.microsoft.com/help/4461630) <br/> [KB 4462181](https://support.microsoft.com/help/4462181) <br/> ||2019 年 2 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4461622](https://support.microsoft.com/zh-CN/help/4461622) <br/> ||2019 年 1 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4461622](https://support.microsoft.com/zh-CN/help/4461622) <br/> ||2019 年 1 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461580](https://support.microsoft.com/help/4461580) <br/> [KB 4461575](https://support.microsoft.com/help/4461575) <br/> ||2018 年 12 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4011713](https://support.microsoft.com/help/4011713) <br/> [KB 4461528](https://support.microsoft.com/help/4461528) <br/> ||2018 年 11 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4461464](https://support.microsoft.com/zh-CN/help/4461464) <br/> ||2018 年 10 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4227169](https://support.microsoft.com/zh-CN/help/4227169) <br/> ||2018 年 9 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4032221](https://support.microsoft.com/zh-CN/help/4032221) <br/> ||2018 年 8 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4022204](https://support.microsoft.com/zh-CN/help/4022204) <br/> ||2018 年 6 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4022143](https://support.microsoft.com/zh-CN/help/4022143) <br/> ||2018 年 5 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4018361](https://support.microsoft.com/zh-CN/help/4018361) <br/> ||2018 年 4 月  <br/> |
-|SharePoint Server 2010  <br/> |
-  [KB 4011710](https://support.microsoft.com/zh-CN/help/4011710) <br/> ||2018 年 3 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/zh-CN/help/4461464) <br/> ||2018 年 10 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/zh-CN/help/4227169) <br/> ||2018 年 9 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/zh-CN/help/4032221) <br/> ||2018 年 8 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/zh-CN/help/4022204) <br/> ||2018 年 6 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4022143](https://support.microsoft.com/zh-CN/help/4022143) <br/> ||2018 年 5 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4018361](https://support.microsoft.com/zh-CN/help/4018361) <br/> ||2018 年 4 月  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4011710](https://support.microsoft.com/zh-CN/help/4011710) <br/> ||2018 年 3 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 3141547](https://support.microsoft.com/help/3141547) <br/> [KB 4011616](https://support.microsoft.com/help/4011616) <br/> ||2018 年 1 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4011272](https://support.microsoft.com/help/4011272) <br/> ||2017 年 11 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4011195](https://support.microsoft.com/help/4011195) <br/> ||2017 年 10 月  <br/> |
@@ -326,7 +242,7 @@ ms.locfileid: "36384593"
   
 - 结合使用 Windows Server AppFabric 和 SharePoint
   
-  - [AppFabric](https://msdn.microsoft.com/en-us/library/aa139641.aspx)
+  - [AppFabric](https://msdn.microsoft.com/zh-CN/library/aa139641.aspx)
   - [有关结合使用 AppFabric 和 SharePoint 的重要概念](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [AppFabric 更新](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
@@ -338,8 +254,7 @@ ms.locfileid: "36384593"
 
 ## <a name="related-topics"></a>相关主题
 
-- 
-  [安装 SharePoint Server 2019 的软件更新](https://docs.microsoft.com/zh-CN/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [安装 SharePoint Server 2019 的软件更新](https://docs.microsoft.com/zh-CN/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
 - [安装 SharePoint Server 2016 的软件更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [SharePoint Server 2013 的软件更新概述](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
 - [准备部署 SharePoint Server 2013 的软件更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)

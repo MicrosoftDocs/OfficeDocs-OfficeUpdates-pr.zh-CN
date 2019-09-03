@@ -53,8 +53,7 @@ ms.locfileid: "36396546"
 
 下表提供了有关 IT 专业人员可能感兴趣的 Microsoft 提供的适用于其他 Mac 程序的最新程序包的信息，其中包括下载链接。创建日期在版本号后以 YYMMDD 格式在括号中列出。
 
-
-  **注意：** Microsoft 自动更新 (MAU) 发布信息已移至“[MAU 发布历史记录](https://docs.microsoft.com/zh-CN/officeupdates/release-history-microsoft-autoupdate)”页面。<br/><br/>
+**注意：** Microsoft 自动更新 (MAU) 发布信息已移至“[MAU 发布历史记录](https://docs.microsoft.com/zh-CN/officeupdates/release-history-microsoft-autoupdate)”页面。<br/><br/>
 
   
 |**程序**|**版本**|**程序包**|**详细信息**|**SHA-1/ SHA-256 哈希**|

@@ -39,8 +39,7 @@ ms.locfileid: "36693879"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 
-  [了解详细信息](https://support.office.com/zh-CN/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解详细信息](https://support.office.com/zh-CN/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -509,8 +508,7 @@ ms.locfileid: "36693879"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 
-  [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>显著修复：
 

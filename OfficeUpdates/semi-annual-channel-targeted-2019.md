@@ -21,15 +21,13 @@ ms.locfileid: "36672892"
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的半年频道（定向）更新中所包含的新功能和非安全更新的相关信息。
  
 > [!NOTE]
-> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 
-  [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
 *版本 1902（内部版本 11328.20392）*
 
-
-  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 - 修复了表中针对已筛选切片器和未筛选切片器均显示清除筛选器图标的问题。
@@ -51,8 +49,7 @@ ms.locfileid: "36672892"
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902（内部版本 11328.20368）*
 
-
-  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -94,8 +91,7 @@ ms.locfileid: "36672892"
 
 ## <a name="version-1902-june-11"></a>版本 1902：6 月 11 日
 *版本 1902（内部版本 11328.20318）*
-<br/>
-  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
  - 解决了将包含 XML 映射的文件保存为 PDF 时导致崩溃的问题。
@@ -185,8 +181,7 @@ ms.locfileid: "36672892"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
-- 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 
-  [了解详细信息](https://docs.microsoft.com/zh-CN/windows/deployment/update/waas-delivery-optimization)
+- 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息](https://docs.microsoft.com/zh-CN/windows/deployment/update/waas-delivery-optimization)
 - 修复了如果使用 Office 部署工具安装 Office 且存在不匹配的情况时，可能导致产品被删除或未激活的 bug。
 - 修复了导致 Windows 10（版本 1803 或更高版本）设备上出现过多登录提示的问题。
 - 修复了下载链接图片时导致挂起的回归。
@@ -225,8 +220,7 @@ ms.locfileid: "36672892"
 - **重复周期范围的新默认值：** 对于“重复周期”对话框，在过去重复周期范围的默认值为“无结束日期”。这有助于创建长期运行的定期系列，随着时间的推移可能会损坏。我们将“重复周期”对话框的默认值更新为“结束日期”，以便我们的默认值与建议的日历最佳做法相匹配。
 - **从“Outlook 提醒”对话框加入团队会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是团队在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
 - **停止查看过去活动的提醒：** 可以将日历设置为在活动结束后自动关闭活动提醒。 [了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **查看安全链接背后的 URL：** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL上。 需要高级威胁防护许可证。 
-  [了解更多](https://products.office.com/zh-CN/exchange/advance-threat-protection)
+- **查看安全链接背后的 URL：** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL上。 需要高级威胁防护许可证。 [了解更多](https://products.office.com/zh-CN/exchange/advance-threat-protection)
 - **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。 [了解更多](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **邮件加密：仅加密 IRM 策略：** 新的仅加密选项显示在 Office 365 邮件加密用户的“选项”>“权限”菜单中。 此选项允许你加密邮件并将其发送给组织内部或外部的任何人。
 - **密件抄送 (BCC) 警告：** BCC 信息提示会在你意外对被密件抄送的邮件全部答复之前发出警告。
@@ -245,7 +239,7 @@ ms.locfileid: "36672892"
 - **用户绘制草图，我们来润色：** 我们将手绘文本和形状变为精致的图表。只需选择笔划墨迹即可开始。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **显示图片背后的内容：** 将图片置于工作表中，选择预设，然后观察透明度的变化。就是这样！[了解详细信息](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。 [了解更多](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
-- **发布到 Microsoft Stream：** 通过使用 Microsoft Stream 在组织中更为安全地将演示文稿作为视频进行共享。  [了解更多](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
+- **发布到 Microsoft Stream：** 通过使用 Microsoft Stream 在组织中更为安全地将演示文稿作为视频进行共享。  [了解更多](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **导出为 4K 视频：** 将演示文稿导出为视频时，现在可以选择 4K 分辨率。  [了解更多](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -277,8 +271,7 @@ ms.locfileid: "36672892"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
 - **Office 第三方应用程序现已支持通过 office.js API 插入 SVG：** 第三方应用程序也称为 Office 中的加载项，它们现可插入 SVG。用户现可将其个人的 SVG 集合连接到 Office。而开发人员可通过 Office.js API 使用该项功能。
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 
-  [了解更多](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 

@@ -21,8 +21,7 @@ ms.locfileid: "36631229"
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的每月频道更新中所包含的新功能和非安全更新的相关信息。
  
  > [!NOTE]
->- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 
-  [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅 [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)（使用 Office 365 专业增强版部署 Microsoft Teams）。
 
 
@@ -32,11 +31,9 @@ ms.locfileid: "36631229"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
-- **手绘：** 让工作簿中的 Office 形状呈现随意的手绘外观。 
-  [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **手绘：** 让工作簿中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 
-  [了解详细信息](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **关注剩余待办事项：** 选择“解决”可折叠评论并突出显示待处理的项目。
 
@@ -46,33 +43,26 @@ ms.locfileid: "36631229"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **获取位置建议：** 在安排约会和会议时，开始键入位置，Outlook 就会推荐会议室、地址和其他邻近位置。 
-  [了解详细信息](https://support.office.com/zh-CN/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- **获取位置建议：** 在安排约会和会议时，开始键入位置，Outlook 就会推荐会议室、地址和其他邻近位置。 [了解详细信息](https://support.office.com/zh-CN/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 
-  [了解更多](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
-- **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 
-  [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 
-  [了解更多](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
-- **手绘：** 让文档中的 Office 形状呈现随意的手绘外观。 
-  [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **手绘：** 让文档中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/zh-CN/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 
-  [了解详细信息](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/zh-CN/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907（内部版本 11901.20218）*
 
-
-  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 
@@ -91,48 +81,38 @@ ms.locfileid: "36631229"
 
 - **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
-- **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 
-  [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **在类似列上连接表：** 在比较列时，获取和转换 (Power Query) 现在具有近似文本匹配逻辑（也称为模糊匹配），用于合并表。 
-  [了解更多](https://support.office.com/zh-CN/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **在类似列上连接表：** 在比较列时，获取和转换 (Power Query) 现在具有近似文本匹配逻辑（也称为模糊匹配），用于合并表。 [了解更多](https://support.office.com/zh-CN/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 
-  [了解更多](https://support.office.com/zh-CN/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解更多](https://support.office.com/zh-CN/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 
-  [了解更多](https://support.office.com/zh-CN/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/zh-CN/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 
-  [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 
-  [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
-- **告别干扰：** Windows 具有了最受欢迎的 Mac 功能。 切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 
-  [了解更多](https://support.office.com/zh-CN/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **告别干扰：** Windows 具有了最受欢迎的 Mac 功能。 切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 [了解更多](https://support.office.com/zh-CN/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 
-  [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **精确擦除：** 从两个橡皮擦尺寸中进行选择以修复小墨迹缺陷。 
-  [了解更多](https://support.office.com/zh-CN/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **精确擦除：** 从两个橡皮擦尺寸中进行选择以修复小墨迹缺陷。 [了解更多](https://support.office.com/zh-CN/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906（内部版本 11727.20244）*
 
-
-  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 
@@ -163,28 +143,23 @@ ms.locfileid: "36631229"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
-- **见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 
-  [了解更多](https://support.office.com/zh-CN/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 [了解更多](https://support.office.com/zh-CN/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **还可自定义的简化功能区：** 最常用的按钮排成一行，带给你简化体验。 可在经典视图和简化视图之间轻松切换，还可固定/取消固定命令。 
-  [了解更多](https://support.office.com/zh-CN/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **还可自定义的简化功能区：** 最常用的按钮排成一行，带给你简化体验。 可在经典视图和简化视图之间轻松切换，还可固定/取消固定命令。 [了解更多](https://support.office.com/zh-CN/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
 - **挑选你喜欢的操作：** 不要使用“标志”和“删除”？ “存档”或“标记为已读”呢？ 使用你最常用的命令自定义快速操作菜单。
 
 - **改进了多个文件夹的邮箱的共享文件夹同步：** 多年来同步共享邮箱时, Outlook 的最大数量限制为500文件夹。 通过此更改, Outlook 已得到改进, 以不再遇到此500个文件夹限制的方式进行同步。
 
-- **“重点收件箱”设置在各设备之间保持不变：** 重点收件箱的首选项现在存储在云中。 在任何计算机上使用 Outlook for Windows 和 Outlook 网页版时，都可享受相同的体验。 
-  [了解更多](https://support.office.com/zh-CN/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+- **“重点收件箱”设置在各设备之间保持不变：** 重点收件箱的首选项现在存储在云中。 在任何计算机上使用 Outlook for Windows 和 Outlook 网页版时，都可享受相同的体验。 [了解更多](https://support.office.com/zh-CN/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **更紧凑还是更宽松的布局？由你决定：**“更紧凑的间距”让你能够决定是希望项目之间间距更大，还是希望布局更紧凑以显示更多内容。
 
-- **我们已经为你更新了 Outlook 用户体验：** 简化的体验，以前可供预览，现即将推出，旨在帮助你关注最重要的内容。 
-  [了解更多](https://support.office.com/zh-CN/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **我们已经为你更新了 Outlook 用户体验：** 简化的体验，以前可供预览，现即将推出，旨在帮助你关注最重要的内容。 [了解更多](https://support.office.com/zh-CN/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **让我把它画出来：** 在图片上进行涂鸦或添加绘图画布以使用墨迹表达你的想法。 
-  [了解更多](https://support.office.com/zh-CN/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **让我把它画出来：** 在图片上进行涂鸦或添加绘图画布以使用墨迹表达你的想法。 [了解更多](https://support.office.com/zh-CN/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
@@ -203,8 +178,7 @@ ms.locfileid: "36631229"
 
 ## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
 *版本 1905（内部版本 11629.20246）*
-<br/>
-  [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 
@@ -294,8 +268,7 @@ ms.locfileid: "36631229"
 ## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
 *版本 1904（内部版本 11601.20204）*
 
- - 
-  [此处](https://docs.microsoft.com/zh-CN/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+ - [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ## <a name="version-1904-may-8"></a>版本 1904：5 月 8 日
 *版本 1904（内部版本 11601.20178）*
@@ -360,8 +333,7 @@ ms.locfileid: "36631229"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903（内部版本 11425.20204）* 
 
-- 
-  [此处](https://docs.microsoft.com/zh-CN/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+- [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 - 修复了以下问题：Lync (Skype for Business) 中对于任何有 7 个以上参与者的在线会议，会议窗口可能会消失。
@@ -426,8 +398,7 @@ ms.locfileid: "36631229"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- 
-  **在连续召开的会议之间提供时间：** 默认将会议设置为提前 5-10 分钟结束，让与会者有时间喘口气或来往于不同地点。[了解详细信息](https://support.office.com/zh-CN/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **在连续召开的会议之间提供时间：** 默认将会议设置为提前 5-10 分钟结束，让与会者有时间喘口气或来往于不同地点。[了解详细信息](https://support.office.com/zh-CN/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **使用“大声朗读”来收听你的电子邮件：** Outlook 可以大声朗读你的电子邮件，并突出显示正在阅读的文本。要打开大声朗读功能，请转到“轻松访问”设置。[了解详细信息](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -446,8 +417,7 @@ ms.locfileid: "36631229"
  
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
-- 
-  **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。[了解详细信息](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。[了解详细信息](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 版本 1901（内部版本 11231.20174）** 

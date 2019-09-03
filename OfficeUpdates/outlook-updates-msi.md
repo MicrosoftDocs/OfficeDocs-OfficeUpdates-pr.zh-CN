@@ -56,7 +56,6 @@ Outlook 与 Office 365 和本地环境的兼容性取决于部署的系统要求
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 5 日公开更新 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月公开更新 <br/> 
-  [KB2956191](https://support.microsoft.com/zh-CN/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019 年 7 月 PU <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 5 日公开更新 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月公开更新 <br/> [KB2956191](https://support.microsoft.com/zh-CN/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019 年 7 月 PU <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
    
 
