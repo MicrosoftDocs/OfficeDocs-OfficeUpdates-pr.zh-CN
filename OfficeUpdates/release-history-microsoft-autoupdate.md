@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的发布历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429936"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838182"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -31,6 +31,26 @@ ms.locfileid: "36429936"
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="september-2019-release"></a>2019 年 9 月版本
+
+**发布日期：** 2019 年 9 月 10 日
+
+*Microsoft 自动更新 4.15*
+
+ **功能更新：**
+
+- MAU 更新截止时间通知现在将以本地设备的时间格式向最终用户显示截止时间。
+- 现在，MAU AU 守护程序称为“Microsoft 更新助手”。
+- 已修复运行 "msupdate" 命令时，从前台应用程序窃取焦点的问题。
+
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.15 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 ## <a name="august-2019-release"></a>2019 年 8 月版本
 
 **发布日期：** 2019 年 8 月 13 日
@@ -49,7 +69,7 @@ ms.locfileid: "36429936"
 <br/>
 **SHA-256 哈希：**
 
-76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
 ## <a name="july-2019-release"></a>2019 年 7 月发布
 
 **发布日期：** 2019 年 7 月 18 日
@@ -154,6 +174,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 |**发布日期**|**版本**|**详细信息**||
 |:-----|:-----|:-----|:-----|
+|2019 年 9 月 10 日 <br/>|4.15 <br/> |  <br/> ||
+|2019 年 8 月 13 日 <br/>|4.14 <br/> |  <br/> ||
 |2019 年 7 月 18 日 <br/>|4.13 <br/> |  <br/> ||
 |2019 年 6 月 27 日 <br/>2019 年 6 月 9 日|4.12 <br/> | <br/> ||
 |2019 年 5 月 14 日 <br/>|4.11 <br/> |  <br/> | <br/> |
