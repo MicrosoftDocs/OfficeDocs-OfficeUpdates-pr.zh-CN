@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972853"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980448"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,44 @@ ms.locfileid: "36972853"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1910-september-13"></a>版本 1910：9 月 13 日
+*版本 1910（内部版本 12105.20000）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div><span>已修复阻止用户在某些受保护的工作表中粘贴超链接的问题</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>已修复问题：UI 在紧凑视图中卡顿</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>已修复问题：用户打印到 PDF 时发生错误</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>已修复问题：<span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">在启用了工作保护的情况下，对摘要任务的工作值进行更改会导致崩溃</span></span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">已修复妨碍与企业日历同步事件的功能的问题</font>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我们已修复导致放弃文件的本地版本的重复警告的问题</span></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1910-september-06"></a>版本 1910：9 月 6 日
 *版本 1910（内部版本 12030.20004）*
