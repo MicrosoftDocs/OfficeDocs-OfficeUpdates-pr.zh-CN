@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 97418d7e2550bb4cd00795e37fc467a35fecb264
-ms.sourcegitcommit: 40287cc78e58338d63dc01c5361dc46417f51a5e
-ms.translationtype: HT
+ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2019
-ms.locfileid: "35919116"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998618"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -23,60 +23,75 @@ ms.locfileid: "35919116"
 
 ## <a name="office-insider-versions-and-builds"></a>Office 预览体验成员版本和内部版本
 
-如果你注册的是每月频道（定向）级别（以前称为“预览体验成员 - 慢”），你每月大约会获得一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续版本。以下列表显示了最近的每月频道（定向）版本和内部版本，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。若要查找发行说明，请参阅[针对 Office 预览体验成员的新增功能](https://support.office.com/zh-CN/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+如果你注册的是每月频道（定向）级别（以前称为“预览体验成员 - 慢”），你每月大约会获得一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续版本。以下列表显示了最近的每月频道（定向）版本和内部版本，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。若要查找发行说明，请参阅[针对 Office 预览体验成员的新增功能](https://support.office.com/en-us/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
 
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
 > - 发行说明的更新速度将放慢，可能是已发布内部版本号之前的发行说明的多个内部版本的更新编译
 
  > [!NOTE]
-> - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+> - Microsoft 团队现有的 Office 365 专业增强版安装-从6月底开始，Microsoft 团队将包含在更新这些安装的 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加团队的日期取决于所使用的更新通道。 有关详细信息，请参阅[部署 Microsoft 团队 With Office 365 专业增强版](https://docs.microsoft.com/en-us/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
 
-**2019 年 7 月 27 日**<br/>
-版本 1907（内部版本 11901.20176）<br/>
+**2019年9月16日**<br/>
+版本1909（内部版本12026.20190）<br/>
 
-**2019 年 7 月 25 日**<br/>
-版本 1907（内部版本 11901.20156）<br/>
+**2019 年 9 月 10 日**<br/>
+版本1909（内部版本12026.20108）<br/>
 
-**2019 年 7 月 22 日**<br/>
-版本 1907（内部版本 11901.20120）<br/>
+**2019年8月25日**<br/>
+版本1908（内部版本11929.20254）<br/>
 
-**2019 年 7 月 15 日**<br/>
-版本 1907（内部版本 11901.20080）<br/>
+**2019年8月16日**<br/>
+版本1908（内部版本11929.20182）<br/>
 
-**2019 年 7 月 9 日**<br/>
-版本 1906（内部版本 11727.20244）<br/>
+**2019年8月13日**<br/>
+版本1908（内部版本11929.20114）<br/>
 
-**2019 年 6 月 27 日**<br/>
-版本 1906（内部版本 11727.20230）<br/>
+**2019年7月27日**<br/>
+版本1907（内部版本11901.20176）<br/>
 
-**2019 年 6 月 26 日**<br/>
-版本 1906（内部版本 11727.20224）<br/>
+**2019年7月25日**<br/>
+版本1907（内部版本11901.20156）<br/>
 
-**2019 年 6 月 23 日**<br/>
-版本 1906（内部版本 11727.20210）<br/>
+**2019年7月22日**<br/>
+版本1907（内部版本11901.20120）<br/>
 
-**2019 年 6 月 20 日**<br/>
-版本 1906（内部版本 11727.20188）<br/>
+**2019年7月15日**<br/>
+版本1907（内部版本11901.20080）<br/>
 
-**2019 年 6 月 11 日**<br/>
-版本 1906（内部版本 11727.20104）<br/>
+**2019年7月9日**<br/>
+版本1906（内部版本11727.20244）<br/>
 
-**2019 年 6 月 3日**<br/>
-版本 1905（内部版本 11629.20214）<br/>
+**2019年6月27日**<br/>
+版本1906（内部版本11727.20230）<br/>
 
-**2019 年 5 月 25 日**<br/>
-版本 1905（内部版本 11629.20196）<br/>
+**2019年6月26日**<br/>
+版本1906（内部版本11727.20224）<br/>
 
-**2019 年 5 月 22 日**<br/> 版本 1905（内部版本 11629.20164）<br/>
+**2019年6月23日**<br/>
+版本1906（内部版本11727.20210）<br/>
 
-**2019 年 5 月 16 日**<br/>
-版本 1905（内部版本 11629.20136）<br/>
+**2019年6月20日**<br/>
+版本1906（内部版本11727.20188）<br/>
 
-**2019 年 5 月 14 日**<br/>
-版本 1904（内部版本 11601.20204）<br/>
+**2019年6月11日**<br/>
+版本1906（内部版本11727.20104）<br/>
+
+**2019年6月**<br/>
+版本1905（内部版本11629.20214）<br/>
+
+**5月25日，2019**<br/>
+版本1905（内部版本11629.20196）<br/>
+
+**5月22日，2019**<br/> 版本1905（内部版本11629.20164）<br/>
+
+**5月16日2019**<br/>
+版本1905（内部版本11629.20136）<br/>
+
+**5月14日，2019**<br/>
+版本1904（内部版本11601.20204）<br/>
 
 **2019 年 5 月 8 日**<br/>
 版本 1904（内部版本 11601.20178）<br/>
@@ -144,8 +159,9 @@ ms.locfileid: "35919116"
 **Twitter 上的 Office 预览体验成员**<br/> 在 @OfficeInsider 上，我们经常发布有关预览体验成员版本的帖子和主办面向预览体验成员的特别活动。<br/> 
 [在 Twitter 上关注我们](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-CN/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+
+  [
+  ![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **抢先获取新功能**
