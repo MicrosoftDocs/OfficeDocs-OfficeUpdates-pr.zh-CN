@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
-ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
+ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "36785409"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972853"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -91,6 +91,11 @@ ms.locfileid: "36785409"
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
+
+### <a name="access"></a>Access
+
+- **快速查找链接的表格：** 新的“搜索”框使查找链接的表格成为一项轻松的乐事。
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解详细信息](https://support.office.com/zh-CN/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
@@ -560,9 +565,18 @@ ms.locfileid: "36785409"
 
 正在起草演示文稿？ 你可以应用粗略样式来表明自己仍在进行此工作。 因此，无需转换成自由形式的手绘形状，即可为对象提供个性化风格。
 
+### <a name="excel"></a>Excel
+
+- **更快的文件共享**：直接从最近使用的文件列表中共享文档，而无需打开文件。
 ### <a name="powerpoint"></a>PowerPoint
 
 - **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
+
+### <a name="word"></a>Word
+
+- **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
 
 ## <a name="notable-fixes"></a>显著修复：
 
@@ -616,7 +630,11 @@ ms.locfileid: "36785409"
 
 - **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
-- **在类似列上连接表：** 在比较列时，获取和转换 (Power Query) 现在具有近似文本匹配逻辑（也称为模糊匹配），用于合并表。
+- **在类似列上连接表：** 在比较用于合并表的列时，获取和转换 (Power Query) 现在具有近似文本匹配逻辑（也称为模糊匹配）。
+
+### <a name="word"></a>Word
+
+- **合著改进：** 提高了合著时的可靠性。
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint 和 Visio
 
@@ -1036,6 +1054,12 @@ ms.locfileid: "36785409"
 ## <a name="may-10-2019"></a>2019 年 5 月 10 日
 版本 1906（内部版本 11702.20000）
 
+## <a name="whats-new"></a>新增功能：
+
+### <a name="outlook"></a>Outlook
+
+**在屏幕上显示更多邮件：** 选择“视图”>“使用更紧密的间距”来调整邮件之间的间距。
+
 ## <a name="notable-fixes"></a>显著修复：
 
 ### <a name="all"></a>所有
@@ -1063,6 +1087,12 @@ ms.locfileid: "36785409"
 
 ## <a name="may-3-2019"></a>2019 年 5 月 3 日
 版本 1906（内部版本 11629.20008）
+
+## <a name="whats-new"></a>新增功能：
+
+### <a name="outlook"></a>Outlook
+
+**所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。
 
 ## <a name="notable-fixes"></a>显著修复：
 
@@ -1097,6 +1127,10 @@ ms.locfileid: "36785409"
 版本 1905（内部版本 11617.20002）
 
 ## <a name="new-features"></a>新功能
+
+### <a name="outlook"></a>Outlook
+
+**共享日历更新速度更快：** 对于 Office 365 中的共享日历，Outlook 可以使用 REST API 更新这些日历。 打开预览，更快速、更可靠地更新共享日历。
 
 ### <a name="excel"></a>Excel
 
@@ -1135,6 +1169,10 @@ ms.locfileid: "36785409"
 版本 1905（内部版本 11609.20002）
 
 ## <a name="whats-new"></a>最近更新：
+
+### <a name="outlook"></a>Outlook
+
+**搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。
 
 ### <a name="excel"></a>Excel
 

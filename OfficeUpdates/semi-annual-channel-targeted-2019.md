@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 6f03d240a0d61521398f37a4a813bd1e89a7a6ac
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
+ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838283"
+ms.locfileid: "36841041"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -23,8 +23,11 @@ ms.locfileid: "36838283"
 > [!NOTE]
 > - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
+ > [!NOTE]
+> - Microsoft Teams 包含在半年频道(定向)的新安装中，从版本 1902 开始。 当半年频道(定向)的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
  
-## <a name="version-1908-september-10"></a>版本 1908：9月10日
+## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908（内部版本 11929.20300）*
 
 [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
@@ -139,6 +142,8 @@ ms.locfileid: "36838283"
 - **告别干扰：** Windows 具有了最受欢迎的 Mac 功能。 切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 [了解详细信息](https://support.office.com/zh-CN/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 ### <a name="office-suite"></a>Office 套件
+
+- **Microsoft Teams 的安装：** 向 Office 365 专业增强版的现有安装添加了 Teams。 [了解更多](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
 
 - **通过“信息位置”中新公开的按钮共享和上载文档：** 以前只能在文档保存路径下访问“共享”、“将路径复制到剪贴板”和“打开文件位置”按钮。现在可以在“信息位置”中清楚地看到这些按钮！像往常一样导航到“文件”>“信息”即可看到这些按钮。
 
@@ -475,7 +480,7 @@ ms.locfileid: "36838283"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
 - **Office 第三方应用程序现已支持通过 office.js API 插入 SVG：** 第三方应用程序也称为 Office 中的加载项，它们现可插入 SVG。用户现可将其个人的 SVG 集合连接到 Office。而开发人员可通过 Office.js API 使用该项功能。
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 

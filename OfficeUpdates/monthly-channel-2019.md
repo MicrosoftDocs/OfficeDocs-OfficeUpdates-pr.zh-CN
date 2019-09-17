@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
+ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631229"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36973381"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -22,8 +22,39 @@ ms.locfileid: "36631229"
  
  > [!NOTE]
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅 [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)（使用 Office 365 专业增强版部署 Microsoft Teams）。
+>- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关其他信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
+## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
+*版本 1908（内部版本 11929.20300）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="outlook"></a>Outlook
+
+- 已修复导致用户无法通过屏幕阅读器访问位置建议的问题。
+
+- 已修复导致某些用户在尝试检索 Outlook 的云设置时遇到身份验证错误的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修复还原 PowerPoint 视频控件易于访问的名称的问题。
+
+- 已修复可能阻止某些动画启动的问题。
+
+### <a name="word"></a>Word
+
+- 修复了一个问题，该问题导致用户在尝试共享存储在 SharePoint 2016 上的文件时收到消息“抱歉，无法我们共享此内容”。
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修复大型树视图失败的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-august-26"></a>版本 1908：8 月 26 日
 *版本 1908（内部版本 11929.20254）*
@@ -96,6 +127,8 @@ ms.locfileid: "36631229"
 - **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/zh-CN/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **添加幻灯片标题以使演示文稿可访问：** 辅助功能检查器可帮助查找和修复缺失的幻灯片标题。
 
 - **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
