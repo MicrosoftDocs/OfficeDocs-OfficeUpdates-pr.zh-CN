@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
-ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
+ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
+ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36973381"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "37011672"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -128,7 +128,7 @@ ms.locfileid: "36973381"
 
 - **创建地图图表：** 对于使用 Excel 的地理数据类型绘制着色地图图表的用户而言，这是一项改进功能。 对于最终用户而言，其优势是功能之间更丰富的集成，并提高了最终用户想要绘制的区域的准确性。 额外优势包括绘制城市多边形的功能。 [了解更多](https://support.office.com/zh-CN/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **添加幻灯片标题以使演示文稿可访问：** 辅助功能检查器可帮助查找和修复缺失的幻灯片标题。
+- **添加幻灯片标题，使演示文稿易于访问：** 辅助功能检查器可帮助查找和修复缺失的幻灯片标题。 [了解详细信息](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
 - **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
