@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 为 IT 专业人士提供 Office 部署工具 (ODT) 的发布历史记录
-ms.openlocfilehash: b0f53ad140880f7ef173efc544892d56f0658bb1
-ms.sourcegitcommit: 917d87752cde322a74251b6d23b12815587d1e51
+ms.openlocfilehash: 1622ddf9a89767c2d0e456737362eecf4123b3fd
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444939"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275483"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的发布历史记录
 
@@ -62,4 +62,4 @@ Office 部署工具 (ODT) 是命令行工具，可用于下载即点即用版本
 
 ## <a name="related-links"></a>相关链接
 
-[ODT 发行说明](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+[ODT 下载中心](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
