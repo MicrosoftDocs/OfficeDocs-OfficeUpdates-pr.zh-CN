@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供有关 Office 365 专业增强版已知问题的信息
-ms.openlocfilehash: a8b385e197a6f61c10797bf160101cdd70285aaf
-ms.sourcegitcommit: a6d8dba3ee51727c2d3a2dad89cb986595c1a7b8
+ms.openlocfilehash: 7c24098c7a160c3d6391bc8e8e51a73d69c44b0c
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068048"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275493"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 专业增强版已知问题
 
@@ -31,13 +31,17 @@ ms.locfileid: "37068048"
 
 |摘要|正在调查|已解决|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
+|**Excel**
+我们发现了一个阻止将超链接粘贴到某些受保护工作表中的问题。|每月版本以及 SACT 版本 1908 和 SAC 版本 1902||
+我们在 Excel 创意功能中发现一个问题，通过单击 Win32 客户端中的创意按钮加载外接程序时出错。|每月版本 1908||
+我们发现一个问题，在外接程序管理器中浏览时仅显示 16 个外接程序。|每月版本和 SACT 版本 1908||
 |**Outlook**
 发现了使文件无法保存到 WebDAV 位置的问题。|每月版本 1909||
 |**Project**
-以如下方案为例。 打开项目。 单击“文件”菜单，单击“导出”，然后单击“创建 PDF/XPS”按钮。 在“浏览”对话框中，输入文件名，然后单击“确定”。 在这种情况下，你会发现未创建 XPS 文件的 PDF。 |SAC 版本 1902||
+从文件菜单创建 PDF/XPS 时发现一个问题，未创建文件。 |SAC 版本 1902||
 |**Word**
 发现了用户打开文件时可能遇到的问题。|每月版本 1908||
-对于由 OneDrive 同步引擎同步的 Office 文件，“保存”和“另存为”时将不再验证文档元数据（例如“需要属性”和“内容类型”）要求。|SAC 版本 1902||
+我们发现一个问题，对于由 OneDrive 同步引擎同步的 Office 文件，“保存”和“另存为”时将不再验证文档元数据（例如“需要属性”和“内容类型”）要求。|SAC 版本 1902||
 
 ## <a name="may-2019---sample"></a>2019 年 5 月 - 示例
 
