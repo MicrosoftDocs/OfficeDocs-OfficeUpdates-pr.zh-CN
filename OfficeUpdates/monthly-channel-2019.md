@@ -9,20 +9,112 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
+ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011672"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37329250"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的每月频道更新中所包含的新功能和非安全更新的相关信息。
  
  > [!NOTE]
->- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关其他信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="version-1909-september-30"></a>版本 1909：9 月 30 日
+*版本 1909（内部版本 12026.20264）*
+* 各种 bug 和性能修补程序。
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **快速查找链接的表格：** 新的“搜索”框使查找链接的表格成为一项轻松的乐事。 [了解更多](https://support.office.com/zh-CN/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook 中的插入链接菜单将插入包含租户管理员定义的权限的链接：** Outlook 插入链接 MRU 中的链接将插入仅对已经拥有权限的用户有效的链接。 这通常会导致请求获得文档访问权限的用户之间发生往来电子邮件。 我们已更新了此体验，现在该链接将通过租户管理员设置的默认权限进行插入。
+
+- **Outlook 可视化刷新：** 这是 Outlook 核心体验的可视化刷新的一部分，它更新了邮件在阅读窗格和检查器中的布局方式。
+
+- **共享日历更新速度更快：** 对于 Office 365 中的共享日历，Outlook 可以使用 REST API 更新这些日历。 打开预览，更快速、更可靠地更新共享日历。
+
+- **查看搜索结果中的相关消息：** Outlook 会分析搜索词，并在搜索结果顶部显示最相关的电子邮件信息。 还会在“热门搜索结果”部分看到按日期排序的所有搜索结果。
+
+- **向合适的人员发送电子邮件：** 只需单击“收件人:”行，然后从建议的联系人中进行选择。 图片和状态指示器可帮助你选择合适的人员。
+
+- **针对攻击的高级防护：** 通过 Office 365 高级威胁防护，可通过电子邮件主题中的超链接、附加邮件、签名邮件、网络路径等方式抵御攻击。
+
+- **以不同的亮度查看邮件：** 使用“太阳”/“月亮”按钮在阅读窗格中的明暗背景之间切换。 [了解更多](https://support.office.com/zh-CN/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解更多](https://support.office.com/zh-CN/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **墨迹即时重播：** 对墨迹绘图进行动画处理，以使其在幻灯片放映过程中向前或向后回放。 [了解更多](https://support.office.com/zh-CN/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
+
+### <a name="word"></a>Word
+
+- **换一种说法：** 想要用另一种方法表达，重写功能帮你大忙。 重写功能为你完善语言提供了替代方案。
+
+- **合著改进：** 提高了合著时的可靠性。
+
+- **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
+
+- **其他人可以快速查看你所做的更改：** 共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">解决了一个阻止将超链接粘贴到某些受保护工作表中的问题。</span><br></div>
+
+
+- <div>在加载项管理器中浏览时&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">允许显示超过 16 个加载项。</span></div>
+
+
+### <a name="insights-services"></a>见解服务
+
+- <div>修复了在 Excel 创意功能中发现一个的问题，即通过单击 Win32 客户端中的“创意”按钮加载加载项时出错。&nbsp;</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>解决了导致简单悬停 URL 无法显示某些安全链接的问题。</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">已将 Outlook 中的附件阻止逻辑更新为也阻止 Python 附件。</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">解决了导致用户在 Outlook 进程中观察到内存泄漏的问题。</span>
+
+- 我们修复了可能会阻止文件保存到 WebDAV 位置的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">我们修复了用户在打开文件时遇到的问题。</p></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908（内部版本 11929.20300）*
