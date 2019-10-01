@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
-ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
+ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
+ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980448"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37300489"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,92 @@ ms.locfileid: "36980448"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1910-september-27"></a>版本 1910：9 月 27 日
+*版本 1910（内部版本 12119.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+[//]: # (请勿移除功能详细信息内容结尾)
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div><span>我们修复了在更改系列集合时可能导致散点图和折线图无法正确呈现的问题</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我们修复了与共享日历文件夹进行交互时可能报告权限错误的问题</span></div>
+
+
+- <div><span>我们修复了可能阻止用户向日历添加附件的问题</span></div>
+
+
+- <div><span>我们修复了导致在答复数字签名邮件时显示错误消息的问题</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>我们修复了在使用 Deskjet 打印机打印时可能导致缩放问题的问题</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我们修复了中粗体文本具有错误样式的问题</span></div>
+
+
+- <div><span>我们修复了一个问题，即关闭等待上传的文件时，用户可能收到错误消息</span></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1910-september-20"></a>版本 1910：9 月 20 日
+*版本 1910（内部版本 12112.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div><span>我们修复了 Excel 有时可能在启动时挂起的问题</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我们显著改善了当有大量会议室可用时进行房间选择的性能</span></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">我们修复了以下问题：在迁移到 Office 365 中的新式验证时，在 Outlook 中使用多个邮箱的客户可能无法进行邮箱同步。</span><br></div>
+
+
+- <div><span>我们修复了签名标签中某些字符在下拉菜单中不会显示的问题</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>我们修复了将企业资源替换为本地资源时可能导致崩溃的问题</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>我们修复了可能导致同步滚动操作在草稿视图中无法正常工作的问题</span></div>
+
+
+- <div>我们修复了可能导致在首次保存文档后无法正常显示工具提示的问题</div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1910-september-13"></a>版本 1910：9 月 13 日
 *版本 1910（内部版本 12105.20000）*
@@ -856,7 +942,7 @@ ms.locfileid: "36980448"
 
 #### <a name="open-document-links-in-word"></a>在 Word 中打开文档链接
 
-单击 Office 中的文档链接时，可更新要在 Word 应用中的默认打开的首选项。  要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/zh-CN/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+单击 Office 中的文档链接时，可更新要在 Word 应用中的默认打开的首选项。  要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>开始使用：
 
@@ -877,7 +963,7 @@ ms.locfileid: "36980448"
 
 #### <a name="open-presentation-links-in-powerpoint"></a>在 PowerPoint 中打开演示文稿链接
 
-单击 Office 中的演示文稿链接时，可更新要在 PowerPoint 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/zh-CN/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+单击 Office 中的演示文稿链接时，可更新要在 PowerPoint 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>开始使用：
 
@@ -898,7 +984,7 @@ ms.locfileid: "36980448"
 
 #### <a name="open-workbook-links-in-excel"></a>在 Excel 中打开工作簿链接
 
-单击 Office 中的工作簿链接时，可更新要在 Excel 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/zh-CN/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+单击 Office 中的工作簿链接时，可更新要在 Excel 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>开始使用：
 
