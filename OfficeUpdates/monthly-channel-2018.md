@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
-ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
+ms.openlocfilehash: 5c8a5e252be302622dab9f041bfd84b4b511f8f2
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "33568602"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350273"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -25,8 +25,6 @@ ms.locfileid: "33568602"
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
 
 ## <a name="version-1811-december-11"></a>版本 1811：12 月 11 日
@@ -60,7 +58,8 @@ ms.locfileid: "33568602"
 - **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。[了解详细信息](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **移动邮件时继续工作：** Outlook 现在在后台移动邮件，因此你可以在文件夹之间移动大量邮件时继续工作。
 - **优化了重点收件箱的启用和禁用体验：** 对于不使用重点收件箱的客户，我们跨所有文件夹恢复了邮件列表中的“未读”选项卡。此外，我们还添加了按标志排序功能，以简化已标志项的查找过程。最后，重点收件箱改进了搜索交互模型：重点收件箱一直保留到用户开始搜索，我们在搜索完成后显示“结果”文本。
-- **默认阻止下载 SMIME 加密和签名的电子邮件中的外部内容：** 鉴于 SMIME 协议中的漏洞，Outlook 将阻止下载由 SMIME 加密或签名的邮件上的外部内容。用户将无法通过 Outlook UI 单击下载外部内容，以防止受到安全漏洞的危害。“选项”对话框提供了一个新选项，用户可使用它还原至旧行为。 
+- **默认阻止下载 SMIME 加密和签名的电子邮件中的外部内容：** 鉴于 SMIME 协议中的漏洞，Outlook 将阻止下载由 SMIME 加密或签名的邮件上的外部内容。用户将无法通过 Outlook UI 单击下载外部内容，以防止受到安全漏洞的危害。“选项”对话框提供了一个新选项，用户可使用它还原至旧行为。
+- **在 Outlook 中查看联系人的领英详细信息：** 现在，可以在打开联系人的个人资料卡片时，通过查看他们的领英个人资料来详细了解他们。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
@@ -180,6 +179,7 @@ ms.locfileid: "33568602"
 - **快速查找** 已极大地提升了 VLOOKUP、HLOOKUP 和 MATCH 计算速度，以便能够更快地获取答案。[了解详细信息](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **呼叫所有“获取和转换”功能的粉丝** 如果你经常使用“获取和转换”功能，那么对于“从示例中添加列”功能已得到改进的消息一定兴奋不已。此外还改进了许多连接器。[了解详细信息](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **功能区图标具有新外观** 不用担心，一切功能和以前一样。这些图标在所有大小的屏幕上都很美观。[了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **快速开始使用 Office 文件 - 借助更新的“开始”体验轻松创建和打开文件** 针对 Word、PowerPoint 和 Excel 重新设计的新 Office 开始页将帮助你更轻松地开始使用新文档，在最近使用的文档中从上次离开的位置开始以及查找共享文档，以便与其他人进行协作。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **查看即将推出的功能** 在发布之前尝试新的用户体验，让我们了解你的想法。[了解详细信息](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
@@ -190,13 +190,15 @@ ms.locfileid: "33568602"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 - **查看栩栩如生的幻灯片：** 插入动态 3D 图形，观看心跳、行星轨道以及在整个屏幕中横冲直撞的霸王龙。[了解详细信息](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **功能区图标具有新外观** 不用担心，一切功能和以前一样。这些图标在所有大小的屏幕上都很美观。[了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **邀请受众参加测验或调查** 在幻灯片上放入测验或调查。 Office 为你收集并存储该响应。 [了解更多](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **快速开始使用 Office 文件 - 借助更新的“开始”体验轻松创建和打开文件** 针对 Word、PowerPoint 和 Excel 重新设计的新 Office 开始页将帮助你更轻松地开始使用新文档，在最近使用的文档中从上次离开的位置开始以及查找共享文档，以便与其他人进行协作。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 - **通过 \@提及吸引同事的注意力** 在注释中使用 @提及，以在需要同事的意见时让他们知悉。[了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **功能区图标具有新外观** 不用担心，一切功能和以前一样。这些图标在所有大小的屏幕上都很美观。[了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **公式编辑器转换器** 用户可以使用转换器将使用 Microsoft 公式编辑器创建的公式转换为 Office Math ML 格式以启用编辑。
-- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **将静态文档变为精美文档：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。 [了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **快速开始使用 Office 文件 - 借助更新的“开始”体验轻松创建和打开文件** 针对 Word、PowerPoint 和 Excel 重新设计的新 Office 开始页将帮助你更轻松地开始使用新文档，在最近使用的文档中从上次离开的位置开始以及查找共享文档，以便与其他人进行协作。
 
 ## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
 *版本 1808（内部版本 10730.20102）*
@@ -265,6 +267,7 @@ ms.locfileid: "33568602"
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **Outlook 加载项警告：** Outlook COM 加载项有时会遇到导致 Outlook 其余部分运行速度变慢的问题。这些问题可能是由事件延迟导致的，例如在 Outlook 文件夹之间切换、新邮件的到达、正在打开日历项目等。出现此类问题时，Outlook 将在通知栏中显示一条警告。
 - **从“Outlook 提醒”对话框加入团队会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是团队在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
+- **改进的加载项通知** 改进的加载项通知
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **超链接颜色：** 超链接不再只是蓝色的。可以根据需要应用任何字体颜色。[了解更多](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
@@ -296,21 +299,22 @@ ms.locfileid: "33568602"
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞
 
-
 ## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
 *版本 1806（生成号 10228.20080）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **改进了单元格和编辑栏编辑：** 现在可以按 CTRL+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **重复周期默认设置：** 在“约会重复周期”对话框中（“重复周期范围”下），“结束日期”是默认设置（替代了“无结束日期”），并且是列出的第一个设置，同时还设置了默认结束日期。
- - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **重复周期默认设置：** 在“约会重复周期”对话框中（“重复周期范围”下），“结束日期”是默认设置（替代了“无结束日期”），并且是列出的第一个设置，同时还设置了默认结束日期。
+- **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的邮件更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **在 Outlook 桌面中改进“关注”组的字符串。** 我们将在 Outlook 中更改组的字符串，将当前“订阅/取消订阅”措辞更改为“关注/停止关注”。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
- - **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **使用手写笔为幻灯片添加标题：** 使用手写笔撰写标题，然后 PowerPoint 会将它转换为文本。[了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **逐步打开大型文件：** 具有下载、打开大型 Powerpoint 演示文稿并与之交互的功能，即使演示文稿的某些部分（例如大型视频或图像）尚未完成下载也是如此。
 
 
 ### <a name="project-feature-updates"></a>Project：功能更新
@@ -432,6 +436,7 @@ ms.locfileid: "33568602"
 -   **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。[了解详细信息](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到“文件”\>“选项”\>“邮件”\>“其他”。
 -   **加密选项：** Office 365 邮件加密用户可以加密邮件，并将邮件发送给组织内外的任何人。创建邮件时，可以在“选项”\>“权限”下找到加密选项。[了解详细信息](https://aka.ms/omeoverview)
+- **支持在“日历”视图中显示所有加入的组** 此增强功能使用户可以在“日历”视图左侧导航窗格中查看所有已加入的新式组，以轻松使用某人的个人日历或另一个组的日历覆盖任何组日历。 以前，仅“收藏夹”组显示在此列表中。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **转换墨迹：** 获取自由曲线备注和绘图，并将它们转换为可读文本和清晰形状，以创建完善的演示文稿。[了解详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
