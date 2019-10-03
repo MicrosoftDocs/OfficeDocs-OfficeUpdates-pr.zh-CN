@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关 Office 365 专业增强版的每月频道发布的发行说明2017
-ms.openlocfilehash: 517ba74ece85e4a4386189d7787f5fb46f8050a4
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350253"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375818"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017中的每月频道发布的发行说明
 
@@ -539,7 +539,6 @@ ms.locfileid: "37350253"
 -   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
 -   **Azure Data Lake Store 连接器：** 用户现在可以从 Azure Data Lake Store 导入数据。
 -   **“从示例中添加列”增强功能：** 支持建议、更多的日期/时间操作和其他转换。
-- **直接在中构建的辅助功能**轻松查找设置，使应用程序更易于访问 > 易于访问的选项。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **新帐户配置：** 使用新向导设置一个手动操作步骤较少的新帐户。
@@ -547,7 +546,6 @@ ms.locfileid: "37350253"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **手写笔自定义：** 选择手写笔和荧光笔墨迹书写的个人设置。自定义设置在所有 Windows 电脑上可用。
 -   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
-- **直接在中构建的辅助功能**轻松查找设置，使应用程序更易于访问 > 易于访问的选项。
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
 -   修复了以下问题：在以 XML 文件格式保存项目时，时间分段的基准值与初始值不匹配。
@@ -567,12 +565,6 @@ ms.locfileid: "37350253"
 ### <a name="word-feature-updates"></a>Word：功能更新
 - **手写笔自定义：** 选择手写笔和荧光笔墨迹书写的个人设置。自定义设置在所有 Windows 电脑上可用。
 - **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
-- **直接在中构建的辅助功能**轻松查找设置，使应用程序更易于访问 > 易于访问的选项。
-
-### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
-- 抵御**Office 文档中的恶意链接**Safelinks 是一项企业功能，可在 Office 文档中为 web （http/https）链接提供点击保护的时间。
-
-
 
 ## <a name="version-1705-june-13"></a>版本1705：6月13日
 *版本 1705（内部版本 8201.2102）*
@@ -625,8 +617,6 @@ ms.locfileid: "37350253"
 -   **视频隐藏式字幕：** 可以在视频中添加隐藏式字幕，使其更易于访问。 [更多信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **设计器改进：** 设计器现在对幻灯片中添加的图表提供设计灵感建议。
 -   **Windows 信息保护（WIP）支持：**    PowerPoint 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
-- **使你的图像更易于访问**智能服务为您的图片生成替换文字，以使视力障碍的用户更容易访问您的文档。
-- **PowerPoint 设计器转换更多类型的幻灯片**设计器现在为添加到幻灯片中的图表提供设计建议。
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
 -   修复了“创建项目网站”对话框，使其能够显示网站的正确位置。这样，在 Project Online 中，每个企业项目模板 (EPT) 都有自己的项目网站 URL。
@@ -657,9 +647,6 @@ ms.locfileid: "37350253"
 -   **通过“编辑器”窗格增强了书写帮助：** “编辑器”窗格可用于提供高级拼写、语法和写作风格建议。对辅助技术的支持已经过改进，可以访问此窗格。
 -   **替换文字创建：** 基于云的服务在文档中自动生成图片可选文字（替换文字）。
 -   **Windows 信息保护（WIP）支持：**    Word 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
-- **使你的图像更易于访问**智能服务为您的图片生成替换文字，以使视力障碍的用户更容易访问您的文档。
-
-
 
 ## <a name="version-1704-june-1"></a>版本1704：6月1日
 *版本 1704（内部版本 8067.2157）*
