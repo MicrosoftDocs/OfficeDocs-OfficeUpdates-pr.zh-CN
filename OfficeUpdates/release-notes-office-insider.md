@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300489"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400141"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,78 @@ ms.locfileid: "37300489"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1910-october-04"></a>版本 1910：10 月 4 日
+*版本 1910（内部版本 12126.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **数据可视化工具加载项：** 从 Excel 中快速创建 Visio 流程图。 [了解更多](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div><span>我们修复了打印预览中的打印区域不正确的问题</span></div>
+
+
+- <div><span>我们修复了在共同创作会话期间可能阻止刷新数据透视表的问题</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>我们修复了一个问题，即用户在使用共享数据库时可能会收到“&quot;不一致状态&quot;”错误。</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我们修复了可能导致邮件文件夹重复的问题</span></div>
+
+
+- <div><span>我们修复了当尝试发送 S/MIME 加密电子邮件时可能导致错误消息的问题</span></div>
+
+
+- <div><span>我们修复了一个问题，即当用户从 Skype 收到“错过的对话”消息时，该问题有时可能会导致崩溃</span></div>
+
+
+- <div><span>我们修复了可能导致内存泄漏的问题</span></div>
+
+
+- <div><span>我们修复了当另存为草稿时可能导致发件人的姓名发生更改的问题</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>我们修复了一个问题，即将文本粘贴到幻灯片母版和幻灯片版式上的页眉/页脚/幻灯片编号占位符后，TextRanges 出现损坏
+
+
+- <div><span></span></div>我们修复了在粘贴带有超链接的文本时阻止创建超链接的问题
+
+
+- <div>我们修复了阻止统计信息正常工作的问题</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>我们修复了未提交字体颜色的问题</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div>我们修复了禁用该功能后可能提供版本历史记录的问题</div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1910-september-27"></a>版本 1910：9 月 27 日
 *版本 1910（内部版本 12119.20000）*
