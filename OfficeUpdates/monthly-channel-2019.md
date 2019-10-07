@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350263"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391296"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -63,6 +63,10 @@ ms.locfileid: "37350263"
 - **墨迹即时重播：** 对墨迹绘图进行动画处理，以使其在幻灯片放映过程中向前或向后回放。 [了解更多](https://support.office.com/zh-CN/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
+
+### <a name="visio"></a>Visio
+
+- **使用 Microsoft Flow 和 Visio 设计并自动化业务工作流：** 使用 Visio 设计工作流图表，并将其导出到 Microsoft Flow 以实现自动化。
 
 ### <a name="word"></a>Word
 
@@ -528,6 +532,7 @@ ms.locfileid: "37350263"
 - **你来计算，我们来设置格式：** 我们将书写数学表达式更改成标准字符。只需选择“将墨迹转换为数学公式”，再选择手写笔记即可开始。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **大文件现在可以更快地打开：** 打开存储在 OneDrive 或 SharePoint 中的文件时，图像、视频和其他大文件现在可以在后台下载。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
