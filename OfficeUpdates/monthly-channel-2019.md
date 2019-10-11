@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391296"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427682"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -24,10 +24,31 @@ ms.locfileid: "37391296"
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关其他信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
+## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日
+*版本 1909（内部版本 12026.20320）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+
+### <a name="outlook"></a>Outlook
+
+- 修复了 Outlook 中的附件阻止逻辑也阻止 Python 附件的问题。
+
+- 解决了导致用户无法打开某些定期日历项目实例的问题。
+
+- 解决了导致用户在 Outlook 进程中观察到内存泄漏的问题。
+
+- 解决了导致用户在配置文件创建过程中遇到崩溃的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
 ## <a name="version-1909-september-30"></a>版本 1909：9 月 30 日
 *版本 1909（内部版本 12026.20264）*
 * 各种 bug 和性能修补程序。
-
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -240,7 +261,7 @@ ms.locfileid: "37391296"
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 
- - 解决导致当前文件夹搜索间歇性失败的问题。
+- 解决导致当前文件夹搜索间歇性失败的问题。
 
 ## <a name="version-1906-june-27"></a>版本 1906：6 月 27 日
 *版本 1906（内部版本 11727.20230）*
@@ -612,7 +633,9 @@ ms.locfileid: "37391296"
 
 - **告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。[了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
+- **“新增功能”窗格：**“新增功能”体验已移至“帮助”窗格，以便你可以更轻松地访问并及时了解最新的更新。
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。

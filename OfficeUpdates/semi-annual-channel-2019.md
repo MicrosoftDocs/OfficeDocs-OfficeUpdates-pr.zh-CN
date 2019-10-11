@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
+ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391316"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453582"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -25,6 +25,39 @@ ms.locfileid: "37391316"
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1902-october-08"></a>版本 1902：10 月 8 日
+*版本 1902（内部版本 11328.20438）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- 解决了一个阻止将超链接粘贴到某些受保护工作表中的问题。
+
+### <a name="project"></a>Project
+
+- 修复了以下情况下未创建 XPS 文件的 PDF 时出现的问题：</div><ul><li>打开项目。</li><li>单击“文件”菜单，单击“导出”，然后单击“<b>创建 PDF/XPS</b>”按钮。</li><li>在“浏览”对话框中，输入文件名，然后单击“确定”。</li></ul>
+
+### <a name="word"></a>Word
+
+- 修复了使用 Caps + 向右箭头时 Windows 当前内部版本上的 JAWS 不会朗读单词的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 现在，用户能够保存由 OneDrive 同步客户端同步的 Office 文件，但缺少所需的属性。 通过转到“文件>信息”，可继续通过文档后台查看和编辑文档属性。 此更改将使性能提高。
+
+- 修复了登录成功后“&quot;修复我的帐户&quot;”通知未消失的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1808-october-08"></a>版本 1808：10 月 8 日
+*版本 1808（内部版本 10730.20386）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ## <a name="version-1902-september-10"></a>版本 1902：9月10日
 *版本 1902（内部版本 11328.20420）*
