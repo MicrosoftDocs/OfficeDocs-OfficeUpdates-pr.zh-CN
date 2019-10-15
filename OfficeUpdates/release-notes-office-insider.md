@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
+ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400141"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37471327"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,51 @@ ms.locfileid: "37400141"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1910-october-11"></a>版本 1910：10 月 11 日
+*版本 1910（内部版本 12130.20112）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+[//]: # (请勿移除功能详细信息内容结尾)
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div>解决了将文件作为来自 OneDrive 的对象插入时出现的问题</div>
+
+
+- <div>解决了无法将超链接格式正确应用到某些内容的问题</div>
+
+
+- <div>解决了包含结构化绝对引用的公式可能无法正确调整的问题</div>
+
+
+- <div>解决了一个问题，当创建于早期版本的 Office 中的工作簿在当前版本的 Office 中打开时，可能会导致 Excel 挂起</div>
+
+
+- <div>解决了一个问题，当从 Excel 复制内容粘贴到其他 Office 应用程序中时，可能会显示不正确</div>
+
+
+- <div>修复了使用图表模板插入图表时预览中所用颜色的问题</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>发现了 ARC 设备在 AirSpace WinComp 下运行时可能会断开连接的问题</div>
+
+
+### <a name="word"></a>Word
+
+- <div>解决了将文件作为来自 OneDrive 的对象插入时出现的问题</div>
+
+
+- <div>改进了恢复步骤以<span>修复导致图形内容从电子邮件线程中被删除的问题。&nbsp;</span></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1910-october-04"></a>版本 1910：10 月 4 日
 *版本 1910（内部版本 12126.20000）*
