@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
-ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
+ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37437664"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508847"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -23,6 +23,25 @@ ms.locfileid: "37437664"
 > [!NOTE]
 > - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams 包含在半年频道(定向)的新安装中，从版本 1902 开始。 当半年频道(定向)的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="version-1908-october-14"></a>版本 1908：10 月 14 日
+*版本 1908（内部版本 11929.20396）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div>解决了一个“查找和替换”问题，即在找到第一个项目后它改变了对话框中焦点的位置。</div>
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了用户可能无法保存 Word、Excel 和 PowerPoint 文档的问题。  此问题会影响创建新文件并在单击“保存”图标或按 Ctrl + S 后显示“另存为模型对话框”选项的用户。
+
+- 解决了一个问题，即在某些情况下，Office 快捷方式可能会在更新后消失。  此更新改进了发布 Office 快捷方式的可靠性。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-october-08"></a>版本 1908：10 月 8 日
 *版本 1908（内部版本 11929.20388）*
