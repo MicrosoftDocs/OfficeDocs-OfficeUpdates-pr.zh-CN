@@ -3,19 +3,19 @@ title: Office for Mac 发行说明
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/19/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
-ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
+ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "37040690"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523138"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -31,11 +31,38 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 > - 2018 年 9 月开始发行 16.17 版，这些发行说明还适用于 Office 2019 for Mac（它是 Office for Mac 的一种版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Office 365 订阅的情况下才适用。
 > - 16.16 和更早版本的发行说明也适用于 Office 2016 for Mac，它也是 Office for Mac 的一种版本，可一次性购买。可以使用 Office 2016 for Mac 批量许可证激活 16.16 版本之前（包括 16.16）的较旧版本。无法使用 Office 2016 for Mac 批量许可证激活版本 16.17 或更高版本。有关从 9 月开始的 Office 2016 for Mac 发行版的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)。
 > > 
-> - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/zh-CN/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **注意：** Microsoft 自动更新 (MAU) 发布信息已移至“[MAU 发布历史记录](https://docs.microsoft.com/zh-CN/officeupdates/release-history-microsoft-autoupdate)”页面。<br/>
 
-## <a name="september-18-2019-release"></a>2019 年 9 月 18 日版本
+## <a name="october-15-2019-release"></a>2019 年 10 月 15 日发布
+*版本 16.30（内部版本 19101301）*
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **在 Word 中编辑 PDF：** 打开 PDF，将其转换为 Word 文档，然后开始编辑。
+### <a name="excel--feature-updates"></a>Excel：功能更新
+
+- **Visio 数据可视化工具 Excel 加载项：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+
+ ### <a name="excel-security-updates"></a>Excel：安全更新
+
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1327)：Microsoft Excel 远程代码执行漏洞
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1331)：Microsoft Excel 远程代码执行漏洞
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **墨迹即时重播：** 对墨迹绘图进行动画处理，以使其在幻灯片放映过程中向前或向后回放。 [了解更多](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+)
+
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- 修复了各种性能问题。<br/><br/>
+
+## <a name="september-18-2019-release"></a>2019 年 9 月 18 日发布
 *版本 16.29.1（内部版本 19091700）*
 
 ### <a name="word-feature-updates"></a>Word：功能更新
