@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
+ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523138"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37564753"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -43,7 +43,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 - **在 Word 中编辑 PDF：** 打开 PDF，将其转换为 Word 文档，然后开始编辑。
 ### <a name="excel--feature-updates"></a>Excel：功能更新
 
-- **Visio 数据可视化工具 Excel 加载项：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- 修复了各种性能问题。
 
 
 
