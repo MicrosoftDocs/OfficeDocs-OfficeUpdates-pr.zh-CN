@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
-ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
+ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37471327"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595320"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,92 @@ ms.locfileid: "37471327"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1911-october-18"></a>版本 1911：10 月 18 日
+*版本 1911（内部版本 12209.20010）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **将易访问邮件发送给最需要的人员：** Outlook 将显示邮件提示，以帮助确保在向喜欢易访问内容的用户发送邮件时可访问你的内容
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
+
+### <a name="office-suite"></a>Office 套件
+
+- **“需要注意的文件”体验将替换上载中心：**“需要注意的文件”体验将替换上载中心，该体验将显示在 Office 应用程序的“文件”>“打开”中。 与上载中心相比，这种新体验更加现代、集成度更高并且干扰性更低。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="non-security-updates"></a>非安全更新
+### <a name="excel"></a>Excel
+
+- <div><span>解决了使用自动调整功能调整行高时复选框控件可能缩小的问题</span></div>
+
+
+- <div><span>解决了在滚动后选择单元格时可能导致选择错误单元格的问题</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>发现了在对带有数字签名附件的电子邮件进行签名时可能导致数字签名破坏的问题</span></div>
+
+
+- <div><span>发现了将长文件名拖放到邮件正文后被截断的问题</span></div>
+
+
+- <div>发现了将功能区设置为自动隐藏时搜索框可能消失的问题</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">发现了幻灯片预览的纵横比未正确锁定/解锁的问题</span>
+
+
+### <a name="security"></a>安全性
+
+- <div><span>发现了欢迎消息中包含无效链接的问题</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div>发现了在执行更新任务时输入的备注可能无法保留的问题<br></div>
+
+
+- <div>发现了用户可以锁定文件但错误消息中未显示用户名的问题</div>
+
+
+- <div><span>发现了用户在打开只读项目时可能会收到几则消息的问题</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>在使用屏幕阅读器查看批注时发现了一个问题</span></div>
+
+
+- <div><span>发现了某些评论被误认为是拼写或语法评论的问题</span></div>
+
+
+- <div><span>发现了新批注对话框有时无法获取焦点的问题</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我们修复了错误消息&quot;正在进行其他安装&quot;阻止升级的问题</span></div>
+
+- <div><span>发现了可能影响从本地资源同步到云资源的的问题</span></div>
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1910-october-11"></a>版本 1910：10 月 11 日
 *版本 1910（内部版本 12130.20112）*
