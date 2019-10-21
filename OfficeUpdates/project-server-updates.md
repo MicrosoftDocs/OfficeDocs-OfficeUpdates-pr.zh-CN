@@ -3,7 +3,7 @@ title: Project Server 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 10/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 在一个位置集中查找和管理 Project Server 2013 和 Project Server 2010 更新程序。单击此页面上的链接可以详细了解并下载这些更新程序。
-ms.openlocfilehash: dd399ffb58c6799f8e0ee21b7df3b2eec72472a9
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: a6bd8b68cd841f1e1e142dc2d2fc31428dbca157
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594590"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37424067"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -30,6 +30,9 @@ ms.locfileid: "35594590"
   
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2019 年 10 月  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|
+|2019 年 9 月  <br/> |[KB4484093](https://support.microsoft.com/kb/4484093) <br/>|
+|2019 年 8 月  <br/> |[KB4475560](https://support.microsoft.com/kb/4475560) <br/>|
 |2019 年 7 月  <br/> |[KB4475524](https://support.microsoft.com/kb/4475524) <br/>|
 |2019 年 6 月  <br/> |[KB4464600](https://support.microsoft.com/kb/4464600) <br/>|
 |2019 年 5 月  <br/> |[KB4464562](https://support.microsoft.com/kb/4464562) <br/>|
@@ -90,6 +93,9 @@ ms.locfileid: "35594590"
 
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2019 年 10 月  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
+|2019 年 9 月  <br/>  |[KB4475600](https://support.microsoft.com/kb/4475600) <br/>|
+|2019 年 8 月  <br/>  |[KB4475570](https://support.microsoft.com/kb/4475570) <br/>|
 |2019 年 7 月  <br/>  |[KB4475532](https://support.microsoft.com/kb/4475532) <br/>|
 |2019 年 6 月  <br/>  |[KB4475507](https://support.microsoft.com/kb/4475507) <br/>|
 |2019 年 5 月  <br/>  |[KB4464568](https://support.microsoft.com/kb/4464568) <br/>|

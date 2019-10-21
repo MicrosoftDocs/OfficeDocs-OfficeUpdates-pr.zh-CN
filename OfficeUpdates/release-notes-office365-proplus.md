@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
-ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
+ms.openlocfilehash: 4743df1d8d437972d0ec8800e2a2e232d7eda7b1
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35823951"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36444565"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
 
@@ -44,6 +44,10 @@ ms.locfileid: "35823951"
  - 半年（定向）：[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
  - 半年：[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
 
+ ## <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的发布历史记录
+ 有关 Office 部署工具版本的完整列表，请参阅以下文章：
+ - [Office 部署工具的发布历史记录](ODT-release-history.md)
+
 ## <a name="office-for-mac-release-information"></a>Office for Mac 发行信息
 
 有关 Office for Mac 更新（包含 Office 365 专业增强版的 Office 365 订阅计划随附）的信息，请参阅以下文章：
@@ -54,7 +58,7 @@ ms.locfileid: "35823951"
 
 ## <a name="related-topics"></a>相关主题
 
-- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
 - [Office 365 的新增功能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Office 365 路线图](https://products.office.com/business/office-365-roadmap)
