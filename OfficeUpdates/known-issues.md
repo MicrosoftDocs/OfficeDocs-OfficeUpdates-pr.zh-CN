@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供有关 Office 365 专业增强版已知问题的信息
-ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
-ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
+ms.openlocfilehash: 8872d045698d314bcd2d911df744a696cbd60c5f
+ms.sourcegitcommit: d0863aa4ffd223e663bbbf4be0182192b127795e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574370"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37593773"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 专业增强版已知问题
 
@@ -33,6 +33,7 @@ ms.locfileid: "37574370"
 |摘要|受影响的应用程序|
 |:-------------------------------------------------------------------------------------|:---------------------|
 |发现了“查找和替换”存在一个问题，即在找到第一个项目后它改变了对话框中焦点的位置。 <br><br> **已解决版本**： <br> SACT 版本 1908 (16.0.11929.20396)|Excel<br><br>
+|发现了按颜色筛选的性能问题。 <br><br> **已解决版本**： <br>每月版本 1909 (16.0.12026.20264) <br>|Excel<br><br>
 |确定在将用户主日历中的项复制到组日历时出现导致用户遇到权限错误的问题。<br><br> **状态**：正在调查|Outlook<br><br>
 |确定 Win7 中存在一个性能问题，它导致所有应用中功能区内的“插入形状”库大约需要 4 秒钟才会显示。<br><br> **已解决版本**： <br>每月版本 1909 (16.0.12026.20264) <br> SACT 版本 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |发现了一个问题，即在某些情况下，Office 快捷方式可能会在更新后消失。  <br><br> **状态**：正在调查|Office 套件<br><br>
