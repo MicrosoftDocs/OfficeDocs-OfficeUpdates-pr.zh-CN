@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 42f7f28eb5b37681cdc5a39259230c4928e2e99b
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 2943fc287038498cd62c42932aebb5c216676619
+ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508857"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "37553819"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -24,6 +24,13 @@ ms.locfileid: "37508857"
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
 
+## <a name="october-15"></a>10 月 15 日
+
+### <a name="non-security-updates"></a>非安全更新
+
+### <a name="office-suite"></a>Office 套件
+- 我们暂时禁用了“云保存”对话框，以解决了我们在 2019 年 10 月 14 日对 12130.20184 之前的内部版本发布的保存问题。 此功能很快将重新启用。
+
 ## <a name="version-1909-october-14"></a>版本 1909：10 月 14 日
 *版本 1909（内部版本 12026.20334）*
 
@@ -31,7 +38,7 @@ ms.locfileid: "37508857"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 解决了用户可能无法保存 Word、Excel 和 PowerPoint 文档的问题。  此问题会影响创建新文件并在单击“保存”图标或按 Ctrl + S 后显示“另存为模型对话框”选项的用户。
+- 解决了对于 12130.20184 之前的内部版本而言，用户可能无法保存 Word、Excel 和 PowerPoint 2019 文档的问题。  此问题会影响创建新文件并在单击“保存”图标或按 Ctrl+S 后显示“另存为”对话框的用户。
 
 
 ## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 33c5882494fc6dc407eb9cd1438d65008935173d
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631225"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508867"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -25,22 +25,20 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 > - 该表是按发行日期排序的，首先列出最近的发行日期。 
 > - 若要详细了解更新频道，请参阅 [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
-下表列出了每个更新频道支持的版本和最新内部版本号。 
+下表列出了每个更新频道支持的版本和最新内部版本号。
 
 [//]: # (EOSTABLESTART)
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1908<br/>|11929.20254<br/>|2019 年 8 月 26 日<br/>|版本 1909 已发布<br/>|
-|半年（定向）<br/>|1902<br/>|11328.20392<br/>|2019 年 8 月 13 日<br/>|2019 年 9 月 10 日<br/>|
-|半年<br/>|1902<br/>|11328.20392<br/>|2019 年 8 月 13 日<br/>|2020 年 9 月 8 日<br/>|
-|半年<br/>|1808<br/>|10730.20370<br/>|2019 年 8 月 13 日<br/>|2020 年 3 月 10 日<br/>|
-|半年<br/>|1803<br/>|9126.2432<br/>|2019 年 8 月 13 日<br/>|2019 年 9 月 10 日<br/>|
+|每月<br/>|1909<br/>|12026.20334<br/>|2019 年 10 月 14 日<br/>|版本 1910 已发布<br/>|
+|半年（定向）<br/>|1908<br/>|11929.20396<br/>|2019 年 10 月 14 日<br/>|2020 年 3 月 10 日<br/>|
+|半年<br/>|1902<br/>|11328.20438<br/>|2019 年 10 月 8 日<br/>|2020 年 9 月 8 日<br/>|
+|半年<br/>|1808<br/>|10730.20386<br/>|2019 年 10 月 8 日<br/>|2020 年 3 月 10 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
 有关从先前版本的 Office 365 专业增强版更新到最新版本时的大致下载大小的信息，请参阅 [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)。
-
 
 下表提供了在以下更新频道发布的每个 Office 365 专业增强版更新的版本号和内部版本号的列表：每月、半年（定向）和半年。表中的每项直接链接到该版本的发行说明。发行说明提供了有关 Office 365 专业增强版更新中包含的功能、安全更新和非安全更新的信息。  
 
@@ -48,6 +46,10 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**Year**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|10 月 14 日|[版本 1909（内部版本 12026.20334）](monthly-channel-2019.md#version-1909-october-14)|[版本 1908（内部版本 11929.20396）](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
+|2019 年|10 月 8 日|[版本 1909（内部版本 12026.20320）](monthly-channel-2019.md#version-1909-october-8)|[版本 1908（内部版本 11929.20388）](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[版本 1902（内部版本 11328.20438）](semi-annual-channel-2019.md#version-1902-october-8)<br/>[版本 1808（内部版本 10730.20386）](semi-annual-channel-2019.md#version-1808-october-8)|
+|2019 年|9 月 30 日|[版本 1909（内部版本 12026.20264）](monthly-channel-2019.md#version-1909-september-30)| | |
+|2019 年|9 月 10 日|[版本 1908（内部版本 11929.20300）](monthly-channel-2019.md#version-1908-september-10)|[版本 1908（内部版本 11929.20300）](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[版本 1902（内部版本 11328.20420）](semi-annual-channel-2019.md#version-1902-september-10)<br/>[版本 1808（内部版本 10730.20380）](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019 年|8 月 26 日|[版本 1908（内部版本 11929.20254）](monthly-channel-2019.md#version-1908-august-26)| | |
 |2019 年|8 月 13 日|[版本 1907（内部版本 11901.20218）](monthly-channel-2019.md#version-1907-august-13)|[版本 1902（内部版本 11328.20392）](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[版本 1902（内部版本 11328.20392）](semi-annual-channel-2019.md#version-1902-august-13)<br/>[版本 1808（内部版本 10730.20370）](semi-annual-channel-2019.md#version-1808-august-13)<br/>[版本 1803（内部版本 9126.2432）](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019 年|7 月 29 日|[版本 1907（内部版本 11901.20176）](monthly-channel-2019.md#version-1907-july-29)| | |
