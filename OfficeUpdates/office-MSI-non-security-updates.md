@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: 8e9dbe270b0cd2104f73f363b865f6c3d8b498df
-ms.sourcegitcommit: bd6e681bdde320ee6d55f7d4e4434d4f0cde7a81
+ms.openlocfilehash: 59b615d4abf9e6af5dd69d242900648f659992b5
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713535"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37342765"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
@@ -26,6 +26,23 @@ ms.locfileid: "36713535"
 > - 本文中的信息并不适用于 Office 的 Office 365 版本（例如 Office 365 专业增强版）。
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="october-1-2019"></a>2019 年 10 月 1 日
+
+**Office 2016**<br/>
+Microsoft Office 2016 的更新 ([KB4475585](https://support.microsoft.com/help/4475585)) <br/> Microsoft Office 2016 的更新 ([KB4484114](https://support.microsoft.com/help/4484114)) <br/>
+Microsoft Office 2016 语言界面包的更新([KB4475582](https://support.microsoft.com/help/4475582))<br/>
+Microsoft Outlook 2016 的更新 ([KB4484107](https://support.microsoft.com/help/4484107)) <br/>
+Microsoft PowerPoint 2016 的更新 ([KB4475578](https://support.microsoft.com/help/4475578)) <br/>
+Microsoft Project 2016 的更新 ([KB4484116](https://support.microsoft.com/help/4484116)) <br/>
+Microsoft Word 2016 的更新 ([KB4484105](https://support.microsoft.com/help/4484105)) <br/>
+Skype for Business 2016 的更新 ([KB4484102](https://support.microsoft.com/help/4484102)) <br/>
+
+**Office 2013**<br/>
+Microsoft Outlook 2013 的更新 ([KB4484096](https://support.microsoft.com/help/4484096))<br/>
+
+**Office 2010**<br/>
+Microsoft Outlook 2010 的更新 ([KB4475604](https://support.microsoft.com/help/4475604))<br/><br/>
 
 ## <a name="september-3-2019"></a>2019 年 9 月 3 日
 
