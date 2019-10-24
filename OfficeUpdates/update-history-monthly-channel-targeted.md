@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: cddcd92805a9abeeb0ab31fe2822a251335ef87f
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508877"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644133"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -34,13 +34,16 @@ ms.locfileid: "37508877"
 
 [//]: # (请勿移除)
 
-**2019年10月14日**<br/>
+**2019年10月22日**<br/>
+版本1910（内部版本12130.20210）<br/>
+
+**2019 年 10 月 14 日**<br/>
 版本1910（内部版本12130.20184）<br/>
 
-**2019年10月14日**<br/>
+**2019 年 10 月 14 日**<br/>
 版本1910（内部版本12130.20178）<br/>
 
-**2019年10月8日**<br/>
+**2019 年 10 月 8 日**<br/>
 版本 1909（内部版本 12026.20320）<br/>
 
 **2019年9月28日**<br/>
@@ -49,7 +52,7 @@ ms.locfileid: "37508877"
 **2019 年 9 月 23 日**<br/>
 版本1909（内部版本12026.20248）<br/>
 
-**2019年9月16日**<br/>
+**2019 年 9 月 16 日**<br/>
 版本1909（内部版本12026.20190）<br/>
 
 **2019 年 9 月 10 日**<br/>
@@ -70,10 +73,10 @@ ms.locfileid: "37508877"
 **2019年7月25日**<br/>
 版本1907（内部版本11901.20156）<br/>
 
-**2019年7月22日**<br/>
+**2019 年 7 月 22 日**<br/>
 版本1907（内部版本11901.20120）<br/>
 
-**2019年7月15日**<br/>
+**2019 年 7 月 15 日**<br/>
 版本1907（内部版本11901.20080）<br/>
 
 **2019 年 7 月 9 日**<br/>
@@ -174,8 +177,7 @@ ms.locfileid: "37508877"
 **Twitter 上的 Office 预览体验成员**<br/> 在 @OfficeInsider 上，我们经常发布有关预览体验成员版本的帖子和主办面向预览体验成员的特别活动。<br/> 
 [在 Twitter 上关注我们](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
