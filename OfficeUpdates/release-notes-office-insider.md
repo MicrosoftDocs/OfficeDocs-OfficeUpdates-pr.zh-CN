@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595320"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653435"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -78,15 +78,9 @@ ms.locfileid: "37595320"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">发现了幻灯片预览的纵横比未正确锁定/解锁的问题</span>
+- <div><span>发现了幻灯片预览的纵横比未正确锁定/解锁的问题</span></div>
 
-
-### <a name="security"></a>安全性
-
-- <div><span>发现了欢迎消息中包含无效链接的问题</span></div>
-
-
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - <div>发现了在执行更新任务时输入的备注可能无法保留的问题<br></div>
 
@@ -113,6 +107,9 @@ ms.locfileid: "37595320"
 - <div><span>我们修复了错误消息&quot;正在进行其他安装&quot;阻止升级的问题</span></div>
 
 - <div><span>发现了可能影响从本地资源同步到云资源的的问题</span></div>
+
+- <div><span>发现了欢迎消息中包含无效链接的问题</span></div>
+
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
