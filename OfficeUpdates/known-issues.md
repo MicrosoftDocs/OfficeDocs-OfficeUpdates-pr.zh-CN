@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供有关 Office 365 专业增强版已知问题的信息
-ms.openlocfilehash: 80cc2a4fa618b2e14e09797da9e5f7bd4fe51d5d
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: 11a85638b39592486804ea989ba6df582e5f64a7
+ms.sourcegitcommit: a49f78bb35491a3117a58c57862cdc673226e6db
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644123"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37697867"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 专业增强版已知问题
 
@@ -28,17 +28,23 @@ ms.locfileid: "37644123"
 
 <br>
 
-### <a name="last-updated-october-22-2019"></a>上次更新时间：2019 年 10 月 22 日
+### <a name="last-updated-october-24-2019"></a>上次更新时间：2019 年 10 月 24 日
 
-|摘要||
+|摘要|
 :-------------------------------------------------------------------------------------|:---------------------|
-|
-发现了“查找和替换”存在一个问题，即在找到第一个项目后它改变了对话框中焦点的位置。 <br><br> **已解决**： <br> SACT 版本 1908 (16.0.11929.20396)|Excel<br><br>
-|发现了按颜色筛选的性能问题。 <br><br> **已解决版本**： <br>每月版本 1909 (16.0.12026.20264)|Excel<br><br> <br>|<br><br>
-|确定在将用户主日历中的项复制到组日历时出现导致用户遇到权限错误的问题。<br><br> **状态**：正在调查|Outlook<br><br>
-|确定 Win7 中存在一个性能问题，它导致所有应用中功能区内的“插入形状”库大约需要 4 秒钟才会显示。<br><br> **已解决版本**： <br>每月版本 1909 (16.0.12026.20264) <br> SACT 版本 1908 (16.0.11929.20396)|PowerPoint<br><br>
-|发现了一个问题，即在某些情况下，Office 快捷方式可能会在更新后消失。  <br><br> **正在调查**：月度？？|Office 套件<br><br>
-|确定了用户可能无法保存 Word、Excel 和 PowerPoint 文档的问题。  此问题会影响创建新文件并在单击“保存”图标或按 Ctrl + S 后显示“另存为模型对话框”选项的用户。<br><br> **已解决版本**： <br>每月版本 1909 (16.0.12026.20334) <br> SACT 版本 1908 (16.0.11929.20396)|Office 套件<br><br>
+|**Excel**
+|发现了“查找和替换”存在一个问题，即在找到第一个项目后它改变了对话框中焦点的位置。 <br><br> **正在调查**： <br>每月<br> <br>**已解决**： <br> SACT 版本 1908 (16.0.11929.20396)|
+|发现了按颜色筛选的性能问题。 <br><br> **正在调查**： <br>SACT<br> <br>**已解决**： <br> 每月版本 1909 (16.0.12026.20264)
+|<br>
+|**Outlook**
+|确定在将用户主日历中的项复制到组日历时出现导致用户遇到权限错误的问题。 <br><br> **正在调查**： <br>每月和 SACT
+|<br>
+|**PowerPoint**
+|确定 Win7 中存在一个性能问题，它导致所有应用中功能区内的“插入形状”库大约需要 4 秒钟才会显示。<br><br> **已解决**： <br>每月版本 1909 (16.0.12026.20264) <br> SACT 版本 1908 (16.0.11929.20396)
+|<br>
+|**Office 套件**
+|发现了一个问题，即在某些情况下，Office 快捷方式可能会在更新后消失。  <br><br> **正在调查**： <br> SAC<br><br> **已解决**： <br>每月版本 1909 (16.0.12026.20334) <br> SACT 版本 1908 (16.0.11929.20396)
+|确定了用户可能无法保存 Word、Excel 和 PowerPoint 文档的问题。  此问题会影响创建新文件并在单击“保存”图标或按 Ctrl + S 后显示“另存为模型对话框”选项的用户。<br><br> **已解决**： <br>每月版本 1909 (16.0.12026.20334) <br> SACT 版本 1908 (16.0.11929.20396)<br><br>
 |
 
 
