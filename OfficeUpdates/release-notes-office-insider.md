@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653435"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733006"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,97 @@ ms.locfileid: "37653435"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1911-october-25"></a>版本 1911：10 月 25 日
+*版本 1911（内部版本 12215.20006）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="visio"></a>Visio
+
+- **在 Excel 中制作精美的 Visio 图表：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解更多](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **共同创作改进：** 通过让其他人以更接近实时的方式接收内容更改，改进了共同创作体验。
+
+- **其他人可以快速查看你所做的更改: **共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- <div><span>记录计数可能不正确</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>显著提高了使用合并单元格删除列的性能</span></div>
+
+
+- <div><span>可阻止用户以 Office 365 Excel 工作簿格式保存</span></div>
+
+
+- <div><span>无法正确呈现复选框</span></div>
+
+
+- <div><span>无法保存对图表大小所做的更改</span></div>
+
+
+- <div><span>某些 VBA 函数将在新的图表类型上返回错误</span></div>
+
+
+- <div><span>“选择数据源”对话框对于某些字段不区分大小写</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>无法保存对图表大小所做的更改</span></div>
+
+
+### <a name="publisher"></a>Publisher
+
+- <div><span>形状可能出现在图形边框之外</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>形状可能出现在图形边框之外</span></div>
+
+
+- <div><span>突出显示文本可能很困难</span></div>
+
+
+- <div><span>可以防止用户导航到编辑器中的单个项目</span></div>
+
+
+- <div><span>可能未突出显示语法或拼写错误</span></div>
+
+
+- <div><span>无法保存对图表大小所做的更改</span></div>
+
+
+- <div><span>将格式应用于 @ 提及后，可能会阻止联系卡打开</span></div>
+
+
+- <div><span>解决了用户可能无法保存 Word、Excel 和 PowerPoint 文档的问题。&nbsp; 此问题会影响用户创建新文件并在单击“保存”图标或按 Ctrl + S 后弹出 &quot;另存为模型对话框&quot; 选项。</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>在 Windows 7 上使用形状时出现性能问题</span></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1911-october-18"></a>版本 1911：10 月 18 日
 *版本 1911（内部版本 12209.20010）*
