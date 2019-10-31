@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37732988"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890031"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -131,8 +131,6 @@ ms.locfileid: "37732988"
 - **在连续召开的会议之间提供时间：** 默认将会议设置为提前 5-10 分钟结束，让与会者有时间喘口气或来往于不同地点。
 
 - **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。[了解详细信息](https://support.office.com/zh-CN/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **“重点收件箱”设置在各设备之间保持不变：** 重点收件箱的首选项现在存储在云中。 在任何计算机上使用 Outlook for Windows 和 Outlook 网页版时，都可享受相同的体验。 [了解更多](https://support.office.com/zh-CN/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **我们已经为你更新了 Outlook 用户体验：** 简化的体验，以前可供预览，现即将推出，旨在帮助你关注最重要的内容。 [了解更多](https://support.office.com/zh-CN/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
