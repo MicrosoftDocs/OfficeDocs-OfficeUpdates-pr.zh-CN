@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644183"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890021"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -23,6 +23,55 @@ ms.locfileid: "37644183"
  > [!NOTE]
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="version-1910-october-30"></a>版本 1910：10 月 30 日
+*版本 1910（内部版本 12130.20272）*
+* 各种 bug 和性能修补程序。
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+
+
+### <a name="excel"></a>Excel
+
+- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/zh-CN/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
+
+- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+
+### <a name="outlook"></a>Outlook
+
+- **在出现错误后收到有关升级 Outlook 的提示：** 当 Outlook 遇到在更高版本中已修复的错误时，Outlook 将提示客户升级并接收此修复程序
+
+- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/zh-CN/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
+
+- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+
+### <a name="word"></a>Word
+
+- **合著改进**：提高了在具有修订的文档中进行合著时的 Word 性能。
+
+- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/zh-CN/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
+
+- **修复了 3D 对象合并导致的文档损坏问题：** 修复了 3D 对象合并导致的文档损坏问题。
+
+- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+### <a name="office-suite"></a>Office 套件
+
+- **在 Office 365 专业增强版的现有安装上安装 Microsoft Teams：** 从 6 月底开始，我们将在更新这些安装时将 Microsoft Teams 包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅使用 Office 365 专业增强版部署 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
+
+[//]: # (请勿移除功能详细信息内容结尾)
 
 ## <a name="version-1909-october-22"></a>版本 1909：10 月 22 日
 *版本 1909（内部版本 12026.20344）*
