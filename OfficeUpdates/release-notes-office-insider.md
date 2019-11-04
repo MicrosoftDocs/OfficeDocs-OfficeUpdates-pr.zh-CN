@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
+ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733006"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37931906"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,132 @@ ms.locfileid: "37733006"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1911-november-01"></a>版本 1911：11 月 1 日
+*版本 1911（内部版本 12228.20020）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **将上下文和 SVG 对象一起显示！：** 现在，你可以在 Office 中转换这些对象时保留地图、图表和其他 SVG 向量中的文本
+
+- **选择 Surface 触控笔时查看触控笔选项：** 首次在 Word、Excel 或 PowerPoint 中选取 Surface 触控笔时，将激活“绘图”选项卡，以轻松选择笔颜色。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **将上下文和 SVG 对象一起显示！：** 现在，你可以在 Office 中转换这些对象时保留地图、图表和其他 SVG 向量中的文本
+
+- **选择 Surface 触控笔时查看触控笔选项：** 首次在 Word、Excel 或 PowerPoint 中选取 Surface 触控笔时，将激活“绘图”选项卡，以轻松选择笔颜色。
+
+### <a name="visio"></a>Visio
+
+- **在 Excel 中制作精美的 Visio 图表：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解更多](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **选择 Surface 触控笔时查看触控笔选项：** 首次在 Word、Excel 或 PowerPoint 中选取 Surface 触控笔时，将激活“绘图”选项卡，以轻松选择笔颜色。
+
+- **共同创作改进：** 通过让其他人以更接近实时的方式接收内容更改，改进了共同创作体验。
+
+- **其他人可以快速查看你所做的更改: **共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- <div><span>解决了在编辑不受信任的网络共享中的受保护文件时 Excel 可能发生崩溃的问题</span></div>
+
+
+- <div>解决了以下问题：如果删除了包含引用其他工作表上数据的迷你图的工作表，则重新打开时，该文件会被标识为损坏。</div>
+
+
+- <div>解决了以下问题：将报表筛选器与查询的数据透视表其余部分一起转换为 SQL 表格式服务器时，可能会得到错误的结果。</span></div>
+
+
+- <div><span>同时使用“讲述人”和“放大镜”可能会导致崩溃</span></div>
+
+
+- <div><span>同时使用“讲述人”和“放大镜”可能会导致崩溃</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>转发的电子邮件可能缺少嵌入图像</div>
+
+
+- <div><span>对于可用会议室，会议室查找工具可能显示&quot;无&quot;</span></div>
+
+
+- <div><span>用户可能无法创建具有严格租户限制的 Outlook 配置文件</div></span>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>同时使用“讲述人”和“放大镜”可能会导致崩溃</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>用户无法将任务标记为“已完成”，而只能将其设置为 99%</span></div>
+
+
+- <div>无法通过调配解决过度分配问题</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>同时使用“讲述人”和“放大镜”可能会导致崩溃</span></div>
+
+
+- <div><span>打开旧版文档后转到“信息”选项卡会导致崩溃</span></div>
+
+
+- <div><span>校对建议未显示在上下文菜单中</span></div>
+
+
+- <div><span>内容策略被错误地应用到了批注</span></div>
+
+
+- <div><span>在深色模式中看不到用深色文本编写的旧式批注</span></div>
+
+
+- <div><span>使用韩语/英语自动更正时可能出现不正确的字符</span></div>
+
+
+- <div><span>当较高的策略标签具有优先级时可能应用较低的策略标签</div></span>
+
+
+- <div><span>Outlook 邮件中的 cid: images 链接&nbsp;现在可以在请求时成功断开。</div></span>
+
+
+- <div><span>同时使用“讲述人”和“放大镜”可能会导致崩溃</span></div>
+
+
+- <div><span>从导航窗格中搜索可能失败</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>预览或幻灯片放映中可能不会显示某些绘图</span></div>
+
+
+- <div><span>竖排文本框中有些片假名字符可能无法正确显示</span></div>
+
+
+- <div>尝试将文件保存到断开的网络共享可能会导致崩溃</div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1911-october-25"></a>版本 1911：10 月 25 日
 *版本 1911（内部版本 12215.20006）*
