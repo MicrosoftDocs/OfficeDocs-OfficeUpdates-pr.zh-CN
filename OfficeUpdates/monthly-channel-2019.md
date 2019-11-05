@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 12534eb79781d02ff630097794273fd27fcc51dc
+ms.sourcegitcommit: 22e6c32930facc482cd61e5d2dcf00728e112806
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890021"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37929639"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -40,13 +40,13 @@ ms.locfileid: "37890021"
 
 - **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
 
-- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+- **向文档和电子邮件应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。 [了解更多](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
 
 - **在出现错误后收到有关升级 Outlook 的提示：** 当 Outlook 遇到在更高版本中已修复的错误时，Outlook 将提示客户升级并接收此修复程序
 
-- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+- **向文档和电子邮件应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。 [了解更多](https://aka.ms/officemipdocs)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -54,7 +54,7 @@ ms.locfileid: "37890021"
 
 - **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
 
-- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+- **向文档和电子邮件应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。 [了解更多](https://aka.ms/officemipdocs)
 
 ### <a name="word"></a>Word
 
@@ -66,7 +66,8 @@ ms.locfileid: "37890021"
 
 - **修复了 3D 对象合并导致的文档损坏问题：** 修复了 3D 对象合并导致的文档损坏问题。
 
-- **向文档应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。
+- **向文档和电子邮件应用敏感度标签：** 向文档和邮件应用敏感度标签，使其符合组织的信息保护策略。 [了解更多](https://aka.ms/officemipdocs)
+
 ### <a name="office-suite"></a>Office 套件
 
 - **在 Office 365 专业增强版的现有安装上安装 Microsoft Teams：** 从 6 月底开始，我们将在更新这些安装时将 Microsoft Teams 包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅使用 Office 365 专业增强版部署 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
