@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
-ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
+ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
+ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/02/2019
-ms.locfileid: "37931906"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076416"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,42 @@ ms.locfileid: "37931906"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1912-november-08"></a>版本 1912：11 月 8 日
+*版本 1912（内部版本 12231.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="user-lifecycle"></a>用户生命周期
+
+- **体验改进 AFO 激活：** 在激活与新电脑捆绑的 Office 时，客户看到的屏幕更新
+
+### <a name="word"></a>Word
+
+- **Word 中新的和改进的在线视频体验：** 新的和更安全的在线视频体验，帮助你在 Word 中插入新视频和播放现有视频
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- <div><span>涉及跨文件夹内容的间歇性崩溃</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>将图表从 Excel 粘贴到 PowerPoint 后，可减小图表的大小</span></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1911-november-01"></a>版本 1911：11 月 1 日
 *版本 1911（内部版本 12228.20020）*
