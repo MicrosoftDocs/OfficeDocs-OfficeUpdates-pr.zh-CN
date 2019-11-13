@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890031"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289832"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -23,6 +23,57 @@ ms.locfileid: "37890031"
 > [!NOTE]
 > - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams 包含在半年频道(定向)的新安装中，从版本 1902 开始。 当半年频道(定向)的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+
+## <a name="version-1908-november-12"></a>版本 1908：11 月 12 日
+*版本 1908（内部版本 11929.20436）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="excel"></a>Excel
+
+- 修复了使用图表模板插入图表时预览中所用颜色的问题。
+- 我们修复了在更改系列集合时可能导致散点图和折线图无法正确呈现的问题。
+- 解决了在使用运行的宏更改自定义属性时导致共同创作中断的问题。
+- 我们解决了异步用户定义函数的性能问题，该问题导致它们同步运行。
+- 我们显著提高了按颜色筛选的性能。
+- 解决了一个问题，当创建于早期版本的 Office 中的工作簿在当前版本的 Office 中打开时，可能会导致 Excel 挂起。
+- Outlook 邮件中的 cid: images 链接现在可以在请求时成功断开。
+
+### <a name="outlook"></a>Outlook
+
+- Outlook 邮件中的 cid: images 链接现在可以在请求时成功断开。
+- 解决了在将用户主日历中的项复制到组日历时出现导致用户遇到权限错误的问题。
+- 解决了导致非常长的 Outlook 会话出现内存泄漏的问题。
+- 解决了导致用户在 Outlook 中与特定安全链接交互时遇到失败的问题。
+- 解决了导致用户在处理某些自动发现响应时遇到失败的问题。
+- 解决了导致某些用户在添加辅助 Exchange 帐户时会看到创建重复的特殊文件夹的问题。
+- 解决了导致搜索反馈体验挂起的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Outlook 邮件中的 cid: images 链接现在可以在请求时成功断开。</div>
+- 可靠性修复：修复了第三方加载项可能导致 PowerPoint 失败的问题。
+
+### <a name="project"></a>Project
+
+- 修复了“全部调配”命令无法正确解决资源过度分配的问题。
+- 修复了以下问题：如果你的任务分配为零工作，该任务可能无法标记为已完成，并且始终显示为 99％。
+- 发现了用户在打开只读项目时可能会收到几则消息的问题。
+
+### <a name="word"></a>Word
+
+- Outlook 邮件中的 cid: images 链接现在可以在请求时成功断开。
+- 修复了应用可能会在关闭时挂起的各种问题。 此外，修复了某些与加载项相关的失败。
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了与第三方插件中的“文本框/形状自动调整”属性相关的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="october-15"></a>10 月 15 日
 

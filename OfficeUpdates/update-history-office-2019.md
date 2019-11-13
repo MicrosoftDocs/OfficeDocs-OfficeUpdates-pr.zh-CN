@@ -3,19 +3,19 @@ title: Office 2016 C2R 和 Office 2019 更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: ad5f3a3177bd7d51dfc041460a1383e3657571cf
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: c35ff76b7ac742c7a8bb14361413c311dda0a593
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424097"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282260"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -39,12 +39,13 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2019 年 11 月 12 日   |版本 1808（内部版本 10352.20042）  |[CVE-2019-1402](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |2019 年 10 月 8 日   |版本 1808（内部版本 10351.20054）  |[CVE-2019-1327](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1331) <br/> |
 |2019 年 9 月 10 日   |版本 1808（内部版本 10350.20019）  |[CVE-2019-1246](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1297) <br/>  |
 |2019 年 8 月 13 日   |版本 1808（内部版本 10349.20017）  |[CVE-2019-1155](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1205) <br/>  |
 |2019 年 7 月 9 日   |版本 1808（内部版本 10348.20020）  |[CVE-2019-1084](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1112) <br/>|
 |2019 年 6 月 11 日   |版本 1808（内部版本 10346.20002）  |[CVE-2019-1034](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1034) <br/> [CVE-2019-1035](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1035) <br/> |
-|2019 年 5 月 14 日   |版本 1808（内部版本 10344.20008）  |[CVE-2019-0945](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0945) <br/> [CVE-2019-0946](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0946) <br/> [CVE-2019-0953](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0953) <br/>|
+
 
 
 
@@ -56,12 +57,12 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2019 年 11 月 12 日   |版本 1910（内部版本 12130.20344）  |[CVE-2019-1402](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |2019 年 10 月 8 日   |版本 1909（内部版本 12026.20320）  |[CVE-2019-1327](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1331) <br/> |
 |2019 年 9 月 10 日   |版本 1908（内部版本 11929.20300）  |[CVE-2019-1246](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1297) <br/>  |
 |2019 年 8 月 13 日   |版本 1907（内部版本 11901.20218）  |[CVE-2019-1155](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1205) <br/>  |
 |2019 年 7 月 9 日   |版本 1906（内部版本 11727.20244）  |[CVE-2019-1084](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1112) <br/>|
 |2019 年 6 月 11 日   |版本 1905（内部版本 11629.20246）  |[CVE-2019-1034](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1034) <br/> [CVE-2019-1035](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1035) <br/> |
-|2019 年 5 月 14 日   |版本 1904（内部版本 11601.20204）  |[CVE-2019-0945](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0945) <br/> [CVE-2019-0946](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0946) <br/> [CVE-2019-0953](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0953) <br/>|
 
 
 

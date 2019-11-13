@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: 5fcb6c3015de755fec1775415dff93994f683d25
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 1c17cbf662737c4e45f7ff13336e7fba770f66d1
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424017"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289670"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -44,7 +44,7 @@ Outlook 与 Office 365 和本地环境的兼容性取决于部署的系统要求
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|不适用  <br/> |2016 年 3 月公开更新 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2019 年 10 月公开更新 <br/>[KB4484107](https://support.microsoft.com/help/4484107) 
+|不适用  <br/> |2016 年 3 月公开更新 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2019 年 11 月 PU <br/>[KB4484139](https://support.microsoft.com/help/4484139) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
 

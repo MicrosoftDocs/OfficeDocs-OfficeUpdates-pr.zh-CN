@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453582"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289812"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -23,6 +23,57 @@ ms.locfileid: "37453582"
 > [!NOTE]
 > - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1902-november-12"></a>版本 1902：11 月 12 日
+*版本 1902（内部版本 11328.20468）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="excel"></a>Excel
+
+- 解决了导致删除区域后延迟显示键入值的问题。
+- 解决了一个问题，当创建于早期版本的 Office 中的工作簿在当前版本的 Office 中打开时，可能会导致 Excel 挂起。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在启用 toast 通知时发现内存泄漏的问题。
+- 解决了导致用户在 Outlook 中发现内存泄漏的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 可靠性修复：修复了第三方加载项可能导致 PowerPoint 失败的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了 Win7 中的性能问题，它导致所有应用中功能区内的“插入形状”库大约需要 4 秒钟才会显示。
+- 修复了更新后“开始”菜单快捷方式和 Office 文件扩展名会意外消失的问题。
+- 为了保护 Office 客户的安全，现在仅使用 SHA-2 算法对 Microsoft Office 更新进行签名。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1808-november-12"></a>版本 1808：11 月 12 日
+*版本 1808（内部版本 10730.20416）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="outlook"></a>Outlook
+
+- 解决了一个问题，该问题导致用户（具有除“全部”以外的任何“保持脱机的邮件”设置）在将项目从本地存储移动到 Exchange Online 邮箱的同步窗口之外时发现数据丢失。
+
+### <a name="office-suite"></a>Office 套件
+
+- 为了保护 Office 客户的安全，现在仅使用 SHA-2 算法对 Microsoft Office 更新进行签名。
 
 [//]: # (请勿移除错误详细信息内容结尾)
 

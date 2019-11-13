@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的发布历史记录
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523098"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289650"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -30,6 +30,26 @@ ms.locfileid: "37523098"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="november-2019-release"></a>2019 年 11 月版本
+
+**发布日期：** 2019 年 11 月 12 日
+
+*Microsoft 自动更新 4.17*
+
+ **功能更新：**
+
+- 现在可以在“Microsoft 自动更新”仪表板上查看每个主要更新中的新增功能。
+- 随着 Catalina 的发布，Office 2019 更新的最低操作系统要求已更改为 macOS 10.13，我们将通知用户升级以获取最新的 Office 更新。
+
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.17 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
 
 ## <a name="october-2019-release"></a>2019 年 10 月发布
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: 3aba613d5ecbe9bf2b9c2de29e4356248980db89
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424057"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289660"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
@@ -25,6 +25,22 @@ ms.locfileid: "37424057"
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="november-12-2019"></a>2019 年 11 月 12 日
+每月频道：版本1910（内部版本12130.20344）  
+半年频道（定向）：版本 1908（内部版本 11929.20436）  
+半年频道：版本 1902（内部版本 11328.20468）  
+半年频道：版本 1808（内部版本 10730.20416）  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1448)
+-   [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1446)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1449)
+-   [CVE-2019-1402](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1402)
 
 ## <a name="october-08-2019"></a>2019 年 10 月 8 日
 每月频道：版本 1909（内部版本 12026.20320）  

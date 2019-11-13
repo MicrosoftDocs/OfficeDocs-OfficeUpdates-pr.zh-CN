@@ -29,6 +29,7 @@
 ### [预览体验成员频道的更新历史记录](update-history-office-insider.md)
 ### [每月频道（定向）的更新历史记录](update-history-monthly-channel-targeted.md)
 ###[预览体验成员频道的发行说明](release-notes-office-insider.md)
+### [每月频道（定向）的发行说明](release-notes-monthly-channel-targeted.md)
 
 ## [ODT 发布历史记录](ODT-release-history.md)
 
