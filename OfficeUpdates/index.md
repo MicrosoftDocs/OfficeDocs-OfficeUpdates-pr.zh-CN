@@ -10,18 +10,18 @@ ms.topic: landing-page
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
-description: 为 IT 专业人员提供 office release content for office 365 专业增强版、office for Mac、永久 office 和 office Server 产品的链接
-ms.openlocfilehash: 7bd39ca0929047841f1f40333029cb63a8d2a10c
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: 为 IT 专业人员提供 office release content for Office 365 专业增强版、Office for Mac、永久 Office 和 Office Server 产品的链接
+ms.openlocfilehash: 27e010048db0eeac3ab3c4f1eb7e5adb4e6d994c
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438757"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282230"
 ---
 # <a name="office-updates"></a>Office 更新
 
   
-获取有关 office 产品的功能、安全更新和非安全更新的信息, 包括 office 365 专业增强版、office for Mac、office Server 产品和永久版本的 office。
+获取有关 Office 产品的功能、安全更新和非安全更新的信息，包括 Office 365 专业增强版、Office for Mac、Office Server 产品和永久版本的 Office。
   
 
 ---
@@ -34,8 +34,9 @@ ms.locfileid: "32438757"
                     <div class="cardText">
                         <h3>Office 365 专业增强版</h3>
                         <p><a href="release-notes-office365-proplus.md">发行说明</a></p>
-                        <p><a href="update-history-office365-proplus-by-date.md">更新历史记录 (按日期)</a></p>
+                        <p><a href="update-history-office365-proplus-by-date.md">更新历史记录（按日期）</a></p>
                         <p><a href="download-sizes-office365-proplus-updates.md">更新大小</a></p>
+                        <p><a href="office365-proplus-security-updates.md">安全更新</a></p>
                     </div>
                 </div>
             </div>
@@ -47,9 +48,9 @@ ms.locfileid: "32438757"
                 <div class="card">
                     <div class="cardText">
                         <h3>Office for Mac</h3>
-                        <p><a href="release-notes-office-for-mac.md">发行说明 (Office 365, 2019)</a></p>
-                        <p><a href="update-history-office-for-mac.md">更新历史记录 (Office 365、2019)</a></p>
-                        <p><a href="release-notes-office-2016-mac.md">发行说明 (2016)</a></p>
+                        <p><a href="release-notes-office-for-mac.md">发行说明（Office 365，2019 年）</a></p>
+                        <p><a href="update-history-office-for-mac.md">更新历史记录（Office 365，2019 年）</a></p>
+                        <p><a href="release-notes-office-2016-mac.md">发行说明（2016 年）</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">MAU 版本</a></p>
                      </div>
                 </div>
@@ -65,7 +66,7 @@ ms.locfileid: "32438757"
                         <p><a href="https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates">Exchange Server 更新</a></p>
                         <p><a href="project-server-updates.md">Project Server 更新</a></p>
                         <p><a href="sharepoint-updates.md">SharePoint Server 更新</a></p>
-                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype for business Server 更新</a></p>
+                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype for Business Server 更新</a></p>
                </div>
                 </div>
             </div>
@@ -80,10 +81,11 @@ ms.locfileid: "32438757"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office (永久)</h3>
-                            <p><a href="office-updates-msi.md">Office 更新</a></p>
-                            <p><a href="outlook-updates-msi.md">Outlook 更新</a></p>
-                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Skype for business 更新</a></p>
+                        <h3>Office（永久）</h3>
+                            <p><a href="update-history-office-2019.md">Office 2016 和2019（C2R）</a></p>
+                            <p><a href="office-updates-msi.md">Office 2010、2013 和 2016 更新 (MSI)</a></p>
+                            <p><a href="outlook-updates-msi.md">Outlook 2010、2013 和 2016 更新 (MSI)</a></p>
+                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Skype for Business 更新</a></p>
                             <p><a href="msp-files-office-2016.md">Office 2016 .msp 文件</a></p>
                     </div>
                 </div>
