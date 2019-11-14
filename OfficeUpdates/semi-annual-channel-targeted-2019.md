@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289832"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312132"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -256,8 +256,6 @@ ms.locfileid: "38289832"
 ### <a name="office-suite"></a>Office 套件
 
 - **Microsoft Teams 的安装：** 向 Office 365 专业增强版的现有安装添加了 Teams。 [了解更多](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
-
-- **通过“信息位置”中新公开的按钮共享和上载文档：** 以前只能在文档保存路径下访问“共享”、“将路径复制到剪贴板”和“打开文件位置”按钮。现在可以在“信息位置”中清楚地看到这些按钮！像往常一样导航到“文件”>“信息”即可看到这些按钮。
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
