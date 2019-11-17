@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289812"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402438"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -304,7 +304,7 @@ ms.locfileid: "38289812"
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 
 - 解决了在向“分组依据”添加第 2 个条件时导致客户看到其任务似乎消失的问题。
-- 解决了导致客户无法在已迁移的项目上编辑部分字段的问题。 
+- 解决了导致客户无法在已迁移的项目上编辑部分字段的问题。
 - 修复了当系统任务栏保留在屏幕左侧或顶部时窗口不会出现在正确位置的问题。
 - 解决了导致客户在联系人卡片上加载图片时遇到崩溃的问题。
 - 解决了导致某些客户在启动 Office 应用程序时遇到崩溃的问题。
