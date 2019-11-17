@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
-ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
+ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076416"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669831"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -29,6 +29,79 @@ ms.locfileid: "38076416"
 
 [//]: # (请勿移除)
 
+
+## <a name="version-1912-november-15"></a>版本 1912：11 月 15 日
+*版本 1912（内部版本 12307.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="insights-services"></a>见解服务
+
+- **Excel 中的“创意”中的自然语言查询：** Excel 创意的针对数据进行自然语言提问的新功能
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- <div><span>某些本地化版本的“文本分列”功能可能会失败</span></div>
+
+
+- <h5>编辑单元格中的动态数组公式可能会导致文本在单元格边界之外对齐<br></h5>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>添加了通过组策略强制执行 S/MIME 配置的能力</div>
+
+
+- <div><span>嵌入的图像可能看起来比预期的要小</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>将焦点从文本移动后，光标可能会消失</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>用户可能遇到有关许可方面的错误</span></div>
+
+
+- <div><span>日期选取器中的“今天”按钮有时可能会设置错误的日期</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>右键单击有时无法选择整个单词</span></div>
+
+
+- <div>在转换为建议的格式后，光标可能在对象中保持活动状态</div>
+
+
+- <div>在某些情况下，邮件中的图像可能无法正确缩放</div>
+
+
+- <div>某些主题可能会导致难以确定选择了哪个批注</div>
+
+
+- <div><span>现在，选择批注提示会在其在窗格切换器中隐藏时显示新式批注窗格</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>回复批注可能会导致文本框垂直展开到窗格边缘以外</span></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1912-november-08"></a>版本 1912：11 月 8 日
 *版本 1912（内部版本 12231.20000）*
