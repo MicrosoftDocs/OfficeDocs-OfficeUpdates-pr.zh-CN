@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669831"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704491"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -54,7 +54,7 @@ ms.locfileid: "38669831"
 - <div><span>某些本地化版本的“文本分列”功能可能会失败</span></div>
 
 
-- <h5>编辑单元格中的动态数组公式可能会导致文本在单元格边界之外对齐<br></h5>
+- <div>编辑单元格中的动态数组公式可能会导致文本在单元格边界之外对齐</div>
 
 
 ### <a name="outlook"></a>Outlook
