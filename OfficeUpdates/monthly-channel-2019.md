@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 354a0b0310cfcc84bcadc9e5b4f34581026fbd6f
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
+ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704461"
+ms.locfileid: "38724050"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -22,7 +22,7 @@ ms.locfileid: "38704461"
  
  > [!NOTE]
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+>- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
 
 ## <a name="version-1910-november-18"></a>版本 1910：11 月 18 日
 *版本 1910（内部版本 12130.20390）*
@@ -44,7 +44,7 @@ ms.locfileid: "38704461"
 ## <a name="version-1910-november-12"></a>版本 1910：11 月 12 日
 *版本 1910（内部版本 12130.20344）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -106,7 +106,7 @@ ms.locfileid: "38704461"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **在 Office 365 专业增强版的现有安装上安装 Microsoft Teams：** 从 6 月底开始，我们将在更新这些安装时将 Microsoft Teams 包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅使用 Office 365 专业增强版部署 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
+- **在 Office 365 专业增强版的现有安装上安装 Microsoft Teams：** 从 6 月底开始，我们将在更新这些安装时将 Microsoft Teams 包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅使用 Office 365 专业增强版部署 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -149,7 +149,7 @@ ms.locfileid: "38704461"
 ## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日
 *版本 1909（内部版本 12026.20320）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -261,7 +261,7 @@ ms.locfileid: "38704461"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908（内部版本 11929.20300）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -327,16 +327,18 @@ ms.locfileid: "38704461"
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907（内部版本 11901.20218）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 
- - 修复了在更改数据透视表的排序方式并在与其他用户进行共同创作会话期间刷新它时可能触发的问题。
+- 修复了在更改数据透视表的排序方式并在与其他用户进行共同创作会话期间刷新它时可能触发的问题。
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
-  - 修复了将邮箱从基本身份验证升级到新式身份验证的用户最终获得与其 Outlook 配置文件关联的错误帐户的问题。
+
+- 修复了将邮箱从基本身份验证升级到新式身份验证的用户最终获得与其 Outlook 配置文件关联的错误帐户的问题。
 
 ## <a name="version-1907-july-29"></a>版本 1907：7 月 29 日
+
 *版本 1907（内部版本 11901.20176）*
 * 各种 bug 和性能修补程序。
 
@@ -379,7 +381,7 @@ ms.locfileid: "38704461"
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906（内部版本 11727.20244）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 
@@ -445,7 +447,7 @@ ms.locfileid: "38704461"
 
 ## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
 *版本 1905（内部版本 11629.20246）*
-<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 
@@ -535,7 +537,7 @@ ms.locfileid: "38704461"
 ## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
 *版本 1904（内部版本 11601.20204）*
 
- - [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+- [此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 ## <a name="version-1904-may-8"></a>版本 1904：5 月 8 日
 *版本 1904（内部版本 11601.20178）*
@@ -600,7 +602,7 @@ ms.locfileid: "38704461"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903（内部版本 11425.20204）* 
 
-- [此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+- [此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 - 修复了以下问题：Lync (Skype for Business) 中对于任何有 7 个以上参与者的在线会议，会议窗口可能会消失。
@@ -685,7 +687,7 @@ ms.locfileid: "38704461"
  
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。[了解详细信息](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。[了解详细信息](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 版本 1901（内部版本 11231.20174）** 
