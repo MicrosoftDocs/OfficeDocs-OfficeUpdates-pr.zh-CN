@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402438"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669821"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -48,6 +48,10 @@ ms.locfileid: "38402438"
 ### <a name="powerpoint"></a>PowerPoint
 
 - 可靠性修复：修复了第三方加载项可能导致 PowerPoint 失败的问题。
+
+### <a name="word"></a>Word
+
+- 我们修复了在尝试确定某些特殊字符时字体变为 MS Mincho 的问题。
 
 ### <a name="office-suite"></a>Office 套件
 
