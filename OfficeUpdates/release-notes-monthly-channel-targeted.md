@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 242760e78e844c506c0fd097ab5acf930a9e7f48
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: c0c94dc4bfbc6e8e215b5c8d7b713e61abf3c651
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724060"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753799"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -27,6 +27,19 @@ ms.locfileid: "38724060"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-1911-november-20"></a>版本 1911：11 月 20 日
+*版本 1911（内部版本 12228.20250）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **高级组电子邮件设置：** 此功能可帮助组用户自定义要在收件箱中接收/关注的电子邮件或事件。
+
+[//]: # (请勿移除功能详细信息内容结尾)
 
 ## <a name="version-1911-november-15"></a>版本 1911：11 月 15 日
 *版本 1911（内部版本 12228.20206）*
