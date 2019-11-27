@@ -9,25 +9,64 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
-ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
+ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/13/2019
-ms.locfileid: "38312132"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204341"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的半年频道（定向）更新中所包含的新功能和非安全更新的相关信息。
 
 > [!NOTE]
-> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams 包含在半年频道(定向)的新安装中，从版本 1902 开始。 当半年频道(定向)的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)。
+> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft Teams 包含在半年频道(定向)的新安装中，从版本 1902 开始。 当半年频道(定向)的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
+
+## <a name="version-1908-november-22"></a>版本 1908：11 月 22 日
+*版本 1908（内部版本 11929.20494）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 当文件具有大量条件格式时，单击“字体颜色”按钮时会出现性能较低的问题。
+
+- 我们修复了打印预览中的打印区域不正确的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在尝试从“帐户创建”上下文联系支持人员时看到带有“&quot;确定&quot;”按钮的空白消息框的问题。
+
+- 进行更改后，管理员能够启用策略以便在自动发现身份验证提示中首选提供的帐户电子邮件而不是 UPN。 默认情况下，自动发现优先于帐户 UPN（如果可用）。
+
+- 解决了导致用户无法在现代组中查看搜索的问题。
+
+- 解决了导致用户尝试从&quot;错过的对话&quot;消息创建规则时遇到崩溃的问题。
+
+### <a name="word"></a>Word
+
+- 我们修复了在使用 Deskjet 打印机打印时可能导致缩放问题的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了防止 PowerPoint 用户在尝试联机演示时遇到错误的问题。
+
+- 改进了有关注册表完整性的 Office 更新进程的可靠性。
+
+- 更正了按流量计费的网络上可能意外阻止更新的问题。
+
+- 修复了 ODT 和 GPO Updae Deadline 设置中相对截止日期仅在第一次设置时起作用，修复程序为后续更新启用相对截止日期的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-november-12"></a>版本 1908：11 月 12 日
 *版本 1908（内部版本 11929.20436）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -104,7 +143,7 @@ ms.locfileid: "38312132"
 ## <a name="version-1908-october-08"></a>版本 1908：10 月 8 日
 *版本 1908（内部版本 11929.20388）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -144,34 +183,34 @@ ms.locfileid: "38312132"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908（内部版本 11929.20300）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **缩放更多空间：** 让缩放框变大，更改字体，缩放功能会记住一切。 [了解更多](https://support.office.com/zh-CN/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+- **缩放更多空间：** 让缩放框变大，更改字体，缩放功能会记住一切。 [了解更多](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 - **密切关注数据库对象：** 可以清楚地看到活动选项卡，轻松拖动选项卡以重新排列它们，并且只需单击一下即可关闭数据库对象。
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/zh-CN/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="excel"></a>Excel
 
-- **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。[了解详细信息](https://support.office.com/zh-CN/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。[了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
 - **增加内容的覆盖面：** 需要让你的演示文稿易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/zh-CN/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 [了解详细信息](https://support.office.com/zh-CN/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 [了解详细信息](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 - **协作更简单：** 共同创作改进意味着使用条件格式、单元格样式等时，所做的更改将与协作者无缝合并。
 
-- **在类似列上连接表：** 在比较用于合并表的列时，获取和转换 (Power Query) 现在具有近似文本匹配逻辑（也称为模糊匹配）。 [了解更多](https://support.office.com/zh-CN/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **在类似列上连接表：** 在比较用于合并表的列时，获取和转换 (Power Query) 现在具有近似文本匹配逻辑（也称为模糊匹配）。 [了解更多](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 - **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
@@ -181,15 +220,15 @@ ms.locfileid: "38312132"
 
 - **在连续召开的会议之间提供时间：** 默认将会议设置为提前 5-10 分钟结束，让与会者有时间喘口气或来往于不同地点。
 
-- **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。[了解详细信息](https://support.office.com/zh-CN/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+- **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。[了解详细信息](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
-- **我们已经为你更新了 Outlook 用户体验：** 简化的体验，以前可供预览，现即将推出，旨在帮助你关注最重要的内容。 [了解更多](https://support.office.com/zh-CN/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **我们已经为你更新了 Outlook 用户体验：** 简化的体验，以前可供预览，现即将推出，旨在帮助你关注最重要的内容。 [了解更多](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
 - **更紧凑还是更宽松的布局？由你决定：**“更紧凑的间距”让你能够决定是希望项目之间间距更大，还是希望布局更紧凑以显示更多内容。
 
-- **还可自定义的简化功能区：** 最常用的按钮排成一行，带给你简化体验。 可在经典视图和简化视图之间轻松切换，还可固定/取消固定命令。 [了解详细信息](https://support.office.com/zh-CN/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **还可自定义的简化功能区：** 最常用的按钮排成一行，带给你简化体验。 可在经典视图和简化视图之间轻松切换，还可固定/取消固定命令。 [了解详细信息](https://support.office.com/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
-- **添加帐户的更快捷方式：** 由于帐户设置改进，现在可以更轻松地将使用双重身份验证的 Outlook.com 和 Gmail 帐户添加到 Outlook。 [了解更多](https://support.office.com/zh-CN/article/70191667-9c52-4581-990e-e30318c2c081)
+- **添加帐户的更快捷方式：** 由于帐户设置改进，现在可以更轻松地将使用双重身份验证的 Outlook.com 和 Gmail 帐户添加到 Outlook。 [了解更多](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
 - **挑选你喜欢的操作：** 不要使用“标志”和“删除”？ “存档”或“标记为已读”呢？ 使用你最常用的命令自定义快速操作菜单。
 
@@ -197,7 +236,7 @@ ms.locfileid: "38312132"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/zh-CN/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
@@ -205,41 +244,41 @@ ms.locfileid: "38312132"
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
-- **比以往更轻松地插入联机视频：** 想要将 Vimeo 或 YouTube 中的视频放到幻灯片上？只需使用视频页面链接即可。[了解详细信息](https://support.office.com/zh-CN/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **比以往更轻松地插入联机视频：** 想要将 Vimeo 或 YouTube 中的视频放到幻灯片上？只需使用视频页面链接即可。[了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **切换效果更好：** 对形状命名，以更好地掌控其平滑效果。 [了解详细信息](https://support.office.com/zh-CN/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
+- **切换效果更好：** 对形状命名，以更好地掌控其平滑效果。 [了解详细信息](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/zh-CN/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/zh-CN/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 ### <a name="project"></a>Project
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/zh-CN/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="visio"></a>Visio
 
-- **告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。[了解更多](https://support.office.com/zh-CN/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。[了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **内置 Azure 模具：** 使用数十个 Azure 模具设计云应用或规划基础结构。 [了解更多](https://support.office.com/zh-CN/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **内置 Azure 模具：** 使用数十个 Azure 模具设计云应用或规划基础结构。 [了解更多](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 - **数据流程图上的 Double-take：** 数据可视化工具流程图上引入注目的新布局干净、清爽且易于理解。 单击“设计”选项卡可查看选项。
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/zh-CN/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **将流程图导出至 Word：** 向 Word 文档自动添加流程图内容，如形状和元数据。 然后自定义文档以创建过程指南和操作手册。 [了解更多](https://support.office.com/zh-CN/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **将流程图导出至 Word：** 向 Word 文档自动添加流程图内容，如形状和元数据。 然后自定义文档以创建过程指南和操作手册。 [了解更多](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
-- **从 Power BI 导出 Visio 视觉对象：** 将 Power BI 导出为 PDF、PowerPoint 文件等时，Power BI 的 Visio 视觉对象现在将会正常显示。 [了解更多](https://support.office.com/zh-CN/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+- **从 Power BI 导出 Visio 视觉对象：** 将 Power BI 导出为 PDF、PowerPoint 文件等时，Power BI 的 Visio 视觉对象现在将会正常显示。 [了解更多](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
 ### <a name="word"></a>Word
 
-- **使用笔迹编辑器随心编辑：** 使用单个笔划、拆分或连接字词、添加新行或使用手写笔插入字词。[了解详细信息](https://support.office.com/zh-CN/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **使用笔迹编辑器随心编辑：** 使用单个笔划、拆分或连接字词、添加新行或使用手写笔插入字词。[了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/zh-CN/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
-- **使用 \@提及功能引起他人的注意：** 在批注中使用 @提及，以在需要他人的意见时让他们知悉。 [了解详细信息](https://support.office.com/zh-CN/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **使用 \@提及功能引起他人的注意：** 在批注中使用 @提及，以在需要他人的意见时让他们知悉。 [了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/zh-CN/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
@@ -249,13 +288,13 @@ ms.locfileid: "38312132"
 
 - **“学习工具”模式可额外支持更多页面颜色：** Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。 许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/zh-CN/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **告别干扰：** Windows 具有了最受欢迎的 Mac 功能。 切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 [了解详细信息](https://support.office.com/zh-CN/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **告别干扰：** Windows 具有了最受欢迎的 Mac 功能。 切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 [了解详细信息](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 ### <a name="office-suite"></a>Office 套件
 
-- **Microsoft Teams 的安装：** 向 Office 365 专业增强版的现有安装添加了 Teams。 [了解更多](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
+- **Microsoft Teams 的安装：** 向 Office 365 专业增强版的现有安装添加了 Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
@@ -303,7 +342,7 @@ ms.locfileid: "38312132"
 
 - 解决了以下问题：用户看到房间被推荐为会议室，然而会议却被安排在会议室不可用时。
 
-- 修复了导致用户在使用云附件时看到错误“无法找到此文件。 验证路径和文件名是否正确”的临时服务问题。 [了解更多](https://support.office.com/zh-CN/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- 修复了导致用户在使用云附件时看到错误“无法找到此文件。 验证路径和文件名是否正确”的临时服务问题。 [了解更多](https://support.office.com/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - 修复了以下问题：用户看到从 Outlook 上传到 OneDrive 或 Sharepoint 的文件名已更改，其中多个字符替换为下划线。
 
@@ -348,7 +387,7 @@ ms.locfileid: "38312132"
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
 *版本 1902（内部版本 11328.20392）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 - 修复了表中针对已筛选切片器和未筛选切片器均显示清除筛选器图标的问题。
@@ -365,12 +404,12 @@ ms.locfileid: "38312132"
 - 修复了在与其他用户协作处理文档的情况下应用程序可能意外终止的问题。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
-- 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/zh-CN/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902（内部版本 11328.20368）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -412,7 +451,7 @@ ms.locfileid: "38312132"
 
 ## <a name="version-1902-june-11"></a>版本 1902：6 月 11 日
 *版本 1902（内部版本 11328.20318）*
-<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
  - 解决了将包含 XML 映射的文件保存为 PDF 时导致崩溃的问题。
@@ -502,7 +541,7 @@ ms.locfileid: "38312132"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
-- 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息](https://docs.microsoft.com/zh-CN/windows/deployment/update/waas-delivery-optimization)
+- 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - 修复了如果使用 Office 部署工具安装 Office 且存在不匹配的情况时，可能导致产品被删除或未激活的 bug。
 - 修复了导致 Windows 10（版本 1803 或更高版本）设备上出现过多登录提示的问题。
 - 修复了下载链接图片时导致挂起的回归。
@@ -541,7 +580,7 @@ ms.locfileid: "38312132"
 - **重复周期范围的新默认值：** 对于“重复周期”对话框，在过去重复周期范围的默认值为“无结束日期”。这有助于创建长期运行的定期系列，随着时间的推移可能会损坏。我们将“重复周期”对话框的默认值更新为“结束日期”，以便我们的默认值与建议的日历最佳做法相匹配。
 - **从“Outlook 提醒”对话框加入团队会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是团队在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
 - **停止查看过去活动的提醒：** 可以将日历设置为在活动结束后自动关闭活动提醒。 [了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **查看安全链接背后的 URL：** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL上。 需要高级威胁防护许可证。 [了解更多](https://products.office.com/zh-CN/exchange/advance-threat-protection)
+- **查看安全链接背后的 URL：** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL上。 需要高级威胁防护许可证。 [了解更多](https://products.office.com/exchange/advance-threat-protection)
 - **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。 [了解更多](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **邮件加密：仅加密 IRM 策略：** 新的仅加密选项显示在 Office 365 邮件加密用户的“选项”>“权限”菜单中。 此选项允许你加密邮件并将其发送给组织内部或外部的任何人。
 - **密件抄送 (BCC) 警告：** BCC 信息提示会在你意外对被密件抄送的邮件全部答复之前发出警告。
@@ -593,7 +632,7 @@ ms.locfileid: "38312132"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
 - **Office 第三方应用程序现已支持通过 office.js API 插入 SVG：** 第三方应用程序也称为 Office 中的加载项，它们现可插入 SVG。用户现可将其个人的 SVG 集合连接到 Office。而开发人员可通过 Office.js API 使用该项功能。
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/deployoffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 
@@ -619,7 +658,7 @@ ms.locfileid: "38312132"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
-- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-CN/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
+- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
 
 
 ## <a name="version-1808-january-8"></a>版本 1808：1 月 8 日

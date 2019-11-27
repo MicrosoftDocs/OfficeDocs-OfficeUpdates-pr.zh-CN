@@ -3,19 +3,19 @@ title: Office 2016 C2R 和 Office 2019 更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 11/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: c35ff76b7ac742c7a8bb14361413c311dda0a593
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 9b5fe442ee64a0b820d99b0be217a82522966cc2
+ms.sourcegitcommit: 35a8d41cd61fc1a27cc543b06f5d715c7913ac11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282260"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39621387"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -57,6 +57,8 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2019 年 11 月 22 日   |版本 1910（内部版本 12130.20410）  |各种错误和性能修补程序。<br/>  |
+|2019 年 11 月 18 日   |版本 1910（内部版本 12130.20390）  |各种错误和性能修补程序。<br/>  |
 |2019 年 11 月 12 日   |版本 1910（内部版本 12130.20344）  |[CVE-2019-1402](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |2019 年 10 月 8 日   |版本 1909（内部版本 12026.20320）  |[CVE-2019-1327](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1331) <br/> |
 |2019 年 9 月 10 日   |版本 1908（内部版本 11929.20300）  |[CVE-2019-1246](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1297) <br/>  |
