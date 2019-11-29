@@ -9,35 +9,35 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: 1820de477c70563d208be3fa26ad9f0bf66e2611
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724050"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204331"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的每月频道更新中所包含的新功能和非安全更新的相关信息。
- 
+
  > [!NOTE]
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
 
+## <a name="version-1910-november-22"></a>版本 1910：11 月 22 日
+*版本 1910（内部版本 12130.20410）*
+* 各种错误和性能修补程序。
+
 ## <a name="version-1910-november-18"></a>版本 1910：11 月 18 日
 *版本 1910（内部版本 12130.20390）*
-* 各种 bug 和性能修补程序。
 
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
-### <a name="outlook"></a>Outlook
 
-- 解决了导致用户看到会议中的位置字段意外更改的问题。
+### <a name="access"></a>Access
 
-- 解决了导致用户在尝试从“帐户创建”上下文联系支持人员时看到带有“&quot;确定&quot;”按钮的空白消息框的问题。
-
-
+- 已修复关于运行更新查询会错误地给出“查询已损坏”错误消息的问题。
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
@@ -56,19 +56,19 @@ ms.locfileid: "38724050"
 
 - 解决了导致用户在尝试从“帐户创建”上下文联系支持人员时看到带有“&quot;确定&quot;”按钮的空白消息框的问题。
 
-
-
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1910-october-30"></a>版本 1910：10 月 30 日
 *版本 1910（内部版本 12130.20272）*
-* 各种 bug 和性能修补程序。
 
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致“搜索反馈”体验挂起的问题。
 
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
-
 
 ### <a name="excel"></a>Excel
 

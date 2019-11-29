@@ -9,27 +9,59 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669821"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254361"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的半年频道更新中所包含的新功能和非安全更新的相关信息。
 
 > [!NOTE]
-> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1902-november-22"></a>版本 1902：11 月 22 日
+*版本 1902（内部版本 11328.20480）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 已修复关于运行更新查询会错误地给出“查询已损坏”错误消息的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在启用 toast 通知时发现内存泄漏的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 进行此更改后，对于与限制无关的同步错误，将不会限制同步。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1808-november-22"></a>版本 1808：11 月 22 日
+*版本 1808（内部版本 10730.20422）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="access"></a>Access
+
+- 已修复关于运行更新查询会错误地给出“查询已损坏”错误消息的问题。
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1902-november-12"></a>版本 1902：11 月 12 日
 *版本 1902（内部版本 11328.20468）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -64,7 +96,7 @@ ms.locfileid: "38669821"
 ## <a name="version-1808-november-12"></a>版本 1808：11 月 12 日
 *版本 1808（内部版本 10730.20416）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -84,7 +116,7 @@ ms.locfileid: "38669821"
 ## <a name="version-1902-october-08"></a>版本 1902：10 月 8 日
 *版本 1902（内部版本 11328.20438）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -112,12 +144,12 @@ ms.locfileid: "38669821"
 ## <a name="version-1808-october-08"></a>版本 1808：10 月 8 日
 *版本 1808（内部版本 10730.20386）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ## <a name="version-1902-september-10"></a>版本 1902：9月10日
 *版本 1902（内部版本 11328.20420）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -128,7 +160,7 @@ ms.locfileid: "38669821"
 
 ### <a name="outlook"></a>Outlook
 
-- 修复了导致用户在使用云附件时看到错误“无法找到此文件。 验证路径和文件名是否正确”的临时服务问题。 [了解更多](https://support.office.com/zh-CN/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- 修复了导致用户在使用云附件时看到错误“无法找到此文件。 验证路径和文件名是否正确”的临时服务问题。 [了解更多](https://support.office.com/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - 修复了以下问题：用户看到从 Outlook 上传到 OneDrive 或 Sharepoint 的文件名已更改，其中多个字符替换为下划线。
 
@@ -141,7 +173,7 @@ ms.locfileid: "38669821"
 ## <a name="version-1808-september-10"></a>版本 1808：9月10日
 *版本 1808（内部版本 10730.20380）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -154,7 +186,7 @@ ms.locfileid: "38669821"
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
 *版本 1902（内部版本 11328.20392）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 - 修复了表中针对已筛选切片器和未筛选切片器均显示清除筛选器图标的问题。
@@ -171,12 +203,12 @@ ms.locfileid: "38669821"
 - 修复了在与其他用户协作处理文档的情况下应用程序可能意外终止的问题。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
-- 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/zh-CN/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1808-august-13"></a>版本 1808 8 月 13 日
 *版本 1808（内部版本 10730.20370）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 - 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/zh-CN/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -185,7 +217,7 @@ ms.locfileid: "38669821"
 ## <a name="version-1803-august-13"></a>版本 1803 8 月 13 日
 *版本 1803（内部版本 9126.2432）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 - 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/zh-CN/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -193,7 +225,7 @@ ms.locfileid: "38669821"
 
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902（内部版本 11328.20368）*
-<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -225,7 +257,7 @@ ms.locfileid: "38669821"
 - **重复周期范围的新默认值：** 对于“重复周期”对话框，在过去重复周期范围的默认值为“无结束日期”。这有助于创建长期运行的定期系列，随着时间的推移可能会损坏。我们将“重复周期”对话框的默认值更新为“结束日期”，以便我们的默认值与建议的日历最佳做法相匹配。
 - **从“Outlook 提醒”对话框加入团队会议：** 当 Outlook 提醒用户参加即将召开的会议时，如果即将召开的会议是团队在线会议，则它将显示一个“联机加入”按钮。这与从“Outlook 提醒”对话框加入 Skype for Business 会议的体验类似。
 - **停止查看过去活动的提醒：** 可以将日历设置为在活动结束后自动关闭活动提醒。 [了解更多](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **查看安全链接背后的 URL：** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL上。 需要高级威胁防护许可证。 [了解更多](https://products.office.com/zh-CN/exchange/advance-threat-protection)
+- **查看安全链接背后的 URL：** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL上。 需要高级威胁防护许可证。 [了解更多](https://products.office.com/exchange/advance-threat-protection)
 - **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。 [了解更多](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **邮件加密：仅加密 IRM 策略：** 新的仅加密选项显示在 Office 365 邮件加密用户的“选项”>“权限”菜单中。 此选项允许你加密邮件并将其发送给组织内部或外部的任何人。
 - **密件抄送 (BCC) 警告：** BCC 信息提示会在你意外对被密件抄送的邮件全部答复之前发出警告。
@@ -277,7 +309,7 @@ ms.locfileid: "38669821"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
 - **Office 第三方应用程序现已支持通过 office.js API 插入 SVG：** 第三方应用程序也称为 Office 中的加载项，它们现可插入 SVG。用户现可将其个人的 SVG 集合连接到 Office。而开发人员可通过 Office.js API 使用该项功能。
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/zh-CN/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 
@@ -352,7 +384,7 @@ ms.locfileid: "38669821"
  - 解决了 Windows 10 上貌似已清除多位用户的“最近使用的文件”列表这一问题。
  - 解决了即使站在进行管理器触发的更新，最终用户仍会看到“Office 更新”业务栏的问题。
  - 解决了与登录提示间歇性空白相关的问题。
- - 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+ - 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - 修复了如果使用 Office 部署工具安装 Office 且存在不匹配的情况时，可能导致产品被删除或未激活的 bug。
 - 修复了导致 Windows 10（版本 1803 或更高版本）设备上出现过多登录提示的问题。
 - 修复了下载链接图片时导致挂起的回归。
@@ -362,7 +394,7 @@ ms.locfileid: "38669821"
 
 ## <a name="version-1808-july-09"></a>版本 1808：7 月 9 日
 *版本 1808（内部版本 10730.20360）*
-<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
@@ -377,12 +409,12 @@ ms.locfileid: "38669821"
 
 ## <a name="version-1803-july-09"></a>版本 1803：7 月 9 日
 *版本 1803（内部版本 9126.2428）*
-<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 ## <a name="version-1808-june-11"></a>版本 1808：6 月 11 日
 *版本 1808（内部版本 10730.20348）*
-<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
  - 修复了在签出文件时删除签名的相关问题。
@@ -392,7 +424,7 @@ ms.locfileid: "38669821"
 
 ## <a name="version-1803-june-11"></a>版本 1803：6 月 11 日
 *版本 1803（内部版本 9126.2388）*
-<br/>[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新 
+<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新 
 
 ## <a name="version-1808-may-14"></a>版本 1808：5 月 14 日
 *版本 1808（内部版本 10730.20344）*   
@@ -468,7 +500,7 @@ ms.locfileid: "38669821"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
-- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-CN/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
+- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
 
 
 ## <a name="version-1803-february-12"></a>版本 1803：2 月 12 日
@@ -501,7 +533,7 @@ ms.locfileid: "38669821"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
-- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-CN/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
+- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
 
 ## <a name="version-1708-february-12"></a>版本 1708：2 月 12 日
 *版本 1708（内部版本 8431.2372）*
@@ -510,7 +542,7 @@ ms.locfileid: "38669821"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
-- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-CN/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
+- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
 
 
 ## <a name="version-1808-january-8"></a>版本 1808：1 月 8 日
@@ -652,7 +684,7 @@ ms.locfileid: "38669821"
 
 ### <a name="office-suite-security-update"></a>Office 套件：安全更新
 
-- **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解详细信息。
+- **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解详细信息。
  
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 - 修复了在某些场景中导致更新安装所用时间过长的问题。
