@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5abaa516f750daa60b0a2538f8d75f7a1b3fb71b
-ms.sourcegitcommit: d54d66f9c5f68a3a20ebb5f1004fb6c3ad9f62cc
+ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
+ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39603686"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39668042"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,7 @@ ms.locfileid: "39603686"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
 
 ## <a name="version-1911-november-20"></a>版本 1911：11 月 20 日
 *版本 1911（内部版本 12228.20250）*
