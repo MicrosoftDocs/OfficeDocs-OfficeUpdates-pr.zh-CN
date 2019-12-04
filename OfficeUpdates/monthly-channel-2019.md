@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 1820de477c70563d208be3fa26ad9f0bf66e2611
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: d412d9cdd90b3a4a647404e30119ae3f8f231554
+ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204331"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "39818772"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -23,6 +23,63 @@ ms.locfileid: "39204331"
  > [!NOTE]
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
+
+## <a name="version-1911-december-03"></a>版本 1911：12 月 3 日
+*版本 1911（内部版本 12228.20332）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **键入可返回多个值的公式：** 现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解详细信息](https://support.office.com/zh-CN/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **6 个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。 [了解详细信息](https://support.office.com/zh-CN/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
+
+- **数据可视化工具加载项：** 从 Excel 中快速创建 Visio 流程图。 [了解更多](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **共同创作改进：** 通过让其他人以更接近实时的方式接收内容更改，改进了共同创作体验。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 解决了 Microsoft Access 中的一个问题，该问题可能会导致在运行更新查询或在 SQL 中使用 UPDATE 语句时出现&quot;查询已损坏&quot;错误。
+
+### <a name="excel"></a>Excel
+
+- Excel 可能会在编辑不受信任的网络共享中的受保护文件时遇到问题。
+
+- 解决了在无工作簿打开的情况下搜索最近使用的文件时可能导致出现崩溃的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在尝试从“帐户创建”上下文联系支持人员时看到带有“&quot;确定&quot;”按钮的空白消息框的问题。
+
+- 如果在 2019 年使用巴西利亚时区，则定期会议和约会将显示在 2020 年的错误时间段内。 此更改涉及到在巴西利亚时区设置的客户端以及在该时区设置的会议和约会。 
+
+- 解决了导致用户在打开“规则”对话框时看到&quot;此计算机上的规则与 Microsoft Exchange 上的规则不匹配&quot;提示的问题。
+
+- 解决了 SMIME 算法选择方面的问题。
+
+- 解决了导致会议中的“位置”字段意外更新的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了 Office 更新可能已意外地从 Office CDN 而不是计划源（例如本地/网络共享或 Configuration Manager 提供的位置）下载文件的问题。
+
+- 解决了 ODT 和 GPO 更新截止时间设置中相对截止日期仅在第一次设置时起作用，而修复程序为后续更新启用相对截止日期的问题。
+
+- 解决了 Office 更新可能已意外地从 Office CDN 而不是计划源（例如本地/网络共享或 Configuration Manager 提供的位置）下载文件的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1910-november-22"></a>版本 1910：11 月 22 日
 *版本 1910（内部版本 12130.20410）*
