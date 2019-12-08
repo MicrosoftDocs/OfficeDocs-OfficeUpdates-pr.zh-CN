@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204341"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890446"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -31,11 +31,20 @@ ms.locfileid: "39204341"
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="access"></a>Access
+
+- 已修复关于运行更新查询会错误地给出“查询已损坏”错误消息的问题。
+
 ### <a name="excel"></a>Excel
 
 - 当文件具有大量条件格式时，单击“字体颜色”按钮时会出现性能较低的问题。
 
 - 我们修复了打印预览中的打印区域不正确的问题。
+
+- Excel 可能会在编辑不受信任的网络共享中的受保护文件时遇到问题。
+
+- 解决了在无工作簿打开的情况下搜索最近使用的文件时可能导致出现崩溃的问题。
 
 ### <a name="outlook"></a>Outlook
 
@@ -46,6 +55,8 @@ ms.locfileid: "39204341"
 - 解决了导致用户无法在现代组中查看搜索的问题。
 
 - 解决了导致用户尝试从&quot;错过的对话&quot;消息创建规则时遇到崩溃的问题。
+
+- 解决导致用户无法在现代组中查看搜索的问题。
 
 ### <a name="word"></a>Word
 
