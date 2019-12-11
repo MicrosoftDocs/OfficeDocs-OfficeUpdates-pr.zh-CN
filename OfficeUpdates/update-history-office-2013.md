@@ -3,26 +3,26 @@ title: Office 2013 更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2013 永久版本的更新历史记录
-ms.openlocfilehash: 91da43b4e86d47dd4f614124fb0661acbe508ada
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 08c372300adbde8298b2b66d19fafc74162fb2cc
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289822"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961929"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 更新历史记录
 
-大多数 Office 2013 产品使用名为即点即用的技术自动保持最新。如果你想验证你的产品是否为最新版本，请检查 Office 版本号并在需要时手动更新 Office。
+某些 Office 2013 产品使用名为即点即用的技术自动保持最新。如果你想验证你的产品是否为最新版本，请检查 Office 版本号并在需要时手动更新 Office。
   
 > [!NOTE]
-> Office 2013 的最新版本是 2019 年 11 月 12 日发布的 **15.0.5189.1000**。
+> Office 2013 的最新版本为 **15.0.5197.1000**，其于 2019 年 12 月 10 日发布。
   
 若要检查你的 Office 版本，请执行下列操作：
   
@@ -46,9 +46,10 @@ ms.locfileid: "38289822"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2019|11 月 12 日   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/zh-CN/help/4527848 )  |
-||10 月 8 日   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/zh-CN/help/4522242 )  |
-||9 月 10 日   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/zh-CN/help/4517986 )  |
+|2019 年|12 月 10 日   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/zh-CN/help/4532624)  |
+||11 月 12 日   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/zh-CN/help/4527848)  |
+||10 月 8 日   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/zh-CN/help/4522242)  |
+||9 月 10 日   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/zh-CN/help/4517986)  |
 ||8 月 13 日   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/zh-CN/help/4514418)  |
 ||7 月 9 日   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/zh-CN/help/4509295)  |
 ||6 月 11 日   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/zh-CN/help/4505743)  |
