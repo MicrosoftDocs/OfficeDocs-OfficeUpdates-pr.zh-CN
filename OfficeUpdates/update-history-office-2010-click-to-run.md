@@ -3,19 +3,19 @@ title: Office 2010 即点即用产品的更新历史记录
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2010 永久版本的更新历史记录
-ms.openlocfilehash: fde1f5a6ddc491caa8b2c949c0a95f70e76a1921
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 679c94fb42683f97b7b866874bee27faca15a573
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282170"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961939"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 即点即用产品的更新历史记录
 
@@ -30,7 +30,7 @@ ms.locfileid: "38282170"
 如果要使用这些产品之一，并且想要验证你拥有最新版本，请检查 Office 版本号，并在必要时手动更新 Office。
   
 > [!NOTE]
-> Office 2010 的最新版本是**14.0.7241.5000**，在2019年11月12日发布。
+> Office 2010 的最新版本是**14.0.7243.5000**，在2019年12月10日发布。
   
 若要检查你的 Office 版本，请执行下列操作：
   
@@ -54,7 +54,8 @@ ms.locfileid: "38282170"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2019 年|11 月 12 日  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
+|2019 年|12 月 10 日  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/en-us/help/4532624) <br/> |
+||11 月 12 日  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
 ||10 月 8 日  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/en-us/help/4522242) <br/> |
 ||9 月 10 日  <br/> |14.0.7237.5000  <br/> |[KB 4517986](https://support.microsoft.com/en-us/help/4517986) <br/> |
 ||8 月 13 日  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
