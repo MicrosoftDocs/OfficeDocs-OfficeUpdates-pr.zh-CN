@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890446"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961969"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -23,6 +23,58 @@ ms.locfileid: "39890446"
 > [!NOTE]
 > - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams 包含在半年频道(定向)的新安装中，从版本 1902 开始。 当半年频道(定向)的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
+
+## <a name="version-1908-december-10"></a>版本 1908：12 月 10 日
+*版本 1908（内部版本 11929.20516）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修复了包含对远程表（例如 SQL Server 表）的引用的联合查询可能导致 Access 关闭并重新启动的问题。
+
+- 修复了诸如“总和”等聚合可能将结果截断为整数值的问题。
+
+### <a name="excel"></a>Excel
+
+- 解决了在滚动后选择单元格时可能导致选择错误单元格的问题。
+
+- 我们修复了当 OLAP 数据透视表的筛选器设置为已从多维数据集中删除的值时的问题。
+
+- 此更改通过利用软件呈现避免了某些 Intel 图形驱动程序的问题。
+
+- 解决了 Lookup 函数可能返回错误的问题。
+
+- 显著提高了删除包含合并单元格的列时的性能。
+
+- 解决了导致激活最小化窗口的宏运行时错误的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了 SMIME 算法选择方面的问题。
+
+- 解决了导致用户在打开“规则”对话框时看到&quot;此计算机上的规则与 Microsoft Exchange 上的规则不匹配&quot;提示的问题。
+
+- 解决了导致 Web 加载项在不应该访问“数字版权管理”消息时访问它们的问题。
+
+### <a name="word"></a>Word
+
+- 我们修复了跟踪更改有时会陷入无限循环的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了在 PowerPoint 中的竖排文本框中，半角片假名字符未正确旋转的问题。
+
+- 解决了 Office 更新可能已意外地从 Office CDN 而不是计划源（例如本地/网络共享或 Configuration Manager 提供的位置）下载文件的问题。
+
+- 为了保护 Office 客户的安全，现在仅使用 SHA-2 算法对 Microsoft Office 更新进行签名。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-november-22"></a>版本 1908：11 月 22 日
 *版本 1908（内部版本 11929.20494）*

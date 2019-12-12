@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
-ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
+ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39668042"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961737"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -30,6 +30,52 @@ ms.locfileid: "39668042"
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
+## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
+*版本 1911（内部版本 12228.20364）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
+
+- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/zh-CN/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+### <a name="outlook"></a>Outlook
+
+- **组命名策略：** 组命名策略使 IT 管理员能够标准化管理组织中由用户创建的组名。 管理员可以要求在创建组时向名称添加特定前缀和后缀，并阻止使用指定的字词。 这有助于尽可能在组名中减少使用不适宜的字词，以及有助于IT部门在目录中管理组的显示方式。 命名策略还可有助于组织根据部门部署团队网站，以进行分类。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **墨迹即时重播：** 在幻灯片上使用墨迹时，可应用重播动画，在幻灯片放映期间重播墨迹的实际绘制过程。 [了解更多](https://support.office.com/zh-CN/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
+
+- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。
+
+### <a name="word"></a>Word
+
+- **其他人可以快速查看你所做的更改: **共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+
+- **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
+
+- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/zh-CN/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+## <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 此更改通过利用软件呈现避免了某些 Intel 图形驱动程序的问题。
+
+- 我们修复了数据透视图的右键单击菜单，以便启用“显示详细信息”选项。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致 Web 加载项访问数字权限管理邮件的问题。
+
+[//]: # (请勿移除功能详细信息内容结尾)
 
 ## <a name="version-1911-november-20"></a>版本 1911：11 月 20 日
 *版本 1911（内部版本 12228.20250）*
@@ -78,7 +124,6 @@ ms.locfileid: "39668042"
 ### <a name="office-suite"></a>Office 套件
 
 - **“需要注意的文件”体验将替换上载中心：**“需要注意的文件”体验将替换上载中心，该体验将显示在 Office 应用程序的“文件”>“打开”中。 与上载中心相比，这种新体验更加现代、集成度更高并且干扰性更低。
-
 
 [//]: # (请勿移除功能详细信息内容结尾)
 

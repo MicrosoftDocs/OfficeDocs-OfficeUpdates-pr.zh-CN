@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254361"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961979"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -26,9 +26,47 @@ ms.locfileid: "39254361"
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
+
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1902-december-10"></a>版本 1902：12 月 10 日
+*版本 1902（内部版本 11328.20492）*
+
+[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 此更改通过利用软件呈现避免了某些 Intel 图形驱动程序的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 明年的日历项目在 Outlook 中可能显示错误的时间。 [了解更多](https://docs.microsoft.com/zh-CN/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+- 解决了导致客户尝试从&quot;错过的对话&quot;消息创建规则时遇到崩溃的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了与备注页面中打印（某些情况下存在布局问题）有关的问题。
+
+## <a name="version-1808-december-10"></a>版本 1808：12 月 10 日
+*版本 1808（内部版本 10730.20426）*
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 明年的日历项目在 Outlook 中可能显示错误的时间。 [了解更多](https://docs.microsoft.com/zh-CN/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
 ## <a name="version-1902-november-22"></a>版本 1902：11 月 22 日
 *版本 1902（内部版本 11328.20480）*
-
 
 [//]: # (请勿移除错误详细信息内容开头)
 
