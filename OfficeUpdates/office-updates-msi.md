@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: c274cef54692cdb8f793edc78292cca275be8001
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 12389950564e67e2fe79efa1243695cc4e60c57f
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961757"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023557"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新更新
 
@@ -64,11 +64,11 @@ ms.locfileid: "39961757"
 
 [2019 年 6 月的安全和非安全更新：KB4505743](https://support.microsoft.com/help/4505743)
 
-[2019 年 5 月安全更新程序和非安全更新程序：KB4501270](https://support.microsoft.com/zh-CN/help/4501270)
+[2019 年 5 月安全更新程序和非安全更新程序：KB4501270](https://support.microsoft.com/help/4501270)
 
-[2019 年 4 月安全和非安全更新：KB4495300](https://support.microsoft.com/zh-CN/help/4495300)
+[2019 年 4 月安全和非安全更新：KB4495300](https://support.microsoft.com/help/4495300)
 
-[2019 年 3 月安全和非安全更新：KB4491754](https://support.microsoft.com/zh-CN/help/4491754) 
+[2019 年 3 月安全和非安全更新：KB4491754](https://support.microsoft.com/help/4491754) 
 
 [2019 年 2 月安全和非安全更新：KB4488446](https://support.microsoft.com/help/4488446)
 

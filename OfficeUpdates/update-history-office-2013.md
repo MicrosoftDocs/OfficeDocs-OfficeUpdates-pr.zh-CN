@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2013 永久版本的更新历史记录
-ms.openlocfilehash: 08c372300adbde8298b2b66d19fafc74162fb2cc
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: f20d59daf68b01110c0bca39db28646f2c738dba
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961929"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023753"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 更新历史记录
 
@@ -46,28 +46,28 @@ ms.locfileid: "39961929"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2019 年|12 月 10 日   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/zh-CN/help/4532624)  |
-||11 月 12 日   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/zh-CN/help/4527848)  |
-||10 月 8 日   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/zh-CN/help/4522242)  |
-||9 月 10 日   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/zh-CN/help/4517986)  |
-||8 月 13 日   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/zh-CN/help/4514418)  |
-||7 月 9 日   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/zh-CN/help/4509295)  |
-||6 月 11 日   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/zh-CN/help/4505743)  |
-||5 月 14 日   |15.0.5137.1000   |[KB 4501270](https://support.microsoft.com/zh-CN/help/4501270)  |
-||4 月 9 日   |15.0.5127.1000   |[KB 4495300](https://support.microsoft.com/zh-CN/help/4495300)  |
-||3 月 12 日   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/zh-CN/help/4491754)  |
-||2 月 12 日   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/zh-CN/help/4488446)  |
-||1 月 8 日   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/zh-CN/help/4484800)  |
-|2018 年|12 月 19 日   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/zh-CN/help/4477615)  |
-||11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/zh-CN/help/4469617)  |
-||10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/zh-CN/help/4464656)  |
-| |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/zh-CN/help/4459402)  |
-||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/zh-CN/help/4346823)  |
-||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/zh-CN/help/4340798)  |
-||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/zh-CN/help/4299875)  |
-||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/zh-CN/help/4133083)  |
-||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/zh-CN/help/4098622)  |
-||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/zh-CN/help/4090988)  |
+|2019 年|12 月 10 日   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/help/4532624)  |
+||11 月 12 日   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/help/4527848)  |
+||10 月 8 日   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/help/4522242)  |
+||9 月 10 日   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/help/4517986)  |
+||8 月 13 日   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/help/4514418)  |
+||7 月 9 日   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/help/4509295)  |
+||6 月 11 日   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/help/4505743)  |
+||5 月 14 日   |15.0.5137.1000   |[KB 4501270](https://support.microsoft.com/help/4501270)  |
+||4 月 9 日   |15.0.5127.1000   |[KB 4495300](https://support.microsoft.com/help/4495300)  |
+||3 月 12 日   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/help/4491754)  |
+||2 月 12 日   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/help/4488446)  |
+||1 月 8 日   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/help/4484800)  |
+|2018 年|12 月 19 日   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/help/4477615)  |
+||11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/help/4469617)  |
+||10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/help/4464656)  |
+| |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/help/4459402)  |
+||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/help/4346823)  |
+||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/help/4340798)  |
+||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/help/4299875)  |
+||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/help/4133083)  |
+||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/help/4098622)  |
+||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/help/4090988)  |
 ||2 月 13 日   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||1 月 9 日   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
 |2017 年   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
@@ -81,8 +81,8 @@ ms.locfileid: "39961929"
 ||4 月 11 日   |15.0.4919.1002   |[KB 4016803](https://support.microsoft.com/help/4016803)  |
 ||3 月 14 日   |15.0.4911.1002   |[KB 4013886](https://support.microsoft.com/help/4013886)  |
 ||2 月 22 日   |15.0.4903.1002   |[KB 4010765](https://support.microsoft.com/help/4010765)  |
-||1 月 10 日   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/zh-CN/kb/3214449)  |
-|2016 年   |12 月 13 日   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/zh-CN/kb/3208595)  |
+||1 月 10 日   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/kb/3214449)  |
+|2016 年   |12 月 13 日   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/kb/3208595)  |
 ||11 月 8 日   |15.0.4875.1001   |[KB 3200802](https://support.microsoft.com/kb/3200802)  |
 ||10 月 11 日   |15.0.4867.1003   |[KB 3194160](https://support.microsoft.com/kb/3194160)  |
 ||9 月 13 日   |15.0.4859.1002   |[KB 3188548](https://support.microsoft.com/kb/3188548)  |
