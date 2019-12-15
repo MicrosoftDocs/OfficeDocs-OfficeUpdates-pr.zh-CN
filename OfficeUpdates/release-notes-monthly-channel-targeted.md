@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: e7fc9ff0ba68aca9d73873c7c299fed4e7668236
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961737"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023617"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -30,10 +30,129 @@ ms.locfileid: "39961737"
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
+## <a name="version-1912-december-12"></a>版本 1912：12 月 12 日
+*版本 1912（内部版本 12325.20172）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 用户在使用部分非英文字符集保存更改时可能会出错。
+
+- 编辑单元格中的动态数组公式可能会导致文本在单元格边界之外对齐。
+
+- 某些本地化版本的“文本分列”功能可能会失败。
+
+- 解决了打开嵌入式工作簿时，未加载功能区自定义项的问题。
+
+- 访问隐藏命名区域时，用户可能会遇到错误。
+
+- 页边距下拉菜单可能无法正确呈现。
+
+- 禁用 4k 分辨率硬件图形加速可能会延迟单元格的渲染。
+
+- 此更改通过利用软件呈现避免了某些 Intel 图形驱动程序的问题。
+
+### <a name="onenote"></a>OneNote
+
+- OneNote 可能无法通过‘会议记录’ Outlook 加载项打开。
+
+### <a name="outlook"></a>Outlook
+
+- 涉及跨文件夹内容的间歇性崩溃。
+
+- 内联插入 Outlook 电子邮件正文中的图像，有时尺寸会发生变化。
+
+- 添加了通过组策略强制执行 S/MIME 默认签名配置的能力。
+
+- 嵌入的图像可能看起来比预期的要小。
+
+- 保留策略标签可能会在括号中显示保留时间段。
+
+- 解决了在使用备用发件人时导致无法显示策略提示的问题。
+
+- 日语语言包的联系人卡片中可能出现空格。
+
+- 解决了导致会议位置在清除后意外添加回会议的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 将焦点从文本移动后，光标可能会消失。
+
+- 一个 Office 应用程序至其它应用程序的 Safelink 可能无法启动关联的应用程序。
+
+- 在某些情况中，无法使用触摸设备滚动。
+
+- 如果用户在云端文件的幻灯片中有两个（或更多）不同的视频，视频图像可以正确渲染，但当用户单击各视频进行播放时，视频内容相同。
+
+- 页边距下拉菜单可能无法正确呈现。
+
+### <a name="project"></a>Project
+
+- 如果处于深色模式，转至含有过度分配资源的任务的任务检查器面板时，将无法读取表格。
+
+- 用户可能遇到有关许可方面的错误。
+
+- 日期选取器中的“今天”按钮有时可能会设置错误的日期。
+
+- 使用“比较项目”功能时，项目可能会崩溃。
+
+- 无分配任务的工作量取舍为1天。
+
+### <a name="word"></a>Word
+
+- 现在，选择批注提示会在其在窗格切换器中隐藏时显示新式批注窗格。
+
+- 右键单击有时无法选择整个单词。
+
+- 一个 Office 应用程序至其它应用程序的 Safelink 可能无法启动关联的应用程序。
+
+- 构建基块管理器可能显示无效的警报：&quot;你已更改样式、构建基块&quot;。
+
+- 某些主题可能会导致难以确定选择了哪个批注。
+
+- 在转换为建议的格式后，光标可能在对象中保持活动状态。
+
+- 在某些情况下，邮件中的图像可能无法正确缩放。
+
+- 使用粘贴/复制时，批注窗格有时会重新载入。
+
+- 有时批注无法采用正确顺序粘贴。
+
+- 批注卡中的用户可能显示 JSON。
+
+- 页边距下拉菜单可能无法正确呈现。
+
+- 重新调整分屏边框大小可能产生附加的分屏。
+
+- 应用含有多级列表及自定义样式的模板，可能无法在指定条件下保留样式。
+
+- 在某些情况下，合并邮件后可能无法保存文件。
+
+### <a name="office-suite"></a>Office 套件
+
+- 将图表从 Excel 粘贴到 PowerPoint 后，可减小图表的大小。
+
+- 回复批注可能会导致文本框垂直展开到窗格边缘以外。
+
+- 对于基于日语的产品，账户用户的名字、姓氏可能按照错误的顺序显示。
+
+- 修复了 ODT 和 GPO 更新截止时间设置中相对截止日期仅在第一次设置时起作用，而修复程序为后续更新启用相对截止日期的问题。
+
+- 悬停鼠标指针在批注上方可能会在批注周围显示文本框轮廓。
+
+- 解决了 Office 更新可能已意外地从 Office CDN 而不是计划源（例如本地/网络共享或 Configuration Manager 提供的位置）下载文件的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
 *版本 1911（内部版本 12228.20364）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -42,7 +161,7 @@ ms.locfileid: "39961737"
 
 - **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
 
-- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/zh-CN/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ### <a name="outlook"></a>Outlook
 
@@ -50,7 +169,7 @@ ms.locfileid: "39961737"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **墨迹即时重播：** 在幻灯片上使用墨迹时，可应用重播动画，在幻灯片放映期间重播墨迹的实际绘制过程。 [了解更多](https://support.office.com/zh-CN/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+- **墨迹即时重播：** 在幻灯片上使用墨迹时，可应用重播动画，在幻灯片放映期间重播墨迹的实际绘制过程。 [了解更多](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
 
@@ -62,7 +181,7 @@ ms.locfileid: "39961737"
 
 - **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
 
-- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/zh-CN/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ## <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
@@ -103,7 +222,7 @@ ms.locfileid: "39961737"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **数据可视化工具加载项：** 从 Excel 中快速创建 Visio 流程图。 [了解更多](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **数据可视化工具加载项：** 从 Excel 中快速创建 Visio 流程图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
@@ -115,7 +234,7 @@ ms.locfileid: "39961737"
 
 ### <a name="visio"></a>Visio
 
-- **在 Excel 中制作精美的 Visio 图表：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解更多](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中制作精美的 Visio 图表：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
