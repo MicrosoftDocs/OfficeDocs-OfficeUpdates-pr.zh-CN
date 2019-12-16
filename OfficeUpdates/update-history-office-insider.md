@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 83aa929d5be14f8020f3f349e525c525da79b33a
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857860"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023763"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 预览体验成员频道的更新历史记录
 
@@ -31,6 +31,9 @@ ms.locfileid: "39857860"
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (请勿移除)
+
+**2019 年 12 月 12 日**<br/>
+版本 2001（内部版本 12410.20000）<br/>
 
 **2019 年 12 月 2 日**<br/>
 版本 1912（内部版本 12325.20012）<br/>
@@ -177,8 +180,7 @@ ms.locfileid: "39857860"
 **Twitter 上的 Office 预览体验成员**<br/> 在 @OfficeInsider 上，我们经常发布有关预览体验成员版本的帖子和主办面向预览体验成员的特别活动。<br/> 
 [在 Twitter 上关注我们](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **抢先获取新功能**

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 94dea39daaa8a4952dceaa39fe912093dec5c24a
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6b8d755bf405cc900c090eba6759b39def6bfad6
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961949"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023567"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -22,7 +22,7 @@ ms.locfileid: "39961949"
 
 ## <a name="office-insider-versions-and-builds"></a>Office 预览体验成员版本和内部版本
 
-如果你注册的是每月频道（定向）级别（以前称为“预览体验成员 - 慢”），你每月大约会获得一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续版本。以下列表显示了最近的每月频道（定向）版本和内部版本，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。若要查找发行说明，请参阅[针对 Office 预览体验成员的新增功能](https://support.office.com/zh-CN/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+如果你注册的是每月频道（定向）级别（以前称为“预览体验成员 - 慢”），你每月大约会获得一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续版本。以下列表显示了最近的每月频道（定向）版本和内部版本，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。若要查找发行说明，请参阅[针对 Office 预览体验成员的新增功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
 
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
@@ -30,6 +30,9 @@ ms.locfileid: "39961949"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+**2019 年 12 月 12 日**<br/>
+版本 1912（内部版本 12325.20172）<br/>
 
 **2019 年 12 月 10 日**<br/>
 版本 1911（内部版本 12228.20364）<br/>
@@ -198,8 +201,7 @@ ms.locfileid: "39961949"
 **Twitter 上的 Office 预览体验成员**<br/> 在 @OfficeInsider 上，我们经常发布有关预览体验成员版本的帖子和主办面向预览体验成员的特别活动。<br/> 
 [在 Twitter 上关注我们](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+[![显示 Facebook 图标的图像。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **抢先获取新功能**
