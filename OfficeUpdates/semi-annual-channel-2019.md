@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 589fbe7d9b156fbd42bfda2808e27ebd6185ed6a
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023723"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302961"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -422,7 +422,7 @@ ms.locfileid: "40023723"
  - 解决了 Windows 10 上貌似已清除多位用户的“最近使用的文件”列表这一问题。
  - 解决了即使站在进行管理器触发的更新，最终用户仍会看到“Office 更新”业务栏的问题。
  - 解决了与登录提示间歇性空白相关的问题。
- - 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
+ - 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - 修复了如果使用 Office 部署工具安装 Office 且存在不匹配的情况时，可能导致产品被删除或未激活的 bug。
 - 修复了导致 Windows 10（版本 1803 或更高版本）设备上出现过多登录提示的问题。
 - 修复了下载链接图片时导致挂起的回归。
