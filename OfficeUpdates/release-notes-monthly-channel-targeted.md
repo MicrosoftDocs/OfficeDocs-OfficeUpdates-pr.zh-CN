@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: e7fc9ff0ba68aca9d73873c7c299fed4e7668236
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: c3fd98c4c475dff6a571b773948464dedf618cad
+ms.sourcegitcommit: f6921c3de1d0e6faaec5a6d2471791fdfa02528d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023617"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "40795736"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,31 @@ ms.locfileid: "40023617"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-1912-december-19"></a>版本 1912：12 月 19 日
+*版本 1912（内部版本 12325.20214）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。 [了解更多](https://support.office.com/zh-CN/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在通过键盘快捷方式与其邮箱文件夹交互时出现明显延迟的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1912-december-12"></a>版本 1912：12 月 12 日
 *版本 1912（内部版本 12325.20172）*
