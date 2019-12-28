@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: c66e613b976653cf1bd6a221dbae87bbb79cc2e2
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 0e9cd5d74e0f981704f533e30d90789608eab522
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023647"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889317"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -24,7 +24,7 @@ ms.locfileid: "40023647"
  > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 > - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。 
 
 ## <a name="version-1811-december-11"></a>版本 1811：12 月 11 日
@@ -180,7 +180,7 @@ ms.locfileid: "40023647"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **查看即将推出的功能** 在发布之前尝试新的用户体验，让我们了解你的想法。[了解详细信息](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **查看安全链接背后的 URL** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL 上。 需要高级威胁防护许可证。 [了解更多](https://products.office.com/zh-CN/exchange/advance-threat-protection)
+- **查看安全链接背后的 URL** 安全链接有助于保护你免受电子邮件中收到的恶意 URL 的攻击，但它们会隐藏原始 URL。 若要查看原始 URL，请将鼠标悬停在 URL 上。 需要高级威胁防护许可证。 [了解更多](https://products.office.com/exchange/advance-threat-protection)
 - **获取搜索拼写建议** 执行搜索后，Outlook 将提供带拼写更正的建议搜索查询。
 - **功能区图标具有新外观** 不用担心，一切功能和以前一样。这些图标在所有大小的屏幕上都很美观。[了解详细信息](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
@@ -460,7 +460,7 @@ ms.locfileid: "40023647"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
--   **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解详细信息。
+-   **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)了解详细信息。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
 *版本 1803（内部版本 9126.2116）*

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 589fbe7d9b156fbd42bfda2808e27ebd6185ed6a
-ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
+ms.openlocfilehash: de069e864ee597379553958a3b839261ce13d04a
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40302961"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889337"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的半年频道更新中所包含的新功能和非安全更新的相关信息。
 
 > [!NOTE]
-> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
 
 [//]: # (请勿移除错误详细信息内容结尾)
@@ -722,7 +722,7 @@ ms.locfileid: "40302961"
 
 ### <a name="office-suite-security-update"></a>Office 套件：安全更新
 
-- **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解详细信息。
+- **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)了解详细信息。
  
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 - 修复了在某些场景中导致更新安装所用时间过长的问题。

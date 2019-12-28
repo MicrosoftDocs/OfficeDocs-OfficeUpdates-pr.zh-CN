@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
-ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
+ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40302971"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889287"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的每月频道更新中所包含的新功能和非安全更新的相关信息。
 
  > [!NOTE]
->- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
 
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
@@ -513,7 +513,7 @@ ms.locfileid: "40302971"
 
 - 启用“在会议中裁剪和居中我的视频”设置时，在 4K 显示器上正确裁剪会议中的视频
 
-- 允许从具有多个网络适配器的 Windows 10 计算机将文件传输到旧版 Office Communicator 客户端。 [了解更多](help/4508477)
+- 允许从具有多个网络适配器的 Windows 10 计算机将文件传输到旧版 Office Communicator 客户端。
 
 - 改善了 Skype for Business 与 Microsoft Teams 参与者之间的通信体验
 

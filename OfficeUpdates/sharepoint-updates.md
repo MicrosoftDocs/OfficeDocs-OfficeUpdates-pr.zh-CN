@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在一个位置集中查找和管理 SharePoint Server 2016、SharePoint 2013 和 SharePoint 2010 更新。单击此页面上的链接可以获取这些更新的详细信息，并下载它们。
-ms.openlocfilehash: c572d3ffb93b4d0c8c9e970234ff134e291a3da2
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: a726b1a103d0956d966c60cfbb334f4a7de71678
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023733"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889327"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -258,7 +258,7 @@ ms.locfileid: "40023733"
   
 - 结合使用 Windows Server AppFabric 和 SharePoint
   
-  - [AppFabric](https://msdn.microsoft.com/zh-CN/library/aa139641.aspx)
+  - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
   - [有关结合使用 AppFabric 和 SharePoint 的重要概念](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [AppFabric 更新](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
@@ -270,7 +270,7 @@ ms.locfileid: "40023733"
 
 ## <a name="related-topics"></a>相关主题
 
-- [安装 SharePoint Server 2019 的软件更新](https://docs.microsoft.com/zh-CN/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [安装 SharePoint Server 2019 的软件更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
 - [安装 SharePoint Server 2016 的软件更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [SharePoint Server 2013 的软件更新概述](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
 - [准备部署 SharePoint Server 2013 的软件更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)

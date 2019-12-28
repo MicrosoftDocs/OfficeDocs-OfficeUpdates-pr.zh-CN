@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: 91ae5036b889a0113281cfd438eb5b19987940ec
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 5749572870fba13ba51ded6928a491d30d46c5a8
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962259"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889307"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
   
@@ -23,7 +23,7 @@ ms.locfileid: "39962259"
 
 > [!NOTE]
 > - 从版本 16.21 开始，如果使用 Office 套件安装包，则***新*** 安装将默认安装 Microsoft Teams。有关详细信息，请参阅[在 Mac 上安装 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
-> - 出于安全考虑，Microsoft 已停用 SHA-1。[了解详细信息](https://docs.microsoft.com/zh-CN/security-updates/SecurityAdvisories/2017/4010323)
+> - 出于安全考虑，Microsoft 已停用 SHA-1。[了解详细信息](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 从 2018 年 9 月的 16.17 发行版开始，此信息也适用于 Office 2019 for Mac，这是 Office for Mac 的一个版本，可从零售商店或通过批量许可协议进行一次性购买。
 > - 16.16 和更早版本的更新历史记录信息也适用于 Office 2016 for Mac，它也是 Office for Mac 的一种版本，可一次性购买。可以使用 Office 2016 for Mac 批量许可证激活 16.16 版本之前（包括 16.16）的较旧版本。无法使用 Office 2016 for Mac 批量许可证激活版本 16.17 或更高版本。有关从 9 月开始的 Office 2016 for Mac 发行版的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)
 > - 有关指定版本的 Office for Mac 中包含的功能、安全更新和非安全更新的信息，请参阅 [Office for Mac 发行说明](release-notes-office-for-mac.md)。
@@ -54,7 +54,7 @@ ms.locfileid: "39962259"
 
 下表提供了有关 IT 专业人员可能感兴趣的 Microsoft 提供的适用于其他 Mac 程序的最新程序包的信息，其中包括下载链接。创建日期在版本号后以 YYMMDD 格式在括号中列出。
 
-**注意：** Microsoft 自动更新 (MAU) 发布信息已移至“[MAU 发布历史记录](https://docs.microsoft.com/zh-CN/officeupdates/release-history-microsoft-autoupdate)”页面。<br/><br/>
+**注意：** Microsoft 自动更新 (MAU) 发布信息已移至“[MAU 发布历史记录](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate)”页面。<br/><br/>
 
   
 |**程序**|**版本**|**程序包**|**详细信息**|**SHA-1/ SHA-256 哈希**|

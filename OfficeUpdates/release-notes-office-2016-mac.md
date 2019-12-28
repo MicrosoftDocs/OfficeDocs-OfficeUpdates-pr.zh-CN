@@ -10,19 +10,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供自 2018 年 9 月开始的 Office 2016 for Mac 发行版的发行说明
-ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2d001ad0d7ef43ef5484267f16b5c388a146cb23
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962209"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889277"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Office 2016 for Mac 的更新历史记录
 
 Office 2016 for Mac 是通过零售商店或批量许可协议获得的一次性购买的 Office 版本。2020 年 10 月 13 日前，根据需要，此版本受到安全更新和 bug 修补程序支持。Office 2016 for Mac 支持的最低 macOS 版本是 10.10 (Yosemite)。
 
 > [!NOTE]
-> - 出于安全考虑，Microsoft 已停用 SHA-1。[了解详细信息](https://docs.microsoft.com/zh-CN/security-updates/SecurityAdvisories/2017/4010323)
+> - 出于安全考虑，Microsoft 已停用 SHA-1。[了解详细信息](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 有关 2018 年 9 月之前的 Office 2016 for Mac 发行版的发行说明，请参阅 [Office for Mac 发行说明](release-notes-office-for-mac.md)。  
 > - 有关 Office for Mac 的发行版信息（Office 365 订阅随附的版本），请参阅 Office for Mac 的[发行说明](release-notes-office-for-mac.md)和[更新历史记录](update-history-office-for-mac.md)。
 > - Office 2019 for Mac 是最新的一次性购买版本。有关 Office 2019 for Mac 的发行信息，请参阅 Office for Mac 的[发行说明](release-notes-office-for-mac.md)和[更新历史记录](update-history-office-for-mac.md)。
