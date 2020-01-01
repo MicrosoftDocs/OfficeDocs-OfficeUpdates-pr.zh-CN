@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 3e02226778b4ffb8b3d57361fcd0b6cff86820d5
-ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
+ms.openlocfilehash: f11cd846890d876eede81090df2ea718022bb3f9
+ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889297"
+ms.lasthandoff: 12/31/2019
+ms.locfileid: "40918438"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,37 @@ ms.locfileid: "40889297"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-1912-december-30"></a>版本 1912：12 月 30 日
+*版本 1912（内部版本 12325.20240）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **将上下文和 SVG 对象一起显示！：** 现在，你可以在 Office 中转换这些对象时保留地图、图表和其他 SVG 向量中的文本。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **将上下文和 SVG 对象一起显示！：** 现在，你可以在 Office 中转换这些对象时保留地图、图表和其他 SVG 向量中的文本。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- <div>解决了导致用户在检索云设置时在 Outlook 中遇到挂起的问题。</div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1912-december-19"></a>版本 1912：12 月 19 日
 *版本 1912（内部版本 12325.20214）*
