@@ -4,31 +4,28 @@
 ## [更新历史记录（按日期）](update-history-office365-proplus-by-date.md)
 ## [更新大小](download-sizes-office365-proplus-updates.md)
 
-
 ## 每月频道
+### [2020 年](monthly-channel-2020.md)
 ### [2019 年](monthly-channel-2019.md)
 ### [2018 年](monthly-channel-2018.md)
 ### [2017 年](monthly-channel-2017.md)
-### [2016 年](monthly-channel-2016.md)
-
 
 ## 半年频道
+### [2020 年](semi-annual-channel-2020.md)
 ### [2019 年](semi-annual-channel-2019.md)
 ### [2018 年](semi-annual-channel-2018.md)
 ### [2017 年](semi-annual-channel-2017.md)
-### [2016 年](semi-annual-channel-2016.md)
 
-## 半年频道（定向）
+## 半年频道（已设定目标）
+### [2020 年](semi-annual-channel-targeted-2020.md)
 ### [2019 年](semi-annual-channel-targeted-2019.md)
 ### [2018 年](semi-annual-channel-targeted-2018.md)
 ### [2017 年](semi-annual-channel-targeted-2017.md)
-### [2016 年](semi-annual-channel-targeted-2016.md)
-
 
 ## Office 预览体验成员计划  
 ### [预览体验成员频道的更新历史记录](update-history-office-insider.md)
 ### [每月频道（定向）的更新历史记录](update-history-monthly-channel-targeted.md)
-###[预览体验成员频道的发行说明](release-notes-office-insider.md)
+### [预览体验成员频道的发行说明](release-notes-office-insider.md)
 ### [每月频道（定向）的发行说明](release-notes-monthly-channel-targeted.md)
 
 ## [ODT 发布历史记录](ODT-release-history.md)
