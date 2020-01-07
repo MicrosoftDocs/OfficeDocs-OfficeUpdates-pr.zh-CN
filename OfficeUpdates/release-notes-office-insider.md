@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
-ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
+ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
+ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019848"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40951090"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,41 @@ ms.locfileid: "40019848"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2001-january-03"></a>版本 2001：1 月 3 日
+*版本 2001（内部版本 12425.20000）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="excel"></a>Excel
+- 某些边框线可能无法在 A4 大小的纸张上按预期打印。
+- 如果使用 VBA 向工作表上图表对象的页眉/页脚添加图像，则可能导致错误。
+- 设置图表坐标轴的格式时，标签之前的间隔限制为 255。
+- 解决了尝试刷新 XML 查询时出错（其中数据源的 URL 遭到截断）的问题。
+- 工作簿统计信息会报告所有打开的工作簿（包括个人宏工作簿）中的宏计数。
+
+### <a name="outlook"></a>Outlook
+- 切换文件夹可能导致邮件列表/邮件预览中“闪现”短暂的空白。 此行为在深色模式下更明显。
+
+### <a name="powerpoint"></a>PowerPoint
+- 解决了调用 Shape.Paste 方法会导致粘贴的形状被置于焦点之下的问题。&nbsp;
+- 改进了复制粘贴方案：&nbsp;以编程方式复制 PowerPoint 幻灯片中的形状并将其粘贴到循环中的其他幻灯片会失败并出现异常错误。&nbsp;
+- 在折叠和展开节标题后，幻灯片的节标题中的动画无法正常呈现。
+
+### <a name="project"></a>Project
+- 解决了文本环绕在文本和资源使用情况视图中不起作用的问题。
+- 解决了如果某资源有多个成本费率，则分配上的成本值可能不正确的问题。
+
+### <a name="word"></a>Word
+- 如果在公式中插入控件（例如文本内容控件），然后保存再打开文件，则会导致“内容不可读”错误。
+- 共同创作时，Word 桌面版中可能不会显示使用 Word Online 添加批注的功能。
+
+### <a name="office-suite"></a>Office 套件
+- 尝试在只有一个许可证的情况下更改许可证时，不再显示对有效许可证而言错误的过期日期。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2001-december-13"></a>版本 2001：12 月 13 日
 *版本 2001（内部版本 12410.20000）*
@@ -232,7 +267,7 @@ ms.locfileid: "40019848"
 - **选择 Surface 触控笔时查看触控笔选项：** 首次在 Word、Excel 或 PowerPoint 中选取 Surface 触控笔时，将激活“绘图”选项卡，以轻松选择笔颜色。
 
 ### <a name="visio"></a>Visio
-- **在 Excel 中制作精美的 Visio 图表：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解详细信息](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)。
+- **在 Excel 中制作精美的 Visio 图表：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解详细信息](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)。
 
 ### <a name="word"></a>Word
 - **选择 Surface 触控笔时查看触控笔选项：** 首次在 Word、Excel 或 PowerPoint 中选取 Surface 触控笔时，将激活“绘图”选项卡，以轻松选择笔颜色。
@@ -294,7 +329,7 @@ ms.locfileid: "40019848"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="visio"></a>Visio
 
-- **在 Excel 中制作精美的 Visio 图表：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解更多](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中制作精美的 Visio 图表：** 在 Excel 中快速轻松地将数据可视化为精美的 Visio 图表。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -513,7 +548,7 @@ ms.locfileid: "40019848"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **数据可视化工具加载项：** 从 Excel 中快速创建 Visio 流程图。 [了解更多](https://support.office.com/zh-CN/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **数据可视化工具加载项：** 从 Excel 中快速创建 Visio 流程图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -709,15 +744,15 @@ ms.locfileid: "40019848"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解更多](https://support.office.com/zh-CN/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解详细信息](https://support.office.com/zh-CN/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="word"></a>Word
 
-- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解详细信息](https://support.office.com/zh-CN/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -768,7 +803,7 @@ ms.locfileid: "40019848"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解详细信息](https://support.office.com/zh-CN/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解详细信息](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -1240,7 +1275,7 @@ ms.locfileid: "40019848"
 - **更快的文件共享**：直接从最近使用的文件列表中共享文档，而无需打开文件。
 ### <a name="powerpoint"></a>PowerPoint
 
-- **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 [了解更多](https://support.office.com/zh-CN/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **“在讲义中打印幻灯片编号”设置已移至打印菜单，便于访问：** 选择讲义布局时，在“打印”>“打印布局”下拉菜单中选择它。 这也使得可以根据演示文稿轻松切换设置。 [了解更多](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
 
@@ -1488,7 +1523,7 @@ ms.locfileid: "40019848"
 
 #### <a name="open-document-links-in-word"></a>在 Word 中打开文档链接
 
-单击 Office 中的文档链接时，可更新要在 Word 应用中的默认打开的首选项。  要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+单击 Office 中的文档链接时，可更新要在 Word 应用中的默认打开的首选项。  要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>开始使用：
 
@@ -1509,7 +1544,7 @@ ms.locfileid: "40019848"
 
 #### <a name="open-presentation-links-in-powerpoint"></a>在 PowerPoint 中打开演示文稿链接
 
-单击 Office 中的演示文稿链接时，可更新要在 PowerPoint 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+单击 Office 中的演示文稿链接时，可更新要在 PowerPoint 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>开始使用：
 
@@ -1530,7 +1565,7 @@ ms.locfileid: "40019848"
 
 #### <a name="open-workbook-links-in-excel"></a>在 Excel 中打开工作簿链接
 
-单击 Office 中的工作簿链接时，可更新要在 Excel 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+单击 Office 中的工作簿链接时，可更新要在 Excel 应用中的默认打开的首选项。 要更新首选项，请转到“文件”->“选项”->“高级”->“链接处理”。 了解详细信息：https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>开始使用：
 
