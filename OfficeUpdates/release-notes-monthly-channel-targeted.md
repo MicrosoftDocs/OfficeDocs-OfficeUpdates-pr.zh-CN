@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: f11cd846890d876eede81090df2ea718022bb3f9
-ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
+ms.openlocfilehash: a2831cbc12f916c5678aab32f4cd6b6cd96c4008
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/31/2019
-ms.locfileid: "40918438"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961639"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -27,6 +27,20 @@ ms.locfileid: "40918438"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-1912-january-06"></a>版本1912：1月 6 日
+*版本 1912（内部版本 12325.20264）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
