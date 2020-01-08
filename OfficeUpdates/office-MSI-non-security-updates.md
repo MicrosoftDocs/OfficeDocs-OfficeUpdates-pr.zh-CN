@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/04/2019
+ms.date: 1/08/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
-ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
+ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39678644"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961649"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
@@ -26,6 +26,21 @@ ms.locfileid: "39678644"
 > - 本文中的信息并不适用于 Office 的 Office 365 版本（例如 Office 365 专业增强版）。
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="january-7-2020"></a>2020 年 1 月 7 日
+
+**Office 2016**<br/>
+Microsoft Office 2016 的更新 ([KB4464586](https://support.microsoft.com/help/4464586)) <br/>
+Microsoft Office 2016 的更新 ([KB4484168](https://support.microsoft.com/help/4484168)) <br/>
+Microsoft Office 2016 的更新 ([KB4484218](https://support.microsoft.com/help/4484218)) <br/>
+Microsoft Outlook 2016 的更新 ([KB4484212](https://support.microsoft.com/help/4484212)) <br/>
+Microsoft PowerPoint 2016 的更新 ([KB4484216](https://support.microsoft.com/help/4484216)) <br/>
+Microsoft Project 2016 的更新 ([KB4484140](https://support.microsoft.com/help/4484140)) <br/>
+Microsoft Visio 2016 的更新 ([KB4464575](https://support.microsoft.com/help/4464575)) <br/>
+Microsoft Visio Viewer 2016 的更新（[KB2920709](https://support.microsoft.com/help/2920709)） <br/>
+Microsoft Word 2016 的更新 ([KB4484219](https://support.microsoft.com/help/4484219)) <br/>
+Skype for Business 2016 的更新 ([KB4484213](https://support.microsoft.com/help/4484213)) <br/>
+
 
 ## <a name="december-3-2019"></a>2019 年 12 月 3 日
 
