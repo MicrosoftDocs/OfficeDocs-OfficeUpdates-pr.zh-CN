@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 711d56e0913927699e4b7c540234c8fcb2a81117
-ms.sourcegitcommit: 6c188ffae94a3d20e2b20007038b6484e18bae14
+ms.openlocfilehash: 4601c2385421b75a667f95ac1e4694e2f8a904f5
+ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987367"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995582"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -30,6 +30,9 @@ ms.locfileid: "40987367"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+**2020 年 1 月 8 日**<br/>
+版本 1912（内部版本 12325.20288）<br/>
 
 **2020 年 1 月 7 日**<br/>
 版本 1912（内部版本 12325.20280）<br/>
