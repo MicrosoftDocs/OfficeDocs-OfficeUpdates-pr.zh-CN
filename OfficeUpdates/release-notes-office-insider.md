@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
-ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
+ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
+ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40951090"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "41022047"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,38 @@ ms.locfileid: "40951090"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2001-january-10"></a>版本 2001：1 月 10 日
+*版本 2001（内部版本 12430.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+- **在 Windows 中，用户现在可以将 Word/Excel/Outlook 中的对象另存为图片：** 通过 PowerPoint 中已有的功能，用户现在可以将 Word、Excel 和 Outlook 中的对象另存为图片。 对象包括形状、图标、图片等！ 可以通过右键单击菜单访问它。
+
+### <a name="word"></a>Word
+- **通过在对象周围绘制形状轻松选择 Word 中的墨迹：**“绘图”选项卡上的套索工具可以帮助你选择使用墨迹绘制的对象。 选择单独的笔划或整个字。 当你拥有大量墨迹并且只想使用其中的一部分时，这就非常方便。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="onenote"></a>OneNote
+- 页面选项卡可能显示太小，并且以 100% 分辨率紧密排列在一起。
+
+### <a name="word"></a>Word
+- 在大量备注中，删除靠近备注列表末尾的备注可能会导致窗格一直滚动至顶部。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2001-january-03"></a>版本 2001：1 月 3 日
 *版本 2001（内部版本 12425.20000）*
