@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
-ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
+ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39982262"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122291"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -33,6 +33,45 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 
 
+[//]: # (请勿移除)
+
+
+## <a name="january-14-2020"></a>2020 年 1 月 14 日
+*版本 16.33（内部版本 20011301）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **键入可返回多个值的公式：** 现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解更多](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **在 Mac 上使用 VBA 创建和管理查询：** 使用 VBA 在 Mac 上创建并管理 Power Query 查询。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+### <a name="word"></a>Word
+
+- **内置辅助功能：High Sierra 支持：** 我们在转子中增加了对 High Sierra 的支持，包括语言、链接和表格，同时改进了查找支持。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="security-updates"></a>安全更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0651)
+
+[//]: # (请勿移除安全详细信息内容结尾)
 
 ## <a name="december-10-2019"></a>2019 年 12 月 10 日
 *版本 16.32（内部版本 19120802）*

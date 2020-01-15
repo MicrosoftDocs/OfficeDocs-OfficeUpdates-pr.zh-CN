@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 6e0b9a578a8ed68c693ec254ddd304bfbcd9a85e
-ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
+ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995552"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122001"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -30,35 +30,35 @@ ms.locfileid: "40995552"
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
+## <a name="version-2001-january-14"></a>版本 2001：1 月 14 日
+*版本 2001（内部版本 12430.20050）*
+
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+
 ## <a name="version-1912-january-08"></a>版本 1912：1 月 8 日
 *版本 1912（内部版本 12325.20288）*
 
 ## <a name="version-1912-january-07"></a>版本 1912：1 月 7 日
 *版本 1912（内部版本 12325.20280）*
 
-
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
 
-- <div>解决了在某些情况下导致用户看到电子邮件发送地址与显示的 SMTP 地址不匹配的问题。</div>
-
-
+- 解决了在某些情况下导致用户看到电子邮件发送地址与显示的 SMTP 地址不匹配的问题。</div>
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1912-january-06"></a>版本1912：1月 6 日
 *版本 1912（内部版本 12325.20264）*
 
-
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
-
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 

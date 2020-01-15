@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 6bbaffa6d39dae9f4a35ad382fd7f6ec4efd8b7c
-ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
+ms.openlocfilehash: df1e3c5c12943e5cc6474d50200c329689b9af25
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995532"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122351"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -31,10 +31,11 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1912<br/>|12325.20288<br/>|2020 年 1 月 8 日<br/>|版本 2001 已发布<br/>|
-|半年（定向）<br/>|1908<br/>|11929.20516<br/>|2019 年 12 月 10 日<br/>|2020 年 3 月 10 日<br/>|
-|半年<br/>|1902<br/>|11328.20492<br/>|2019 年 12 月 10 日<br/>|2020 年 9 月 8 日<br/>|
-|半年<br/>|1808<br/>|10730.20426<br/>|2019 年 12 月 10 日<br/>|2020 年 3 月 10 日<br/>|
+|每月<br/>|1912<br/>|12325.20298<br/>|2020 年 1 月 14 日<br/>|版本 2001 已发布<br/>|
+|半年（定向）<br/>|1908<br/>|11929.20562<br/>|2020 年 1 月 14 日<br/>|2020 年 3 月 10 日<br/>|
+|半年<br/>|1908<br/>|11929.20562<br/>|2020 年 1 月 14 日<br/>|2021 年 3 月 9 日<br/>|
+|半年<br/>|1902<br/>|11328.20512<br/>|2020 年 1 月 14 日<br/>|2020 年 9 月 8 日<br/>|
+|半年<br/>|1808<br/>|10730.20432<br/>|2020 年 1 月 14 日<br/>|2020 年 3 月 10 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -46,7 +47,8 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**Year**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2020|1 月 8 日|[版本 1912（内部版本 12325.20288）](monthly-channel-2020.md#version-1912-january-8)| | |
+|2020 年|1 月 14 日|[版本 1912（内部版本 12325.20298 ）](monthly-channel-2020.md#version-1912-january-14) |[版本 1908（内部版本 11929.20562）](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[版本 1908（内部版本 11929.20562）](semi-annual-channel-2020.md#version-1908-january-14)<br/>[版本 1902（内部版本 11328.20512）](semi-annual-channel-2020.md#version-1902-january-14)<br/>[版本 1808（内部版本 10730.20432）](semi-annual-channel-2020.md#version-1808-january-14)|
+|2020 年|1 月 8 日|[版本 1912（内部版本 12325.20288）](monthly-channel-2020.md#version-1912-january-8)| | |
 |2019 年|12 月 10 日|[版本 1911（内部版本 12228.20364）](monthly-channel-2019.md#version-1911-december-10)|[版本 1908（内部版本 11929.20516）](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[版本 1902（内部版本 11328.20492）](semi-annual-channel-2019.md#version-1902-december-10)<br/>[版本 1808（内部版本 10730.20426）](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019 年|12 月 3 日|[版本 1911（内部版本 12228.20332）](monthly-channel-2019.md#version-1911-december-3)| | |
 |2019 年|11 月 22 日|[版本 1910（内部版本 12130.20410）](monthly-channel-2019.md#version-1910-november-22)|[版本 1908（内部版本 11929.20494）](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[版本 1902（内部版本 11328.20480）](semi-annual-channel-2019.md#version-1902-november-22)<br/>[版本 1808（内部版本 10730.20422）](semi-annual-channel-2019.md#version-1808-november-22)|

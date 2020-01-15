@@ -3,7 +3,7 @@ title: SharePoint 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在一个位置集中查找和管理 SharePoint Server 2016、SharePoint 2013 和 SharePoint 2010 更新。单击此页面上的链接可以获取这些更新的详细信息，并下载它们。
-ms.openlocfilehash: a726b1a103d0956d966c60cfbb334f4a7de71678
-ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
+ms.openlocfilehash: b5339212a08b66511019808167dcd5b5d47d1584
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889327"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122331"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -33,6 +33,7 @@ ms.locfileid: "40889327"
 
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019  <br/>  |[KB 4484224](https://support.microsoft.com/help/4484224)  <br/> |16.0.10354.20001|2020 年 1 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |[KB 4484177](https://support.microsoft.com/help/4484177) <br/> [KB 4484176](https://support.microsoft.com/help/4484176) <br/> |16.0.10353.20001|2019 年 12 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |[KB 4484142](https://support.microsoft.com/help/4484142) <br/> [KB 4484149](https://support.microsoft.com/help/4484149) <br/> |16.0.10352.20000|2019 年 11 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/语言修补程序  <br/> |[KB 4484110](https://support.microsoft.com/help/4484110) <br/> [KB 4484109](https://support.microsoft.com/help/4484109) <br/> |16.0.10351.20000|2019 年 10 月  <br/> |
@@ -51,6 +52,7 @@ ms.locfileid: "40889327"
 
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4484215](https://support.microsoft.com/help/4484215) <br/> [KB 4484220](https://support.microsoft.com/help/4484220) <br/> |16.0.4954.1000  |2020 年 1 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4484178](https://support.microsoft.com/help/4484178) <br/> [KB 4484181](https://support.microsoft.com/help/4484181) <br/> |16.0.4939.1000  |2019 年 12 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4484143](https://support.microsoft.com/help/4484143) <br/> [KB 4484147](https://support.microsoft.com/help/4484147) <br/> |16.0.4927.1000  |2019 年 11 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4484111](https://support.microsoft.com/help/4484111) <br/> [KB 4484115](https://support.microsoft.com/help/4484115) <br/> |16.0.4912.1000  |2019 年 10 月  <br/> |
@@ -111,6 +113,7 @@ ms.locfileid: "40889327"
     
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484228](https://support.microsoft.com/help/4484228) <br/> [KB 4484232](https://support.microsoft.com/help/4484232) <br/> |15.0.5207.1000  |2020 年 1 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484185](https://support.microsoft.com/help/4484185) <br/> [KB 4484188](https://support.microsoft.com/help/4484188) <br/> |15.0.5197.1000  |2019 年 12 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484153](https://support.microsoft.com/help/4484153) <br/> [KB 4484155](https://support.microsoft.com/help/4484155) <br/> |15.0.5189.1000  |2019 年 11 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484118](https://support.microsoft.com/help/4484118) <br/> [KB 4484121](https://support.microsoft.com/help/4484121) <br/> |15.0.5179.1000  |2019 年 10 月  <br/> |
