@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
-ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
+ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
+ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "41022047"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41230080"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,37 @@ ms.locfileid: "41022047"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2002-january-17"></a>版本 2002：1 月 17 日
+*版本 2002（内部版本 12508.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **提及 和评论通知电子邮件现在包含预览：** 提及的电子邮件通知评论将立即包含评论文本和所引用上下文的预览。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 在某些情况中，辅助功能检查器不会显示形状建议。
+
+### <a name="outlook"></a>Outlook
+
+- 保存在左侧导航窗格“收藏夹”中的文件夹可能间歇消失。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了在 PowerPoint 墨迹动画中使用时，墨迹可能无法完全呈现或跳过的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2001-january-10"></a>版本 2001：1 月 10 日
 *版本 2001（内部版本 12430.20000）*

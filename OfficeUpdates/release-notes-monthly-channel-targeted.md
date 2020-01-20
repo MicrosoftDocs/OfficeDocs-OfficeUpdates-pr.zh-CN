@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
+ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122001"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41231855"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,24 @@ ms.locfileid: "41122001"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2001-january-17"></a>版本 2001：1 月 17 日
+*版本 2001（内部版本 12430.20120）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **通过在对象周围绘制形状轻松选择 Word 中的墨迹：**“绘图”选项卡上的套索工具可以帮助你选择使用墨迹绘制的对象。 选择单独的笔划或整个字。 当你拥有大量墨迹并且只想使用其中的一部分时，这就非常方便。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 对于使用内置版本 12430.20050 并运行 32 位 Excel 的用户，非英语版本 2001 的Excel 客户端在多个情景中会出现问题（如打印、宏执行、缩放…）。 
 
 ## <a name="version-2001-january-14"></a>版本 2001：1 月 14 日
 *版本 2001（内部版本 12430.20050）*
