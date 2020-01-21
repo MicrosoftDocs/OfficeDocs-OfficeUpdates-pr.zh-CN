@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: d91f3ed15a726c96891eee51e4b53de4db71928b
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 0b31c340e651f3a2862c7fa996c060ce86b5a724
+ms.sourcegitcommit: 8c07d6182c66a7ea9e44d0bb7550a7a1d44877eb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122261"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "41214536"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -39,6 +39,8 @@ ms.locfileid: "41122261"
 - **密切关注数据库对象：** 可以清楚地看到活动选项卡，轻松拖动选项卡以重新排列它们，并且只需单击一下即可关闭数据库对象。
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **缩放更多空间：** 让缩放框变大，更改字体，缩放功能会记住一切。 [了解详细信息](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 ### <a name="excel"></a>Excel
 
@@ -80,8 +82,6 @@ ms.locfileid: "41122261"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **平滑切换增强功能：** 获得完美的切换效果。 切换效果更平滑的 SmartArt 和表格平滑
-
 - **切换效果更好：** 对形状命名，以更好地掌控其平滑效果。 [了解更多](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
@@ -118,7 +118,7 @@ ms.locfileid: "41122261"
 
 ### <a name="word"></a>Word
 
-- **向页面添加颜色：** 新页面颜色意味着如果全白或全黑背景不适合你，则可以轻松更改它。
+- **“学习工具”模式可额外支持更多页面颜色：** Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。 许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
 
 - **使用笔迹编辑器随心编辑：** 使用单个笔划、拆分或连接字词、添加新行或使用手写笔插入字词。[了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
@@ -146,7 +146,9 @@ ms.locfileid: "41122261"
 
 - **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。
+- **Office 图标具有新的外观：** Office 图标经过重新设计，以体现简单、强大和智能的 Office 体验。
+
+- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
