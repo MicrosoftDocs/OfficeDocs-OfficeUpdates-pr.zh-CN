@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关 Office 365 专业增强版的每月频道发布的发行说明2016
-ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023587"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629239"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016中的每月频道发布的发行说明
 
@@ -131,7 +131,7 @@ ms.locfileid: "40023587"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了以下问题：使用 VBA 窗体可能会导致框架的 z 顺序无法正常运行或显示。
--   修复了以下问题：System Center Configuration Manager 触发的更新将注册表中的 UpdateChannel 设置更改为无效的更新频道设置。
+-   修复了以下问题：配置管理器触发的更新将注册表中的 UpdateChannel 设置更改为不是有效更新通道的内容。
 
 
 

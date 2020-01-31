@@ -1,5 +1,5 @@
 ---
-title: 2016中的半年频道 (定向) 发布的发行说明
+title: 2016中的半年频道（定向）发布的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供针对 Office 365 专业增强版的半年频道 (定向) 发布的发行说明2016
-ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: 为 IT 专业人员提供针对 Office 365 专业增强版的半年频道（定向）发布的发行说明2016
+ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438997"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629229"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中的半年频道 (定向) 发布的发行说明
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中的半年频道（定向）发布的发行说明
 
-这些发行说明提供了有关在2016中的 Office 365 专业增强版的半年频道 (定向) 更新中包含的新功能、安全更新和非安全更新的信息。
+这些发行说明提供了有关在2016中的 Office 365 专业增强版的半年频道（定向）更新中包含的新功能、安全更新和非安全更新的信息。
  
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 半年频道 (定向) 在9月2017之前先为延期频道命名为第一版。
+> - 半年频道（定向）在9月2017之前先为延期频道命名为第一版。
 
-## <a name="version-1609-december-13"></a>版本 1609:12 月13日
+## <a name="version-1609-december-13"></a>版本1609：12月13日
 *版本 1609（内部版本 7369.2095）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -52,12 +52,12 @@ ms.locfileid: "32438997"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了以下问题：使用 VBA 窗体可能会导致框架的 z 顺序无法正常运行或显示。
--   修复了以下问题：System Center Configuration Manager 触发的更新将注册表中的 UpdateChannel 设置更改为无效的更新频道设置。
+-   修复了以下问题：配置管理器触发的更新将注册表中的 UpdateChannel 设置更改为不是有效更新通道的内容。
 -   修复了以下问题：使用 OneDrive 同步客户端将文件从 OneDrive for Business 站点同步到本地计算机时，保存通过 URL 打开的同步返回文件导致 Word、Excel 或 PowerPoint 挂起。
 
 
 
-## <a name="version-1609-november-8"></a>版本 1609:11 月8日
+## <a name="version-1609-november-8"></a>版本1609：11月8日
 *版本 1609（内部版本 7369.2055）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -68,7 +68,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1609-november-2"></a>版本 1609:11 月2日
+## <a name="version-1609-november-2"></a>版本1609：11月2日
 *版本 1609（内部版本 7369.2054）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -84,7 +84,7 @@ ms.locfileid: "32438997"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **更新了可视元素：** 更改了图标和颜色，以改进辅助功能。 [更多信息](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **将 ui 更新为 "共享":** 将 ui 元素中的 "现有" 更改为 "共享", 如将 "存在桌面" 更改为 "共享桌面" 和 "显示程序" 以 "共享窗口"。
+-   **将 ui 更新为 "共享"：** 将 ui 元素中的 "现有" 更改为 "共享"，如将 "存在桌面" 更改为 "共享桌面" 和 "显示程序" 以 "共享窗口"。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了以下问题：用户在迁移到 Exchange Online 后，无法通过连接 Exchange 来获取对话历史记录、联系人或语音邮件信息。
@@ -108,7 +108,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1609-october-11"></a>版本 1609:10 月11日
+## <a name="version-1609-october-11"></a>版本1609：10月11日
 *版本 1609（内部版本 7369.2038）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -163,7 +163,7 @@ ms.locfileid: "32438997"
 -   修复删除某个表将导致 OneNote 崩溃的问题。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   ** \@提到:** 确保收件人通过将 "@" 符号 (后跟人员姓名) 添加到 "电子邮件" 或 "日历" 项目的正文中, 从而知道要求输入或执行操作。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@提到：** 确保收件人通过将 "@" 符号（后跟人员姓名）添加到 "电子邮件" 或 "日历" 项目的正文中，从而知道要求输入或执行操作。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **旅游预订和行程的摘要卡：** 使用收件箱和日历中自动创建的摘要卡验证并跟踪旅游预订以及发送行程。 [更多信息](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加照片的微型预览**：将某个照片附加到电子邮件中时，Outlook 在邮件中显示该照片的微型预览。
 -   **恢复已删除的邮件链接：** 在“已删除邮件文件夹”中，“恢复最近从此文件夹删除的邮件”链接将显示在已删除邮件列表的上方，在选中该链接后，将打开“恢复已删除邮件”对话框。
@@ -295,7 +295,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1605-september-13"></a>版本 1605: 9 月13日
+## <a name="version-1605-september-13"></a>版本1605：9月13日
 *版本 1605（内部版本 6965.2084）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -330,7 +330,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1605-august-9"></a>版本 1605: 8 月9日
+## <a name="version-1605-august-9"></a>版本1605：8月9日
 *版本 1605（内部版本 6965.2076）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -354,7 +354,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1605-july-21"></a>版本 1605: 7 月21日
+## <a name="version-1605-july-21"></a>版本1605：7月21日
 *版本 1605（内部版本 6965.2069）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
@@ -369,7 +369,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1605-july-12"></a>版本 1605: 7 月12
+## <a name="version-1605-july-12"></a>版本1605：7月12
 *版本 1605（内部版本 6965.2066）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -389,7 +389,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1605-june-30"></a>版本 1605: 6 月30日
+## <a name="version-1605-june-30"></a>版本1605：6月30日
 *版本 1605（内部版本 6965.2063）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
@@ -414,11 +414,11 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1605-june-14"></a>版本 1605: 6 月14日
+## <a name="version-1605-june-14"></a>版本1605：6月14日
 *版本 1605（内部版本 6965.2058）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **获取 & 转换改进:** Power Query 的新的或改进的数据转换和数据连接功能。 [详细信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **获取 & 转换改进：** Power Query 的新的或改进的数据转换和数据连接功能。 [详细信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **其他数据连接：** 来源为 JSON 和 Azure SQL 数据仓库的查询数据。
 -   **Power Query 改进：** 改进和新增了数据转换和数据连接功能。 [更多信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **大地址感知支持：** 32 位版本的 Excel 可以使用更多内存（若有）。 [详细信息](https://support.microsoft.com/kb/3160741)
@@ -527,7 +527,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-june-7"></a>版本 1602: 6 月7日
+## <a name="version-1602-june-7"></a>版本1602：6月7日
 *版本 1602（内部版本 6741.2047）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
@@ -541,7 +541,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-may-23"></a>版本 1602: 5 月23日
+## <a name="version-1602-may-23"></a>版本1602：5月23日
 *版本 1602（内部版本 6741.2042）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
@@ -558,7 +558,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-may-10"></a>版本 1602: 5 月10日
+## <a name="version-1602-may-10"></a>版本1602：5月10日
 *版本 1602（内部版本 6741.2037）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -594,7 +594,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-may-3"></a>版本 1602: 5 月3
+## <a name="version-1602-may-3"></a>版本1602：5月3
 *版本 1602（内部版本 6741.2033）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -610,8 +610,8 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-april-12"></a>版本 1602: 4 月12日
-*版本 1602 (内部版本 6741.2026)*
+## <a name="version-1602-april-12"></a>版本1602：4月12日
+*版本1602（内部版本6741.2026）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-042](https://technet.microsoft.com/library/security/ms16-042)：Microsoft Office 安全更新程序 (3148775)
@@ -621,7 +621,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-april-4"></a>版本 1602: 4 月4日
+## <a name="version-1602-april-4"></a>版本1602：4月4日
 *版本 1602（内部版本 6741.2025）*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
@@ -629,7 +629,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-march-23"></a>版本 1602: 3 月23日
+## <a name="version-1602-march-23"></a>版本1602：3月23日
 *版本 1602（内部版本 6741.2021）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
@@ -637,7 +637,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-march-16"></a>版本 1602: 3 月16日
+## <a name="version-1602-march-16"></a>版本1602：3月16日
 *版本 1602（内部版本 6741.2017）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
@@ -645,7 +645,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-march-14"></a>版本 1602: 3 月14
+## <a name="version-1602-march-14"></a>版本1602：3月14
 *版本 1602（内部版本 6741.2015）*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
@@ -653,7 +653,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1602-march-8"></a>版本 1602: 3 月8日
+## <a name="version-1602-march-8"></a>版本1602：3月8日
 *版本 1602（内部版本 6741.2014）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
@@ -729,7 +729,7 @@ ms.locfileid: "32438997"
 -   修复了在“从”下拉列表中的项目不能完全以高对比度模式突出显示的问题。
 -   修复了在使用“SHIFT + 单击”选择多个附件时，仅选中第一个附件的问题。
 -   修复配置为使用 POP3 时在 Outlook 下载邮件后服务器上的所有邮件都从收件箱中删除的问题。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
--   修复了以下问题: 当配置为使用 POP3 时, 邮件会多次下载, 从而导致重复的项目。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
+-   修复了以下问题：当配置为使用 POP3 时，邮件会多次下载，从而导致重复的项目。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
 -   修复了用户无法访问驻留在 Exchange Server 2010 上的公用文件夹的问题。
 -   修复了在高 DPI 设备和普通 DPI 监视器之间发送邮件时显示图像大小错误的问题。
 -   修复在消息列表中拖动滚动条导致列表跳到末尾的问题。
@@ -743,7 +743,7 @@ ms.locfileid: "32438997"
 -   **Morph 转换：** 在幻灯片之间创建无缝转换并为演示文稿添加动画功能，以便更有效地传达概念和信息。 [详细信息](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 设计器：** 允许您提取内容并自动生成各种想法，使您可从中选择以使您的幻灯片效果更佳的新服务。 [更多信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    此服务需要 Internet 连接。 若要禁用此功能, 请[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)并启用 PowerPoint 设计器选项设置。 可以在 "用户配置\\管理模板\\" 下找到此策略设置 Microsoft\\Office 2016 Tools |选项 |常规 |服务选项 .。。\\PowerPoint 设计器。
+    此服务需要 Internet 连接。 若要禁用此功能，请[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)并启用 PowerPoint 设计器选项设置。 可以在 "用户配置\\管理模板\\" 下找到此策略设置 Microsoft\\Office 2016 Tools |选项 |常规 |服务选项 .。。\\PowerPoint 设计器。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
 -   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
@@ -834,7 +834,7 @@ ms.locfileid: "32438997"
 -   **“文件”\>“打开”中的排序功能：** 在除 Outlook 之外的所有应用中，可以在“文件”\>“打开”中按名称或修改日期排序。对于 Word、Excel 和 PowerPoint，还可以在“文件”\>“另存为”中进行排序。
 -   **“文件”\>“另存为”中的文件夹浏览功能：** 对于 OneDrive 文件夹、OneDrive for Business 文件夹和计算机，可在 Word、Excel 和 PowerPoint 中的“文件”\>“另存为”中使用完整文件夹导航。
 -   **代理发送选项：** 在 Word 或 PowerPoint 中从“共享”窗格将文档作为附件或 PDF 发送。
--   **插入图片 API:** 使用通用的 document.setselecteddataasync 库中的[document 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)将图像插入到 Word、Excel 或 PowerPoint 中。 Word JavaScript API 提供主机特定的方法（称为 insertInlinePictureFromBase64()），用于在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx),[ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range对象上设置内联图片。
+-   **插入图片 API：** 使用通用的 Document.setselecteddataasync 库中的[document 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)将图像插入到 Word、Excel 或 PowerPoint 中。 Word JavaScript API 提供主机特定的方法（称为 insertInlinePictureFromBase64()），用于在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx),[ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range对象上设置内联图片。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
@@ -882,7 +882,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1509-february-9"></a>版本 1509: 2 月9日
+## <a name="version-1509-february-9"></a>版本1509：2月9日
 *版本 1509（内部版本 6001.1061）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -893,7 +893,7 @@ ms.locfileid: "32438997"
 
 
 
-## <a name="version-1509-january-12"></a>版本 1509:12 月12日
+## <a name="version-1509-january-12"></a>版本1509：12月12日
 *版本 1509（内部版本 6001.1054）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新

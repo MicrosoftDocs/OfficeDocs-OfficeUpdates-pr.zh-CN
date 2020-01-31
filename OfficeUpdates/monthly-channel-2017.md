@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关 Office 365 专业增强版的每月频道发布的发行说明2017
-ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
-ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
+ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37375818"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629249"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017中的每月频道发布的发行说明
 
@@ -72,7 +72,7 @@ ms.locfileid: "37375818"
 -   **快速访问网站和组：** 使用“文件”菜单处理常用网站和组中存储的文档。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
--   启用 Office COM 对象时，“文件 \> 帐户 \> 更新选项”中的“立即更新”选项处于隐藏状态，以便 System Center Configuration Manager 能够管理 Office 365 客户端更新。
+-   当 Office COM 对象启用时，" \>立即\>更新" 选项在 "文件帐户更新选项" 中是隐藏的，以便由 Configuration Manager 管理 office 365 客户端更新。
 
 
 ## <a name="version-1710-november-27"></a>版本1710：11月27日

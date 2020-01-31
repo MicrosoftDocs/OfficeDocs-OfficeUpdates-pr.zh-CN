@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: 97bc297241699a8f919b7a023b42e521009ebc23
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: a825a162ce2854faac8ad67e6bc4fd2fa8485ff8
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122231"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629311"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
   
@@ -127,26 +127,6 @@ ms.locfileid: "41122231"
 |2017 年 3 月 14 日  <br/> |15.32.0 (17030901)  <br/> ||
 |2017 年 2 月 16 日  <br/> |15.31.0 (17021600)  <br/> ||
 |2017 年 1 月 11 日  <br/> |15.30.0 (17010700)  <br/> ||
-|2016 年 12 月 15 日  <br/> |15.29.1 (16121500)  <br/> ||
-|2016 年 12 月 13 日  <br/> |15.29.0 (16120900)  <br/> ||
-|2016 年 11 月 17 日  <br/> |15.28.0 (16111700)  <br/> ||
-|2016 年 11 月 15 日  <br/> |15.28.0 (16111501)  <br/> ||
-|2016 年 11 月 15 日  <br/> |15.28.0 (161113)  <br/> ||
-|2016 年 10 月 11 日  <br/> |15.27.0 (161010)  <br/> |<!---[KB 3193438](https://support.microsoft.com/kb/3193438) <br/> -->|||
-|2016 年 9 月 16 日  <br/> |15.26.1 (160916)  <br/> |<!---Public folder fix for Outlook  <br/> -->|||
-|2016 年 9 月 13 日  <br/> |15.26.0 (160910)  <br/> |<!---[KB 3186807](https://support.microsoft.com/kb/3186807) <br/> -->|||
-|2016 年 8 月 26 日  <br/> |15.25.1 (160826)  <br/> |<!---Macro fix for Excel  <br/> --> |||
-|2016 年 8 月 22 日  <br/> |15.25.0 (160817)  <br/> |<!---[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> -->|||
-|2016 年 8 月 22 日  <br/> |15.25.0 (160818)  <br/> |<!---[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> --> |||
-|2016 年 7 月 12 日  <br/> |15.24.0 (160709)  <br/> |<!---[KB 3170460](https://support.microsoft.com/kb/3170460) <br/> -->|||
-|2016 年 6 月 25 日  <br/> |15.23.2 (160624)  <br/> |<!---MRU service hotfix  <br/> -->|||
-|2016 年 6 月 18 日  <br/> |15.23.1 (160617)  <br/> |<!---Japanese macro hotfix  <br/> --> |||
-|2016 年 6 月 14 日  <br/> |15.23.0 (160611)  <br/> |<!---[KB 3165798](https://support.microsoft.com/kb/3165798) <br/> -->|||
-|2016 年 5 月 13日  <br/> |15.22.1 (160512)  <br/> |<!---EndNote compatibility fix  <br/> --> |||
-|2016 年 5 月 10 日  <br/> |15.22.0 (160506)  <br/> |<!---[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> -->|||
-|2016 年 4 月 12 日  <br/> |15.21.1 (160411)  <br/> |<!---[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> -->|||
-|2016 年 3 月 16 日  <br/> |15.20.0 (160315)  <br/> |<!---[KB 3138327](https://support.microsoft.com/kb/3138327) <br/> --> |||
-|2016 年 2 月 16 日  <br/> |15.19.1 (160212)  <br/> |<!---[KB 3134241](https://support.microsoft.com/kb/3134241) <br/> -->|||
-|2016 年 1 月 12 日  <br/> |15.18.0 (160109)  <br/> |<!---[KB 3133711](https://support.microsoft.com/kb/3133711) <br/> -->|||
+
 
 [//]: # (请勿移除历史记录内容结尾)

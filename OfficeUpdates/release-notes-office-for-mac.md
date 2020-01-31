@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea7f2bd55b0aa1088eec2219b562f28b83985a2f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122291"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629212"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -483,8 +483,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/>  **保留文本的外观：** 嵌入字体，确保文档文本在每一台计算机上都显示相同的外观。不会再出现问题！[了解详细信息](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**在文档中查看嵌入字体：** 允许在 Mac Word 中呈现文件中嵌入的字体。<br/><br/>**焦点模式可调用状态栏：** 在焦点模式下，可以通过可调用状态栏更轻松地查看字数统计和访问缩放控件。<br/><br/>**通过焦点模式获得更多便利：** 我们了解你的需求！ 现在，焦点模式会在设置的缩放级别打开，并且在滚动时也会显示页码。| |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。 需要 macOS Mojave。 <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 远程代码执行漏洞 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 信息泄漏漏洞 |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|Powerpoint  <br/>| **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。 需要 macOS Mojave。 <br/><br/>  **从 iPhone 快速切换到 PowerPoint：** 使用 Apple 连续互通相机将 iPhone 中的照片插入你的幻灯片中。需要 macOS Mojave。[了解详细信息](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 远程代码执行漏洞 <br/>|[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 远程代码执行漏洞 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 信息泄漏漏洞 |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|Powerpoint  <br/>| **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/>  **从 iPhone 快速切换到 PowerPoint：** 使用 Apple 连续互通相机将 iPhone 中的照片插入你的幻灯片中。需要 macOS Mojave。[了解详细信息](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 远程代码执行漏洞 <br/>|[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/>  **共享日历：** 与家人、朋友和同事共享日历。在 Mac、PC 或云版 Outlook 中打开与你共享的日历。[了解详细信息](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **禁止会议转发：** 阻止与会者将会议转发给其他人。[了解详细信息](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **使用 Teams 连接到会议：** 需要与团队远程协作？使用 Outlook 中的 Teams 安排和加入在线会议。[了解详细信息](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**查看会议参与者：** 单击日历中的任意会议或事件，即可查看计划加入该会议或事件的人员。<br/><br/> **查看三个时区：** 需要跨时区安排会议？在日历中添加多个时区，即可轻松查看每一个人是否都有空并选择一个适合于所有人的时间。[了解详细信息](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft 自动更新 4.6 <br/>| 更新了安全目录，以包含 SHA-256 哈希，而不是 SHA-1 <br/>|<br/> | [Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Office 套件  <br/>|**功能区图标具有新的外观：** 请不要担心，所有功能的工作方式不变。 并且所有图标在所有尺寸的屏幕上都看起来很棒。 [了解更多](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**更新的替代文本窗格：** 通过添加有用的字幕或甚至将元素标记为装饰，使内容更易于访问。 |<br/>||
@@ -861,8 +861,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|
 |:-----|:-----|:-----|
 |Word  <br/> |**焦点模式的新式背景：** 在处于“视图”**** 选项卡上的焦点模式时，从“黎明”或“极夜”背景中进行选择。[了解详细信息](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [了解更多](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [了解更多](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**组：** 查看前 10 个组，并从组文件夹中直接阅读或回复组对话。  <br/> <br/> **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。[了解详细信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Office 套件  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞   |
 
@@ -933,66 +933,3 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Word  <br/> |其他焦点模式选择，包括橡木、红木和石墨。仅适用于 Office 365 订阅者。[了解详细信息](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx) <br/> |修复了各种性能问题（例如，键入或滚动延迟和编辑大型文档时的低性能表现）。  |
 |Microsoft AutoUpdate  <br/> |其他日志记录和故障排除功能。  <br/> |版本号更新至 3.8.3。  |
    
-## <a name="december-2016-release"></a>2016 年 12 月版本
-
-
- **发布日期：** 2016 年 12 月 15 日 
-  
- *版本 15.29.1（内部版本 16121500）* 
-  
-此版本修复了当文件路径的第一部分包含空格或某些字符时在 Word、Excel 或 PowerPoint 中打开或保存文件的问题。
-
-<br/><br/>
-  
- **发布日期：** 2016 年 12 月 13 日 
-  
- *版本 15.29.0（内部版本 16120900）* 
-  
-此版本提供以下更新。
-  
-|**应用程序**|**功能更新**|**与安全无关的更新**|**安全更新**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> | 在转换到 PDF 时保留文档的保真度和超链接的有效性。[了解详细信息](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。[了解详细信息](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
-|Excel  <br/> | 改进了支持，可更好地创建易于访问的文档并使用 VoiceOver 和其他辅助技术阅读和编辑文档。 [了解更多](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | 修复了在使用数据验证时向错误消息框中输入文本时 Excel 崩溃的问题。  <br/> |Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)   |
-|PowerPoint  <br/> | 提升了对创建可访问文档和使用画外音和其他辅助技术来阅读和编辑文档的支持。[了解详细信息](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
-|Office 套件  <br/> | 对其他三种语言的支持：希腊语、匈牙利语和斯洛伐克语  <br/> ||Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)  |
-|Microsoft AutoUpdate  <br/> || - - 版本号更新至 3.8.2。  <br/> - 改进了可靠性和小 bug 修复。  <br/> |Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 安全更新 (3204068)  |
-   
-## <a name="november-2016-release"></a>2016 年 11 月版本
-
-
- **发布日期：** 2016 年 11 月 17 日 
-  
- *版本 15.28.0（内部版本 16111700）* 
-  
-此版本修复了 Exchange Server 2010 上的 Outlook 和公用文件夹的问题。 
-
-<br/><br/>
-  
- **发布日期：** 2016 年 11 月 15 日 
-  
- *版本 15.28.0（内部版本 16111501）* 
-  
-此版本修复了个人应用程序的更新包的问题。
-
-<br/><br/>
-  
-
- **发布日期：** 2016 年 11 月 15 日 
-  
- *版本 15.28.0（内部版本 16111300）* 
-  
-此版本提供以下更新。
-  
-|**应用程序**|**功能更新**|**与安全无关的更新**|**安全更新**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> |对捷克语、匈牙利语、韩语、挪威语、波兰语、俄语和土耳其语的新语法支持。  <br/> | 修复了以下问题：当含有某种边框内容的 Excel 电子表格被嵌入到文档时，Word 无法保存文档。  <br/> |Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/MS16-133)：Microsoft Office 安全更新 (3199168) |
-|Excel  <br/> || 修复了 Excel 无法保存对某些企业存储配置（例如，NetApp FAS 单位）所做的更改的长时间运行的问题。  <br/> |Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/MS16-133)：Microsoft Office 安全更新 (3199168)  <br/> |
-|PowerPoint  <br/> |使用适用于 Windows 的 PowerPoint 2016 中的 Zoom 命令来查看创建的交互式摘要和自动导航链接。  <br/> | 修复了图像未呈现并被替换为显示引用 rID# 的错误的问题。  ||
-|Outlook  <br/> |查找并修复了在使用辅助功能检查器撰写邮件或邀请时出现的辅助功能问题。[了解详细信息](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | 修复了在撰写电子邮件时的自动语言检测问题。 ||
-|Office 套件  <br/> || - 极大地提升了具有使用辅助功能需求的用户的体验。  <br/><br/>  - Microsoft 错误报告可配置为将最后一次崩溃的日志保存到磁盘（默认写入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE）。 <br/> <br/>  - 为 E1/K1 用户提供了更好的激活消息体验。不再提示用户出现错误并鼓励他们使用仅视图体验。  <br/><br/> - 安装程序和更新程序文件名格式更改。例如，使用 Microsoft_Office_2016_15.28.16111300_Installer.pkg 来代替 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
-|Microsoft AutoUpdate  <br/> |包括自动检测、下载和安装更新的新选项。  <br/> | - 版本号更新至 3.8.1。  <br/> <br/>- 修复了以下问题：在安装了旧版的 Microsoft Silverlight 后（尤其是在使用为 null 的 LCID 注册 Silverlight 时），MAU 可能崩溃。  <br/><br/>  - 修复了在使用 ManifestServer 首选项时 MAU 可能崩溃的问题。  <br/><br/> - Microsoft AU Daemon 捆绑包显示名称更改为“Microsoft 更新助手”。  <br/><br/> - 2016 应用的 MAU XML 源不再包含触发器词典，并依赖于“更新版本”进行版本检测。  <br/><br/> - MAU 现在在应用更新窗口中显示完整的版本字符串。例如，改为显示 15.28.16110300，而不是 15.28。  ||
-   
-
-   
-
