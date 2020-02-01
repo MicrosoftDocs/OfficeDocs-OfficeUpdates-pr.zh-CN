@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 827436fccc1ba336e216d3d2b18d48a4b7168a12
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439097"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629299"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>有关 2018 年半年频道（定向）发行的发行说明
 
@@ -299,7 +299,7 @@ ms.locfileid: "32439097"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
--   **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/zh-CN/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解详细信息。
+-   **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解详细信息。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -  修复了在某些场景中导致更新安装所用时间过长的问题。
@@ -350,7 +350,7 @@ ms.locfileid: "32439097"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 -   修复了在某些应用场景中导致更新安装所用时间过长的 bug。 
 -   修复了 SVG 测试失败的问题
--   修复了以下问题：使用 System Center Configuration Manager 将更新部署到运行 Office 应用程序的客户端时，在 Office 应用程序正在运行的情况下重启设备后更新未应用。
+-   修复了以下问题：使用 Configuration Manager 将更新部署到运行 Office 应用程序的客户端时，在 Office 应用程序正在运行的情况下重启设备后更新未应用。
 
 
 ## <a name="version-1803-june-12"></a>版本 1803：6 月 12 日
@@ -374,8 +374,8 @@ ms.locfileid: "32439097"
 ### <a name="project-non-security-updates"></a>Project：非安全更新程序
 -   修复了以下问题：“日程表”视图“将现有任务添加到日程表”对话框仅显示第一个摘要任务中的任务。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
--   修复了以下问题：使用 System Center Configuration Manager 将更新部署到运行 Office 应用程序的客户端时，在 Office 应用程序正在运行的情况下重启设备后更新未应用。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
+-   修复了以下问题：使用 Configuration Manager 将更新部署到运行 Office 应用程序的客户端时，在 Office 应用程序正在运行的情况下重启设备后更新未应用。
 
 
 
@@ -714,7 +714,7 @@ ms.locfileid: "32439097"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复以下问题：在打开应用程序时，用户可能会看到关于以安全模式启动而应用程序无法打开的消息。
--   启用 Office COM 对象时，“文件 \> 帐户 \> 更新选项”中的“立即更新”选项处于隐藏状态，以便 System Center Configuration Manager 能够管理 Office 365 客户端更新。
+-   启用 Office COM 对象时，“文件 \> 帐户 \> 更新选项”中的“立即更新”选项处于隐藏状态，以便 Configuration Manager 能够管理 Office 365 客户端更新。
 -   修复了以下问题：当用户尝试使用“激活 Office”对话框激活 Office 时，Office 应用程序发生故障。
 -   修复了以下问题：在动态 DPI 环境下 Office 加载项存在的缩放问题。
 -   修复了以下问题：即使当前安装了 Office 365 专业增强版，Office 配置服务提供程序 (CSP) 的 CurrentStatus 节点也会返回空字符串。
