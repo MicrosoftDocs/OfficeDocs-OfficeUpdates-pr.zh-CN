@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: bd7a0012ea1f348df0c7f581ba06ef1bf05e3324
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230080"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650830"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,37 @@ ms.locfileid: "41230080"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2002-january-31"></a>版本 2002：1 月 31 日
+*版本 2002（内部版本 12513.20010）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复了以下问题：电子邮件根据保留策略过期时将显示两个标签。 一个标签显示邮件将在一天后过期，另一个标签显示将在两天后过期。
+
+### <a name="word"></a>Word
+
+- 修复了在阅读模式中使用&quot;反转&quot;页面颜色看不到批注提示的问题。
+
+- 修复了在编辑批注、将文本设置为斜体并随后将其发布之后斜体格式丢失的问题。
+
+- 修复了批注上下文菜单中的批注命令（“编辑批注”、“批注答复”、“删除批注”、“解决批注”）不显示的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2002-january-17"></a>版本 2002：1 月 17 日
 *版本 2002（内部版本 12508.20000）*
