@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 78cd2d30b1b9ced5ea8c38085435969330c1a2a9
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 93e55fb553593c96d3a15bdf3b4000895e00190b
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122071"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650790"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
@@ -24,6 +24,82 @@ ms.locfileid: "41122071"
 >
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2001-january-30"></a>版本 2001：1 月 30 日
+*版本 2001（内部版本 12430.20184）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
+
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解更多](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+
+### <a name="outlook"></a>Outlook
+
+- **高级组电子邮件设置：** 此功能可帮助组用户自定义要在收件箱中接收/关注的电子邮件或事件。
+
+- **组命名策略：** 组命名策略使 IT 管理员能够标准化管理组织中由用户创建的组名。 管理员可以要求在创建组时向名称添加特定前缀和后缀，并阻止使用指定的字词。 这有助于尽可能在组名中减少使用不适宜的字词，以及有助于IT部门在目录中管理组的显示方式。 命名策略还可有助于组织根据部门部署团队网站，以进行分类。
+
+### <a name="word"></a>Word
+
+- **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。 [了解更多](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+
+- **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- <div><span style="display:inline !important;">此更新修复了使用 ADODB 的问题。VB 代码中的录制器对象可能误报告错误。&nbsp;</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">此更新修复了可能会导致 Microsoft Access 无法在链接的 SQL Server 表中识别“标识列”的问题，该问题可能会导致行被误报告为已删除</span></span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div>解决了导致用户在对签名进行重命名时发生崩溃的问题。</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>解决了导致用户在对签名进行重命名时发生崩溃的问题。</div>
+
+
+### <a name="outlookexe"></a>outlook.exe
+
+- <div>解决了导致用户在对签名进行重命名时发生崩溃的问题。</div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1912-january-22"></a>版本 1912：1 月 22 日
+*版本 1912（内部版本 12325.20344）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- <div>此更新修复了可能会导致 Microsoft Access 无法在链接的 SQL Server 表中识别“标识列”的问题，该问题可能会导致行被误报告为已删除</div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1912-january-14"></a>版本 1912：1 月 14 日
 *版本 1912（内部版本 12325.20298 ）*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 76dbb5c9889b231476f0f1c123109869e4412cf0
-ms.sourcegitcommit: e836e4fa968630fbe51b48d8319a1bfa5a441345
+ms.openlocfilehash: a94cdd19bdfa085381ff053749a506aafc91eac5
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41475229"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650820"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -47,6 +47,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**Year**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020 年|1 月 30 日|[版本 2001（内部版本 12430.20184）](monthly-channel-2020.md#version-2001-january-30)| | |
 |2020 年|1 月 22 日|[版本 1912（内部版本 12325.20344）](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020 年|1 月 14 日|[版本 1912（内部版本 12325.20298 ）](monthly-channel-2020.md#version-1912-january-14) |[版本 1908（内部版本 11929.20562）](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[版本 1908（内部版本 11929.20562）](semi-annual-channel-2020.md#version-1908-january-14)<br/>[版本 1902（内部版本 11328.20512）](semi-annual-channel-2020.md#version-1902-january-14)<br/>[版本 1808（内部版本 10730.20432）](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020 年|1 月 8 日|[版本 1912（内部版本 12325.20288）](monthly-channel-2020.md#version-1912-january-8)| | |
