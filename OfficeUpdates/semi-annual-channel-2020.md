@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 0b31c340e651f3a2862c7fa996c060ce86b5a724
-ms.sourcegitcommit: 8c07d6182c66a7ea9e44d0bb7550a7a1d44877eb
+ms.openlocfilehash: 78d8cf069bd7e5a3dca76ca8a28262a278433237
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/16/2020
-ms.locfileid: "41214536"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576585"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -146,9 +146,9 @@ ms.locfileid: "41214536"
 
 - **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Office 图标具有新的外观：** Office 图标经过重新设计，以体现简单、强大和智能的 Office 体验。
+- **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。
 
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 

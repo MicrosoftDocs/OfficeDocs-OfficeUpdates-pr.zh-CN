@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2384ed54f8e18e89981cdd875d46bfd9ba7e95a5
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961969"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576565"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -27,7 +27,7 @@ ms.locfileid: "39961969"
 ## <a name="version-1908-december-10"></a>版本 1908：12 月 10 日
 *版本 1908（内部版本 11929.20516）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -363,9 +363,9 @@ ms.locfileid: "39961969"
 
 - **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Office 图标具有新的外观：** Office 图标经过重新设计，以体现简单、强大和智能的 Office 体验。
+- **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。
 
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -695,7 +695,7 @@ ms.locfileid: "39961969"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
 - **Office 第三方应用程序现已支持通过 office.js API 插入 SVG：** 第三方应用程序也称为 Office 中的加载项，它们现可插入 SVG。用户现可将其个人的 SVG 集合连接到 Office。而开发人员可通过 Office.js API 使用该项功能。
-- **Microsoft Teams 安装：** 默认情况下，将为新安装的 Office 365 ProPlus 安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 
