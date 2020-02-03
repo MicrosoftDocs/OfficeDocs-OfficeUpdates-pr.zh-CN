@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
-ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
+ms.openlocfilehash: 9172c2b791b4dde78a7683174e13f3664d6c9bc1
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41231855"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629201"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,72 @@ ms.locfileid: "41231855"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2001-january-29"></a>版本 2001：1 月 29 日
+*版本 2001（内部版本 12430.20184）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在对签名进行重命名时发生崩溃的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2001-january-27"></a>版本 2001：1 月 27 日
+*版本 2001（内部版本 12430.20170）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
+
+- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **查询编辑器中的数据分析：** 快速分析列中的数据、确定错误和空值、查看分发直方图等。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **准备、设置、绘图：** 抓住 Surface 触控笔时，即可绘图。 [了解详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">此更新修复了可能会导致 Microsoft Access 无法识别链接 SQL Server 表中的标识列的问题，该问题可能会导致行被报告为删除不正确</span></span></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2001-january-17"></a>版本 2001：1 月 17 日
 *版本 2001（内部版本 12430.20120）*
