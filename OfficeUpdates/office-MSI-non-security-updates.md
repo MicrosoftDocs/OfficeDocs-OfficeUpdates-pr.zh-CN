@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/08/2020
+ms.date: 2/05/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
-ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
+ms.openlocfilehash: a52a84cbd9a068bad61492730bf870798833f1b3
+ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40961649"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41721813"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
@@ -26,6 +26,12 @@ ms.locfileid: "40961649"
 > - 本文中的信息并不适用于 Office 的 Office 365 版本（例如 Office 365 专业增强版）。
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="february-4-2020"></a>2020 年 2 月 4 日
+
+**Office 2016**<br/>
+Microsoft Project 2016 的更新 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
+Microsoft Word 2016 的更新 ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
 
 ## <a name="january-7-2020"></a>2020 年 1 月 7 日
 
