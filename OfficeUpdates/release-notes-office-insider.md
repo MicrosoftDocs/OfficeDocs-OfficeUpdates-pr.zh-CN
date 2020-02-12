@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 89ce9133b52a016c05b5ab4282f8820ce1e538cf
-ms.sourcegitcommit: 65dfebaad3ea5e0ccdf3cf29f8bca8c24a886e05
+ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
+ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711300"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931958"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,65 @@ ms.locfileid: "41711300"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2002-february-07"></a>版本 2002：2 月 7 日
+*版本 2002（内部版本 12527.20040）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **在“查询设计器”、“SQL 视图”和“关系”窗口中更高效地工作：** 右键单击表格，以对其进行打开、设计、调整大小和隐藏操作。 在 SQL 视图中搜索和替换文本。 在“关系”窗口中选择多个表。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 此更新修复了使用 ADODB 的问题。 VB 代码中的记录器对象可能会错误地报告错误。
+
+- 此更新修复了可能会导致 Microsoft Access 无法识别链接 SQL Server 表中的标识列的问题，该问题可能会导致行错误地被报告为已删除。
+
+### <a name="excel"></a>Excel
+
+- 解决了将文本分列用于动态数组时 Excel 崩溃的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了在采用月视图的日历中进行滚动时无法显示以前的日历事件的问题。
+
+- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了以下问题：关闭文件后，如果有任何事件处理程序正在运行，PowerPoint 不会立即从演示文稿集合中删除该文件。 因此，由对象模型报告的打开的演示文稿数目不正确，并且系统会阻止关闭 PowerPoint。
+
+- 修复了荧光笔问题：带有黑色荧光笔颜色的白色文本在打印后显示为灰度中的黑色。
+
+### <a name="word"></a>Word
+
+- 更新和滚动浏览目录时，有时可能会在文档上显示灰色区域。
+
+- 修复了共同创作文档时可能不会保留根批注的草稿版本的问题。
+
+- 修复了在批注卡之间来回切换时有时会显示最初所选批注并突出显示所选内容的问题。
+
+- 修复了以下问题：如果编写了批注但未发布内容且用户尝试了保存文件，则使用“浏览”保存文件将不起作用。
+
+- 在启用 SlideTrack 并关闭批注窗格后，按 Ctrl+Alt+M 可能无法打开批注窗格。
+
+- 修复了在表中添加 @提及时可能会生成错误消息“此文档中的某个表格已损坏”的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了可能是导致无法正确安装挪威尼诺斯克语 (nn-no) 校对工具程序包的原因的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2002-january-31"></a>版本 2002：1 月 31 日
 *版本 2002（内部版本 12513.20010）*
