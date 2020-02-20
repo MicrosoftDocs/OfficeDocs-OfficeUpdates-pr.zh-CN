@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
-ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
+ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
+ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931958"
+ms.lasthandoff: 02/19/2020
+ms.locfileid: "42155441"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,51 @@ ms.locfileid: "41931958"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2003-february-14"></a>版本 2003：2 月 14 日
+*版本 2003（内部版本 12607.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。
+
+### <a name="word"></a>Word
+
+- **在绘图工具箱中查找墨迹编辑器：** 选择“绘图”，然后选择“墨迹编辑器”笔使用手指或数字笔编辑文档。 [了解更多](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+### <a name="office-suite"></a>Office 套件
+
+- **更清晰的状态栏图标：** 状态栏图标现在更容易看到
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户无法访问“ 闲/忙选项”日历权限对话框的问题。
+
+- 修复了以下问题：打开从不同时区发送的定期会议实例时出现警告“很抱歉，无法打开此项目”。
+
+- 解决了可能导致用户在从邮件中拖拽附件后无法重新打开 .msg 文件的问题。
+
+- 修复了将文件附件从 Outlook 上传到 OneDrive 后出现的问题，如果附件名称包含圆括号，则会导致文件名被更改。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了可能导致无法保存文档至含 Excel 图表的 PowerPoint 或 Word 的问题。
+
+### <a name="word"></a>Word
+
+- 修复了导出至 PDF 时文档中的图片失去透明度的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2002-february-07"></a>版本 2002：2 月 7 日
 *版本 2002（内部版本 12527.20040）*
