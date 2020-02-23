@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
-ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
+ms.openlocfilehash: 3bc1a3c2908fda240b041ae59a851f5f48ec9574
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "42155441"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228401"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,45 @@ ms.locfileid: "42155441"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2003-february-21"></a>版本 2003：2 月 21 日
+*版本 2003（内部版本 12615.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="office-suite"></a>Office 套件
+
+- **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="excel"></a>Excel
+- 修复了用户在重命名数据透视表度量时可能遇到的问题。
+- 修复了用户在使用 VBA 宏清除某区域中的内容时可能遇到的性能问题。
+- 修复了用户执行与功能区交互的宏时会导致 UI 闪烁的问题。
+- 修复了 CSV 文件中的第一个单词为 TABLE 时无法正确加载文件的问题。
+- 修复了用户在切换具有不同缩放级别的两个工作簿时可能遇到崩溃的问题。
+
+### <a name="outlook"></a>Outlook
+- 解决了 Outlook 在夜间运行时导致用户无法打开公用文件夹邮件的问题。
+- 修复了在添加 Gmail 帐户的身份验证工作流程期间位于权限页面上的“允许”和“拒绝”按钮被禁用的竞态条件。
+- 解决了导致 Outlook 在某些情况下意外生成日志输出（即使已关闭日志记录）的问题。
+
+### <a name="word"></a>Word
+- 修复了当鼠标指针悬停在批注卡上方时不会始终突出显示批注卡的问题。
+- 在活动文档共同创作会话期间，直接向批注卡添加图像可能会导致添加标记。 此问题已修复。
+
+### <a name="office-suite"></a>Office 套件
+- 将 Multichoice/Lookup/Managed-metadata 属性用于 Word/Excel/PowerPoint 文档并保存到 SharePoint 文档库时，这些属性在以前会限制为 255 个字符。 如果这些属性超过 255 个字符，则无法保存此类文档。 通过此次更改后，此限制已增加到 2048 个字符。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-february-14"></a>版本 2003：2 月 14 日
 *版本 2003（内部版本 12607.20000）*
