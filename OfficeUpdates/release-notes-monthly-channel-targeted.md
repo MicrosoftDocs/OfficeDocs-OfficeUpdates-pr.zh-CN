@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 34ca75e8083c2386a7b779975b01579fda80d11b
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978700"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228372"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -30,10 +30,61 @@ ms.locfileid: "41978700"
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
+## <a name="version-2002-february-21"></a>版本 2002：2 月 21 日
+*版本 2002（内部版本 12527.20174）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **在“查询设计器”、“SQL 视图”和“关系”窗口中更高效地工作：** 右键单击表格，以对其进行打开、设计、调整大小和隐藏操作。 在 SQL 视图中搜索和替换文本。 在“关系”窗口中选择多个表。
+
+### <a name="outlook"></a>Outlook
+
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- <div style="box-sizing:border-box;">修复了 CUBEVALUE 函数有时会返回错误结果的问题。&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>解决了在会议的位置字段中导致逗号变为分号的问题。</div>
+
+
+- <div>解决了在多个窗口中查看同一项目时可能会导致崩溃的问题。</div>
+
+
+- <div>解决了导致 Outlook 在同步滑块设置为较小的设置时出现意外同步所有邮件的问题。&nbsp;</div>
+
+
+- <div>解决了具有黑色主题的用户在“&quot;发件人&quot;”下拉列表中看到白色背景上显示白色文本的问题。</div>
+
+
+- <div><span style="display:inline !important;">此更改恢复了在邮件头中查看多行主题的功能。</span><br></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-february-18"></a>版本 2002：2 月 18 日
+*版本 2002（内部版本 12527.20138）*
+
 ## <a name="version-2002-february-11"></a>版本 2002：2 月 11 日
 *版本 2002（内部版本 12527.20092）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: ce7902418228e610097f76cc676870d132afa30c
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 1ad62680409942dcde82cb27fd42a6c6139dc0fa
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978610"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228391"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -29,6 +29,22 @@ ms.locfileid: "41978610"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+## <a name="february-19-2020"></a>2020 年 2 月 19 日
+
+[//]: # (请勿移除内容开头 2020 年 2 月 19 日)
+
+### <a name="monthly-channel"></a>每月频道
+
+最新版为版本 2001（内部版本 12430.20288）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2001（内部版本 12430.20264） <br/> |2020 年 2 月 11 日 <br/> |46<br/> |
+|版本 2001（内部版本 12430.20184） <br/> |2020 年 1 月 30 日 <br/> |55<br/> |
+
+
+[//]: # (请勿移除内容结尾 2020 年 2 月 19 日)
 
 ## <a name="february-11-2020"></a>2020 年 2 月 11 日
 
