@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
+ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228361"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42278583"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
@@ -24,6 +24,47 @@ ms.locfileid: "42228361"
 >
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2002-february-25"></a>版本 2002：2 月 25 日
+*版本 2002（内部版本 12527.20194）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Outlook 文件夹窗格更新：** 即将发布的 Aesthetic v1 的新文件夹列表将具有更新外观和感受和组将提升到与文件夹和收藏夹相同的层次结构。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了 CUBEVALUE 函数有时会返回错误结果的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了在会议的位置字段中导致逗号变为分号的问题。
+
+- 解决了在多个窗口中查看同一项目时可能会导致崩溃的问题。
+
+- 解决了一个问题，该问题导致在某些情况下无法使用相关选项来禁用标记项目突出显示。
+
+- 解决了导致 Outlook 在同步滑块设置为较小的设置时出现意外同步所有邮件的问题。
+
+
+- 解决了具有黑色主题的用户在“&quot;发件人&quot;”下拉列表中看到白色背景上显示白色文本的问题。
+
+
+- 此更改恢复了在邮件头中查看多行主题的功能。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2001-february-19"></a>版本 2001：2 月 19 日
 *版本 2001（内部版本 12430.20288）*
