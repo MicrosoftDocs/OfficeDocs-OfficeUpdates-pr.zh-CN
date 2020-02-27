@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: 9d848fcfeca988113987408e7f27f512e2475e24
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: dc67527537f3c8700854f7e1a68bf02976c1976d
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978790"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42282816"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -58,6 +58,7 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 2 月 25 日   |版本 2002（内部版本 12527.20194）  |各种 Bug 和性能修补程序。 <br/>  |
 |2020 年 2 月 11 日   |版本 2001（内部版本 12430.20264）  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |2020 年 1 月 30 日   |版本 2001（内部版本 12430.20184）  |各种 Bug 和性能修补程序。 <br/>  |
 |2020 年 1 月 22 日   |版本 1912（内部版本 12325.20344）  |各种 Bug 和性能修补程序。 <br/>  |

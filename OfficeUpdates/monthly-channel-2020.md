@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278583"
+ms.locfileid: "42282826"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
@@ -31,9 +31,22 @@ ms.locfileid: "42278583"
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
-### <a name="outlook"></a>Outlook
+### <a name="excel"></a>Excel
 
-- **Outlook 文件夹窗格更新：** 即将发布的 Aesthetic v1 的新文件夹列表将具有更新外观和感受和组将提升到与文件夹和收藏夹相同的层次结构。
+ - **用户现在能够将 Word 和 Excel 中的对象另存为 SVG：** 用户可将图表、形状、墨迹、图标、图片和其他等另存为 SVG [了解更多信息](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **工作簿统计信息：** 单元格、公式、图表、表格... 我们将对其进行计数，无需进行此操作。
+
+- **查询编辑器中的数据分析：** 快速分析列中的数据、确定错误和空值、查看分发直方图等。
+
+### <a name="outlook"></a>Outlook
+- **Outlook 文件夹窗格更新：** 即将发布的 Aesthetic v1 的新文件夹列表将具有更新外观和感受和组将提升到与文件夹和收藏夹相同的层次结构。
+
+### <a name="word"></a>Word
+
+- **用户现在能够将 Word 和 Excel 中的对象另存为 SVG：** 用户可将图表、形状、墨迹、图标、图片和其他等另存为 SVG [了解更多信息](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
