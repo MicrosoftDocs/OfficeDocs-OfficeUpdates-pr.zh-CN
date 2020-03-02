@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 向客户提供 Windows 7 版 Office 365 ProPlus 更新历史记录的发行说明
-ms.openlocfilehash: 57dc775623bda52d3a265f75df3304d7b165c768
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 787ecad94262a996d29e416a808742250140129a
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122362"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345121"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7 Office 365 专业增强版更新历史记录 
 
@@ -35,6 +35,12 @@ ms.locfileid: "41122362"
 版本 2002 的扩展可用性还适用于其他更新频道，例如每月频道和半年频道（定向），但仅适用于运行 Windows 7 的设备。
 
 ##
+
+
+[//]: # (请勿移除)
+
+
+
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。

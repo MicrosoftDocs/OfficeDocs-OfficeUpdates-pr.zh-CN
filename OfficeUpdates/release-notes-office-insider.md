@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 3bc1a3c2908fda240b041ae59a851f5f48ec9574
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228401"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345141"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,49 @@ ms.locfileid: "42228401"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2003-february-28"></a>版本 2003：2 月 28 日
+*版本 2003（内部版本 12619.20002）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **改进了将墨迹转换为图形制表的体验：** 绘制更好的图表，并将其转换为可以操作的 office 对象 [了解详细信息](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了切片器中的文本在打印预览中无法缩放的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了将附件添加到邮件或通过拖放操作（而不是通过菜单）从邮件保存附件时，将更新文件的“上次修改时间”的问题。
+
+### <a name="word"></a>Word
+
+- 解决了通过批注卡使用 Tab 键时，批注编辑框焦点无法显示的问题。
+
+- 如果在公式中插入控件（例如文本内容控件），然后保存再打开文件，会导致“内容不可读”错误。
+
+- 解决了无法保存之前受密码保护文件至云存储的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-february-21"></a>版本 2003：2 月 21 日
 *版本 2003（内部版本 12615.20000）*
