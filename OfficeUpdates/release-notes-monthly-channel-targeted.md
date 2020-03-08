@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345131"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549173"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,31 @@ ms.locfileid: "42345131"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2002-march-05"></a>版本 2002：3 月 5 日
+*版本2002（内部版本 12527.20278）*
+
+- 各种 bug 和性能修补程序。
+
+
+## <a name="version-2002-march-04"></a>版本 2002：3 月 4 日
+*版本2002（内部版本 12527.20264）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="project"></a>Project
+- <div>修复了有时无法正确计算摘要任务日期的问题。</div>
+
+
+### <a name="office-suite"></a>Office 套件
+- <div>修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。</div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2002-march-01"></a>版本 2002：3 月 1 日
 *版本 2002（内部版本 12527.20242）*
