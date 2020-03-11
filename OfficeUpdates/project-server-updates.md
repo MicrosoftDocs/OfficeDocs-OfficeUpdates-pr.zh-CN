@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 在一个位置集中查找和管理 Project Server 2013 和 Project Server 2010 更新程序。单击此页面上的链接可以详细了解并下载这些更新程序。
-ms.openlocfilehash: bc7e9ee67c7f27204fd3e44d47c18a14449c2f97
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 9ce5318a4d95371ef196793f36f6be6d8c530e92
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978640"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586539"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -29,6 +29,7 @@ ms.locfileid: "41978640"
   
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2020 年 3 月  <br/> |[KB4484279](https://support.microsoft.com/kb/4484279) <br/>|
 |2020 年 2 月  <br/> |[KB4484262](https://support.microsoft.com/kb/4484262) <br/>|
 |2020 年 1 月  <br/> |[KB4484230](https://support.microsoft.com/kb/4484230) <br/>|
 |2019 年 12 月  <br/> |[KB4484187](https://support.microsoft.com/kb/4484187) <br/>|
@@ -96,6 +97,7 @@ ms.locfileid: "41978640"
 
 |**发布日期**|**KB 编号**|
 |:-----|:-----|:-----|
+|2020 年 3 月  <br/>  |[KB4484239](https://support.microsoft.com/kb/4484239) <br/>|
 |2019 年 12 月  <br/>  |[KB4484194](https://support.microsoft.com/kb/4484194) <br/>|
 |2019 年 11 月  <br/>  |[KB4484161](https://support.microsoft.com/kb/4484161) <br/>|
 |2019 年 10 月  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
