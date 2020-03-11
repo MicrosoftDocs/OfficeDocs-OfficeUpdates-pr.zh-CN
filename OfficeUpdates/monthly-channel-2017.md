@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关 Office 365 专业增强版的每月频道发布的发行说明2017
 ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629249"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549263"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017中的每月频道发布的发行说明
 
@@ -72,7 +72,7 @@ ms.locfileid: "41629249"
 -   **快速访问网站和组：** 使用“文件”菜单处理常用网站和组中存储的文档。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
--   当 Office COM 对象启用时，" \>立即\>更新" 选项在 "文件帐户更新选项" 中是隐藏的，以便由 Configuration Manager 管理 office 365 客户端更新。
+-   启用 Office COM 对象时，“文件 \> 帐户 \> 更新选项”中的“立即更新”选项处于隐藏状态，以便 Configuration Manager 能够管理 Office 365 客户端更新。
 
 
 ## <a name="version-1710-november-27"></a>版本1710：11月27日
@@ -100,10 +100,10 @@ ms.locfileid: "41629249"
 -   修复了以下问题：在使用可访问事件观察器 (AccEvent.exe) 进行监视时，切换文件夹导致 Outlook 故障。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了以下问题：引用基于 Flash Player 的 YouTube 嵌入代码，导致打开新窗口来播放视频。旧嵌入代码现已升级为，引用基于 HTML5 的 YouTube 视频，以便正确就地播放这些视频。
+-   修复了对基于 Flash Player 的 YouTube 嵌入代码进行引用导致打开新窗口播放视频的问题。旧嵌入代码现已升级以引用基于 HTML5 的 YouTube 视频，以便正确播放这些视频。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了以下问题：在动态 DPI 环境下 Office 加载项存在的缩放问题。
+-   修复了在动态 DPI 环境下 Office 外接程序缩放的问题。
 -   修复了以下问题：即使当前安装了 Office 365 专业增强版，Office 配置服务提供程序 (CSP) 的 CurrentStatus 节点也会返回空字符串。
 -   修复了导致 .box 文件格式更改的问题，这些更改会影响安装在同一台计算机上的旧版 Office 的功能，因为 .box 文件在同一台计算机上的所有 Office 应用版本之间共享。
 
@@ -178,7 +178,7 @@ ms.locfileid: "41629249"
 *版本 1709（内部版本 8528.2147）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
--   修复了以下问题：尝试选择文本框或组合框中的文本时，似乎会选择所有文本，而不是指示的选择内容。
+-   修复了以下问题：尝试选择文本框或组合框中的文本时似乎会选择所有文本，而不是指示的选择内容。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：拖动或拖动填充时，工具提示的位置未对齐。
@@ -186,7 +186,7 @@ ms.locfileid: "41629249"
 -   修复了以下问题：保存支持同步的文件时，Office 无法写入磁盘，但 Office 仍然将该文件上传到 OneDrive。使用此修复程序后，用户现在将看到一条错误消息，且上传不会继续执行。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了以下问题：保存支持同步的文件时，Office 无法对磁盘执行写入操作，但 Office 仍继续将文件上传到 OneDrive。修复此问题后，用户现在会看到错误消息，且上传不会继续执行。
+-   修复了以下问题：保存支持同步的文件时，Office 无法写入磁盘，但 Office 仍然将该文件上传到 OneDrive。使用此修复程序后，用户现在将看到一条错误消息，且上传不会继续执行。
 
 ### <a name="publisher-non-security-updates"></a>Publisher：非安全更新
 -   修复了以下问题：运行“邮件合并”向导时，无法筛选包含 null（空）值的数据源字段。
@@ -244,14 +244,14 @@ ms.locfileid: "41629249"
 *版本 1708（内部版本 8431.2094）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
--   修复了以下问题：如果查询与 Microsoft Dynamics 被链接表中的主键联接，查询将不会执行。
+-   修复了当查询与 Microsoft Dynamics 链接表中的主键存在连接时，查询不执行的问题。
 -   修复了以下问题：Microsoft Dynamics 表中货币值不显示小数位数。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了打开 .XLL 文件时 Excel 崩溃的问题。
 -   修复了自动保存切换不可见的问题。
 -   修复了以下问题：打开保存在使用同步客户端同步的 OneDrive、OneDrive for Business 或 SharePoint 中的文件时，自动保存被错误地禁用或灰显。
--   修复了以下问题：在页面布局视图中添加页眉或页脚后，单元格的图案样式显示不正确。
+-   修复了以下问题：在“页面布局”视图中添加页眉或页脚后，单元格的图案样式显示不正确。
 -   修复了以下问题：将数据透视表的一个副本粘贴到另一个工作簿时，可能会导致崩溃。
 -   修复了以下问题：选择“替换”命令并且“查找和替换”对话框打开时，对话框的焦点位于“查找”选项卡上，而非“替换”选项卡上。
 -   修复了以下问题：打开工作薄（它从版本早于 SharePoint Server 2016 的 SharePoint Server 打开）的“活动”窗格时 Excel 崩溃。
@@ -260,7 +260,7 @@ ms.locfileid: "41629249"
 -   修复了以下问题：在使用 SheetBeforeRightClick 事件时，插入与合并单元格相交的列不会展开合并的单元格。
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
--   修复了以下问题：使用深灰色主题时，策略提示中的“了解更多”链接不可见。
+-   修复了在使用深灰色主题时，策略提示中的“了解更多”链接不可见的问题。
 -   修复了以下问题：用户尝试设置新帐户和在完成帐户设置之前关闭窗口时，Outlook 崩溃。
 -   修复了以下问题：“标记为已读”和“标记为未读”显示为群组共享收件箱中的邮件选项。
 
@@ -268,7 +268,7 @@ ms.locfileid: "41629249"
 -   修复了以下问题：从版本早于 SharePoint Server 2016 的 SharePoint Server 打开演示文稿时，PowerPoint 崩溃。
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
--   修复了以下问题：打开文档（它从版本早于 SharePoint Server 2016 的 SharePoint Server 打开）的“活动”窗格时，Word 崩溃。
+-   修复了在打开文档（从版本早于 SharePoint Server 2016 的 SharePoint 服务器打开）的“活动”窗格时，Word 崩溃的问题。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了不向用户显示联机修复进度的问题。
@@ -282,8 +282,8 @@ ms.locfileid: "41629249"
 *版本 1708（内部版本 8431.2079）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
--   **Dynamics 连接器：** 导入 Microsoft Dynamics 中的数据，或链接到其中存储的数据。 [详细信息](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Salesforce 连接器：** 导入 Salesforce 中的数据，或链接到其中存储的数据。 [详细信息](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Dynamics 连接器：** 导入 Microsoft Dynamics 中的数据，或链接到其中存储的数据。[更多信息](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Salesforce 连接器：** 导入 Salesforce 中的数据，或链接到其中存储的数据。[详细信息](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **3D 模型：** 使用 3D 增强工作簿的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [更多信息](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
@@ -317,7 +317,7 @@ ms.locfileid: "41629249"
 -   修复了更改任务的完成日期后可能会重排实际工时的问题。
 -   修复了复制并粘贴成本字段时由于舍入问题粘贴值可能与复制值不完全一致的问题。
 -   修复了从一个基线保存到另一个基线时无法复制预算资源的时间分段数据的问题。
--   修复了以下问题：无法始终正确计算摘要任务的状态字段。
+-   修复了无法始终正确计算摘要任务的状态字段的问题。
 
 ### <a name="publisher-feature-updates"></a>Publisher：功能更新
 -   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
@@ -331,7 +331,7 @@ ms.locfileid: "41629249"
 -   修复了对于超出限制的会议，被邀请者人数未正确显示给会议组织者的问题。
 -   修复了电话号码未在入站 PSTN 通话上的 Toast 中显示的问题。
 -   修复了在重命名联系人列表组的同时使用 Delete 键时，会删除整个组的问题。
--   修复了以下问题：IM 对话中的共享通知在共享停止前消除。
+-   修复了在共享停止之前，即时消息对话中的共享通知消除的问题。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
@@ -401,11 +401,11 @@ ms.locfileid: "41629249"
 *版本 1707（内部版本 8326.2076）*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
--   修复了以下问题：无法在 Outlook 中配置 IMAP 帐户。
+-   修复了无法在 Outlook 中配置 IMAP 帐户的问题。
 -   修复了以下问题：打开 Outlook 时，发生间歇性故障。
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
--   修复了以下问题：加载 Grammarly 外接程序时，Word 意外关闭。
+-   修复了在加载 Grammarly 外接程序时，Word 意外关闭的问题。
 -   修复了以下问题：在某些情况下，当尝试恢复基于云的文件时，Word 发生故障。
 
 
@@ -459,7 +459,7 @@ ms.locfileid: "41629249"
 -   **下载云附件：** 将 OneDrive 附件保存或拖放到计算机后，我们会为用户下载文件。
 -   **实用的语音提示改进了辅助功能：** 启用语音提示后，可指导用户完成工作。此功能位于“文件”\>“选项”\>“辅助功能”中。无需使用加载项。 [更多信息](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新程序
+### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能规避漏洞
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572)：Microsoft Office Outlook 信息泄漏漏洞
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663)：Microsoft Office Outlook 内存损坏漏洞
@@ -572,7 +572,7 @@ ms.locfileid: "41629249"
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：以编程方式为使用 Excel 2010 或更低版本创建的工作簿应用工作表保护密码时，Excel 无法设置此密码。
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 远程代码执行
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508)：Microsoft Office 安全功能绕过漏洞
@@ -746,7 +746,7 @@ ms.locfileid: "41629249"
 -   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
 -   **“获取和转换”改进：** 使用查询编辑器拆分列时自动检测分隔符字符，选择要与合并二进制数据一起使用的示例文件，并指定使用 DB2 连接器时要连接的包集合。
 -   **Dubai font:** Font family that supports both Western European languages as well as the major languages that use the Arabic script. [More information](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [更多信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：缺少在 Office 2016 发布后引入的新函数，例如 TEXTJOIN、CONCAT、IFS、MAXIFS 和 MINIFS。
@@ -763,7 +763,7 @@ ms.locfileid: "41629249"
 -   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
 -   **替换文字创建：** 基于云的服务自动生成演示文稿中的图片的可选文字。
 -   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [更多信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **密码重置选项：** 当用户至少登录失败一次时，重置按钮链接将显示在登录窗口中。
@@ -779,7 +779,7 @@ ms.locfileid: "41629249"
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **使用 Excel 数据制作图表：** 通过使用新的数据可视化工具模板，从 Excel 数据自动创建基本流程图或跨职能流程图。 [更多信息](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
--   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [更多信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。

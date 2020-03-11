@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345141"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568858"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,36 @@ ms.locfileid: "42345141"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2003-march-06"></a>版本 2003：3 月 6 日
+*版本2003（内部版本 12624.20086）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复了通过 Outlook Web Access 创建规则不会保留到 Exchange 服务器且会导致冲突的问题。
+- 修复了深色模式下 Outlook 不会在“发件人:”字段中显示下拉列表的问题。
+- 解决了导致用户无法通过文件资源管理器将已在其他应用程序中打开的文件附加到其邮件中的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了将鼠标悬停在推荐的缩略图上时缩略图闪烁的问题。 在某些情况下，这可能会导致 PowerPoint 崩溃。
+
+### <a name="word"></a>Word
+
+- 修复了受编辑保护的文档的“比较”功能问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了 Word/Excel/PowerPoint 中的用户主体名称 (UPN) 不再区分大小写的问题，从而减少了处理 SharePoint 上的文件时出现的故障。
+
+- 修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+[//]: # (请勿移除功能详细信息内容开头)
 
 ## <a name="version-2003-february-28"></a>版本 2003：2 月 28 日
 *版本 2003（内部版本 12619.20002）*
@@ -2159,7 +2189,7 @@ ms.locfileid: "42345141"
 
 ### <a name="outlook"></a>Outlook
 
-**搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。
+**搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，相关度最高的电子邮件信息将包含在搜索建议中。
 
 ### <a name="excel"></a>Excel
 
@@ -2451,7 +2481,7 @@ Office 现支持动画模型，这些模型可以在编辑器中播放，从而�
 ## <a name="notable-fixes"></a>显著修复：
 
 ### <a name="word"></a>Word 
-- We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options
+- 我们修复了在“选项”中按“ESC”时发生的崩溃问题。
 - 我们修复了回复评论时发生的崩溃问题
 - 我们修复了从 Word 到 PowerPoint Online 的复制粘贴问题
 
@@ -2496,7 +2526,7 @@ Office 现支持动画模型，这些模型可以在编辑器中播放，从而�
 ## <a name="notable-fixes"></a>显著修复：
 
 ### <a name="word"></a>Word 
-- We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options
+- 我们修复了在“选项”中按“ESC”时发生的崩溃问题。
 - 我们修复了从 Word 到 PowerPoint Online 的复制粘贴问题
 
 ### <a name="excel"></a>Excel

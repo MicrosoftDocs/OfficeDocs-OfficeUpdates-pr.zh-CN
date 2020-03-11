@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供适用于使用 Windows Installer （MSI）的永久版本的 Office 2013 的最新 .msp 文件列表
-ms.openlocfilehash: 53e0f474885d5f931efde243abc2ec50a6b47f85
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 73b970b260fde38e1d2511f3974913e1c722a49d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978660"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586449"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 产品的最新 .msp 文件列表
 
@@ -24,12 +24,12 @@ ms.locfileid: "41978660"
   
 ## <a name="most-recently-updated-msp-files"></a>最近更新的 .msp 文件
 
-下表列出了**2020 年2月**更新的 .msp 文件。 
+下表列出了**2020 年3月**更新的 .msp 文件。 
   
 |非安全更新 * * * *|安全更新 * * * *|
 |:-----|:-----|
-|<br>|excel-x-无<br/>|
-|<br>|outlook-x-无<br/>|
+|lync-x-无<br>|word-x-无<br/>|
+
 
 
 
@@ -70,7 +70,7 @@ ms.locfileid: "41978660"
 |infopath-x-无  <br/> |InfoPath 2013  <br/> |2016 年 5 月 3 日  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |2016 年 3 月 8 日  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
 |infopathpc-x-无  <br/> |Office 2013  <br/> |2016年11月1日  <br/> |[3127916](https://support.microsoft.com/kb/3127916) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |ipeditor-x-无  <br/> |InfoPath 2013  <br/> |2018 年 12 月 11 日  <br/> |[4022181](https://support.microsoft.com/kb/4022181) <br/> |2018 年 5 月 8 日  <br/> |[3162075](https://support.microsoft.com/help/3162075) <br/> |不适用  <br/> |
-|lync-x-无  <br/> |Lync 2013 （Skype for Business）  <br/> |2019 年 8 月 6 日  <br/> |[4475564](https://support.microsoft.com/help/4475564) <br/> |2019 年 7 月 9 日  <br/> |[4475519](https://support.microsoft.com/help/4475519) <br/> |[4461487](https://support.microsoft.com/help/4461487) <br/> |
+|lync-x-无  <br/> |Lync 2013 （Skype for Business）  <br/> |2020 年 3 月 3 日  <br/> |[4484097](https://support.microsoft.com/help/4484097) <br/> |2019 年 7 月 9 日  <br/> |[4475519](https://support.microsoft.com/help/4475519) <br/> |[4461487](https://support.microsoft.com/help/4461487) <br/> |
 |lynchelp- *ll*  -  *抄送* <sup>3</sup> <br/> |Lync 2013 （Skype for Business）  <br/> |5月2日，2017  <br/> |[3191873](https://support.microsoft.com/help/3191873) <br/> |2017 年 9 月 12 日  <br/> |[3213568](https://support.microsoft.com/help/3213568) <br/> |[3191937](https://support.microsoft.com/help/3191937) <br/> |
 |mscomct2-x-无  <br/> |Office 2013  <br/> |不适用   <br/> |不适用  <br/> |2014 年 5 月 13 日  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |不适用  <br/> |
 |mscomctlocx-x-无<sup>2</sup> <br/> |Office 2013  <br/> |不适用   <br/> |不适用  <br/> |2016 年 1 月 12 日  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
@@ -115,7 +115,7 @@ ms.locfileid: "41978660"
 |visio-x-无  <br/> |Visio 2013  <br/> |2019年4月2日  <br/> |[4464505](https://support.microsoft.com/help/4464505) <br/> |2016 年 6 月 14 日  <br/> |[3115020](https://support.microsoft.com/kb/3115020) <br/> |[3114489](https://support.microsoft.com/kb/3114489) <br/> |
 |vviewer.dll-x-无  <br/> |Visio Viewer 2013  <br/> |2014年4月8日  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wec-x-无  <br/> |Office 2013  <br/> |2015年11月7日  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|word-x-无  <br/> |Word 2013  <br/> |2019 年 7 月 2 日 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |2019 年 12 月 10 日  <br/> |[4484094](https://support.microsoft.com/help/4484094) <br/> |[4475547](https://support.microsoft.com/help/4475547) <br/> |
+|word-x-无  <br/> |Word 2013  <br/> |2019 年 7 月 2 日 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |2020 年 3 月 10 日  <br/> |[4484231](https://support.microsoft.com/help/4484231) <br/> |[4484094](https://support.microsoft.com/help/4484094) <br/> |
 |wordpia-x-无  <br/> |Word 2013  <br/> |2017年11月7日  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wxpcore-x-无  <br/> |Office 2013  <br/> |2016 年 3 月 8 日  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wxpnse-x-无  <br/> |Office 2013  <br/> |2015 年 10 月 13 日  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |

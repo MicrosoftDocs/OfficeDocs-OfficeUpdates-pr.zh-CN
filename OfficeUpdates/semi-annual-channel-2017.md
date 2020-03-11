@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供发布说明，适用于 Office 365 专业增强版的半年频道发行版2017
 ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629259"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549223"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017中的半年频道发布的发行说明
 
@@ -207,7 +207,7 @@ ms.locfileid: "41629259"
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 远程代码执行
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508)：Microsoft Office 安全功能绕过漏洞
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能绕过漏洞
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能规避漏洞
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572)：Microsoft Office Outlook 信息泄漏漏洞
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663)：Microsoft Office Outlook 内存损坏漏洞
 
@@ -357,7 +357,7 @@ ms.locfileid: "41629259"
 -   **形状识别：** 使用“绘图”\>“转换为形状”将绘图自动转换为形状。 [详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 远程代码执行漏洞
@@ -381,7 +381,7 @@ ms.locfileid: "41629259"
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2017-8510](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8510)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2017-8512](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8512)：Microsoft Office 远程执行代码漏洞
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 远程代码执行漏洞
 -   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744)：Microsoft Office 内存损坏漏洞
 
@@ -840,7 +840,7 @@ ms.locfileid: "41629259"
 *版本 1609（内部版本 7369.2120）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
 -   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)

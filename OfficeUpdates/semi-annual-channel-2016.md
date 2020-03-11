@@ -9,13 +9,13 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人士提供发布说明, 适用于 Office 365 专业增强版的半年频道发行版2016
+description: 为 IT 专业人士提供发布说明，适用于 Office 365 专业增强版的半年频道发行版2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439087"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549193"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016中的半年频道发布的发行说明
 
@@ -26,7 +26,7 @@ ms.locfileid: "32439087"
 > - 在 2018 年 1 月前，半年频道被命名为延期频道。
 
 
-## <a name="version-1605-december-13"></a>版本 1605:12 月13日
+## <a name="version-1605-december-13"></a>版本1605：12月13日
 *版本 1605（内部版本 6965.2115）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -41,10 +41,10 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1602-december-13"></a>版本 1602:12 月13日
+## <a name="version-1602-december-13"></a>版本1602：12月13日
 *版本 1602（内部版本 6741.2098）*
 
-*这是自2016年6月起, 现已推出的延期频道版本。在二月份2017之前, 它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本, 即版本 1605 (内部版本 6965.2115), 其中包含新功能、安全更新和非安全更新。*
+*这是自2016年6月起，现已推出的延期频道版本。在二月份2017之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本1605（内部版本6965.2115），其中包含新功能、安全更新和非安全更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新 (3204068)
@@ -54,7 +54,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1605-november-8"></a>版本 1605:11 月8日
+## <a name="version-1605-november-8"></a>版本1605：11月8日
 *版本 1605（内部版本 6965.2105）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -68,10 +68,10 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1602-november-8"></a>版本 1602:11 月8日
+## <a name="version-1602-november-8"></a>版本1602：11月8日
 *版本 1602（内部版本 6741.2088）*
 
-*这是自2016年6月起, 现已推出的延期频道版本。在二月份2017之前, 它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本, 即版本 1605 (内部版本 6965.2105), 其中包含新功能、安全更新和非安全更新。*
+*这是自2016年6月起，现已推出的延期频道版本。在二月份2017之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本1605（内部版本6965.2105），其中包含新功能、安全更新和非安全更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 安全更新 (3199168)
@@ -81,7 +81,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1605-october-11"></a>版本 1605:10 月11日
+## <a name="version-1605-october-11"></a>版本1605：10月11日
 *版本 1605（内部版本 6965.2092）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
@@ -89,7 +89,7 @@ ms.locfileid: "32439087"
 -   修复了“数字”数据类型的“字段大小”下拉列表不显示任何值的问题（该问题会导致用户在创建或修改表时无法指定“数字”字段类型）。
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **获取 & 转换改进:** Power Query 的新的或改进的数据转换和数据连接功能。 [详细信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **获取 & 转换改进：** Power Query 的新的或改进的数据转换和数据连接功能。 [详细信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **其他数据连接：** 来源为 JSON 和 Azure SQL 数据仓库的查询数据。
 -   **Power Query 改进：** 改进和新增了数据转换和数据连接功能。 [更多信息](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **大地址感知支持：** 32 位版本的 Excel 可以使用更多内存（若有）。 [详细信息](https://support.microsoft.com/kb/3160741)
@@ -239,10 +239,10 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1602-october-11"></a>版本 1602:10 月11日
+## <a name="version-1602-october-11"></a>版本1602：10月11日
 *版本 1602（内部版本 6741.2081）*
 
-*这是自2016年6月起, 现已推出的延期频道版本。在二月份2017之前, 它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本, 即版本 1605 (内部版本 6965.2092), 其中包含新功能、安全更新和非安全更新。*
+*这是自2016年6月起，现已推出的延期频道版本。在二月份2017之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本1605（内部版本6965.2092），其中包含新功能、安全更新和非安全更新。*
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
 -   Microsoft 安全公告 [MS16-120](https://technet.microsoft.com/library/security/ms16-120)：Microsoft 图形组件安全更新 (3192884)
@@ -252,7 +252,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1602-september-13"></a>版本 1602: 9 月13日
+## <a name="version-1602-september-13"></a>版本1602：9月13日
 *版本 1602（内部版本 6741.2071）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -272,10 +272,10 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1509-september-13"></a>版本 1509: 9 月13日
+## <a name="version-1509-september-13"></a>版本1509：9月13日
 *版本 1509（内部版本 6001.1090）*
 
-*这是自2016年2月起, 现已推出的延期频道版本。在10月2016之前, 它将继续受支持和接收安全更新。但是, 新的延期频道版本现已推出, 即版本 1602 (内部版本 6741.2071), 其中包含新功能、安全更新和非安全更新。*
+*这是自2016年2月起，现已推出的延期频道版本。在10月2016之前，它将继续受支持和接收安全更新。但是，新的延期频道版本现已推出，即版本1602（内部版本6741.2071），其中包含新功能、安全更新和非安全更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
@@ -288,7 +288,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1602-august-9"></a>版本 1602: 8 月9日
+## <a name="version-1602-august-9"></a>版本1602：8月9日
 *版本 1602（内部版本 6741.2063）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -311,10 +311,10 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1509-august-9"></a>版本 1509: 8 月9日
+## <a name="version-1509-august-9"></a>版本1509：8月9日
 *版本 1509（内部版本 6001.1087）*
 
-*这是自2016年2月起, 现已推出的延期频道版本。在10月2016之前, 它将继续受支持和接收安全更新。但是, 新的延期频道版本现已推出, 即版本 1602 (内部版本 6741.2063), 其中包含新功能、安全更新和非安全更新。*
+*这是自2016年2月起，现已推出的延期频道版本。在10月2016之前，它将继续受支持和接收安全更新。但是，新的延期频道版本现已推出，即版本1602（内部版本6741.2063），其中包含新功能、安全更新和非安全更新。*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复由最新安全更新导致的一个问题，在从不受信任的位置打开 HTML 文件时会打开 Excel，显示不带任何错误消息的空白（空）屏幕，而不允许用户在受保护的视图中打开文件。
@@ -336,7 +336,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1602-july-12"></a>版本 1602: 7 月12
+## <a name="version-1602-july-12"></a>版本1602：7月12
 *版本 1602（内部版本 6741.2056）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -350,10 +350,10 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1509-july-12"></a>版本 1509: 7 月12
+## <a name="version-1509-july-12"></a>版本1509：7月12
 *版本 1509（内部版本 6001.1085）*
 
-*这是自2016年2月起, 现已推出的延期频道版本。在10月2016之前, 它将继续受支持和接收安全更新。但是, 新的延期频道版本现已推出, 即版本 1602 (内部版本 6741.2056), 其中包含新功能、安全更新和非安全更新。*
+*这是自2016年2月起，现已推出的延期频道版本。在10月2016之前，它将继续受支持和接收安全更新。但是，新的延期频道版本现已推出，即版本1602（内部版本6741.2056），其中包含新功能、安全更新和非安全更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
@@ -366,7 +366,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1602-june-14"></a>版本 1602: 6 月14日
+## <a name="version-1602-june-14"></a>版本1602：6月14日
 *版本 1602（内部版本 6741.2048）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
@@ -451,7 +451,7 @@ ms.locfileid: "32439087"
 -   修复了在“从”下拉列表中的项目不能完全以高对比度模式突出显示的问题。
 -   修复了在使用“SHIFT + 单击”选择多个附件时，仅选中第一个附件的问题。
 -   修复配置为使用 POP3 时在 Outlook 下载邮件后服务器上的所有邮件都从收件箱中删除的问题。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
--   修复了以下问题: 当配置为使用 POP3 时, 邮件会多次下载, 从而导致重复的项目。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
+-   修复了以下问题：当配置为使用 POP3 时，邮件会多次下载，从而导致重复的项目。 [有关此问题的详细信息](https://support.microsoft.com/kb/3145116)
 -   修复了用户无法访问驻留在 Exchange Server 2010 上的公用文件夹的问题。
 -   修复了在高 DPI 设备和普通 DPI 监视器之间发送邮件时显示图像大小错误的问题。
 -   修复在消息列表中拖动滚动条导致列表跳到末尾的问题。
@@ -465,7 +465,7 @@ ms.locfileid: "32439087"
 -   **Morph 转换：** 在幻灯片之间创建无缝转换并为演示文稿添加动画功能，以便更有效地传达概念和信息。 [详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint 设计器：** 允许您提取内容并自动生成各种想法，使您可从中选择以使您的幻灯片效果更佳的新服务。 [更多信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    此服务需要 Internet 连接。 若要禁用此功能, 请[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)并启用 PowerPoint 设计器选项设置。 可以在 "用户配置\\管理模板\\" 下找到此策略设置 Microsoft\\Office 2016 Tools |选项 |常规 |服务选项 .。。\\PowerPoint 设计器。
+    此服务需要 Internet 连接。 若要禁用此功能，请[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)并启用 PowerPoint 设计器选项设置。 可以在 "用户配置\\管理模板\\" 下找到此策略设置 Microsoft\\Office 2016 Tools |选项 |常规 |服务选项 .。。\\PowerPoint 设计器。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
 -   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
@@ -638,10 +638,10 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1509-june-14"></a>版本 1509: 6 月14日
+## <a name="version-1509-june-14"></a>版本1509：6月14日
 *版本 1509（内部版本 6001.1082）*
 
-*这是自2016年2月起, 现已推出的延期频道版本。在10月2016之前, 它将继续受支持和接收安全更新。但是, 新的延期频道版本现已推出, 即版本 1602 (内部版本 6741.2056), 其中包含新功能、安全更新和非安全更新。*
+*这是自2016年2月起，现已推出的延期频道版本。在10月2016之前，它将继续受支持和接收安全更新。但是，新的延期频道版本现已推出，即版本1602（内部版本6741.2056），其中包含新功能、安全更新和非安全更新。*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了用户尝试使用会议功能（如白板或共享笔记）时收到错误消息的问题。 [有关此问题的详细信息](https://support.microsoft.com/kb/3165438)
@@ -660,7 +660,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1509-may-10"></a>版本 1509: 5 月10日
+## <a name="version-1509-may-10"></a>版本1509：5月10日
 *版本 1509（内部版本 6001.1078）*
 
 ### <a name="word-security-updates"></a>Word：安全更新
@@ -671,7 +671,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1509-april-12"></a>版本 1509: 4 月12日
+## <a name="version-1509-april-12"></a>版本1509：4月12日
 *版本 1509（内部版本 6001.1073）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -682,7 +682,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1509-march-8"></a>版本 1509: 3 月8日
+## <a name="version-1509-march-8"></a>版本1509：3月8日
 *版本 1509（内部版本 6001.1068）*
 
 ### <a name="word-security-updates"></a>Word：安全更新
@@ -693,7 +693,7 @@ ms.locfileid: "32439087"
 
 
 
-## <a name="version-1509-february-9"></a>版本 1509: 2 月9日
+## <a name="version-1509-february-9"></a>版本1509：2月9日
 *版本 1509（内部版本 6001.1061）*
 
 这是此分支的初始版本。此版本包含与 2015 年 9 月 22 日发布的 Office 2016 所附带的相同的功能。
