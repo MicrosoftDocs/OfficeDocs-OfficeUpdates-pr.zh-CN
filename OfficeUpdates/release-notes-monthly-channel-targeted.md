@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549173"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586569"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,114 @@ ms.locfileid: "42549173"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2003-march-10"></a>版本 2003：3 月 10 日
+*版本 2003（内部版本 12624.20176）*
+
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。
+
+- 修复了用户在重命名数据透视表度量时可能遇到的问题。
+
+- 修复了切片器中的文本在打印预览中无法缩放的问题。
+
+- 修复了用户在使用 VBA 宏清除某区域中的内容时可能遇到的性能问题。
+
+- 修复了用户执行与功能区交互的宏时会导致 UI 闪烁的问题。
+
+- 修复了 CSV 文件中的第一个单词为 TABLE 时无法正确加载文件的问题。
+
+- 修复了用户在切换具有不同缩放级别的两个工作簿时可能遇到崩溃的问题。
+
+- 修复了 CUBEVALUE 函数有时会返回错误结果的问题。
+
+- 此更改解决了对象模型中的运行时错误，以及当加载项在包含带 noSelect 锁的形状的文档/工作表上请求主机项目时，应用（Excel、Word）可能崩溃的情况。
+
+- 解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 修复了通过 Outlook Web Access 创建规则不会保留到 Exchange 服务器且会导致冲突的问题。
+
+- 解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。
+
+- 修复了深色模式下 Outlook 不会在“发件人:”字段中显示下拉列表的问题。
+
+- 解决了导致 Outlook 在某些情况下意外生成日志输出（即使已关闭日志记录）的问题。
+
+- 解决了 Outlook 在夜间运行时导致用户无法打开公用文件夹邮件的问题。
+
+- 修复了在添加 Gmail 帐户的身份验证工作流程期间位于权限页面上的“允许”和“拒绝”按钮被禁用的竞态条件。
+
+- 解决了导致用户无法访问“&quot;闲/忙选项&quot;”日历权限对话框的问题。
+
+- 修复了以下问题：打开从不同时区发送的定期会议实例时出现警告“&quot;很抱歉，无法打开此项目&quot;”。
+
+- 解决了可能导致用户在从邮件中拖拽附件后无法重新打开 .msg 文件的问题。
+
+- 修复了将文件附件从 Outlook 上传到 OneDrive 后出现的问题，如果附件名称包含圆括号，则会导致文件名被更改。
+
+- 解决了导致用户无法通过文件资源管理器将已在其他应用程序中打开的文件附加到其邮件中的问题。
+
+- 解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了将鼠标悬停在推荐的缩略图上时缩略图闪烁的问题。 在某些情况下，这可能会导致 PowerPoint 崩溃。
+
+- 修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。
+
+- 修复了可能导致无法保存文档至含 Excel 图表的 PowerPoint 或 Word 的问题。
+
+### <a name="project"></a>Project
+
+- 解决了以下问题：在标记为完成后，任务完成百分比错误地更改为小于 100% 完成。
+
+- 修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。
+
+- 修复了有时无法正确计算摘要任务日期的问题。
+
+### <a name="visio"></a>Visio
+
+- 在 Visio 桌面版中打开文件时，“形状信息”窗格在“形状数据”部分下显示不一致的文件详细信息。 此问题现已得到修复。
+
+- 由于某些安全检查，在 2016 版之前版本中导入的位图无法呈现。 我们已在 Visio 订阅版中修复此问题。
+
+### <a name="word"></a>Word
+
+- 修复了当鼠标指针悬停在批注卡上方时不会始终突出显示批注卡的问题。
+
+- 解决了通过批注卡使用 Tab 键时，批注编辑框焦点无法显示的问题。
+
+- 修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。
+
+- 在活动文档共同创作会话期间，直接向批注卡添加图像可能会导致添加标记。 此问题已修复。
+
+- 如果在公式中插入控件（例如文本内容控件），然后保存再打开文件，会导致“内容不可读”错误。
+
+- 解决了无法保存之前受密码保护文件至云存储的问题。
+
+- 修复了受编辑保护的文档的“比较”功能问题。
+
+- 修复了导出至 PDF 时文档中的图片失去透明度的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 将 Multichoice/Lookup/Managed-metadata 属性用于 Word/Excel/PowerPoint 文档并保存到 SharePoint 文档库时，这些属性在以前会限制为 255 个字符。 如果这些属性超过 255 个字符，则无法保存此类文档。 通过此次更改后，此限制已增加到 2048 个字符。
+
+- 修复了 Word/Excel/PowerPoint 中的用户主体名称 (UPN) 不再区分大小写的问题，从而减少了处理 SharePoint 上的文件时出现的故障。
+
+- 修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2002-march-05"></a>版本 2002：3 月 5 日
 *版本2002（内部版本 12527.20278）*
