@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403791"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586489"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,6 +29,26 @@ ms.locfileid: "42403791"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2020-release"></a>2020 年 3 月版本
+
+**发布日期：** 2020年 3 月 10 日
+
+*Microsoft 自动更新 4.21*
+
+ **功能更新：**
+
+- 已为 Word、Excel 和 PowerPoint 启用状态还原，运行但打开任何窗口，或在 Microsoft AutoUpdate 的自动更新模式中运行 Docstage 状态。 现在对于最终用户而言，在“自动更新”模式下，更新将更加安静，因为最终用户无需退出通过状态恢复具备更新资格的应用程序。
+
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.21 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+<br/><br/>
 
 ## <a name="february-2020-release"></a>2020 年 2 月版本
 
