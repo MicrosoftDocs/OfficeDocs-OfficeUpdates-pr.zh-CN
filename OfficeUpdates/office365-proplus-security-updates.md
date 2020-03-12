@@ -1,7 +1,7 @@
 ---
 title: Office 365 专业增强版安全更新程序发行说明
 ms.author: andrewmo
-author: ''
+author: TimDavenport
 manager: andrewmo
 ms.audience: ITPro
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978620"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586643"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
@@ -25,6 +25,28 @@ ms.locfileid: "41978620"
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="march-10-2020"></a>2020 年 3 月 10 日
+每月频道：版本 2002（内部版本 12527.20278）  
+半年频道（定向）：版本 2002（内部版本 12527.20278）  
+半年频道：版本 1908（内部版本 11929.20648）  
+半年频道：版本 1902（内部版本 11328.20554）  
+Windows 7 版 Office 365 ProPlus ：版本 2002（内部版本 12527.20278）  
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0851)
+
+[//]: # (请勿移除安全详细信息内容结尾)
+
+
 
 ## <a name="february-11-2020"></a>2020 年 2 月 11 日
 每月频道：版本 2001（内部版本 12430.20264）  

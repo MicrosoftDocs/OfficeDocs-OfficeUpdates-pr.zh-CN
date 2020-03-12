@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978580"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586646"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -25,6 +25,49 @@ ms.locfileid: "41978580"
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
 
+
+
+
+## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
+*版本 1908（内部版本 11929.20648）*
+
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- <div><span>修复了当工作簿中存在外部链接时某些用户可能遇到多个弹出窗口的问题。&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">某些本地化版本的“文本分列”功能可能会失败。</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">访问隐藏命名区域时，用户可能会遇到错误。</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>我们修复了 Shape.Paste 方法的问题：当用户使用 &nbsp;Shape.Paste 方法&nbsp;<span style="font-size:13.3333px;display:inline !important;">复制和粘贴形状时，它会将所选内容更改为粘贴的形状。</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div>我们修复了以下问题：在某些情况下，保存现有文件始终会导致显示“另存为”对话框，而该文件从不实际保存<br></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>此更改解决了某些包含标记的散点图呈现缓慢的问题。</span></div>
+
+## <a name="version-1902-march-10"></a>版本 1902：3 月 10 日
+*版本 1902（内部版本 11328.20554）*
+
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908（内部版本 11929.20606）*
