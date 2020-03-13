@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道（已设定目标）发行的发行说明
-ms.openlocfilehash: 0c55b3885c6b5f68ac293d92f743ecfcde8c7ea5
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586645"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614927"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>有关 2020 年半年频道（已设定目标）发行的发行说明
 
@@ -26,7 +26,7 @@ ms.locfileid: "42586645"
 > - Microsoft Teams 包含在半年频道(定向)的新安装中，从版本 1902 开始。 当半年频道(定向)的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
-*版本 2002（内部版本 12527.20278）*
+*版本 2002（生成号 12527.20278）*
 
 [此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
@@ -69,7 +69,7 @@ ms.locfileid: "42586645"
 
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中查看联系人的领英详细信息：** 现在，可以在打开联系人的个人资料卡片时，通过查看他们的领英个人资料来详细了解他们。
+
 
 - **优化了重点收件箱的启用和禁用体验：** 对于不使用重点收件箱的客户，我们跨所有文件夹恢复了邮件列表中的“未读”选项卡。此外，我们还添加了按标志排序功能，以简化已标志项的查找过程。最后，重点收件箱改进了搜索交互模型：重点收件箱一直保留到用户开始搜索，我们在搜索完成后显示“结果”文本。
 
@@ -141,7 +141,7 @@ ms.locfileid: "42586645"
 
 - **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-- **如果可以重复使用，为何还要重新创建呢？：** 通过重新使用你创建的幻灯片或其他人与你共享的幻灯片来节省时间。
+- **如果可以重复使用，为何还要重新创建呢？：** 通过重新使用你创建的幻灯片或其他人与你共享的幻灯片来节省时间。 [了解更多](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **在 PowerPoint for Office 365 中将手写墨迹更改为形状、文本或数学公式：** 从自由格式的墨迹转到几条笔划中的 Office 形状、文本或数学表达式。 [了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -198,8 +198,6 @@ ms.locfileid: "42586645"
 ### <a name="office-suite"></a>Office 套件
 
 - **“新增功能”窗格：**“新增功能”体验已移至“帮助”窗格，以便你可以更轻松地访问并及时了解最新的更新。
-
-- **功能区图标具有新的外观：** 请不要担心，所有功能的工作方式不变。 此外，这些图标在各种尺寸的屏幕上看起来都很美观。 [了解更多](https://support.office.com/article/your-ribbon-icons-have-a-new-look-c6bc4cd8-d151-41d3-8276-fc7c9975eb79?ui=en-US&rs=en-US&ad=US)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)

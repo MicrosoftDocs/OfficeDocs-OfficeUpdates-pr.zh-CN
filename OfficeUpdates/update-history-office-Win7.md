@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 向客户提供 Windows 7 版 Office 365 ProPlus 更新历史记录的发行说明
-ms.openlocfilehash: 64964bc3e806179414c77568c04f449f105fbef3
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586359"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612458"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7 Office 365 专业增强版更新历史记录 
 
@@ -34,8 +34,11 @@ ms.locfileid: "42586359"
 
 版本 2002 的扩展可用性还适用于其他更新频道，例如每月频道和半年频道（定向），但仅适用于运行 Windows 7 的设备。
 
-##
+只有仍支持较早的版本，可继续部署在 Windows 7 上运行早于 2002 版的版本。 例如，2021 年 3 月前，可继续在运行 Windows 7 的设备上使用半年频道的 1908 版，然后 1908 版失去半年频道支持。
 
+在每月的第 2 周，将根据需要发布版本 2002 的新内部版本及安全更新。 每个架构（x86 或 x64）将仅有一个内部版本，可将其用于部署的任何更新频道。 对于各频道，这将不是 2002 版的单独内部版本。 例如，相同的内部版本可用于更新使用每月频道或使用半年频道的 Windows 7 设备。
+
+##
 
 [//]: # (请勿移除)
 
