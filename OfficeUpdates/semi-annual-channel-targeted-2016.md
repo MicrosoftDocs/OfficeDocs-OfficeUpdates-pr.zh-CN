@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供针对 Office 365 专业增强版的半年频道（定向）发布的发行说明2016
 ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549213"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614917"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中的半年频道（定向）发布的发行说明
 
