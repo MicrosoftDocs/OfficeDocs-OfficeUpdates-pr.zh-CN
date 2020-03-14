@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586569"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622126"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -35,8 +35,17 @@ ms.locfileid: "42586569"
 
 [此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
-
 [//]: # (请勿移除错误详细信息内容开头)
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+</br>
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
@@ -60,6 +69,8 @@ ms.locfileid: "42586569"
 - 此更改解决了对象模型中的运行时错误，以及当加载项在包含带 noSelect 锁的形状的文档/工作表上请求主机项目时，应用（Excel、Word）可能崩溃的情况。
 
 - 解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。
+
+
 
 ### <a name="outlook"></a>Outlook
 
@@ -95,6 +106,8 @@ ms.locfileid: "42586569"
 
 - 修复了可能导致无法保存文档至含 Excel 图表的 PowerPoint 或 Word 的问题。
 
+
+
 ### <a name="project"></a>Project
 
 - 解决了以下问题：在标记为完成后，任务完成百分比错误地更改为小于 100% 完成。
@@ -125,7 +138,8 @@ ms.locfileid: "42586569"
 
 - 修复了受编辑保护的文档的“比较”功能问题。
 
-- 修复了导出至 PDF 时文档中的图片失去透明度的问题。
+
+
 
 ### <a name="office-suite"></a>Office 套件
 

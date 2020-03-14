@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: 4f611e9c9816bb622524bcaf3d5656901c8d6f8d
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 2713a32599dbdeff0a5618bd35decde41be59c1d
+ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586619"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637430"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 预览体验成员频道的更新历史记录
 
@@ -31,6 +31,9 @@ ms.locfileid: "42586619"
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (请勿移除)
+
+**2020 年 3 月 13 日**<br/>
+版本 2004（内部版本 12711.20000）<br/>
 
 **2020 年 3 月 9 日**<br/>
 版本 2004（内部版本 12703.20010）<br/>

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
-ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
+ms.openlocfilehash: a62e8d030c01685f6ab688666bccd15a7cf87cea
+ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "42568858"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637420"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,54 @@ ms.locfileid: "42568858"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2004-march-13"></a>版本 2004：3 月 13 日
+*版本 2004（内部版本 12703.20010）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+
+### <a name="excel"></a>Excel
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="access"></a>Access
+- 修复了 Access 国际版本在用户界面中显示英文字符串的问题。
+
+### <a name="excel"></a>Excel
+- 修复了用户以编程方式编辑大量单元格时可能遇到的性能问题。
+- 修复了在日语环境中打开 csv 文件时出现的性能问题。
+
+### <a name="outlook"></a>Outlook
+- 解决了将附件添加到邮件或通过拖放操作（而不是通过菜单）从邮件保存附件时，将更新文件的“上次修改时间”的问题。
+- 解决了导致在展开的查找窗格中按回车键无法启动搜索，而是要求用户单击搜索按钮的问题。
+- 修复了禁用“可用时显示用户照片”选项时，搜索不显示有关用户的信息的问题。
+
+### <a name="project"></a>Project
+- 修复了有时无法正确计算摘要任务日期的问题。
+- 修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。
+
+### <a name="word"></a>Word
+- 修复了在键入或编辑批注时使用 Ctrl+A 将导致在画布中选择文本而不是仅在批注卡中选择文本的问题。
+- 修复了以下问题，即在使用“快速打印”打印后尝试进行编辑时，文档中的单词对齐方式会被打乱。
+- 修复了将两个文档合并为一个文档时出现的问题。
+- 修复了标记涉及公式的修订后可能导致保存文件失败的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-march-06"></a>版本 2003：3 月 6 日
 *版本2003（内部版本 12624.20086）*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: b8a86eca77d1a167f83fb985522d05a091085903
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586589"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622136"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -45,9 +45,21 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 [//]: # (请勿移除安全详细信息内容开头)
 ### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **演示者视图中折叠当前幻灯片窗口的功能：** 通过将行分隔符拖动到屏幕左侧，可以折叠当前幻灯片视图，以便在演示过程中仅在视图中看到“下一张幻灯片”。
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+
+
+### <a name="word"></a>Word
+
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
 
 ### <a name="security-updates"></a>安全更新
 
