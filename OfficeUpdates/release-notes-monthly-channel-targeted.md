@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
+ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622126"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42706952"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,53 @@ ms.locfileid: "42622126"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2003-march-16"></a>版本 2003：3 月 16 日
+*版本 2003（内部版本 12624.20224）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。
+
+### <a name="outlook"></a>Outlook
+
+- **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。
+
+### <a name="word"></a>Word
+
+- **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。
+
+### <a name="office-suite"></a>Office 套件
+
+- **制表符窗格：** 现在，可以使用应用程序右侧的选项卡 UI 在多个窗格之间进行切换。 UI 将只在当打开2个以上的窗格时才会可见。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 解决了如果关闭了源代码簿，则外部链接不会在填充时更新的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在退出后在任务管理器中看到 Outlook 进程延迟的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-march-10"></a>版本 2003：3 月 10 日
 *版本 2003（内部版本 12624.20176）*
