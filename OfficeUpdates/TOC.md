@@ -28,7 +28,7 @@
 ### [预览体验成员频道的发行说明](release-notes-office-insider.md)
 ### [每月频道（定向）的发行说明](release-notes-monthly-channel-targeted.md)
 
-## [Windows 7 更新历史记录](update-history-office-Win7.md)
+## [Windows 7 的更新历史记录](update-history-office-Win7.md)
 
 ## [ODT 发布历史记录](ODT-release-history.md)
 
