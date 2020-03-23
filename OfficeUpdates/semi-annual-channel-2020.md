@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: b4a6ef107e4bd4904192d4c6e6d100194b2948b9
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614905"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890119"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -72,7 +72,7 @@ ms.locfileid: "42614905"
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908（内部版本 11929.20606）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -105,7 +105,7 @@ ms.locfileid: "42614905"
 - 解决了导致用户在更改视图时遇到间歇性崩溃的问题。
 
 
-- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到崩溃的问题。 [此处](https://support.microsoft.com/zh-CN/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)是单个 KB，包含针对先前版本记录的问题。
+- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到崩溃的问题。 [此处](https://support.microsoft.com/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)是单个 KB，包含针对先前版本记录的问题。
 
 - 解决了一个问题，该问题导致用户在将共享日历文件夹同步到 OST 时遇到问题，这导致他们与这些文件夹进行交互时出现权限错误。
 
@@ -140,7 +140,7 @@ ms.locfileid: "42614905"
 ## <a name="version-1902-february-11"></a>版本 1902：2 月 11 日
 *版本 1902（内部版本 11328.20526）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -162,7 +162,7 @@ ms.locfileid: "42614905"
 ## <a name="version-1808-february-11"></a>版本 1808：2 月 11 日
 *版本 1808（内部版本 10730.20438）*
 
-[此处](https://docs.microsoft.com/zh-CN/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
