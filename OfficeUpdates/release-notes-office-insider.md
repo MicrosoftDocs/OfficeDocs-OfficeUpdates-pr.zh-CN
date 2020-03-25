@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a62e8d030c01685f6ab688666bccd15a7cf87cea
-ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
+ms.openlocfilehash: d9c7ef29b0384bb2f3be769beb59c9f16d9ea711
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637420"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890129"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,75 @@ ms.locfileid: "42637420"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+## <a name="version-2004-march-20"></a>版本 2004：3 月 20 日
+*版本 2004（生成号 12711.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **日历旧貌换新颜：** 去年，我们推出了全新的邮件体验；而今年，轮到日历改头换面了！ 尽管这些更新是全新的，但却很熟悉。作为经验丰富的 Outlook 用户，你可以立即使用并提高工作效率。
+
+- **帮助保护组中的数据：** 你在创建组时选择的敏感度标签应用于组电子邮件、文档和团队网站
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。
+
+### <a name="outlook"></a>Outlook
+
+- 此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。
+
+- 此更改修复了以下问题：对电子邮件草稿的最新更改没有得到更新。
+
+- 修复了以下问题：无法鼠标右键单击文件并使用“发送到”。
+
+- 修复了以下问题：如果用户有通讯簿的自定义搜索路径，Outlook 的名称解析范围会被限制为此自定义路径，而不包括全局地址列表 (GAL)。
+
+- 修复了以下问题：在一组返回的搜索结果中，按“类别”对结果排序时看不到“类别”颜色。
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：当用户单击了“任务”功能区上“计划”分组中的“停用”按钮后，“ProjectBeforeTaskChange”Visual Basic Applications (VBA) 事件未触发。
+
+- 如果你在“窗体类型”视图中设置前置任务或后续任务详细信息，ProjectBeforeTaskChange Visual Basic Applications (VBA) 事件并不总是能够捕获更改。 例如，如果你删除了依赖项，并单击了窗体上的“确定”，但此事件并未触发。 此行为已修复。
+
+- 修复了以下问题：在你更改（如更改日期）后，“已完成工作量的实际成本(ACWP)”的最新值不会显示。
+
+- 修复了以下问题：使用“最近经常使用(MRU)”菜单打开项目时，打开的是带有读/写访问权限的项目文件。
+
+- 此更改修复了以下问题：如果你创建的手动任务包含开始日期和时间（但没有持续时间），它会在时间线上显示不正确的时间。
+
+- 修复了以下问题：使用回历打印时间线会导致在打印视图中跳过或重复某个月。
+
+- 此更改修复了以下问题：在工作组规划器中使用 GDI 对象时，可能会导致 GDI 对象的过度分配，并导致内存不足。
+
+### <a name="word"></a>Word
+
+- 修复了以下问题：评论发布功能已遭禁用。
+
+- 此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。
+
+- 此更改修复了以下问题：帐户管理员不会分派消息，导致第三方应用程序挂起。
+
+- 此更改修复了以下问题：目录会使用文档中没有的标题样式进行更新。
+
+- 修复了以下问题：当你通过邮件发送文档时，保存在 Word 文档中的数字签名会遭删除。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-13"></a>版本 2004：3 月 13 日
 *版本 2004（内部版本 12703.20010）*
