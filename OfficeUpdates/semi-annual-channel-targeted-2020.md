@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道（已设定目标）发行的发行说明
-ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 3015dec03cba319ffeaa8a97794b5236ffd6c879
+ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614927"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42982501"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>有关 2020 年半年频道（已设定目标）发行的发行说明
 
@@ -144,6 +144,8 @@ ms.locfileid: "42614927"
 - **如果可以重复使用，为何还要重新创建呢？：** 通过重新使用你创建的幻灯片或其他人与你共享的幻灯片来节省时间。 [了解更多](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **在 PowerPoint for Office 365 中将手写墨迹更改为形状、文本或数学公式：** 从自由格式的墨迹转到几条笔划中的 Office 形状、文本或数学表达式。 [了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+- **用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。 [了解更多](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
 ### <a name="visio"></a>Visio
 
