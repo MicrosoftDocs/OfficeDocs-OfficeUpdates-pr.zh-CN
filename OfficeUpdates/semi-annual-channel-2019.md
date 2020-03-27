@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: de069e864ee597379553958a3b839261ce13d04a
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: b03cf0f98c4444a19167759a1805f750866bcb78
+ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614918"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42982518"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
 这些发行说明提供了 2019 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的半年频道更新中所包含的新功能和非安全更新的相关信息。
 
 > [!NOTE]
-> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 即使没有立即看到下述内容，也会很快就能看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 > - 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，则默认情况下不会包括 OneNote 2016。
 
 [//]: # (请勿移除错误详细信息内容结尾)
@@ -180,6 +180,7 @@ ms.locfileid: "42614918"
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1808-october-08"></a>版本 1808：10 月 8 日
+
 *版本 1808（内部版本 10730.20386）*
 
 [此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
@@ -299,7 +300,7 @@ ms.locfileid: "42614918"
 - **缩放和粘贴：** 选择默认设置用于所有邮件，而无需在每次阅读邮件时调整缩放。 [了解更多](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **邮件加密：仅加密 IRM 策略：** 新的仅加密选项显示在 Office 365 邮件加密用户的“选项”>“权限”菜单中。 此选项允许你加密邮件并将其发送给组织内部或外部的任何人。
 - **密件抄送 (BCC) 警告：** BCC 信息提示会在你意外对被密件抄送的邮件全部答复之前发出警告。
-- **更智能的“收件人:”行：** 在单击“收件人:”行处理邮件时，会提示用户可能要选择的收件人。 此外，还可以看到收件人的照片，这样用户便知道将要向其发送邮件的收件人正确无误。 [了解更多](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
+- **更智能的“收件人:”行：** 在单击“收件人:”行处理邮件时，会提示用户可能要选择的收件人。 此外，还可以看到收件人的照片，这样用户便能知道自己将要向其发送邮件的收件人是否正确。 [了解更多](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **增强了对高清晰度显示器的支持**：现在，如果用户使用多个显示器或笔记本电脑基座配件，Office 应用在每个显示器上都会有清晰画面，即使显示器有不同的缩放设置也是如此。 [了解更多](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
@@ -313,7 +314,6 @@ ms.locfileid: "42614918"
 - **查看栩栩如生的幻灯片：** 插入动态 3D 图形，观看心跳、行星轨道以及在整个屏幕中横冲直撞的霸王龙。 [了解更多](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **用户绘制草图，我们来润色：** 我们将手绘文本和形状变为精致的图表。只需选择笔划墨迹即可开始。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **显示图片背后的内容：** 将图片置于工作表中，选择预设，然后观察透明度的变化。就是这样！[了解详细信息](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。 [了解更多](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 - **发布到 Microsoft Stream：** 通过使用 Microsoft Stream 在组织中更为安全地将演示文稿作为视频进行共享。  [了解更多](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **导出为 4K 视频：** 将演示文稿导出为视频时，现在可以选择 4K 分辨率。  [了解更多](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -592,7 +592,7 @@ ms.locfileid: "42614918"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **协作编辑：** 与其他人同时协作处理工作簿。[了解详细信息](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对文档作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **云文件“自动保存”功能现已默认启用：** 此更改意味着用户无需担心会丢失对 OneDrive 或 SharePoint Online 上存储的文档所做的更改。 更改将自动保存到云中，用户将不再需要显式按 Ctrl + S 或“保存”按钮。 但是，他们必须理解这种行为上的变化，以免意外更改文档。 请注意，用户可以使用屏幕顶部的“自动保存”切换来关闭“自动保存”。 建议你向用户通知即将进行的更改，并让他们了解如何充分利用 Office 365 中的新功能。 [了解有关“自动保存”的更多信息](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[了解有关 IT 管理员应了解的有关“自动保存”的更多信息](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改进了单元格和编辑栏编辑：** 现可按 Ctrl+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的工作簿更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **避免不需要的编辑：** 将工作簿设置为以只读方式打开，避免意外更改。转到“文件”>“信息”>“保护工作簿”>“始终以只读方式打开”
@@ -655,7 +655,7 @@ ms.locfileid: "42614918"
 - 修复了涉及同步和导航到已删除分区时可能出现的稳定性问题。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新 
-- **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对演示文稿作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **云文件“自动保存”功能现已默认启用：** 此更改意味着用户无需担心会丢失对 OneDrive 或 SharePoint Online 上存储的文档所做的更改。 更改将自动保存到云中，用户将不再需要显式按 Ctrl + S 或“保存”按钮。 但是，他们必须理解这种行为上的变化，以免意外更改演示文稿。 请注意，用户可以使用屏幕顶部的“自动保存”切换来关闭“自动保存”。 建议你向用户通知即将进行的更改，并让他们了解如何充分利用 Office 365 中的新功能。 [了解有关“自动保存”的更多信息](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[了解有关 IT 管理员应了解的有关“自动保存”的更多信息](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改进了单元格和编辑栏编辑：** 现可按 Ctrl+A 选择单元格或编辑栏中的文本。同时还改进了对表情符号和其他复杂字符的支持。[了解详细信息](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **转换墨迹：** 获取自由曲线备注和绘图，并将它们转换为可读文本和清晰形状，以创建完善的演示文稿。[了解详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -695,7 +695,7 @@ ms.locfileid: "42614918"
 - 修复了以下问题：通过主项目的上下文处理子项目时，无法保存子项目。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
-- **现在，默认情况下启用云文件自动保存：** 此更改意味着用户无需担心丢失存储在 OneDrive 或 SharePoint Online 中的文档的更改。更改将自动保存在云端，用户无需显式按 Ctrl+S 或“保存”按钮。但是，用户必须了解此行为更改，以便不会对演示文稿作出意外更改。注意，用户可使用屏幕顶部的“自动保存”切换关闭“自动保存”。我们建议你向用户告知此即将推出的更改，让其了解如何利用此 Office 365 新功能。[详细了解自动保存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[详细了解 IT 管理员应知晓的自动保存内容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **云文件“自动保存”功能现已默认启用：** 此更改意味着用户无需担心会丢失对 OneDrive 或 SharePoint Online 上存储的文档所做的更改。 更改将自动保存到云中，用户将不再需要显式按 Ctrl + S 或“保存”按钮。 但是，他们必须理解这种行为上的变化，以免意外更改演示文稿。 请注意，用户可以使用屏幕顶部的“自动保存”切换来关闭“自动保存”。 建议你向用户通知即将进行的更改，并让他们了解如何充分利用 Office 365 中的新功能。 [了解有关“自动保存”的更多信息](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)和[了解有关 IT 管理员应了解的有关“自动保存”的更多信息](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **辅助功能检查器改进：** 辅助功能检查器已更新了对国际标准与推荐的支持，以使你的文档更易于访问。[了解详细信息](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
