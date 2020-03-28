@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983892"
+ms.locfileid: "43024524"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -39,28 +39,28 @@ ms.locfileid: "42983892"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- <div><span>修复了当工作簿中存在外部链接时某些用户可能遇到多个弹出窗口的问题。&nbsp;</span></div>
+- 修复了当工作簿中存在外部链接时某些用户可能遇到多个弹出窗口的问题。
 
 
-- <div><span style="display:inline !important;">某些本地化版本的“文本分列”功能可能会失败。</span><br></div>
+- 某些区域设置的“文本分列”功能可能会失败。
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">访问隐藏命名区域时，用户可能会遇到错误。</span></div>
+- 访问隐藏命名区域时，用户可能会遇到错误。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>我们修复了 Shape.Paste 方法的问题：当用户使用 &nbsp;Shape.Paste 方法&nbsp;<span style="font-size:13.3333px;display:inline !important;">复制和粘贴形状时，它会将所选内容更改为粘贴的形状。</span></div>
+- 我们修复了 Shape.Paste 方法的问题：当用户使用 Shape.Paste 方法复制和粘贴形状时，它会将所选内容更改为粘贴的形状。
 
 
 ### <a name="word"></a>Word
 
-- <div>我们修复了以下问题：在某些情况下，保存现有文件始终会导致显示“另存为”对话框，而该文件从不实际保存<br></div>
+- 我们修复了以下问题：在某些情况下，保存现有文件始终会导致显示“另存为”对话框，而该文件从不实际保存。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- <div><span>此更改解决了某些包含标记的散点图呈现缓慢的问题。</span></div>
+- 此更改解决了某些包含标记的散点图呈现缓慢的问题。
 
 ## <a name="version-1902-march-10"></a>版本 1902：3 月 10 日
 *版本 1902（内部版本 11328.20554）*
