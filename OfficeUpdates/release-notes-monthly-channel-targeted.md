@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
-ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
+ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
+ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42706952"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42951702"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -27,6 +27,35 @@ ms.locfileid: "42706952"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2003-march-25"></a>版本 2003：3 月 25 日
+*版本 2003（内部版本 12624.20320）*
+
+- 各种 bug 和性能修补程序。
+
+## <a name="version-2003-march-23"></a>版本 2003：3 月 23 日
+*版本 2003（内部版本 12624.20296）*
+
+- 各种 bug 和性能修补程序。
+
+## <a name="version-2003-march-21"></a>版本 2003：3 月 21 日
+*版本 2003（内部版本 12624.20276）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。
+
+- **日历旧貌换新颜：** 去年，我们推出了全新的邮件体验；而今年，轮到日历改头换面了！ 尽管这些更新是全新的，但却很熟悉。作为经验丰富的 Outlook 用户，你可以立即使用并提高工作效率。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。
+
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
