@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 07f6ab27d42a0f86a33e1f8b3ee9605e8a58257f
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 3390ed2aaf7be5b1676c3bb373ce51082b89b374
+ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586647"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959360"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -31,7 +31,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|2002<br/>|12527.20278<br/>|2020 年 3 月 10 日<br/>|版本 2003 已发布<br/>|
+|每月<br/>|2003<br/>|12624.20320<br/>|2020 年 3 月25 日<br/>|版本 2004 已发布<br/>|
 |半年（定向）<br/>|2002<br/>|12527.20278<br/>|2020 年 3 月 10 日<br/>|2020 年 9 月 8 日<br/>|
 |半年<br/>|1908<br/>|11929.20648<br/>|2020 年 3 月 10 日<br/>|2021 年 3 月 9 日<br/>|
 |半年<br/>|1902<br/>|11328.20554<br/>|2020 年 3 月 10 日<br/>|2020 年 9 月 8 日<br/>|
@@ -46,6 +46,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**Year**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020 年|3 月 25 日|[版本 2003（内部版本 12624.20320）](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020 年|3 月 10 日|[版本2002（内部版本 12527.20278）](monthly-channel-2020.md#version-2002-march-10)|[版本2002（内部版本 12527.20278）](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[版本 1908（内部版本 11929.20648）](semi-annual-channel-2020.md#version-1908-march-10)<br/>[版本 1902（内部版本 11328.20554）](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020 年|3 月 1 日|[版本 2002（内部版本 12527.20242）](monthly-channel-2020.md#version-2002-march-01)| | |
 |2020 年|2 月 25 日|[版本 2002（内部版本 12527.20194）](monthly-channel-2020.md#version-2002-february-25)| | |
@@ -63,7 +64,7 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 |2019|10 月 30 日|[版本 1910（内部版本 12130.20272）](monthly-channel-2019.md#version-1910-october-30)| | |
 |2019 年|10 月 22 日|[版本 1909（内部版本 12026.20344）](monthly-channel-2019.md#version-1909-october-22)| | |
 |2019 年|10 月 14 日|[版本 1909（内部版本 12026.20334）](monthly-channel-2019.md#version-1909-october-14)|[版本 1908（内部版本 11929.20396）](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
-|2019 年|10 月 8 日|[版本 1909（内部版本 12026.20320）](monthly-channel-2019#version-1909-october-08)|[版本 1908（内部版本 11929.20388）](semi-annual-channel-targeted-2019#version-1908-october-08)|[版本 1902（内部版本 11328.20438）](semi-annual-channel-2019#version-1902-october-08)<br/>[版本 1808（内部版本 10730.20386）](semi-annual-channel-2019#version-1808-october-8)|
+|2019 年|10 月 8 日|[版本 1909（内部版本 12026.20320）](monthly-channel-2019.md#version-1909-october-08)|[版本 1908（内部版本 11929.20388）](semi-annual-channel-targeted-2019.md#version-1908-october-08)|[版本 1902（内部版本 11328.20438）](semi-annual-channel-2019.md#version-1902-october-08)<br/>[版本 1808（内部版本 10730.20386）](semi-annual-channel-2019.md#version-1808-october-08)|
 |2019 年|9 月 30 日|[版本 1909（内部版本 12026.20264）](monthly-channel-2019.md#version-1909-september-30)| | |
 |2019 年|9 月 10 日|[版本 1908（内部版本 11929.20300）](monthly-channel-2019.md#version-1908-september-10)|[版本 1908（内部版本 11929.20300）](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[版本 1902（内部版本 11328.20420）](semi-annual-channel-2019.md#version-1902-september-10)<br/>[版本 1808（内部版本 10730.20380）](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019 年|8 月 26 日|[版本 1908（内部版本 11929.20254）](monthly-channel-2019.md#version-1908-august-26)| | |
