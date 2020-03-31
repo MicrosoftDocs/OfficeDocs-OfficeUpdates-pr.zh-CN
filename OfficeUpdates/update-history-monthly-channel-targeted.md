@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 1e7adea823c50641eaeedab8169f54be70c730f6
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 8cf6f5299ffbe0afa3eada8a2e3f0929730dbba9
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951712"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046137"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -23,6 +23,14 @@ ms.locfileid: "42951712"
 ## <a name="office-insider-versions-and-builds"></a>Office 预览体验成员版本和内部版本
 
 如果你注册的是每月频道（定向）级别（以前称为“预览体验成员 - 慢”），你每月大约会获得一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续版本。以下列表显示了最近的每月频道（定向）版本和内部版本，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。若要查找发行说明，请参阅[针对 Office 预览体验成员的新增功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+
+
+> [!IMPORTANT]
+> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本

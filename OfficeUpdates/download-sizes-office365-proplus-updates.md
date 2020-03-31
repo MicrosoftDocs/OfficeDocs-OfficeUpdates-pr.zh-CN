@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953012"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046097"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -23,6 +23,14 @@ ms.locfileid: "42953012"
 下表显示了将上一版 Office 365 专业增强版更新到最新版本时的近似下载大小。 实际下载大小可能会有所不同，差值最多不超过 50 MB。 若要从更低版本更新至当前版本，下载大小会更大。
 
 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。 可能需要进行完整下载（至少为 1 GB）。
+
+
+> [!IMPORTANT]
+> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 表格中列出的近似下载大小仅适用于美国英语 x64 版 Office 365 专业增强版。

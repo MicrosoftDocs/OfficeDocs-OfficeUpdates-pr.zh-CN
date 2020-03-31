@@ -10,14 +10,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: 1377ec56666c3a713b8e64500b45a140b19273c0
-ms.sourcegitcommit: 42d66d834fd4c1a062535e27fc7eb4e579527d2e
+ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "41103813"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046117"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
+
+
+> [!IMPORTANT]
+> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 
 ## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 专业增强版版本的安全更新

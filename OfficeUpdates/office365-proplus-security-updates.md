@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614904"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046087"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
 这些发行说明介绍了 Office 365 专业增强版更新中包含的安全修复程序。
+
+
+> [!IMPORTANT]
+> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
  
 > [!NOTE]
 > - 下面还介绍了 Visio Pro for Office 365 和 Project Online 桌面客户端的安全更新程序。

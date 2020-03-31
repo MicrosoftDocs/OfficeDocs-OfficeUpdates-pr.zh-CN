@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: 9ef0c0fb6b0a12562c3d529ed0c141c0dc701279
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: 5ffb00f0901f621dbfd82fb46f0de21bc043b592
+ms.sourcegitcommit: 088650343fbff4054950593d3b42d216ae7414cb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926283"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052067"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 预览体验成员频道的更新历史记录
 
 你好，预览体验成员！如果你想知道是否安装了最新的更新或查找最近的预览体验成员内部版本列表，那么你来对地方了。单击[此处](https://insider.office.com/)以了解有关预览体验成员计划的详细信息。
+
+
+> [!IMPORTANT]
+> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
@@ -31,6 +39,9 @@ ms.locfileid: "42926283"
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (请勿移除)
+
+**2020 年 3 月 30 日**<br/>
+版本 2004（内部版本 12725.20006）<br/>
 
 **2020 年 3 月 23 日**<br/>
 版本 2004（内部版本 12718.20010）<br/>

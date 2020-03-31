@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 37f124d8a99aeef470c6829e3e41a26eabc5a104
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
+ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614907"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030919"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
@@ -24,6 +24,66 @@ ms.locfileid: "42614907"
 >
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2003-march-25"></a>版本 2003：3 月 25 日
+*版本 2003（内部版本 12624.20320）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **将电子邮件拖动到你拥有的组：** 通过从收件箱中拖动来移动和复制邮件和对话。 将与所有组成员共享你拖动的消息。
+
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。
+
+### <a name="word"></a>Word
+
+- **其他人可以快速查看你所做的更改: **共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+
+### <a name="office-suite"></a>Office 套件
+
+- **敏感度标签：** 你现在可以应用组织已配置的敏感度标签来提示自定义权限。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 在某些情况下，重新打开嵌入 Word 或 PowerPoint 的工作簿时，Excel 会崩溃。
+
+- 解决了如果关闭了源代码簿，则外部链接不会在填充时更新的问题。
+
+- 解决了从模板创建图表时出现的性能问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在退出后在任务管理器中看到 Outlook 进程延迟的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 改进了复制粘贴方案：即将 PowerPoint 幻灯片中的形状复制并粘贴到其他幻灯片可能会因异常而失败。
+
+
+### <a name="project"></a>Project
+
+- 解决了以下问题：通过“停用”按钮停用/激活任务后，无法检测到 ProjectBeforeTaskChange 事件。
+
+- 解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。
+
+- 解决了以下问题：在标记为完成后，任务完成百分比错误地更改为小于 100% 完成。
+
+- 修复了有时无法正确计算摘要任务日期的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002（生成号 12527.20278）*
@@ -204,12 +264,6 @@ ms.locfileid: "42614907"
 ### <a name="outlook"></a>Outlook
 
 - <div>解决了导致用户在对签名进行重命名时发生崩溃的问题。</div>
-
-
-### <a name="outlookexe"></a>outlook.exe
-
-- <div>解决了导致用户在对签名进行重命名时发生崩溃的问题。</div>
-
 
 
 [//]: # (请勿移除错误详细信息内容结尾)

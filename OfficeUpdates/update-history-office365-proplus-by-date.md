@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 3390ed2aaf7be5b1676c3bb373ce51082b89b374
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959360"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046127"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
-Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过[更新频道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)发行。对于每个更新频道中的每次发行，都会被分配一个版本号和内部版本号。 
+Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过[更新频道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)发行。对于每个更新频道中的每次发行，都会被分配一个版本号和内部版本号。
+
+
+> [!IMPORTANT]
+> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 这些版本和内部版本号还适用于 Office 365 商业版、Visio Pro for Office 365 和 Project Online 桌面客户端。Office 365 商业版是随附有部分 Office 365 计划（例如商业高级版）的 Office 版本。
