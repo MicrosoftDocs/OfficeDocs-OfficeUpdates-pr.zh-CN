@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道（已设定目标）发行的发行说明
-ms.openlocfilehash: 3015dec03cba319ffeaa8a97794b5236ffd6c879
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982501"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081794"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>有关 2020 年半年频道（已设定目标）发行的发行说明
 
@@ -65,13 +65,11 @@ ms.locfileid: "42982501"
 
 - **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 
 ### <a name="outlook"></a>Outlook
 
 
-
-- **优化了重点收件箱的启用和禁用体验：** 对于不使用重点收件箱的客户，我们跨所有文件夹恢复了邮件列表中的“未读”选项卡。此外，我们还添加了按标志排序功能，以简化已标志项的查找过程。最后，重点收件箱改进了搜索交互模型：重点收件箱一直保留到用户开始搜索，我们在搜索完成后显示“结果”文本。
 
 - **将 LinkedIn 网络连接到 Outlook：** 以安全的方式将 LinkedIn 帐户连接到 Microsoft 帐户，直接在“人员”卡片中查看 LinkedIn 中的信息。 [了解更多](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -80,8 +78,6 @@ ms.locfileid: "42982501"
 - **Outlook 中的插入链接菜单将插入包含租户管理员定义的权限的链接：** Outlook 插入链接 MRU 中的链接将插入仅对已经拥有权限的用户有效的链接。 这通常会导致请求获得文档访问权限的用户之间发生往来电子邮件。 我们已更新了此体验，现在该链接将通过租户管理员设置的默认权限进行插入。对于 MSIT，这“可供组织编辑”，因此收到以此方式共享的链接的所有内部用户都可以访问它。
 
 - **在有拼写错误的情况下进行搜索：** 即使你的拼写有误，Outlook 仍将找到你在查找的内容。
-
-- **“联系支持人员”窗口现在可停靠：** 现在可在屏幕右侧窗格中找到停靠的“联系支持人员”窗口。
 
 - **更多符合你心情的图标：** 我们添加了 300 多个新图标。 可在“插入”>“图标”中找到它们。 [了解更多](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -99,7 +95,7 @@ ms.locfileid: "42982501"
 
 - **以不同的亮度查看邮件：** 使用“太阳”/“月亮”按钮在阅读窗格中的明暗背景之间切换。 [了解更多](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -138,8 +134,6 @@ ms.locfileid: "42982501"
 - **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
 
 - **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。
-
-- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **如果可以重复使用，为何还要重新创建呢？：** 通过重新使用你创建的幻灯片或其他人与你共享的幻灯片来节省时间。 [了解更多](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
@@ -195,11 +189,6 @@ ms.locfileid: "42982501"
 
 - **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-
-### <a name="office-suite"></a>Office 套件
-
-- **“新增功能”窗格：**“新增功能”体验已移至“帮助”窗格，以便你可以更轻松地访问并及时了解最新的更新。
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
