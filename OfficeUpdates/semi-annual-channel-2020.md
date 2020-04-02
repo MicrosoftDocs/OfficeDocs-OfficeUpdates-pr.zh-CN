@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
-ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
+ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43024524"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076267"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -200,6 +200,8 @@ ms.locfileid: "43024524"
 
 - **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="outlook"></a>Outlook
 
 - **我们已经为你更新了 Outlook 用户体验：** 简化的体验，以前可供预览，现即将推出，旨在帮助你关注最重要的内容。 [了解更多](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
@@ -218,6 +220,8 @@ ms.locfileid: "43024524"
 
 - **告别同步限制：** Outlook 改进意味着文件夹限制已取消，因此请继续操作并同步共享邮箱。
 
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **切换效果更好：** 对形状命名，以更好地掌控其平滑效果。 [了解更多](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
@@ -235,6 +239,8 @@ ms.locfileid: "43024524"
 - **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 - **比以往更轻松地插入联机视频：** 想要将 Vimeo 或 YouTube 中的视频放到幻灯片上？只需使用视频页面链接即可。[了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
@@ -275,6 +281,8 @@ ms.locfileid: "43024524"
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
 - **使用\@提及**功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Office 套件
 

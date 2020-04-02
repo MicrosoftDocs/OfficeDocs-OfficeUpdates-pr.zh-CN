@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 6047a39a1db741ed60a8fc265fa7b9333339fe8a
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: d535c5748afb3dba80096509e48f1f32128c1790
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982511"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076286"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>有关 2019 年半年频道（定向）发行的发行说明
 
@@ -277,6 +277,8 @@ ms.locfileid: "42982511"
 
 - **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="outlook"></a>Outlook
 
 - **移动邮件时继续工作：** Outlook 现在在后台移动邮件，因此你可以在文件夹之间移动大量邮件时继续工作。
@@ -297,6 +299,8 @@ ms.locfileid: "42982511"
 
 - **告别同步限制：** Outlook 改进意味着文件夹限制已取消，因此请继续操作并同步共享邮箱。
 
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
@@ -314,6 +318,8 @@ ms.locfileid: "42982511"
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
@@ -353,7 +359,9 @@ ms.locfileid: "42982511"
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **告别干扰：** Windows 具有了最受欢迎的 Mac 功能。 切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 [了解详细信息](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **告别干扰：** Windows 具有了最受欢迎的 Mac 功能。 切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 [了解更多](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Office 套件
 

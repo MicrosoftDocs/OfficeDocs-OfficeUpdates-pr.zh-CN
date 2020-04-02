@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
-ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
+ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030919"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081776"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
@@ -24,6 +24,28 @@ ms.locfileid: "43030919"
 >
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2003-march-31"></a>版本 2003：3 月 31 日
+*版本 2003（内部版本 12624.20382）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="onenote"></a>OneNote
+
+- 通过暂时禁用将页面移动到回收站来提升同步和服务器稳定性。 希望删除页面的用户将改为显示一个对话框，询问用户是否想要永久删除页面。
+
+- 通知用户有关 Microsoft OneNote 中的暂时调整的信息栏，可有助于提升全球范围内使用期间的同步和服务可用性。
+
+- 通过临时更改页面版本历史记录的创建频率，提升了同步和服务稳定性。
+
+### <a name="project"></a>Project
+
+- 修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-march-25"></a>版本 2003：3 月 25 日
 *版本 2003（内部版本 12624.20320）*
@@ -61,11 +83,17 @@ ms.locfileid: "43030919"
 
 - 解决了从模板创建图表时出现的性能问题。
 
+### <a name="onenote"></a>OneNote
+
+- 通过暂时将新的嵌入式附件的最大允许大小降低到 50 MB，提升了同步和服务稳定性。 对于超出此限制的文件，用户可以选择将文件上传到 OneDrive 并将链接插入OneNote。
+
+- 通过暂时禁用 OneNote 2016 中的应用内视频录制功能，提升了同步和服务稳定性。 本地笔记本不受此措施影响。
+
+- 通过临时调整 OneNote 2016 中的同步频率，提升了同步和服务稳定性。
 
 ### <a name="outlook"></a>Outlook
 
 - 解决了导致用户在退出后在任务管理器中看到 Outlook 进程延迟的问题。
-
 
 ### <a name="powerpoint"></a>PowerPoint
 
