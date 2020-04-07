@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
+ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076266"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43150970"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,32 @@ ms.locfileid: "43076266"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2003-april-03"></a>版本 2003：4 月 3 日
+*版本 2003（内部版本 12624.20410）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 使用 VBA 的应用程序。在某些情况下，评估无法用于用户定义的功能。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了在使用鼠标上的 "X" 按钮时导致用户偶尔遇到崩溃的问题。
+
+### <a name="project"></a>Project
+
+- 在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent。
+
+### <a name="word"></a>Word
+
+- 解决了在使用鼠标上的 "X" 按钮时导致用户偶尔遇到崩溃的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-march-31"></a>版本 2003：3 月 31 日
 *版本 2003（生成号 12624.20382）*
