@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
-ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
+ms.openlocfilehash: cf477b7b6387eefc1959a1da4de6e73b264808da
+ms.sourcegitcommit: 6ef4d6dd466260609bebaf7bc6ef952d268e6897
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43150970"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206469"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,40 @@ ms.locfileid: "43150970"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2003-april-09"></a>版本 2003：4 月 9 日
+*版本 2003（内部版本 12624.20442）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **M365 高级版内容选取器：** 让你的文档更生动！ 探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="outlook"></a>Outlook
+
+- **M365 高级版内容选取器：** 让你的文档更生动！ 探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **M365 高级版内容选取器：** 让你的文档更生动！ 探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="word"></a>Word
+
+- **M365 高级版内容选取器：** 让你的文档更生动！ 探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-april-03"></a>版本 2003：4 月 3 日
 *版本 2003（内部版本 12624.20410）*
