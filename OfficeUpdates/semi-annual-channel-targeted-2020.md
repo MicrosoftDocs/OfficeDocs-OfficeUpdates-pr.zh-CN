@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道（已设定目标）发行的发行说明
-ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
-ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
+ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43159834"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521370"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>有关 2020 年半年频道（已设定目标）发行的发行说明
 
@@ -24,6 +24,75 @@ ms.locfileid: "43159834"
 >
 > - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams 包含在半年频道(定向)的新安装中，从版本 1902 开始。 当半年频道(定向)的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2002-april-14"></a>版本 2002：4 月 14 日
+*版本 2002（内部版本 12527.20442）*
+
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- 键入可返回多个值的公式：现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解更多](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- 6 个强大的函数：我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。  [了解更多](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- 向左看，向右看… XLOOKUP 在此！使用 XLOOKUP 在表或区域中逐行查找所需内容。  [了解更多](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 在某些情况下，重新打开嵌入 Word 或 PowerPoint 的工作簿时，Excel 会崩溃。
+
+- 当另存为 CSV 文件时，在某些情况下，Excel 可能将所有列合并为一个列。
+
+- 在受保护工作表中的某个区域内使用 Range.ClearContents 的时间可能比预期的要长。
+
+- 修复了在“打印预览”中显示时表单控件中的文本缩放问题。
+
+- 与功能区交互的 VBA 宏可能在 ScreenUpdating 意外设置为 True 的情况下运行。
+
+- 解决了如果关闭了源代码簿，则外部链接不会在填充（向下填充、横跨填充等）时更新的问题。
+
+- 使用 VBA 的应用程序。在某些情况下，评估无法用于用户定义的功能。
+
+- 解决了从模板创建图表时出现的性能问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了在某些方案中导致组页眉意外展开的问题。
+
+- 解决了导致用户在选择某些搜索结果时遇到崩溃的问题。
+
+- 解决了在使用鼠标上的 X 按钮时导致用户偶尔遇到崩溃的问题。
+
+- 解决了导致附件工具中缺少“保存到云”按钮的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 改进了复制粘贴方案：即将 PowerPoint 幻灯片中的形状复制并粘贴到其他幻灯片可能会因异常而失败。
+
+
+### <a name="project"></a>Project
+
+- 解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。
+
+- 解决了以下问题：通过“停用”按钮停用/激活任务后，无法检测到 ProjectBeforeTaskChange 事件。
+
+### <a name="word"></a>Word
+
+- 解决了在使用鼠标上的 X 按钮时导致用户偶尔遇到崩溃的问题。
+
+- 我们修复了表格中文本适应的问题。
+
+- 我们修复了插入水平线不短且居中的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002（生成号 12527.20278）*
@@ -177,8 +246,6 @@ ms.locfileid: "43159834"
 - **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
 
 - **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。 [了解更多](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-- **谁在与你合作？：** 轻松查看还有谁在和你一起工作，以及他们在[文档/电子表格/演示文稿]中的位置
 
 - **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
