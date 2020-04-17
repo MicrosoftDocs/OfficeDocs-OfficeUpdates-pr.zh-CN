@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: 7b84c3a897b1bc9e3ca3d2150d49b12fdeab4558
-ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
+ms.openlocfilehash: ce1a2b84f2eaf59a55431c15c3ff87b033f08bc4
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43170242"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521220"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
 
@@ -38,13 +38,40 @@ ms.locfileid: "43170242"
 
 [//]: # (请勿移除)
 
-## <a name="april-7-2020"></a>2020 年 4 月 7 日
+## <a name="april-15-2020"></a>2020 年 4 月 15 日
 
-[//]: # (请勿移除预测内容开头)
+[//]: # (请勿移除内容开头 2020 年 4 月 15 日)
+
+### <a name="monthly-channel"></a>每月频道
+
+最新版本是 2003（内部版本 12624.20466）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2003（内部版本 12624.20442） <br/> |2020 年 4 月 14 日 <br/> |52<br/> |
+|版本 2003（生成号 12624.20382） <br/> |2020 年 3 月 31 日 <br/> |69<br/> |
+
+
+[//]: # (请勿移除内容结尾 2020 年 4 月 15 日)
+
+## <a name="april-14-2020"></a>2020 年 4 月 14 日
+
+[//]: # (请勿移除内容开头 2020 年 4 月 14 日)
+
+### <a name="monthly-channel"></a>每月频道
+
+最新版本是 2003（内部版本 12624.20442）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2003（生成号 12624.20382） <br/> |2020 年 3 月 31 日 <br/> |69<br/> |
+|版本 2003（内部版本 12624.20320） <br/> |2020 年 3 月25 日 <br/> |334<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>半年频道
 
-<i>暂定版本为 1908（内部版本 11929.20708）。</i>
+最新版本是 1908（内部版本 11929.20708）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +81,7 @@ ms.locfileid: "43170242"
 
 ### <a name="semi-annual-targeted-channel"></a>半年频道（定向）
 
-<i>暂定版本为 2002（内部版本 12527.20442）。</i>
+最新版本是 2002（内部版本 12527.20442）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -62,7 +89,8 @@ ms.locfileid: "43170242"
 |版本 1908（内部版本 11929.20606） <br/> |2020 年 2 月 11 日 <br/> |290<br/> |
 
 
-[//]: # (请勿移除预测内容结尾)
+[//]: # (请勿移除内容结尾 2020 年 4 月 14 日)
+
 
 ## <a name="march-31-2020"></a>2020 年 3 月 31 日
 

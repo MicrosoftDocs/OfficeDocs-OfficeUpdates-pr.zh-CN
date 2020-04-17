@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076267"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521020"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -27,6 +27,46 @@ ms.locfileid: "43076267"
 
 
 
+## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
+*版本 1908 （内部版本 11929.20708）*
+
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了删除包含合并单元格的列时导致性能降低的问题。
+
+- 修复了在“打印预览”中显示时表单控件中的文本缩放问题。
+
+### <a name="skype"></a>Skype
+
+- 修复了一个对话正在进行时，选项卡式对话标题姓名的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在关闭 Outlook 时遇到崩溃的问题。
+
+- 解决了导致客户在某些场合中看到空会议室列表的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了荧光笔问题：带有黑色荧光笔颜色的白色文本在打印后显示为灰度中的黑色。
+
+### <a name="word"></a>Word
+
+- 修复了使文本适应表格的问题。
+
+
+## <a name="version-1902-april-14"></a>版本 1902：4 月 14 日
+*版本 1902 （内部版本 11328.20564）*
+
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
 *版本 1908（内部版本 11929.20648）*

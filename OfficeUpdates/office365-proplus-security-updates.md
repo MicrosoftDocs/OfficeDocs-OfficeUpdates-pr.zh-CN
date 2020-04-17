@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046087"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521272"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
 
@@ -33,6 +33,35 @@ ms.locfileid: "43046087"
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="april-14-2020"></a>2020 年 4 月 14 日
+每月频道：版本 2003（内部版本 12624.20442）  
+半年频道（定向）：版本 2002（内部版本 12527.20442）  
+半年频道：版本 1908（内部版本 11929.20708）  
+半年频道：版本 1902（内部版本 11328.20564）  
+Windows 7 版 Office 365 ProPlus ：版本 2002（内部版本 12527.20442）  
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0979)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0980)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0760)
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0961)
+
+[//]: # (请勿移除安全详细信息内容结尾)
+
+
 
 ## <a name="march-10-2020"></a>2020 年 3 月 10 日
 每月频道：版本 2002（内部版本 12527.20278）  

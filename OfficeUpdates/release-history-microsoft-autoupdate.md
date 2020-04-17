@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890109"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521050"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,6 +29,30 @@ ms.locfileid: "42890109"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="april-2020-release"></a>2020 年 4 月发布
+
+**发布日期：** 2020 年 4 月 14 日
+
+*Microsoft 自动更新 4.22*
+
+ **功能更新：**
+
+- 安全修复：Microsoft 自动更新将阻止旧版本中的任何不安全连接。
+- 关闭自动更新的用户只每周一次看到 Microsoft 自动更新用户界面。
+- 使用 SSD 的 MacOS 计算机将体验到更快的更新，并可忽略因更新导致的应用停机时间。
+
+
+参见 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0984)
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.22 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
+<br/><br/>
 
 ## <a name="march-2020-release"></a>2020 年 3 月版本
 

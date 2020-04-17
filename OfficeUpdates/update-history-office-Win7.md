@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 向客户提供 Windows 7 版 Office 365 ProPlus 更新历史记录的发行说明
-ms.openlocfilehash: 09bfdeddfdf7b2c09bbd5145c909b24b6da505e1
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 933e17220a7d3825369f68e43054a9abfd0eca65
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890149"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521030"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7 Office 365 专业增强版更新历史记录 
 
@@ -41,6 +41,9 @@ ms.locfileid: "42890149"
 ##
 
 [//]: # (请勿移除)
+
+**2020 年 4 月 14 日**<br/>
+版本 2002 （内部版本 12527.20442）<br/>
 
 **2020 年 3 月 10 日**<br/>
 版本 2002（内部版本 12527.20278）<br/>

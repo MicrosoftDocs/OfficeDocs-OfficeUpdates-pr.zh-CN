@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: f9e4d01b1d656c28115a24cf28012daea45fc372
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081776"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521040"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
@@ -24,6 +24,38 @@ ms.locfileid: "43081776"
 >
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2003-april-15"></a>版本 2003：4 月 15 日
+*版本 2003 （内部版本 12624.20466）*
+* 各种 bug 和性能修补程序。
+
+## <a name="version-2003-april-14"></a>版本 2003：4 月 14 日
+*版本 2003（内部版本 12624.20442）*
+
+[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了在使用鼠标上的 "X" 按钮时导致用户偶尔遇到崩溃的问题。
+
+### <a name="project"></a>Project
+
+- 在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent 事件。
+
+### <a name="word"></a>Word
+
+- 解决了在使用鼠标上的 "X" 按钮时导致用户偶尔遇到崩溃的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-march-31"></a>版本 2003：3 月 31 日
 *版本 2003（内部版本 12624.20382）*

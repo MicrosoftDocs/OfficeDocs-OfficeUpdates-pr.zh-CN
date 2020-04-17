@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 为 IT 专业人士提供 Office 部署工具 (ODT) 的发布历史记录
-ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230060"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521210"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的发布历史记录
 
@@ -29,6 +29,13 @@ Office 部署工具 (ODT) 是命令行工具，可用于下载即点即用版本
 
 [下载 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="april-15-2020"></a>2020 年 4 月 15 日
+
+版本 16.0.12624.20320 （setup.exe 版本 16.0.12624.20290）
+- 增加了对 Windows 7 已停用 Office 版本的支持。
+- 修复了自定义设置可能无法按预期应用的问题
+- 修复了可能意外下载无关 .cat 文件的问题
 
 ## <a name="january-16-2020"></a>2020 年 1 月 16 日
 

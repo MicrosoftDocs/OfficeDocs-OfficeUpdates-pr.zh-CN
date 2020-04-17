@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Office 356 订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 8008445d01b850dedf96f6354716e36c527e1e39
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622136"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521271"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -34,10 +34,25 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 
 [//]: # (请勿移除)
+## <a name="april-14-2020"></a>2020 年 4 月 14 日
+*版本 16.36（内部版本 20041300）*
 
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
 
+- **自动使用新数据类型**：当您键入类似于可能的股票或地理位置的数据值时，Excel 将其转换为适当的关联数据类型：股票或地理位置。
+- **采用不同的打印方向打印工作簿**： 一次打印整个工作簿时，Excel for Mac 可以根据“页面布局”选项横向或纵向打印每一工作表。
+- **获取工作簿统计信息**：工作簿统计信息提供工作簿内容的概述，可帮助你更轻松地发现内容。
 
+### <a name="outlook"></a>Outlook
 
+- **在 Outlook Mac 上脱机搜索日历**：如果在 Outlook Mac 上搜索日历，处于脱机状态时，可查看事件和约会。
+
+### <a name="security-updates"></a>安全更新
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>2020 年 3 月 10 日

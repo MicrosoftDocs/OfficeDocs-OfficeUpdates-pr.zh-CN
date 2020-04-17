@@ -9,16 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供自 2018 年 9 月开始的 Office 2016 for Mac 发行版的发行说明
-ms.openlocfilehash: 4975c84b35b67cea4b8f6efbe5079774ba45c096
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: bb2f4f0e3253aa1e522c0dd032738ec26debecc3
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586579"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521310"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Office 2016 for Mac 的更新历史记录
 
 Office 2016 for Mac 是通过零售商店或批量许可协议获得的一次性购买的 Office 版本。2020 年 10 月 13 日前，根据需要，此版本受到安全更新和 bug 修补程序支持。Office 2016 for Mac 支持的最低 macOS 版本是 10.10 (Yosemite)。
+
+> [!IMPORTANT]
+> - 于 2020 年 10 月 13 日终止对 Office 2016 for Mac 的支持。 如果尚未开始升级到较新版本，建议立即开始。 有关详细信息，请参阅[终止对 Office 2016 for Mac 的支持](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)。
 
 > [!NOTE]
 > - 出于安全考虑，Microsoft 已停用 SHA-1。[了解详细信息](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
@@ -33,17 +36,34 @@ Office 2016 for Mac 的更新可从 Microsoft AutoUpdate (MAU) 获得。若要�
 
 下表列出了 Office 2016 for Mac 和各个应用程序（如 Word 和 Excel）的最新程序包。所有程序包仅提供 64 位版本。创建日期在版本号后以 YYMMDD 格式在括号中列出。如果尚未安装该应用程序，则使用安装包，而更新包用于更新现有安装。
 
-### <a name="march-10-2020"></a>2020 年 3 月 10 日
-版本 16.16.20 (20030700)
+### <a name="april-14-2020"></a>2020 年 4 月 14 日
+版本 16.16.20 (20041301)
 
-|**Application**|**下载链接**|**安装包的 SHA256 哈希**|
+|**应用程序**|**下载链接**|**安装包的 SHA256 哈希**|
 |:-----|:-----|:-----|:-----|
-|Office 套件（所有应用程序）  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |  E6B38E17FECF5BF67CB08C5EF405BCEFE2079A079637D5800E1815B1FCB8E0B6<br/> |
-|Word  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/> <br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20030700_Updater.pkg) <br/> | 1B60C30C16005DE9D88C93DF5371BEC856944F98B8337D5408DC96C90A808E86 <br/>|
-|Excel  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20030700_Updater.pkg) <br/> | 4634B23F41A57B02D27F71C37D87856786DEF3653A40FFFFCEDF43857E1D9754 <br/>  |
-|PowerPoint  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20030700_Updater.pkg) <br/> | B062BAD7FEE443EDA0F5804F4F7C6D90585F62D91B74BD47F9D1EDE29C13DFA8<br/> |
-|Outlook  <br/> |[安装包](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20030700_Updater.pkg) <br/> | 07E736079C55DC0EB6C355FF45A51A2987D5623F8D1F8F485F378EE721937980<br/> |
-|OneNote  <br/> |[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20030700_Updater.pkg) <br/> | 不适用 <br/> |
+|Office 套件（所有应用程序）<br/>|[安装包](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>|07A4168CDB3D7E0F2D3B3FC1528EED490E2A159437878963EF66D36E5F32220F<br/>|
+|Word<br/>|[安装包](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20041301_Updater.pkg) <br/> |4E96B50BCD901363507BF753D34B83C04F9322F0E0516D7A60D4EED3952E6B64<br/>|
+|Excel<br/>|[安装包](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20041301_Updater.pkg)<br/>|0653D89F4E6A6969B657A9B2C8941FFE6704C50C833BC710B83488F5F4154E6B<br/> |
+|PowerPoint<br/>|[安装包](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20041301_Updater.pkg) <br/>|0F583ACD6FC476D4EB2D3A49978492179F7A9C720510A728112D19043D47FCCE<br/>|
+|Outlook<br/>|[安装包](https://go.microsoft.com/fwlink/p/?linkid=871753)<br/><br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20041301_Updater.pkg)<br/> |B13509C501DFEE9E4013B952F1BFA5318887EC767D02E9C021AFD027D9C5BF36<br/>|
+|OneNote<br/>|[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20041301_Updater.pkg) <br/> | 不适用<br/>|
+
+## <a name="april-2020-release"></a>2020 年 4 月发布
+
+ **发布日期：** 2020 年 4 月 14 日
+  
+ *版本 16.16.20 (20041301)* 
+  
+此版本提供以下更新。
+  
+|**应用程序**|**安全更新**|**更新程序包的下载链接**|
+|:-----|:-----|:-----|
+|Word  <br/> |[CVE-2020-0980](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0980) |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20041301_Updater.pkg) <br/>|
+|Excel  <br/> | <br/>|[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20041301_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20041301_Updater.pkg) <br/>|
+|Outlook  <br/> |<br/>|[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20041301_Updater.pkg) <br/>|
+|OneNote <br/> ||[OneNote 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.2004130_Updater.pkg)|
+|Office 套件  <br/> | <br/>||
 
 ## <a name="march-2020-release"></a>2020 年 3 月版本
 

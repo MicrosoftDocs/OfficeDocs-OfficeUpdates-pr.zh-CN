@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: f70e7b3f33d08b92cb748069df368b7d5211a1fc
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: ffd28edabb121ba87836ccab21e87f83700186e6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081775"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521090"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
 
@@ -38,10 +38,10 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|2003<br/>|12624.20382<br/>|2020 年 3 月 31 日<br/>|版本 2004 已发布<br/>|
-|半年（定向）<br/>|2002<br/>|12527.20278<br/>|2020 年 3 月 10 日<br/>|2020 年 9 月 8 日<br/>|
-|半年<br/>|1908<br/>|11929.20648<br/>|2020 年 3 月 10 日<br/>|2021 年 3 月 9 日<br/>|
-|半年<br/>|1902<br/>|11328.20554<br/>|2020 年 3 月 10 日<br/>|2020 年 9 月 8 日<br/>|
+|每月<br/>|2003<br/>|12624.20466<br/>|2020 年 4 月 15 日<br/>|版本 2004 已发布<br/>|
+|半年（定向）<br/>|2002<br/>|12527.20442<br/>|2020 年 4 月 14 日<br/>|2020 年 9 月 8 日<br/>|
+|半年<br/>|1908<br/>|11929.20708<br/>|2020 年 4 月 14 日<br/>|2021 年 3 月 9 日<br/>|
+|半年<br/>|1902<br/>|11328.20564<br/>|2020 年 4 月 14 日<br/>|2020 年 9 月 8 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,8 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 |**Year**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020 年|4 月 15 日|[版本 2003 （内部版本 12624.20466）](monthly-channel-2020.md#version-2003-april-15)| | |
+|2020 年|4 月 14 日|[版本 2003（内部版本 12624.20442）](monthly-channel-2020.md#version-2003-april-14)|[版本 2002 （内部版本 12527.20442）](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[版本 1908 （内部版本 11929.20708）](semi-annual-channel-2020.md#version-1908-april-14)<br/>[版本 1902 （内部版本 11328.20564）](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020 年|3 月 31 日|[版本 2003（内部版本 12624.20382）](monthly-channel-2020.md#version-2003-march-31)| | |
 |2020 年|3 月 25 日|[版本 2003（内部版本 12624.20320）](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020 年|3 月 10 日|[版本2002（内部版本 12527.20278）](monthly-channel-2020.md#version-2002-march-10)|[版本2002（内部版本 12527.20278）](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[版本 1908（内部版本 11929.20648）](semi-annual-channel-2020.md#version-1908-march-10)<br/>[版本 1902（内部版本 11328.20554）](semi-annual-channel-2020.md#version-1902-march-10)|
