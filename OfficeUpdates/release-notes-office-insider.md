@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
-ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
+ms.openlocfilehash: 3ab0d2f47e3efb78f305e175b2ad8bc07f6fad98
+ms.sourcegitcommit: 33869248c8872c2d7dc27c265f5ba50bd1598d3f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43131100"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43548159"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -26,6 +26,130 @@ ms.locfileid: "43131100"
 > - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (请勿移除)
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-april-17"></a>版本 2005：4 月 17 日
+*版本 2005（内部版本 12810.20002）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+- 增大了与图表搭配使用的“自定义误差线”对话框上的单元格引用编辑控件的大小。
+- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
+- 修复了打印时窗体控件中的复选框缩放问题。
+- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。
+- 此更改修复了条件格式 (CF) 信息未正确保存到 XLSB 文件的问题。
+
+### <a name="onenote"></a>OneNote
+- 修复了换行符存储为垂直标签的问题。
+
+### <a name="outlook"></a>Outlook
+- 解决了导致用户无法将个人联系人组添加为与会者的问题。
+- 解决了距离开会时间超过 2 个月的会议无法在日程安排助理中显示会议主题的问题。
+- 解决了在转发大型 HTML 邮件时导致用户看到邮件正文截断的问题。
+- 添加了通过组策略强制执行 S/MIME 默认签名配置的能力。
+- 解决了导致删除为邮箱创建的规则而不是用户的主要邮箱无效的问题。
+- 解决了在转发加密邮件时导致附件被删除的问题。
+
+### <a name="project"></a>Project
+- 在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent 事件。
+- 修复了以下问题：在连接至 SharePoint 任务列表的项目上更改版块状态字段时，Project 可能会崩溃。
+- 解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-april-10"></a>版本 2004：4 月 10 日
+*版本 2004（内部版本 12730.20024）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **绕过“显示表”对话框，直接转至任务面板，并简化添加关系和查询表：** 通过单击四个选项卡、多选名称、按文本进行搜索并在工作时拖动保持打开状态的任务窗格来添加表和查询。
+
+### <a name="excel"></a>Excel
+
+- **M365 高级版内容选取器：** 让你的文档更生动！ 探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="outlook"></a>Outlook
+
+- **M365 高级版内容选取器：** 让你的文档更生动！ 探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **将图片作为电子邮件一部分发送时，保持图片的高度机密性：** 将图片作为电子邮件内容的一部分发送时，可以使用新的 Outlook 设置限制图片压缩
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **M365 高级版内容选取器：** 让你的文档更生动！ 探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。
+
+### <a name="word"></a>Word
+
+- **M365 高级版内容选取器：** 让你的文档更生动！ 探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **为私人副本添加批注：** 通过制作共享文档的私人副本，创建手写笔记供你自己查看。 转到“查看”>“创建私人副本”以开始使用。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修复了在任务窗格中调整表格大小和刷新表格时遇到的问题。
+
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：在工作表上选择单元格区域导致选择单个单元格。
+
+- 修复了在使用某些 X 轴区域减小图表大小时可能导致 Excel 停止响应的问题。
+
+- 修复了以下问题：插入用户定义的图表模板用作默认模板会导致将其另存为柱形图。
+
+- 修复了以下问题：当基础数据单元格没有标题时，图表上的数据标签显示为空白。
+
+- 修复了以下问题：对于启用了 R1C1 单元格引用且正在共同创作/共享的 Excel 工作表，将鼠标悬停在用户状态图标上时，在 R1C1 模式下不显示活动单元格引用。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致类别偶尔从电子邮件中消失的问题。
+
+- 解决了导致代理人在不同计算机上看到共享邮箱的不同文件夹层次结构的问题。
+
+- 解决了导致用户在尝试查看组织表单属性时遇到崩溃的问题。
+
+- 解决了导致在更改计算机上的时区时一些提醒无法触发的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此更改修复了以下问题：在 PowerPoint 或 Word 中嵌入为 OLE 对象的旧版 Excel 图表呈现时，可能并不总是显示图表标题。
+
+- 修复了以下问题：将文本从 Excel 复制到 PowerPoint 时可能会更改其格式。
+
+- 此更改修复了以下问题：使用“全字匹配”查找特殊字符时并非总是按预期工作。
+
+### <a name="project"></a>Project
+
+- 修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。
+
+### <a name="word"></a>Word
+
+- 此更改修复了以下问题：将光标悬停在提示上不会突出显示其卡片。
+
+- 此更改修复了以下问题：使用套索选择工具时，分组形状中的文本暂时消失。
+
+- 此更改修复了以下问题：在 PowerPoint 或 Word 中嵌入为 OLE 对象的旧版 Excel 图表呈现时，可能并不总是显示图表标题。
+
+- 此更改修复了以下问题：在双页视图中，在创建批注时，批注锚点并不总是出现在视图中。
+
+- 修复了以下问题：如果某个段落的样式是链接到列表的样式的上级，则该列表的编号可能会丢失。
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
