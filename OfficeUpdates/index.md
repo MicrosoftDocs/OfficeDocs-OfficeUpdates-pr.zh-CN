@@ -11,17 +11,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: 为 IT 专业人员提供 office release content for Office 365 专业增强版、Office for Mac、永久 Office 和 Office Server 产品的链接
-ms.openlocfilehash: 27e010048db0eeac3ab3c4f1eb7e5adb4e6d994c
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 2bdea84afebdfdfd525776aaa50e2540c9d67507
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714542"
 ---
 # <a name="office-updates"></a>Office 更新
 
   
-获取有关 Office 产品的功能、安全更新和非安全更新的信息，包括 Office 365 专业增强版、Office for Mac、Office Server 产品和永久版本的 Office。
+获取有关 Office 产品的功能、安全更新和非安全更新的信息，包括 Microsoft 365 应用、Office for Mac、Office Server 产品和永久版本的 Office。
   
 
 ---
@@ -32,7 +32,7 @@ ms.locfileid: "38282230"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office 365 专业增强版</h3>
+                        <h3>Microsoft 365 应用程序</h3>
                         <p><a href="release-notes-office365-proplus.md">发行说明</a></p>
                         <p><a href="update-history-office365-proplus-by-date.md">更新历史记录（按日期）</a></p>
                         <p><a href="download-sizes-office365-proplus-updates.md">更新大小</a></p>
@@ -100,7 +100,7 @@ ms.locfileid: "38282230"
                         <h3>其他 Office 资源</h3>
                             <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Office 365 的新增功能</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Office 365 路线图</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">掌控 Office 365 更改</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">及时获取 Office 365 更改</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Office 博客</a></p>
                     </div>
                 </div>
