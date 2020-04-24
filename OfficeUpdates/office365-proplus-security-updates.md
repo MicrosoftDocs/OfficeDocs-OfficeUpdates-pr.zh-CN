@@ -1,5 +1,5 @@
 ---
-title: Office 365 专业增强版安全更新程序发行说明
+title: Microsoft 365 应用安全更新的发行说明
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,29 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供 Office 365 专业增强版安全更新程序发行说明
-ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: 为 IT 专业人员提供 Microsoft 365 应用安全更新的发行说明
+ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521272"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715010"
 ---
-# <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 专业增强版安全更新程序发行说明
+# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 应用安全更新的发行说明
 
-这些发行说明介绍了 Office 365 专业增强版更新中包含的安全修复程序。
+这些发行说明介绍了 Microsoft 365 应用更新中包含的安全修补程序。
+
+此信息适用于 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本。
 
 
 > [!IMPORTANT]
-> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
-
+> 从 2004 版开始，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请 [阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为Microsoft 365 应用。
 
  
-> [!NOTE]
-> - 下面还介绍了 Visio Pro for Office 365 和 Project Online 桌面客户端的安全更新程序。
-> - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
 
@@ -39,7 +35,7 @@ ms.locfileid: "43521272"
 半年频道（定向）：版本 2002（内部版本 12527.20442）  
 半年频道：版本 1908（内部版本 11929.20708）  
 半年频道：版本 1902（内部版本 11328.20564）  
-Windows 7 版 Office 365 ProPlus ：版本 2002（内部版本 12527.20442）  
+Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20442）  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
@@ -68,7 +64,7 @@ Windows 7 版 Office 365 ProPlus ：版本 2002（内部版本 12527.20442）
 半年频道（定向）：版本 2002（内部版本 12527.20278）  
 半年频道：版本 1908（内部版本 11929.20648）  
 半年频道：版本 1902（内部版本 11328.20554）  
-Windows 7 版 Office 365 ProPlus ：版本 2002（内部版本 12527.20278）  
+Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）  
 
 [//]: # (请勿移除安全详细信息内容开头)
 

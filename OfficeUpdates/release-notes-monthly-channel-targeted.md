@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 1e760feeba1fa9c4cec937cb946de22052594021
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 8c308b50fe0a9be3b7949f3d3a8d8f4488b62f2b
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521290"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715020"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -22,13 +22,28 @@ ms.locfileid: "43521290"
 
 > [!NOTE]
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
-> - Office 365 专业增强版现有安装的 Microsoft Teams - 从6月底开始, 将在更新这些安装的 Office 365 专业增强版 (和 Office 365 Business) 现有安装中包含 Microsoft Teams。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
 
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2004-april-21"></a>版本 2004：4 月 21 日
+*版本 2004（生成号 12730.20182）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致文件夹窗格宽度意外改变的问题。
+
+- 解决了导致用户在退出 Outlook 时遇到挂起的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2004-april-15"></a>版本 2004：4 月 15 日
 *版本 2004（内部版本 12730.20150）*
