@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: e89f899f5a890b5db7b2ebaa0cc495f9b623f699
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
+ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714712"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43804905"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -25,6 +25,35 @@ ms.locfileid: "43714712"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-april-24"></a>版本 2005：4 月 24 日
+*版本 2005（内部版本 12816.20006）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+- 此更改修复了以下问题：即使 LINEST 函数返回的值正确，图表趋势线 R 平方值（在强制使用的 Y 轴截距情况下）也不正确。
+- 此更改修复了自定义图表趋势线格式设置未始终处于保存状态的问题。
+
+### <a name="outlook"></a>Outlook
+- 修复了 Office 功能区中组日历的“分类”按钮被禁用的问题。
+- 修复了以下问题：如果企业客户的组文件夹未实现或无法正常工作，将导致 Outlook 显示“未响应”消息。
+
+### <a name="powerpoint"></a>PowerPoint
+- 修复了将鼠标悬停在星号 (*) 上方时未显示上次更新文档的人员的用户名和日期的问题。
+
+### <a name="word"></a>Word
+- 启用选项“显示书签”不会显示书签。 已修复此问题。
+- 此更改修复了以下问题：如果已启用“显示域代码而非域值”选项，可能不会显示包含超链接的文本。
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
