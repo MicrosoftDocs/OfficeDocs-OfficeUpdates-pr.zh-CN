@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521050"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714672"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -31,6 +31,23 @@ ms.locfileid: "43521050"
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
 
 ## <a name="april-2020-release"></a>2020 年 4 月发布
+
+**发布日期：** 2020 年 4 月 21 日
+
+*Microsoft 自动更新 4.22*
+
+**Bug 修复和增强功能：**
+- Microsoft 自动更新 UI 将不会显示在通过 Microsoft 自动更新以“自动”模式更新其 Office 应用的设备上，也不会显示在（在没有新更新可用时）以非自动模式进行更新的设备上。
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.22 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
+
+<br/><br/>
 
 **发布日期：** 2020 年 4 月 14 日
 

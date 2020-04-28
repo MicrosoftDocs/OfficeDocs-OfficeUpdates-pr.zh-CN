@@ -1,5 +1,5 @@
 ---
-title: Office 365 专业增强版更新历史记录（按日期列出）
+title: Microsoft 365 应用版的更新历史记录（按日期列出）
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,29 +8,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供完整的 Office 365 专业增强版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: ffd28edabb121ba87836ccab21e87f83700186e6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
+ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521090"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715420"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 专业增强版更新历史记录（按日期列出）
+# <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
-Office 365 专业增强版会定期更新，推出新功能、安全更新和非安全更新。这些更新通过[更新频道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)发行。对于每个更新频道中的每次发行，都会被分配一个版本号和内部版本号。
-
+这些版本号和生成号适用于 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本。
 
 > [!IMPORTANT]
-> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
-
+> 从 2004 版开始，Office 365 专业增强版将重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
 
 > [!NOTE]
-> - 这些版本和内部版本号还适用于 Office 365 商业版、Visio Pro for Office 365 和 Project Online 桌面客户端。Office 365 商业版是随附有部分 Office 365 计划（例如商业高级版）的 Office 版本。
 > - 该表是按发行日期排序的，首先列出最近的发行日期。
-> - 若要详细了解更新频道，请参阅 [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
+> - 有关更新频道的详细信息，请参阅 [Microsoft 365 应用版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
 下表列出了每个更新频道支持的版本和最新内部版本号。
 
@@ -45,9 +40,9 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 [//]: # (EOSTABLEEND)
 
-有关从先前版本的 Office 365 专业增强版更新到最新版本时的大致下载大小的信息，请参阅 [Office 365 专业增强版更新下载大小](download-sizes-office365-proplus-updates.md)。
+有关从先前版本的 Microsoft 365 应用版更新到最新版本时的大致下载大小的信息，请参阅 [Microsoft 365 应用版更新下载大小](download-sizes-office365-proplus-updates.md)。
 
-下表提供了在以下更新频道发布的每个 Office 365 专业增强版更新的版本号和内部版本号的列表：每月、半年（定向）和半年。表中的每项直接链接到该版本的发行说明。发行说明提供了有关 Office 365 专业增强版更新中包含的功能、安全更新和非安全更新的信息。  
+下表列出了以下更新频道中发布的 Microsoft 365 应用版的每个更新的版本号和生成号：每月频道、半年频道（定向）和半年频道。 表格中的每个条目都将直接链接到该版本的发行说明。 这些发行说明提供有关 Microsoft 365 应用版更新中包含的功能、安全更新和非安全更新的信息。  
 
 [//]: # (HISTORYTABLESTART)
 
@@ -227,9 +222,9 @@ Office 365 专业增强版会定期更新，推出新功能、安全更新和非
 
 ## <a name="related-topics"></a>相关主题
 
-- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 365 专业增强版更新发行信息](release-notes-office365-proplus.md)
-- [Office 365 专业增强版更新的下载大小](download-sizes-office365-proplus-updates.md)
+- [Microsoft 365 应用版更新通道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 应用版更新发行信息](release-notes-office365-proplus.md)
+- [Microsoft 365 应用版更新的下载大小](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。

@@ -1,5 +1,5 @@
 ---
-title: Office 365 专业增强版更新下载大小
+title: Microsoft 365 应用版更新的下载大小
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,32 +8,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供有关每个更新频道的 Office 365 专业增强版更新的近似下载大小的信息
-ms.openlocfilehash: ce1a2b84f2eaf59a55431c15c3ff87b033f08bc4
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
+ms.openlocfilehash: c424e6b96022b145f2483b455bf4a49488b54eed
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521220"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714662"
 ---
-# <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新下载大小
+# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
 我们的目标是, 在可能的情况下, 提前提供更新规模的信息, 帮助企业客户计划网络带宽利用率。
 
-下表显示了将上一版 Office 365 专业增强版更新到最新版本时的近似下载大小。 实际下载大小可能会有所不同，差值最多不超过 50 MB。 若要从更低版本更新至当前版本，下载大小会更大。
+下表显示了将上一版 Microsoft 365 应用版更新到最新版本时的近似下载大小。 实际下载大小可能会有所不同，差值最多不超过 50 MB。 若要从更低版本更新至当前版本，下载大小会更大。
 
 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。 可能需要进行完整下载（至少为 1 GB）。
 
 
 > [!IMPORTANT]
-> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
-
-
+> 从 2004 版开始，Office 365 专业增强版将重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
 
 > [!NOTE]
-> - 表格中列出的近似下载大小仅适用于美国英语 x64 版 Office 365 专业增强版。
+> - 表格中列出的近似下载大小仅适用于美国英语 x64 版 Microsoft 365 应用版。
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
@@ -586,9 +582,9 @@ ms.locfileid: "43521220"
 
 ## <a name="related-topics"></a>相关主题
 
-- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 应用版更新通道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [Office 365 专业增强版更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
+- [Microsoft 365 应用版的更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
