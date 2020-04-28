@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: e7208b25c8b6f6b14fbd2511e570d02b32c8d396
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 5580335c0736379ad74b9487954d21d98824c2be
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714512"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907916"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
@@ -24,6 +24,14 @@ ms.locfileid: "43714512"
 >
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 
+
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2003-april-15"></a>版本 2003：4 月 15 日
 *版本 2003 （内部版本 12624.20466）*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715420"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907922"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -48,6 +48,7 @@ ms.locfileid: "43715420"
 
 |**Year**|**发布日期**|**每月频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|
+|
 |2020 年|4 月 15 日|[版本 2003 （内部版本 12624.20466）](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020 年|4 月 14 日|[版本 2003（内部版本 12624.20442）](monthly-channel-2020.md#version-2003-april-14)|[版本 2002 （内部版本 12527.20442）](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[版本 1908 （内部版本 11929.20708）](semi-annual-channel-2020.md#version-1908-april-14)<br/>[版本 1902 （内部版本 11328.20564）](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020 年|3 月 31 日|[版本 2003（内部版本 12624.20382）](monthly-channel-2020.md#version-2003-march-31)| | |
