@@ -1,5 +1,5 @@
 ---
-title: Office 365 专业增强版更新发行信息
+title: Microsoft 365 应用版更新发行信息
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,43 +9,39 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供 Office 365 专业增强版最新发行列表，其中包含各更新频道和发行说明链接以及更新历史记录
-ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+description: 为 IT 专业人员提供 Microsoft 365 应用版最新版本列表，其中包含各更新通道和发行说明链接以及更新历史记录
+ms.openlocfilehash: c025c0afd3428c3381aeac16821ddd0eb22904b0
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046117"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781585"
 ---
-# <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 专业增强版更新发行信息
+# <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新发行信息
 
 
 > [!IMPORTANT]
-> Office 365 专业增强版现在重新命名为 **Microsoft 365 企业版应用**。 若要了解有关此名称更改的详细信息，请[阅读此博客文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 有关此更改何时生效以及管理员可能需要执行哪些操作的详细信息，请[阅读此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+> 从 2004 版开始，Office 365 专业增强版将重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
 
 
-
-
-## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 专业增强版版本的安全更新
+## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 应用版发行版的安全更新
 
 有关安全更新的完整列表，请参阅以下文章：
- - [Office 365 专业增强版的安全更新](office365-proplus-security-updates.md)
+ - [Microsoft 365 应用版的安全更新](office365-proplus-security-updates.md)
 
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 专业增强版版本更新历史记录
+## <a name="update-history-for-microsoft-365-apps-releases"></a>Microsoft 365 应用版发行版的更新历史记录
 
 有关每个频道的完整版本列表和支持的版本，请参阅以下文章：
- - [Office 365 专业增强版更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
+ - [Microsoft 365 应用版的更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
 
 
- ## <a name="update-sizes-for-office-365-proplus-releases"></a>Office 365 专业增强版版本的更新大小
+ ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Microsoft 365 应用版发行版的更新大小
 
 有关更新版本大小的完整列表，请参阅以下文章：
- - [Office 365 专业增强版更新的下载大小](download-sizes-office365-proplus-updates.md)
+ - [Microsoft 365 应用版更新的下载大小](download-sizes-office365-proplus-updates.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 专业增强版版本的发行说明
+## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 应用版发行版的发行说明
 
 有关按更新频道和年份列出的发行说明的完整列表，请参阅以下文章：
  - 每月：[2020](monthly-channel-2020.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
@@ -58,7 +54,7 @@ ms.locfileid: "43046117"
 
 ## <a name="office-for-mac-release-information"></a>Office for Mac 发行信息
 
-有关 Office for Mac 更新（包含 Office 365 专业增强版的 Office 365 订阅计划随附）的信息，请参阅以下文章：
+有关 Office for Mac 更新（在包含 Microsoft 365 应用版的任何 Microsoft 365 订阅计划中随附）的信息，请参阅以下文章：
  - [Office for Mac 更新历史记录](update-history-office-for-mac.md)
  - [Office for Mac 发行说明](release-notes-office-for-mac.md)
  - [MAU 版本历史记录](release-history-microsoft-autoupdate.md)
@@ -66,11 +62,11 @@ ms.locfileid: "43046117"
 
 ## <a name="related-topics"></a>相关主题
 
-- [Office 365 专业增强版的更新频道概述](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 应用版更新通道概述](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
-- [Office 365 的新增功能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [Office 365 路线图](https://products.office.com/business/office-365-roadmap)
-- [Office 365 消息中心概述](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [Microsoft 365 应用版中有哪些新增功能？](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [Microsoft 365 应用版路线图](https://products.office.com/business/office-365-roadmap)
+- [Microsoft 365 应用版消息中心的概述](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10 发行信息](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft 安全更新指南](https://portal.msrc.microsoft.com/)
 
