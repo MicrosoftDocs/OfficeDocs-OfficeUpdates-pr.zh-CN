@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: 97d442f55c339a7f5da8699b07f8a43eca05f043
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: 1349ba4d3b96492d0fae0e7becc89ff8d116c85c
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781575"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907868"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 预览体验成员频道的更新历史记录
 
@@ -24,6 +24,7 @@ ms.locfileid: "43781575"
 > 从 2004 版开始，Office 365 专业增强版将重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
 
 > [!NOTE]
+>
 > - 此处的更新历史记录列出了发布的所有内部版本
 > - 发行说明的更新速度将放慢，可能是对已发布发行说明的内部版本号之前的多个内部版本的更新汇编。
 
@@ -34,6 +35,9 @@ ms.locfileid: "43781575"
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (请勿移除)
+
+**2020 年 4 月 27 日**<br/>
+版本 2005（内部版本 12823.20010）<br/>
 
 **2020 年 4 月 22 日**<br/>
 版本 2005 （内部版本 12816.20006）<br/>
