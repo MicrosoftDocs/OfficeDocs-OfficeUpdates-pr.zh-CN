@@ -8,24 +8,29 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人士提供有关 2020 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
+ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521020"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907896"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
-这些发行说明提供了 2020 年 Office 365 专业增强版、Visio Pro for Office 365、Project Online 桌面客户端和 Office 365 Business 的半年频道更新中所包含的新功能和非安全更新的相关信息。
+这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年频道更新中。
 
 > [!NOTE]
 >
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Office 365，现在默认情况下会包括 OneNote 2016。
+>- 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Microsoft 365 应用，现在默认情况下会包括 OneNote 2016。
 
 
+
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
 *版本 1908 （内部版本 11929.20708）*
@@ -312,9 +317,7 @@ ms.locfileid: "43521020"
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
-
-- **告别干扰：** Windows 具有了最受欢迎的 Mac 功能。 切换到“视图”菜单上的焦点模式，消除干扰，让你专注于工作。 [了解更多](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
