@@ -9,20 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 5c9535a000544238e1c68eee98817eb52d12449c
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: e4ab90ee506a9b9899a65e61de380323d347f961
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714687"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044595"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>有关 2020 年半年频道（已设定目标）发行的发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年频道（定向）更新中。
 
-> [!NOTE]
->
-> - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道（定向）更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
 ## <a name="version-2002-april-14"></a>版本 2002：4 月 14 日

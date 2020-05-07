@@ -23,14 +23,14 @@ ms.locfileid: "43907896"
 > [!NOTE]
 >
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- 如果半年频道上的用户从 Office 门户在 Windows 10 上下载并安装 Microsoft 365 应用，现在默认情况下会包括 OneNote 2016。
+>- 如果半年频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用，现在默认情况下会包括 OneNote 2016。
 
 
 
 
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
 *版本 1908 （内部版本 11929.20708）*

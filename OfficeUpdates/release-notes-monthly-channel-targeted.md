@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: f0ae7d9c965c4ffea21e31859760ebea550ac3e7
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 73bb6f13c3f196a7d99fafc951c831eafea33e41
+ms.sourcegitcommit: 6e3ff925f85e32db7dc701fc7a14aa8339365eee
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907886"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43937405"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -29,6 +29,32 @@ ms.locfileid: "43907886"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2004-april-29"></a>版本 2004：4 月 29 日
+*版本 2004（生成号 12730.20236）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **帮助保护组中的数据：** 你在创建组时选择的敏感度标签应用于组电子邮件、文档和团队网站。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致 Outlook 在某些 Windows 内部版本中发生故障的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2004-april-25"></a>版本 2004：4 月 25 日
 *版本 2004（内部版本 12730.20206）*
