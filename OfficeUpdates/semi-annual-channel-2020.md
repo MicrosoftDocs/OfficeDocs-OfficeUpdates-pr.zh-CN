@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907896"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044585"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -22,7 +22,6 @@ ms.locfileid: "43907896"
 
 > [!NOTE]
 >
->- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年频道更新。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 如果半年频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用，现在默认情况下会包括 OneNote 2016。
 
 
@@ -31,6 +30,22 @@ ms.locfileid: "43907896"
 
 
 [//]: # (请勿删除错误详细信息内容结尾)
+
+## <a name="version-1908-may-04"></a>版本 1908：5 月 4 日
+*版本 1908（生成号 11929.20752）*
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="office-suite"></a>Office 套件
+
+- 修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
+
+## <a name="version-1902-may-04"></a>版本 1902：5 月 4 日
+*版本 1902（生成号 11328.20572）*
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="office-suite"></a>Office 套件
+
+- 修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
 
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
 *版本 1908 （内部版本 11929.20708）*

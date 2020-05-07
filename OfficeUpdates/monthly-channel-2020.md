@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 5580335c0736379ad74b9487954d21d98824c2be
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 645e13aee4bbcf86541a0618c07be4811414c414
+ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907916"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44029872"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
@@ -28,6 +28,115 @@ ms.locfileid: "43907916"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-may-04"></a>版本 2004：5 月 4 日
+*版本 2004（生成号 12730.20250）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="office-suite"></a>Office 套件
+
+- 此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-april-29"></a>版本 2004：4 月 29 日
+*版本 2004（生成号 12730.20236）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **在“查询设计器”、“SQL 视图”和“关系”窗口中更高效地工作：** 右键单击表格，以对其进行打开、设计、调整大小和隐藏操作。 在 SQL 视图中搜索和替换文本。 在“关系”窗口中选择多个表。
+
+- **单击几下即可添加表：** 使用“添加表”任务窗格（在你工作时一直打开）向关系和查询添加表。 [了解详细信息](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+
+
+### <a name="excel"></a>Excel
+
+- **Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。
+
+- **更好的创意**：通过 Excel 创意，现在可以键入有关数据的问题，而无需对其进行格式设置。 [了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="outlook"></a>Outlook
+
+- **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。
+
+- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+- **定期会议的位置建议支持：** 搜索安排定期会议的会议室。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。
+
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="teams"></a>Teams
+
+- **Teams 日历改进：** 右键单击日历中的项以提取 RSVP 选项、开始与与会者交谈，或在会议开始时快速加入会议。 此外，我们还对事件计划窗体进行了改进。
+
+- **没错，就是你!：** 创建标签并向其分配人员，以便你可以@提及组、角色、部门等。Teams 所有者们，亲自体验下吧。 转到团队，选择“更多”选项，然后选择“管理”标签。
+
+### <a name="word"></a>Word
+
+- **使工具易于使用：** 在绘图工具箱中，查找可向文本添加墨迹手势的智能笔。 [了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
+
+- 修复了导致以下情形的问题：复制包含数据透视表的工作表后，在某些情况下 Excel 崩溃。
+
+- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致文件夹窗格宽度意外改变的问题。
+
+
+- 解决了导致 Outlook 在某些版本的 Windows 上崩溃的问题。
+
+
+- 解决了 Windows 更新后导致 Outlook 在打开本地保存的 .msg 或 .oft 文件时出现崩溃的问题。
+
+
+- 解决了导致 Outlook 在某些版本的 Windows 上崩溃的问题。
+
+
+- 解决了导致用户在退出 Outlook 时遇到挂起的问题。
+
+
+### <a name="project"></a>Project
+
+- 在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent 事件。
+
+
+- 修复了以下问题：如果你使用的是连接到 Project Web App 的 Project，并且小数分隔符是逗号，则当你尝试向依赖项添加延迟时，TaskDependencies Add 方法将失败。
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了阻止同时使用密码限制访问和保护文件的错误。
 
 
 
