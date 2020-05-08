@@ -1,8 +1,8 @@
-# [版本信息](release-notes-office365-proplus.md)
+# [版本信息](release-notes-microsoft365-apps.md)
 # Microsoft 365 应用
-## [安全更新](office365-proplus-security-updates.md)
-## [更新历史记录（按日期）](update-history-office365-proplus-by-date.md)
-## [更新大小](download-sizes-office365-proplus-updates.md)
+## [安全更新](microsoft365-apps-security-updates.md)
+## [更新历史记录（按日期）](update-history-microsoft365-apps-by-date.md)
+## [更新大小](download-sizes-microsoft365-apps-updates.md)
 
 ## 每月频道
 ### [2020 年](monthly-channel-2020.md)
