@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: ad71fff0a44c60626a4a6c1e1c834830ff1d0b88
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 7d3de2e4fe3d7d359542f6606ad08af1b5280fa0
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029932"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163614"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -52,7 +52,7 @@ ms.locfileid: "44029932"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="office-suite"></a>Office 套件
 
-- 此更新修复了 Microsoft Office 的 Visual Basic for Applications 中的一个问题，其中某些包含代码库参考，且库名称或路径中包含 DBSC 字符的 VBA 项目会被 Office 应用程序视为加载时损坏。
+- 此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
 
 
 
@@ -289,7 +289,7 @@ ms.locfileid: "44029932"
 ## <a name="version-2003-april-14"></a>版本 2003：4 月14 日
 *版本 2003（内部版本 12624.20466）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -464,7 +464,7 @@ ms.locfileid: "44029932"
 ## <a name="version-2003-march-10"></a>版本 2003：3 月 10 日
 *版本 2003（内部版本 12624.20176）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 ### <a name="feature-updates"></a>功能更新
@@ -684,7 +684,7 @@ ms.locfileid: "44029932"
 ## <a name="version-2002-february-11"></a>版本 2002：2 月 11 日
 *版本 2002（内部版本 12527.20092）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -892,7 +892,7 @@ ms.locfileid: "44029932"
 ## <a name="version-2001-january-14"></a>版本 2001：1 月 14 日
 *版本 2001（内部版本 12430.20050）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-1912-january-08"></a>版本 1912：1 月 8 日
 *版本 1912（内部版本 12325.20288）*
@@ -1099,7 +1099,7 @@ ms.locfileid: "44029932"
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
 *版本 1911（内部版本 12228.20364）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -1162,7 +1162,7 @@ ms.locfileid: "44029932"
 ## <a name="version-1911-november-12"></a>版本 1911：11 月 12 日
 *版本 1911（内部版本 12228.20120）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 6ffd421e4ecdacb50d44677333c814d41b48d123
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614903"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163544"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>有关 2018 年半年频道发行的发行说明
 
@@ -27,7 +27,7 @@ ms.locfileid: "42614903"
 > - 在 2018 年 1 月前，半年频道被命名为延期频道。
 
 > [!NOTE]
-> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](office365-proplus-security-updates.md)中单独列出。
+> - Office 365 专业增强版中每个更新频道的安全更新信息将开始在[安全更新](microsoft365-apps-security-updates.md)中单独列出。
 
 ## <a name="version-1803-december-11"></a>版本 1803：12 月 11 日
 *版本 1803（内部版本 9126.2336）*

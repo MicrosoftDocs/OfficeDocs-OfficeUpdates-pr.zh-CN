@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: df05a1a57bf165e62717f18b7704bb0e44b459dd
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614908"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163534"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -27,7 +27,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
 *版本 1911（内部版本 12228.20364）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -119,7 +119,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1910-november-12"></a>版本 1910：11 月 12 日
 *版本 1910（内部版本 12130.20344）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -222,7 +222,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日
 *版本 1909（内部版本 12026.20320）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -334,7 +334,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908（内部版本 11929.20300）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -400,7 +400,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907（内部版本 11901.20218）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 
@@ -454,7 +454,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906（内部版本 11727.20244）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 
@@ -520,7 +520,7 @@ ms.locfileid: "42614908"
 
 ## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
 *版本 1905（内部版本 11629.20246）*
-<br/>[此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 
@@ -610,7 +610,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
 *版本 1904（内部版本 11601.20204）*
 
-- [此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+- [此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-1904-may-8"></a>版本 1904：5 月 8 日
 *版本 1904（内部版本 11601.20178）*
@@ -675,7 +675,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903（内部版本 11425.20204）* 
 
-- [此处](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)列出安全更新
+- [此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 - 修复了以下问题：Lync (Skype for Business) 中对于任何有 7 个以上参与者的在线会议，会议窗口可能会消失。
@@ -765,7 +765,7 @@ ms.locfileid: "42614908"
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 版本 1901（内部版本 11231.20174）** 
 
-[此处](office365-proplus-security-updates.md)列出安全更新
+[此处](microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-1901-january-31"></a>版本 1901：1 月 31 日
 *版本 1901（内部版本 11231.20130）* 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: b03cf0f98c4444a19167759a1805f750866bcb78
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982518"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163524"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -35,7 +35,7 @@ ms.locfileid: "42982518"
 ## <a name="version-1902-december-10"></a>版本 1902：12 月 10 日
 *版本 1902（内部版本 11328.20492）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -99,7 +99,7 @@ ms.locfileid: "42982518"
 ## <a name="version-1902-november-12"></a>版本 1902：11 月 12 日
 *版本 1902（内部版本 11328.20468）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -134,7 +134,7 @@ ms.locfileid: "42982518"
 ## <a name="version-1808-november-12"></a>版本 1808：11 月 12 日
 *版本 1808（内部版本 10730.20416）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -154,7 +154,7 @@ ms.locfileid: "42982518"
 ## <a name="version-1902-october-08"></a>版本 1902：10 月 8 日
 *版本 1902（内部版本 11328.20438）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -183,12 +183,12 @@ ms.locfileid: "42982518"
 
 *版本 1808（内部版本 10730.20386）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-1902-september-10"></a>版本 1902：9月10日
 *版本 1902（内部版本 11328.20420）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -212,7 +212,7 @@ ms.locfileid: "42982518"
 ## <a name="version-1808-september-10"></a>版本 1808：9月10日
 *版本 1808（内部版本 10730.20380）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -225,7 +225,7 @@ ms.locfileid: "42982518"
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
 *版本 1902（内部版本 11328.20392）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 - 修复了表中针对已筛选切片器和未筛选切片器均显示清除筛选器图标的问题。
@@ -247,7 +247,7 @@ ms.locfileid: "42982518"
 ## <a name="version-1808-august-13"></a>版本 1808 8 月 13 日
 *版本 1808（内部版本 10730.20370）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 - 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -256,7 +256,7 @@ ms.locfileid: "42982518"
 ## <a name="version-1803-august-13"></a>版本 1803 8 月 13 日
 *版本 1803（内部版本 9126.2432）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 - 修复了在某些情况下设置 API 在 Office JavaScript 库中无法正常工作的问题[了解更多](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -264,7 +264,7 @@ ms.locfileid: "42982518"
 
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902（内部版本 11328.20368）*
-<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -432,7 +432,7 @@ ms.locfileid: "42982518"
 
 ## <a name="version-1808-july-09"></a>版本 1808：7 月 9 日
 *版本 1808（内部版本 10730.20360）*
-<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
@@ -447,12 +447,12 @@ ms.locfileid: "42982518"
 
 ## <a name="version-1803-july-09"></a>版本 1803：7 月 9 日
 *版本 1803（内部版本 9126.2428）*
-<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 ## <a name="version-1808-june-11"></a>版本 1808：6 月 11 日
 *版本 1808（内部版本 10730.20348）*
-<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
  - 修复了在签出文件时删除签名的相关问题。
@@ -462,7 +462,7 @@ ms.locfileid: "42982518"
 
 ## <a name="version-1803-june-11"></a>版本 1803：6 月 11 日
 *版本 1803（内部版本 9126.2388）*
-<br/>[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新 
+<br/>[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新 
 
 ## <a name="version-1808-may-14"></a>版本 1808：5 月 14 日
 *版本 1808（内部版本 10730.20344）*   
@@ -501,7 +501,7 @@ ms.locfileid: "42982518"
 - 我们添加了对 Word 日语明信片向导加载项的支持，用于日本新时代。 
 
 ## <a name="version-1803-april-9"></a>版本 1803：4 月 9 日
-- [此处](office365-proplus-security-updates.md)列出安全更新
+- [此处](microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-1808-march-12"></a>版本 1808：3 月 12 日
 *版本 1808（内部版本 10730.20304）*
@@ -520,7 +520,7 @@ ms.locfileid: "42982518"
 - 已修复 Office 更新可能会在尝试下载时停滞一段时间的问题。
 
 ## <a name="version-1803-march-12"></a>版本 1803：3 月 12 日 
-- [此处](office365-proplus-security-updates.md)列出安全更新
+- [此处](microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-1808-february-12"></a>版本 1808：2 月 12 日
 版本 1808（内部版本 10730.20280）**
