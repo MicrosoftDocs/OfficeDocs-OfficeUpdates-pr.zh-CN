@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
+ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997475"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44170622"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -25,6 +25,43 @@ ms.locfileid: "43997475"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2006-may-08"></a>版本 2006：5 月 8 日
+*版本 2006（内部版本 12829.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。
+
+### <a name="outlook"></a>Outlook
+
+- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解详细信息](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a>Word
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="office-suite"></a>Office 套件
+
+- 我们已调查并解决了操作系统关闭后，通过 InTune 执行 Office 365 企业应用版部署暂停的问题。 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
@@ -81,14 +118,9 @@ ms.locfileid: "43997475"
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
+
 ## <a name="version-2005-april-24"></a>版本 2005：4 月 24 日
 *版本 2005（内部版本 12816.20006）*
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -109,6 +141,7 @@ ms.locfileid: "43997475"
 - 此更改修复了以下问题：如果已启用“显示域代码而非域值”选项，可能不会显示包含超链接的文本。
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
 
 ## <a name="version-2005-april-17"></a>版本 2005：4 月 17 日
 *版本 2005（内部版本 12810.20002）*
@@ -139,9 +172,8 @@ ms.locfileid: "43997475"
 - 修复了以下问题：在连接至 SharePoint 任务列表的项目上更改版块状态字段时，Project 可能会崩溃。
 - 解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。
 
-
-
 [//]: # (请勿移除错误详细信息内容结尾)
+
 
 ## <a name="version-2004-april-10"></a>版本 2004：4 月 10 日
 *版本 2004（内部版本 12730.20024）*
