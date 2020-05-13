@@ -9,16 +9,19 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
-ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
+ms.openlocfilehash: a6f6e38e29357f0fe8ff009822a597e2627d779d
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44170622"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210937"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
 本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access 和 Project 的预览体验计划内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 注意，我们通常会在一段时间内向预览体验成员推出功能（有时甚至包括修补程序）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
+
+> [!IMPORTANT]
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译。

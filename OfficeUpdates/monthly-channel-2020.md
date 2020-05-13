@@ -9,16 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 645e13aee4bbcf86541a0618c07be4811414c414
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 2764d01ea6acb7a8ee3bcedfe8a32c9ed3bf6934
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029872"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211137"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>有关 2020 年每月频道发行的发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年每月频道更新中。
+
+> [!IMPORTANT]
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
  > [!NOTE]
 >
@@ -28,6 +31,23 @@ ms.locfileid: "44029872"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-may-12"></a>版本 2004：5 月 12 日
+*版本 2004（内部版本 12730.20270）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- <div>解决了导致用户在显示 toast 通知时遇到崩溃的问题。&nbsp;</div>
 
 
 
@@ -149,7 +169,7 @@ ms.locfileid: "44029872"
 ## <a name="version-2003-april-14"></a>版本 2003：4 月 14 日
 *版本 2003（内部版本 12624.20442）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -265,7 +285,7 @@ ms.locfileid: "44029872"
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002（生成号 12527.20278）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -351,7 +371,7 @@ ms.locfileid: "44029872"
 ## <a name="version-2001-february-11"></a>版本 2001：2 月 11 日
 *版本 2001（内部版本 12430.20264）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -462,7 +482,7 @@ ms.locfileid: "44029872"
 ## <a name="version-1912-january-14"></a>版本 1912：1 月 14 日
 *版本 1912（内部版本 12325.20298 ）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-1912-january-08"></a>版本 1912：1 月 8 日
 *版本 1912（内部版本 12325.20288）*

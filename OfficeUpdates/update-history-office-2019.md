@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: c3127aaae55214fd16f34fa39c6c59c0be706f3d
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 3be9843eec64b0110124d386591a50a0f0e4a2b9
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044605"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210847"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -38,12 +38,13 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 5 月12 日   |版本 1808（内部版本 10359.20023）  |[CVE-2020-0901](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0901) <br/> |
 |2020 年 4 月 14 日   |版本 1808 （内部版本 10358.20061）  |[CVE-2020-0760](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0991) <br/> |
 |2020 年 3 月 10 日   |版本 1808（内部版本 10357.20081）  |[CVE-2020-0850](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020 年 2 月 11 日   |版本 1808（内部版本 10356.20006）  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |2020 年 1 月 14 日   |版本 1808（内部版本 10354.20022）  |[CVE-2020-0650](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |2019 年 12 月 10 日   |版本 1808（内部版本 10353.20037）  |[CVE-2019-1400](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1464) <br/> |
-|2019 年 11 月 12 日   |版本 1808（内部版本 10352.20042）  |[CVE-2019-1402](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1449) <br/>  |
+
 
 
 
@@ -60,6 +61,7 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 5 月12 日|版本 2004（内部版本 12730.20270）  |[CVE-2020-0901](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0901)  <br/>  |
 |2020 年 5 月 4 日|版本 2004 (内部版本 12730.20250)  |修复了以下问题：一些代码库的库名称或路径中包含 DBSC（双字节）字符，某些 VBA 项目会由于包含对此类库的引用而被 Office 应用程序视为加载时损坏。 <br/>  |
 |2020 年 4 月 29 日|版本 2004 （内部版本 12730.20236）  |各种 Bug 和性能修补程序。 <br/>  |
 |2020 年 4 月 15 日|版本 2003 （内部版本 12624.20466）  |各种 Bug 和性能修补程序。 <br/>  |
