@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: 27cd8850398c5887b4cab2993d32403571e1611c
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: d5a8255e0737a0742dd11c81d71194d36bbc1b43
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521060"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210877"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -22,13 +22,13 @@ ms.locfileid: "43521060"
   
 > [!NOTE]
 > - 本文中的信息仅适用于使用 Windows Installer (MSI) 安装技术的 Outlook 的永久版本。例如，如果你安装了 Outlook 的批量许可版本（例如，包含在 Office 专业增强版 2016 中的 Outlook）。
-> - 本文中的信息并不适用于 Outlook 的 Office 365 版本（例如，包含在 Office 365 专业增强版中的 Outlook）。
+> - 本文中的信息不适用于 Microsoft 365 应用。
 > - 若要了解你正在使用的是哪个版本的 Outlook，请参阅[我拥有的 Outlook 是什么版本？](https://support.office.com/article/b3a9568c-edb5-42b9-9825-d48d82b2257c)
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。 
   
-Outlook 与 Office 365 和本地环境的兼容性取决于部署的系统要求：
+Outlook 与 Microsoft 365 和本地环境的兼容性取决于部署的系统要求：
   
-- Office 365 可与受主要支持的任何 Outlook 版本结合使用，包括最新版本的 Outlook 2016。对于早期版本的 Outlook，仅具有扩展支持的 Outlook 可以继续与 Office 365 一起使用，不过功能会受到限制。有关详细信息，请参阅 [Microsoft 生命周期策略](https://support.microsoft.com/lifecycle)。
+- Microsoft 365 可与受主要支持的任何 Outlook 版本结合使用，包括最新版本的 Outlook 2016。对于早期版本的 Outlook，仅具有扩展支持的 Outlook 可以继续与 Microsoft 365 一起使用，不过功能会受到限制。有关详细信息，请参阅 [Microsoft 生命周期策略](https://support.microsoft.com/lifecycle)。
     
 - 对于 Exchange 本地部署，请按照 Outlook 版本的系统要求操作：
     
@@ -43,7 +43,7 @@ Outlook 与 Office 365 和本地环境的兼容性取决于部署的系统要求
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|不适用  <br/> |2016 年 3 月公开更新 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020 年 4 月 PU <br/>[KB4484274](https://support.microsoft.com/help/4484274) 
+|不适用  <br/> |2016 年 3 月公开更新 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020 年 5 月公开更新 <br/>[KB4484343](https://support.microsoft.com/help/4484343) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
 

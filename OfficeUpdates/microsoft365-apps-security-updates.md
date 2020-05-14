@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Microsoft 365 应用安全更新的发行说明
-ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138521"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211702"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 应用安全更新的发行说明
 
@@ -24,11 +24,32 @@ ms.locfileid: "44138521"
 
 
 > [!IMPORTANT]
-> 从 2004 版开始，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请 [阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为Microsoft 365 应用。
+> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
+
 
  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="may-12-2020"></a>2020 年 5 月12 日
+月度频道：版本 2004（内部版本 12730.20270）  
+月度企业版渠道：版本 2003（内部版本 12624.20588）  
+半年频道（定向）：版本 2002（内部版本 12527.20612）  
+半年频道：版本 1908（内部版11929.20776）  
+半年频道：版本 1902（内部版11328.20586）  
+Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20612）  
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (请勿移除安全详细信息内容结尾)
+
+
 
 ## <a name="april-14-2020"></a>2020 年 4 月 14 日
 每月频道：版本 2003（内部版本 12624.20442）  

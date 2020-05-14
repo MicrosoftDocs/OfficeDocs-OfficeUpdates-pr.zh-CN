@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: 77ecb79a3fbc6af85b16cd48aa375b698324b451
-ms.sourcegitcommit: d062befb07b0fae74b30bce2a10cdec248c252ad
+ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163514"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211712"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -26,13 +26,55 @@ ms.locfileid: "44163514"
 
 
 > [!IMPORTANT]
-> 从 2004 版开始，Office 365 专业增强版将重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
+> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
+
 
 > [!NOTE]
 > - 表格中列出的近似下载大小仅适用于美国英语 x64 版 Microsoft 365 应用版。
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+## <a name="may-12-2020"></a>2020 年 5 月12 日
+
+[//]: # (请勿移除内容开头 2020 年 5 月 12 日)
+
+### <a name="monthly-channel"></a>月度频道
+
+最新版为版本 2004（内部版本 12730.20270）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2004（内部版本 12730.20250） <br/> |2020 年 5 月 4 日 <br/> |188<br/> |
+|版本 2004（内部版本 12730.20236） <br/> |2020 年 4 月 29 日 <br/> |172<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>月度企业版频道
+
+最新版为版本 2003（内部版本 12624.20588）。
+
+### <a name="semi-annual-targeted-channel"></a>半年频道（定向）
+
+最新版为版本 2002（内部版本 12527.20612）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2002 （内部版本 12527.20442） <br/> |2020 年 4 月 14 日 <br/> |67<br/> |
+|版本 2002（内部版本 12527.20278） <br/> |2020 年 3 月 10 日 <br/> |79<br/> |
+
+
+### <a name="semi-annual-channel"></a>半年频道
+
+最新版为版本 1908（内部版本 11929.20776）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 1908（内部版本 11929.20708） <br/> |2020 年 4 月 14 日 <br/> |66<br/> |
+|版本 1908（内部版本 11929.20648） <br/> |2020 年 3 月 10 日 <br/> |77<br/> |
+
+
+[//]: # (请勿移除内容结尾 2020 年 5 月 12 日)
 
 
 ## <a name="may-4-2020"></a>2020 年 5 月 4 日
