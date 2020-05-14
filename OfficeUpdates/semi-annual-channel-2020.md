@@ -9,27 +9,90 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044585"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210857"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年频道更新中。
+
+> [!IMPORTANT]
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 >
 >- 如果半年频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用，现在默认情况下会包括 OneNote 2016。
 
 
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1908-may-12"></a>版本 1908：5 月 12 日
+*版本 1908（内部版本 11929.20776）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="excel"></a>Excel
+
+- 将按颜色筛选的数据复制到具有不同宽度的列时，不会粘贴这些值。
+
+- 修复了用户在使用 VBA 宏清除某区域中的内容时可能遇到的性能问题。
+
+- 修复了 VBA 中的一个问题：将值写入某个区域可能比预期的要慢。
+
+- 解决了保存并重新打开文件时图表坐标轴上的“值交叉点”属性意外发生更改的问题。
+
+- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
+
+### <a name="onenote"></a>OneNote
+
+- 本地化通知，让用户了解有关在 OneNote 用户体验中为提高同步和服务稳定性而实施的临时措施的详细信息。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在应用最新的 Windows 更新后打开 .msg 和 .oft 文件时遇到崩溃的问题。
+
+- 解决了导致用户在选择某些搜索结果时遇到崩溃的问题。
+
+- 解决了导致附件工具中缺少“保存到云”按钮的问题。
+
+- 默认情况下，保留策略标签会在括号中显示保留时间段。 提供了一个注册表项，允许管理员指定只应显示策略名称。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。 0 = 默认值。  1 = 仅显示保留策略文本的 PolicyName。
+
+### <a name="word"></a>Word
+
+- 修复了将 2 个文档合并为一个文档时出现的问题。
+
+- 修复了受编辑保护的文档的“比较”功能问题。
 
 
 
+[//]: # (请勿移除错误详细信息内容结尾)
 
-[//]: # (请勿删除错误详细信息内容结尾)
+## <a name="version-1902-may-12"></a>版本 1902：5 月 12 日
+*版本 1902（内部版本 11328.20586）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在应用最新的 Windows 更新后打开 .msg 和 .oft 文件时遇到崩溃的问题。
+
+- 默认情况下，保留策略标签会在括号中显示保留时间段。 提供了一个注册表项，允许管理员指定只应显示策略名称。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。 0 = 默认值。  1 = 仅显示保留策略文本的 PolicyName。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-may-04"></a>版本 1908：5 月 4 日
 *版本 1908（生成号 11929.20752）*
@@ -50,7 +113,7 @@ ms.locfileid: "44044585"
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
 *版本 1908 （内部版本 11929.20708）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -84,14 +147,14 @@ ms.locfileid: "44044585"
 ## <a name="version-1902-april-14"></a>版本 1902：4 月 14 日
 *版本 1902 （内部版本 11328.20564）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
 *版本 1908（内部版本 11929.20648）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -125,14 +188,14 @@ ms.locfileid: "44044585"
 ## <a name="version-1902-march-10"></a>版本 1902：3 月 10 日
 *版本 1902（内部版本 11328.20554）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908（内部版本 11929.20606）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -200,7 +263,7 @@ ms.locfileid: "44044585"
 ## <a name="version-1902-february-11"></a>版本 1902：2 月 11 日
 *版本 1902（内部版本 11328.20526）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -222,14 +285,14 @@ ms.locfileid: "44044585"
 ## <a name="version-1808-february-11"></a>版本 1808：2 月 11 日
 *版本 1808（内部版本 10730.20438）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-january-14"></a>版本 1908：1 月 14 日
 *版本 1908（内部版本 11929.20562）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -591,7 +654,7 @@ ms.locfileid: "44044585"
 ## <a name="version-1902-january-14"></a>版本 1902：1 月 14 日
 *版本 1902（内部版本 11328.20512）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -619,7 +682,7 @@ ms.locfileid: "44044585"
 ## <a name="version-1808-january-14"></a>版本 1808：1 月 14 日
 *版本 1808（内部版本 10730.20432）*
 
-[此处](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
