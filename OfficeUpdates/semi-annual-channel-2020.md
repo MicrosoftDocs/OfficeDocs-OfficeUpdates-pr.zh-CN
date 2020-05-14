@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 6619411170491543c4853e6db56fa845a7adc6e3
+ms.sourcegitcommit: fb97680a81c7d96b0f0f539dc3e3c8c28ad654e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210857"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44222075"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>有关 2020 年半年频道发行的发行说明
 
@@ -65,6 +65,7 @@ ms.locfileid: "44210857"
 - 解决了导致附件工具中缺少“保存到云”按钮的问题。
 
 - 默认情况下，保留策略标签会在括号中显示保留时间段。 提供了一个注册表项，允许管理员指定只应显示策略名称。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。 0 = 默认值。  1 = 仅显示保留策略文本的 PolicyName。
+
 
 ### <a name="word"></a>Word
 

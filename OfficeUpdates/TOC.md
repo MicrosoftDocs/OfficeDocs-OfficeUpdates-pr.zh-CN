@@ -10,6 +10,9 @@
 ### [2018 年](monthly-channel-2018.md)
 ### [2017 年](monthly-channel-2017.md)
 
+## 月度企业版频道
+### [2020 年](monthly-enterprise-channel-2020.md)
+
 ## 半年频道
 ### [2020 年](semi-annual-channel-2020.md)
 ### [2019 年](semi-annual-channel-2019.md)
