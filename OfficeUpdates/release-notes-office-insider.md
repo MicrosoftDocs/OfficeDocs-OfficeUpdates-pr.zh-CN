@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a6f6e38e29357f0fe8ff009822a597e2627d779d
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: d711d401d87c4ca92fbe49e31a1d6fd126fcc46d
+ms.sourcegitcommit: 300468367ec95cc504d2ca34f71017602fa2cc13
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210937"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254583"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -28,6 +28,53 @@ ms.locfileid: "44210937"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2006-may-15"></a>版本 2006：5 月 15 日
+*版本 2006（内部版本 12905.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解更多](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+
+### <a name="outlook"></a>Outlook
+
+- **找到所需内容：** 使用文件夹、发件人、日期、附件信息等选项来缩小搜索范围。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **无需遥控器：使用耳塞即可：** 使用 Surface Earbuds 来控制 PowerPoint 演示文稿。 重要提示：必须使用 Windows 10 的 Surface Audio 应用配对 Surface Earbuds，才能使用手势控制演示文稿。 此处提供了有关 Windows 10 上的 Surface Audio 应用入门的说明。 [了解更多](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+### <a name="word"></a>Word
+
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="excel"></a>Excel
+- 我们解决了在用户删除合并的列时导致性能时间增加的问题。
+- <div>我们解决了导致打印机名称在可用打印机列表中重复的问题。</div>
+
+### <a name="powerpoint"></a>PowerPoint
+- 我们解决了使用瑞士英语 (QWERTZ) 键盘时键盘快捷方式和拼写检查无法正常工作的问题。
+
+### <a name="word"></a>Word
+- 我们解决了向空白文档添加新批注不会执行任何操作的问题。
+- 我们解决了以下问题：在包含 100 个以上条目的文档中插入或更新索引将导致应用程序崩溃。
+- 我们解决了以下问题：带有自定义 xml 值的文件打开速度非常慢。
+
+### <a name="office-suite"></a>Office 套件
+- 修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
