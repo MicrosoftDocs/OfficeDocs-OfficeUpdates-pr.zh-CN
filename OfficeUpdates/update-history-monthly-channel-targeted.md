@@ -1,6 +1,6 @@
 ---
 title: Office 每月频道（定向）的更新历史记录
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: beca8a71f03a301e83d696ecb5468b2e36748988
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
-ms.translationtype: HT
+ms.openlocfilehash: 3d763d2c6d7c5028c0082dd2ef8f845eda487f6b
+ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211257"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429007"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -35,6 +35,15 @@ ms.locfileid: "44211257"
 
 
 [//]: # (请勿移除)
+
+**5月29日，2020**<br/>
+版本2005（内部版本12827.20268）<br/>
+
+**5月21日，2020**<br/>
+版本2005（内部版本12827.20210）<br/>
+
+**5月14日，2020**<br/>
+版本2005（内部版本12827.20160）<br/>
 
 **2020 年 5 月11 日**<br/>
 版本 2004（内部版本 12730.20270）<br/>

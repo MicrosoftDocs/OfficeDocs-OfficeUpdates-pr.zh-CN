@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: c3e7222a89bc6e854c63472f3cf123feaeb8bcda
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
-ms.translationtype: HT
+ms.openlocfilehash: 2a48dfaf1f2401a9dcaff8c32873547cc923fe72
+ms.sourcegitcommit: 9393c868c1a8b7b6d4bba8abbe02a6c984b9547b
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211723"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44520206"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -36,7 +36,7 @@ ms.locfileid: "44211723"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|2004<br/>|12730.20270<br/>|2020 年 5 月12 日<br/>|版本 2005 已发布<br/>|
+|每月<br/>|2005<br/>|12827.20268<br/>|2020年6月2日<br/>|版本2006已发布<br/>|
 |月度企业版<br/>|2003<br/>|12624.20588<br/>|2020 年 5 月12 日<br/>|2020 年 7 月 14 日<br/>|
 |半年（定向）<br/>|2002<br/>|12527.20612<br/>|2020 年 5 月12 日<br/>|2020 年 9 月 8 日<br/>|
 |半年<br/>|1908<br/>|11929.20776<br/>|2020 年 5 月12 日<br/>|2021 年 3 月 9 日<br/>|
@@ -52,6 +52,8 @@ ms.locfileid: "44211723"
 
 |**Year**|**发布日期**|**每月频道**|**月度企业版频道**|**半年频道(定向)**|**半年频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020 年|02月2日|[版本2005（内部版本12827.20268）](monthly-channel-2020.md#version-2005-june-02)| | | |
+|2020 年|5月21日|[版本2004（内部版本12730.20352）](monthly-channel-2020.md#version-2004-may-21)| | | |
 |2020 年|5 月 12 日|[版本 2004（内部版本 12730.20270）](monthly-channel-2020.md#version-2004-may-12)|[版本 2003（内部版本 12624.20588）](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[版本 2002（内部版本 12527.20612）](semi-annual-channel-targeted-2020.md#version-2002-may-12)|[版本 1908（内部版本 11929.20776）](semi-annual-channel-2020.md#version-1908-may-12)<br/>[版本 1902（内部版本 11328.20586）](semi-annual-channel-2020.md#version-1902-may-12)|
 |2020 年|5 月 4 日|[版本 2004（内部版本 12730.20250）](monthly-channel-2020.md#version-2004-may-04)| | |[版本 1908（内部版本 11929.20752）](semi-annual-channel-2020.md#version-1908-may-04)<br/>[版本 1902（内部版本 11328.20572）](semi-annual-channel-2020.md#version-1902-may-04)|
 |2020 年|4 月 29 日|[版本 2004（内部版本 12730.20236）](monthly-channel-2020.md#version-2004-april-29)| | | |
@@ -59,7 +61,7 @@ ms.locfileid: "44211723"
 |2020 年|4 月 14 日|[版本 2003（内部版本 12624.20442）](monthly-channel-2020.md#version-2003-april-14)| |[版本 2002 （内部版本 12527.20442）](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[版本 1908 （内部版本 11929.20708）](semi-annual-channel-2020.md#version-1908-april-14)<br/>[版本 1902 （内部版本 11328.20564）](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020 年|3 月 31 日|[版本 2003（内部版本 12624.20382）](monthly-channel-2020.md#version-2003-march-31)| | | |
 |2020 年|3 月 25 日|[版本 2003（内部版本 12624.20320）](monthly-channel-2020.md#version-2003-march-25)| | | |
-|2020 年|3 月 10 日|[版本2002（内部版本 12527.20278）](monthly-channel-2020.md#version-2002-march-10)| |[版本2002（内部版本 12527.20278）](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[版本 1908（内部版本 11929.20648）](semi-annual-channel-2020.md#version-1908-march-10)<br/>[版本 1902（内部版本 11328.20554）](semi-annual-channel-2020.md#version-1902-march-10)|
+|2020 年|3 月 10 日|[版本 2002（生成号 12527.20278）](monthly-channel-2020.md#version-2002-march-10)| |[版本2002（内部版本 12527.20278）](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[版本 1908（内部版本 11929.20648）](semi-annual-channel-2020.md#version-1908-march-10)<br/>[版本 1902（内部版本 11328.20554）](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020 年|3 月 1 日|[版本 2002（内部版本 12527.20242）](monthly-channel-2020.md#version-2002-march-01)| | | |
 |2020 年|2 月 25 日|[版本 2002（内部版本 12527.20194）](monthly-channel-2020.md#version-2002-february-25)| | | |
 |2020 年|2 月 19 日|[版本 2001（内部版本 12430.20288）](monthly-channel-2020.md#version-2001-february-19)| | | |
@@ -72,8 +74,8 @@ ms.locfileid: "44211723"
 |2019 年|12 月 3 日|[版本 1911（内部版本 12228.20332）](monthly-channel-2019.md#version-1911-december-3)| | | |
 |2019 年|11 月 22 日|[版本 1910（内部版本 12130.20410）](monthly-channel-2019.md#version-1910-november-22)| |[版本 1908（内部版本 11929.20494）](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[版本 1902（内部版本 11328.20480）](semi-annual-channel-2019.md#version-1902-november-22)<br/>[版本 1808（内部版本 10730.20422）](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019 年|11 月 18 日|[版本 1910（内部版本 12130.20390）](monthly-channel-2019.md#version-1910-november-18)| | | |
-|2019 年|11 月 12 日|[版本 1910（内部版本 12130.20344）](monthly-channel-2019.md#version-1910-november-12) | |[版本 1908（内部版本 11929.20436）](semi-annual-channel-targeted-2019.md#version-1908-november-12)|[版本 1902（内部版本 11328.20468）](semi-annual-channel-2019.md#version-1902-november-12)<br/>[版本 1808（内部版本 10730.20416）](semi-annual-channel-2019.md#version-1808-november-12)|
-|2019|10 月 30 日|[版本 1910（内部版本 12130.20272）](monthly-channel-2019.md#version-1910-october-30)| | | |
+|2019|11 月 12 日|[版本 1910（内部版本 12130.20344）](monthly-channel-2019.md#version-1910-november-12) | |[版本 1908（内部版本 11929.20436）](semi-annual-channel-targeted-2019.md#version-1908-november-12)|[版本 1902（内部版本 11328.20468）](semi-annual-channel-2019.md#version-1902-november-12)<br/>[版本 1808（内部版本 10730.20416）](semi-annual-channel-2019.md#version-1808-november-12)|
+|2019 年|10 月 30 日|[版本 1910（内部版本 12130.20272）](monthly-channel-2019.md#version-1910-october-30)| | | |
 |2019 年|10 月 22 日|[版本 1909（内部版本 12026.20344）](monthly-channel-2019.md#version-1909-october-22)| | | |
 |2019 年|10 月 14 日|[版本 1909（内部版本 12026.20334）](monthly-channel-2019.md#version-1909-october-14)| |[版本 1908（内部版本 11929.20396）](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019 年|10 月 8 日|[版本 1909（内部版本 12026.20320）](monthly-channel-2019.md#version-1909-october-08)| |[版本 1908（内部版本 11929.20388）](semi-annual-channel-targeted-2019.md#version-1908-october-08)|[版本 1902（内部版本 11328.20438）](semi-annual-channel-2019.md#version-1902-october-08)<br/>[版本 1808（内部版本 10730.20386）](semi-annual-channel-2019.md#version-1808-october-08)|
@@ -182,7 +184,7 @@ ms.locfileid: "44211723"
 ||1 月 25 日  <br/> | [版本 1612（内部版本 7668.2066）](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |  <br/> |
 ||1 月 10 日  <br/> |  <br/> |  <br/> | [版本 1609（内部版本 7369.2102）](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [版本 1605（内部版本 6965.2117）](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [版本 1602（内部版本 6741.2105）](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||1 月 4 日  <br/> | [版本 1611（内部版本 7571.2109）](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |  <br/> |
-|2016 年|12 月 13 日  <br/> | [版本 1611（内部版本 7571.2075）](monthly-channel-2016.md#version-1611-december-13)  <br/> |  <br/> |[版本 1609（内部版本 7369.2095）](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [版本 1605（内部版本 6965.2115）](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [版本 1602（内部版本 6741.2098）](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
+|2016|12 月 13 日  <br/> | [版本 1611（内部版本 7571.2075）](monthly-channel-2016.md#version-1611-december-13)  <br/> |  <br/> |[版本 1609（内部版本 7369.2095）](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [版本 1605（内部版本 6965.2115）](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [版本 1602（内部版本 6741.2098）](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
 ||12 月 6 日  <br/> | [版本 1611（内部版本 7571.2072）](monthly-channel-2016.md#version-1611-december-6)  <br/> |  <br/> |  <br/> |  <br/> |
 ||11 月 10 日  <br/> | [版本 1610（内部版本 7466.2038）](monthly-channel-2016.md#version-1610-november-10)  <br/> |  <br/> |  <br/> |  <br/> |
 ||11 月 8 日  <br/> |[版本 1609（内部版本 7369.2055）](monthly-channel-2016.md#version-1609-november-8)  <br/> |  <br/> | [版本 1609（内部版本 7369.2055）](semi-annual-channel-targeted-2016.md#version-1609-november-8)  <br/> | [版本 1605（内部版本 6965.2105）](semi-annual-channel-2016.md#version-1605-november-8)  <br/>  [版本 1602（内部版本 6741.2088）](semi-annual-channel-2016.md#version-1602-november-8)  <br/> |
