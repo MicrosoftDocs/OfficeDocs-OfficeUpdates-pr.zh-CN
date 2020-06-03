@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: 为 IT 专业人员提供 office release content for Office 365 专业增强版、Office for Mac、永久 Office 和 Office Server 产品的链接
-ms.openlocfilehash: 2bdea84afebdfdfd525776aaa50e2540c9d67507
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 9b70612a1296b764edd1f17357ef6f659bbcc701
+ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714542"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44163444"
 ---
 # <a name="office-updates"></a>Office 更新
 
@@ -32,11 +32,11 @@ ms.locfileid: "43714542"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Microsoft 365 应用程序</h3>
-                        <p><a href="release-notes-office365-proplus.md">发行说明</a></p>
-                        <p><a href="update-history-office365-proplus-by-date.md">更新历史记录（按日期）</a></p>
-                        <p><a href="download-sizes-office365-proplus-updates.md">更新大小</a></p>
-                        <p><a href="office365-proplus-security-updates.md">安全更新</a></p>
+                        <h3>Microsoft 365 应用版</h3>
+                        <p><a href="release-notes-microsoft365-apps.md">发行说明</a></p>
+                        <p><a href="update-history-microsoft365-apps-by-date.md">更新历史记录（按日期）</a></p>
+                        <p><a href="download-sizes-microsoft365-apps-updates.md">更新大小</a></p>
+                        <p><a href="microsoft365-apps-security-updates.md">安全更新</a></p>
                     </div>
                 </div>
             </div>
