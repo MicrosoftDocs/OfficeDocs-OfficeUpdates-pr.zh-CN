@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163524"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565067"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>有关 2019 年半年频道发行的发行说明
 
@@ -165,7 +165,7 @@ ms.locfileid: "44163524"
 
 ### <a name="project"></a>Project
 
-- 修复了以下情况下未创建 XPS 文件的 PDF 时出现的问题：</div><ul><li>打开项目。</li><li>单击“文件”菜单，单击“导出”，然后单击“<b>创建 PDF/XPS</b>”按钮。</li><li>在“浏览”对话框中，输入文件名，然后单击“确定”。</li></ul>
+- 修复了以下情况下未创建 XPS 文件的 PDF 时出现的问题：<ul><li>打开项目。</li><li>单击“文件”菜单，单击“导出”，然后单击“<b>创建 PDF/XPS</b>”按钮。</li><li>在“浏览”对话框中，输入文件名，然后单击“确定”。</li></ul>
 
 ### <a name="word"></a>Word
 
