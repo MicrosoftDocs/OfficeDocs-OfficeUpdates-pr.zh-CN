@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 60e81fd50e7a1ef35a4449fd4383982dee3338ec
-ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
+ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44428997"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563672"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月频道（定向）的发行说明
 
@@ -32,6 +32,45 @@ ms.locfileid: "44428997"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2005-june-04"></a>版本2005：04年6月
+*版本2005（内部版本12827.20320）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **请持续一段时间！日期/时间扩展数据类型具有更好的精度。：** 引入了一种新的、改进的数据类型。  若要增强与 SQL 的语法兼容性，并提高包含日期和时间的记录的准确性和详细程度，我们要在 Access 中实现 DateTime2 数据类型。 这一额外的日期 & time 数据类型将包含更大的日期范围（0001-01-01 到9999-12-31），并且您将能够在其上提供和执行计算的时间较高，时间精度（毫微秒，而不是秒）。 若要启用，请选择 "新建字段" > 日期 & 时间扩展。 [了解更多](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- 在 Excel 中的**POWER BI 数据集中创建数据透视表：** 您可以通过几次单击在 Excel 中创建连接到存储在 Power BI 中的数据集的数据透视表。这样一来，您就可以获得数据透视表和 Power BI 的最佳效果。 使用安全 Power BI 数据集中的数据透视表计算、汇总和分析数据。
+
+### <a name="outlook"></a>Outlook
+
+- **从以前的 Outlook 会话快速重新打开项目的选项：** 我们添加了一个从以前的 Outlook 会话快速重新打开项目的选项。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="powerpoint"></a>PowerPoint
+
+- 这可修复用户在文件中同时具有新式注释和旧版注释时出现的故障，从而触发对注释的升级。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们已解决 ValidateInstall 失败率问题，方法是在默认情况下将 Bing 加载项安装验证设置为 true，并考虑 MSI 返回成功作为安装成功。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2005-may-29"></a>版本2005：5月29日
 *版本2005（内部版本12827.20268）*

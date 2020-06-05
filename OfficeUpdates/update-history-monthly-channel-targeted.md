@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 3d763d2c6d7c5028c0082dd2ef8f845eda487f6b
-ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.openlocfilehash: 740d0717ec3b8ab8311a4b5bea018dae592e6cbf
+ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429007"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563662"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 的 Office 每月频道（定向）渠道的更新历史记录
 
@@ -35,6 +35,9 @@ ms.locfileid: "44429007"
 
 
 [//]: # (请勿移除)
+
+**2020年6月4日**<br/>
+版本2005（内部版本12827.20320）<br/>
 
 **5月29日，2020**<br/>
 版本2005（内部版本12827.20268）<br/>
