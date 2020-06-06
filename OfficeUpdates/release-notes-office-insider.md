@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: b803fe8ec20f102d2c8cf3e68cbddb042beffb6e
-ms.sourcegitcommit: be205676acfa15f0c2170593b0b5ad721bea4f2d
+ms.openlocfilehash: 0e58405ba80e3656e5e3d4b8aef45dbd1df272d3
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44424584"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581781"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -30,6 +30,66 @@ ms.locfileid: "44424584"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2006-june-05"></a>版本2006：05年6月
+*版本2006（内部版本13001.20002）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **在 Excel 中协作时排序/筛选：** 现在，您可以对 Excel 文件进行排序和筛选，同时与其他人协作。 此新功能可防止其他用户的排序和筛选器受到影响，同时共同创作文档。
+
+- 在 Excel 中的**POWER BI 数据集中创建数据透视表：** 您可以通过几次单击在 Excel 中创建连接到存储在 Power BI 中的数据集的数据透视表。这样一来，您就可以获得数据透视表和 Power BI 的最佳效果。 使用安全 Power BI 数据集中的数据透视表计算、汇总和分析数据。 [了解更多](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+
+### <a name="outlook"></a>Outlook
+
+- **快速重新打开上一会话中的项：** 我们添加了一个从以前的 Outlook 会话快速重新打开项目的选项。 无论 Outlook 是否崩溃或关闭它，现在都可以在重新打开应用程序时快速重新启动项目。 默认情况下，此功能处于启用状态。 若要将其关闭，请转到 "选项" > 常规 > 启动选项 "。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了图表轴上的自定义值不能正确应用的问题。
+- 我们修复了以下问题：在保存文件时，包含具有已定义名称的多个公式的工作表会导致更长时间。
+
+### <a name="outlook"></a>Outlook
+
+- 我们解决了以下问题：在使用具有不同分辨率的多个监视器时，IME （输入法编辑器）窗口将与通过 IME 输入的基础文本重叠。
+- 我们修复了以下问题：撰写新电子邮件时，查看模板会导致崩溃。
+- 我们修复了以下问题：用户无法在 Outlook 版本1911之后交换2010公用文件夹。
+- 我们解决了以下问题：禁用了 Office 功能区中组日历的分类按钮。
+- 我们解决了导致联系人冲突的用户在 Outlook 中遇到故障的问题。
+- 我们解决了导致高 DPI 监视器上的用户丢失了文件夹属性中的联机存档下拉列表的问题。
+- 我们解决了导致用户在使用纯文本电子邮件的超链接时遇到 Outlook 崩溃的问题。
+- 我们解决了导致 Outlook 无法分析使用 RFC2231 编码的长文件名的问题。
+- 我们解决了导致 Outlook 用户在使用屏幕阅读器时遇到间歇性挂起的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们解决了使用基于表单的身份验证打开服务器配置的文件时出现的问题。
+- 我们解决了以下问题： PowerPoint 文件的嵌入图表/工作簿可能会导致在保存文件时出现故障。
+- 我们解决了以下问题：用户已关闭的注释窗格将自动重新打开。
+- 我们修复了以下问题：一张幻灯片中的幻灯片编辑器将重叠到下一张幻灯片。
+
+### <a name="project"></a>项目
+
+- 我们修复了阻止在删除父计划后删除或重新分配孤立任务的问题。
+
+### <a name="word"></a>Word
+
+- 我们修复了注释窗格中的时间戳不基于系统区域设置时间的问题。
+- 我们修复了以下问题： web 应用和桌面应用程序之间的注释不同步。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
 
 ## <a name="version2006may29"></a>版本2006：5月29日
 *版本2006（内部版本12920.20000）*
@@ -114,7 +174,7 @@ ms.locfileid: "44424584"
 
 - 我们修复了以下问题：从演示文稿区域进行放大和缩小导致缩放后的选区选取框和鼠标指针之间存在间隙。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 我们修复了以下问题：单击 "选项" 后，Project 将发生故障。
 
@@ -135,7 +195,7 @@ ms.locfileid: "44424584"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解详细信息](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解更多](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
 ### <a name="outlook"></a>Outlook
 
@@ -191,7 +251,7 @@ ms.locfileid: "44424584"
 
 ### <a name="outlook"></a>Outlook
 
-- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解详细信息](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
@@ -399,7 +459,7 @@ ms.locfileid: "44424584"
 
 - 此更改修复了以下问题：使用“全字匹配”查找特殊字符时并非总是按预期工作。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。
 
@@ -489,7 +549,7 @@ ms.locfileid: "44424584"
 
 - 修复了以下问题：在一组返回的搜索结果中，按“类别”对结果排序时看不到“类别”颜色。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：当用户单击了“任务”功能区上“计划”分组中的“停用”按钮后，“ProjectBeforeTaskChange”Visual Basic Applications (VBA) 事件未触发。
 
@@ -517,7 +577,7 @@ ms.locfileid: "44424584"
 
 - 修复了以下问题：当你通过邮件发送文档时，保存在 Word 文档中的数字签名会遭删除。
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2004-march-13"></a>版本 2004：3 月 13 日
 *版本 2004（内部版本 12703.20010）*
@@ -555,7 +615,7 @@ ms.locfileid: "44424584"
 - 解决了导致在展开的查找窗格中按回车键无法启动搜索，而是要求用户单击搜索按钮的问题。
 - 修复了禁用“可用时显示用户照片”选项时，搜索不显示有关用户的信息的问题。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 修复了有时无法正确计算摘要任务日期的问题。
 - 修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。
 
