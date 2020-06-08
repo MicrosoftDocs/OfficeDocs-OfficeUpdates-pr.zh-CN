@@ -36,8 +36,8 @@
 ## [ODT 发布历史记录](ODT-release-history.md)
 
 # Office for Mac
-## [更新历史记录（Office 365，2019 年）](update-history-office-for-mac.md)
-## [发行说明（Office 365，2019 年）](release-notes-office-for-mac.md)
+## [更新历史记录（Microsoft 365，2019 年）](update-history-office-for-mac.md)
+## [发行说明（Microsoft 365，2019 年）](release-notes-office-for-mac.md)
 ## [更新历史记录（2016 年）](release-notes-office-2016-mac.md)
 ## [MAU 版本历史记录](release-history-microsoft-autoupdate.md)
 
