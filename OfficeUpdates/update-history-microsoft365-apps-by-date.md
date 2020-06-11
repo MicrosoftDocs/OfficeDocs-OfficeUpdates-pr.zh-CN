@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 32e6b751e222270cc14d3dfaddaf68e744b8c401
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 2bfbf1d8df2923c97e12380e8c054ddcf18f6c1e
+ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668017"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44695563"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -53,10 +53,10 @@ ms.locfileid: "44668017"
 
 |**Year**|**发布日期**|**当前频道**|**月度企业版频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020 年|6月09日|[版本2005（内部版本12827.20336）](current-channel.md#version-2005-june-09)|[版本2004（内部版本12730.20430）](monthly-enterprise-channel-2020.md#version-2004-june-09)<br/>[版本2003（内部版本12624.20708）](monthly-enterprise-channel-2020.md#version-2003-june-09)|[版本2002（内部版本12527.20720）](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[版本1908（内部版本11929.20838）](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[版本1902（内部版本11328.20602）](semi-annual-enterprise-channel.md#version-1902-june-09)|
+|2020 年|6月09日|[版本2005（内部版本12827.20336）](current-channel.md#version-2005-june-09)|[版本2004（内部版本12730.20430）](monthly-enterprise-channel.md#version-2004-june-09)<br/>[版本2003（内部版本12624.20708）](monthly-enterprise-channel.md#version-2003-june-09)|[版本2002（内部版本12527.20720）](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[版本1908（内部版本11929.20838）](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[版本1902（内部版本11328.20602）](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020 年|02月2日|[版本2005（内部版本12827.20268）](current-channel.md#version-2005-june-02)| | | |
 |2020 年|5月21日|[版本2004（内部版本12730.20352）](current-channel.md#version-2004-may-21)| | | |
-|2020 年|5 月 12 日|[版本 2004（内部版本 12730.20270）](current-channel.md#version-2004-may-12)|[版本 2003（内部版本 12624.20588）](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[版本 2002（内部版本 12527.20612）](semi-annual-enterprise-channel-preview.md#version-2002-may-12)|[版本 1908（内部版本 11929.20776）](semi-annual-enterprise-channel.md#version-1908-may-12)<br/>[版本 1902（内部版本 11328.20586）](semi-annual-enterprise-channel.md#version-1902-may-12)|
+|2020 年|5 月 12 日|[版本 2004（内部版本 12730.20270）](current-channel.md#version-2004-may-12)|[版本 2003（内部版本 12624.20588）](monthly-enterprise-channel.md#version-2003-may-12)<br/>|[版本 2002（内部版本 12527.20612）](semi-annual-enterprise-channel-preview.md#version-2002-may-12)|[版本 1908（内部版本 11929.20776）](semi-annual-enterprise-channel.md#version-1908-may-12)<br/>[版本 1902（内部版本 11328.20586）](semi-annual-enterprise-channel.md#version-1902-may-12)|
 |2020 年|5 月 4 日|[版本 2004（内部版本 12730.20250）](current-channel.md#version-2004-may-04)| | |[版本 1908（内部版本 11929.20752）](semi-annual-enterprise-channel.md#version-1908-may-04)<br/>[版本 1902（内部版本 11328.20572）](semi-annual-enterprise-channel.md#version-1902-may-04)|
 |2020 年|4 月 29 日|[版本 2004（内部版本 12730.20236）](current-channel.md#version-2004-april-29)| | | |
 |2020 年|4 月 15 日|[版本 2003 （内部版本 12624.20466）](current-channel.md#version-2003-april-15)| | | |
