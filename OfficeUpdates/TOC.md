@@ -4,32 +4,32 @@
 ## [更新历史记录（按日期）](update-history-microsoft365-apps-by-date.md)
 ## [更新大小](download-sizes-microsoft365-apps-updates.md)
 
-## 每月频道
-### [2020 年](monthly-channel-2020.md)
+## 当前频道
+### [2020 年](current-channel.md)
 ### [2019 年](monthly-channel-2019.md)
 ### [2018 年](monthly-channel-2018.md)
 ### [2017 年](monthly-channel-2017.md)
 
 ## 月度企业版频道
-### [2020 年](monthly-enterprise-channel-2020.md)
+### [2020 年](monthly-enterprise-channel.md)
 
-## 半年频道
-### [2020 年](semi-annual-channel-2020.md)
+## 半年企业频道
+### [2020 年](semi-annual-enterprise-channel.md)
 ### [2019 年](semi-annual-channel-2019.md)
 ### [2018 年](semi-annual-channel-2018.md)
 ### [2017 年](semi-annual-channel-2017.md)
 
-## 半年频道（已设定目标）
-### [2020 年](semi-annual-channel-targeted-2020.md)
+## 半年企业频道（预览）
+### [2020 年](semi-annual-enterprise-channel-preview.md)
 ### [2019 年](semi-annual-channel-targeted-2019.md)
 ### [2018 年](semi-annual-channel-targeted-2018.md)
 ### [2017 年](semi-annual-channel-targeted-2017.md)
 
 ## Office 预览体验成员计划  
-### [预览体验成员频道的更新历史记录](update-history-office-insider.md)
-### [每月频道（定向）的更新历史记录](update-history-monthly-channel-targeted.md)
-### [预览体验成员频道的发行说明](release-notes-office-insider.md)
-### [每月频道（定向）的发行说明](release-notes-monthly-channel-targeted.md)
+### [更新历史记录 Beta 频道](Update-history-beta-channel.md)
+### [更新历史记录当前频道（预览）](update-history-current-channel-preview.md)
+### [发布说明 Beta 频道](beta-channel.md)
+### [发布笔记当前频道（预览）](current-channel-preview.md)
 
 ## [Windows 7 的更新历史记录](update-history-office-Win7.md)
 
