@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 13bb14c00a9066c7437cde9a00f94a078788d5c5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
+ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668007"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44810864"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中的当前频道发布的发行说明
 
@@ -354,11 +354,7 @@ ms.locfileid: "44668007"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="onenote"></a>OneNote
 
-- 通过暂时禁用将页面移动到回收站来提升同步和服务器稳定性。 希望删除页面的用户将改为显示一个对话框，询问用户是否想要永久删除页面。
-
 - 通知用户有关 Microsoft OneNote 中的暂时调整的信息栏，可有助于提升全球范围内使用期间的同步和服务可用性。
-
-- 通过临时更改页面版本历史记录的创建频率，提升了同步和服务稳定性。
 
 ### <a name="project"></a>Project
 
@@ -407,8 +403,6 @@ ms.locfileid: "44668007"
 ### <a name="onenote"></a>OneNote
 
 - 通过暂时将新的嵌入式附件的最大允许大小降低到 50 MB，提升了同步和服务稳定性。 对于超出此限制的文件，用户可以选择将文件上传到 OneDrive 并将链接插入OneNote。
-
-- 通过暂时禁用 OneNote 2016 中的应用内视频录制功能，提升了同步和服务稳定性。 本地笔记本不受此措施影响。
 
 - 通过临时调整 OneNote 2016 中的同步频率，提升了同步和服务稳定性。
 
@@ -473,16 +467,9 @@ ms.locfileid: "44668007"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **用户现在能够将 Word 和 Excel 中的对象另存为 SVG：** 用户可将图表、形状、墨迹、图标、图片和其他等另存为 SVG。 [了解更多信息](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 - **工作簿统计信息：** 单元格、公式、图表、表格... 我们将对其进行计数，无需进行此操作。
 
 - **查询编辑器中的数据分析：** 快速分析列中的数据、确定错误和空值、查看分发直方图等。
-
-### <a name="word"></a>Word
-
-- **用户现在能够将 Word 和 Excel 中的对象另存为 SVG：** 用户可将图表、形状、墨迹、图标、图片和其他等另存为 SVG。 [了解更多信息](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 
 
 [//]: # (请勿移除功能详细信息内容结尾)

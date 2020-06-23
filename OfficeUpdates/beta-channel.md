@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: e754309f8f647f13b6db0a1b6f4cbcfac2f4ffe5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668063"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814301"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 预览体验成员发行说明
 
@@ -30,6 +30,81 @@ ms.locfileid: "44668063"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2007-june-19"></a>版本2007：6月19日
+*版本2007（内部版本13012.20000）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了以下问题：在将工作簿保存到 SharePoint/OneDrive 时，删除了自定义功能区选项卡的 CustomUI XML。
+- 我们修复了以下问题：在仅建议只读文件时，工作簿是只读的。
+
+### <a name="outlook"></a>Outlook
+
+- 我们解决了以下问题：在使用具有不同分辨率的多个监视器时，输入法编辑器（IME）窗口将与通过 IME 输入的基础文本重叠。
+- 我们解决的问题导致用户在关闭之前保存的约会时看到以下错误： "无法保存该项目，因为它已被另一个用户或另一个窗口更改。 是否要在默认文件夹中为该项目创建一个副本？
+- 我们解决了以下问题：迷你日历中的日期未能以粗体显示为日本的用户。
+- 我们修复了一个问题，该问题会阻止日历提醒显示在不到一周时间内的会议的确切时间。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了以下问题：在实时共同创作会话过程中，用户的状态指示器未在共同创作库中刷新。
+
+### <a name="project"></a>Project
+
+- 我们修复了以下问题：如果固定工期任务已完成100% 但未指定实际完成时间，则任务完成百分比将显示为小于100%。
+
+### <a name="word"></a>Word
+
+- 我们修复了以下问题： HTML 超链接颜色没有正确呈现。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了以下问题：不是基于 http 或 https 的 Url 未显示在最近使用过的列表中。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2007-june-12"></a>版本2007：6月12日
+*版本2007（内部版本13006.20002）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用数据类型从 POWER BI 获取组织数据：** Power BI 中的 Excel 数据类型现已向组织中的内部部署了 Office 365 E5/A5 或 Microsoft 365 E5/A5。 获取所需的信息并轻松地刷新，对于许多日常工作流而言至关重要。 我们为你的公司或组织提供了从 Power BI 为 Excel 中的数据类型的信息的访问权限，这扩展了你在电子表格中引入链接信息的能力。 [了解详细信息](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们解决了导致 Microsoft Access 无法识别链接 SQL Server 表中的 Identity 列的问题，这可能会导致错误地将行报告为已删除。
+
+### <a name="excel"></a>Excel
+
+- 我们修复了雷达图表的主要网格线无法正确格式化的问题。
+
+### <a name="project"></a>Project
+
+- 我们修复了以下问题：项目摘要任务（项目开始/任务域）发生更改时，ProjectBeforeTaskChange 事件不会触发。
+- 我们修复了以下问题：比较基准重置或更新可能会更改时间分段预算成本/工时资源，并且比较基准可能会反映错误的预算值。
+
+### <a name="word"></a>Word
+
+- 我们修复了以下问题：通过 Office 功能区中的 "清除格式" 按钮清除批注窗格中的格式设置不起作用。
+- 我们修复了以下问题：如果在不显示标尺时更改表的大小，则会导致在后台运行的其他应用程序开始闪烁。
+- 我们解决了以下问题：在共同创作模式中，注释答复有时不会显示在 "批注" 窗格中，而是在 "修订" 窗格中可见。
+- 我们修复了以下问题：如果 Word 的列表超过50个频繁打开的文档，则在保存并打开文档后，即使没有对该文档进行任何修订，也会显示修订历史记录。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2006-june-05"></a>版本2006：05年6月
 *版本2006（内部版本13001.20002）*
@@ -195,7 +270,7 @@ ms.locfileid: "44668063"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解更多](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解详细信息](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
 ### <a name="outlook"></a>Outlook
 
@@ -251,7 +326,7 @@ ms.locfileid: "44668063"
 
 ### <a name="outlook"></a>Outlook
 
-- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解详细信息](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
@@ -577,7 +652,7 @@ ms.locfileid: "44668063"
 
 - 修复了以下问题：当你通过邮件发送文档时，保存在 Word 文档中的数字签名会遭删除。
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-13"></a>版本 2004：3 月 13 日
 *版本 2004（内部版本 12703.20010）*
@@ -665,7 +740,7 @@ ms.locfileid: "44668063"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。
+- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。 [了解更多](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: b346aba65488adcd2d0c223e17fe71cc22c0b6b3
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
+ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695575"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735452"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -42,10 +42,6 @@ ms.locfileid: "44695575"
 
 ### <a name="excel"></a>Excel
 
-- **显示图片背后的内容：** 将图片置于工作表中，选择预设，然后观察透明度的变化。就是这样！[了解详细信息](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解详细信息](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[博客文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看详细信息
-
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
 - **Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。
@@ -53,8 +49,6 @@ ms.locfileid: "44695575"
 - **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="outlook"></a>Outlook
-
-- **更智能的“收件人:”行：** 在单击“收件人:”行处理邮件时，会提示用户可能要选择的收件人。 此外，您还可以看到他们的图片，以便您知道正在向正确的人发送。 [了解更多](https://support.office.com/article/147208af-ca8e-4cdf-b71f-77ba81a54069)
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
@@ -66,10 +60,6 @@ ms.locfileid: "44695575"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **显示图片背后的内容：** 将图片置于幻灯片中，选择预设，然后观察透明度的变化。就是这样！[了解详细信息](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。<br />在[博客文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看详细信息
-
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
 - **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
@@ -78,12 +68,6 @@ ms.locfileid: "44695575"
 
 ### <a name="word"></a>Word
 
-- **查找并修复相关的校对问题。：**"编辑器" 窗格现在显示在文档中发现的校对问题的概述，因此重点在于修复与您最相关的问题。
-
-- **显示图片背后的内容：** 将图片置于幻灯片中，选择预设，然后观察透明度的变化。就是这样！[了解详细信息](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解详细信息](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[博客文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看详细信息
-
 - **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
@@ -91,8 +75,6 @@ ms.locfileid: "44695575"
 - **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="office-suite"></a>Office 套件
-
-- **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。
 
 - **敏感度标签：** 你现在可以应用组织已配置的敏感度标签来提示自定义权限。
 

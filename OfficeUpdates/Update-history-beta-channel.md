@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: 13263186e115180da3b989267f23721b13790f93
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
+ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668052"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44853950"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 频道的更新历史记录
 
-你好，预览体验成员！如果你想知道是否安装了最新的更新或查找最近的预览体验成员内部版本列表，那么你来对地方了。单击[此处](https://insider.office.com/)以了解有关预览体验成员计划的详细信息。
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
 > - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
@@ -29,13 +30,20 @@ ms.locfileid: "44668052"
 > - 此处的更新历史记录列出了发布的所有内部版本
 > - 发行说明的更新速度将放慢，可能是对已发布发行说明的内部版本号之前的多个内部版本的更新汇编。
 
-## <a name="office-beta-versions-and-builds"></a>Office Beta 版本和内部版本
+## <a name="office-beta-channel-versions-and-builds"></a>Office Beta 通道版本和内部版本
 
-如果你已注册内幕水平，则会频繁获取新功能和改进更新。 以下列表显示了最近测试版和内部版本的历史记录，其中**首先列出了最近发布的版本**。 新内部版本包含在以前的版本中包含的所有更新。
+如果你已注册内幕水平，则会频繁获取新功能和改进更新。 以下列表显示了最近 Beta 频道版本和内部版本的历史记录，其中**首先列出了最近发布**的版本。 新内部版本包含在以前的版本中包含的所有更新。
 
-若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
+若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/OfficeUpdates/beta-channel)。
+
 
 [//]: # (请勿移除)
+
+**2020年6月23日**<br/>
+版本2007（内部版本13020.20004）<br/>
+
+**2020年6月15日**<br/>
+版本2007（内部版本13012.20000）<br/>
 
 **2020年6月09日**<br/>
 版本2007（内部版本13006.20002）<br/>

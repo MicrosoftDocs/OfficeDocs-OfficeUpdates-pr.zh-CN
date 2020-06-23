@@ -1,5 +1,5 @@
 ---
-title: 发行说明当前频道（预览）
+title: 发布笔记当前频道（预览）
 ms.author: anankani
 author: v-lislo
 manager: andrewmo
@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 6a81894e1eca51356512bbd7181c3d7fa9f73760
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
+ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668064"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44796683"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 当前频道发行说明（预览）
 
@@ -32,6 +32,200 @@ ms.locfileid: "44668064"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2006-june-18"></a>版本2006：6月18日
+*版本2006（内部版本13001.20198）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+
+
+- **保存到固定文件夹：** 固定文件夹可使 Office 文件的保存变得更加轻松我们收到反馈，用户需要更好地控制在保存新文件时可用的文件夹。 我们非常兴奋地为你提供新功能：在 "保存" 对话框中固定你的文件夹。 这一新功能将使您的 Word、Excel 和 PowerPoint 文件更易于保存。 <br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **保存到固定文件夹：** 固定文件夹可使 Office 文件的保存变得更加轻松我们收到反馈，用户需要更好地控制在保存新文件时可用的文件夹。 我们非常兴奋地为你提供新功能：在 "保存" 对话框中固定你的文件夹。 这一新功能将使您的 Word、Excel 和 PowerPoint 文件更易于保存。<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+### <a name="word"></a>Word
+
+- **保存到固定文件夹：** 固定文件夹使保存 Office 文件 easierWe 收到反馈，用户希望更好地控制在保存新文件时可用的文件夹。 我们非常兴奋地为你提供新功能：在 "保存" 对话框中固定你的文件夹。 这一新功能将使您的 Word、Excel 和 PowerPoint 文件更易于保存。 <br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：在保存到 SharePoint/OneDrive 时，将导致删除自定义功能区选项卡的 CustomUI XML。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了在启用云设置时导致按住 Ctrl + 单击停止工作的问题。
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2006-june-11"></a>版本2006：6月11日
+*版本2006（内部版本13001.20144）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **改进了 PowerPoint 中的流视频性能：** 我们已经改进了 Microsoft Stream 视频的播放性能，以最大限度地减少视频加载时间，并创建流畅的观看体验。 使用 Microsoft Stream 中的公司视频来创建更好的演示文稿。
+
+### <a name="word"></a>Word
+
+- **以矢量为单位保留文本：** 现在，在 Excel、Word 和 PowerPoint 中转换这些对象时，您可以保留地图、图表和其他 SVG 矢量中的文本。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了在使用 OneDrive 时 Excel 偶尔会关闭的问题。
+
+- 我们修复了图表轴上的自定义值不能正确应用的问题。
+
+- 我们修复了以下问题：在保存文件时，包含具有已定义名称的多个公式的工作表会导致更长时间。
+
+- 我们解决了导致打印机名称在可用打印机列表中重复的问题。
+
+- 我们解决了在用户删除合并的列时导致性能时间增加的问题。
+
+- 我们修复了以下问题：由于加载项按字母顺序加载，而不是按用户指定的顺序加载，因此将显示错误消息 "当前正在由另一个工作簿引用，无法关闭"。
+
+- 我们修复了在 Excel 与一些第三方辅助技术应用程序之间管理字体时内存损坏的问题。
+
+- 我们修复了以下问题：单击同一工作簿中的书签标记的超链接将导致工作簿被隐藏。
+
+- 我们修复了以下问题：某些复制和粘贴的图表链接使用映射的驱动器地址，而不是通用地址。
+
+- 我们修复了以下问题：使用 Ctrl + Shift + 箭头键在 Excel 窗口通过团队共享时，Excel 可能变得变慢。
+
+- 我们修复了以下问题：当外接程序要求包含具有 noSelect 锁定的形状的工作表上的主机项时，Excel 将发生故障。
+
+- 解决了在尝试将数据透视表插入图表工作表时 Excel 可能崩溃的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 我们解决了以下问题：在使用具有不同分辨率的多个监视器时，IME （输入法编辑器）窗口将与通过 IME 输入的基础文本重叠。
+
+- 我们修复了以下问题：撰写新电子邮件时，查看模板会导致崩溃。
+
+- 我们修复了以下问题：用户无法在 Outlook 版本1911之后交换2010公用文件夹。
+
+- 我们解决了以下问题：禁用了 Office 功能区中组日历的分类按钮。
+
+- 解决了 Outlook 未能启用数据丢失保护策略提示的问题，即针对 M365 商业版和计划的服务付费用户的人员。
+
+- 解决了导致 Outlook 在某些 Windows 版本上出现故障的问题。
+
+- 我们修复了用户无法与来宾用户共享日历的问题。
+
+- 我们修复了以下问题：用户看到跨越午夜阈值的日历项目作为全天事件。
+
+- 我们解决了导致高 DPI 监视器上的用户丢失了文件夹属性中的联机存档下拉列表的问题。
+
+- 我们解决了以下问题：当用户在文件夹之间移动项目时，BeforeItemMove 事件未正确触发。
+
+- 我们修复了以下问题：当两个外接程序将一个按钮添加到功能区中的同一个组时，Outlook 崩溃。
+
+- 我们解决了导致用户在使用纯文本电子邮件的超链接时遇到 Outlook 崩溃的问题。
+
+- 我们解决了导致 Outlook 无法分析使用 RFC2231 编码的长文件名的问题。
+
+- 我们解决了导致 Outlook 用户在使用屏幕阅读器时遇到间歇性挂起的问题。
+
+- 我们解决了导致联系人冲突的用户在 Outlook 中遇到故障的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们解决了使用基于表单的身份验证打开服务器配置的文件时出现的问题。
+
+- 我们解决了以下问题： PowerPoint 文件的嵌入图表/工作簿可能会导致在保存文件时出现故障。
+
+- 我们修复了以下问题：从演示文稿区域进行放大和缩小导致缩放后的选区选取框和鼠标指针之间存在间隙。
+
+- 我们修复了以下问题：在使用鼠标滚轮缩放后，幻灯片未居中。
+
+- 我们解决了使用瑞士英语 (QWERTZ) 键盘时键盘快捷方式和拼写检查无法正常工作的问题。
+
+- 我们解决了以下问题：用户已关闭的注释窗格将自动重新打开。
+
+- 我们修复了以下问题：一张幻灯片中的幻灯片编辑器将重叠到下一张幻灯片。
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：当项目摘要任务发生更改时，ProjectBeforeTaskChange 事件不会触发-项目的开始/任务域。
+
+- 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
+
+- 我们修复了以下问题：单击 "选项" 后，Project 将发生故障。
+
+- 我们修复了阻止在删除父计划后删除或重新分配孤立任务的问题。
+
+### <a name="visio"></a>Visio
+
+- 已修复的相关代码中存在回归。 现在，图像是在 SharePoint Onprem 上运行的 Visio services 中呈现的。
+
+### <a name="word"></a>Word
+
+- 我们修复了注释窗格中的时间戳不基于系统区域设置时间的问题。
+
+- 解决了在 URL 包含查询组件时打开来自自定义文档传递（aspx）的 Word 文档时出现的问题。
+
+- 我们修复了以下问题：不会显示将文本复制并粘贴到批注窗格的问题。
+
+- 我们修复了批注中的超链接无法正常工作的问题。
+
+- 我们修复了以下问题：从演示文稿区域进行放大和缩小导致缩放后的选区选取框和鼠标指针之间存在间隙。
+
+- 我们修复了以下问题： web 应用和桌面应用程序之间的注释不同步。
+
+- 我们修复了以下问题：注释提示气泡在100% 时显示模糊。
+
+- 我们解决了向空白文档添加新批注不会执行任何操作的问题。
+
+- 我们修复了以下问题：将 HTML 粘贴到日历的 WordMail 中时不起作用。
+
+- 我们修复了在共同创作的会话中答复注释有时可能导致 Word 冻结的问题。
+
+- 我们解决了以下问题：在包含 100 个以上条目的文档中插入或更新索引将导致应用程序崩溃。
+
+- 我们修复了以下问题：启用策略 Word 2007 及更高版本的二进制文档和模板将导致某些共同创作案例失败。
+
+- 我们解决了以下问题：带有自定义 xml 值的文件打开速度非常慢。
+
+- 我们修复了以下问题：将无法打开带有长路径名（大于32K）的文件，并且未显示相应的错误消息。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们已调查并解决了操作系统关闭后，通过 InTune 执行 Office 365 企业应用版部署暂停的问题。 
+
+- 修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
+
+- 此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2005-june-08"></a>版本2005：08年6月
 *版本2005（内部版本12827.20336）*
@@ -353,7 +547,7 @@ ms.locfileid: "44668064"
 
 - **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。
+- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。 [了解更多](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)

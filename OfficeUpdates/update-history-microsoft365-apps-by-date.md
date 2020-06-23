@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 2bfbf1d8df2923c97e12380e8c054ddcf18f6c1e
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: cc14aacc0a08dd5c45e22410df7b50a0de51de94
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695563"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814291"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -47,7 +47,7 @@ ms.locfileid: "44695563"
 
 有关从先前版本的 Microsoft 365 应用版更新到最新版本时的大致下载大小的信息，请参阅 [Microsoft 365 应用版更新下载大小](download-sizes-office365-proplus-updates.md)。
 
-下表列出了以下更新频道中发布的 Microsoft 365 应用版的每个更新的版本号和生成号：每月频道、半年频道（定向）和半年频道。 表格中的每个条目都将直接链接到该版本的发行说明。 这些发行说明提供有关 Microsoft 365 应用版更新中包含的功能、安全更新和非安全更新的信息。  
+下表列出了在以下更新通道中发布的 Microsoft 365 应用程序的每次更新的版本和内部版本号： Current、月度企业、半年企业（预览）和半年企业。 表格中的每个条目都将直接链接到该版本的发行说明。 这些发行说明提供有关 Microsoft 365 应用版更新中包含的功能、安全更新和非安全更新的信息。  
 
 [//]: # (HISTORYTABLESTART)
 
