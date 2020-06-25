@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: b162030edbc15fd4d9dd5c7ce78b75853dc417da
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796693"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874828"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 的更新历史记录 Office 当前频道（预览）
 
@@ -24,7 +24,7 @@ Hello，内部人员！ 如果您想要了解是否安装了最新更新，或�
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 当前频道（预览）版本和内部版本
 
 如果您已在当前频道（预览）级别（以前称为 "内幕较慢"）中注册，则每月大约会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续版本。 以下列表显示最近的当前频道（预览）版本和内部版本，并**首先列出了最近发布的**版本。 新内部版本包含在以前的版本中包含的所有更新。
-若要查找发行说明，请参阅[什么是 Office 预览体验体验的新增功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+若要查找发行说明，[请参阅](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)。 此外，您还可以查看[Office 预览体验版的新增功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
 
 
 > [!IMPORTANT]

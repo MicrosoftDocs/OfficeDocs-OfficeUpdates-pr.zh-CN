@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810864"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874778"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中的当前频道发布的发行说明
 
@@ -31,6 +31,74 @@ ms.locfileid: "44810864"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-june-24"></a>版本2005：6月24日
+*版本2005（内部版本12827.20470）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 此 bug 现已修复;您应该能够将日期/时间扩展数据类型调用到代码中，而不会在您的应用程序中遇到任何故障。 如果你遇到其他问题，请让团队了解你是否遇到问题。
+
+
+- 此问题现已修复;现在，您可以还原到最新的 Access 版本，并使用 DAO/VBA 管理和编辑十进制数据类型。 如果你在使用数据类型时遇到任何问题，请让 Access 团队知道你是否会遇到任何问题。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：在保存到 SharePoint/OneDrive 时，将导致删除自定义功能区选项卡的 CustomUI XML。
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了 Outlook 未能启用数据丢失保护策略提示的问题，即针对 M365 商业版和计划的服务付费用户的人员。
+
+
+- 解决了导致用户看到通过拖放将其复制到文件系统的附件的创建日期的问题。在4501年1月1日。
+
+
+- 解决了导致用户在 &quot; 此计算机上看到规则的问题与在 &quot; Outlook 中更新其规则时，不符合 Microsoft Exchange 邮件的规则。
+
+
+- 解决了导致共享日历改进用户看到日历故障的问题。
+
+
+- 解决了导致用户在某些情况下遇到间歇性挂起和崩溃的问题。
+
+
+- 解决了导致用户看到 Outlook 连续提示他们运行收件箱修复工具的问题。
+
+
+- 解决了以下问题：搜索建议功能中的功能以返回无结果，并让用户没有任何选项可提交新的功能想法。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了与建议窗格有关的故障问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
+
+### <a name="word"></a>Word
+
+- 解决了在从应用程序中拖动某些内容时可能导致崩溃的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更改解决了加载和播放动画内容（如 Gif 或3D 模型）时可能挂起的情况。
+
 
 
 
@@ -213,7 +281,7 @@ ms.locfileid: "44810864"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="office-suite"></a>Office 套件
 
-- 此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
+- 此更新修复了 Microsoft Office 的 Visual Basic for Applications 中的一个问题，其中某些包含代码库参考，且库名称或路径中包含 DBSC 字符的 VBA 项目会被 Office 应用程序视为加载时损坏。
 
 
 
