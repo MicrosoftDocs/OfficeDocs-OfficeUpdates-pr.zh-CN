@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796683"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889058"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 当前频道发行说明（预览）
 
@@ -32,6 +32,46 @@ ms.locfileid: "44796683"
 [//]: # (请勿移除功能详细信息内容开头)
 
 [//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2006-june-25"></a>版本2006：6月25日
+*版本2006（内部版本13001.20266）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="visio"></a>Visio
+
+- **在 Excel 中制作精美的 Visio 图表：** 根据工作表中的数据创建流程图或组织关系图。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- <div>现已解决此问题。 如果你在此过程中遇到更多问题，请让团队了解。</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="display:inline !important;">解决导致用户看到 <span>&nbsp;</span> 的问题</span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp; 通过拖放将其复制到文件系统的附件的创建日期将 &nbsp; 设置为4501年1月1日。</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解决了导致共享日历改进用户看到日历故障的问题。</span><br></div>
+
+
+- <div><span style="display:inline !important;">解决了导致用户看到 Outlook 持续提示他们运行收件箱修复工具的问题。</span><br></div>
+
+
+- <div><span style="display:inline !important;">解决了以下问题：搜索建议功能中的功能以返回无结果并使用户不带任何选项来提交新的功能想法。</span><br></div>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2006-june-18"></a>版本2006：6月18日
 *版本2006（内部版本13001.20198）*
@@ -547,7 +587,7 @@ ms.locfileid: "44796683"
 
 - **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。 [了解更多](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。 [了解详细信息](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
