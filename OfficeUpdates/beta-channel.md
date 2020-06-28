@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874788"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906907"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发行说明
 
@@ -30,6 +30,34 @@ ms.locfileid: "44874788"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2007-june-26"></a>版本2007：6月26日
+*版本2007（内部版本13020.20004）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了以下问题：在刷新链接 SQL 表时，链接表管理器将提示输入主键。
+- 我们修复了查询编辑器中的查询滚动到视图之外的问题。
+- 我们修复了以下问题：执行查询时，执行的时间大约是预期完成时间的两倍。
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了以下问题：用户无法使用通讯组列表的 "代理发送" 或 "代表发送"。
+- 我们修复了以下问题：在邮件中插入图像，然后将邮件另存为草稿将导致图像的大小发生改变。
+- 我们修复了以下问题：在编辑主题后，导致 NDR 邮件的正文从 Unicode 更改为 ASCII。
+
+### <a name="project"></a>项目
+
+- 我们修复了以下问题：已禁用政府社区云环境中的项目计划程序链接。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了以下问题：在 Word、Excel 或 PowerPoint 文件中插入可缩放的矢量图形（SVG）中的文本后，在将其插入到 Word、Excel 或 PowerPoint 文件中后，保存并关闭该文件，然后重新打开该文件。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2007-june-19"></a>版本2007：6月19日
 *版本2007（内部版本13012.20000）*
@@ -53,7 +81,7 @@ ms.locfileid: "44874788"
 
 - 我们修复了以下问题：在实时共同创作会话过程中，用户的状态指示器未在共同创作库中刷新。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 我们修复了以下问题：如果固定工期任务已完成100% 但未指定实际完成时间，则任务完成百分比将显示为小于100%。
 
@@ -92,7 +120,7 @@ ms.locfileid: "44874788"
 
 - 我们修复了雷达图表的主要网格线无法正确格式化的问题。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 我们修复了以下问题：项目摘要任务（项目开始/任务域）发生更改时，ProjectBeforeTaskChange 事件不会触发。
 - 我们修复了以下问题：比较基准重置或更新可能会更改时间分段预算成本/工时资源，并且比较基准可能会反映错误的预算值。
@@ -154,7 +182,7 @@ ms.locfileid: "44874788"
 - 我们解决了以下问题：用户已关闭的注释窗格将自动重新打开。
 - 我们修复了以下问题：一张幻灯片中的幻灯片编辑器将重叠到下一张幻灯片。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 我们修复了阻止在删除父计划后删除或重新分配孤立任务的问题。
 
@@ -249,7 +277,7 @@ ms.locfileid: "44874788"
 
 - 我们修复了以下问题：从演示文稿区域进行放大和缩小导致缩放后的选区选取框和鼠标指针之间存在间隙。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 我们修复了以下问题：单击 "选项" 后，Project 将发生故障。
 
@@ -270,7 +298,7 @@ ms.locfileid: "44874788"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解详细信息](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解更多](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
 ### <a name="outlook"></a>Outlook
 
@@ -326,7 +354,7 @@ ms.locfileid: "44874788"
 
 ### <a name="outlook"></a>Outlook
 
-- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解详细信息](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
@@ -534,7 +562,7 @@ ms.locfileid: "44874788"
 
 - 此更改修复了以下问题：使用“全字匹配”查找特殊字符时并非总是按预期工作。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。
 
@@ -577,7 +605,7 @@ ms.locfileid: "44874788"
 ### <a name="powerpoint"></a>PowerPoint
 - 此更改修复了以下错误：无法保存包含表情符号的 PowerPoint 文件。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 修复了以下问题：在执行“CustomFieldValueListGetItem”时，如果自定义字段的查阅表格不存在，则会创建空的查阅表格，即使不应该创建。
 
 ### <a name="word"></a>Word
@@ -690,7 +718,7 @@ ms.locfileid: "44874788"
 - 解决了导致在展开的查找窗格中按回车键无法启动搜索，而是要求用户单击搜索按钮的问题。
 - 修复了禁用“可用时显示用户照片”选项时，搜索不显示有关用户的信息的问题。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 修复了有时无法正确计算摘要任务日期的问题。
 - 修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。
 
