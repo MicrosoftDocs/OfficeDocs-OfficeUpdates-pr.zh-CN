@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889058"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001176"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 当前频道发行说明（预览）
 
@@ -109,7 +109,7 @@ ms.locfileid: "44889058"
 
 - 解决了在启用云设置时导致按住 Ctrl + 单击停止工作的问题。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
 
@@ -213,7 +213,7 @@ ms.locfileid: "44889058"
 
 - 我们修复了以下问题：一张幻灯片中的幻灯片编辑器将重叠到下一张幻灯片。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：当项目摘要任务发生更改时，ProjectBeforeTaskChange 事件不会触发-项目的开始/任务域。
 
@@ -362,10 +362,7 @@ ms.locfileid: "44889058"
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
 
-- **使用 Excel 数据类型从 POWER BI 获取组织数据：** 您可以使用 Excel 数据类型插入组织中的数据。 转换工作簿中的单元格并获取其他信息，并在需要时随时刷新数据！
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -924,7 +921,7 @@ ms.locfileid: "44889058"
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - <div><span style="display:inline !important;">修复了以下问题：如果保护实际工时的设置已启用，用户就无法输入分时段基线工时。</span><br></div>
 
@@ -1307,7 +1304,7 @@ ms.locfileid: "44889058"
 - 修复了荧光笔问题：带有黑色荧光笔颜色的白色文本在打印后显示为灰度中的黑色。
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：固定持续时间类型的 100％ 任务可能会错误地将其完成百分比计算为小于 100％ 完成。
 

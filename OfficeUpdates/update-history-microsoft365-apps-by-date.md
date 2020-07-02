@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 7acd6650c3c084208358cc6cf72f2b4961ff9e6b
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 5307b0e58f5419c004594df7a21b3c9959c35711
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874808"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001159"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -36,7 +36,7 @@ ms.locfileid: "44874808"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2005<br/>|12827.20470<br/>|2020年6月24日<br/>|版本2006已发布<br/>|
+|当前频道<br/>|2006<br/>|13001.20266<br/>|2020年6月30日<br/>|版本2007已发布<br/>|
 |月度企业版频道<br/>|2004<br/>|12730.20430<br/>|2020年6月9日<br/>|2020年8月11日<br/>|
 |月度企业版频道<br/>|2003<br/>|12624.20708<br/>|2020年6月9日<br/>|2020 年 7 月 14 日<br/>|
 |半年企业频道（预览）<br/>|2002<br/>|12527.20720<br/>|2020年6月9日<br/>|2020 年 9 月 8 日<br/>|
@@ -53,6 +53,7 @@ ms.locfileid: "44874808"
 
 |**Year**|**发布日期**|**当前频道**|**月度企业版频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020 年|6 月 30 日|[版本2006（内部版本13001.20266）](current-channel.md#version-2006-june-30)| | | |
 |2020 年|6 月 24 日|[版本2005（内部版本12827.20470）](current-channel.md#version-2005-june-24)| | | |
 |2020 年|6月09日|[版本2005（内部版本12827.20336）](current-channel.md#version-2005-june-09)|[版本2004（内部版本12730.20430）](monthly-enterprise-channel.md#version-2004-june-09)<br/>[版本2003（内部版本12624.20708）](monthly-enterprise-channel.md#version-2003-june-09)|[版本2002（内部版本12527.20720）](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[版本1908（内部版本11929.20838）](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[版本1902（内部版本11328.20602）](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020 年|02月2日|[版本2005（内部版本12827.20268）](current-channel.md#version-2005-june-02)| | | |

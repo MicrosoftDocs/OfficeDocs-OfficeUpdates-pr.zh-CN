@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874778"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015624"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中的当前频道发布的发行说明
 
@@ -31,6 +31,89 @@ ms.locfileid: "44874778"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2006-june-30"></a>版本2006：6月30日
+*版本2006（内部版本13001.20266）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **更长的文件名：** Excel for Windows desktop 现在支持具有最大为400个字符的名称和路径的 OneDrive/SharePoint 文件。
+
+### <a name="outlook"></a>Outlook
+
+- **新增了用于在 Outlook 中撰写邮件时禁用 @提及建议的选项：** 你是否觉得 @提及选取器更令人生厌，而不是更有用？ 现在，可以根据需要禁用它。<br />在[博客文章](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)中查看详细信息
+
+- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。 [了解更多](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **添加到 Outlook toast 通知中的其他按钮：** 快速操作按钮现在在 Windows 10 上运行 Outlook 时显示在 Outlook toast 通知中
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **改进了 PowerPoint 中的流视频性能：** 我们已经改进了 Microsoft Stream 视频的播放性能，以最大限度地减少视频加载时间，并创建流畅的观看体验。 使用 Microsoft Stream 中的公司视频来创建更好的演示文稿。
+
+### <a name="teams"></a>Teams
+
+- **PSTN 参与者电话号码将被从外部用户屏蔽：** 对于为其团队会议启用音频会议的客户，我们将把 PSTN 参与者的电话号码屏蔽到从组织外部加入的用户。
+
+- **管理频道通知设置的简化方法：** 通过 "团队和频道" 列表或从频道标头，用户可以通过一次单击或深入查看所有活动来快速管理其通知设置。若要设置其首选排列。
+
+- **Walkie Talkie：** 使用按下即可进行即时语音通信。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了以下问题：执行查询时，执行的时间大约是预期完成时间的两倍。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：在保存到 SharePoint/OneDrive 时，将导致删除自定义功能区选项卡的 CustomUI XML。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户看到通过拖放将其复制到文件系统的附件的创建日期的问题。在4501年1月1日。
+
+- 解决了导致共享日历改进用户看到日历故障的问题。
+
+
+- 解决了导致用户看到 Outlook 连续提示他们运行收件箱修复工具的问题。
+
+
+- 解决了在启用云设置时导致按住 Ctrl + 单击停止工作的问题。
+
+
+- 解决了以下问题：搜索建议功能中的功能以返回无结果，并让用户没有任何选项可提交新的功能想法。
+
+
+### <a name="project"></a>项目
+
+- 修复了以下问题：如果 URL 以 .com 结尾，则无法在 project Web App 中打开 Project 桌面客户端中的项目。
+
+
+- 修复了以下问题：当项目摘要任务发生更改时，ProjectBeforeTaskChange 事件不会触发-项目的开始/任务域。
+
+
+- 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
+
+
+### <a name="word"></a>Word
+
+- 解决了在 URL 包含查询组件时打开来自自定义文档传递（aspx）的 Word 文档时出现的问题。
 
 
 
@@ -86,7 +169,7 @@ ms.locfileid: "44874778"
 - 我们修复了与建议窗格有关的故障问题。
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
 
@@ -121,7 +204,7 @@ ms.locfileid: "44874778"
 
 - 这可修复用户在文件中同时具有新式注释和旧版注释时出现的故障，从而触发对注释的升级。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：当项目摘要任务发生更改时，ProjectBeforeTaskChange 事件不会触发-项目的开始/任务域。
 
@@ -424,7 +507,7 @@ ms.locfileid: "44874778"
 
 - 通知用户有关 Microsoft OneNote 中的暂时调整的信息栏，可有助于提升全球范围内使用期间的同步和服务可用性。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。
 
@@ -505,7 +588,7 @@ ms.locfileid: "44874778"
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。
 
@@ -603,7 +686,7 @@ ms.locfileid: "44874778"
 - 解决了导致用户在取消帐户设置时遇到崩溃的问题。
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：固定持续时间类型的 100％ 任务可能会错误地将其完成百分比计算为小于 100％ 完成。
 
@@ -706,7 +789,7 @@ ms.locfileid: "44874778"
 
 - **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解详细信息](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
