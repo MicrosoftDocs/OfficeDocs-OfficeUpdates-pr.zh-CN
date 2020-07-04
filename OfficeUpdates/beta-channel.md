@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
-ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
+ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
+ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/26/2020
-ms.locfileid: "44906907"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "45037076"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发行说明
 
@@ -30,6 +30,58 @@ ms.locfileid: "44906907"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2007-july-03"></a>版本2007：03年7月
+*版本2007（内部版本13029.20006）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **使用快速轮询在 Outlook 中创建投票：** 轻松创建轮询、收集投票和查看电子邮件中的结果[了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **新聊天室查找程序：** 按不同的功能搜索会议室。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了在某些版本的 Excel 中创建的数据模型表在 "表预览" 中无法显示的问题，即使与该表相关联的查询尚未编辑。
+- 我们修复了以下问题：禁用 "定义名称 \ 应用名称" 对话框中的 "忽略相对/绝对" 引用将导致公式不起作用。
+- 我们修复了以下问题：清除高级数据筛选器可能会丢失表格格式。
+- 我们修复了以下问题：嵌入的 PDF 文档的完整路径将显示在文档标题中，而不仅仅是文件名中。
+- 我们解决了以下问题：禁用 Wolfram 云连接器，然后保存并重新打开 Excel 工作簿后，可能会导致崩溃。
+- 我们修复了在启用了规划求解外接程序的情况下启动 Excel 时将导致崩溃的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了以下问题：如果 "收件人" 行上有超过130个收件人，Outlook 将挂起，同时还提高了呈现文本的性能。
+- 我们在 "待办事项栏" 中修复了一个问题，其中，跨越两天以上的事件在所有后续日期中显示相同的结束时间。
+- 我们解决了导致 Outlook 用户在使用共享日历后停止更新的问题，从而导致 Outlook 用户看到其邮件列表。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了以下问题：将 HTML 粘贴到幻灯片上的文本区域将转到在幻灯片顶部创建的文本框中。
+- 我们修复了以下问题：选择演示者视图中的所有幻灯片，然后使用 Alt + Tab 退出演示者视图，并返回到幻灯片放映并单击 "结束放映" 将导致未经处理的异常。
+
+### <a name="project"></a>项目
+
+- 我们修复了以下问题：在打开某些 XML 文件时，Project 可能会发生故障。
+- 我们修复了以下问题：如果库处于新式模式，则无法从 SharePoint 文档库中打开项目文件。
+- 我们修复了以下问题：如果 URL 以 ".com" 结尾，则无法从 Project Web App 在 Project desktop client 中打开项目。
+
+### <a name="word"></a>Word
+
+- 我们在共同创作模式期间修复了一个问题，当存在合并冲突且用户已选择放弃更改时，我们将不再显示保存或放弃更改的选项。
+- 我们解决了以下问题：在尝试以新名称保存包含宏的文件时，将导致该文件以 .docx WRO0004.docx 扩展名保存，而不管用户输入的内容如何，将该文档呈现为不可用。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2007-june-26"></a>版本2007：6月26日
 *版本2007（内部版本13020.20004）*
@@ -481,7 +533,7 @@ ms.locfileid: "44906907"
 - 解决了导致删除为邮箱创建的规则而不是用户的主要邮箱无效的问题。
 - 解决了在转发加密邮件时导致附件被删除的问题。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 - 在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent 事件。
 - 修复了以下问题：在连接至 SharePoint 任务列表的项目上更改版块状态字段时，Project 可能会崩溃。
 - 解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。
@@ -605,7 +657,7 @@ ms.locfileid: "44906907"
 ### <a name="powerpoint"></a>PowerPoint
 - 此更改修复了以下错误：无法保存包含表情符号的 PowerPoint 文件。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 - 修复了以下问题：在执行“CustomFieldValueListGetItem”时，如果自定义字段的查阅表格不存在，则会创建空的查阅表格，即使不应该创建。
 
 ### <a name="word"></a>Word
@@ -652,7 +704,7 @@ ms.locfileid: "44906907"
 
 - 修复了以下问题：在一组返回的搜索结果中，按“类别”对结果排序时看不到“类别”颜色。
 
-### <a name="project"></a>Project
+### <a name="project"></a>项目
 
 - 修复了以下问题：当用户单击了“任务”功能区上“计划”分组中的“停用”按钮后，“ProjectBeforeTaskChange”Visual Basic Applications (VBA) 事件未触发。
 
@@ -680,7 +732,7 @@ ms.locfileid: "44906907"
 
 - 修复了以下问题：当你通过邮件发送文档时，保存在 Word 文档中的数字签名会遭删除。
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2004-march-13"></a>版本 2004：3 月 13 日
 *版本 2004（内部版本 12703.20010）*
