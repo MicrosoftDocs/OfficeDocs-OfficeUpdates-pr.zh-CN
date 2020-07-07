@@ -9,12 +9,11 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
-ms.translationtype: MT
+ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
+ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015624"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45049482"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中的当前频道发布的发行说明
 
@@ -100,7 +99,7 @@ ms.locfileid: "45015624"
 - 解决了以下问题：搜索建议功能中的功能以返回无结果，并让用户没有任何选项可提交新的功能想法。
 
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了以下问题：如果 URL 以 .com 结尾，则无法在 project Web App 中打开 Project 桌面客户端中的项目。
 
@@ -169,7 +168,7 @@ ms.locfileid: "45015624"
 - 我们修复了与建议窗格有关的故障问题。
 
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
 
@@ -204,7 +203,7 @@ ms.locfileid: "45015624"
 
 - 这可修复用户在文件中同时具有新式注释和旧版注释时出现的故障，从而触发对注释的升级。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了以下问题：当项目摘要任务发生更改时，ProjectBeforeTaskChange 事件不会触发-项目的开始/任务域。
 
@@ -507,7 +506,7 @@ ms.locfileid: "45015624"
 
 - 通知用户有关 Microsoft OneNote 中的暂时调整的信息栏，可有助于提升全球范围内使用期间的同步和服务可用性。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。
 
@@ -588,7 +587,7 @@ ms.locfileid: "45015624"
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。
 
@@ -686,7 +685,7 @@ ms.locfileid: "45015624"
 - 解决了导致用户在取消帐户设置时遇到崩溃的问题。
 
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了以下问题：固定持续时间类型的 100％ 任务可能会错误地将其完成百分比计算为小于 100％ 完成。
 
@@ -824,3 +823,7 @@ ms.locfileid: "45015624"
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
+
+[//]: # (不修改管理中心元数据内容的开始)
+[//]: # (|Win32 |抄送 |生产 | | 16.0.13001.20266 | 版本-2006-6 月-30 |)
+[//]: # (不修改管理中心元数据内容的结尾)
