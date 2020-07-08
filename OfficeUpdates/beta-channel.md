@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037076"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052625"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发行说明
 
@@ -70,7 +70,7 @@ ms.locfileid: "45037076"
 - 我们修复了以下问题：将 HTML 粘贴到幻灯片上的文本区域将转到在幻灯片顶部创建的文本框中。
 - 我们修复了以下问题：选择演示者视图中的所有幻灯片，然后使用 Alt + Tab 退出演示者视图，并返回到幻灯片放映并单击 "结束放映" 将导致未经处理的异常。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 我们修复了以下问题：在打开某些 XML 文件时，Project 可能会发生故障。
 - 我们修复了以下问题：如果库处于新式模式，则无法从 SharePoint 文档库中打开项目文件。
@@ -101,7 +101,7 @@ ms.locfileid: "45037076"
 - 我们修复了以下问题：在邮件中插入图像，然后将邮件另存为草稿将导致图像的大小发生改变。
 - 我们修复了以下问题：在编辑主题后，导致 NDR 邮件的正文从 Unicode 更改为 ASCII。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 我们修复了以下问题：已禁用政府社区云环境中的项目计划程序链接。
 
@@ -133,7 +133,7 @@ ms.locfileid: "45037076"
 
 - 我们修复了以下问题：在实时共同创作会话过程中，用户的状态指示器未在共同创作库中刷新。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 我们修复了以下问题：如果固定工期任务已完成100% 但未指定实际完成时间，则任务完成百分比将显示为小于100%。
 
@@ -172,7 +172,7 @@ ms.locfileid: "45037076"
 
 - 我们修复了雷达图表的主要网格线无法正确格式化的问题。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 我们修复了以下问题：项目摘要任务（项目开始/任务域）发生更改时，ProjectBeforeTaskChange 事件不会触发。
 - 我们修复了以下问题：比较基准重置或更新可能会更改时间分段预算成本/工时资源，并且比较基准可能会反映错误的预算值。
@@ -234,7 +234,7 @@ ms.locfileid: "45037076"
 - 我们解决了以下问题：用户已关闭的注释窗格将自动重新打开。
 - 我们修复了以下问题：一张幻灯片中的幻灯片编辑器将重叠到下一张幻灯片。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 我们修复了阻止在删除父计划后删除或重新分配孤立任务的问题。
 
@@ -329,7 +329,7 @@ ms.locfileid: "45037076"
 
 - 我们修复了以下问题：从演示文稿区域进行放大和缩小导致缩放后的选区选取框和鼠标指针之间存在间隙。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 我们修复了以下问题：单击 "选项" 后，Project 将发生故障。
 
@@ -533,7 +533,7 @@ ms.locfileid: "45037076"
 - 解决了导致删除为邮箱创建的规则而不是用户的主要邮箱无效的问题。
 - 解决了在转发加密邮件时导致附件被删除的问题。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 - 在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent 事件。
 - 修复了以下问题：在连接至 SharePoint 任务列表的项目上更改版块状态字段时，Project 可能会崩溃。
 - 解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。
@@ -614,7 +614,7 @@ ms.locfileid: "45037076"
 
 - 此更改修复了以下问题：使用“全字匹配”查找特殊字符时并非总是按预期工作。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。
 
@@ -704,7 +704,7 @@ ms.locfileid: "45037076"
 
 - 修复了以下问题：在一组返回的搜索结果中，按“类别”对结果排序时看不到“类别”颜色。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了以下问题：当用户单击了“任务”功能区上“计划”分组中的“停用”按钮后，“ProjectBeforeTaskChange”Visual Basic Applications (VBA) 事件未触发。
 
@@ -770,7 +770,7 @@ ms.locfileid: "45037076"
 - 解决了导致在展开的查找窗格中按回车键无法启动搜索，而是要求用户单击搜索按钮的问题。
 - 修复了禁用“可用时显示用户照片”选项时，搜索不显示有关用户的信息的问题。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 - 修复了有时无法正确计算摘要任务日期的问题。
 - 修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。
 
@@ -997,3 +997,7 @@ ms.locfileid: "45037076"
 - 解决了可能是导致无法正确安装挪威尼诺斯克语 (nn-no) 校对工具程序包的原因的问题。
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+
+[//]: # (不修改管理中心元数据内容的开始)
+[//]: # (不修改管理中心元数据内容的结尾)
