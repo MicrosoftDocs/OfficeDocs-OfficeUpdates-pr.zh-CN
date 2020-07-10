@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: 228333b39b81bad7979768354d11a70124c816e6
-ms.sourcegitcommit: 31188461773c3aee326d76f9e1d3cb5d511e6fe3
+ms.openlocfilehash: f1924b4ad7dac69ad94228998da3042e156e12c6
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44042979"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052615"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
@@ -25,6 +25,29 @@ ms.locfileid: "44042979"
 > - 本文中的信息不适用于 Microsoft 365 应用。
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="july-7-2020"></a>2020 年 7 月 7 日
+
+**Office 2016**<br/>
+Microsoft Office 2016 的更新 ([KB4484439](https://support.microsoft.com/help/4484439))<br/> Microsoft Office 2016 的更新 ([KB4484174](https://support.microsoft.com/help/4484174))<br/> Microsoft Excel 2016 的更新 ([KB4484437](https://support.microsoft.com/help/4484437))<br/>
+Skype for Business 2016 的更新 ([KB4484326](https://support.microsoft.com/help/4484326))<br/> 
+
+**Office 2013**<br/>
+Microsoft Office 2013 的更新 ([KB4484442](https://support.microsoft.com/help/4484442))<br/> Microsoft PowerPoint 2013 的更新 ([KB4484349](https://support.microsoft.com/help/4484349))<br/> 
+
+
+## <a name="june-2-2020"></a>2020 年 6 月 2 日
+
+**Office 2016**<br/>
+Microsoft Office 2016 的更新 ([KB4484171](https://support.microsoft.com/help/4484171))<br/> Microsoft Office 2016 的更新 ([KB4484335](https://support.microsoft.com/help/4484335))<br/> Microsoft Office 2016 的更新 ([KB4484392](https://support.microsoft.com/help/4484392))<br/> Microsoft Office 2016 的更新 ([KB4484394](https://support.microsoft.com/help/4484394))<br/> Microsoft OneNote 2016 的更新 ([KB4484329](https://support.microsoft.com/help/4484329))<br/>
+Microsoft Outlook 2016 的更新 ([KB4484398](https://support.microsoft.com/help/4484398))<br/> 
+
+**Office 2013**<br/>
+Microsoft Office 2013 的更新 ([KB4484356](https://support.microsoft.com/help/4484356))<br/> 
+
+**Office 2010**<br/>
+Microsoft Office 2010 的更新 ([KB4484377](https://support.microsoft.com/help/4484377))<br/> 
+
 
 ## <a name="may-5-2020"></a>2020 年 5 月 5 日
 
@@ -61,26 +84,5 @@ Skype for Business 2015 的更新 ([KB4484097](https://support.microsoft.com/hel
 Microsoft Project 2016 的更新 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
 Microsoft Word 2016 的更新 ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
 
-## <a name="january-7-2020"></a>2020 年 1 月 7 日
-
-**Office 2016**<br/>
-Microsoft Office 2016 的更新 ([KB4464586](https://support.microsoft.com/help/4464586)) <br/>
-Microsoft Office 2016 的更新 ([KB4484168](https://support.microsoft.com/help/4484168)) <br/>
-Microsoft Office 2016 的更新 ([KB4484218](https://support.microsoft.com/help/4484218)) <br/>
-Microsoft Outlook 2016 的更新 ([KB4484212](https://support.microsoft.com/help/4484212)) <br/>
-Microsoft PowerPoint 2016 的更新 ([KB4484216](https://support.microsoft.com/help/4484216)) <br/>
-Microsoft Project 2016 的更新 ([KB4484140](https://support.microsoft.com/help/4484140)) <br/>
-Microsoft Visio 2016 的更新 ([KB4464575](https://support.microsoft.com/help/4464575)) <br/>
-Microsoft Visio Viewer 2016 的更新（[KB2920709](https://support.microsoft.com/help/2920709)） <br/>
-Microsoft Word 2016 的更新 ([KB4484219](https://support.microsoft.com/help/4484219)) <br/>
-Skype for Business 2016 的更新 ([KB4484213](https://support.microsoft.com/help/4484213)) <br/>
-
-
-## <a name="december-3-2019"></a>2019 年 12 月 3 日
-
-**Office 2016**<br/>
-Microsoft Office 2016 的更新 ([KB4484170](https://support.microsoft.com/help/4484170)) <br/>
-Microsoft Outlook 2016 的更新 ([KB4484172](https://support.microsoft.com/help/4484172)) <br/>
-Skype for Business 2016 的更新 ([KB4484133](https://support.microsoft.com/help/4484133)) <br/>
 
 
