@@ -9,16 +9,16 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
-ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
-ms.translationtype: MT
+ms.openlocfilehash: 63ae6dbe28765efde1ddc6a440adeddd53b71338
+ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45001176"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45094642"
 ---
-# <a name="release-notes-for-office-current-channel-preview"></a>Office 当前频道发行说明（预览）
+# <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
-本文包含适用于 Microsoft Word、Excel、PowerPoint、Outlook、Access 和 Project for Windows desktop 的当前频道（预览版）版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 请注意，我们经常在一段时间内将功能（甚至有时是修补）部署到当前频道（预览）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
+本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access 和 Project 的当前频道（预览）内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 请注意，我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道（预览）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
 
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
@@ -26,22 +26,27 @@ ms.locfileid: "45001176"
 > [!NOTE]
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
-
 [//]: # (请勿移除)
 
-[//]: # (请勿移除功能详细信息内容开头)
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-## <a name="version-2006-june-25"></a>版本2006：6月25日
-*版本2006（内部版本13001.20266）*
+## <a name="version-2006-july-09"></a>版本 2006：7 月 9 日
+*版本 2006（内部版本 13001.20384）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
-### <a name="visio"></a>Visio
+### <a name="excel"></a>Excel
 
-- **在 Excel 中制作精美的 Visio 图表：** 根据工作表中的数据创建流程图或组织关系图。
+- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解更多](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **创建用于公式的变量：** 通过 LET 函数改进性能、可读性和可组合性。 此功能允许你在新的或预先存在的公式中创建已命名的变量。 [了解更多](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[博客文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看详细信息
+
+- **Excel 中的键盘快捷方式：** 已更新Excel的键盘快捷键
+
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 中使用快速投票创建投票：** 轻松创建投票、收集选票和在电子邮件中查看结果 [了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **将图片作为电子邮件一部分发送时，保持图片的高度机密性：** 将图片作为电子邮件内容的一部分发送时，可以使用新的 Outlook 设置限制图片压缩
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -53,28 +58,67 @@ ms.locfileid: "45001176"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="access"></a>Access
 
-- <div>现已解决此问题。 如果你在此过程中遇到更多问题，请让团队了解。</div>
+- 这个问题已得到解决，你应该能够成功地将包含标识（例如自动编号）字段的链接SQL表插入到Access中。
+
+### <a name="excel"></a>Excel
+
+- 修复了当你已从帐户注销时尝试创建数据连接时可能发生的故障。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们对新的 AppV51 进行了备份，以修复之前 AppV51 中的回归问题。
+
+- 当注册表 TabProcGrowth 值为 REG_SZ 类型并且值为 "0"的注册表，激活加载项时，Windows 上的 Office 主机会故障。  注册表 TabProcGrowth 值可以是以下4条路径中的任意一种：HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main 此更改可解决以上问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2006-june-25"></a>版本 2006：6 月 25 日
+*版本 2006（内部版本 13001.20266）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="visio"></a>Visio
+
+- **在 Excel 中制作优美的 Visio 图表：** 根据工作表中的数据创建流程图或组织结构图。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- <div>此问题现在得以解决了。 如果您在这个过程中遇到更多问题，请让团队知道。</div>
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div><span style="display:inline !important;">解决导致用户看到 <span>&nbsp;</span> 的问题</span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp; 通过拖放将其复制到文件系统的附件的创建日期将 &nbsp; 设置为4501年1月1日。</span><br></div>
+- <div><span style="display:inline !important;">解决了导致用户看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">创建日期&nbsp; 通过拖放将其复制到文件系统的附件&nbsp; 设置为4501年1月1日</span>的问题。<br></div>
 
 
 - <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解决了导致共享日历改进用户看到日历故障的问题。</span><br></div>
 
 
-- <div><span style="display:inline !important;">解决了导致用户看到 Outlook 持续提示他们运行收件箱修复工具的问题。</span><br></div>
+- <div><span style="display:inline !important;">解决了导致用户看到 Outlook 不断提示他们运行收件箱修复工具的问题。</span><br></div>
 
 
-- <div><span style="display:inline !important;">解决了以下问题：搜索建议功能中的功能以返回无结果并使用户不带任何选项来提交新的功能想法。</span><br></div>
+- <div><span style="display:inline !important;">解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。</span><br></div>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2006-june-18"></a>版本2006：6月18日
-*版本2006（内部版本13001.20198）*
+## <a name="version-2006-june-18"></a>版本 2006：6 月 18 日
+*版本 2006（内部版本 13001.20198）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -83,15 +127,15 @@ ms.locfileid: "45001176"
 
 
 
-- **保存到固定文件夹：** 固定文件夹可使 Office 文件的保存变得更加轻松我们收到反馈，用户需要更好地控制在保存新文件时可用的文件夹。 我们非常兴奋地为你提供新功能：在 "保存" 对话框中固定你的文件夹。 这一新功能将使您的 Word、Excel 和 PowerPoint 文件更易于保存。 <br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 <br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **保存到固定文件夹：** 固定文件夹可使 Office 文件的保存变得更加轻松我们收到反馈，用户需要更好地控制在保存新文件时可用的文件夹。 我们非常兴奋地为你提供新功能：在 "保存" 对话框中固定你的文件夹。 这一新功能将使您的 Word、Excel 和 PowerPoint 文件更易于保存。<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
 
 ### <a name="word"></a>Word
 
-- **保存到固定文件夹：** 固定文件夹使保存 Office 文件 easierWe 收到反馈，用户希望更好地控制在保存新文件时可用的文件夹。 我们非常兴奋地为你提供新功能：在 "保存" 对话框中固定你的文件夹。 这一新功能将使您的 Word、Excel 和 PowerPoint 文件更易于保存。 <br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 <br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -103,33 +147,33 @@ ms.locfileid: "45001176"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：在保存到 SharePoint/OneDrive 时，将导致删除自定义功能区选项卡的 CustomUI XML。
+- 修正了以下问题：保存到 SharePoint / OneDrive 时，自定义功能区标签的CustomUI XML被删除。
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了在启用云设置时导致按住 Ctrl + 单击停止工作的问题。
+- 解决了启用云设置时导致Ctrl+click停止工作的问题。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
-- 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
+- 修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2006-june-11"></a>版本2006：6月11日
-*版本2006（内部版本13001.20144）*
+## <a name="version-2006-june-11"></a>版本 2006：6 月 11 日
+*版本 2006（内部版本 13001.20144）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **改进了 PowerPoint 中的流视频性能：** 我们已经改进了 Microsoft Stream 视频的播放性能，以最大限度地减少视频加载时间，并创建流畅的观看体验。 使用 Microsoft Stream 中的公司视频来创建更好的演示文稿。
+- **改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。 使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。
 
 ### <a name="word"></a>Word
 
-- **以矢量为单位保留文本：** 现在，在 Excel、Word 和 PowerPoint 中转换这些对象时，您可以保留地图、图表和其他 SVG 矢量中的文本。
+- **在矢量中保留文本：** 现在，在 Excel、Word 和 PowerPoint 中转换这些对象时，可以在地图、图表和其他SVG矢量中保留文本。
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -141,121 +185,121 @@ ms.locfileid: "45001176"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 我们修复了在使用 OneDrive 时 Excel 偶尔会关闭的问题。
+- 我们解决了使用 OneDrive 时，Excel 偶尔关闭的问题。
 
-- 我们修复了图表轴上的自定义值不能正确应用的问题。
+- 我们修复了图表轴上的自定义值不能被正确应用的问题。
 
-- 我们修复了以下问题：在保存文件时，包含具有已定义名称的多个公式的工作表会导致更长时间。
+- 我们修复了包含多个已定义名称的公式的工作表在保存文件时导致时间延长的问题。
 
 - 我们解决了导致打印机名称在可用打印机列表中重复的问题。
 
 - 我们解决了在用户删除合并的列时导致性能时间增加的问题。
 
-- 我们修复了以下问题：由于加载项按字母顺序加载，而不是按用户指定的顺序加载，因此将显示错误消息 "当前正在由另一个工作簿引用，无法关闭"。
+- 我们解决以下问题：由于加载程序是按字母顺序加载的，而不是按用户指定的顺序加载，因此会出现“此工作簿目前由另一个工作簿引用，无法关闭”的错误信息。
 
-- 我们修复了在 Excel 与一些第三方辅助技术应用程序之间管理字体时内存损坏的问题。
+- 我们修正了 Excel 和某些第三方辅助技术应用程序之间管理字体时内存损坏的问题。
 
-- 我们修复了以下问题：单击同一工作簿中的书签标记的超链接将导致工作簿被隐藏。
+- 我们解决了在同一工作簿中单击带有书签的超链接会导致工作簿隐藏的问题。
 
-- 我们修复了以下问题：某些复制和粘贴的图表链接使用映射的驱动器地址，而不是通用地址。
+- 我们解决了某些复制粘贴图表链接使用映射驱动器地址而不是通用地址的问题。
 
-- 我们修复了以下问题：使用 Ctrl + Shift + 箭头键在 Excel 窗口通过团队共享时，Excel 可能变得变慢。
+- 我们解决了在团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后 Excel 会无法响应的的问题。
 
-- 我们修复了以下问题：当外接程序要求包含具有 noSelect 锁定的形状的工作表上的主机项时，Excel 将发生故障。
+- 我们解决了当加载项要求工作表上包含带有noSelect锁的形状的主机项目时，Excel 会故障的问题。
 
-- 解决了在尝试将数据透视表插入图表工作表时 Excel 可能崩溃的问题。
+- 解决了在试图将数据透视表插入图表工作表时 Excel 可能故障的问题。
 
 ### <a name="outlook"></a>Outlook
 
-- 我们解决了以下问题：在使用具有不同分辨率的多个监视器时，IME （输入法编辑器）窗口将与通过 IME 输入的基础文本重叠。
+- 我们解决了当使用多个不同分辨率的显示器时，IME（输入法编辑器）窗口会重叠通过IME输入的底层文本的问题。
 
-- 我们修复了以下问题：撰写新电子邮件时，查看模板会导致崩溃。
+- 我们解决了在查看模板时编写新的电子邮件消息将导致故障的问题。
 
-- 我们修复了以下问题：用户无法在 Outlook 版本1911之后交换2010公用文件夹。
+- 我们修复了使用 Outlook version 1911之后，用户无法获取Exchange 2010公用文件夹的问题。
 
-- 我们解决了以下问题：禁用了 Office 功能区中组日历的分类按钮。
+- 我们修复了 Office 功能区中组日历的“分类”按钮被禁用的问题。
 
-- 解决了 Outlook 未能启用数据丢失保护策略提示的问题，即针对 M365 商业版和计划的服务付费用户的人员。
+- 解决了针对 Outlook 未能向使用M365 Business Plus计划的付费用户启用数据丢失保护策略提示的问题。
 
-- 解决了导致 Outlook 在某些 Windows 版本上出现故障的问题。
+- 解决了导致 Outlook 在某些 Windows 内部版本上故障的问题。
 
-- 我们修复了用户无法与来宾用户共享日历的问题。
+- 我们解决了用户无法与访客用户共享日历的问题。
 
-- 我们修复了以下问题：用户看到跨越午夜阈值的日历项目作为全天事件。
+- 我们解决了用户将跨越午夜阈值的日历项视为全天事件的问题。
 
-- 我们解决了导致高 DPI 监视器上的用户丢失了文件夹属性中的联机存档下拉列表的问题。
+- 我们解决了导致用户在高DPI监视器上丢失文件夹中的联机存档下拉列表的问题。
 
 - 我们解决了以下问题：当用户在文件夹之间移动项目时，BeforeItemMove 事件未正确触发。
 
-- 我们修复了以下问题：当两个外接程序将一个按钮添加到功能区中的同一个组时，Outlook 崩溃。
+- 我们解决了当两个插件在功能区的同一组中添加按钮时，Outlook 会故障的问题。
 
-- 我们解决了导致用户在使用纯文本电子邮件的超链接时遇到 Outlook 崩溃的问题。
+- 我们解决了用户在处理纯文本邮件中的超链接时 Outlook 会故障的问题。
 
-- 我们解决了导致 Outlook 无法分析使用 RFC2231 编码的长文件名的问题。
+- 我们解决了导致 Outlook 无法解析用RFC2231编码的长文件名的问题。
 
-- 我们解决了导致 Outlook 用户在使用屏幕阅读器时遇到间歇性挂起的问题。
+- 我们解决了导致 Outlook 用户在使用屏幕阅读器时出现间歇性挂机的问题。
 
-- 我们解决了导致联系人冲突的用户在 Outlook 中遇到故障的问题。
+- 我们解决了导致冲突联系人的用户在 Outlook 中遇到故障的问题。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我们解决了使用基于表单的身份验证打开服务器配置的文件时出现的问题。
+- 我们解决了使用基于表单的身份验证打开服务器配置文件的问题。
 
-- 我们解决了以下问题： PowerPoint 文件的嵌入图表/工作簿可能会导致在保存文件时出现故障。
+- 我们解决了保存文件时，PowerPoint 文件与嵌入图表/工作簿可能导致故障的问题。
 
-- 我们修复了以下问题：从演示文稿区域进行放大和缩小导致缩放后的选区选取框和鼠标指针之间存在间隙。
+- 我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。
 
-- 我们修复了以下问题：在使用鼠标滚轮缩放后，幻灯片未居中。
+- 我们解决了使用鼠标滚轮缩放后幻灯片不能居中的问题。
 
 - 我们解决了使用瑞士英语 (QWERTZ) 键盘时键盘快捷方式和拼写检查无法正常工作的问题。
 
-- 我们解决了以下问题：用户已关闭的注释窗格将自动重新打开。
+- 我们解决了用户关闭的评论窗格会自动重新打开的问题。
 
-- 我们修复了以下问题：一张幻灯片中的幻灯片编辑器将重叠到下一张幻灯片。
+- 我们解决了一张幻灯片编辑器与另一张幻灯片重叠的问题。
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
-- 修复了以下问题：当项目摘要任务发生更改时，ProjectBeforeTaskChange 事件不会触发-项目的开始/任务域。
+- 修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange事件没有触发的问题。
 
-- 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
+- 修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。
 
-- 我们修复了以下问题：单击 "选项" 后，Project 将发生故障。
+- 我们修正了Project在点击Options后会故障的问题。
 
-- 我们修复了阻止在删除父计划后删除或重新分配孤立任务的问题。
+- 我们修复了在父计划被删除后，孤立任务不能被删除或重新分配的问题。
 
 ### <a name="visio"></a>Visio
 
-- 已修复的相关代码中存在回归。 现在，图像是在 SharePoint Onprem 上运行的 Visio services 中呈现的。
+- 依赖代码中的回归已经被修复。 现在，图像在运行在 SharePoint Onprem 上的 Visio 服务中呈现。
 
 ### <a name="word"></a>Word
 
-- 我们修复了注释窗格中的时间戳不基于系统区域设置时间的问题。
+- 我们修复了注释窗格中的时间戳不基于系统地区时间的问题。
 
-- 解决了在 URL 包含查询组件时打开来自自定义文档传递（aspx）的 Word 文档时出现的问题。
+- 解决了当URL包含查询组件时从自定义文档传递(aspx)打开Word文档的问题。
 
-- 我们修复了以下问题：不会显示将文本复制并粘贴到批注窗格的问题。
+- 我们修正了将文本复制粘贴到注释窗格中不会显示的问题。
 
-- 我们修复了批注中的超链接无法正常工作的问题。
+- 我们修正了超链接在评论中不起作用的问题。
 
-- 我们修复了以下问题：从演示文稿区域进行放大和缩小导致缩放后的选区选取框和鼠标指针之间存在间隙。
+- 我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。
 
-- 我们修复了以下问题： web 应用和桌面应用程序之间的注释不同步。
+- 我们修复了web应用程序和桌面应用程序之间的评论不同步的问题。
 
-- 我们修复了以下问题：注释提示气泡在100% 时显示模糊。
+- 我们修正了批注提示气泡在100%缩放时出现模糊的问题。
 
 - 我们解决了向空白文档添加新批注不会执行任何操作的问题。
 
-- 我们修复了以下问题：将 HTML 粘贴到日历的 WordMail 中时不起作用。
+- 我们修复了粘贴HTML到WordMail的日历无法正常工作的问题。
 
-- 我们修复了在共同创作的会话中答复注释有时可能导致 Word 冻结的问题。
+- 我们修正了在一个共同编写的会话中回复评论时，有时会导致Word冻结的问题。
 
 - 我们解决了以下问题：在包含 100 个以上条目的文档中插入或更新索引将导致应用程序崩溃。
 
-- 我们修复了以下问题：启用策略 Word 2007 及更高版本的二进制文档和模板将导致某些共同创作案例失败。
+- 我们修复了启用策略Word 2007和以后的二进制文档和模板会导致一些合作创作失败的问题。
 
-- 我们解决了以下问题：带有自定义 xml 值的文件打开速度非常慢。
+- 我们解决了带有自定义 xml 值的文件打开速度非常慢的问题。
 
-- 我们修复了以下问题：将无法打开带有长路径名（大于32K）的文件，并且未显示相应的错误消息。
+- 我们修复了长路径名(大于32K)的文件无法打开，并且没有显示适当的错误消息的问题。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -267,37 +311,37 @@ ms.locfileid: "45001176"
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-june-08"></a>版本2005：08年6月
-*版本2005（内部版本12827.20336）*
+## <a name="version-2005-june-08"></a>版本 2005：6 月 08 日
+*版本 2005（内部版本 12827.20336）*
 
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我们已修复了 "替换字体" 对话框中的问题，"替换字体" 下拉列表仅显示了演示文稿中的字体，而不是系统上安装的字体。
+- 我们已修复了替换字体对话框的一个问题：替换字体下拉列表只显示演示文稿中的字体，而不是系统上安装的字体。
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-june-04"></a>版本2005：04年6月
-*版本2005（内部版本12827.20320）*
+## <a name="version-2005-june-04"></a>版本 2005：6 月 4 日
+*版本 2005（内部版本 12827.20320）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **请持续一段时间！日期/时间扩展数据类型具有更好的精度。：** 引入了一种新的、改进的数据类型。  若要增强与 SQL 的语法兼容性，并提高包含日期和时间的记录的准确性和详细程度，我们要在 Access 中实现 DateTime2 数据类型。 这一额外的日期 & time 数据类型将包含更大的日期范围（0001-01-01 到9999-12-31），并且您将能够在其上提供和执行计算的时间较高，时间精度（毫微秒，而不是秒）。 若要启用，请选择 "新建字段" > 日期 & 时间扩展。 [了解更多](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+- **跟上时代!日期/时间扩展数据类型具有更好的精度 。:** 引入新的改进的数据类型。  为了增强与SQL的语法兼容性，并提高包含日期和时间的记录的准确性和详细程度，我们将DateTime2数据类型实现到Access中。 这个额外的日期和时间数据类型将包括更大的日期范围(0001-01-01通过 9999-12-31)，具有更高的指定时间精度(使用纳秒，而不是秒)，你将能够提供和执行计算。 要启用，请选择新字段> Date & Time Extended。 [了解更多](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
 
 ### <a name="excel"></a>Excel
 
-- 在 Excel 中的**POWER BI 数据集中创建数据透视表：** 您可以通过几次单击在 Excel 中创建连接到存储在 Power BI 中的数据集的数据透视表。这样一来，您就可以获得数据透视表和 Power BI 的最佳效果。 使用安全 Power BI 数据集中的数据透视表计算、汇总和分析数据。
+- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全 Power BI 数据集计算、总结和分析数据。
 
 ### <a name="outlook"></a>Outlook
 
-- **从以前的 Outlook 会话快速重新打开项目的选项：** 我们添加了一个从以前的 Outlook 会话快速重新打开项目的选项。
+- **快速从上一个 Outlook 会话重新打开项目的选项：** 我们增加了一个选项，使你能快速从上一个 Outlook 会话重新打开项目。
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -309,19 +353,19 @@ ms.locfileid: "45001176"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="powerpoint"></a>PowerPoint
 
-- 这可修复用户在文件中同时具有新式注释和旧版注释时出现的故障，从而触发对注释的升级。
+- 这修复了当用户在文件中同时拥有现代和遗留评论时的故障，从而触发对评论的升级。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我们已解决 ValidateInstall 失败率问题，方法是在默认情况下将 Bing 加载项安装验证设置为 true，并考虑 MSI 返回成功作为安装成功。
+- 我们通过设置Bing插件安装验证默认为真实，并使MSI返回成功视为安装成功，解决了ValidateInstall失败率问题。
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-may-29"></a>版本2005：5月29日
-*版本2005（内部版本12827.20268）*
+## <a name="version-2005-may-29"></a>版本 2005：5 月 29 日
+*版本 2005（内部版本 12827.20268）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -329,11 +373,11 @@ ms.locfileid: "45001176"
 
 ### <a name="excel"></a>Excel
 
-- **工作表视图：** 在与 Excel desktop 中的其他人协作时进行排序/筛选。
+- **工作表视图：** 排序/筛选时，与他人在 Excel 桌面协作。
 
 ### <a name="outlook"></a>Outlook
 
-- **添加到 Outlook toast 通知中的其他按钮：** 快速操作按钮现在在 Windows 10 上运行 Outlook 时出现在 Outlook toast 通知中。
+- **在Outlook toast通知中增加了额外的按钮：** 在 Windows 10 上运行 Outlook 时，Outlook toast通知中会出现快速操作按钮。
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -348,17 +392,17 @@ ms.locfileid: "45001176"
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了导致 Windows 10 服务器版本的用户看到警告 "防病毒" 状态的问题：无效。 此版本的 Windows 支持防病毒检测，但即使已正确安装了防病毒，也没有发现防病毒。
+- 解决了导致 Windows 10 服务器版本的用户看到警告 “防病毒状态:无效“的问题。 此版本的 Windows 支持防病毒检测，但没有发现防病毒，尽管已正确安装防病毒。
 
 ### <a name="office-suite"></a>Office 套件
 
-- Office 主机在 windows 中崩溃，当在注册表项 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 设置为0时激活外接程序。 此更改将修复此问题。
+- 当注册表键HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth被设置为零时，正在激活一个外接程序时，windows中的office主机故障。 此更改可修复此问题。
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-may-21"></a>版本2005：5月21日
-*版本2005（内部版本12827.20210）*
+## <a name="version-2005-may-21"></a>版本 2005：5 月 21 日
+*版本 2005（内部版本 12827.20210）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -374,25 +418,25 @@ ms.locfileid: "45001176"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：使用 Ctrl + Shift + 箭头键在 Excel 窗口通过团队共享时，Excel 可能会变得变慢。
+- 修正了团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后Excel可能会无法响应的问题。
 
 
-- 在某些情况下，单击指向同一工作簿中的某个位置的超链接将导致工作簿被隐藏。
+- 在某些情况下，单击指向同一工作簿内某个位置的超链接将导致工作簿被隐藏。
 
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了 "答复/转发" 标签的 clp 审核事件的问题。
+- 解决了关于回复/转发标签的clp审核事件的问题。
 
 
-- 解决了导致用户在从管理员通知提交反馈时遇到崩溃的问题。
+- 解决了用户在提交来自管理通知的反馈时故障的问题。
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-may-14"></a>版本2005：5月14日
-*版本2005（内部版本12827.20160）*
+## <a name="version-2005-may-14"></a>版本 2005：5 月 14 日
+*版本 2005（内部版本 12827.20160）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -430,17 +474,17 @@ ms.locfileid: "45001176"
 
 - 修复了隐藏和取消隐藏带序列数据的列后可能丢失图表行样式的问题。
 
-- 修复了以下问题：在筛选列表中插入列所需的时间比预期时间长。
+- 解决了在筛选列表中插入列所需的时间可能比预期更长的问题。
 
-- 修复了打印时窗体控件中的复选框缩放问题。
+- 修复了打印时窗体控件中的复选框缩放的问题。
 
-- 修复了以下问题：如果文件路径过长，外部链接将在文件重新打开后停止工作。
+- 修复了以下问题：在文件重新打开后，如果文件路径太长，外部链接会停止工作。
 
-- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
+- 在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。
 
-- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。
+- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的功能。
 
-- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
+- 在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。
 
 - 此更改修复了条件格式 (CF) 信息未正确保存到 XLSB 文件的问题。
 
@@ -448,7 +492,7 @@ ms.locfileid: "45001176"
 
 - 此更改修复了自定义图表趋势线格式设置未始终处于保存状态的问题。
 
-- 在使用旧版的 "共享工作簿" 模式尝试为工作簿的新工作表上列出更改时，可能会发生故障。
+- 尝试在新工作表上为使用旧版“共享工作簿”模式的工作簿列出更改时，可能会发生崩溃。
 
 - 解决了启用“以互补色代表负值”选项后不保存数据透视表中的自定义格式设置的问题。
 
@@ -466,21 +510,21 @@ ms.locfileid: "45001176"
 
 - 解决了导致用户无法将个人联系人组添加为与会者的问题。
 
-- 修复了以下问题：禁用了 Office 功能区中组日历的分类按钮。
+- 修复了 Office 功能区中组日历的“分类”按钮被禁用的问题。
 
 - 解决了 Windows 更新后导致 Outlook 在打开本地保存的 .msg 或 .oft 文件时出现崩溃的问题。
 
 - 修复了以下问题：如果企业客户的组文件夹未实现或无法正常工作，将导致 Outlook 显示“未响应”消息。
 
-- 解决了导致用户在 Outlook 桌面客户端中单击过很长 safelinks 而无法因截断而进行加载的问题。
+- 解决了导致安全链接（即用户在 Outlook 桌面版客户端中单击的因被截断而无法加载的链接）较长的问题。
 
 - 修复了在与服务器同步时，名称包含 DBCS （双字节字符集）字符的 Outlook 文件夹间歇性消失的问题。 为此，必须使用 IMAP 帐户配置 Outlook 并在区域设置为“日语”的系统上运行。
 
-- 解决了导致为除用户主邮箱之外的邮箱创建的删除规则失效的问题。
+- 解决了导致删除为邮箱创建的规则而不是用户的主要邮箱无效的问题。
 
 - 解决了在转发加密邮件时导致附件被删除的问题。
 
-- 解决了导致超过2个月以上会议无法在日程安排助理中显示会议主题的问题。
+- 解决了距离开会时间超过 2 个月的会议无法在日程安排助理中显示会议主题的问题。
 
 - 解决了在转发大型 HTML 邮件时导致用户看到邮件正文截断的问题。
 
@@ -500,7 +544,7 @@ ms.locfileid: "45001176"
 
 - 解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。
 
-- 修复了以下问题：如果 Project 已连接到 Project Web App 且小数分隔符是逗号，则在添加 Lag 时，TaskDependencies Add 方法将失败。
+- 修复了以下问题：如果 Project 连接到 Project Web App，并且小数分隔符是逗号，则 TaskDependencies Add 方法会在尝试添加延迟时失败。
 
 
 ### <a name="word"></a>Word
@@ -513,11 +557,11 @@ ms.locfileid: "45001176"
 
 - 修复了使用草稿批注关闭文档将提示用户是否希望关闭文档而不保存草稿批注的问题。 取消该提示会关闭文档，而不会将其保持打开状态。
 
-- 我们在复制和粘贴标题时解决了一个问题。
+- 已修复复制和粘贴标题的问题。
 
-- 修复了以下问题：翻译已发布的注释将导致错误 "插入已翻译的文本失败"。
+- 修复了翻译已发布的批注会导致错误“插入已翻译的文本失败”的问题。
 
-- 此更改修复了以下问题：如果启用了 "显示域代码而非其值" 选项，则无法显示超链接的文本。
+- 此更改修复了以下问题：如果已启用“显示域代码而非域值”选项，可能不会显示包含超链接的文本。
 
 - 在 Web 视图/沉浸式阅读器中，单击提示会滚动到顶部，即使它已在视图中。 已修复此问题。
 
@@ -525,7 +569,7 @@ ms.locfileid: "45001176"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 当向用户提供仅将其移动到团队的策略时，他们仍可以使用 Skype for Business Outlook 外接程序安排会议。  在此更新之后，客户端在阅读表明用户只是团队的策略并进入仅会议加入模式后，你将无法再安排 Skype for Business 会议。  此外，如果 Skype for business Outlook 外接程序在发现 Skype for business 客户端处于仅会议加入模式时，启动时将无法自行激活。
+- 当用户被告知只能使用团队的策略时，他们仍然可以使用Skype for Business Outlook 插件来安排会议。  在此更新之后，当客户端读取指示用户为仅限团队的策略并进入仅限会议加入模式后，你将不再能够为Skype安排商务会议。  另外，如果 Skype for Business Outlook 插件在启动时看到 Skype for Business客户端处于会议加入模式，它将不会激活自己。
 
 - 此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。
 
@@ -552,7 +596,7 @@ ms.locfileid: "45001176"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。  [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。  [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -584,7 +628,7 @@ ms.locfileid: "45001176"
 
 - **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。 [了解详细信息](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。 [了解更多](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -921,7 +965,7 @@ ms.locfileid: "45001176"
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - <div><span style="display:inline !important;">修复了以下问题：如果保护实际工时的设置已启用，用户就无法输入分时段基线工时。</span><br></div>
 
@@ -1304,7 +1348,7 @@ ms.locfileid: "45001176"
 - 修复了荧光笔问题：带有黑色荧光笔颜色的白色文本在打印后显示为灰度中的黑色。
 
 
-### <a name="project"></a>项目
+### <a name="project"></a>Project
 
 - 修复了以下问题：固定持续时间类型的 100％ 任务可能会错误地将其完成百分比计算为小于 100％ 完成。
 

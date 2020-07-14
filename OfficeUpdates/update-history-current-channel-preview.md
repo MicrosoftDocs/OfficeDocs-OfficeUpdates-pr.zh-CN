@@ -1,5 +1,5 @@
 ---
-title: Office 当前频道更新历史记录（预览）
+title: Office 当前频道（预览）的更新历史记录
 ms.author: anankani
 author: anankani
 manager: andrewmo
@@ -9,22 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: f64aecd4727f710575d87312f00e4a65eb92ce72
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
-ms.translationtype: MT
+ms.openlocfilehash: cf1196ce142f481b62565cac610396c087e7c291
+ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889048"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45094652"
 ---
-# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 的更新历史记录 Office 当前频道（预览）
+# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 当前频道（预览）的更新历史记录
 
-Hello，内部人员！ 如果您想要了解是否安装了最新更新，或者正在寻找最近的当前频道（预览版）版本的列表，您就是正确的位置。
+各位预览体验成员： 大家好！如果想知道你是否已安装最新的更新或要寻找最新的当前频道（预览）内部版本的列表，那么此处可满足你的需要。
 有关预览体验计划的详细信息，请单击[此处](https://insider.office.com/)。
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 当前频道（预览）版本和内部版本
 
-如果您已在当前频道（预览）级别（以前称为 "内幕较慢"）中注册，则每月大约会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续版本。 以下列表显示最近的当前频道（预览）版本和内部版本，并**首先列出了最近发布的**版本。 新内部版本包含在以前的版本中包含的所有更新。
-若要查找发行说明，[请参阅](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)。 此外，您还可以查看[Office 预览体验版的新增功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+如果你注册了当前频道（预览）级别（以前称为“预览体验计划 - 慢”），则大约一个月左右会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续内部版本。 下表显示了最近的当前频道（预览）版本和内部版本，其中**首先列出了最新发布的内部版本**。 新的内部版本包含之前的内部版本中包含的所有更新。
+若要查找发行说明，[请参阅](https://docs.microsoft.com/zh-CN/OfficeUpdates/current-channel-preview)。 此外，你还可以查看 [Office 预览体验计划的新增功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
 
 
 > [!IMPORTANT]
@@ -38,29 +38,32 @@ Hello，内部人员！ 如果您想要了解是否安装了最新更新，或�
 
 [//]: # (请勿移除)
 
-**2020年6月25日**<br/>
-版本2006（内部版本13001.20266）<br/>
+**2020 年 7 月 9 日**<br/>
+版本 2006（内部版本 13001.20384）<br/>
 
-**2020年6月18日**<br/>
-版本2006（内部版本13001.20198）<br/>
+**2020 年 6 月 25 日**<br/>
+版本 2006（内部版本 13001.20266）<br/>
 
-**2020年6月11日**<br/>
-版本2006（内部版本13001.20144）<br/>
+**2020 年 6 月 18 日**<br/>
+版本 2006（内部版本 13001.20198）<br/>
 
-**2020年6月**<br/>
-版本2005（内部版本12827.20336）<br/>
+**2020 年 6 月 11 日**<br/>
+版本 2006（内部版本 13001.20144）<br/>
 
-**2020年6月4日**<br/>
-版本2005（内部版本12827.20320）<br/>
+**2020 年 6 月 8 日**<br/>
+版本 2005（内部版本 12827.20336）<br/>
 
-**5月29日，2020**<br/>
-版本2005（内部版本12827.20268）<br/>
+**2020 年 6 月 4 日**<br/>
+版本 2005（内部版本 12827.20320）<br/>
 
-**5月21日，2020**<br/>
-版本2005（内部版本12827.20210）<br/>
+**2020 年 5 月 29 日**<br/>
+版本 2005（内部版本 12827.20268）<br/>
 
-**5月14日，2020**<br/>
-版本2005（内部版本12827.20160）<br/>
+**2020 年 5 月 21 日**<br/>
+版本 2005（内部版本 12827.20210）<br/>
+
+**2020 年 5 月 14 日**<br/>
+版本 2005（内部版本 12827.20160）<br/>
 
 **2020 年 5 月11 日**<br/>
 版本 2004（内部版本 12730.20270）<br/>
