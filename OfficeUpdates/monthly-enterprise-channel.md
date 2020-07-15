@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
-ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
-ms.translationtype: MT
+ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735452"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121742"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -27,8 +27,8 @@ ms.locfileid: "44735452"
 
 
 
-## <a name="version-2004-june-09"></a>版本2004：6月09日
-*版本2004（内部版本12730.20430）*
+## <a name="version-2004-june-09"></a>版本 2004：6 月 9 日
+版本 2004（内部版本 12730.20430）**
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
@@ -38,7 +38,7 @@ ms.locfileid: "44735452"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **单击几下即可添加表：** 使用“添加表”任务窗格（在你工作时一直打开）向关系和查询添加表。 [了解更多](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+- **单击几下即可添加表：** 使用“添加表”任务窗格（在你工作时一直打开）向关系和查询添加表。 [了解详细信息](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
 ### <a name="excel"></a>Excel
 
@@ -46,7 +46,7 @@ ms.locfileid: "44735452"
 
 - **Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。
 
-- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="outlook"></a>Outlook
 
@@ -54,25 +54,25 @@ ms.locfileid: "44735452"
 
 - **将电子邮件拖动到你拥有的组：** 通过从收件箱中拖动来移动和复制邮件和对话。 将与所有组成员共享你拖动的消息。<br />在[博客文章](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)中查看详细信息
 
-- **日历获取 makeover：** 请参阅使您的日历更易于扫描的直观更新。 [了解详细信息](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[博客文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看详细信息
+- **改进日历：** 可查看视觉对象更新，以便更轻松地扫描日历。 [了解更多详细信息](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[博客文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看详细信息
 
-- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
-- **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
+- **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
-- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="word"></a>Word
 
-- **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
-- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -88,17 +88,17 @@ ms.locfileid: "44735452"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：如果文件路径过长，外部链接将在文件重新打开后停止工作。
+- 修复了以下问题：在文件重新打开后，如果文件路径太长，外部链接会停止工作。
 
-- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。
+- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的功能。
 
-- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
+- 在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。
 
-- 修复了导致以下情形的问题：复制包含数据透视表的工作表后，在某些情况下 Excel 崩溃。
+- 修复了导致以下情形的问题：复制包含数据透视表的工作表后，在某些情况下 Excel 会崩溃。
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了导致用户在从管理员通知提交反馈时遇到崩溃的问题。
+- 解决了用户在提交来自管理通知的反馈时故障的问题。
 
 - 解决了导致用户在退出 Outlook 时遇到挂起的问题。
 
@@ -118,9 +118,9 @@ ms.locfileid: "44735452"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修复了一个即点即用问题，该问题导致尝试硬链接符号链接时出现更新失败。
+- 解决了尝试硬链接符号链接时导致更新失败的即点即用问题。
 
-- Office 主机在 windows 中崩溃，当在注册表项 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 设置为0时激活外接程序。 此更改将修复此问题。
+- 当注册表键HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth被设置为零时，正在激活一个外接程序时，windows中的office主机故障。 此更改可修复此问题。
 
 - 此修复程序解决了阻止同时使用密码限制访问和保护文件的错误。
 
@@ -132,10 +132,10 @@ ms.locfileid: "44735452"
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2003-june-09"></a>版本2003：6月09日
-*版本2003（内部版本12624.20708）*
+## <a name="version-2003-june-09"></a>版本 2003：6 月 9 日
+*版本 2003（内部版本 12624.20708）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出了安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -162,19 +162,19 @@ ms.locfileid: "44735452"
 
 ### <a name="excel"></a>Excel
 
-- **键入可返回多个值的公式：** 现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解更多](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[博客文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看详细信息
+- **键入可返回多个值的公式：** 现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解详细信息](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[博客文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看详细信息
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **6 个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。 [了解更多](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
+- **6 个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。 [了解详细信息](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解更多](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[博客文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看详细信息
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解详细信息](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[博客文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看详细信息
 
 - **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
 
 ### <a name="outlook"></a>Outlook
 
-- **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解更多](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解详细信息](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 - **组命名策略：** 组命名策略使 IT 管理员能够标准化管理组织中由用户创建的组名。 管理员可以要求在创建组时向名称添加特定前缀和后缀，并阻止使用指定的字词。 这有助于尽可能在组名中减少使用不适宜的字词，以及有助于IT部门在目录中管理组的显示方式。 命名策略还可有助于组织根据部门部署团队网站，以进行分类。
 
@@ -186,11 +186,11 @@ ms.locfileid: "44735452"
 
 - **PowerPoint 中的快速实时协作：** 在 PowerPoint 中快速展开实时协作
 
-- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[博客文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看详细信息
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解详细信息](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[博客文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看详细信息
 
 - **更好的图表：** 有了更好的连接器和更流程的墨迹转换过程，你可以更轻松用墨迹表达你的想法。 [了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -308,3 +308,7 @@ ms.locfileid: "44735452"
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
+
+
+[//]: # (不修改管理中心元数据内容开头)
+[//]: # (不修改管理中心元数据内容结尾)

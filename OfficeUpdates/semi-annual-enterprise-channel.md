@@ -1,5 +1,5 @@
 ---
-title: 2020中半年企业频道发布的发行说明
+title: 有关 2020 年半年企业频道发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,29 +9,29 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 4e6a61acab775f8619851c4d65327616ef204a63
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
-ms.translationtype: MT
+ms.openlocfilehash: 3fe55eb66d368490258f6d200c8553a08b556323
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668073"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121752"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020中半年企业频道发布的发行说明
+# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>有关 2020 年半年企业频道发行的发行说明
 
-这些发行说明提供了有关 Microsoft 365 应用程序企业版、Microsoft 365 应用程序的半年企业频道更新和 Project 和 Visio 的桌面应用程序订阅版本2020中包含的新功能和非安全更新的信息。
+这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年企业频道更新中。
 
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 >
->- 当半年企业频道上的用户从 Office 门户下载并安装 Windows 10 上的 Microsoft 365 应用时，默认情况下将包含 OneNote 2016。
+>- 如果半年企业频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用版，现在默认情况下会包括 OneNote 2016。
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-1908-june-09"></a>版本1908：6月09日
-*版本1908（内部版本11929.20838）*
+## <a name="version-1908-june-09"></a>版本 1908：6 月 9 日
+*版本 1908（内部版本 11929.20838）*
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
@@ -41,9 +41,9 @@ ms.locfileid: "44668073"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：使用 Ctrl + Shift + 箭头键在 Excel 窗口通过团队共享时，Excel 可能会变得变慢。
+- 修正了团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后Excel可能会无法响应的问题。
 
-- 修复了打印时窗体控件中的复选框缩放问题。
+- 修复了打印时窗体控件中的复选框缩放的问题。
 
 - 尝试在新工作表上为使用旧版“共享工作簿”模式的工作簿列出更改时，可能会发生崩溃。
 
@@ -53,13 +53,13 @@ ms.locfileid: "44668073"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我们已将1月和7月2019分叉的渠道名称更新为新通道名称。
+- 我们已将 2019 年 1 月和 7 月分支的频道名称更新为新频道名称。
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-1902-june-09"></a>版本1902：6月09日
-*版本1902（内部版本11328.20602）*
+## <a name="version-1902-june-09"></a>版本 1902：6 月 9 日
+*版本 1902（内部版本 11328.20602）*
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
@@ -69,9 +69,9 @@ ms.locfileid: "44668073"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="office-suite"></a>Office 套件
 
-- 我们已将1月和7月2019分叉的渠道名称更新为新通道名称。
+- 我们已将 2019 年 1 月和 7 月分支的频道名称更新为新频道名称。
 
-- 我们从破坏 C2R 生成的基线文件中删除了过时的引用。
+- 我们从中断 C2R 构建的基线文件中删除了过时的引用。
 
 
 
@@ -92,11 +92,11 @@ ms.locfileid: "44668073"
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了导致用户在应用最新的 Windows 更新后打开 msg 和 .oft 文件时遇到崩溃的问题。
+- 解决了导致用户在应用最新的 Windows 更新后打开 .msg 和 .oft 文件时遇到崩溃的问题。
 
 ### <a name="word"></a>Word
 
-- 修复了将 2 个文档合并为一个文档时出现的问题。
+- 我们修复了将 2 个文档合并为一个文档时出现的问题。
 
 - 修复了受编辑保护的文档的“比较”功能问题。
 
@@ -121,7 +121,7 @@ ms.locfileid: "44668073"
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-may-04"></a>版本 1908：5 月 4 日
-*版本 1908（生成号 11929.20752）*
+*版本 1908（内部版本 11929.20752）*
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
@@ -132,7 +132,7 @@ ms.locfileid: "44668073"
 
 - 解决了导致附件工具中缺少“保存到云”按钮的问题。
 
-- 默认情况下，保留策略标签会在括号中显示保留时间段。提供了一个注册表项，允许管理员指定只应显示策略名称。HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。0 = 默认值 1 = 我们将仅显示保留策略文本的 PolicyName。
+- 默认情况下，保留策略标签会在括号中显示保留时间段。提供了一个注册表项，允许管理员指定只应显示策略名称。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 默认 1 = 仅显示保留策略文本的 PolicyName。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -146,26 +146,26 @@ ms.locfileid: "44668073"
 
 - 修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
 
-## <a name="version1908april-26"></a>版本1908：4月26日
-*版本1908（内部版本11929.20736）*
+## <a name="version1908april-26"></a>版本 1908：4 月 26 日
+*版本 1908（内部版本 11929.20736）*
 
- [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出的安全更新
+安全更新在 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
 - 修复了用户在使用 VBA 宏清除某区域中的内容时可能遇到的性能问题。
 
-- 修复了 VBA 中的一个问题：将值写入某个区域可能比预期的要慢。
+- 修复了一个有关 VBA 的问题：将值写入某个区域可能比预期的要慢。
 
 - 解决了保存并重新打开文件时图表坐标轴上的“值交叉点”属性意外发生更改的问题。
 
-- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
+- 在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。
 
 
 ### <a name="onenote"></a>OneNote
 
-- 本地化通知，使用户可以详细了解在 OneNote 用户体验中代理的临时措施，以改善同步和服务稳定性。
+- 对一条通知进行了本地化，该通知有助于用户详细了解为提高同步和服务稳定性而在 OneNote 用户体验中实施的临时措施。
 
 
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
@@ -211,7 +211,7 @@ ms.locfileid: "44668073"
 ## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
 *版本 1908（内部版本 11929.20648）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出了安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -252,7 +252,7 @@ ms.locfileid: "44668073"
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908（内部版本 11929.20606）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出了安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -320,7 +320,7 @@ ms.locfileid: "44668073"
 ## <a name="version-1902-february-11"></a>版本 1902：2 月 11 日
 *版本 1902（内部版本 11328.20526）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出了安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -360,11 +360,11 @@ ms.locfileid: "44668073"
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **缩放更多空间：** 让缩放框变大，更改字体，缩放功能会记住一切。 [了解更多](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+- **缩放更多空间：** 让缩放框变大，更改字体，缩放功能会记住一切。 [了解详细信息](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 ### <a name="excel"></a>Excel
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **增加内容的覆盖面：** 需要让你的演示文稿易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
 
@@ -372,7 +372,7 @@ ms.locfileid: "44668073"
 
 - **见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 [了解更多](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
-- **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。[了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Discover more about your data:** The new Ideas button looks for patterns in your data, and uses them to create intelligent, personalized suggestions. [Learn more](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **协作更简单：** 共同创作改进意味着使用条件格式、单元格样式等时，所做的更改将与协作者无缝合并。
 
@@ -380,7 +380,7 @@ ms.locfileid: "44668073"
 
 - **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook"></a>Outlook
 
@@ -394,13 +394,13 @@ ms.locfileid: "44668073"
 
 - **挑选你喜欢的操作：** 不要使用“标志”和“删除”？ “存档”或“标记为已读”呢？ 使用你最常用的命令自定义快速操作菜单。
 
-- **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。[了解详细信息](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+- **They'll see what you meme:** When text or static images just won't do, use an animated GIF to make your point. [Learn more](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
 - **添加帐户的更快捷方式：** 由于帐户设置改进，现在可以更轻松地将使用双重身份验证的 Outlook.com 和 Gmail 帐户添加到 Outlook。 [了解更多](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
 - **告别同步限制：** Outlook 改进意味着文件夹限制已取消，因此请继续操作并同步共享邮箱。
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -412,13 +412,13 @@ ms.locfileid: "44668073"
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
-- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Ask your audience with a quiz or survey:** Put a quiz or survey on a slide. Office collects and stores the responses for you. [Learn more](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-- **比以往更轻松地插入联机视频：** 想要将 Vimeo 或 YouTube 中的视频放到幻灯片上？只需使用视频页面链接即可。[了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Inserting an online video is easier than ever:** Want to put a video from Vimeo or YouTube on your slide? The video page link is all you need. [Learn more](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -434,7 +434,7 @@ ms.locfileid: "44668073"
 
 - **内置 Azure 模具：** 使用数十个 Azure 模具设计云应用或规划基础结构。 [了解更多](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
-- **告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。[了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **Say goodbye to broken Excel links:** Can't find the Excel workbook linked to your Data Visualizer diagram? Relink it, and you're back in business. [Learn more](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
@@ -444,17 +444,17 @@ ms.locfileid: "44668073"
 
 - **“学习工具”模式可额外支持更多页面颜色：** Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。 许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
 
-- **使用笔迹编辑器随心编辑：** 使用单个笔划、拆分或连接字词、添加新行或使用手写笔插入字词。[了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **Editing comes naturally with Ink Editor:** With a single stroke, split or join words, add a new line, or insert words using your pen. [Learn more](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Take your doc from static to stunning:** Transform your document into an interactive, easy-to-share web page that looks great on any device. [Learn more](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 - **增加内容的覆盖面：** 需要让你的文档易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
 
 - **快速找到文件：** 正在寻找你最近使用过的文件？ 只需在“文件”>“主页”上的“搜索”框中输入，即可查找要寻找的文件。
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **Improve comprehension with Line Focus:** Move through a document line by line without distractions. Adjust the focus to put one, three, or five lines in view at a time. [Learn more](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
@@ -745,3 +745,7 @@ ms.locfileid: "44668073"
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
+
+
+[//]: # (不修改管理中心元数据内容启动)
+[//]: # (不修改管理中心元数据内容结束)

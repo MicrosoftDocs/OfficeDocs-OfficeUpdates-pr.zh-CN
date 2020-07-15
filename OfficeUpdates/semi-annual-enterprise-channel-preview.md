@@ -1,5 +1,5 @@
 ---
-title: 2020中的半年企业频道（预览）版本的发行说明
+title: 有关 2020 年半年企业频道（预览）发行的发行说明
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: be72a3d95178f0fde5bbe48428abb0895d5afefd
-ms.sourcegitcommit: cc48ae789324e085a976c3a7a388353447b10d42
-ms.translationtype: MT
+ms.openlocfilehash: 56aaac765769b1c132fb75d318baa1947ba90b4e
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44724956"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121762"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020中的半年企业频道（预览）版本的发行说明
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>有关 2020 年半年企业频道（预览）发行的发行说明
 
-这些发行说明提供了有关以下内容的信息： Microsoft 365 应用程序的半年企业版频道（预览）更新2020中包含的新功能和非安全更新、Microsoft 365 应用程序的商业版以及适用于 Project 和 Visio 的桌面应用程序的订阅版本。
+这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版（预览）、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年企业频道更新中。
 
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 
-## <a name="version-2002-june-09"></a>版本2002：6月09日
-*版本2002（内部版本12527.20720）*
+## <a name="version-2002-june-09"></a>版本 2002：6 月 9 日
+*版本 2002（内部版本 12527.20720）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出了安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -35,27 +35,27 @@ ms.locfileid: "44724956"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：如果文件路径过长，外部链接将在文件重新打开后停止工作。
+- 修复了以下问题：在文件重新打开后，如果文件路径太长，外部链接会停止工作。
 
-- 修复了以下问题：使用 Ctrl + Shift + 箭头键在 Excel 窗口通过团队共享时，Excel 可能会变得变慢。
+- 修正了团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后Excel可能会无法响应的问题。
 
-- 修复了打印时窗体控件中的复选框缩放问题。
+- 修复了打印时窗体控件中的复选框缩放的问题。
 
 - 尝试在新工作表上为使用旧版“共享工作簿”模式的工作簿列出更改时，可能会发生崩溃。
 
 - 在筛选列表中插入列所需的时间可能比预期更长。
 
-- 修复了以下问题： @ 符号开始一个公式将被视为隐式交集运算符。
+- 修复了以下问题：将以公式开头的@符号被视为隐式交集运算符。
 
 ### <a name="outlook"></a>Outlook
 
-- 启用通过本机团队客户端直接加入团队会议。
+- 启用直接通过本机 Teams 客户端加入 Teams 会议。
 
-- 解决了 Outlook 未能启用数据丢失保护策略提示的问题，即针对 M365 商业版和计划的服务付费用户的人员。
+- 解决了针对 Outlook 未能向使用M365 Business Plus计划的付费用户启用数据丢失保护策略提示的问题。
 
-- 解决了一个问题，该问题导致用户无法完成 Gmail 的身份验证提示时浏览器仿真设置不正确。
+- 解决了导致用户无法完成 Gmail 身份验证提示时使用错误的浏览器仿真设置的问题。
 
-- 解决了导致服务器操作系统上的 Outlook 用户看到错误 "防病毒状态：无效" 的问题。 此版本的 Windows 支持防病毒检测，但未找到防病毒软件，但未正确配置防病毒。
+- 解决了导致服务器操作系统上的 Outlook 用户无法看到错误的问题，"防病毒状态：无效。 此版本的 Windows 支持防病毒检测，但没有发现防病毒，尽管已正确配置防病毒。
 
 ### <a name="word"></a>Word
 
@@ -63,13 +63,13 @@ ms.locfileid: "44724956"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我们解决此问题的方法是，将 backstage 中的频道名称更新为2020年1月的新频道名称。
+- 我们通过将后台的频道名称更新为 2020 年 1 月的分支中的新频道名称来解决此问题。
 
-- 我们已修复此问题，如果设备是策略管理的，它将不会调用 DMS 访问群体 API。
+- 我们已修复此问题，接下来，如果设备是由策略管理的，则不会调用 DMS Audience API。
 
-- 解决了在单个事务中添加和删除应用程序时未完成删除的问题。
+- 解决了在单个事务中添加和删除应用时删除不完整的问题。
 
-- Office 主机在 windows 中崩溃，当在注册表项 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 设置为0时激活外接程序。 此更改将修复此问题。
+- 当注册表键HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth被设置为零时，正在激活一个外接程序时，windows中的office主机故障。 此更改可修复此问题。
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
@@ -132,7 +132,7 @@ ms.locfileid: "44724956"
 
 - 此更新修复了 Microsoft Outlook 在用户查看或撰写邮件时不显示当前敏感度标签的问题。
 
-- 解决了导致用户无法将电子邮件地址发送到个人通讯组列表的问题。
+- 解决了导致用户无法向个人通讯组列表发送电子邮件地址的问题。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -246,7 +246,7 @@ ms.locfileid: "44724956"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **快速查找链接的表格：** 新的“搜索”框使查找链接的表格成为一项轻松的乐事。 [了解详细信息](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+- **快速查找链接的表格：** 新的“搜索”框使查找链接的表格成为一项轻松的乐事。 [了解更多](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="excel"></a>Excel
 
@@ -265,21 +265,17 @@ ms.locfileid: "44724956"
 
 - **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
-- **将文件转换为改进辅助功能: **将文件升级到新式格式，使其更易于所有人访问。
+- **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。
 
-- **数据可视化工具加载项：** 从 Excel 中快速创建 Visio 流程图。 [了解详细信息](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **数据可视化工具加载项：** 从 Excel 中快速创建 Visio 流程图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 - **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
 
 - **获取工作簿统计信息：** 工作簿统计信息提供工作簿内容的概述，可帮助你更轻松地发现内容。
 
-
-
-
+- **更多符合你心情的图标：** 我们添加了 300 多个新图标。 可在“插入”>“图标”中找到它们。 [了解更多详细信息](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="outlook"></a>Outlook
-
-
 
 - **将 LinkedIn 网络连接到 Outlook：** 以安全的方式将 LinkedIn 帐户连接到 Microsoft 帐户，直接在“人员”卡片中查看 LinkedIn 中的信息。 [了解更多](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -301,9 +297,9 @@ ms.locfileid: "44724956"
 
 - **在屏幕上显示更多邮件：** 选择“视图”>“使用更紧密的间距”来调整邮件之间的间距。 [了解更多](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
 
-- **以不同的亮度查看邮件：** 使用“太阳”/“月亮”按钮在阅读窗格中的明暗背景之间切换。 [了解更多](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **以不同的亮度查看邮件：** 使用“太阳”/“月亮”按钮在阅读窗格中的明暗背景之间切换。 [了解更多详细信息](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-
+- **更多符合你心情的图标：** 我们添加了 300 多个新图标。 可在“插入”>“图标”中找到它们。 [了解更多详细信息](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -311,13 +307,11 @@ ms.locfileid: "44724956"
 
 - **新增校对工具：** 无需在语言方面倍感压力。 PowerPoint 现在可提供语法和写作建议。 [了解更多](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-
 - **实时字幕和对白字幕：** 演示者的文字会作为字幕自动显示在屏幕上或翻译成你所选语言的对白字幕。 [了解更多](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
 - **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解更多](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
-
 
 - **查找并修复缺失的幻灯片标题：** 幻灯片标题可为你的推销词增色添彩，并使所有用户都可以访问你的幻灯片。 辅助功能检查器显示标题缺失位置，以便你可以快速添加标题。 [了解更多](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -345,7 +339,9 @@ ms.locfileid: "44724956"
 
 - **在 PowerPoint for Office 365 中将手写墨迹更改为形状、文本或数学公式：** 从自由格式的墨迹转到几条笔划中的 Office 形状、文本或数学表达式。 [了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-- **用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。 [了解更多](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+- **用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。 [了解更多详细信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+
+- **更多符合你心情的图标：** 我们添加了 300 多个新图标。 可在“插入”>“图标”中找到它们。 [了解更多详细信息](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="visio"></a>Visio
 
@@ -377,9 +373,7 @@ ms.locfileid: "44724956"
 
 - **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
 
-- **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。 [了解更多](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
-
-- **其他人可以快速查看你所做的更改：** 共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+- **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。 [了解更多详细信息](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
 - **合著改进：** 提高了合著时的可靠性。
 
@@ -389,7 +383,7 @@ ms.locfileid: "44724956"
 
 - **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。 [了解更多](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解详细信息](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -663,3 +657,7 @@ ms.locfileid: "44724956"
 
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
+
+
+[//]: # (不修改管理中心元数据内容启动)
+[//]: # (不修改管理中心元数据内容结束)
