@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 56aaac765769b1c132fb75d318baa1947ba90b4e
-ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.openlocfilehash: 838721b3bd587a03ddce1bc68bd13c06ae2fdc37
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121762"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138738"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>有关 2020 年半年企业频道（预览）发行的发行说明
 
@@ -23,6 +23,77 @@ ms.locfileid: "45121762"
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2002-july-14"></a>版本 2002：7 月 14 日
+*版本 2002（内部版本 12527.20880）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 加快本地 OneDrive 文件夹上可用文件的加载速度。
+
+- 修正了以下问题：保存到 SharePoint / OneDrive 时，自定义功能区标签的CustomUI XML被删除。
+
+- 解决了以下问题：由于加载程序是按字母顺序加载的，而不是按用户指定的顺序加载，因此会出现“此工作簿目前由另一个工作簿引用，无法关闭”的错误信息。
+
+- 修复了单击超链接到已打开的工作簿中某个位置时，工作簿可能被隐藏的问题。
+
+- 我们解决了某些复制粘贴图表链接使用映射驱动器地址而不是通用地址的问题。
+
+- 解决删除含合并单元格的列时的性能问题。
+
+- 修复了在“打印”对话框中的打印机列表中可以重复打印机名称的问题。
+
+- 我们修复了包含多个已定义名称的公式的工作表在保存文件时导致时间延长的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们解决了当使用多个不同分辨率的显示器时，IME（输入法编辑器）窗口会重叠通过IME输入的底层文本的问题。
+
+- 解决了在接近时区定义更改时导致在错误时间显示重复约会或会议的问题。
+
+- 解决了导致用户在更新 Outlook 中的“规则”时看到“此计算机上的规则与 Microsoft Exchange 上的规则不匹配”消息的问题。
+
+- 解决了未选中“下载共享”文件夹时导致共享日历会议“响应选项”中缺少“允许转发”选项的问题。
+
+- 解决了导致类别偶尔从电子邮件中消失的问题。
+
+- 解决了导致代理人在不同计算机上看到共享邮箱的不同文件夹层次结构的问题。
+
+- 解决了导致在编辑经理日历上的现有日历约会时，代表收到错误的问题。
+
+- 修复了在编辑主题后导致 NDR 邮件的正文从 Unicode 更改为 ASCII 的问题。
+
+- 解决了两个加载项将按钮添加到同一功能区组时导致用户崩溃的问题。
+
+- 解决了导致用户无法向个人通讯组列表发送电子邮件地址的问题。
+
+- 解决了将租户默认权限配置为“任何人”时，导致链接无法以正确的租户默认权限添加到电子邮件的问题。
+
+- 解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。
+
+### <a name="word"></a>Word
+
+- 解决了启用 FileBlick\Word2007Files 策略时出现的协调问题。
+
+- 我们修复了添加已重命名的查找字段时，无法使用 Word QuickPart 的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了用户在共同编辑大型 PowerPoint 文件时会遇到过多的网络和CPU使用率的问题。
+
+- 我们对新的 AppV51 进行了备份，以修复之前 AppV51 中的回归问题。
+
+- 解决了 TabProcGrowth 注册表值为 REG_SZ 类型启用加载项时，windows 上的 office 主机会出现崩溃的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2002-june-09"></a>版本 2002：6 月 9 日
 *版本 2002（内部版本 12527.20720）*
@@ -279,7 +350,7 @@ ms.locfileid: "45121762"
 
 - **将 LinkedIn 网络连接到 Outlook：** 以安全的方式将 LinkedIn 帐户连接到 Microsoft 帐户，直接在“人员”卡片中查看 LinkedIn 中的信息。 [了解更多](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
-- **All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message. [Learn more](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
+- **所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。[了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
 
 - **Outlook 中的插入链接菜单将插入包含租户管理员定义的权限的链接：** Outlook 插入链接 MRU 中的链接将插入仅对已经拥有权限的用户有效的链接。 这通常会导致请求获得文档访问权限的用户之间发生往来电子邮件。 我们已更新了此体验，现在该链接将通过租户管理员设置的默认权限进行插入。对于 MSIT，这“可供组织编辑”，因此收到以此方式共享的链接的所有内部用户都可以访问它。
 
@@ -309,7 +380,7 @@ ms.locfileid: "45121762"
 
 - **实时字幕和对白字幕：** 演示者的文字会作为字幕自动显示在屏幕上或翻译成你所选语言的对白字幕。 [了解更多](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
-- **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **你来计算，我们来设置格式：** 我们将书写数学表达式更改成标准字符。只需选择“将墨迹转换为数学公式”，再选择手写笔记即可开始。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解更多](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -660,4 +731,5 @@ ms.locfileid: "45121762"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|FRDC|预览体验计划| |16.0.12527.20880|2002 年 7 月 14 日版|)
 [//]: # (不修改管理中心元数据内容结束)

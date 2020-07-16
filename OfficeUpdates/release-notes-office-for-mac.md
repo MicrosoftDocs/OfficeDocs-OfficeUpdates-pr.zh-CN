@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: a626236899faeeef1708e22726fce7c28dcc4a8e
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 4c1b7d69a40afae6c6172d3d3135c2e22a7daa71
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210967"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138538"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
  
-随 Microsoft 365 应用版订阅一起提供的 Office for Mac 将定期更新，以提供新功能、安全更新和非安全更新。
+随 Microsoft 365 订阅一起提供的 Office for Mac 将定期更新，以提供新功能、安全更新和非安全更新。
   
 Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，请启动 Office 应用程序（例如，Word），然后选择“帮助”**** > “查看更新”****。如果你是管理员并想要使用现有软件部署工具更新组织中的计算机，可以下载和部署每个应用程序的更新包。
 
   
 > [!NOTE]
 > - 如果你是 Office 预览体验成员，请参阅[针对预览体验内部版本（快）的发行说明](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
-> - 2018 年 9 月开始发行 16.17 版，这些发行说明还适用于 Office 2019 for Mac（它是 Office for Mac 的一种版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Microsoft 365 应用版订阅的情况下才适用。
+> - 2018 年 9 月开始发行 16.17 版，这些发行说明还适用于 Office 2019 for Mac（它是 Office for Mac 的一种版本，可从零售商店一次性购买或通过批量许可协议提供）。但是，发行说明中列出的某些功能仅在具有 Microsoft 365 订阅的情况下才适用。
 > - 我们每隔一段时间会向每月频道推出一些功能（有时甚至推出修补程序）。这使得我们在向更广泛的受众发布功能之前，确保功能能够正常运行。因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。[了解详细信息](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 有时，我们会发布包含常规质量和性能改进的更新，但没有任何新功能。 如果下面未明确列出某个应用，则该应用的更新仅包括质量和性能方面的改进。
 
@@ -35,6 +35,101 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 [//]: # (请勿移除)
 
+
+
+
+
+
+## <a name="july-14-2020"></a>2020 年 7 月 14 日
+*版本 16.39 （内部版本 20071300）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **从单元格值添加图表标签：** 使用单元格中的值作为图表数据上的标签。 [了解更多](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮
+
+### <a name="outlook"></a>Outlook
+
+- **指尖快速操作：** 可操作的邮件，允许你在电子邮件中快速执行审批、填写调查等操作。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮
+
+### <a name="word"></a>Word
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="security-updates"></a>安全更新
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1446)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1447)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1409](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1409)
+
+[//]: # (请勿移除安全详细信息内容结尾)
+
+## <a name="june-16-2020"></a>2020 年 6 月 16 日
+*版本 16.38（内部版本 20061401）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **提取照片中的数据：** 从“插入”选项卡或直接从 iPhone 添加图片中的表格数据。 [了解更多](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />在[博客文章](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)中查看详细信息
+
+### <a name="outlook"></a>Outlook
+
+- **无操作 Outlook：** 有麦克风？ 单击“听写”，即可看到 Outlook 随着你说话而键入文字。 [了解更多](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="security-updates"></a>安全更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1225)
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1226)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1229)
+
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (请勿移除安全详细信息内容结尾)
 
 ## <a name="may-12-2020"></a>2020 年 5 月12 日
 *版本 16.37（内部版本 20051002）*
@@ -47,6 +142,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 - **直接问你想问的：** 有关于你的数据的问题？ 在 Excel“创意”中，输入问题，我们将为你提供答案。 [了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解详细信息](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[博客文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看详细信息
+
+- **快速添加单元格**：**启用点击添加模式**，然后输入 = 并选择部分单元格以快速选择部分单元格以快速添加单元格值的公式。 转到“**菜单**” > “**首选项**” > “**编辑**”中查找选项。  [了解更多](https://support.office.com/zh-CN/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />在[博客文章](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
