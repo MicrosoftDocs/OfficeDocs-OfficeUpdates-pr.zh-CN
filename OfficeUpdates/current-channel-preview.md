@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 63ae6dbe28765efde1ddc6a440adeddd53b71338
-ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.openlocfilehash: 2ed4d263caf7471a37bf52e162d93ee7ebf03fd4
+ms.sourcegitcommit: e04ac83b98dee6ee37338f9eba361e4ae436f9f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45094642"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45147874"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,193 @@ ms.locfileid: "45094642"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2007-july-15"></a>版本 2007：7 月 15 日
+*版本 2007（内部版本 13029.20200）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **在 Excel 中制作优美的 Visio 图表：** 通过将数据置于工作表上来创建流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了以下问题：如果链接的 SQL 表已刷新，链接表管理器会提示输入主键。
+
+- 我们修复了查询编辑器中的查询滚出了视图之外的问题。
+
+- 我们修复了一个问题，即执行查询大约花费两倍于预期完成时间。
+
+- 我们修复了可能会导致 Microsoft Access 无法识别链接 SQL Server 表中的标识列的问题，该问题可能会导致行错误地被报告为已删除。
+
+### <a name="excel"></a>Excel
+
+- 我们修复了不是基于 http 或 https 的 Url 未显示在最近使用过的列表中的问题。
+
+- 修复了在分页预览中加载带有多个工作表的工作簿时可能出现错误或挂起的问题。
+
+- 我们解决了在某些版本的 Excel 中创建的数据模型表格即使与该表相关联的查询尚未编辑亦无法在 "表预览" 中看到的问题。
+
+- 在 "定义名称\应用名称" 对话框中禁用 "忽略相对/绝对" 引用将导致公式无法工作。
+
+- 修正了以下问题：保存工作簿到 SharePoint/OneDrive 时，自定义功能区标签的 CustomUI XML 被删除。
+
+- 我们解决了仅建议只读文件时工作簿处于只读状态的问题。
+
+- 修复了在分页预览中加载带有多个工作表的工作簿时可能出现错误或挂起的问题。
+
+- 我们修复了雷达图表的主要网格线格式设置错误的问题。
+
+
+- 我们已解决了清除高级数据筛选器可能丢失表格格式的问题。
+
+
+- 我们修复了一个问题，即嵌入 PDF 文档的完整路径将显示在文档标题中，而不只是文件名。
+
+
+- 我们解决了以下问题：禁用 Wolfram 云连接器，然后保存并重新打开 Excel 工作簿后，可能会导致崩溃。
+
+
+- 我们修复了在启用了 "规划求解" 加载项的情况下启动 Excel 时将导致崩溃的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们解决了如果 "收件人" 行上有超过 130 个收件人，则 Outlook 将挂起的问题，并且还改进了呈现文本的性能。
+
+
+- 我们解决了当使用多个不同分辨率的显示器时，IME（输入法编辑器）窗口会重叠通过 IME 输入的底层文本的问题。
+
+
+- 我们在 "待办事项栏" 中修复了以下问题：跨越两天以上的事件，所有后续日期显示相同的结束时间。
+
+
+- 解决了导致用户看到通过拖放复制到其文件系统的附件的创建日期设置为4501 年 1 月 1 日的问题。
+
+
+- 我们修复了一个问题，即用户无法 "作为" 或 "代表" 通讯组列表发送。
+
+
+- 解决了导致在编辑经理日历上的现有日历约会时，代表收到错误的问题。
+
+
+- 我们解决了导致用户在关闭之前保存的约会时看到以下错误的问题： "无法保存该项，因为它已由其他用户或在另一个窗口中进行了更改。 是否要在默认文件夹中为项目制作副本？ "
+
+
+- 解决了未选中“下载共享”文件夹时导致共享日历会议“响应选项”中缺少“允许转发”选项的问题。
+
+
+- 解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。
+
+
+- 我们解决了导致 Outlook 用户在使用共享日历后其邮件列表在几分钟内停止更新的问题。
+
+
+- 我们解决了导致日历提醒无法显示在不到一周内举行的会议的确切时间的问题。 
+
+
+- 我们修复了在邮件中插入图像，然后将邮件另存为草稿将导致图像的大小调整的问题。
+
+
+- 我们解决了在编辑主题后导致 NDR 邮件的正文从 Unicode 更改为 ASCII 的问题。
+
+
+- 我们解决了以下问题：迷你日历中的日期无法以粗体为日本用户显示。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了一个问题，即在实时共同创作会话过程中，用户的状态彩色指示器未在共同创作库中刷新。
+
+
+- 我们解决了将 HTML 粘贴到幻灯片上的文本区域改为将其粘贴到幻灯片顶部创建的文本框中的问题。
+
+
+- 我们解决了以下问题：选择 "演示者" 视图中的所有幻灯片，然后使用 Alt + Tab 退出 "演示者视图" 并返回幻灯片放映，再单击 "结束放映" 将导致未经处理的异常。
+
+
+### <a name="project"></a>Project
+
+- 修正了无法将PDF/XPS从项目保存到 SharePoint 文档库的问题。
+
+
+- 修复了以下问题：如果 URL 以 ".com" 结尾，则无法在 Project 桌面端 Project Web App 中打开项目。
+
+
+- 我们修复了打开某些 XML 文件时，Project 可能发生崩溃的问题。
+
+
+- 我们修复了以下问题：如果 URL 以 ".com" 结尾，则无法在 Project 桌面端 Project Web App 中打开项目。
+
+
+- 修复了如果粘贴具有多个依赖项的任务，并不能正确复制所有依赖项的问题。
+
+
+- 修复了以下问题：分配资源对话框中，选择的任务与任务板视图中选择的任务不一样。
+
+
+- 修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange 事件没有触发的问题。
+
+
+- 我们解决了以下问题：如果固定工期任务已完成 100% 但未指定实际完成日期，则任务完成百分比将显示为小于 100%。
+
+- 我们修复了一个问题，即，比较基准重置或更新可能会更改时间分段预算成本/工时资源，并且比较基准可以反映错误的预算值。
+
+
+- 我们修复了政府社区云环境中的 Project Planner 链接已被禁用的问题。
+
+
+- 我们解决了以下问题：如果库处于新式模式，则无法从 SharePoint 文档库中打开项目文件。
+
+
+### <a name="word"></a>Word
+
+- 我们解决了以下问题：通过 Office 功能区中的 "清除格式" 按钮，可在 "评论" 窗格中清除格式设置不起作用。
+
+
+- 我们修复了以下问题：将插入到可伸缩矢量图形（SVG）中的文本插入到 Word、Excel 或 PowerPoint 文件中后，在保存和关闭文件，然后重新打开该文件时，它将无法辨认。
+
+
+- 我们修复了以下问题：当标尺未显示时，更改表格的大小会导致后台运行的其他应用程序开始闪烁。
+
+
+- 我们解决了共同创作模式中，评论答复有时不会显示在 "评论" 窗格中，而是在 "修订" 窗格中可见的问题。
+
+
+- 在共同创作模式中修复了一个问题，出现合并冲突且用户已选择放弃更改后，我们不再显示保存或放弃更改的选项。
+
+
+- 我们修复了未正确呈现 HTML 超链接颜色的问题。
+
+
+- 我们修复了一个问题，即如果 Word 包含 50 个以上经常打开的文档的列表，则保存并打开文档后，将显示修订历史记录，即使没有对该文档进行任何修订。
+
+
+- 修复了在共同创作期间自动保存方面的问题。
+
+
+- 我们修复了以下问题：尝试将包含宏的文件保存在新名称下时，无论用户输入何种内容，都将用 .docx 扩展名和文件名 WRO0004.docx 保存该文件，从而使文档显示为不可用。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 在关闭office文件时，计时问题可能会导致故障
+
+- 解决此问题的方法是确保服务会正确计算添加的产品。 我们筛选掉了新添加的产品（确保这些产品同时存在于新配置中），并将其添加到现有产品发布 ID 的末尾。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2006-july-09"></a>版本 2006：7 月 9 日
 *版本 2006（内部版本 13001.20384）*
@@ -97,21 +284,21 @@ ms.locfileid: "45094642"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="access"></a>Access
 
-- <div>此问题现在得以解决了。 如果您在这个过程中遇到更多问题，请让团队知道。</div>
+- 此问题现在得以解决了。 如果您在这个过程中遇到更多问题，请让团队知道。
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div><span style="display:inline !important;">解决了导致用户看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">创建日期&nbsp; 通过拖放将其复制到文件系统的附件&nbsp; 设置为4501年1月1日</span>的问题。<br></div>
+- <span style="display:inline !important;">解决了导致用户看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">创建日期&nbsp; 通过拖放将其复制到文件系统的附件&nbsp; 设置为4501年1月1日</span>的问题。<br>
 
 
-- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解决了导致共享日历改进用户看到日历故障的问题。</span><br></div>
+- <span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解决了导致共享日历改进用户看到日历故障的问题。</span><br>
 
 
-- <div><span style="display:inline !important;">解决了导致用户看到 Outlook 不断提示他们运行收件箱修复工具的问题。</span><br></div>
+- <span style="display:inline !important;">解决了导致用户看到 Outlook 不断提示他们运行收件箱修复工具的问题。</span><br>
 
 
-- <div><span style="display:inline !important;">解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。</span><br></div>
+- <span style="display:inline !important;">解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。</span><br>
 
 
 
@@ -967,7 +1154,7 @@ ms.locfileid: "45094642"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="project"></a>Project
 
-- <div><span style="display:inline !important;">修复了以下问题：如果保护实际工时的设置已启用，用户就无法输入分时段基线工时。</span><br></div>
+- <span style="display:inline !important;">修复了以下问题：如果保护实际工时的设置已启用，用户就无法输入分时段基线工时。</span><br>
 
 
 
@@ -1186,11 +1373,11 @@ ms.locfileid: "45094642"
 ### <a name="resolved-issues"></a>已解决的问题
 
 ### <a name="project"></a>Project
-- <div>修复了有时无法正确计算摘要任务日期的问题。</div>
+- 修复了有时无法正确计算摘要任务日期的问题。
 
 
 ### <a name="office-suite"></a>Office 套件
-- <div>修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。</div>
+- 修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。
 
 
 
@@ -1202,7 +1389,7 @@ ms.locfileid: "45094642"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
 
-- <div>解决了导致第三方应用程序无法发送电子邮件的问题。</div>
+- 解决了导致第三方应用程序无法发送电子邮件的问题。
 
 
 
@@ -1243,24 +1430,24 @@ ms.locfileid: "45094642"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- <div style="box-sizing:border-box;">修复了 CUBEVALUE 函数有时会返回错误结果的问题。&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+- <div style="box-sizing:border-box;">修复了 CUBEVALUE 函数有时会返回错误结果的问题。&nbsp;<span style="display:inline !important;"></span><br>
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div>解决了在会议的位置字段中导致逗号变为分号的问题。</div>
+- 解决了在会议的位置字段中导致逗号变为分号的问题。
 
 
-- <div>解决了在多个窗口中查看同一项目时可能会导致崩溃的问题。</div>
+- 解决了在多个窗口中查看同一项目时可能会导致崩溃的问题。
 
 
-- <div>解决了导致 Outlook 在同步滑块设置为较小的设置时出现意外同步所有邮件的问题。&nbsp;</div>
+- 解决了导致 Outlook 在同步滑块设置为较小的设置时出现意外同步所有邮件的问题。&nbsp;
 
 
-- <div>解决了具有黑色主题的用户在“&quot;发件人&quot;”下拉列表中看到白色背景上显示白色文本的问题。</div>
+- 解决了具有黑色主题的用户在“&quot;发件人&quot;”下拉列表中看到白色背景上显示白色文本的问题。
 
 
-- <div><span style="display:inline !important;">此更改恢复了在邮件头中查看多行主题的功能。</span><br></div>
+- <span style="display:inline !important;">此更改恢复了在邮件头中查看多行主题的功能。</span><br>
 
 
 
