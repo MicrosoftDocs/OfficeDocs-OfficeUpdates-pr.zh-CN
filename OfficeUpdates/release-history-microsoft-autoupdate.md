@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
+ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211107"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45145109"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -30,9 +30,52 @@ ms.locfileid: "44211107"
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="july-2020-release"></a>2020 年 7 月版本
+
+**发布日期：** 2020 年 7 月 14 日
+
+*Microsoft 自动更新 4.25*
+
+**Bug 修复和增强功能：**
+- 检测应用终止并自动删除显示的与“打开应用”相关的对话框。
+- 恢复了四月发布的版本中引入的功能，其中，关闭了自动更新的用户每周只能看到一次 Microsoft AutoUpdate UI。
+- 修复了下载更新后，更新助手在安装开始之前终止的问题。
+- 修复了用户通知挂起时，更新助手长时间未终止的问题。
+- 修复了 MAU UI 在安装后重新打开（或未打开）的问题。 如果从 MAU UI 本身启动更新，或者如果用户显式启动了更新（通过 Finder、终端等），则 UI 将在安装后打开。
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.25 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
+
+<br/><br/>
+
+## <a name="june-2020-release"></a>2020 年 6 月发布
+
+**发布日期：** 2020 年 6 月 18 日
+
+*Microsoft 自动更新 4.24*
+
+**Bug 修复和增强功能：**
+- 客户消息传递活动：Office for Mac 2016 将在 2020 年 10 月终止支持。 
+- MAU 的帮助程序工具 XPC 连接的安全修补程序。
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.24 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
+
+<br/><br/>
+
 ## <a name="may-2020-release"></a>2020 年 5 月发布
 
-**** 发布日期：2020 年 5 月 12 日
+**发布日期：** 2020 年 5 月 12 日
 
 *Microsoft 自动更新 4.23*
 
