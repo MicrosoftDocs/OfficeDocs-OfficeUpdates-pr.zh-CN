@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
-ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
+ms.openlocfilehash: 1fc2292361cd1a881393e130682755e9ade1c471
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45091048"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138568"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -36,14 +36,23 @@ ms.locfileid: "45091048"
 
 [//]: # (请勿移除)
 
-[//]: # (请勿移除预测内容开头)
+## <a name="july-14-2020"></a>2020 年 7 月 14 日
 
-## <a name="july-9-2020"></a>2020 年 7 月 9 日
+[//]: # (请勿移除内容开头 2020 年 7 月 14 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新发布版为版本 2006（生成号 13001.20384）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2006（生成号 13001.20266） <br/> |2020 年 6 月 30 日 <br/> |61<br/> |
+|版本 2005（生成号 12827.20470） <br/> |2020 年 6 月 24 日 <br/> |350<br/> |
 
 
-### <a name="monthly-enterprise-channel"></a>每月企业频道
+### <a name="monthly-enterprise-channel"></a>月度企业版频道
 
-<i>暂定版本为 2005（内部版本 12827.20550）。</i>
+最新发布版为版本 2005（生成号 12827.20538）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ ms.locfileid: "45091048"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企业频道（预览）
 
-<i>暂定版本为 2002（内部版本 12527.20880）。</i>
+最新发布版为版本 2002（生成号 12527.20880）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +72,7 @@ ms.locfileid: "45091048"
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企业频道
 
-<i>暂定版本为 2002（内部版本 12527.20880）。</i>
+最新发布版为版本 2002（生成号 12527.20880）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +80,10 @@ ms.locfileid: "45091048"
 |版本 1908（内部版本 11929.20776） <br/> |2020 年 5 月12 日 <br/> |291<br/> |
 
 
-[//]: # (请勿移除预测内容结尾)
+[//]: # (请勿移除内容结尾 2020 年 7 月 14 日)
+
+
+
 
 
 

@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: d96edb018d8cf44b4f047151b2ec07ad4404b279
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 9344fd65eb7c57109f79a0e42dfec092ca3717c3
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210837"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138751"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
   
-定期更新 Office 365 订阅附带的 Office for Mac，以提供新功能、安全更新和非安全更新。以下信息主要面向在用户的组织中为用户部署 Office for Mac 的 IT 专业人员。
+定期更新 Microsoft 365 订阅附带的 Office for Mac，以提供新功能、安全更新和非安全更新。以下信息主要面向在用户的组织中为用户部署 Office for Mac 的 IT 专业人员。
 
 > [!NOTE]
 > - 从版本 16.21 开始，如果使用 Office 套件安装包，则***新*** 安装将默认安装 Microsoft Teams。有关详细信息，请参阅[在 Mac 上安装 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
@@ -36,8 +36,8 @@ ms.locfileid: "44210837"
 
 [//]: # (请勿移除内容开头)
 
-### <a name="may-12-2020"></a>2020 年 5 月12 日
-版本 16.37 (20051002)
+### <a name="july-14-2020"></a>2020 年 7 月 14 日
+版本 16.39 (20071300)
 
 [//]: # (请勿移除内容结尾)
 
@@ -45,29 +45,17 @@ ms.locfileid: "44210837"
 
 |**应用程序**|**下载链接**|**安装包的 SHA-256 哈希**|
 |:-----|:-----|:-----|
-|Office 套件（含 Teams）|[安装包](https://go.microsoft.com/fwlink/p/?linkid=2009112)|BB8A4543CB621720150C588DC2D66A0CD450BC578F86D6E62AFAF35D86E87A8B|
-|Office 套件（不含 Teams）|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525133)|CEEAFC6B57588EB4BEF60199EA5B4B74659046B9051E091AC5BCA00F50BABBE6|
-|Word|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.37.20051002_Updater.pkg)|0B2095C503BAD82665A61FEB7A6A4A12C69E91146160E3A91A16FE910E3356FA|
-|Excel|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.37.20051002_Updater.pkg)|907297001871F997666D04849BEB3225326B836B22BEA0C61370F9B002F48563|
-|PowerPoint|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525136)<br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.37.20051002_Updater.pkg)|866D97B07C0F65F9A5FBD985392824337BBAE058ACB54FB2A79BD1FFB8F1C27C|
-|Outlook|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525137)<br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.37.20051002_Updater.pkg)|21D9EF144FD964A6972FF4DD81B2CD47C768F365DC249D1604755C2C03B182CA|
-|OneNote|[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.37.20051002_Updater.pkg)|不适用|
+|Office 套件（含 Teams）|[安装包](https://go.microsoft.com/fwlink/p/?linkid=2009112)|830E65CC430E9EBB02F06BC98F5E2F419552BD7E6AD1E3E337E638DD7D720B5F|
+|Office 套件（不含 Teams）|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525133)|EB348C6844BCDB65C55E6180F0CF56EF70654D2AF6BCB70291CCEEEC748B7155|
+|Word|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.39.20071300_Updater.pkg)|8FE0E88521A9761FCC99004977D68BBEAC3DB53BC0023D6F8D5E1612B053228A|
+|Excel|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.39.20071300_Updater.pkg)|73C69912DE92ABDC29A32571C855B0798D61AC2590621BE2C547DDAAB5AB2CE0|
+|PowerPoint|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525136)<br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.39.20071300_Updater.pkg)|F714596C1399E2148BCDBC567DB640C4B3717482463AC3D68FC13F2917E7327D|
+|Outlook|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525137)<br/>[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.39.20071300_Updater.pkg)|764D3C2532CFFB76029CA96928F67DB849FE32ADE963DF06C5A485807C3E408B|
+|OneNote|[更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.39.20071300_Updater.pkg)|不适用|
 
 [//]: # (请勿移除应用内容结尾)
 
-## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft 提供的适用于其他 Mac 程序的最新程序包
 
-下表提供了有关 IT 专业人员可能感兴趣的 Microsoft 提供的适用于其他 Mac 程序的最新程序包的信息，其中包括下载链接。创建日期在版本号后以 YYMMDD 格式在括号中列出。
-
-**注意：** Microsoft 自动更新 (MAU) 发布信息已移至“[MAU 发布历史记录](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate)”页面。<br/><br/>
-
-  
-|**程序**|**版本**|**程序包**|**详细信息**|**SHA-1/ SHA-256 哈希**|
-|:-----|:-----|:-----|:-----|:-----|
-|Skype for Business  <br/> |16.27.37 <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版本于 2019 年 6 月 23 日发布。 <br/><br/>[最新更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  ac33fbfa83e304e1ac3ba7365e8bf307b117ec954fd48902991356ee86f2e836 <br/> |
-|远程桌面 | 10.3.1  | [下载](https://go.microsoft.com/fwlink/?linkid=868963) | 此安装包是 64 位版本。 <br/> <br/>[新增功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |   a846cecda7391b4e67c37b4b30a0c49ebd3c80f4782a989c0b4f866cd6d09339 <br/> |
-|Intune 公司门户 |1.17 (52.1908008.000) [190823] | [下载](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune 新增功能](https://docs.microsoft.com/intune/whats-new) | fec704b5194360a48365d0193a46135358c5f129fc2b1fb02acb902cd1f96de0 <br/> |
-|适用于 Office 2016 for Mac 的 Microsoft SharePoint 本地 Safari 浏览器插件  <br/> |15.32.0 (170309)  <br/> |[下载](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |此安装包是 64 位版本。  <br/>| f7f29202881a319fb249d15ab6125b5a1a94b303c649cbe3fafb37ecd4728ed8  <br/>  |
    
 ## <a name="release-history-for-office-for-mac"></a>Office for Mac 的版本历史记录
 
@@ -80,6 +68,8 @@ ms.locfileid: "44210837"
 
 |**发布日期**|**版本**|**安装包**|**更新包**|
 |:-----|:-----|:-----|:-----|
+|2020 年 7 月 14 日|16.39 (20071300)|[Office 套件 （含 Teams）](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.39.20071300_BusinessPro_Installer.pkg)<br/><br/>[Office 套件 （不含 Teams）](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.39.20071300_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.39.20071300_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.39.20071300_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.39.20071300_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.39.20071300_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.39.20071300_Updater.pkg)|
+|2020 年 6 月 16 日|16.38 (20061401)|[Office 套件 （含 Teams）](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.38.20061401_BusinessPro_Installer.pkg)<br/><br/>[Office 套件 （不含 Teams）](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.38.20061401_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.38.20061401_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.38.20061401_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.38.20061401_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.38.20061401_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.38.20061401_Updater.pkg)|
 |2020 年 5 月12 日|16.37 (20051002)|[Office 套件 （含 Teams）](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.37.20051002_BusinessPro_Installer.pkg)<br/><br/>[Office 套件 （不含 Teams）](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.37.20051002_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.37.20051002_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.37.20051002_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.37.20051002_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.37.20051002_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.37.20051002_Updater.pkg)|
 |2020 年 4 月 21 日|16.36 (20041300)|[Office 套件 （含 Teams）](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.36.20041300_BusinessPro_Installer.pkg)<br/><br/>[Office 套件 （不含 Teams）](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.36.20041300_Installer.pkg)||
 |2020 年 4 月 14 日|16.36 (20041300)||[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.36.20041300_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.36.20041300_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.36.20041300_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.36.20041300_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.36.20041300_Updater.pkg)|

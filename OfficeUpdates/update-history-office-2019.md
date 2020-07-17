@@ -9,27 +9,27 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: 073e9fac962b8340f6598a485dc82cd19fa0884a
-ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
+ms.openlocfilehash: bb253c92976d420d74da61968dae95ce42313188
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45001122"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138749"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
-Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
+Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R 版的安全更新和质量更新。这些更新大约每月发布一次，发布时间通常为当月的第二个星期二。
 
-If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
+如果要验证是否是最新版本，请检查 Office 版本号，并在必要时手动更新 Office。要检查 Office 版本，请执行以下操作：
 
   1.    打开任何 Office 应用程序，如 Word 或 Excel。
   2.    选择“**文件”>“帐户**”。
   3.    在“**产品信息**”下，记下“**关于**”部分下的版本号。
 
-If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+如果此版本号与最新版本一致，那你的产品是最新的。如果不一致，你可以手动更新以获取 Office 的最新版本。若要更新 Office，[请按照以下步骤操作](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 
-The following tables provide the update history for the volume licensed version of Office 2019, as well as the retail versions of Office 2016 C2R and Office 2019, with the most recent release date listed first. The tables include the version and build number for the release and list the security updates that are included, along with a link to more information about the security update.
+下表提供了 Office 2019 批量许可版以及 Office 2016 C2R 和 Office 2019 零售版的更新历史记录，其中第一列为最近的发布日期。该表包含发行版本和内部版本的版本号，并列出了发行版中包含的安全更新，以及指向安全更新相关详细信息的链接。
 
 新版本包含先前版本所包含的所有更新。
 
@@ -38,17 +38,13 @@ The following tables provide the update history for the volume licensed version 
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 7 月 14 日   |版本 1808（内部版本 10363.20015）  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1449) <br/>|
 |2020 年 6 月 9 日   |版本 1808（内部版本 10361.20002）  |[CVE-2020-1225](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1322) <br/>|
 |2020 年 5 月12 日   |版本 1808（内部版本 10359.20023）  |[CVE-2020-0901](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0901) <br/> |
 |2020 年 4 月 14 日   |版本 1808 （内部版本 10358.20061）  |[CVE-2020-0760](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0991) <br/> |
 |2020 年 3 月 10 日   |版本 1808（内部版本 10357.20081）  |[CVE-2020-0850](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020 年 2 月 11 日   |版本 1808（内部版本 10356.20006）  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |2020 年 1 月 14 日   |版本 1808（内部版本 10354.20022）  |[CVE-2020-0650](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0652) <br/>  |
-|2019 年 12 月 10 日   |版本 1808（内部版本 10353.20037）  |[CVE-2019-1400](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1464) <br/> |
-
-
-
-
 
 
 
@@ -62,6 +58,7 @@ The following tables provide the update history for the volume licensed version 
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 7 月 14 日|版本 2006（内部版本 13001.20384）  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1458) <br/>|
 |2020 年 6 月 30 日|版本 2006（内部版本 13001.20266）  |各种 Bug 和性能修补程序。  <br/>  |
 |2020 年 6 月 24 日|版本 2005（内部版本 12827.20470）  |各种 Bug 和性能修补程序。  <br/>  |
 |2020 年 6 月 9 日|版本 2005（内部版本 12827.20336）  |[CVE-2020-1225](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1322)  <br/>|
@@ -82,7 +79,6 @@ The following tables provide the update history for the volume licensed version 
 |2020 年 1 月 22 日   |版本 1912（内部版本 12325.20344）  |各种 Bug 和性能修补程序。 <br/>  |
 |2020 年 1 月 14 日   |版本 1912（内部版本 12325.20298）  |[CVE-2020-0650](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |2020 年 1 月 8 日   |版本 1912（内部版本 12325.20288）  |各种 Bug 和性能修补程序。 <br/>  |
-|2019 年 12 月 10 日   |版本 1911（内部版本 12228.20364）  |[CVE-2019-1400](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1464) <br/> |
 
 
 

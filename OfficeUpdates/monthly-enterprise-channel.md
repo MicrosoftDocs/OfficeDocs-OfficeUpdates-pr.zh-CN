@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
-ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121742"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138678"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -26,6 +26,111 @@ ms.locfileid: "45121742"
 [//]: # (请勿移除)
 
 
+
+## <a name="version-2005-july-14"></a>版本 2005：7 月 14 日
+*版本 2005（内部版本 12827.20538）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+### <a name="word"></a>Word
+
+- **换一种说法：** 想要用另一种方法表达，重写功能帮你大忙。 重写功能为你完善语言提供了替代方案。<br />在[博客文章](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修正了一个问题，以便能够在应用不会出现任何故障的情况下将日期/时间扩展数据类型调用到代码中。
+
+- 修正了一个问题，现在可以还原到最近更新的 Access 版本，并可使用 DAO/VBA 管理和编辑十进制数据类型。
+
+### <a name="excel"></a>Excel
+
+- 修正了团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后Excel可能会无法响应的问题。
+
+- 在某些情况下，单击指向同一工作簿内某个位置的超链接将导致工作簿被隐藏。
+
+- 修正了以下问题：保存到 SharePoint / OneDrive 时，自定义功能区标签的 CustomUI XML 被删除。
+
+- 解决了在试图将数据透视表插入图表工作表时 Excel 可能会发生故障的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了用户在提交来自管理通知的反馈时遇到故障的问题。
+
+- 解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。
+
+- 解决了导致用户看到 Outlook 不断提示他们运行收件箱修复工具的问题。
+
+- 解决了导致 Windows 10 服务器版本的用户看到以下警告的问题：“防病毒状态: 无效。 此版本的 Windows 支持防病毒检测，但没有发现防病毒”，尽管这些用户已正确安装防病毒。
+
+- 解决了导致用户在某些情况下遇到间歇性挂起和崩溃的问题。
+
+- 解决了导致共享日历改进的用户遇到日历故障的问题。
+
+- 解决了导致用户在更新 Outlook 中的“规则”时看到&quot;此计算机上的规则与 Microsoft Exchange 上的规则不匹配&quot;消息的问题。
+
+- 解决了导致用户看到通过拖放复制到其文件系统的附件的创建日期设置为&nbsp;4501 年 1 月 1 日的问题。
+
+- 解决了这样一个的问题：对于使用 M365 Business Plus 计划且已为数据丢失保护策略提示付费的用户，Outlook 未能使数据丢失保护策略向其发送提示。
+
+- 解决了关于回复/转发标签的 clp 审核事件的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 这修复了当用户在文件中同时拥有现代和遗留评论时的故障，从而触发对评论的升级。
+
+- 我们已修正了“建议”窗格崩溃的问题。
+
+
+### <a name="project"></a>Project
+
+- 修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange事件没有触发的问题。
+
+- 修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。
+
+### <a name="skype"></a>Skype
+
+- 当用户被告知只能使用团队的策略时，他们仍然可以使用Skype for Business Outlook 插件来安排会议。 在此更新之后，当客户端读取指示用户为仅限团队的策略并进入仅限会议加入模式后，你将不再能够为Skype安排商务会议。 另外，如果 Skype for Business Outlook 插件在启动时看到 Skype for Business客户端处于会议加入模式，它将不会激活自己。
+
+### <a name="word"></a>Word
+
+- 解决了可能导致在拖动应用中的某些内容时发生故障的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更改解决了加载和播放动画内容（如 Gif 或 3D 模型）时可能挂起的情况。
+
+- 我们通过设置Bing插件安装验证默认为真实，并使MSI返回成功视为安装成功，解决了ValidateInstall失败率问题。
+
+- 此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。
+
+- 此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
+
+- 当注册表键HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth被设置为零时，正在激活一个外接程序时，windows中的office主机故障。 此更改可修复此问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-july-14"></a>版本 2004：7 月 14 日
+*版本 2004（内部版本 12730.20602）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-2004-june-09"></a>版本 2004：6 月 9 日
 版本 2004（内部版本 12730.20430）**
@@ -310,5 +415,6 @@ ms.locfileid: "45121742"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 
-[//]: # (不修改管理中心元数据内容开头)
-[//]: # (不修改管理中心元数据内容结尾)
+[//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|MEC|生产|功能|16.0.12827.20538|版本-2005-7-14|)
+[//]: # (不修改管理中心元数据内容结束)
