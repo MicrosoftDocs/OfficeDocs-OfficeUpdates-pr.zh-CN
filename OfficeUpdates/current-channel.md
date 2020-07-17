@@ -1,5 +1,5 @@
 ---
-title: 2020中的当前频道发布的发行说明
+title: 有关 2020 年当前频道发行的发行说明
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,22 +9,23 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
-ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
+ms.openlocfilehash: 1a0d7c630b57c37e32f693ade33b5cc6072249f0
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45049482"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138668"
 ---
-# <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中的当前频道发布的发行说明
+# <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
-这些发行说明提供了有关 Microsoft 365 应用程序企业版、Microsoft 365 应用程序以及桌面应用程序和 Visio 订阅版本的2020中当前频道更新中所包含的新功能和非安全更新的信息。
+这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年当前频道更新中。
 
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
  > [!NOTE]
 >
->- 我们通常会在一段时间内将功能（甚至有时是修复）推出到当前。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 
 
 
@@ -35,15 +36,52 @@ ms.locfileid: "45049482"
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2006-june-30"></a>版本2006：6月30日
-*版本2006（内部版本13001.20266）*
+## <a name="version-2006-july-14"></a>版本 2006：7 月 14 日
+*版本 2006（内部版本 13001.20384）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 解决了插入包含身份（例如自动编号）字段的关联 SQL 表的问题。
+
+### <a name="excel"></a>Excel
+
+- 处于只读模式的工作簿可能已发生自动文档分类。
+
+- 修复了当你已从帐户注销时尝试创建数据连接时可能发生的故障。
+
+### <a name="onenote"></a>OneNote
+
+- 改进对共同创作状态的检测，以减少资源利用率。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们对新的 AppV51 进行了备份，以修复之前 AppV51 中的回归问题。
+
+- 解决了 TabProcGrowth 注册表值为 REG_SZ 类型启用加载项时，windows 上的 office 主机会出现崩溃的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2006-june-30"></a>版本 2006：6 月 30 日
+*版本 2006（内部版本 13001.20266）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **更长的文件名：** Excel for Windows desktop 现在支持具有最大为400个字符的名称和路径的 OneDrive/SharePoint 文件。
+- **更长文件名：** Windows 桌面版 Excel 现在支持名称和路径长达 400 字符的 OneDrive/SharePoint 文件。
 
 ### <a name="outlook"></a>Outlook
 
@@ -51,19 +89,19 @@ ms.locfileid: "45049482"
 
 - **IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。 [了解更多](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- **添加到 Outlook toast 通知中的其他按钮：** 快速操作按钮现在在 Windows 10 上运行 Outlook 时显示在 Outlook toast 通知中
+- **在 Outlook toast 通知中增加了额外的按钮：** 在 Windows 10 上运行 Outlook 时，Outlook toast 通知中会出现快速操作按钮
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **改进了 PowerPoint 中的流视频性能：** 我们已经改进了 Microsoft Stream 视频的播放性能，以最大限度地减少视频加载时间，并创建流畅的观看体验。 使用 Microsoft Stream 中的公司视频来创建更好的演示文稿。
+- **改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。 使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。
 
 ### <a name="teams"></a>Teams
 
-- **PSTN 参与者电话号码将被从外部用户屏蔽：** 对于为其团队会议启用音频会议的客户，我们将把 PSTN 参与者的电话号码屏蔽到从组织外部加入的用户。
+- **外部用户屏蔽了 PSTN 参与者的电话号码：** 对于为 Teams 会议启用了音频会议的客户，我们将向自组织外部加入的用户屏蔽 PSTN 参与者的电话号码。
 
-- **管理频道通知设置的简化方法：** 通过 "团队和频道" 列表或从频道标头，用户可以通过一次单击或深入查看所有活动来快速管理其通知设置。若要设置其首选排列。
+- **管理频道通知设置的简化方法：** 通过团队和频道列表或从频道标题中，用户可以通过单击打开或关闭所有活动或深入了解自定义项来设置其首选排列，从而快速管理其通知设置。
 
-- **Walkie Talkie：** 使用按下即可进行即时语音通信。
+- **Walkie Talkie：** 使用“按下即可发言”进行即时语音通信。
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -75,66 +113,66 @@ ms.locfileid: "45049482"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="access"></a>Access
 
-- 我们修复了以下问题：执行查询时，执行的时间大约是预期完成时间的两倍。
+- 我们修复了一个问题，即执行查询大约花费两倍于预期完成时间。
 
 
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：在保存到 SharePoint/OneDrive 时，将导致删除自定义功能区选项卡的 CustomUI XML。
+- 修正了以下问题：保存到 SharePoint / OneDrive 时，自定义功能区标签的CustomUI XML被删除。
 
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了导致用户看到通过拖放将其复制到文件系统的附件的创建日期的问题。在4501年1月1日。
+- 解决了导致用户看到通过拖放复制到其文件系统的附件的创建日期设置为 4501 年 1 月 1 日的问题。
 
 - 解决了导致共享日历改进用户看到日历故障的问题。
 
 
-- 解决了导致用户看到 Outlook 连续提示他们运行收件箱修复工具的问题。
+- 解决了导致用户看到 Outlook 不断提示他们运行收件箱修复工具的问题。
 
 
-- 解决了在启用云设置时导致按住 Ctrl + 单击停止工作的问题。
+- 解决了启用云设置时导致Ctrl+click停止工作的问题。
 
 
-- 解决了以下问题：搜索建议功能中的功能以返回无结果，并让用户没有任何选项可提交新的功能想法。
+- 解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。
 
 
 ### <a name="project"></a>Project
 
-- 修复了以下问题：如果 URL 以 .com 结尾，则无法在 project Web App 中打开 Project 桌面客户端中的项目。
+- 修复了以下问题：如果 URL 以 ".com" 结尾，则无法在 Project 桌面端 Project Web App 中打开项目。
 
 
-- 修复了以下问题：当项目摘要任务发生更改时，ProjectBeforeTaskChange 事件不会触发-项目的开始/任务域。
+- 修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange事件没有触发的问题。
 
 
-- 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
+- 修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。
 
 
 ### <a name="word"></a>Word
 
-- 解决了在 URL 包含查询组件时打开来自自定义文档传递（aspx）的 Word 文档时出现的问题。
+- 解决了当URL包含查询组件时从自定义文档传递(aspx)打开Word文档的问题。
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-june-24"></a>版本2005：6月24日
-*版本2005（内部版本12827.20470）*
+## <a name="version-2005-june-24"></a>版本 2005：6 月 24 日
+*版本 2005（内部版本 12827.20470）*
 
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="access"></a>Access
 
-- 此 bug 现已修复;您应该能够将日期/时间扩展数据类型调用到代码中，而不会在您的应用程序中遇到任何故障。 如果你遇到其他问题，请让团队了解你是否遇到问题。
+- 现在，此错误已修复；您应该可以在代码中调用“日期/时间扩展”数据类型，而不会在应用程序中遇到任何崩溃。 如果您遇到其他问题，请告知团队。
 
 
-- 此问题现已修复;现在，您可以还原到最新的 Access 版本，并使用 DAO/VBA 管理和编辑十进制数据类型。 如果你在使用数据类型时遇到任何问题，请让 Access 团队知道你是否会遇到任何问题。
+- 此问题现已修复。现在可以还原到最近更新的 Access 版本，并可使用 DAO/VBA 管理和编辑十进制数据类型。 如果在使用我们的数据类型时遇到任何其他问题，请告知 Access 团队。
 
 
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：在保存到 SharePoint/OneDrive 时，将导致删除自定义功能区选项卡的 CustomUI XML。
+- 修正了以下问题：保存到 SharePoint / OneDrive 时，自定义功能区标签的CustomUI XML被删除。
 
 
 
@@ -142,13 +180,13 @@ ms.locfileid: "45049482"
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了 Outlook 未能启用数据丢失保护策略提示的问题，即针对 M365 商业版和计划的服务付费用户的人员。
+- 解决了针对 Outlook 未能向使用M365 Business Plus计划的付费用户启用数据丢失保护策略提示的问题。
 
 
-- 解决了导致用户看到通过拖放将其复制到文件系统的附件的创建日期的问题。在4501年1月1日。
+- 解决了导致用户看到通过拖放复制到其文件系统的附件的创建日期设置为 4501 年 1 月 1 日的问题。
 
 
-- 解决了导致用户在 &quot; 此计算机上看到规则的问题与在 &quot; Outlook 中更新其规则时，不符合 Microsoft Exchange 邮件的规则。
+- 解决了导致用户在更新 Outlook 中的“规则”时看到“&quot;此计算机上的规则与 Microsoft Exchange 上的规则不匹配&quot;”消息的问题。
 
 
 - 解决了导致共享日历改进用户看到日历故障的问题。
@@ -157,37 +195,37 @@ ms.locfileid: "45049482"
 - 解决了导致用户在某些情况下遇到间歇性挂起和崩溃的问题。
 
 
-- 解决了导致用户看到 Outlook 连续提示他们运行收件箱修复工具的问题。
+- 解决了导致用户看到 Outlook 不断提示他们运行收件箱修复工具的问题。
 
 
-- 解决了以下问题：搜索建议功能中的功能以返回无结果，并让用户没有任何选项可提交新的功能想法。
+- 解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我们修复了与建议窗格有关的故障问题。
+- 我们已修正了“建议”窗格崩溃的问题。
 
 
 ### <a name="project"></a>Project
 
-- 修复了以下问题：标记为100% 完成的任务错误地更改为小于100% 的完成。
+- 修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。
 
 ### <a name="word"></a>Word
 
-- 解决了在从应用程序中拖动某些内容时可能导致崩溃的问题。
+- 解决了可能导致在拖动应用中的某些内容时发生故障的问题。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- 此更改解决了加载和播放动画内容（如 Gif 或3D 模型）时可能挂起的情况。
+- 此更改解决了加载和播放动画内容（如 Gif 或 3D 模型）时可能挂起的情况。
 
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-june-09"></a>版本2005：6月09日
-*版本2005（内部版本12827.20336）*
+## <a name="version-2005-june-09"></a>版本 2005：6 月 9 日
+*版本 2005（内部版本 12827.20336）*
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
@@ -197,81 +235,81 @@ ms.locfileid: "45049482"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 解决在尝试向图表工作表中插入数据透视表时 Excel 可能崩溃的问题。
+- 解决了在试图将数据透视表插入图表工作表时 Excel 可能会发生故障的问题。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 这可修复用户在文件中同时具有新式注释和旧版注释时出现的故障，从而触发对注释的升级。
+- 这修复了当用户在文件中同时拥有现代和遗留评论时的故障，从而触发对评论的升级。
 
 ### <a name="project"></a>Project
 
-- 修复了以下问题：当项目摘要任务发生更改时，ProjectBeforeTaskChange 事件不会触发-项目的开始/任务域。
+- 修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange事件没有触发的问题。
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我们已解决 ValidateInstall 失败率问题，方法是在默认情况下将 Bing 加载项安装验证设置为 true，并考虑 MSI 返回成功作为安装成功。
+- 我们通过设置Bing插件安装验证默认为真实，并使MSI返回成功视为安装成功，解决了ValidateInstall失败率问题。
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-june-02"></a>版本2005：02年6月
-*版本2005（内部版本12827.20268）*
+## <a name="version-2005-june-02"></a>版本 2005：6 月 2 日
+*版本 2005（内部版本 12827.20268）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自动使用新数据类型：** 当您键入类似于股票或地理位置的数据值时，Excel 会将其转换为正确连接的数据类型-股票或地理位置。 [了解更多](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **自动使用新数据类型**：当您键入类似于股票或地理位置的数据值时，Excel 将其转换为适当的关联数据类型：股票或地理位置。 [了解更多](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **使用动态 Gif 通知情景：** 动态 Gif 现在在 Office 编辑器中受支持-您的文档刚刚获得 snazzier
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮
 
 ### <a name="outlook"></a>Outlook
 
 - **帮助保护组中的数据：** 你在创建组时选择的敏感度标签应用于组电子邮件、文档和团队网站
 
-- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解详细信息](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **使用动态 Gif 通知情景：** 动态 Gif 现在在 Office 编辑器中受支持-您的文档刚刚获得 snazzier
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮
 
-- **日历获取 makeover：** 请参阅使您的日历更易于扫描的直观更新。 [了解详细信息](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[博客文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看详细信息
+- **改进日历：** 可查看视觉对象更新，以便更轻松地扫描日历。 [了解更多详细信息](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[博客文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 通知情景：** 动态 Gif 现在在 Office 编辑器中受支持-您的文档刚刚获得 snazzier[了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮[了解更多信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
-- **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
+- **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
-- **无需遥控器：使用耳塞即可：** 使用 Surface Earbuds 来控制 PowerPoint 演示文稿。 工作原理：配对后，需要在 PowerPoint 中启用该功能。 按 F5 或选择 "幻灯片放映" > 开始演示。  在幻灯片放映中，右键单击幻灯片并在 "表面 Earbuds" 设置下选择 "使用笔势控制演示文稿"。  所有将来的演示文稿都将记住此设置。 现在可以向前和向后滑动左侧的 earbud，以便在幻灯片放映模式下导航演示文稿。  双击以播放或暂停嵌入的视频。  重要提示：必须使用 Windows 10 的 Surface Audio 应用配对 Surface Earbuds，才能使用手势控制演示文稿。 此处提供了有关 Windows 10 上的 Surface Audio 应用入门的说明。 [了解更多](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **无需遥控器：使用耳塞即可：** 使用 Surface Earbuds 来控制 PowerPoint 演示文稿。 工作原理：配对后，需要在 PowerPoint 中启用此功能。 通过按 F5 或选择“幻灯片放映” > “从头开始”开始演示。  在幻灯片放映中，右键单击幻灯片，然后在“ Surface Earbuds 设置”下选择“使用手势控制演示”。  在以后的所有演示中都会记住此设置。 现在可以在左侧耳机上向前向后滑动，以在幻灯片放映模式中浏览演示文稿。  双击播放或暂停嵌入视频。  重要提示：必须使用 Windows 10 的 Surface Audio 应用配对 Surface Earbuds，才能使用手势控制演示文稿。 此处提供了有关 Windows 10 上的 Surface Audio 应用入门的说明。 [了解更多](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="teams"></a>Teams
 
-- **对团队会议中视频布局的更改：** 很快，在团队会议期间可以同时查看的参与者数量将从4增加到9。
+- **更换为 Teams 会议中的视频版式：** 很快，在 Teams 会议中可以同时查看的与会人员将从 4 人增加到 9 人。
 
-- **在实时事件中包括系统音频：** 实时事件中的演示者和发生器现在可以在 live 事件期间共享桌面或窗口屏幕时包括系统音频。 这将允许您的用户听到您要共享的内容的任何音频部分。
+- **直播活动中包含音频系统：** 现在，直播活动中的演示者和制作人可以在直播活动中共享桌面或窗口屏幕时包括系统音频。 这将使您的用户听到所共享内容的任何音频部分。
 
-- **使组织者能够更改电话拨入式参与者的前厅浏览设置：** 此设置控制通过电话拨入的用户是直接加入会议还是在大厅中等待，而不考虑自动承认人员设置。
+- **使组织者能够更改拨号参与者的会议厅设置：** 此设置控制通过电话拨入的用户是否直接加入会议或在大厅中等待，无需考虑 “自动允许人员” 设置。
 
-- **在会议中提出你的手：** 现在，用户可以在会议中提升虚拟手！ 其他参与者将在会议阶段中的姓名旁边以及名单中您的姓名旁边看到举手。
+- **在会议中举手：** 用户现在可以在会议中举起虚拟手！ 其他与会者将在会议台的姓名旁或名册的姓名旁看到你举起的手。
 
-- **自定义会议视频背景：** 当你使用视频会议时，你现在可以选择要使用的不同静态背景图像。 这将允许你显示此图像，而不是你坐在何处的实际背景。
+- **自定义会议视频背景：** 使用视频会议时，现可选择不同的静态背景图像。 这将让你显示此图像，而不是你所坐位置的实际背景。
 
-- **添加更多参与聊天的人员：** 现在，我们可以向单个聊天线程添加最大为350人。
+- **添加更多人员至聊天：** 现在，我们可以在一个聊天线程中最多添加 350 人。
 
-- **设置会在你的活动源上齿轮：** 用户现在可以通过设置齿轮的方式直接访问源左滑轨中的活动源和通知设置。
+- **活动源“设置”齿轮：** 用户现在可以通过设置齿轮直接从源左栏访问活动源和通知设置。
 
-- 在**正在进行的团队会议中轻松访问会议选项：** 通过在参与者窗格中直接提供易于访问的链接，我们可以让会议组织者更轻松地快速轻松地更改其演示者和前厅浏览设置。 这一新功能将同时提供给计划和 "立即开会" 会议。
+- **轻松从进行中的 Teams 会议访问选项：** Teams 会议开始后，我们通过直接在参与者窗格中提供易于访问的链接，使会议组织者更快、轻松地更改其演示者和会议厅设置。 此新功能将同时出现在预定会议和“立即开会”会议中。
 
-- **团队和通道分析：** 除了团队分析外，现在还可以查看频道级别的指标和见解。 我们还将时间段的时间延长到90天，以便您可以将数据分析更长时间。 除了这一点之外，此版本还包含有关团队或频道的帖子、回复和会议数的新指标和图表。
+- **团队和频道分析：** 除团队分析之外，现在还可以查看频道级别的指标和见解。 我们还将时间范围延长到 90 天，因此可以分析更长的数据。 除此之外，此版本还包括有关团队或渠道的文章、回复和会议数量的新指标和图表。
 
-- **进入/退出通知：** 我们添加了此功能，使会议组织者能够打开或关闭会议的进入和退出通知。
+- **进入/退出公告：** 我们添加了此功能，使会议组织者可以打开或关闭进入和退出会议的公告。
 
 ### <a name="word"></a>Word
 
-- **解码首字母缩写词而不退出 Word：** 当你遇到首字母缩略词时，Word 将尝试根据其他人如何使用它来定义它。
+- **无需退出 Word 即可解码首字母缩写词：** 遇到首字母缩写词时，Word 将会根据其他人的使用情况定义它。
 
-- **使用动态 Gif 通知情景：** 动态 Gif 现在在 Office 编辑器中受支持-您的文档刚刚获得 snazzier
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -284,21 +322,21 @@ ms.locfileid: "45049482"
 
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：使用 Ctrl + Shift + 箭头键在 Excel 窗口通过团队共享时，Excel 可能会变得变慢。
+- 修正了团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后Excel可能会无法响应的问题。
 
-- 在某些情况下，单击指向同一工作簿中的某个位置的超链接将导致工作簿被隐藏。
+- 在某些情况下，单击指向同一工作簿内某个位置的超链接将导致工作簿被隐藏。
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了 "答复/转发" 标签的 clp 审核事件的问题。
+- 解决了关于回复/转发标签的clp审核事件的问题。
 
-- 解决了导致 Windows 10 服务器版本的用户看到警告 "防病毒程序状态：无效" 的问题。 此版本的 Windows 支持防病毒检测，但即使已正确安装了防病毒，也没有发现防病毒。
+- 解决了导致 Windows 10 服务器版本的用户看到警告 “防病毒状态:无效”的问题。 此版本的 Windows 支持防病毒检测，但没有发现防病毒，尽管已正确安装防病毒。
 
-- 解决了导致用户在从管理员通知提交反馈时遇到崩溃的问题。
+- 解决了用户在提交来自管理通知的反馈时故障的问题。
 
 ### <a name="skype"></a>Skype
 
-- 当向用户提供仅将其移动到团队的策略时，他们仍可以使用 Skype for Business Outlook 外接程序安排会议。 在此更新之后，客户端在阅读表明用户只是团队的策略并进入仅会议加入模式后，你将无法再安排 Skype for Business 会议。 此外，如果 Skype for business Outlook 外接程序在发现 Skype for business 客户端处于仅会议加入模式时，启动时将无法自行激活。
+- 当用户被告知只能使用团队的策略时，他们仍然可以使用Skype for Business Outlook 插件来安排会议。 在此更新之后，当客户端读取指示用户为仅限团队的策略并进入仅限会议加入模式后，你将不再能够为Skype安排商务会议。 另外，如果 Skype for Business Outlook 插件在启动时看到 Skype for Business客户端处于会议加入模式，它将不会激活自己。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -306,33 +344,33 @@ ms.locfileid: "45049482"
 
 - 此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。
 
-- Office 主机在 windows 中崩溃，当在注册表项 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 设置为0时激活外接程序。 此更改将修复此问题。
+- 当注册表键HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth被设置为零时，正在激活一个外接程序时，windows中的office主机故障。 此更改可修复此问题。
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2004-may-21"></a>版本2004：5月21日
-*版本2004（内部版本12730.20352）*
+## <a name="version-2004-may-21"></a>版本 2004：5 月 21 日
+*版本 2004（内部版本 12730.20352）*
 
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 修复了以下问题：如果文件路径过长，外部链接将在文件重新打开后停止工作。
+- 修复了以下问题：在文件重新打开后，如果文件路径太长，外部链接会停止工作。
 
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了导致用户在从管理员通知提交反馈时遇到崩溃的问题。
+- 解决了用户在提交来自管理通知的反馈时故障的问题。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修复了一个即点即用问题，此问题导致了对最新版本偶尔更新失败。
+- 修复了会导致最新版本偶尔导致更新失败的即点即用问题。
 
-- 修复了 Microsoft Office 中的一个问题，其中的 Visual Basic for Applications 中的 Visual Basic for Applications 在运行时可能无法正确找到路径环境变量中指定的位置，从而导致 VBA 运行时错误。
+- 修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。
 
 
 
@@ -363,7 +401,7 @@ ms.locfileid: "45049482"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="office-suite"></a>Office 套件
 
-- 此更新修复了 Microsoft Office 的 Visual Basic for Applications 中的一个问题，其中某些包含代码库参考，且库名称或路径中包含 DBSC 字符的 VBA 项目会被 Office 应用程序视为加载时损坏。
+- 此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
 
 
 
@@ -379,16 +417,16 @@ ms.locfileid: "45049482"
 
 - **在“查询设计器”、“SQL 视图”和“关系”窗口中更高效地工作：** 右键单击表格，以对其进行打开、设计、调整大小和隐藏操作。 在 SQL 视图中搜索和替换文本。 在“关系”窗口中选择多个表。
 
-- **单击几下即可添加表：** 使用“添加表”任务窗格（在你工作时一直打开）向关系和查询添加表。 [了解更多](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+- **单击几下即可添加表：** 使用“添加表”任务窗格（在你工作时一直打开）向关系和查询添加表。 [了解详细信息](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
 
 ### <a name="excel"></a>Excel
 
 - **Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。
 
-- **有问题？询问 Excel：** 现在，Excel 创意允许您提出有关数据的问题-无需花费时间写入公式（仅适用于英文）。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **有问题？询问 Excel：** 现在，Excel Ideas 允许您提出有关数据的问题，无需花费时间编写公式（仅英语）。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="outlook"></a>Outlook
 
@@ -402,7 +440,7 @@ ms.locfileid: "45049482"
 
 - **在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。
 
-- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="teams"></a>Teams
 
@@ -552,7 +590,7 @@ ms.locfileid: "45049482"
 
 ### <a name="onenote"></a>OneNote
 
-- 通过暂时将新的嵌入式附件的最大允许大小降低到 50 MB，提升了同步和服务稳定性。 对于超出此限制的文件，用户可以选择将文件上传到 OneDrive 并将链接插入OneNote。
+- 通过暂时将新的嵌入式附件的最大允许大小降低到 50 MB，提升了同步和服务稳定性。 对于超出此限制的文件，用户可以选择将文件上传到 OneDrive 并将链接插入 OneNote。
 
 - 通过临时调整 OneNote 2016 中的同步频率，提升了同步和服务稳定性。
 
@@ -644,7 +682,7 @@ ms.locfileid: "45049482"
 - 解决了导致 Outlook 在同步滑块设置为较小的设置时出现意外同步所有邮件的问题。
 
 
-- 解决了导致具有黑色主题的用户看到在白色背景上显示空白文本的问题。
+- 解决了具有黑色主题的用户在“发件人”下拉列表中看到白色背景上显示白色文本的问题。
 
 
 - 此更改恢复了在邮件头中查看多行主题的功能。
@@ -708,7 +746,7 @@ ms.locfileid: "45049482"
 
 - **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
 
-- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解详细信息](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解更多](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
 ### <a name="outlook"></a>Outlook
 
@@ -788,7 +826,7 @@ ms.locfileid: "45049482"
 
 - **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -813,7 +851,7 @@ ms.locfileid: "45049482"
 
 ### <a name="word"></a>Word
 
-- 构建基块组织者可能会显示无效的警告： "您已修改样式、构建基块"。
+- 构建基块管理器可能显示无效的警报：“你已更改样式、构建基块”。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -824,6 +862,7 @@ ms.locfileid: "45049482"
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
-[//]: # (不修改管理中心元数据内容的开始)
-[//]: # (|Win32 |抄送 |生产 | | 16.0.13001.20266 | 版本-2006-6 月-30 |)
-[//]: # (不修改管理中心元数据内容的结尾)
+[//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13001.20384|2006 年 7 月 14 日版|)
+[//]: # (|Win32|CC|生产| |16.0.13001.20266|2006 年 6 月 30 日版|)
+[//]: # (不修改管理中心元数据内容结束)
