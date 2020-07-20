@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
-ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
+ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45098666"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45166710"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,47 @@ ms.locfileid: "45098666"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2008-july-17"></a>版本 2008：7 月 17 日
+*版本 2008（内部版本 13115.20000）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了保存和重新打开含有隐藏引导线的数据透视表时显示引导线的问题。
+
+- 修复了通过 VBA 为工作簿启用 “ForceFullCalculation” 时，图表未总是按预期更新的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 修复了有关从同一电子邮件域在 Outlook 中创建多个配置文件的问题。
+- 解决了导致锁图标无法在 S/MIME 加密邮件标题中显示的问题。
+- 解决了导致未加密发送的附件从 S/MIME 邮件中被去除的问题。
+- 解决了导致纯文本 S/MIME 邮件在发送时出现乱码的问题。
+- 解决了发送未加密 S/MIME 电子邮件时导致附件损坏的问题。
+- 解决了用户在安全对话框中选择“保存” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。
+- 解决了即使发件人被授予了另存为权限，也导致收件人无法保存受权限保护的邮件的问题。
+- 解决了导致某些语言中的某些高级搜索选项的标签被截断的问题。
+
+### <a name="project"></a>Project
+
+- 修复了“任务板”视图中列出的任务与“分配资源”对话框中的任务不同步的问题。
+- 修复了复制并粘贴具有多个依赖项的任务时，则并非所有依赖项都被正确复制的问题。
+
+### <a name="word"></a>Word
+
+- 修复了当焦点位于批注文本框中时禁用“编辑器”命令的问题。
+- 修复了焦点位于批注文本框中时禁用“显示标记”命令的问题。
+- 修复了打开文档时可能会丢失批注状态的自定义 XML 问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了用户从任务栏打开一个新的应用程序窗口并创建一个新的空白文档后，还会创建其他文件的问题。
+- 修复用户正在编辑文档但丢失了权限，则没有通知用户他们必须重新进行身份验证的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-july-10"></a>版本 2008：7 月 10 日
 *版本 2008（内部版本 13102.20002）*
@@ -1022,5 +1063,6 @@ ms.locfileid: "45098666"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (不修改管理中心元数据内容结束)
