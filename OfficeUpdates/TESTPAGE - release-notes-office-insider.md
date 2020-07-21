@@ -11,7 +11,7 @@ ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
 ms.openlocfilehash: 7be7c87cdc366fb4367e85a3a4174ce9718b5204
 ms.sourcegitcommit: f92e2e3c32b657fcb7abba694b310e152b376858
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/03/2020
 ms.locfileid: "44546265"
