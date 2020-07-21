@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: f32bdae61df487a920d3a5a7186db9113b37310a
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
+ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138808"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45187602"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>有关 2020 年半年企业频道发行的发行说明
 
@@ -154,8 +154,6 @@ ms.locfileid: "45138808"
 - **创建更易于访问的 PDF：** 创建一个 PDF，辅助功能检查器将会在你进行保存前指出要修复的辅助功能问题。 [了解更多](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[博客文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看详细信息
 
 - **更快的文件共享：** 直接从最近使用的文件列表中共享文档，而无需打开文件。
-
-- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **更多符合你心情的图标：** 我们添加了 300 多个新图标。 可在“插入”>“图标”中找到它们。 [了解更多](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />在[博客文章](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)中查看详细信息
 
