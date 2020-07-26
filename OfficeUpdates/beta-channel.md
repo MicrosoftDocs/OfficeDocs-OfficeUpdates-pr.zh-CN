@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
-ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
+ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
+ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45166710"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410706"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,35 @@ ms.locfileid: "45166710"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2008-july-24"></a>版本 2008：7 月 24 日
+*版本 2008（内部版本 13117.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **在 Excel 中制作优美的 Visio 图表：** 通过将数据置于工作表上来创建流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="onenote"></a>OneNote
+
+- 我们修复了以下问题：如果将应用程序窗口的大小调整为较小尺寸，则“搜索”编辑框中的占位符文本将溢出。
+
+### <a name="word"></a>Word
+
+- 我们修复了以下问题：如果将应用程序窗口的大小调整为较小尺寸，则“搜索”编辑框中的占位符文本将溢出。
+- 我们修复了禁用“跟踪更改”的“特定人员”选项的问题。
+- 我们修复了打开 HTML 文件时偶尔挂起的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-july-17"></a>版本 2008：7 月 17 日
 *版本 2008（内部版本 13115.20000）*
@@ -1063,6 +1092,7 @@ ms.locfileid: "45166710"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (不修改管理中心元数据内容结束)
