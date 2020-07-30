@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 001bc31abe7d885133eac48c58c2c03ae67e6ac8
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
+ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187592"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46506609"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -31,6 +31,35 @@ ms.locfileid: "45187592"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2006-july-28"></a>版本 2006：7 月 28 日
+*版本 2006（内部版本 13001.20498）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了在分页预览中加载带有多个工作表的工作簿时可能出现错误或挂起的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了有关复制和粘贴 SVG 图像的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了有关复制和粘贴 SVG 图像的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 关闭 Office 文件时，计时问题可能会导致崩溃。
 
 
 
@@ -863,6 +892,7 @@ ms.locfileid: "45187592"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13001.20498|2006 年 7 月 28 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20384|2006 年 7 月 14 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20266|2006 年 6 月 30 日版|)
 [//]: # (不修改管理中心元数据内容结束)
