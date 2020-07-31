@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: ae8cbd43519543e425d9b21674e6541ba1631798
-ms.sourcegitcommit: 0329ec1911461878a2b0b594aa7cfde1f006ec4a
+ms.openlocfilehash: a8bf6662fb1c0fcd652f32068f3cf42e87fdae56
+ms.sourcegitcommit: 8e0c8f95645d60a8651f7a2085a79c6e0bc02bdd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45430689"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46525053"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,50 @@ ms.locfileid: "45430689"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2007-july-29"></a>版本 2007：7 月 29 日
+*版本 2007（内部版本 13029.20308）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用数据类型从 Power BI 获取组织数据：** 从 Power BI Excel 数据类型现在推出 Office 365 E5/A5 或 Microsoft 365 E5/A5 的组织中的预览体验成员。 获取所需信息并轻松刷新，这对许多日常工作流至关重要。 我们将为你提供从 Power BI 到 Excel 中的数据类型的公司或组织信息的访问权限，这将扩大你在电子表格中引入链接信息的能力。 [了解更多](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
+
+### <a name="outlook"></a>Outlook
+
+- **选择搜索位置：**“新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。 感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。 此项设计和更新正是来自于该反馈！
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。 使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。
+
+### <a name="word"></a>Word
+
+- **与新式评论更好地协作：** 向对象添加批注、@提及同事并解决批注线程，以便获得更好的协作体验。 [了解更多](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致 CLP 用户在将回复的地址从受保护的上下文切换到不受保护的上下文时遇到崩溃的问题。
+
+
+- 解决了导致日程安排助理页面无法显示的问题。
+
+
+- 解决了导致事件通知警报出现格式问题的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2007-july-27"></a>版本 2007：7 月 27 日
 *版本 2007（内部版本 13029.20292）*
