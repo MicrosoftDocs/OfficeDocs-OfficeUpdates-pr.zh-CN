@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 7bdde6bc513c17f8814440f4231e22f45737c369
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: 7a67b3203f4efc05e11b2e85d7451f7fb72c9381
+ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506599"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46530351"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -36,7 +36,7 @@ ms.locfileid: "46506599"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2006<br/>|13001.20498<br/>|2020 年 7 月 28 日<br/>|版本 2007 已发布<br/>|
+|当前频道<br/>|2007<br/>|13029.20308<br/>|2020 年 7 月 30 日<br/>|版本 2008 已发布<br/>|
 |每月企业频道<br/>|2005<br/>|12827.20538<br/>|2020 年 7 月 14 日<br/>|2020 年 9 月 8 日<br/>|
 |每月企业频道<br/>|2004<br/>|12730.20602<br/>|2020 年 7 月 14 日<br/>|2020 年 8 月 11 日<br/>|
 |半年企业频道（预览）<br/>|2002<br/>|12527.20880<br/>|2020 年 7 月 14 日<br/>|2020 年 9 月 8 日<br/>|
@@ -54,6 +54,7 @@ ms.locfileid: "46506599"
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020 年|7 月 30 日|[版本 2007（内部版本 13029.20308）](current-channel.md#version-2007-july-30)| | | |
 |2020 年|7 月 28 日|[版本 2006（内部版本 13001.20498）](current-channel.md#version-2006-july-28)| | | |
 |2020 年|7 月 14 日|[版本 2006（内部版本 13001.20384）](current-channel.md#version-2006-july-14)|[版本 2005（内部版本 12827.20538）](monthly-enterprise-channel.md#version-2005-july-14)<br/>[版本 2004（内部版本 12730.20602）](monthly-enterprise-channel.md#version-2004-july-14)|[版本 2002（内部版本 12527.20880）](semi-annual-enterprise-channel-preview.md#version-2002-july-14)|[版本 2002（内部版本 12527.20880）](semi-annual-enterprise-channel.md#version-2002-july-14)<br/>[版本 1908（内部版本 11929.20904）](semi-annual-enterprise-channel.md#version-1908-july-14)<br/>[版本 1902（内部版本 11328.20624）](semi-annual-enterprise-channel.md#version-1902-july-14)|
 |2020 年|6 月 30 日|[版本 2006（内部版本 13001.20266）](current-channel.md#version-2006-june-30)| | | |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
-ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
+ms.openlocfilehash: c9d5dfb323a27aacb792d93293cf3aba09d43432
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410706"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532597"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,67 @@ ms.locfileid: "45410706"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2008-july-31"></a>版本 2008：7 月 31 日
+*版本 2008（内部版本 13127.20002）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+
+### <a name="outlook"></a>Outlook
+
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+
+### <a name="word"></a>Word
+
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 此修复解决了尝试运行某些查询前已产生错误消息“查询太复杂。”的问题
+
+### <a name="excel"></a>Excel
+
+- 我们修复了以下问题：图表系列的顺序发生更改时，与序列保持一致的对应复选框未与序列一起重新排序。
+- 我们修复了径向渐变的图像副本与原始图像不匹配的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 此修复了解决以下问题：如果用户对要回复的邮件没有所有者权限，在检查器窗口中回复受数字权限管理的邮件时，用户无法添加签名。
+- 此修复解决了造成 Outlook 无法在标记内容中正确显示换行符的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了径向渐变的图像副本与原始图像不匹配的问题。
+- 我们修复了不允许访问 Office Store 时 PowerPoint 中的“表单”按钮不允许创建表单的问题。
+
+### <a name="project"></a>Project
+
+- 我们修复了对于 SharePoint 任务列表，第二个选项卡上的功能区按钮可能被禁用的问题。
+
+### <a name="word"></a>Word
+
+- 我们修复了径向渐变的图像副本与原始图像不匹配的问题。
+- 我们修复了添加注释以跟踪更改时修订窗格会意外打开的问题。
+- 我们解决了通过“插入”-> “链接下拉列表”无法将文件链接添加到批注框中的问题。
+- 我们修复了添加包含超链接的图像后，VBA超链接集合中的超链接计数未正确迭代的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-july-24"></a>版本 2008：7 月 24 日
 *版本 2008（内部版本 13117.20000）*
@@ -1092,6 +1153,7 @@ ms.locfileid: "45410706"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13127.20002|2008 年 7 月 31 日版|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13102.20002|version-2008-july-10|)

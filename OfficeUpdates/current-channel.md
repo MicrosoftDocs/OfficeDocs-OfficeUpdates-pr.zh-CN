@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506609"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532587"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -31,6 +31,105 @@ ms.locfileid: "46506609"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2007-july-30"></a>版本 2007：7 月 30 日
+*版本 2007（内部版本 13029.20308）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解更多](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **不干扰他人筛选和排序：** 现在可以使用工作表视图与他人协作时排序和筛选你的 Excel 文件。 此新增功能可防止你在共同创作文档时受到其他用户的排序和筛选的影响。 [了解更多](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
+
+- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。 [了解更多](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
+
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 中使用快速投票创建投票：** 轻松创建投票、收集选票和在电子邮件中查看结果 [了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **将图片作为电子邮件一部分发送时，保持图片的高度机密性：** 将图片作为电子邮件内容的一部分发送时，可以使用新的 Outlook 设置限制图片压缩
+
+- **快速从上一个 Outlook 会话重新打开项目：** 我们增加了一个选项，使你能快速从上一个 Outlook 会话重新打开项目。 无论 Outlook 崩溃或关闭，现在你都可以在重新打开应用时快速重新启动项目。 默认情况下，启用此功能。 若要将其关闭，请转到 "选项" > "常规" > "启动选项"。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
+
+- **改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。 使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。
+
+### <a name="teams"></a>团队
+
+- **全新简化通知设置：** 用户现在可以通过增强功能以更简化的方式管理其通知设置。
+
+- **现在 Teams 支持 Windows 本机通知：** 用户现在可以通过团队内置横幅或 Windows 本机横幅选择首选的通知传递方式。
+
+- **频道信息窗格：** 在频道标题中的“频道信息”图标上进行选择时，将打开一个窗格，可在其中看到频道信息的摘要，包括频道说明、近期参与者和成员列表，以及系统消息的新服务。
+
+- **关闭聊天通知预览：** 用户可以更改设置和管理其聊天通知 Toast 的预览。
+
+- **建议的答复：** 我们为 Teams 用户增加了对他们的对话提出建议答复的功能。 如果启用这些建议，它们将显示在聊天消息的底部。 他们使回复消息变得快速而轻松！
+
+### <a name="word"></a>Word
+
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
+
+- **在矢量中保留文本：** 现在，在 Excel、Word 和 PowerPoint 中转换这些对象时，可以在地图、图表和其他SVG矢量中保留文本。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 此修复解决了尝试运行某些查询前已产生错误消息“查询太复杂”的问题。
+
+### <a name="excel"></a>Excel
+
+- 修复了在分页预览中加载带有多个工作表的工作簿时可能出现错误或挂起的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致 CLP 用户在将回复的地址从受保护的上下文切换到不受保护的上下文时遇到崩溃的问题。
+
+
+- 解决了未选中“下载共享”文件夹时导致共享日历会议“响应选项”中缺少“允许转发”选项的问题。
+
+
+- 解决了导致在编辑经理日历上的现有日历约会时，代表收到错误的问题。
+
+
+- 解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。
+
+- 解决了导致日程安排助理页面无法显示的问题。
+
+- 解决了导致事件通知警报出现格式问题的问题。
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：分配资源对话框中，选择的任务与任务板视图中选择的任务不一样。
+
+- 修复了如果粘贴具有多个依赖项的任务，并不能正确复制所有依赖项的问题。
+
+- 修正了无法将PDF/XPS从项目保存到 SharePoint 文档库的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了即使完成向完整产品的转换也导致显示运行时消息的问题。 解决此问题的方法是确保服务会正确计算添加的产品。 我们筛选掉了新添加的产品（确保这些产品同时存在于新配置中），并将其添加到现有产品发布 ID 的末尾。
 
 
 
@@ -892,6 +991,7 @@ ms.locfileid: "46506609"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13029.20308|2007 年 7 月 30 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20498|2006 年 7 月 28 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20384|2006 年 7 月 14 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20266|2006 年 6 月 30 日版|)
