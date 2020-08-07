@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a8bf6662fb1c0fcd652f32068f3cf42e87fdae56
-ms.sourcegitcommit: 8e0c8f95645d60a8651f7a2085a79c6e0bc02bdd
+ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
+ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46525053"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46576794"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,36 @@ ms.locfileid: "46525053"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2007-august-05"></a>版本 2007：8 月 5 日
+*版本 2007（内部版本 13029.20344）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致 Outlook 无法检索搜索建议的问题。
+
+
+- 解决了导致用户在检索角色信息时偶尔会崩溃的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了无法打开已进入错误状态的项目的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2007-july-29"></a>版本 2007：7 月 29 日
 *版本 2007（内部版本 13029.20308）*
