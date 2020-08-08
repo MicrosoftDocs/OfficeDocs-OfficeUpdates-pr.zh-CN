@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
-ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
+ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
+ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46532587"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580845"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -686,6 +686,10 @@ ms.locfileid: "46532587"
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **你喜爱的 Excel 函数运行速度更快：** SUMIFS、AVERAGEIFS、COUNTIFS、MAXIFS 和 MINIFS 函数运行速度比以往更快。 更快达到底线。 立即试用。
+
 ### <a name="outlook"></a>Outlook
 
 - **将电子邮件拖动到你拥有的组：** 通过从收件箱中拖动来移动和复制邮件和对话。 将与所有组成员共享你拖动的消息。
