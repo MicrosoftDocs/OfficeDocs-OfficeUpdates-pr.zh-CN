@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: c9d5dfb323a27aacb792d93293cf3aba09d43432
-ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
+ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
+ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46532597"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "46590299"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,22 @@ ms.locfileid: "46532597"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2009-august-07"></a>版本 2009：8 月 7 日
+*版本 2009（内部版本 13130.20000）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了 Active Directory 中“otherTelephone”和“otherHomePhone”的用户帐户属性未映射到相应的 Outlook LDAP 属性的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了在某些情况下用户看到功能区/标题栏未显示的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-july-31"></a>版本 2008：7 月 31 日
 *版本 2008（内部版本 13127.20002）*
@@ -1153,6 +1169,7 @@ ms.locfileid: "46532597"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13127.20002|2008 年 7 月 31 日版|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13115.20000|version-2008-july-17|)
