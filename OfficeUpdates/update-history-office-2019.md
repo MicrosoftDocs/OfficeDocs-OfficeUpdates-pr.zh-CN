@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530341"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612334"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -36,6 +36,9 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 ## <a name="volume-licensed-versions-of-office-2019"></a>Office 2019 的批量许可版
 以下信息适用于 Office 2019 的批量许可版，例如通过批量许可协议购买的 Office Professional Plus 2019。
 
+[//]: # (请勿删除批量许可表开头)
+
+
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
 |2020 年 7 月 14 日   |版本 1808（内部版本 10363.20015）  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 |2020 年 2 月 11 日   |版本 1808（内部版本 10356.20006）  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (请勿删除批量许可表结尾)
+
+<details>
+<summary>早期版本</summary>
+ 
+[//]: # (请勿删除批量许可旧表开头)
 
 
+|**发布日期**|**版本号**|**详细信息**|
+|:-----|:-----|:-----|
 
+
+[//]: # (请勿删除批量许可旧表结尾)
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 零售版
 以下信息适用于 Office 2016 C2R 和 Office 2019 的零售版本，这二者的发布日期和版本号相同。
+
+[//]: # (请勿删除零售表开头)
+
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 |2020 年 6 月 30 日|版本 2006（内部版本 13001.20266）  |各种 Bug 和性能修补程序。  <br/>  |
 |2020 年 6 月 24 日|版本 2005（内部版本 12827.20470）  |各种 Bug 和性能修补程序。  <br/>  |
 |2020 年 6 月 9 日|版本 2005（内部版本 12827.20336）  |[CVE-2020-1225](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (请勿删除零售表结尾)
+
+<details>
+<summary>早期版本</summary>
+ 
+[//]: # (请勿删除零售旧表开头)
+
+
+|**发布日期**|**版本号**|**详细信息**|
+|:-----|:-----|:-----|
 |2020 年 6 月 2 日|版本 2005（内部版本 12827.20268）  |各种 Bug 和性能修补程序。  <br/>  |
 |2020 年 5 月 21 日|版本 2004（内部版本 12730.20352）  |各种 Bug 和性能修补程序。  <br/>  |
 |2020 年 5 月12 日|版本 2004（内部版本 12730.20270）  |[CVE-2020-0901](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 |2020 年 2 月 11 日   |版本 2001（内部版本 12430.20264）  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (请勿删除零售旧表结尾)
 
+</details>
 
 
 
