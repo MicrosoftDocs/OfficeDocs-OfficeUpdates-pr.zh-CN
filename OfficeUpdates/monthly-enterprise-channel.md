@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138678"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634798"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -26,6 +26,112 @@ ms.locfileid: "45138678"
 [//]: # (请勿移除)
 
 
+
+## <a name="version-2006-august-11"></a>版本2006:8月11日
+*版本 2006（内部版本13001.20520）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。
+
+- **不干扰他人筛选和排序：** 现在可以使用工作表视图与他人协作时排序和筛选你的 Excel 文件。 此新增功能可防止你在共同创作文档时受到其他用户的排序和筛选的影响。 [了解更多](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+### <a name="outlook"></a>Outlook
+
+- **帮助保护组中的数据：** 你在创建组时选择的敏感度标签应用于组电子邮件、文档和团队网站。
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。
+
+- **新增了用于在 Outlook 中撰写邮件时禁用 @提及建议的选项：** 你是否觉得 @提及选取器更令人生厌，而不是更有用？ 现在，可以根据需要禁用它。<br />在[博客文章](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)中查看详细信息
+
+- **将图片作为电子邮件一部分发送时，保持图片的高度机密性：** 将图片作为电子邮件内容的一部分发送时，可以使用新的 Outlook 设置限制图片压缩。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。
+
+- **改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。 使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。
+
+### <a name="word"></a>Word
+
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了一个问题，即执行查询大约花费两倍于预期完成时间。
+
+- 解决了插入包含身份（例如自动编号）字段的关联 SQL 表的问题。
+
+
+### <a name="excel"></a>Excel
+
+- 修正了以下问题：保存到 SharePoint / OneDrive 时，自定义功能区标签的CustomUI XML被删除。
+
+- 修复了在分页预览中加载多张工作簿时可能出现错误或挂起的问题。
+
+- 修复了从账户注销后，在尝试创建数据连接时可能发生的崩溃。
+
+- 自动文档分类可能出现在只读模式的工作簿上。
+
+### <a name="onenote"></a>OneNote
+
+- 改进对共同创作状态的检测，以减少资源利用率。
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了有关复制和粘贴 SVG 图像的问题。
+
+- 解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。
+
+- 解决了启用云设置时导致Ctrl+click停止工作的问题。
+
+- 解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。
+
+- 解决了导致用户看到 Outlook 不断提示运行收件箱修复工具的问题。
+
+- 解决了导致共享日历改进的用户遇到日历故障的问题。
+
+- 解决了导致用户看到通过拖放复制到其文件系统的附件的创建日期设置为4501 年 1 月 1 日的问题。
+
+### <a name="project"></a>Project
+
+- 修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange事件没有触发的问题。
+
+- 修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。
+
+- 修复了以下问题：如果 URL 以 ".com" 结尾，则无法在 Project 桌面端 Project Web App 中打开项目。
+
+### <a name="word"></a>Word
+
+- 我们修复了有关复制和粘贴 SVG 图像的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们对新的 AppV51 进行了备份，以修复之前 AppV51 中的回归问题。
+
+- 在关闭office文件时，计时问题可能会导致故障
+
+- 解决了 TabProcGrowth 注册表值为 REG_SZ 类型启用加载项时，windows 上的 office 主机会出现崩溃的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-august-11"></a>版本2005:8月11日
+*版本 2005（内部版本 12827.20656）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-2005-july-14"></a>版本 2005：7 月 14 日
 *版本 2005（内部版本 12827.20538）*
@@ -82,9 +188,9 @@ ms.locfileid: "45138678"
 
 - 解决了导致共享日历改进的用户遇到日历故障的问题。
 
-- 解决了导致用户在更新 Outlook 中的“规则”时看到&quot;此计算机上的规则与 Microsoft Exchange 上的规则不匹配&quot;消息的问题。
+- 解决了导致用户在 Outlook 中更新其规则时出现 "此计算机上的规则与 Microsoft Exchange 的规则不匹配" 消息的问题。
 
-- 解决了导致用户看到通过拖放复制到其文件系统的附件的创建日期设置为&nbsp;4501 年 1 月 1 日的问题。
+- 解决了用户通过拖放复制到文件系统的附件的创建日期被设置为1月1日4501的问题。
 
 - 解决了这样一个的问题：对于使用 M365 Business Plus 计划且已为数据丢失保护策略提示付费的用户，Outlook 未能使数据丢失保护策略向其发送提示。
 
@@ -416,5 +522,6 @@ ms.locfileid: "45138678"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|生产|功能|16.0.12827.20538|版本-2005-7-14|)
 [//]: # (不修改管理中心元数据内容结束)
