@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 28b78e3952867cb55b2b91e9e6d9d8d5f2e35063
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: e567d3139d7766b54d05e0ddf5272bc683c6f82a
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187582"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634868"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>有关 2020 年半年企业频道（预览）发行的发行说明
 
@@ -24,7 +24,44 @@ ms.locfileid: "45187582"
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 
-## <a name="version-2002-july-14"></a>版本 2002：7 月 14 日
+## <a name="version-2002-august-11"></a>版本2002:8月11日
+*版本2002（内部版本12527.20988）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了以 "建议只读 "打开的文件无法切换到编辑的问题。
+
+### <a name="onenote"></a>OneNote
+
+- 已删除多余的身份调用，以减少资源利用率。
+
+- 改进对共同创作状态的检测，以减少资源利用率。
+
+- 提高检测错误的能力和同步体验的质量。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了某些租户启动Outlook时出现重大性能问题的问题。
+
+### <a name="skype"></a>Skype
+
+- 修复了32位Skype for Business客户端在运行数天后启动屏幕共享时可能出现失败的问题。
+
+### <a name="office-suite"></a>Office Suite
+
+- 修复了一个问题：如果通过组策略关闭自动保存，一些文档可能在打开时不会显示最新的服务器内容，直到用户点击 "可用更新"。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-july-14"></a>版本 2002: 7 月 14 日
 *版本 2002（内部版本 12527.20880）*
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
@@ -467,7 +504,7 @@ ms.locfileid: "45187582"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="access"></a>Access
 
-- 此更新修复了 Microsoft Access 中的一个问题，该问题可能会导致运行更新查询或在 SQL 中使用 UPDATE 语句时出现&quot;查询已损坏&quot;错误。
+- 此更新修复了 Microsoft Access 中的一个问题，该问题可能会导致运行更新查询或在 SQL 中使用 UPDATE 语句时出现“查询已损坏”错误。
 
 - 此更新修复了可能会导致 Microsoft Access 无法识别链接 SQL Server 表中的标识列的问题，该问题可能会导致行错误地被报告为已删除。
 
@@ -535,13 +572,13 @@ ms.locfileid: "45187582"
 
 - 解决了导致第三方应用程序无法发送电子邮件的问题。
 
-- 解决了导致用户在尝试从“帐户创建”上下文联系支持人员时看到带有“&quot;确定&quot;”按钮的空白消息框的问题。
+- 解决了导致用户在尝试从“帐户创建”上下文联系支持人员时看到带有“确定”按钮的空白消息框的问题。
 
 - 解决了导致用户在配置文件创建过程中遇到崩溃的问题。
 
 - 解决了导致 Outlook 在同步滑块设置为较小的设置时出现意外同步所有邮件的问题。
 
-- 解决了具有黑色主题的用户在“&quot;发件人&quot;”下拉列表中看到白色背景上显示白色文本的问题。
+- 解决了导致使用Black Theme的用户在 "From "下拉菜单在白色背景上显示白色文本的问题。
 
 - 解决了导致用户在取消帐户设置时遇到崩溃的问题。
 
@@ -549,7 +586,7 @@ ms.locfileid: "45187582"
 
 - 解决了一个问题，该问题导致在某些情况下无法使用相关选项来禁用标记项目突出显示。
 
-- 解决了导致用户在打开“规则”对话框时看到&quot;此计算机上的规则与 Microsoft Exchange 上的规则不匹配&quot;提示的问题。
+- 解决了导致用户在打开规则对话框时看到“此计算机上的规则与 Microsoft Exchange 上的规则不匹配”提示的问题。
 
 - 解决了导致用户在指定无效的发件人地址时遇到崩溃的问题。
 
@@ -573,7 +610,7 @@ ms.locfileid: "45187582"
 
 - 解决了与巴西时区中设置的会议和约会有关的问题。
 
-- 解决了在关闭辅助功能检查器窗格后按 &quot;S&quot; 键时导致用户看到邮件意外发送的问题。
+- 解决了关闭辅助功能检查器窗格后按 "S "键时，用户会看到邮件意外发送的问题。
 
 - 这将 Outlook 中的附件阻止逻辑更新为也阻止 Python 附件。
 
@@ -603,7 +640,7 @@ ms.locfileid: "45187582"
 
 - 我们修复了以下问题：在某些情况下，保存现有文件始终会导致显示“另存为”对话框，而该文件从不实际保存。
 
-- 构建基块管理器可能显示无效的警报：&quot;你已更改样式、构建基块&quot;。
+- 构建基块管理器可能显示无效的警报：“你已更改样式、构建基块”。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -731,5 +768,6 @@ ms.locfileid: "45187582"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|2002 年 8 月 11 日版|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.12527.20880|2002 年 7 月 14 日版|)
 [//]: # (不修改管理中心元数据内容结束)

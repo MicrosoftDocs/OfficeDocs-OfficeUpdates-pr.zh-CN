@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
-ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
+ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580845"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634822"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -31,6 +31,31 @@ ms.locfileid: "46580845"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2007-august-11"></a>版本2007:8月11日
+*版本 2007（内部版本 13029.20344）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致 Outlook 无法检索搜索建议的问题。
+
+
+- 解决了导致用户在检索角色信息时偶尔会崩溃的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了无法打开已进入错误状态的项目的问题。
 
 
 
@@ -64,9 +89,7 @@ ms.locfileid: "46580845"
 
 - **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
 
-- **改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。 使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。
-
-### <a name="teams"></a>团队
+### <a name="teams"></a>Teams
 
 - **全新简化通知设置：** 用户现在可以通过增强功能以更简化的方式管理其通知设置。
 
@@ -995,6 +1018,7 @@ ms.locfileid: "46580845"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production |16.0.13029.20344|2007 年 8 月 11 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20308|2007 年 7 月 30 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20498|2006 年 7 月 28 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20384|2006 年 7 月 14 日版|)

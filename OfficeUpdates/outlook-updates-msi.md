@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: 360447f59f9cf8f09bbdb90ab92d24872a786d19
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 7c5208b6abab7ccf29aa1d8ec4f43f254c20018c
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138628"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637620"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -43,20 +43,20 @@ Outlook 与 Microsoft 365 和本地环境的兼容性取决于部署的系统要
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|不适用  <br/> |2016 年 3 月公开更新 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020 年 7 月 PU <br/>[KB4484433](https://support.microsoft.com/help/4484433) 
+|不适用  <br/> |2016 年 3 月公开更新 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020年8月 PU <br/>[KB4484475](https://support.microsoft.com/help/4484475) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月公开更新 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020 年 7 月 PU <br/>[KB4484363](https://support.microsoft.com/help/4484363)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月公开更新 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020年8月 PU <br/>[KB4484486](https://support.microsoft.com/help/4484486)  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新
 > [!IMPORTANT]
-于 2020 年 10 月 13 日终止对 Office 2010 的支持。 如果尚未开始升级 Office 2010 环境，建议立即开始。 有关详细信息，请参阅 [Office 2010 的停止提供支持路线图](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。
+> 于 2020 年 10 月 13 日终止对 Office 2010 的支持。 如果尚未开始升级 Office 2010 环境，建议立即开始。 有关详细信息，请参阅 [Office 2010 的停止提供支持路线图](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 5 日公开更新 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月公开更新 <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020 年 7 月 PU <br/>[KB4484382](https://support.microsoft.com/help/4484382) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 5 日公开更新 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月公开更新 <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020年8月 PU <br/>[KB4484497](https://support.microsoft.com/help/4484497) <br><br><br><br/>|
    
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187602"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634598"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>有关 2020 年半年企业频道发行的发行说明
 
@@ -26,6 +26,57 @@ ms.locfileid: "45187602"
 > [!NOTE]
 >
 >- 如果半年企业频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用版，现在默认情况下会包括 OneNote 2016。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-august-11"></a>版本2002:8月11日
+*版本2002（内部版本12527.20988）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了以 "建议只读 "打开的文件无法切换到编辑的问题。
+
+### <a name="onenote"></a>OneNote
+
+- 已删除多余的身份调用，以减少资源利用率。
+
+- 改进对共同创作状态的检测，以减少资源利用率。
+
+- 提高检测错误的能力和同步体验的质量。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了某些租户启动Outlook时出现重大性能问题的问题。
+
+### <a name="skype"></a>Skype
+
+- 修复了32位Skype for Business客户端在运行数天后启动屏幕共享时可能出现失败的问题。
+
+### <a name="office-suite"></a>Office Suite
+
+- 修复了一个问题：如果通过组策略关闭自动保存，一些文档可能在打开时不会显示最新的服务器内容，直到用户点击 "可用更新"。
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1908-august-11"></a>版本1908:8月11日
+*版本 1908（内部版本 11929..20934）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+## <a name="version-1902-august-11"></a>版本1902:8月11日
+*版本 1902（内部版本 11328.20644）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
@@ -1611,5 +1662,6 @@ ms.locfileid: "45187602"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DC|Production| |16.0.12527.20988|版本-2002年8月11日|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (不修改管理中心元数据内容结束)

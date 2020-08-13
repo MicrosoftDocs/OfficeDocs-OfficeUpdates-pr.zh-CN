@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: c2f321c0c1465fd2814232eaab6e1782f83629b9
-ms.sourcegitcommit: 66c77c0b4b04bd91b4624dc741a9aed272bf9807
+ms.openlocfilehash: 7ccf04ceb82ce5552de8852e2b7c062402be7f38
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46588094"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634819"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -36,14 +36,23 @@ ms.locfileid: "46588094"
 
 [//]: # (请勿移除)
 
-[//]: # (请勿移除预测内容开头)
+## <a name="august-11-2020"></a>2020 年 8 月 11 日
 
-## <a name="august-6-2020"></a>2020 年 8 月 6 日
+[//]: # (请勿移除内容开头 2020 年 8 月 11 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版为版本 2007（内部版本 13029.20344）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2007（内部版本 13029.20308） <br/> |2020 年 7 月 30 日 <br/> |50<br/> |
+|版本 2006（内部版本 13001.20498） <br/> |2020 年 7 月 28 日 <br/> |374<br/> |
 
 
-### <a name="monthly-enterprise-channel"></a>每月企业频道
+### <a name="monthly-enterprise-channel"></a>月度企业频道
 
-<i>暂定版本为 2006（内部版本 13001.20540）。</i>
+最新版为版本 2006（内部版本 13001.20520）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -53,25 +62,28 @@ ms.locfileid: "46588094"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企业频道（预览）
 
-<i>暂定版本为 2002（内部版本 12527.20964）。</i>
+最新版为版本 2002（内部版本 12527.20988）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 2002（内部版本 12527.20880） <br/> |2020 年 7 月 14 日 <br/> |57<br/> |
+|版本 2002（内部版本 12527.20880） <br/> |2020 年 7 月 14 日 <br/> |58<br/> |
 |版本 2002（内部版本 12527.20720） <br/> |2020 年 6 月 9 日 <br/> |62<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企业频道
 
-<i>暂定版本为 2002（内部版本 12527.20964）。</i>
+最新版为版本 2002（内部版本 12527.20988）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本 2002（内部版本 12527.20880） <br/> |2020 年 7 月 14 日 <br/> |57<br/> |
+|版本 2002（内部版本 12527.20880） <br/> |2020 年 7 月 14 日 <br/> |58<br/> |
 |版本 1908（内部版本 11929.20838） <br/> |2020 年 6 月 9 日 <br/> |291<br/> |
 
 
-[//]: # (请勿移除预测内容结尾)
+[//]: # (请勿移除内容结尾 2020 年 8 月 11 日)
+
+
+
 
 ## <a name="july-30-2020"></a>2020 年 7 月 30 日
 

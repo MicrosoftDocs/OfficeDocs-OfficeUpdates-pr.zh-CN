@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 应用安全更新的发行说明
+title: Microsoft Office安全更新发布说明
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,19 +8,19 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供 Microsoft 365 应用安全更新的发行说明
-ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
+ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
+ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138518"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46641798"
 ---
-# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 应用安全更新的发行说明
+# <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office安全更新发布说明
 
-这些发行说明介绍了 Microsoft 365 应用更新中包含的安全修补程序。
+这些发布说明提供了有关Microsoft Office更新中包含的安全修复的信息。
 
-此信息适用于 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本。
+此信息适用于Microsoft 365企业应用版，Microsoft 365商业应用版，Office2016零售版 (C2R)和Office2019。
 
 
 > [!IMPORTANT]
@@ -31,6 +31,54 @@ ms.locfileid: "45138518"
  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="august-11-2020"></a>2020 年 8 月 11 日
+当前频道：版本 2007（内部版本 13029.20344）  
+月度企业版渠道：版本 2006（内部版本 13001.20520）  
+月度企业版渠道：版本 2005（内部版本 12827.20656）  
+半年企业频道（预览）：版本 2002（内部版本 12527.20988）  
+半年企业频道：版本 2002（内部版本 12527.20988）  
+半年企业频道：版本 1908（内部版本 11929.20934）  
+半年企业频道：版本 1902（内部版本 11328.20644）  
+Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.20988）  
+Office 2019 零售：版本2007（内部版本13029.20344）  
+Office 2016 零售：版本2007（内部版本13029.20344）  
+Office 2019 批量许可：版本1808（内部版本10364.20059）  
+
+[//]: # (请勿删除安全详细信息内容启动)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2020-1582](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1582)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1496](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1496)
+-   [CVE-2020-1497](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1497)
+-   [CVE-2020-1494](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1494)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1493](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1493)
+-   [CVE-2020-1483](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1483)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1502](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1502)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1503)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1581](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1581)
+-   [CVE-2020-1563](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1563)
+
+[//]: # (请勿移除安全详细信息内容结尾)
+
+
 
 ## <a name="july-14-2020"></a>2020 年 7 月 14 日
 当前频道：版本 2006（内部版本 13001.20384）  
