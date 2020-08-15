@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
-ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
+ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
+ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46590299"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46695296"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,27 @@ ms.locfileid: "46590299"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2009-august-14"></a>版本 2009：8 月 14 日
+*版本 2009（内部版本 13205.20000）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 如果用户键入了包含圆括号的公式名称，并通过 F1 调用了帮助，则特定于该公式的帮助主题将不会显示，我们已解决了这个问题。
+- “还原文件的早期版本后，分配给按钮的宏会损坏”的问题已解决。
+
+### <a name="outlook"></a>Outlook
+
+- 此更改修复了以下问题：当用户将选项卡从“会议”页面切换到“日程安排助理”页面后，将继续显示该会议页面。
+
+### <a name="word"></a>Word
+
+- 我们解决了“项目符号图片图标未正确显示”的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2009-august-07"></a>版本 2009：8 月 7 日
 *版本 2009（内部版本 13130.20000）*
@@ -581,7 +602,7 @@ ms.locfileid: "46590299"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -1169,6 +1190,7 @@ ms.locfileid: "46590299"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13127.20002|2008 年 7 月 31 日版|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13117.20000|version-2008-july-24|)
