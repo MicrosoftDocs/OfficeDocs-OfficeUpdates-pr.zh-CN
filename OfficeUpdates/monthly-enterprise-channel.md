@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
+ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634798"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798368"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -60,6 +60,8 @@ ms.locfileid: "46634798"
 ### <a name="word"></a>Word
 
 - **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。
+
+- **换一种说法：** 想要用另一种方法表达，重写功能帮你大忙。 重写功能为你完善语言提供了替代方案。<br />在[博客文章](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)中查看详细信息
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -146,9 +148,7 @@ ms.locfileid: "46634798"
 
 - **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-### <a name="word"></a>Word
 
-- **换一种说法：** 想要用另一种方法表达，重写功能帮你大忙。 重写功能为你完善语言提供了替代方案。<br />在[博客文章](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -257,7 +257,7 @@ ms.locfileid: "46634798"
 
 - **Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。
 
-- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="outlook"></a>Outlook
 
@@ -267,7 +267,7 @@ ms.locfileid: "46634798"
 
 - **改进日历：** 可查看视觉对象更新，以便更轻松地扫描日历。 [了解更多详细信息](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[博客文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看详细信息
 
-- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -275,7 +275,7 @@ ms.locfileid: "46634798"
 
 - **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
-- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="word"></a>Word
 
@@ -283,7 +283,7 @@ ms.locfileid: "46634798"
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
-- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -379,7 +379,7 @@ ms.locfileid: "46634798"
 
 - **6 个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。 [了解详细信息](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解详细信息](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[博客文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看详细信息
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解更多](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[博客文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看详细信息
 
 - **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
 
@@ -397,11 +397,11 @@ ms.locfileid: "46634798"
 
 - **PowerPoint 中的快速实时协作：** 在 PowerPoint 中快速展开实时协作
 
-- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解详细信息](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[博客文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看详细信息
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[博客文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看详细信息
 
 - **更好的图表：** 有了更好的连接器和更流程的墨迹转换过程，你可以更轻松用墨迹表达你的想法。 [了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
