@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
+ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634822"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46818351"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -253,6 +253,10 @@ ms.locfileid: "46634822"
 - **管理频道通知设置的简化方法：** 通过团队和频道列表或从频道标题中，用户可以通过单击打开或关闭所有活动或深入了解自定义项来设置其首选排列，从而快速管理其通知设置。
 
 - **Walkie Talkie：** 使用“按下即可发言”进行即时语音通信。
+
+### <a name="word"></a>Word
+
+- **屏幕阅读器中的操作确认：** 操作的确认是辅助功能一项重要的要求。 随着 Windows 引入新的通知 API ，我们现在可以提醒屏幕阅读器用户的操作成功情况。 剪切、复制、粘贴、加粗、斜体、下划线、撤消、重做、自动更正、自动大小写等功能，现在都已向Win32 Word"讲述人"用户公布。 若要启用此功能，请按 windows + ctrl + enter 启用 "讲述人"。
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
