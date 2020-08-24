@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
-ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
+ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
+ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46695296"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852518"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,47 @@ ms.locfileid: "46695296"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2009-august-21"></a>版本 2009：8 月 21 日
+*版本 2009（内部版本 13212.20000）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Excel 中的操作笔：** 触控笔工具，帮助你手写并对数据进行快速编辑
+
+### <a name="outlook"></a>Outlook
+
+- **邮件所有者删除对话：** 此功能允许你通过邮件所有者删除对话。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们解决了 ODBC 数据库未能与第三方应用程序一起连接使用的问题。
+
+### <a name="excel"></a>Excel
+
+- 我们解决了以下问题：使用宏设置区域的 FormulaR1C1 属性时，如果图表工作表是活动工作表，则单元格引用将不正确。
+- 我们已解决了墨迹书写可能会导致 Excel 停止响应的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了以下问题：现在用户可以禁用 Outlook 的 IRM （信息权限管理），而无需在其他 Office 应用程序中禁用它。
+
+### <a name="word"></a>Word
+
+- 我们修复了删除批注后 Word 可能会崩溃的问题。
+- 我们解决了在某些情况下，项目符号在电子邮件中无法正确显示的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2009-august-14"></a>版本 2009：8 月 14 日
 *版本 2009（内部版本 13205.20000）*
@@ -1190,6 +1231,7 @@ ms.locfileid: "46695296"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13127.20002|2008 年 7 月 31 日版|)
