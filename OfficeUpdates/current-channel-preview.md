@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 44e8d793dc8a4a7757bb83320b1ccaf47066886a
-ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
+ms.openlocfilehash: 580dfcb7a5360c3a9dabb2f1c3667b24b8b5f60a
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46788952"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895695"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,42 @@ ms.locfileid: "46788952"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2008-august-25"></a>版本 2008：8 月 25 日
+*版本 2008（内部版本 13127.20268）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **在按人员搜索时收到电子邮件建议：** 在 Outlook 中键入搜索词时，你将收到最相关的电子邮件，它们显示在建议中。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在答复或撰写新的电子邮件时收到错误的问题，其中该错误显示“此网页中的部分文件不在预期位置。 是否仍要下载它们? 如果确定此网页来自可靠来源，请单击[是]”
+
+
+### <a name="project"></a>Project
+
+- 解决了在资源定义了多个成本费率表时其余成本有时计算有误的问题。
+
+
+### <a name="word"></a>Word
+
+- 解决了导致用户在答复或撰写新的电子邮件时软件崩溃的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-august-17"></a>版本2008:8月17日
 *版本2008（内部版本13127.20208）*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
-ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
+ms.openlocfilehash: 8e6bae8a355d7d42e43c90db51355c42d9226198
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46818351"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895686"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -31,6 +31,46 @@ ms.locfileid: "46818351"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2007-august-25"></a>版本 2007：8 月 25 日
+*版本 2007（内部版本 13029.20460）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 尝试使用 LET() 函数保存包含公式的文件时，可能会出现错误。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致某些字符集的用户在向 SharePoint 文件添加智能链接时无法正确显示文件名的问题。
+
+
+- 解决了导致 Outlook 用户在紧凑视图中导航时出现错误的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了 PowerPoint 应用崩溃的问题。
+
+
+### <a name="word"></a>Word
+
+- 解决了导致用户在答复或撰写新邮件时软件崩溃的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 对于旧的、非基于网络服务的共享窗格，在共享窗格处于打开时关闭文档可能会导致崩溃。 此问题已修复。
+
+
+- 解决了用户发现 UI 元素或内容在某些条件下（尤其是在进出演示者视图或使用多个显示器时）不显示的问题。
 
 
 
@@ -1022,7 +1062,8 @@ ms.locfileid: "46818351"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
-[//]: # (|Win32|CC|Production |16.0.13029.20344|2007 年 8 月 11 日版|)
+[//]: # (|Win32|CC|生产| |16.0.13029.20460|2007 年 8 月 25 日版|)
+[//]: # (|Win32|CC|生产 |16.0.13029.20344|2007 年 8 月 11 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20308|2007 年 7 月 30 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20498|2006 年 7 月 28 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20384|2006 年 7 月 14 日版|)
