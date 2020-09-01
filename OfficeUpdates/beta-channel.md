@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
-ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
+ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
+ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852518"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300306"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,33 @@ ms.locfileid: "46852518"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2009-august-28"></a>版本 2009：8 月 28 日
+*版本 2009（内部版本 13219.20004）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户在选择多封邮件时能够发送对 OneNote 应用了“不转发”策略的电子邮件内容的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了禁用插入视频功能的问题。
+
+### <a name="word"></a>Word
+
+- 我们修复了选择批注时，用户无法退出页眉/页脚的问题。
+- 我们修复了使用户无法查看超出侧轨边界的批注线程（因为滚动侧轨不起作用）的问题。
+- 我们修复了无法在侧轨窗格中搜索已解决的批注的问题。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。
+- 我们修复了“压缩图片”对话框中不保留用户选定的某些 DPI 设置的问题。
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2009-august-21"></a>版本 2009：8 月 21 日
 *版本 2009（内部版本 13212.20000）*
@@ -1231,6 +1258,7 @@ ms.locfileid: "46852518"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13130.20000|version-2009-august-07|)
