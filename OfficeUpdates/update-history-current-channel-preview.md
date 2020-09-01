@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 95bc3020972a2acd7eb86d96bdba4ee9536d871b
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 505899f09c8a0c0126ba8b8c5233040f92cfab2c
+ms.sourcegitcommit: d7a1fa2d08122b27a4fb4a6f7c89f8c88f15a8a8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895736"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47294364"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 当前频道（预览）的更新历史记录
 
@@ -34,6 +34,12 @@ ms.locfileid: "46895736"
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
 > - 发行说明的更新速度将放慢，可能是对已发布发行说明的内部版本号之前的多个内部版本的更新汇编。
+
+
+[//]: # (请勿移除)
+
+**2020 年 8 月 27 日**<br/>
+版本 2008（内部版本 13127.20296）<br/>
 
 
 
