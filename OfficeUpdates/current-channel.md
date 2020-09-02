@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
-ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
+ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47291070"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318999"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -32,6 +32,108 @@ ms.locfileid: "47291070"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2008-august-31"></a>版本 2008：8 月 31 日
+*版本 2008（内部版本 13127.20296）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。 我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+### <a name="outlook"></a>Outlook
+
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+
+- **搜索中的自然语言支持：** 通过在搜索中实施自然语言支持，用户可以轻松筛选其搜索结果，而无需记住特定的搜索语法。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。 我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+### <a name="teams"></a>Teams
+
+- **呼叫合并：**“呼叫合并”使最终用户能够将其现行的未保持 1 对 1 呼叫合并到另一个 1 对 1 呼叫或另一个组呼叫中。 这适用于 Teams VOIP 呼叫和 PSTN 呼叫。
+
+- **管理员可以为其一线工作人员配置基于班次的状态（上班、下班）：** 管理员可以将其一线工作人员配置为具有基于班次的状态：上班、忙碌（上班时可以切换）和下班。
+
+- **Teams 中的 Cortana 语音技能：** Teams 移动应用中的 Cortana 语音技能可帮助用户仅使用自然语言执行会议、交流和协作任务。 用户可以通过在 Teams 应用中单击麦克风按钮来与 Cortana 对话，如果他们需要在做家务、遛狗或者忙个不停时与他人联系，可以通过该应用来发出“打电话给 Megan”或“给我的下一个会议发消息”等请求。 用户只需说“加入我的下一个会议”即可加入会议，或者通过询问“今天早上有哪些工作”来查看日历。 在会议或呼叫中，他们可以在会议阶段从溢出菜单中调用 Cortana，并执行典型的会议中任务，例如按姓名或电话号码添加人员（“将 Megan 添加到呼叫”）、幻灯片组演示（“显示季度回顾幻灯片组”）或浏览幻灯片（“转到附录幻灯片”）。 该功能还支持查找和共享文件、搜索以及在 Teams 应用中进行常规导航（与 John 聊天、转到未读活动、转到我的 @提及等）等事务。 Teams 中的 Cortana 满足[在线服务条款 (OST)](https://www.microsoft.com/licensing/product-licensing/products)中反映的对 Cortana 企业服务的企业级隐私、安全性和合规性承诺。
+
+- **群聊功能增加：** Teams 新增了一项功能，可以进行 250 位参与者的群聊。
+
+- **按班次标记：** 通过此功能，将自动为人员分配标记，与他们在 Teams 的 [Shifts 应用](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop)中的日程安排和班次组名称相匹配。
+
+### <a name="word"></a>Word
+
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。 我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+### <a name="office-suite"></a>Office 套件
+
+- **制表符窗格：** 现在，可以使用应用程序右侧的选项卡 UI 在多个窗格之间进行切换。 UI 将只在当打开2个以上的窗格时才会可见。<br />在[博客文章](https://blog-insider.office.com/2020/02/20/improved-pane-management/)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 这个问题已经得到解决 - 现在，你可以在 Office 的即点即用应用程序之外使用我们的 ODBC 驱动程序。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致尝试从添加到其个人资料的辅助帐户创建会议请求的用户看不到空白的“发件人：”字段，而是看到自己的电子邮件地址的问题。
+
+- 修复了导致用户无法在添加共享邮箱后连接到公用文件夹的问题。
+
+- 解决了导致在某些情况下，无法在代理拒绝会议时将其从经理的日历中删除的问题。
+
+- 解决了共享日历改进功能的部分用户无法查看新添加的共享日历的问题。
+
+- 修复了导致用户在与云附件交互时偶尔出现崩溃的问题。
+
+- 解决了导致某些字符集的用户在向 SharePoint 文件添加智能链接时无法正确显示文件名的问题。
+
+- 解决了导致用户在答复或撰写新的电子邮件时出现崩溃的问题。
+
+- 解决了通过选中 "仅下载邮件头" 选项删除来自 POP 帐户的4个或更多电子邮件时导致用户遇到崩溃的问题。
+
+- 解决了导致“日程安排助理”页面无法显示的问题。
+
+- 修复了导致用户在编辑收件人时偶尔出现崩溃的问题。
+
+- 修复了导致用户在使用压缩视图时出现异常的问题。
+
+- 解决了导致右键单击上下文菜单无法在搜索控件中显示的问题。
+
+- 解决了导致用户在答复或撰写新的电子邮件时收到错误的问题，其中该错误显示“此网页中的部分文件不在预期位置。 是否仍要下载它们? 如果确定此网页来自可靠来源，请单击[是]”
+
+
+### <a name="project"></a>Project
+
+- 修复了与 SharePoint 任务列表连接的项目的项目完成日期无法更新的问题。
+
+- 修复了在资源定义了多个成本费率表时，其余成本有时计算有误的问题。
+
+### <a name="skype"></a>Skype
+
+- 已将跳舞表情符号肤色改为中性。
+
+### <a name="word"></a>Word
+
+- 此更改修复了以下问题：在上一次共同创作会话后，Office 应用程序可能会陷入静默的保存失败状态。
+
+- 我们修复了宏 AutoOpen 在 AutoExec 之前运行的问题
 
 
 
@@ -1063,6 +1165,7 @@ ms.locfileid: "47291070"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13127.20296|2008 年 8 月 31 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20460|2007 年 8 月 25 日版|)
 [//]: # (|Win32|CC|生产 |16.0.13029.20344|2007 年 8 月 11 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20308|2007 年 7 月 30 日版|)
