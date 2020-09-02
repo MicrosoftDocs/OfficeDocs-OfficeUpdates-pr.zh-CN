@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: d63e475069ceab71e83b9b3b063a32c92d124771
+ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318999"
+ms.locfileid: "47320780"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -51,7 +51,7 @@ ms.locfileid: "47318999"
 
 - **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
-- **搜索中的自然语言支持：** 通过在搜索中实施自然语言支持，用户可以轻松筛选其搜索结果，而无需记住特定的搜索语法。
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -724,7 +724,7 @@ ms.locfileid: "47318999"
 
 - **有问题？询问 Excel：** 现在，Excel Ideas 允许您提出有关数据的问题，无需花费时间编写公式（仅英语）。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="outlook"></a>Outlook
 
@@ -738,7 +738,7 @@ ms.locfileid: "47318999"
 
 - **在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。
 
-- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="teams"></a>Teams
 
@@ -1128,7 +1128,7 @@ ms.locfileid: "47318999"
 
 - **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
