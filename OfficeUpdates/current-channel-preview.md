@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 580dfcb7a5360c3a9dabb2f1c3667b24b8b5f60a
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 73fc4756a5e6152fdbabdac3514e16b6937f5c9e
+ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895695"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47320790"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,41 @@ ms.locfileid: "46895695"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2008-august-27"></a>版本 2008：8 月 27 日
+*版本 2008（内部版本 13127.20296）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复了导致尝试从添加到其个人资料的辅助帐户创建会议请求的用户看不到空白的“发件人：”字段，而是看到自己的电子邮件地址的问题。
+
+- 修复了导致用户无法在添加共享邮箱后连接到公用文件夹的问题。
+
+- 修复了导致用户在与云附件交互时偶尔出现崩溃的问题。
+
+- 修复了导致用户在编辑收件人时偶尔出现崩溃的问题。
+
+- 修复了导致用户在使用压缩视图时出现异常的问题。
+
+### <a name="word"></a>Word
+
+- 此更改修复了以下问题：在上一次共同创作会话后，Office 应用程序可能会陷入静默的保存失败状态。
+
+- 我们修复了宏 AutoOpen 在 AutoExec 之前运行的问题
+
+
+
+[//]: # (请勿删除 Bug 详细信息内容结尾)
 
 ## <a name="version-2008-august-25"></a>版本 2008：8 月 25 日
 *版本 2008（内部版本 13127.20268）*
