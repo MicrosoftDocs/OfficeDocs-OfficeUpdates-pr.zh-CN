@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364173"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399649"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -527,6 +527,25 @@ ms.locfileid: "47364173"
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **墨迹工具箱中的“套索和橡皮擦”：** 使用绘图工具时，现在“墨迹工具箱”中可以提供“套索” 和“橡皮擦”了。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **墨迹工具箱中的“套索和橡皮擦”：** 使用绘图工具时，现在“墨迹工具箱”中可以提供“套索” 和“橡皮擦”了。
+
+### <a name="word"></a>Word
+
+- **墨迹工具箱中的“套索和橡皮擦”：** 使用绘图工具时，现在“墨迹工具箱”中可以提供“套索” 和“橡皮擦”了。
+
+
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
