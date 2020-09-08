@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
-ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
+ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
+ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300306"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47395421"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,79 @@ ms.locfileid: "47300306"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2010-september-04"></a>版本 2010：9 月 4 日
+*版本 2010（内部版本 13301.20004）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 创建数据类型：** 使用任何数据源中的 Power Query 创建丰富数据类型
+
+- **Azure Synapse Analytics 品牌定位：** Azure SQL 数据仓库数据连接器重塑为 Azure Synapse Analytics
+
+### <a name="outlook"></a>Outlook
+
+- **固定电子邮件：** 此功能可帮助用户跟踪需要回顾的邮件，或将邮件保存在邮件列表顶部作为提醒。
+
+- **在按人员搜索时获得电子邮件建议：** 在 Outlook 中键入搜索词时，将在建议中显示最相关的电子邮件。
+
+- **在按人员搜索时获得电子邮件建议：** 在 Outlook 中键入搜索词时，将在建议中显示最相关的电子邮件。
+
+- **Microsoft 编辑器将为 Word 和 Outlook 桌面版客户端升级：** 我们将为编辑器的拼写、语法和高级样式建议推出一种全新的点击查看模型。 此更改还包括新的专用卡外观，可用于审阅建议。
+
+### <a name="word"></a>Word
+
+- **Microsoft 编辑器将为 Word 和 Outlook 桌面版客户端升级：** 我们将为编辑器的拼写、语法和高级样式建议推出一种全新的点击查看模型。 此更改还包括新的专用卡外观，可用于审阅建议。
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：如果你打开包含 LET 函数的文件，将会显示警报：“在‘你的文件.xlsx’ 内容中发现错误。 你是否希望我们尽力尝试恢复？ 如果你信任此工作簿的来源，请点击是”。
+- 修复了与 XLAM 外接程序引用和命名区域相关的崩溃问题。
+- 修复了用户无法修改数据透视表筛选器的问题，因为它被设置为在 Analysis Services 数据库中已不存在的值。
+- 修复了用户对动态数组应用自定义样式，会收到错误提示：“无法更改数组的一部分”的问题。 这是一个已删除的旧限制。
+- 修复了当设备连接丢失（例如远程会话连接/断开或显示器更改）后，Excel 编辑栏不会完全呈现的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 修复了通过组策略启用/禁用默认日志记录选项时会提供更大灵活性的问题。
+- 修复了在具有助理权限和管理权限的邮箱之间移动电子邮件草稿之后，电子邮件发件人的旧域名保留并显示的问题。
+- 修复了某些用户的 Outlook 会以脱机状态启动，需要他们手动选择联机工作的问题。
+- 修复了在启用单行功能区 (SLR) 后运行 VBA 代码 ActiveInspector CommandBars ExecuteMso ("ShowSchedulingPage") 时，会导致运行时错误的问题。
+- 修复了“自动答复”对话框中的“确定”和“取消”按钮在具有高分辨率（如 1750 x 1920）和较大文本（如 175%）的系统上不可见的问题。
+- 修复了从一个空联系人组向另一个联系人组发送会议请求时会导致崩溃的问题。
+- 修复了用户打开某些很大的邮件时会遇到崩溃的问题。
+- 修复了如果组策略要求始终启用一个加载项，为了防止用户禁用该加载项，监视加载项不可用的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了在幻灯片中无法自动播放视频的问题。
+- 修复了启动 PowerPoint 后，插入幻灯片、打开并关闭批注窗格，缩略图窗格中的幻灯片显示为重叠的问题。
+
+### <a name="project"></a>Project
+
+- 修复了资源具有多个成本费率表时，可能无法正确计算剩余成本的问题。
+- 修复了与 SharePoint 任务列表连接的项目的 Project 完成日期无法更新的问题。
+
+### <a name="word"></a>Word
+
+- 修复了用户点击批注时，批注卡片将在批注文本周围显示边框的问题。
+- 修复了文档缩放到160% 或以上，同时批注窗格未显示时，焦点不会转到批注窗格的问题。
+- 修复了切换多个打开的文档后，一份文档的备注显示在其他文档上的问题。
+- 修复了用户创建批注草稿，定位到已包含提交批注的行时，相对于 SideTrack 中提交的批注，草稿的排列顺序会出现错误的问题。
+- 修复了将文档保存为 HTML 格式时长链接无法换行的问题。
+- 修复了宏 AutoOpen 在 AutoExec 之前运行的问题。
+
+[//]: # (请勿删除 Bug 详细信息内容结尾)
 
 ## <a name="version-2009-august-28"></a>版本 2009：8 月 28 日
 *版本 2009（内部版本 13219.20004）*
@@ -1258,6 +1331,7 @@ ms.locfileid: "47300306"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13205.20000|version-2009-august-14|)
