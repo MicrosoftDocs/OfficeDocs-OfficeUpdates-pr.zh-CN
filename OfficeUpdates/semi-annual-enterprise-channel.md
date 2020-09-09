@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 469b87ca79a0f4f091e69cf1239715cee7b9dace
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634598"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413070"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>有关 2020 年半年企业频道发行的发行说明
 
@@ -28,7 +28,42 @@ ms.locfileid: "46634598"
 >- 如果半年企业频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用版，现在默认情况下会包括 OneNote 2016。
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除 Bug 详细信息内容结尾)
+
+## <a name="version-2002-september-08"></a>版本 2002：9 月 8 日
+*版本 2002（内部版本 12527.21104）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 这解决了以下问题：由 SQL 数据提供程序在 Office 的较早版本中创建的连接将内部表属性设置为与 Office 365 不同。 这会导致对于包含在旧版本的 Office 中创建的连接的文件，使用 Office 365 打开时，表预览/查询编辑器下拉列表被禁用。
+
+
+- 解决了墨迹书写可能会导致 Excel 停止响应的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致用户无法在添加共享邮箱后连接到公用文件夹的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更改解决了“压缩图片”对话框不保留某些用户设置的问题。
+
+
+
+[//]: # (请勿删除 Bug 详细信息内容结尾)
+
+## <a name="version-1908-september-08"></a>版本 1908：9 月 8 日
+*版本 1908（内部版本 11929.20946）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-2002-august-11"></a>版本2002:8月11日
 *版本2002（内部版本12527.20988）*
@@ -1662,6 +1697,7 @@ ms.locfileid: "46634598"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|版本-2002年8月11日|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (不修改管理中心元数据内容结束)

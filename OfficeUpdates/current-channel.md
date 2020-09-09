@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399649"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413050"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -376,6 +376,8 @@ ms.locfileid: "47399649"
 ### <a name="excel"></a>Excel
 
 - **更长文件名：** Windows 桌面版 Excel 现在支持名称和路径长达 400 字符的 OneDrive/SharePoint 文件。
+
+- **Realtimedata (RTD) 改进：** 在 Office 365 版本 2002 每月频道或更高版本中，Excel 的 RealTimeData (RTD) 函数要比 Excel 2010 计算电子表格中的数据的速度快得多。 我们在其基本内存和数据结构中删除瓶颈，并使其变得线程安全，这能允许其在 多线程计算 (MTR) 的所有可用线程上进行计算。
 
 ### <a name="outlook"></a>Outlook
 
@@ -884,6 +886,10 @@ ms.locfileid: "47399649"
 - **将电子邮件拖动到你拥有的组：** 通过从收件箱中拖动来移动和复制邮件和对话。 将与所有组成员共享你拖动的消息。
 
 - **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。
+
+###<a name="powerpoint"></a>PowerPoint
+
+- **批注**：PowerPoint 中新的批注体验使你可以快速、轻松地发现批注并将其添加到文档中。 通过批注锚定、解决、任务、改进的提及通知等新功能实现协作工作流现代化。
 
 ### <a name="word"></a>Word
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 73fc4756a5e6152fdbabdac3514e16b6937f5c9e
-ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
+ms.openlocfilehash: 3ad72b7012b7220dfce130c8976158a496624882
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47320790"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399659"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,54 @@ ms.locfileid: "47320790"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2008-september-04"></a>版本 2008：9 月 4 日
+*版本 2008（内部版本 13127.20378）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="office-suite"></a>Office 套件
+
+- 此更改解决了“压缩图片”对话框不保留某些用户设置的问题。
+
+
+
+[//]: # (请勿删除 Bug 详细信息内容结尾)
+
+## <a name="version-2008-september-02"></a>版本 2008：9 月 2 日
+*版本 2008（内部版本 13127.20360）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **使用 Excel 触控笔进行快速编辑：** 触控笔工具，帮助你手写并对数据进行快速编辑
+
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 解决了某些情况下使用格式刷时 Excel 可能会崩溃的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了未使用普通样式更新基准样式的问题。
+
+
+
+[//]: # (请勿删除 Bug 详细信息内容结尾)
 
 ## <a name="version-2008-august-27"></a>版本 2008：8 月 27 日
 *版本 2008（内部版本 13127.20296）*
@@ -960,7 +1008,7 @@ ms.locfileid: "47320790"
 
 - 在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。
 
-- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的功能。
+- Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。
 
 - 在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。
 
