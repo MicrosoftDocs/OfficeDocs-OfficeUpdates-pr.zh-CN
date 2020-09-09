@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: '为 IT 专业人员提供永久版本的 Office 2013 的最新 .msp 文件列表，该文件使用 Windows Installer (MSI) '
-ms.openlocfilehash: cf4dbf5f3e3e69abc57f9b8064be48c6b0ea4f3d
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: c46af9e7fb8b8022230b55485fc863a563d49f42
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634778"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413100"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 产品的最新 .msp 文件列表
 
@@ -24,15 +24,13 @@ ms.locfileid: "46634778"
   
 ## <a name="most-recently-updated-msp-files"></a>最近更新的 .msp 文件
 
-下表列出了在**8 月 2020**更新的 .msp 文件。 
+下表列出了在 **九月 2020**中更新的 .msp 文件。 
   
 |非安全更新 * * * *|安全更新 * * * *|
 |:-----|:-----|
-| |access-x-无<br/>|
-| |ace-x-无<br/>|
-| |excel-x-无<br/>|
+|visio-x-无<br> |excel-x-无<br/>|
 | |graph-x-无<br/>|
-| |outlook-x-无<br/>|
+| |mso-x-无<br/>|
 | |word-x-无<br/>|
  
 
@@ -59,14 +57,14 @@ ms.locfileid: "46634778"
 |duetserver-x-无<sup>1</sup> <br/> |Office 2013  <br/> |2015年4月14日  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |电子数据展示-x-无<sup>2</sup> <br/> |Office 2013  <br/> |2017年9月5日  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |eqnedt32-x-无  <br/> |Office 2013  <br/> |不适用  <br/> |不适用  <br/> |2018 年 1 月 9 日  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|excel-x-无  <br/> |Excel 2013  <br/> |2018年7月3日  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |2020 年 8 月 11 日  <br/> |[4484449](https://support.microsoft.com/help/4484449) <br/>|[4484410](https://support.microsoft.com/help/4484410) <br/> |
+|excel-x-无  <br/> |Excel 2013  <br/> |2018年7月3日  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |2020 年 9 月 8 日  <br/> |[4484526](https://support.microsoft.com/help/4484526) <br/> |[4484449](https://support.microsoft.com/help/4484449) <br/>|
 |excelpp-x-无  <br/> |Office 2013  <br/> |2017年6月6日  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |exppdf-x-无  <br/> |Office 2013  <br/> |2016年4月5日  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |filterpack-x-无  <br/> |Office 2013  <br/> |2016年4月5日  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |) -x-无  <br/> |Office 2013  <br/> |2015年7月14日  <br/> |[3023052](https://support.microsoft.com/kb/3023052) <br/> |2014 年 12 月 9 日  <br/> |[2726958](https://support.microsoft.com/kb/2726958) <br/> |不适用  <br/> |
 |gfonts-x-无  <br/> |Office 2013  <br/> |2014 年 10 月 14 日  <br/> |[2760371](https://support.microsoft.com/kb/2760371) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |gkall-x-无  <br/> |Office 2013  <br/> |2016 年 6 月 7 日  <br/> |[3039795](https://support.microsoft.com/kb/3039795) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|graph-x-无  <br/> |Office 2013  <br/> |2019年4月2日  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |2020 年 8 月 11 日  <br/> |[4484354](https://support.microsoft.com/help/4484354) <br/> |[4484260](https://support.microsoft.com/help/4484260) <br/> |
+|graph-x-无  <br/> |Office 2013  <br/> |2019年4月2日  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |2020 年 9 月 8 日  <br/> |[4484517](https://support.microsoft.com/help/4484517) <br/> |[4484354](https://support.microsoft.com/help/4484354) <br/> |
 |groove-x-无  <br/> |OneDrive for Business  <br/> |2018年8月7日  <br/> |[4022226](https://support.microsoft.com/help/4022226) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |ieawsdc-x-无  <br/> |Office 2013  <br/> |不适用  <br/> |不适用  <br/> |2015 年 8 月 11 日  <br/> |[3039798](https://support.microsoft.com/kb/3039798) <br/> |不适用  <br/> |
 |infopath-x-无  <br/> |InfoPath 2013  <br/> |2016 年 5 月 3 日  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |2016 年 3 月 8 日  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
@@ -77,7 +75,7 @@ ms.locfileid: "46634778"
 |mscomct2-x-无  <br/> |Office 2013  <br/> |不适用  <br/> |不适用  <br/> |2014 年 5 月 13 日  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |不适用  <br/> |
 |mscomctlocx-x-无<sup>2</sup> <br/> |Office 2013  <br/> |不适用  <br/> |不适用  <br/> |2016 年 1 月 12 日  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-无  <br/> |Office 2013  <br/> |2017年4月4日  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|mso-x-无  <br/> |Office 2013  <br/> |2020 年 7 月 7 日  <br/> |[4484442](https://support.microsoft.com/help/4484442) <br/> |2020 年 6 月 9 日  <br/> |[4484351](https://support.microsoft.com/help/4484351) <br/>|[4484117](https://support.microsoft.com/help/4484117) <br/> |
+|mso-x-无  <br/> |Office 2013  <br/> |2020 年 7 月 7 日  <br/> |[4484442](https://support.microsoft.com/help/4484442) <br/> |2020 年 9 月 8 日  <br/> |[4484469](https://support.microsoft.com/help/4484469) <br/> |[4484351](https://support.microsoft.com/help/4484351) <br/>|
 |msohevi-x-无  <br/> |Office 2013  <br/> |不适用  <br/> |不适用  <br/> |2019 年 1 月 8 日  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |不适用  <br/> |
 |msptls-x-无  <br/> |Office 2013  <br/> |2018年7月3日  <br/> |[4018378](https://support.microsoft.com/help/4018378) <br/> |2015 年 8 月 11 日  <br/> |[3054816](https://support.microsoft.com/kb/3054816) <br/> |不适用  <br/> |
 |msqry32-x-无  <br/> |Office 2013  <br/> |2015年6月9日  <br/> |[2889863](https://support.microsoft.com/kb/2889863) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
@@ -114,10 +112,10 @@ ms.locfileid: "46634778"
 |stslist-x-无  <br/> |Office 2013  <br/> |2019年2月5日  <br/> |[3172473](https://support.microsoft.com/kb/3172473) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |vbe7-x-无  <br/> |Office 2013  <br/> |2020 年 6 月 2 日  <br/> |[4484356](https://support.microsoft.com/help/4484356) <br/> |2020 年 4 月 14 日  <br/> |[4011104](https://support.microsoft.com/help/4011104) <br/> |[3115153](https://support.microsoft.com/help/3115153) <br/> |
 |visconv-x-无<sup>2</sup> <br/> |Visio 2013 兼容包  <br/> |2015年7月14日  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|visio-x-无  <br/> |Visio 2013  <br/> |2019年4月2日  <br/> |[4464505](https://support.microsoft.com/help/4464505) <br/> |2020 年 4 月 14 日  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
+|visio-x-无  <br/> |Visio 2013  <br/> |2020 年 9 月 1 日  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |2020 年 4 月 14 日  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
 |vviewer.dll-x-无  <br/> |Visio Viewer 2013  <br/> |2014年4月8日  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wec-x-无  <br/> |Office 2013  <br/> |2015年11月7日  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|word-x-无  <br/> |Word 2013  <br/> |2019 年 7 月 2 日 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |2020 年 8 月 11 日  <br/> |[4484484](https://support.microsoft.com/help/4484484) <br/> |[4484446](https://support.microsoft.com/help/4484446) <br/>|
+|word-x-无  <br/> |Word 2013  <br/> |2019 年 7 月 2 日 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |2020 年 9 月 8 日  <br/> |[4484522](https://support.microsoft.com/help/4484522) <br/>|[4484484](https://support.microsoft.com/help/4484484) <br/>|
 |wordpia-x-无  <br/> |Word 2013  <br/> |2017年11月7日  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wxpcore-x-无  <br/> |Office 2013  <br/> |2016 年 3 月 8 日  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wxpnse-x-无  <br/> |Office 2013  <br/> |2015 年 10 月 13 日  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
