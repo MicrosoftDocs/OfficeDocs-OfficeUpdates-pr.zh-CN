@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: bdfd18bc1ff883f260b12009400bf9b62993d939
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: cb982a4bf75776aa41aa6f815925a0a20a397b25
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413160"
+ms.locfileid: "47420736"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>有关 2020 年半年企业频道（预览）发行的发行说明
 
@@ -71,7 +71,7 @@ ms.locfileid: "47413160"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用 @提及功能引起他人的注意：** 在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **使用 \@提及**功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解更多](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
