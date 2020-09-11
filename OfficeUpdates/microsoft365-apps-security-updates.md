@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
-ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
-ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
+ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46641798"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413080"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office安全更新发布说明
 
@@ -31,6 +31,39 @@ ms.locfileid: "46641798"
  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="september-08-2020"></a>2020 年 9 月 8 日
+月度企业版渠道：版本 2007（内部版本 13029.20534）  
+月度企业版渠道：版本 2006（内部版本13001.20648）  
+半年企业频道（预览）：版本 2008（内部版本 13127.20408）  
+半年企业频道：版本 2002（内部版本 12527.21104）  
+半年企业频道：版本 1908（内部版本 11929.20946）  
+Office 2019 批量许可：版本1808（内部版本10366.20016）  
+
+[//]: # (请勿删除安全详细信息内容启动)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1594](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1594)
+-   [CVE-2020-1335](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1335)
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1224)
+-   [CVE-2020-1332](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1332)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1338)
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1458)
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1193)
+
+[//]: # (请勿移除安全详细信息内容结尾)
+
+
 
 ## <a name="august-11-2020"></a>2020 年 8 月 11 日
 当前频道：版本 2007（内部版本 13029.20344）  
