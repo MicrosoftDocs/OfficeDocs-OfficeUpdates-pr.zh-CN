@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
-ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
+ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
+ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47395421"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "47431571"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -39,9 +39,7 @@ ms.locfileid: "47395421"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **使用 Power Query 创建数据类型：** 使用任何数据源中的 Power Query 创建丰富数据类型
-
-- **Azure Synapse Analytics 品牌定位：** Azure SQL 数据仓库数据连接器重塑为 Azure Synapse Analytics
+- **使用 Power Query 创建数据类型：** 使用 Power Query 创建任何数据源的丰富数据类型。
 
 ### <a name="outlook"></a>Outlook
 
