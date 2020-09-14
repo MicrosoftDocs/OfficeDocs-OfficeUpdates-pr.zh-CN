@@ -39,7 +39,7 @@ ms.locfileid: "47431571"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **使用 Power Query 创建数据类型：** 使用 Power Query 创建任何数据源的丰富数据类型。
+- **使用 Power Query 创建数据类型：** 从任何数据源使用 Power Query 创建丰富的数据类型。
 
 ### <a name="outlook"></a>Outlook
 
