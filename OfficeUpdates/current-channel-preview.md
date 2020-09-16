@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: cbb7abb985eccb0e7ee8669812ff4b9837565377
-ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
+ms.openlocfilehash: 064769dde88f0198237af611b788ed02317235ba
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47449545"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816553"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,16 @@ ms.locfileid: "47449545"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2009-september-14"></a>版本 2009：9 月 14 日
+*版本 2009（内部版本 13231.20152）*
+* 各种 bug 和性能修补程序。
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
 
 ## <a name="version-2009-september-10"></a>版本 2009：9 月 10 日
 *版本 2009（内部版本 13231.20126）*

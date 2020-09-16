@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: d723fa5a294e8dbd3650d0ac69fa201538486089
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 96de2ef290f1c69a7ac5cce730151276bf028b46
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637690"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816583"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -42,7 +42,34 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 
 
-## <a name="august-11-2020"></a>2020 年 8 月 11 日
+
+
+## <a name="september-15-2020"></a>2020 年 9 月 15 日
+*版本 16.41 (内部版本 20091302)*
+
+[//]: # (请勿删除安全详细信息内容启动)
+
+
+### <a name="security-updates"></a>安全更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1224)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1338)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1193)
+-   [CVE-2020-16855](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16855)
+
+[//]: # (请勿移除安全详细信息内容结尾)
+
+## <a name="august-11-2020"></a>2020年8月11日
 *版本16.40（内部版本 2008 1000）*
 
 [//]: # (请勿移除功能详细信息内容开头)

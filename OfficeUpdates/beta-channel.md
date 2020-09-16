@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
-ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
+ms.openlocfilehash: be0f92656f096b888632bb73d10187305ab7be48
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47449555"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816573"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -100,10 +100,6 @@ ms.locfileid: "47449555"
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
-
-- **使用 Power Query 创建数据类型：** 从任何数据源使用 Power Query 创建丰富的数据类型。
-
 ### <a name="outlook"></a>Outlook
 
 - **固定电子邮件：** 此功能可帮助用户跟踪需要回顾的邮件，或将邮件保存在邮件列表顶部作为提醒。
