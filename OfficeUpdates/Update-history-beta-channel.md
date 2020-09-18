@@ -1,20 +1,20 @@
 ---
 title: Office Beta 频道的更新历史记录
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: c5e4b6e3caa97357004b7d3ccafcbb5fd68af249
-ms.sourcegitcommit: 18b3341c6b8caebdcfa61a4d2b2a584e405178f4
+ms.openlocfilehash: 4955f2f844c4b52938626a9dc6dc071d88911c81
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/07/2020
-ms.locfileid: "47402820"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942809"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 频道的更新历史记录
 
@@ -37,6 +37,9 @@ ms.locfileid: "47402820"
 
 
 [//]: # (请勿移除)
+
+**2020 年 9 月15 日**<br/>
+版本 2010（内部版本 13312.20006）<br/>
 
 **2020 年 9 月 7 日**<br/>
 版本 2010（内部版本 13304.20000）<br/>
