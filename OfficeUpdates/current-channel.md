@@ -1,20 +1,20 @@
 ---
 title: 有关 2020 年当前频道发行的发行说明
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413050"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942829"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -32,6 +32,38 @@ ms.locfileid: "47413050"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2008-september-09"></a>版本 2008：9 月 9 日
+*版本 2008（内部版本 13127.20408）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- Access 已修复此当前问题，但将通过调查我们的其他界面来确保不会持续出现此问题。 团队将向你通报未来的更新；非常感谢你的耐心等待。
+
+
+### <a name="excel"></a>Excel
+
+- 解决了某些情况下使用格式刷时 Excel 可能会崩溃的问题。
+
+
+### <a name="word"></a>Word
+
+- 解决了以下问题：在调整形状的大小时，用户可能会丢失内容。
+
+
+- 我们修复了未使用普通样式更新基准样式的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更改解决了“压缩图片”对话框不保留某些用户设置的问题。
 
 
 
@@ -1201,6 +1233,7 @@ ms.locfileid: "47413050"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13127.20408|2008 年 9 月 9 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13127.20296|2008 年 8 月 31 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20460|2007 年 8 月 25 日版|)
 [//]: # (|Win32|CC|生产 |16.0.13029.20344|2007 年 8 月 11 日版|)
