@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
+ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942829"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "48100194"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -45,7 +45,7 @@ ms.locfileid: "47942829"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="access"></a>Access
 
-- Access 已修复此当前问题，但将通过调查我们的其他界面来确保不会持续出现此问题。 团队将向你通报未来的更新；非常感谢你的耐心等待。
+- 此更改修复了启动“缩放框”（Shift + F2）以编辑文本时可能导致 Access 崩溃的问题。
 
 
 ### <a name="excel"></a>Excel

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 4c3c30f66df886e67c9e5b669fd41d192a62b662
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: c814f4877fe57ce57136626277f281fcbadc6b73
+ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942780"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "48100204"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,63 @@ ms.locfileid: "47942780"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2010-september-18"></a>版本 2010：9 月 18 日
+*版本 2010 (内部版本 13312.20006)*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **使用编辑器校对邮件：** 现可在 Outlook 64 位用户的电子邮件中获得语法和其他风格建议。 查找带下划线的单词，查看编辑器提出的建议以便改进写作。
+
+- **使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！ 在邮件中，右键单击以翻译特定字词、短语或整个邮件。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了二维地图图表在使用 VBA 设置系列的最大值、中间值和最小值的颜色时，无法正常工作的问题。
+
+
+- 修复了将 Office 语言设置为西班牙语时出现的问题，在有问题的情况下，数据验证列表可能不会显示列表中的所有项目。
+
+
+- 修复了可能导致“在尝试计算一个或多个公式时，Excel 用尽了资源的”错误问题。
+
+
+- 修复了在某些情况下，往公式栏输入公式时，ChartSheet 崩溃的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 当用户将电子邮件地址和显示名称复制并粘贴到收件人字段时，该电子邮件地址始终不会被正确分析，并导致出现有关电子邮件地址无效的警告。  已对其进行修复，以便正确分析名称和电子邮件地址，所以不会再显示该警告。
+
+
+### <a name="word"></a>Word
+
+- 已修复当用户点击修订（插入/删除）时，将显示批注弹出窗口的问题。
+
+
+- 我们已修复了在 Word 中删除批注标注的问题。
+
+
+- 我们已修复了 Outlook 邮件设置为“不要转发”的问题。
+
+
+- 我们已修复了保存 Word 文档（包含引文和公式）的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-september-11"></a>版本 2010：9 月 11 日
 *版本 2010（内部版本 13304.20000）*
@@ -274,19 +331,19 @@ ms.locfileid: "47942780"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="outlook"></a>Outlook
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="word"></a>Word
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -1388,6 +1445,7 @@ ms.locfileid: "47942780"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13219.20004|version-2009-august-28|)
@@ -1397,5 +1455,4 @@ ms.locfileid: "47942780"
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13127.20002|2008 年 7 月 31 日版|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13115.20000|version-2008-july-17|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (不修改管理中心元数据内容结束)
