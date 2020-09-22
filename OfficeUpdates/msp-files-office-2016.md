@@ -2,19 +2,19 @@
 title: Office 2016 产品的最新 .msp 文件列表
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: '为 IT 专业人员提供永久版本的 Office 2016 的最新 .msp 文件列表，该文件使用 Windows Installer (MSI) '
-ms.openlocfilehash: cc9f7f97499e5e360d4df1210302f7025150b1c4
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 692a20b6c3e88fdfde6296ddadaa8180d1801c16
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413090"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174561"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 产品的最新 .msp 文件列表
 
@@ -44,8 +44,8 @@ ms.locfileid: "47413090"
   
 |.msp 文件名 * * * *|产品 * * * *|非安全发布日期 * * * *|非安全知识库文章 * * * *|安全发布日期 * * * *|安全发布 KB 文章 * * * *|安全 KB 被取代 * * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|access-x-无  <br/> |Access 2016  <br/> |2019 年 11 月 5 日  <br/> |[4475539](https://support.microsoft.com/help/4475539) <br/> |2020 年 8 月 11 日  <br/> |[4484340](https://support.microsoft.com/help/4484340) <br/> |[4484167](https://support.microsoft.com/help/4484167) <br/> | 
-|ace-x-无  <br/> |Office 2016  <br/> |2020 年 6 月 2 日  <br/> |[4484394](https://support.microsoft.com/help/4484394) <br/> |2020 年 8 月 11 日  <br/> |[4484431](https://support.microsoft.com/help/4484431) <br/>|[4484287](https://support.microsoft.com/help/4484287) <br/> |
+|access-x-无  <br/> |Access 2016  <br/> |2019 年 11 月 5 日  <br/> |[4475539](https://support.microsoft.com/help/4475539) <br/> |2020年8月11日  <br/> |[4484340](https://support.microsoft.com/help/4484340) <br/> |[4484167](https://support.microsoft.com/help/4484167) <br/> | 
+|ace-x-无  <br/> |Office 2016  <br/> |2020 年 6 月 2 日  <br/> |[4484394](https://support.microsoft.com/help/4484394) <br/> |2020年8月11日  <br/> |[4484431](https://support.microsoft.com/help/4484431) <br/>|[4484287](https://support.microsoft.com/help/4484287) <br/> |
 |acewss-x-无  <br/> |Office 2016  <br/> |2017年11月7日  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |图表-x-无  <br/> |Office 2016  <br/> |2020 年 6 月 2 日  <br/> |[4484171](https://support.microsoft.com/help/4484171) <br/> |2018 年 4 月 10 日  <br/> |[4018319](https://support.microsoft.com/help/4018319) <br/> |[4011095](https://support.microsoft.com/help/4011095) <br/> |
 |约定-x-无  <br/> |Office 2016  <br/> |不适用  <br/> |不适用  <br/> |2017 年 9 月 12 日  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
@@ -87,7 +87,7 @@ ms.locfileid: "47413090"
 |otkruntimertl-x-无  <br/> |Office 2016  <br/> |不适用  <br/> |不适用  <br/> |2016 年 3 月 8 日  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |不适用  <br/> |
 |outexum-x-无  <br/> |Office 2016  <br/> |2019 年 8 月 6 日  <br/> |[4464535](https://support.microsoft.com/help/4464535) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |outlfltr-x-无  <br/> |Office 2016  <br/> |2016年8月2日  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|outlook-x-无  <br/> |Outlook 2016  <br/> |2020 年 9 月 1 日  <br/> |[4484511](https://support.microsoft.com/help/4484511) <br/> |2020 年 8 月 11 日  <br/> |[4484475](https://support.microsoft.com/help/4484475) <br/>|[4484433](https://support.microsoft.com/help/4484433) <br/>|
+|outlook-x-无  <br/> |Outlook 2016  <br/> |2020 年 9 月 1 日  <br/> |[4484511](https://support.microsoft.com/help/4484511) <br/> |2020年8月11日  <br/> |[4484475](https://support.microsoft.com/help/4484475) <br/>|[4484433](https://support.microsoft.com/help/4484433) <br/>|
 |全新-x-无  <br/> |Office 2016  <br/> |2016 年 6 月 7 日  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |powerpoint-x-无  <br/> |PowerPoint 2016  <br/> |2020 年 5 月 5 日  <br/> |[4484337](https://support.microsoft.com/help/4484337) <br/> |2020 年 4 月 14 日  <br/> |[4484246](https://support.microsoft.com/help/4484246) <br/> |[4484166](https://support.microsoft.com/help/4484166) <br/> |
 |ppaddin-x-无  <br/> |Office 2016  <br/> |2017年12月5日  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |

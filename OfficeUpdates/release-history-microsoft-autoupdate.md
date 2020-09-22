@@ -1,20 +1,20 @@
 ---
 title: Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 621874246e5c7e31c4929f10540b622299a342dd
-ms.sourcegitcommit: 0b73dd4daece14e061c1d29dbb6486367c0b5621
+ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47947158"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174631"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -166,7 +166,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - 使用 SSD 的 MacOS 计算机将体验到更快的更新，并可忽略因更新导致的应用停机时间。
 
 
-参见 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0984)
+参见 [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **MAU 更新链接：**
 
