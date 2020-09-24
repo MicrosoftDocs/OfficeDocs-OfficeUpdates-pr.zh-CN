@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100194"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222478"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -32,6 +32,51 @@ ms.locfileid: "48100194"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2008-september-22"></a>版本 2008：9 月 22 日
+*版本 2008（内部版本 13127.20508）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：在冻结工作表首行后使用快速分析时，Excel 可能会崩溃。
+
+
+- 修复了以下问题：如果工作簿包含使用 IFNA() 的公式，则可能导致有关损坏的工作簿的警告。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了以下问题：用户单击角落的“X”无法关闭共享日历。
+
+
+- 解决附件上传的性能问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了导致 PowerPoint 应用崩溃的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 客户报告的文本对齐实时预览崩溃。 7 月分支最常出现的崩溃。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了“样式库”对话框的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了使用 GIF/动画模型 3D 时空闲的高 CPU 使用率
 
 
 
@@ -857,7 +902,7 @@ ms.locfileid: "48100194"
 *版本 2003 （内部版本 12624.20466）*
 * 各种 bug 和性能修补程序。
 
-## <a name="version-2003-april-14"></a>版本 2003：4 月 14 日
+## <a name="version-2003-april-14"></a>版本 2003：4 月14 日
 *版本 2003（内部版本 12624.20442）*
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
@@ -1233,6 +1278,7 @@ ms.locfileid: "48100194"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|生产| |16.0.13127.20408|2008 年 9 月 9 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13127.20296|2008 年 8 月 31 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20460|2007 年 8 月 25 日版|)
