@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 0302068c774aa7bd7556345fe5cb907bc21738ca
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 1c55b9a3b85ca625f1d2157496d76bf98c724d85
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942781"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222468"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -36,7 +36,7 @@ ms.locfileid: "47942781"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2008<br/>|13127.20408<br/>|2020 年 9 月9 日<br/>|版本 2009 已发布<br/>|
+|当前频道<br/>|2008<br/>|13127.20508<br/>|2020 年 9 月 22 日<br/>|版本 2009 已发布<br/>|
 |每月企业频道<br/>|2007<br/>|13029.20534<br/>|2020 年 9 月 8 日<br/>|2020 年 11 月 10 日<br/>|
 |每月企业频道<br/>|2006<br/>|13001.20648<br/>|2020 年 9 月 8 日<br/>|2020 年 10 月 13 日<br/>|
 |半年企业频道（预览）<br/>|2008<br/>|13127.20408<br/>|2020 年 9 月 8 日<br/>|2021 年 3 月 9 日<br/>|
@@ -53,6 +53,7 @@ ms.locfileid: "47942781"
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020 年|9 月 22 日|[版本 2008（内部版本 13127.20508）](current-channel.md#version-2008-september-22)| | | |
 |2020 年|9 月 9 日|[版本 2008（内部版本 13127.20408）](current-channel.md#version-2008-september-09)| | | |
 |2020 年|9 月 8 日| |[版本 2007（内部版本 13029.20534）](monthly-enterprise-channel.md#version-2007-september-08)<br/>[版本 2006（内部版本 13001.20648）](monthly-enterprise-channel.md#version-2006-september-08)|[版本 2008（内部版本 13127.20408）](semi-annual-enterprise-channel-preview.md#version-2008-september-08)|[版本 2002（内部版本 12527.21104）](semi-annual-enterprise-channel.md#version-2002-september-08)<br/>[版本 1908（内部版本 11929.20946）](semi-annual-enterprise-channel.md#version-1908-september-08)|
 |2020 年|8 月 31 日|[版本 2008（内部版本 13127.20296）](current-channel.md#version-2008-august-31)| | | |
