@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: dffa5844311575083938e0e521280c0dcae6c7dd
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222478"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297165"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -32,6 +32,69 @@ ms.locfileid: "48222478"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2009-september-28"></a>版本 2009：9 月 28 日
+*版本 2009 (内部版本 13231.20262)*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **使用数据类型从 Power BI 获取组织数据：** 从 Power BI Excel 数据类型现在推出 Office 365 E5/A5 或 Microsoft 365 E5/A5 的组织中的预览体验成员。 获取所需信息并轻松刷新，这对许多日常工作流至关重要。 我们将为你提供从 Power BI 到 Excel 中的数据类型的公司或组织信息的访问权限，这将扩大你在电子表格中引入链接信息的能力。 [了解更多](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
+
+- **创建用于公式的变量：** 通过 LET 函数改进性能、可读性和可组合性。 此功能允许你在新的或预先存在的公式中创建已命名的变量。 [了解更多](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[博客文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看详细信息
+
+### <a name="outlook"></a>Outlook
+
+- **自动展开联机存档搜索：** 启用自动展开联机存档搜索
+
+- **适用于 Outlook 的新个人资料卡片：** 适用于 Outlook 的新个人资料卡片，包括更好的“组织”视图，并且与 Outlook Web 的卡样式相匹配。
+
+### <a name="teams"></a>Teams
+
+- **在 Microsoft Teams 中共享文件：** [了解更多](https://docs.microsoft.com/zh-CN/MicrosoftTeams/sharing-files-in-teams)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了以下问题：当主题行为空白时，某些自动生成的电子邮件将发送空白正文。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修复在包含大量特定数据对象类型 (E2o) 的文件上导致共同创作慢的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：如果你正在运行事件代码并尝试通过 “任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了“样式库”对话框的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更改解决了单击“导出到动态 GIF” 功能的“导出”按钮后，并未成功导出的问题。
+
+
+- 此更改解决了“压缩图片”对话框不保留某些用户设置的问题。
 
 
 
@@ -1278,6 +1341,7 @@ ms.locfileid: "48222478"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|生产| |16.0.13127.20408|2008 年 9 月 9 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13127.20296|2008 年 8 月 31 日版|)

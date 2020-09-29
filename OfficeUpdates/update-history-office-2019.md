@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: 47a880af474186502d897357ed089050f84c1bba
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: facdcf576b69d4736fd6d889b2df014e9959c0c7
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222448"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297135"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -84,12 +84,12 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 9 月 28 日|版本 2009（内部版本 13231.20262）| |
 |2020 年 9 月 22 日|版本 2008（内部版本 13127.20508）| |
 |2020 年 9 月9 日|版本 2008（内部版本 13127.20408）|请参阅 [安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 8 月 31 日|版本 2008（内部版本 13127.20296）| |
 |2020 年 8 月 25 日|版本 2007（内部版本 13029.20460）| |
 |2020 年 8 月 11 日|版本 2007（内部版本 13029.20344）|请参阅 [安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|2020 年 7 月 30 日|版本 2007（内部版本 13029.20308）  |各种 Bug 和性能修补程序。  <br/>  |
 
 
 [//]: # (请勿删除零售表结尾)
@@ -103,6 +103,7 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 7 月 30 日|版本 2007（内部版本 13029.20308）  |各种 Bug 和性能修补程序。  <br/>  |
 |2020 年 7 月 28 日|版本 2006（内部版本 13001.20498）  |各种 Bug 和性能修补程序。  <br/>  |
 |2020 年 7 月 14 日|版本 2006（内部版本 13001.20384）  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1458) <br/>|
 |2020 年 6 月 30 日|版本 2006（内部版本 13001.20266）  |各种 Bug 和性能修补程序。  <br/>  |
