@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: c814f4877fe57ce57136626277f281fcbadc6b73
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
+ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100204"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276443"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,75 @@ ms.locfileid: "48100204"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2010-september-25"></a>版本 2010：9 月 25 日
+*版本 2010（内部版本 13318.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 创建数据类型：** 使用任何数据源中的 Power Query 创建丰富数据类型
+
+### <a name="outlook"></a>Outlook
+
+- **任务的用户体验更新：** 任务项的可视刷新
+
+- **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。
+
+### <a name="word"></a>Word
+
+- **Microsoft 编辑器窗格获取 Word 桌面版中的更新：** 我们已升级当前体验，在 Word 桌面版 客户端中使用“编辑器”窗格。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修复了加载查询/关系窗口时，未正确设置滚动条位置的问题。
+
+
+- 修复了“添加表格”任务窗格未正确显示包含“&”的名称的问题。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了多级分类手动间隔未在图表中运行的问题。
+
+
+- 修复了在刷新 OLAP 数据透视表时，可能会导致挂起的问题。
+
+
+- 修复了向用于数据验证的表格添加时，未更新工作簿中的所有工作表的选项。
+
+
+### <a name="onenote"></a>OneNote
+
+- 修复了 OneNote 不对自定义主题提供画布中的高对比度颜色的问题。
+
+
+- 修复了将鼠标悬停在笔记本颜色选择器中的绿色颜色上时，弹出窗口显示“红色粉笔”的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了以下问题：当用户将源路径更改为本地 OneDrive 文件夹时，链接的 excel 图表出现错误地更改为 excel 工作表。
+
+
+### <a name="word"></a>Word
+
+- 修复了无法按预期打开已启用工作流文件的链接的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-september-18"></a>版本 2010：9 月 18 日
 *版本 2010 (内部版本 13312.20006)*
@@ -1445,6 +1514,7 @@ ms.locfileid: "48100204"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13301.20004|version-2010-september-04|)
@@ -1454,5 +1524,4 @@ ms.locfileid: "48100204"
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13127.20002|2008 年 7 月 31 日版|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13117.20000|version-2008-july-24|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (不修改管理中心元数据内容结束)
