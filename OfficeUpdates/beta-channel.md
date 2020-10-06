@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
-ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
+ms.openlocfilehash: fd80f9a2f901e69f8bc45d55add2c48aedb98860
+ms.sourcegitcommit: bd82ba6a5c6eaa151068e633cde0f7cdfc5877ea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276443"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48340727"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,78 @@ ms.locfileid: "48276443"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2010-october-02"></a>版本 2010：10 月 2 日
+*版本 2010（内部版本 13328.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用“高级”对话框创建数据类型：** 在“高级”对话框中，可手动选择合并所创建数据类型的列。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="onenote"></a>OneNote
+
+- 修复了用户无法从 OutSpace 文件 > 信息中的文本框选择和复制笔记本 URL 的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了以下问题：当主题为空白时，自动生成的电子邮件将发送空白正文。
+
+
+- 修复了为文件夹缓存错误的文件夹 GUID 的问题。
+
+
+- 当用户将电子邮件地址和显示名称复制并粘贴到收件人字段时，该电子邮件地址始终不会被正确分析，并导致出现有关电子邮件地址无效的警告。  已对其进行修复，以便正确分析名称和电子邮件地址，所以不会再显示该警告。
+
+
+- 修复了联机共享文件夹未返回父文件夹名称的问题。 并非返回失败，而是返回一个空路径，该路径错误地转到主帐户。
+
+
+- 修复了从只读预览窗格中重新打开草稿后启用修订的问题。
+
+
+- 修复了“另存为”选项不可用于经典附件的问题。
+
+
+- 修复了替代策略时为用户提供自定义对齐文本方法的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了导出到 PDF 时 PowerPoint 未导出矩形项目符号的问题。
+
+
+- 修复了以下问题：如果位于最后一张幻灯片，并在按“结束会话”后、摘要显示前轻扫到下一张幻灯片，则“结束会话”对话框也会显示在“摘要”页面上。
+
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：如果将“分组依据”应用于“资源使用状况”或“工作表视图”，然后插入一列，Project 可能崩溃。
+
+
+- 修复了以下问题：如果你有带公式的自定义字段且使用挣值，你可能会注意到切换视图和打开项目/任务详细信息时的性能延迟。
+
+
+- 修复了以下问题：如果尝试多次添加相同项目且 AttachToSources 设置为 False，ConsolidateProjects VBA 方法可能失败。
+
+
+- 修复了以下问题：如果你正在运行事件代码并尝试通过 “任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-september-25"></a>版本 2010：9 月 25 日
 *版本 2010（内部版本 13318.20000）*
@@ -1514,6 +1586,7 @@ ms.locfileid: "48276443"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|预览体验计划| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13304.20000|version-2010-september-11|)
@@ -1523,5 +1596,4 @@ ms.locfileid: "48276443"
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13127.20002|2008 年 7 月 31 日版|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (不修改管理中心元数据内容结束)
