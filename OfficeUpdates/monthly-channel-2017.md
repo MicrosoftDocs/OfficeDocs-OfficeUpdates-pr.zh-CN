@@ -1,8 +1,8 @@
 ---
 title: 2017中的每月频道发布的发行说明
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关 Office 365 专业增强版的每月频道发布的发行说明2017
-ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e08e53d617cf74329210e0f758b2c440995ca2f5
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614902"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369900"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017中的每月频道发布的发行说明
 
@@ -100,10 +100,10 @@ ms.locfileid: "42614902"
 -   修复了以下问题：在使用可访问事件观察器 (AccEvent.exe) 进行监视时，切换文件夹导致 Outlook 故障。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了对基于 Flash Player 的 YouTube 嵌入代码进行引用导致打开新窗口播放视频的问题。旧嵌入代码现已升级以引用基于 HTML5 的 YouTube 视频，以便正确播放这些视频。
+-   修复了以下问题：引用基于 Flash Player 的 YouTube 嵌入代码，导致打开新窗口来播放视频。旧嵌入代码现已升级为，引用基于 HTML5 的 YouTube 视频，以便正确就地播放这些视频。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了在动态 DPI 环境下 Office 外接程序缩放的问题。
+-   修复了以下问题：在动态 DPI 环境下 Office 加载项存在的缩放问题。
 -   修复了以下问题：即使当前安装了 Office 365 专业增强版，Office 配置服务提供程序 (CSP) 的 CurrentStatus 节点也会返回空字符串。
 -   修复了导致 .box 文件格式更改的问题，这些更改会影响安装在同一台计算机上的旧版 Office 的功能，因为 .box 文件在同一台计算机上的所有 Office 应用版本之间共享。
 
@@ -136,10 +136,10 @@ ms.locfileid: "42614902"
 -   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解更多](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **数字铅笔：** 使用我们新的铅笔纹理记录或勾画创意灵感。 只需倾斜支持的数字铅笔即可绘制底纹。
+-   **数字铅笔：** 使用我们新的铅笔纹理记录或勾画创意灵感。只需倾斜支持的数字铅笔即可绘制底纹。
 -   **发布到 Microsoft Stream：** 通过使用 Microsoft Stream 在组织中更为安全地将演示文稿作为视频进行共享。 [更多信息](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
 -   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
@@ -560,7 +560,7 @@ ms.locfileid: "42614902"
 -   修复了在成功加入会议前空白会话窗口无法显示的问题。
 -   修复了以下问题：如果标题字段为空，则联系人卡片中的部门字段信息在搜索结果中为空。
 -   修复了以下问题：防火墙规则导致从本地迁移到在线环境的用户登录失败。
--   添加了新的 DWORD 注册表项以修复以下问题：当用户登录到执行 LyncAutoD 的外部网络上的客户端时，客户端将 OAuthUsed 注册表项重置为 False。若要修复此问题，请将 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的值设置为 1。
+-   添加了新的 DWORD 注册表项以修复以下问题：当用户登录到执行 LyncAutoD 的外部网络上的客户端时，客户端将 OAuthUsed 注册表项重置为 False。 若要解决此问题，请将 "HKEY \_ 当前 \_ 用户 \\ 软件 \\ Microsoft \\ Office \\ 16.0 \\ Lync \\ \<SipID\> " 下的 "EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket" 的值设置为1。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 - **手写笔自定义：** 选择手写笔和荧光笔墨迹书写的个人设置。自定义设置在所有 Windows 电脑上可用。
@@ -601,7 +601,7 @@ ms.locfileid: "42614902"
 -   **共享查询**：可以将任意查询定义导出到 Office 数据库连接 (ODC) 文件中，然后跨工作簿共享或与其他人共享。
 -   **加载数据：** 可以将查询中的数据直接加载到数据透视表或数据透视图中，而无需将数据保存到数据模型中。
 -   **“获取和转换数据”改进：** 在“查询编辑器”中，可以通过提供示例值创建新列。在输入过程中，Excel 会检测所需的转换，然后显示新列的预览效果。
--   **Windows 信息保护（WIP）支持：**    Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：“合并后居中”对分组的工作表无效。
@@ -616,7 +616,7 @@ ms.locfileid: "42614902"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **视频隐藏式字幕：** 可以在视频中添加隐藏式字幕，使其更易于访问。 [更多信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **设计器改进：** 设计器现在对幻灯片中添加的图表提供设计灵感建议。
--   **Windows 信息保护（WIP）支持：**    PowerPoint 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   PowerPoint 现在是一个智能型应用程序，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
 -   修复了“创建项目网站”对话框，使其能够显示网站的正确位置。这样，在 Project Online 中，每个企业项目模板 (EPT) 都有自己的项目网站 URL。
@@ -646,7 +646,7 @@ ms.locfileid: "42614902"
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **通过“编辑器”窗格增强了书写帮助：** “编辑器”窗格可用于提供高级拼写、语法和写作风格建议。对辅助技术的支持已经过改进，可以访问此窗格。
 -   **替换文字创建：** 基于云的服务在文档中自动生成图片可选文字（替换文字）。
--   **Windows 信息保护（WIP）支持：**    Word 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Word 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
 
 ## <a name="version-1704-june-1"></a>版本1704：6月1日
 *版本 1704（内部版本 8067.2157）*
@@ -667,7 +667,7 @@ ms.locfileid: "42614902"
 -   **个性化设置默认的数据透视表布局：** 以你喜欢的方式设置数据透视表，并在每次创建新的数据透视表时从该布局开始。 [详细信息](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
 -   **增强的数据导入功能：** 可从各种源轻松导入并形成数据。通过“查询和连接”侧窗格管理工作簿查询和连接，并通过 ODC 文件与他人共享查询。 [更多信息](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
 -   **“获取和转换”改进：** 用户可以通过示例创建新列，并将表列拆分为行。现在可以更轻松地为 SAP HANA 指定参数，以及进行数据分组了。
--   **Centralized deployment of add-ins**: Admins can deploy and update add-ins to users or groups from the Office 365 admin center. [More information](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **外接程序的集中式部署**：管理员可以从 Office 365 管理中心将加载项部署并更新到用户或组。 [更多信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **快速访问工具栏自定义：** 可将“下标”和“上标”图标添加至快速访问工具栏。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
@@ -745,7 +745,7 @@ ms.locfileid: "42614902"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
 -   **“获取和转换”改进：** 使用查询编辑器拆分列时自动检测分隔符字符，选择要与合并二进制数据一起使用的示例文件，并指定使用 DB2 连接器时要连接的包集合。
--   **Dubai font:** Font family that supports both Western European languages as well as the major languages that use the Arabic script. [More information](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
+-   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -934,7 +934,7 @@ ms.locfileid: "42614902"
 -   修复了以下问题：工作分解结构 (WBS) 重新编号故障。
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
--   **Windows 通知样式：** 更改了传入呼叫和对话的通知外观。 [详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
+-   **Windows 通知样式：** 更改了传入呼叫和对话的通知外观。 [更多信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
 -   **咨询式转移：** 在呼叫中，在将呼叫转移到该用户之前，通过 IM 或呼叫咨询另一个用户。 [详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麦克风通知：** 当操作系统中的麦克风静音或麦克风不拾音时，在对话窗口中显示通知。
 
@@ -987,7 +987,7 @@ ms.locfileid: "42614902"
 *版本 1612（内部版本 7668.2066）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **对共享文件做出的更改** 查看共享文档的更改人，并还原旧版文档。 [详细信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **对共享文件做出的更改** 查看共享文档的更改人，并还原旧版文档。 [更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 -   **使用触笔选择和更改对象：** 使用数字触笔捕捉对象句柄，以执行调整大小、旋转、移动等操作。
 -   **带笔按钮的套索选择：** 无需访问功能区，即可使用套索选择墨迹带的支持数字触笔按钮。
 -   **改进了数据转换和连接性：** 现在支持百分比数据类型，并改进了二进制组合和函数创作体验。
@@ -1043,7 +1043,7 @@ ms.locfileid: "42614902"
 -   修复了以下问题：如果使用 Polycom CX100 设备，通话时检测不到麦克风。
 -   修复了以下问题：在 IM 消息中单击 \\\\servername 或 file:// 等链接会看到错误消息，而不是打开相应的位置。
 -   修复了以下问题：在使用基于位置的路由的虚拟桌面基础结构 (VDI) 环境中，用户无法拨打或接听 PSTN 呼叫，因为服务器认为用户的位置对 PSTN 呼叫无效。
--   将提醒状态设置为“请勿打搅”或“正在演示”的用户有未阅读消息的电子邮件的主题行从“错过与 \<name\> 的对话”更改为“\<Name\> 在 Skype for Business 中向你发送了消息”。
+-   当用户的状态设置为 "请勿打扰" 或 "正在进行演示" 时，请更改 "缺少与 ' 的会话 \<name\> 向 \<Name\> 您发送了 Skype for business 中的邮件" 中的未送达邮件的主题行。
 -   开始在设备上捕获首次登录的时间戳作为 [统计数据的](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 一部分，以帮助确定登录可靠性趋势。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
@@ -1065,7 +1065,7 @@ ms.locfileid: "42614902"
 ## <a name="version-1611-january-4"></a>版本1611：1月4日
 *版本 1611（内部版本 7571.2109）*
 
-注意： Microsoft 安全公告[MS17-002](https://technet.microsoft.com/library/security/ms17-002)中涵盖的安全更新不适用于此通道版本中的 Word 版本。
+注意： Microsoft 安全公告 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 中涵盖的安全更新不适用于此通道版本中的 Word 版本。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：在另存为 CSV 或 CSV UTF-8 时，无法正确导出包含文本和双引号的单元格值。

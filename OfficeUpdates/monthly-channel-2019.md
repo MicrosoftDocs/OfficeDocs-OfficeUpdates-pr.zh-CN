@@ -1,20 +1,20 @@
 ---
 title: 有关 2019 年每月频道发行的发行说明
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 88dca91031e19422e076e50674d0ada3968af135
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565054"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369930"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>有关 2019 年每月频道发行的发行说明
 
@@ -22,12 +22,12 @@ ms.locfileid: "44565054"
 
  > [!NOTE]
 >- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到每月频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
+>- Office 365 专业增强版现有安装的 Microsoft Teams - 从 7 月初开始，Office 365 专业增强版（和 Office 365 商业版）的更新将包含 Microsoft Teams。  将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息, 请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
 *版本 1911（内部版本 12228.20364）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -119,7 +119,7 @@ ms.locfileid: "44565054"
 ## <a name="version-1910-november-12"></a>版本 1910：11 月 12 日
 *版本 1910（内部版本 12130.20344）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -179,7 +179,7 @@ ms.locfileid: "44565054"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **在 Office 365 专业增强版的现有安装上安装 Microsoft Teams：** 从 6 月底开始，我们将在更新这些安装时将 Microsoft Teams 包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅使用 Office 365 专业增强版部署 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
+- **在 Office 365 专业增强版的现有安装上安装 Microsoft Teams：** 从 6 月底开始，我们将在更新这些安装时将 Microsoft Teams 包含在 Office 365 专业增强版（和 Office 365 商业版）的现有安装中。 将添加 Teams 的日期取决于所使用的更新频道。 有关详细信息，请参阅使用 Office 365 专业增强版部署 Microsoft Teams。 [了解更多](https://docs.microsoft.com/deployoffice/teams-install)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -222,7 +222,7 @@ ms.locfileid: "44565054"
 ## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日
 *版本 1909（内部版本 12026.20320）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -334,7 +334,7 @@ ms.locfileid: "44565054"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908（内部版本 11929.20300）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -400,7 +400,7 @@ ms.locfileid: "44565054"
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907（内部版本 11901.20218）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 
@@ -454,7 +454,7 @@ ms.locfileid: "44565054"
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906（内部版本 11727.20244）*
 
-[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 
@@ -520,7 +520,7 @@ ms.locfileid: "44565054"
 
 ## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
 *版本 1905（内部版本 11629.20246）*
-<br/>[此处](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)列出安全更新
+<br/>[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 

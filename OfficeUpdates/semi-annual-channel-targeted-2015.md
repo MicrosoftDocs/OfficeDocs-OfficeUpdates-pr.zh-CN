@@ -1,33 +1,33 @@
 ---
-title: 2015中的半年频道 (定向) 发布的发行说明
-ms.author: andrewmo
+title: 2015中针对半年频道 (目标) 版本的发行说明
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/8/2015
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供针对 Office 365 专业增强版的半年频道 (定向) 发布的发行说明2015
-ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: 为 IT 专业人士提供有关半年频道 (目标) 版本 for Office 365 专业增强版 in 2015 的发布说明
+ms.openlocfilehash: 45fc19b81f2d207c7abf42e773c98b359701eaca
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439137"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370100"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015中的半年频道 (定向) 发布的发行说明
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015中针对半年频道 (目标) 版本的发行说明
 
-这些发行说明提供了有关在2015中的 Office 365 专业增强版的半年频道 (定向) 更新中包含的新功能、安全更新和非安全更新的信息。
+这些发行说明提供了有关半年频道 (目标) 更新到2015中的 Office 365 专业增强版的新功能、安全更新和非安全更新的信息。
  
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 半年频道 (定向) 在9月2017之前先为延期频道命名为第一版。
+> - 半年频道 (目标) 在9月2017之前为延期频道命名为第一版。
 
 
-## <a name="version-1509-december-8"></a>版本 1509:12 月8日
+## <a name="version-1509-december-8"></a>版本1509：12月8日
 *版本 1509（内部版本 6001.1043）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -56,7 +56,7 @@ ms.locfileid: "32439137"
 
 
 
-## <a name="version-1509-november-10"></a>版本 1509:11 月10日
+## <a name="version-1509-november-10"></a>版本1509：11月10日
 *版本 1509（内部版本 6001.1038）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
@@ -125,7 +125,7 @@ ms.locfileid: "32439137"
 
 
 
-## <a name="version-1509-october-21"></a>版本 1509:10 月21日
+## <a name="version-1509-october-21"></a>版本1509：10月21日
 *版本 1509（内部版本 6001.1034）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -168,7 +168,7 @@ ms.locfileid: "32439137"
 
 
 
-## <a name="version-1509-october-5"></a>版本 1509:10 月5日
+## <a name="version-1509-october-5"></a>版本1509：10月5日
 *版本 1509（内部版本 4229.1029）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -193,7 +193,7 @@ ms.locfileid: "32439137"
 
 
 
-## <a name="version-1509-september-22"></a>版本 1509: 9 月22日
+## <a name="version-1509-september-22"></a>版本1509：9月22日
 *版本 1509（内部版本 4229.1024）*
 
 这是此分支的初始版本。在此版本中，Office 2016 应用程序首次可用。

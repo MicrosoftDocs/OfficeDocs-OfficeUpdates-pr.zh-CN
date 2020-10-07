@@ -1,30 +1,30 @@
 ---
-title: 2016中的半年频道（定向）发布的发行说明
-ms.author: andrewmo
+title: 2016中针对半年频道 (目标) 版本的发行说明
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供针对 Office 365 专业增强版的半年频道（定向）发布的发行说明2016
-ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+description: 为 IT 专业人士提供有关半年频道 (目标) 版本 for Office 365 专业增强版 in 2016 的发布说明
+ms.openlocfilehash: 2ae156c4e02e56aca8b9ccb562804ade1173ec17
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614917"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370080"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中的半年频道（定向）发布的发行说明
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中针对半年频道 (目标) 版本的发行说明
 
-这些发行说明提供了有关在2016中的 Office 365 专业增强版的半年频道（定向）更新中包含的新功能、安全更新和非安全更新的信息。
+这些发行说明提供了有关半年频道 (目标) 更新到2016中的 Office 365 专业增强版的新功能、安全更新和非安全更新的信息。
  
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 半年频道（定向）在9月2017之前先为延期频道命名为第一版。
+> - 半年频道 (目标) 在9月2017之前为延期频道命名为第一版。
 
 ## <a name="version-1609-december-13"></a>版本1609：12月13日
 *版本 1609（内部版本 7369.2095）*
@@ -48,7 +48,7 @@ ms.locfileid: "42614917"
 -   修复了以下问题：使用 UK 键盘时，按 CTRL+ALT+4 快捷键无法键入欧元符号。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新 (3204068)
+-   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了以下问题：使用 VBA 窗体可能会导致框架的 z 顺序无法正常运行或显示。
@@ -84,7 +84,7 @@ ms.locfileid: "42614917"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **更新了可视元素：** 更改了图标和颜色，以改进辅助功能。 [更多信息](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **将 ui 更新为 "共享"：** 将 ui 元素中的 "现有" 更改为 "共享"，如将 "存在桌面" 更改为 "共享桌面" 和 "显示程序" 以 "共享窗口"。
+-   **将 UI 更新为 "共享"：**  将 UI 元素中的 "现有" 更改为 "共享"，如将 "现有桌面" 更改为 "共享桌面" 和 "显示程序" 以 "共享窗口"。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了以下问题：用户在迁移到 Exchange Online 后，无法通过连接 Exchange 来获取对话历史记录、联系人或语音邮件信息。
@@ -163,7 +163,7 @@ ms.locfileid: "42614917"
 -   修复删除某个表将导致 OneNote 崩溃的问题。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   ** \@提到：** 确保收件人通过将 "@" 符号（后跟人员姓名）添加到 "电子邮件" 或 "日历" 项目的正文中，从而知道要求输入或执行操作。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ 提及：** 确保收件人通过将 "@" 符号（后跟人名）添加到 "电子邮件" 或 "日历" 项目的正文中，来知道他们正在要求输入或执行操作。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **旅游预订和行程的摘要卡：** 使用收件箱和日历中自动创建的摘要卡验证并跟踪旅游预订以及发送行程。 [更多信息](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加照片的微型预览**：将某个照片附加到电子邮件中时，Outlook 在邮件中显示该照片的微型预览。
 -   **恢复已删除的邮件链接：** 在“已删除邮件文件夹”中，“恢复最近从此文件夹删除的邮件”链接将显示在已删除邮件列表的上方，在选中该链接后，将打开“恢复已删除邮件”对话框。
@@ -340,7 +340,7 @@ ms.locfileid: "42614917"
 ### <a name="onenote-security-updates"></a>OneNote：安全更新
 -   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
 -   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
@@ -378,7 +378,7 @@ ms.locfileid: "42614917"
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复在某些情况下 Excel 不通知讲述人单元格值发生更改的问题。
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
 -   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
 
 ### <a name="word-security-updates"></a>Word：安全更新
@@ -611,7 +611,7 @@ ms.locfileid: "42614917"
 
 
 ## <a name="version-1602-april-12"></a>版本1602：4月12日
-*版本1602（内部版本6741.2026）*
+*版本 1602 (内部版本 6741.2026) *
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   Microsoft 安全公告 [MS16-042](https://technet.microsoft.com/library/security/ms16-042)：Microsoft Office 安全更新程序 (3148775)
@@ -743,7 +743,7 @@ ms.locfileid: "42614917"
 -   **Morph 转换：** 在幻灯片之间创建无缝转换并为演示文稿添加动画功能，以便更有效地传达概念和信息。 [详细信息](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 设计器：** 允许您提取内容并自动生成各种想法，使您可从中选择以使您的幻灯片效果更佳的新服务。 [更多信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    此服务需要 Internet 连接。 若要禁用此功能，请[使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030)并启用 PowerPoint 设计器选项设置。 可以在 "用户配置\\管理模板\\" 下找到此策略设置 Microsoft\\Office 2016 Tools |选项 |常规 |服务选项 .。。\\PowerPoint 设计器。
+    此服务需要 Internet 连接。 若要禁用此功能，请 [使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030) 并启用 PowerPoint 设计器选项设置。 可以在 "用户配置管理模板" 下找到此策略设置 \\ \\ Microsoft Office 2016 \\ Tools |选项 |常规 |服务选项 ... \\PowerPoint 设计器。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
 -   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
@@ -834,7 +834,7 @@ ms.locfileid: "42614917"
 -   **“文件”\>“打开”中的排序功能：** 在除 Outlook 之外的所有应用中，可以在“文件”\>“打开”中按名称或修改日期排序。对于 Word、Excel 和 PowerPoint，还可以在“文件”\>“另存为”中进行排序。
 -   **“文件”\>“另存为”中的文件夹浏览功能：** 对于 OneDrive 文件夹、OneDrive for Business 文件夹和计算机，可在 Word、Excel 和 PowerPoint 中的“文件”\>“另存为”中使用完整文件夹导航。
 -   **代理发送选项：** 在 Word 或 PowerPoint 中从“共享”窗格将文档作为附件或 PDF 发送。
--   **插入图片 API：** 使用通用的 Document.setselecteddataasync 库中的[document 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)将图像插入到 Word、Excel 或 PowerPoint 中。 Word JavaScript API 提供主机特定的方法（称为 insertInlinePictureFromBase64()），用于在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx),[ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range对象上设置内联图片。
+-   **插入图片 API：**  使用通用 office.js 库中的 [document.setselecteddataasync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx) 将图像插入到 Word、Excel 或 PowerPoint 中。 Word JavaScript API 提供主机特定的方法（称为 insertInlinePictureFromBase64()），用于在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx),[ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range对象上设置内联图片。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)

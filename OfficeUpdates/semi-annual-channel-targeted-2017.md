@@ -1,30 +1,30 @@
 ---
-title: 2017中的半年频道（定向）发布的发行说明
-ms.author: andrewmo
+title: 2017中针对半年频道 (目标) 版本的发行说明
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/12/2017
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供针对 Office 365 专业增强版的半年频道（定向）发布的发行说明2017
-ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+description: 为 IT 专业人士提供有关半年频道 (目标) 版本 for Office 365 专业增强版 in 2017 的发布说明
+ms.openlocfilehash: 44f6c4b86f88419f97bee4e89b99b5a4a46133c9
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614901"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370090"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017中的半年频道（定向）发布的发行说明
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017中针对半年频道 (目标) 版本的发行说明
 
-这些发行说明提供了有关在2017中的 Office 365 专业增强版的半年频道（定向）更新中包含的新功能、安全更新和非安全更新的信息。
+这些发行说明提供了有关半年频道 (目标) 更新到2017中的 Office 365 专业增强版的新功能、安全更新和非安全更新的信息。
  
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 半年频道（定向）在9月2017之前先为延期频道命名为第一版。
+> - 半年频道 (目标) 在9月2017之前为延期频道命名为第一版。
 
 ## <a name="version-1708-december-12"></a>版本1708：12月12日
 *版本 1708（内部版本 8431.2131）*
@@ -98,7 +98,7 @@ ms.locfileid: "42614901"
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882)：Microsoft Office 内存损坏漏洞
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了在动态 DPI 环境下 Office 外接程序缩放的问题。
+-   修复了以下问题：在动态 DPI 环境下 Office 加载项存在的缩放问题。
 -   修复了以下问题：即使当前安装了 Office 365 专业增强版，Office 配置服务提供程序 (CSP) 的 CurrentStatus 节点也会返回空字符串。
 -   修复了导致 .box 文件格式更改的问题，这些更改会影响安装在同一台计算机上的旧版 Office 的功能，因为 .box 文件在同一台计算机上的所有 Office 应用版本之间共享。
 -   修复了以下问题：在使用共享计算机激活的某些情况下，出现一条错误消息，指示应用遇到错误，阻止其正常工作并询问用户是否运行修复。
@@ -273,7 +273,7 @@ ms.locfileid: "42614901"
 -   修复了在成功加入会议前空白会话窗口无法显示的问题。
 -   修复了以下问题：如果标题字段为空，则联系人卡片中的部门字段信息在搜索结果中为空。
 -   修复了以下问题：防火墙规则导致从本地迁移到在线环境的用户登录失败。
--   添加了新的 DWORD 注册表项以修复以下问题：当用户登录到执行 LyncAutoD 的外部网络上的客户端时，客户端将 OAuthUsed 注册表项重置为 False。若要修复此问题，请将 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的值设置为 1。
+-   添加了新的 DWORD 注册表项以修复以下问题：当用户登录到执行 LyncAutoD 的外部网络上的客户端时，客户端将 OAuthUsed 注册表项重置为 False。 若要解决此问题，请将 "HKEY \_ 当前 \_ 用户 \\ 软件 \\ Microsoft \\ Office \\ 16.0 \\ Lync \\ \<SipID\> " 下的 "EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket" 的值设置为1。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **使用 Excel 数据制作图表：** 通过使用新的数据可视化工具模板，从 Excel 数据自动创建基本流程图或跨职能流程图。 [更多信息](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
@@ -388,7 +388,7 @@ ms.locfileid: "42614901"
 -   **支持大数 (bigint)：** 使用 Access 表中的 Large Number 数据类型来计算大型数字，并链接到使用等效数据类型的外部数据库（如 SQL Server 中的 bigint）或从中导入。 [详细信息](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **Windows 信息保护（WIP）支持：**    Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
 -   **“获取和转换数据”改进：** 在“查询编辑器”中，可以通过提供示例值创建新列。在输入过程中，Excel 会检测所需的转换，然后显示新列的预览效果。
 -   **插入最近使用的链接：** 轻松地将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **个性化设置默认的数据透视表布局：** 以你喜欢的方式设置数据透视表，并在每次创建新的数据透视表时从该布局开始。 [更多信息](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -402,7 +402,7 @@ ms.locfileid: "42614901"
 -   **使用触笔选择和更改对象：** 使用数字触笔捕捉对象句柄，以执行重设大小、旋转、移动等操作。
 -   **地图图表：** 跨地理区域比较值和显示类别。 [更多信息](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 图像：** 在工作簿中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：**  转到插入\>插图\>图标，使用可缩放的矢量图形（SVG）文件的标准库中的图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入图标：**  通过转到插入插图图标 (SVG) 文件的标准库中的图标（通过可缩放的矢量图形） \> \> 。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将工作簿保存到最近访问的文件夹中。
 -   **辅助功能改进：** 改进了支持，可以更好地使用键盘、讲述人和其他辅助技术阅读和编辑工作簿。 [更多信息](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -429,7 +429,7 @@ ms.locfileid: "42614901"
 -   修复了以下问题：显示多个段落时，OneNote 画布会隐藏内容或更新。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **Windows 信息保护（WIP）支持：**    Outlook 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Outlook 现在是一个智能型应用程序，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
 -   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景消除：** 使用任意格式的绘图工具删除图片背景。
@@ -437,7 +437,7 @@ ms.locfileid: "42614901"
 -   **对附件设置权限：** 对于 OneDrive 或 SharePoint 附件，用户可以设置组织中或外部的收件人是否具有对附件的读取或编辑权限。
 -   **可固定的任务窗格：** 在邮箱中切换邮件的同时，可让外接程序任务窗格一直处于打开状态。 [更多信息](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **SVG 图像：** 在电子邮件中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：**  转到插入\>插图\>图标，使用可缩放的矢量图形（SVG）文件的标准库中的图标。  [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入图标：**  通过转到插入插图图标 (SVG) 文件的标准库中的图标（通过可缩放的矢量图形） \> \> 。  [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
@@ -454,13 +454,13 @@ ms.locfileid: "42614901"
 -   修复了当使用高 DPI 从计算机发送邮件时，邮件中的图像变暗的问题。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **Windows 信息保护（WIP）支持：**    PowerPoint 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   PowerPoint 现在是一个智能型应用程序，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
 -   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [更多信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **外接程序的集中式部署**：管理员可以从 Office 365 管理中心将加载项部署并更新到用户或组。 [更多信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景消除：** 使用任意格式的绘图工具删除图片背景。
 -   **SVG 图像：** 在演示文稿中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：**  转到插入\>插图\>图标，使用可缩放的矢量图形（SVG）文件的标准库中的图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入图标：**  通过转到插入插图图标 (SVG) 文件的标准库中的图标（通过可缩放的矢量图形） \> \> 。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **共同创作时的实时键入：** 查看其他人在演示文稿中的工作方式并在键入时查看更改。 [详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将演示文稿保存到最近访问的文件夹中。
 -   **精确创建墨迹形状：** 拖动线段橡皮擦擦去多余墨迹，直到与最近线段交汇之处为止。
@@ -564,7 +564,7 @@ ms.locfileid: "42614901"
 -   **幻灯片片段：** 获取 Visio 绘图的片段，并将其作为幻灯片导出到 PowerPoint。 [更多信息](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **Windows 信息保护（WIP）支持：**    Word 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的内容。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Word 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
 -   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [更多信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **外接程序的集中部署**：管理员可以从 Office 365 管理中心将外接程序部署和更新到用户或组。  [详细信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -572,13 +572,13 @@ ms.locfileid: "42614901"
 -   **并排：** 通过将页面像一叠纸一样并排滑动实现在页面视图下浏览页面。 [详细信息](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **使用触笔选择和更改对象：** 使用数字触笔捕捉对象句柄，以执行重设大小、旋转、移动等操作。
 -   **SVG 图像：** 在文档中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：**  转到插入\>插图\>图标，使用可缩放的矢量图形（SVG）文件的标准库中的图标。  [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入图标：**  通过转到插入插图图标 (SVG) 文件的标准库中的图标（通过可缩放的矢量图形） \> \> 。  [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将文档保存到最近访问的文件夹中。
 -   **借助学习工具提升阅读技能：** 阅读模式中的新命令可提升阅读技能，具体包括调整文字间距、在音节之间显示分隔符和突出显示每个单词（如同在大声朗读文档一样）。 [更多信息](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **形状识别：** 使用“绘图”\>“转换为形状”将绘图自动转换为形状。 [详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 远程代码执行漏洞 
@@ -656,7 +656,7 @@ ms.locfileid: "42614901"
 -   修复了无法取消浮出控件菜单的问题。
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
+-   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了插入超链接时 Excel 可能崩溃的问题。
@@ -820,7 +820,7 @@ ms.locfileid: "42614901"
 -   修复了以下问题：如果使用 Polycom CX100 设备，通话时检测不到麦克风。
 -   修复了以下问题：在 IM 消息中单击 \\\\servername 或 file:// 等链接会看到错误消息，而不是打开相应的位置。
 -   修复了以下问题：在使用基于位置的路由的虚拟桌面基础结构 (VDI) 环境中，用户无法拨打或接听 PSTN 呼叫，因为服务器认为用户的位置对 PSTN 呼叫无效。
--   将提醒状态设置为“请勿打搅”或“正在演示”的用户有未阅读消息的电子邮件的主题行从“错过与 \<name\> 的对话”更改为“\<Name\> 在 Skype for Business 中向你发送了消息”。
+-   当用户的状态设置为 "请勿打扰" 或 "正在进行演示" 时，请更改 "缺少与 ' 的会话 \<name\> 向 \<Name\> 您发送了 Skype for business 中的邮件" 中的未送达邮件的主题行。
 -   开始在设备上捕获首次登录的时间戳作为 [统计数据的](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 一部分，以帮助确定登录可靠性趋势。
 -   修复了以下问题：在 Window 10 版本 1607（亦称为“周年更新”）上，用于共享辅助监视器的选项没有与特定的监视器配置一起显示。
 -   修复了以下问题：如果共享者使用第三方 RDP 实现，Skype for Business 在放大共享内容时发生故障。
@@ -884,7 +884,7 @@ ms.locfileid: "42614901"
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **辅助功能改进：** 改进了支持，可以更好地使用键盘、讲述人和其他辅助技术阅读和编辑文档。 [详细信息](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
 -   **编辑器：** 提供了高级的上下文校对功能，有助于改进撰写内容。 [详细信息](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
--   **Ink replay:** Go to Draw \> Ink Replay to replay handwriting forward and backward to hide and reveal content, provide step-by-step instructions, or better understand the flow of others’ thoughts. [More information](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+-   **墨迹重播：** 依次转到“绘图”\>“墨迹重播”，可以向前和向后重播手写内容以隐藏和显示内容，也可以提供分步说明或更好地理解其他人的思路。 [更多信息](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 -   **用自然笔势进行编辑：** 通过画圈选择内容，以及通过划删除线删除内容，对文档进行更改。 [更多信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 -   **与我共享的内容：** 依次转到“文件”\>“打开”\>“与我共享的内容”，查看其他人与你共享的文档。 [详细信息](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 -   **更改颜色：** 使用“操作说明搜索”来设置字体、突出显示、形状填充等的颜色。 [更多信息](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
@@ -916,7 +916,7 @@ ms.locfileid: "42614901"
 ## <a name="version-1609-january-10"></a>版本1609：1月10日
 *版本 1609（内部版本 7369.2102）*
 
-注意： Microsoft 安全公告[MS17-002](https://technet.microsoft.com/library/security/ms17-002)中涵盖的安全更新不适用于此通道版本中的 Word 版本。
+注意： Microsoft 安全公告 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 中涵盖的安全更新不适用于此通道版本中的 Word 版本。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：使用“编辑度量值”对话框导致 Excel 发生故障。
