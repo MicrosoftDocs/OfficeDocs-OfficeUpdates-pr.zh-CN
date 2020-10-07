@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: 53d2533ecb240ad91b77662f3586804cf68f6cc9
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: fe1e5347280edc069ad769b543b3e259012dceab
+ms.sourcegitcommit: 3687214921cd454de794fe95f38a7bcc6782873a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174521"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367789"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
@@ -25,6 +25,13 @@ ms.locfileid: "48174521"
 > - 本文中的信息不适用于 Microsoft 365 应用。
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="october-6-2020"></a>2020 年 10 月 6 日
+**Office 2016**<br/>
+Microsoft Office 2016 的更新 ([KB4475584](https://support.microsoft.com/help/4475584))<br/>
+Microsoft Project 2016 的更新 ([KB4484502](https://support.microsoft.com/help/4484502))<br/>
+Microsoft Visio 2016 的更新 ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
+Skype for Business 2016 的更新 ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
 ## <a name="september-1-2020"></a>2020 年 9 月 1 日
 **Office 2016**<br/>
@@ -76,15 +83,6 @@ Microsoft Office 2016 的更新 ([KB4484339](https://support.microsoft.com/help/
 
 **Office 2013**<br/>
 Update for Skype for Business 2015 ([KB4484289](https://support.microsoft.com/help/4484289))<br/>
-
-## <a name="april-7-2020"></a>2020 年 4 月 7 日
-
-**Office 2016**<br/>
-Microsoft Office 2016 的更新 ([KB4484101](https://support.microsoft.com/help/4484101))<br/>
-Microsoft Office 2016 的更新 ([KB4484106](https://support.microsoft.com/help/4484106))<br/>
-Microsoft Office 2016 的更新 ([KB4484248](https://support.microsoft.com/help/4484248))<br/>
-Microsoft OneNote 2016 的更新 ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
-Skype for Business 2016 的更新 ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
 
 <br/>
 

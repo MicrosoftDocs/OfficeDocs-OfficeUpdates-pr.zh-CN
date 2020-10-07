@@ -5,16 +5,16 @@ author: v-lislo
 manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
-ms.service: o365-proplus-
+ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 为“预览体验成员 - 慢”受众提供关键新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 6c935826b7492cd10ce1ced58f18b202a32730ae
-ms.sourcegitcommit: 99ac054b629a031233c9bad7b18896b84d2448ea
+description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
+ms.openlocfilehash: 1bafe7aada2fc74fa57c2e5344deb6605db9cebe
+ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293194"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48368705"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -1837,13 +1837,13 @@ ms.locfileid: "48293194"
 [//]: # (请勿移除错误详细信息内容开头)
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>已解决的问题
