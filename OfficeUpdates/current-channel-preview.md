@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 1bafe7aada2fc74fa57c2e5344deb6605db9cebe
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
+ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368705"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "48382726"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,52 @@ ms.locfileid: "48368705"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2009-october-07"></a>版本 2009：10 月 07 日
+* 版本 2009（内部版本 13231.20360）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 创建数据类型：** 使用任何数据源中的 Power Query 创建丰富数据类型
+
+### <a name="outlook"></a>Outlook
+
+- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 <br />在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了在搜索未缓存的共享日历时，导致搜索不返回结果的问题。
+
+
+- 解决了部分用户观察到的 Outlook 在离线状态下意外启动的问题。
+
+
+- 解决了导致代理在其他邮箱中打开共享文件夹时出现间歇性故障的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 安全性修补程序解决了在受保护视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
+
+
+
+[//]: # (请勿移除错误信息内容结尾)
 
 ## <a name="version-2009-september-26"></a>版本 2009：9 月 26 日
 *版本 2009 (内部版本 13231.20262)*
@@ -42,7 +88,6 @@ ms.locfileid: "48368705"
 ### <a name="project"></a>Project
 
 - 修复了以下问题：如果你正在运行事件代码并尝试通过 “任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。
-
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
