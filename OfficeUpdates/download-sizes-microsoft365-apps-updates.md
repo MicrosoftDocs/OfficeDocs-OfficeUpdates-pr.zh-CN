@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: 7d90ba304db45d7f105e37c99b3a24e730f1df32
-ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
+ms.openlocfilehash: 9bc7fd4a134c46d74198afb17147a81a151a4f64
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48297155"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398367"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -35,6 +35,59 @@ ms.locfileid: "48297155"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+## <a name="october-8-2020"></a>2020 年 10 月 8 日
+
+[//]: # (请勿移除内容开头 2020 年 10 月 8 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版为版本 2009（内部版本 13231.20368）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2009（内部版本 13231.20262） <br/> |2020 年 9 月 28 日 <br/> |47<br/> |
+|版本 2008（内部版本 13127.20508） <br/> |2020 年 9 月 22 日 <br/> |361<br/> |
+
+
+[//]: # (请勿移除内容结尾 2020 年 10 月 8 日)
+
+[//]: # (请勿移除预测内容开头)
+
+## <a name="october-8-2020"></a>2020 年 10 月 8 日
+
+
+### <a name="monthly-enterprise-channel"></a>每月企业频道
+
+<i>暂定版本为 2008（内部版本 13127.20618）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2007（内部版本 13029.20534） <br/> |2020 年 9 月 8 日 <br/> |252<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企业频道（预览）
+
+<i>暂定版本为 2008（内部版本 13127.20600）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2008（内部版本 13127.20408） <br/> |2020 年 9 月 8 日 <br/> |48<br/> |
+|版本2002（内部版本12527.20988） <br/> |2020 年 8 月 11 日 <br/> |499<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企业频道
+
+<i>暂定版本为 2002（内部版本 12527.21216）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2002（内部版本 12527.21104） <br/> |2020 年 9 月 8 日 <br/> |72<br/> |
+|版本2002（内部版本12527.20988） <br/> |2020 年 8 月 11 日 <br/> |86<br/> |
+
+
+[//]: # (请勿移除预测内容结尾)
 
 ## <a name="september-28-2020"></a>2020 年 9 月 28 日
 

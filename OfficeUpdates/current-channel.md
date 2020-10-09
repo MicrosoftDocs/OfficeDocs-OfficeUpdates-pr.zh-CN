@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 0cc64d47a2e30409e6186e41a129ea6fb8512076
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: c9d58f34f90b8fac9d765ebc0242c49c169e72ff
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370150"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398397"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -35,7 +35,37 @@ ms.locfileid: "48370150"
 
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿移除错误信息内容结尾)
+
+## <a name="version-2009-october-08"></a>版本 2009：10 月 8 日
+*版本 2009（内部版本 13231.20368）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了在搜索未缓存的共享日历时，导致搜索不返回结果的问题。
+
+
+- 解决了部分用户观察到的 Outlook 在离线状态下意外启动的问题。
+
+
+- 解决了导致代理在其他邮箱中打开共享文件夹时出现间歇性故障的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 安全性修补程序解决了在受保护视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
+
+
+
+[//]: # (请勿移除错误信息内容结尾)
 
 ## <a name="version-2009-september-28"></a>版本 2009：9 月 28 日
 *版本 2009 (内部版本 13231.20262)*
@@ -1304,7 +1334,7 @@ ms.locfileid: "48370150"
 
 - **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -1341,6 +1371,7 @@ ms.locfileid: "48370150"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|生产| |16.0.13127.20408|2008 年 9 月 9 日版|)
@@ -1350,5 +1381,4 @@ ms.locfileid: "48370150"
 [//]: # (|Win32|CC|生产| |16.0.13029.20308|2007 年 7 月 30 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20498|2006 年 7 月 28 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20384|2006 年 7 月 14 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13001.20266|2006 年 6 月 30 日版|)
 [//]: # (不修改管理中心元数据内容结束)
