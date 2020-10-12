@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 594acccf4870613399a10f74233fd5a1b3c68237
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
+ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368695"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48409066"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,79 @@ ms.locfileid: "48368695"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2011-october-09"></a>版本 2011：10 月 9 日
+*版本 2011（内部版本 13406.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **根据查询创建 Power Platform 数据流：** 现在，你可以将查询导出到 Power Query 模板中，这些模板可用于创建新的 Power Platform 数据流
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
+
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许你使背景透明。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：启用了 COM 加载项的 SaveAs 操作后，文件名未更改。
+
+
+- 修复了以下问题：当 Excel 数据模型中存在错误的度量定义时，自动保存失败并显示错误/误导性错误消息。
+
+
+- 我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了以下问题：图像附件快速打印导致错误“Windows 无法找到此图片。 请检查位置，然后重试。”
+
+
+- 修复了某些用户的 Outlook 会以脱机状态启动，需要他们手动选择联机工作的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChagne 事件中的 NewVal 没有正确的值。
+
+
+- 修复了以下问题：如果你在项目网站中有任务列表并对任务列表进行分组，你将无法快速编辑任务列表。
+
+
+- 修复了以下问题：如果通过 CSOM 更新企业资源，可能会丢失资源最大单位。
+
+
+### <a name="word"></a>Word
+
+- 我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了以下问题：SSO API 交互式登录返回错误代码。
+
+
+
+[//]: # (请勿移除错误信息内容结尾)
 
 ## <a name="version-2010-october-02"></a>版本 2010：10 月 2 日
 *版本 2010（内部版本 13328.20000）*
@@ -1586,14 +1659,14 @@ ms.locfileid: "48368695"
 
 
 [//]: # (不修改管理中心元数据内容启动)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13328.20000|version-2010-october-02|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13212.20000|version-2009-august-21|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13205.20000|version-2009-august-14|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13130.20000|version-2009-august-07|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13127.20002|2008 年 7 月 31 日版|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (不修改管理中心元数据内容结束)
