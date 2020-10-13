@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Office 更新
-summary: 获取有关 Office 产品（包括 Microsoft 365 应用版、Office for Mac、Office Server 产品和 Office 永久版本）的功能和更新信息。
+summary: 获取有关 Office 产品（包括 Microsoft 365 应用版、Office for Mac、Office Server 产品以及 Office 永久版本）的功能和更新信息。
 metadata:
   title: Office 更新
-  description: 获取有关 Office 产品（包括 Microsoft 365 应用版、Office for Mac、Office Server 产品和 Office 永久版本）的功能和更新信息。
+  description: 获取有关 Office 产品（包括 Microsoft 365 应用版、Office for Mac、Office Server 产品以及 Office 永久版本）的功能和更新信息。
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -35,9 +35,9 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: 发行说明 (Microsoft 365，2019)
+    - text: 发行说明 (Microsoft 365, 2019)
       url: release-notes-office-for-mac.md
-    - text: 更新历史记录 (Microsoft 365，2019 )
+    - text: 更新历史记录 (Microsoft 365, 2019)
       url: update-history-office-for-mac.md
     - text: 发行说明 (2016)
       url: release-notes-office-2016-mac.md
@@ -49,7 +49,7 @@ landingContent:
     links:
     - text: Exchange Server 更新
       url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
-    - text: Project Server 更新程序
+    - text: Project Server 更新
       url: project-server-updates.md
     - text: SharePoint Server 更新
       url: sharepoint-updates.md
@@ -75,7 +75,7 @@ landingContent:
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
     - text: Microsoft 365 路线图
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: 随时掌握 Microsoft 365 的变更情况
+    - text: 随时掌握 Microsoft 365 的变更信息
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
     - text: Office 博客
       url: https://www.microsoft.com/microsoft-365/blog/office/
