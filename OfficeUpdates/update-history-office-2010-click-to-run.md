@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2010 永久版本的更新历史记录
-ms.openlocfilehash: c95e38617f6a032d6b33b58b6b983bf33f75b6bd
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174691"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453400"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 即点即用产品的更新历史记录
 
@@ -33,7 +33,7 @@ ms.locfileid: "48174691"
 如果要使用这些产品之一，并且想要验证你拥有最新版本，请检查 Office 版本号，并在必要时手动更新 Office。
   
 > [!NOTE]
-> Office 2010 的最新版本是 **14.0.7258.5000**，在2020年9月8日发布。
+> Office 2010 的最新版本是 **14.0.7261.5000**，在10月13日发布了2020。
   
 若要检查你的 Office 版本，请执行下列操作：
   
@@ -57,7 +57,8 @@ ms.locfileid: "48174691"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2020 年|9 月 8 日|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
+|2020|10 月 13 日|14.0.7261.5000 <br/>|[KB 4583495](https://support.microsoft.com/help/4583495)<br/>|
+||9 月 8 日|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
 || 8 月 11 日 <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
 ||7 月 14 日 <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
 ||6 月 9 日  <br/> |14.0.7252.5000  <br/> |[KB 4559448 ](https://support.microsoft.com/help/4559448 ) <br/> |
@@ -66,7 +67,7 @@ ms.locfileid: "48174691"
 ||3 月 11 日  <br/> |14.0.7247.5000  <br/> |[KB 4538705 ](https://support.microsoft.com/help/4538705 ) <br/> |
 ||2 月 11 日  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
 ||1 月 14 日  <br/> |14.0.7244.5000  <br/> |[KB 4536554](https://support.microsoft.com/help/4536554) <br/> |
-|2019 年|12 月 10 日  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
+|2019|12 月 10 日  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
 ||11 月 12 日  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/help/4527848) <br/> |
 ||10 月 8 日  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/help/4522242) <br/> |
 ||9 月 10 日  <br/> |14.0.7237.5000  <br/> |[KB 4517986](https://support.microsoft.com/help/4517986) <br/> |
@@ -78,7 +79,7 @@ ms.locfileid: "48174691"
 ||3 月 12 日  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/help/4491754) <br/> |
 ||2 月 15 日  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/help/4488446) <br/> |
 ||1 月 8 日  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/help/4484800) <br/> |
-|2018 年|11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/help/4469617) <br/> |
+|2018|11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/help/4469617) <br/> |
 ||10 月 9 日  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/help/4464656) <br/> |
 | |9 月 11 日  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/help/4459402) <br/> |
 ||8 月 14 日  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/help/4346823) <br/> |
@@ -89,7 +90,7 @@ ms.locfileid: "48174691"
 ||3 月 13 日  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/help/4090988) <br/> |
 ||2 月 13 日  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
 ||1 月 9 日  <br/> |14.0.7193.5000  <br/> |[KB 4058103](https://support.microsoft.com/help/4058103) <br/> |
-|2017 年  <br/> |12 月 12 日  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
+|2017  <br/> |12 月 12 日  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
 ||11 月 14 日  <br/> |14.0.7190.5001  <br/> |[KB 4051890](https://support.microsoft.com/help/4051890) <br/> |
 ||10 月 10 日  <br/> |14.0.7189.5001  <br/> |[KB 4043461](https://support.microsoft.com/help/4043461) <br/> |
 ||9 月 12 日  <br/> |14.0.7188.5002  <br/> |[KB 4040279](https://support.microsoft.com/help/4040279) <br/> |
