@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: c9d58f34f90b8fac9d765ebc0242c49c169e72ff
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398397"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453320"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -35,7 +35,24 @@ ms.locfileid: "48398397"
 
 
 
-[//]: # (请勿移除错误信息内容结尾)
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2009-october-13"></a>版本 2009：10 月 13 日
+*版本 2009（内部版本 13231.20390）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="project"></a>Project
+
+- 修复了一个问题，即 Project 可能会在打开以特定方式指定了资源分布的文件时发生崩溃。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2009-october-08"></a>版本 2009：10 月 8 日
 *版本 2009（内部版本 13231.20368）*
@@ -1371,6 +1388,7 @@ ms.locfileid: "48398397"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13231.20390|2009 年 10 月 13 日版|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
@@ -1380,5 +1398,4 @@ ms.locfileid: "48398397"
 [//]: # (|Win32|CC|生产 |16.0.13029.20344|2007 年 8 月 11 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20308|2007 年 7 月 30 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13001.20498|2006 年 7 月 28 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13001.20384|2006 年 7 月 14 日版|)
 [//]: # (不修改管理中心元数据内容结束)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: a9301d0f53144a666571e563472f88b3bc5da924
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942799"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453310"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -26,6 +26,210 @@ ms.locfileid: "47942799"
 [//]: # (请勿移除)
 
 
+
+## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
+*版本 2008（内部版本 13127.20638）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **有问题？询问 Excel：** 现在，Excel Ideas 允许您提出有关数据的问题，无需花费时间编写公式（仅英语）。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。  我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+- **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解更多](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 中使用快速投票创建投票：** 轻松创建投票、收集选票和在电子邮件中查看结果 [了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **适用于 Outlook 的新个人资料卡片：** 适用于 Outlook 的新个人资料卡片，包括更好的“组织”视图，并且与 Outlook Web 的卡样式相匹配。 [了解更多](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。  我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+### <a name="word"></a>Word
+
+- **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。  我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 这个问题已经得到解决 - 现在，你可以在 Office 的即点即用应用程序之外使用我们的 ODBC 驱动程序。
+
+
+- 此更改修复了启动“缩放框”（Shift + F2）以编辑文本时可能导致 Access 崩溃的问题。
+
+
+- 此问题现在已解决，应该不会再出现崩溃。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：如果工作簿包含使用 IFNA() 的公式，则可能导致有关损坏的工作簿的警告。
+
+
+- 修复了以下问题：在冻结工作表首行后使用快速分析时，Excel 可能会崩溃。
+
+
+- 修复了用户无法修改数据透视表筛选器的问题，因为它被设置为在 Analysis Services 数据库中已不存在的值。
+
+
+- 解决了某些情况下使用格式刷时 Excel 可能会崩溃的问题。
+
+
+- 修复了 PivotDateFilter API 中“Before”和“After”筛选条件被颠倒的错误。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了用户在答复电子邮件或撰写新电子邮件时收到以下错误的问题，错误为“此网页中的部分文件不在预期位置。 是否仍要下载它们？ 如果确定此网页来自可靠来源，请单击‘是’”
+
+
+- 解决了导致右键单击上下文菜单无法在搜索控件中显示的问题。
+
+
+- 修复了导致用户在使用压缩视图时出现异常的问题。
+
+
+- 修复了导致用户在编辑收件人时偶尔出现崩溃的问题。
+
+
+- 解决了导致“日程安排助理”页面无法显示的问题。
+
+
+- 解决附件上传的性能问题。
+
+
+- 解决了通过选中 "仅下载邮件头" 选项删除来自 POP 帐户的4个或更多电子邮件时导致用户遇到崩溃的问题。
+
+
+- 解决了导致用户在打开云附件时在安全链接页面（而不是试图打开的文档）上看到错误的问题。
+
+
+- 修复了导致用户在与云附件交互时偶尔出现崩溃的问题。
+
+
+- 解决了以下问题：用户单击角落的“X”无法关闭共享日历。
+
+
+- 修复了导致用户无法在添加共享邮箱后连接到公用文件夹的问题。
+
+
+- 解决了导致在某些情况下，无法在代理拒绝会议时将其从经理的日历中删除的问题。
+
+
+- 解决了共享日历改进功能的部分用户无法查看新添加的共享日历的问题。
+
+
+- 解决了导致“打开共享的日历改进项”设置有时无法应用于现有共享日历的问题。
+
+
+- 修复了导致尝试从添加到其个人资料的辅助帐户创建会议请求的用户看不到空白的“发件人：”字段，而是看到自己的电子邮件地址的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了导致 PowerPoint 应用崩溃的问题。
+
+
+- 安全性修补程序解决了在受保护视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。
+
+
+- 此更改解决了单击“导出到动态 GIF”功能的“导出”按钮后，并未成功导出的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了与 SharePoint 任务列表连接的项目的项目完成日期无法更新的问题。
+
+
+- 修复了在资源定义了多个成本费率表时，其余成本有时计算有误的问题。
+
+### <a name="skype"></a>Skype
+
+- 已将跳舞表情符号肤色改为中性。
+
+
+### <a name="visio"></a>Visio
+
+- 客户报告的文本对齐实时预览崩溃。 7 月分支最常出现的崩溃。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了宏 AutoOpen 在 AutoExec 之前运行的问题
+
+
+- 我们修复了“样式库”对话框的问题。
+
+
+- 解决了可能在启动 Word 时导致崩溃的问题。
+
+
+- 我们修复了未使用普通样式更新基准样式的问题。
+
+
+- 我们修复了用户在打开文档时可能遇到崩溃的问题。
+
+
+- 我们修复了以下问题：在调整形状的大小时，用户可能会丢失内容。
+
+
+- 修复了用户打开某些很大的邮件时会遇到崩溃的问题。
+
+
+- 解决了导致用户在答复或撰写新的电子邮件时出现崩溃的问题。
+
+
+- 此更改修复了以下问题：在上一次共同创作会话后，Office 应用程序可能会陷入静默的保存失败状态。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更改解决了启动 Office 应用时由于无法加载 d2d1 而出现的崩溃问题。
+
+
+- 修复了使用 GIF/动画模型 3D 时空闲的高 CPU 使用率
+
+
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2007-october-13"></a>版本 2007：10 月 13 日
+*版本 2007（内部版本 13029.20708）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了 PivotDateFilter API 中“Before”和“After”筛选条件被颠倒的错误。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2007-september-08"></a>版本 2007：9 月 8 日
 *版本 2007（内部版本 13029.20534）*
@@ -636,6 +840,7 @@ ms.locfileid: "47942799"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|MEC|生产|功能|16.0.13127.20638|2008 年 10 月 13 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|生产|功能|16.0.12827.20538|版本-2005-7-14|)

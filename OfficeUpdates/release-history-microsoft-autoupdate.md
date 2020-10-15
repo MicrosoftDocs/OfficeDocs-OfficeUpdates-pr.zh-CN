@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174631"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453181"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,6 +29,27 @@ ms.locfileid: "48174631"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="october-2020-release"></a>2020 年 10 月发布
+
+**发布日期：** 2020 年 10 月 13 日
+
+*Microsoft 自动更新 4.28*
+
+**Bug 修复和增强功能：**
+-   MAU UI：摘要视图现在显示用户需要注意错误
+-   MAU UI 和更新助手现在都会在 72 小时没有操作后自行终止。
+-   MAU UI：现在附带 Windows 菜单
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.28 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+80171D842C59BA3B26A085DD3AB6E63E32102088078848C95AEBECF4C91B0438
+
+<br/><br/>
 
 ## <a name="september-2020-release"></a>2020 年 9 月发布
 
@@ -166,7 +187,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - 使用 SSD 的 MacOS 计算机将体验到更快的更新，并可忽略因更新导致的应用停机时间。
 
 
-参见 [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
+参见 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0984)
 
 **MAU 更新链接：**
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
-ms.openlocfilehash: 194679f529ba4e2471badd8f1938b176b53e2430
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174621"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453290"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office安全更新发布说明
 
@@ -31,6 +31,53 @@ ms.locfileid: "48174621"
  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="october-13-2020"></a>2020 年 10 月 13 日
+当前频道：版本 2009（内部版本 13231.20390）  
+每月企业渠道：版本 2008（内部版本 13127.20638）  
+每月企业渠道：版本 2007（内部版本 13029.20708）  
+半年企业频道（预览）：版本 2008（内部版本 13127.20638）  
+半年企业频道：版本 2002（内部版本 12527.21236）  
+半年企业频道：版本 1908（内部版本 11929.20966）  
+Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21236）  
+Office 2019 零售：版本 2009（内部版本 13231.20390）  
+Office 2016 零售：版本 2009（内部版本 13231.20390）  
+Office 2019 批量许可：版本 1808（内部版本 10367.20048）  
+
+[//]: # (请勿删除安全详细信息内容启动)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2020-16957](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16957)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-16929](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16929)
+-   [CVE-2020-16931](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16931)
+-   [CVE-2020-16932](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16932)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-16947](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16947)
+-   [CVE-2020-16949](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16949)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-16933](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16933)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-16930](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16930)
+-   [CVE-2020-16955](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16955)
+-   [CVE-2020-16928](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16928)
+-   [CVE-2020-16934](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16934)
+-   [CVE-2020-16918](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16918)
+-   [CVE-2020-16954](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16954)
+
+[//]: # (请勿移除安全详细信息内容结尾)
+
+
 
 ## <a name="september-08-2020"></a>2020 年 9 月 8 日
 当前频道：版本 2008（内部版本 13127.20408）  
@@ -49,20 +96,20 @@ Office 2019 批量许可：版本1808（内部版本10366.20016）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1594](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1594)
--   [CVE-2020-1335](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1335)
--   [CVE-2020-1224](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1224)
--   [CVE-2020-1332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1332)
+-   [CVE-2020-1594](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1594)
+-   [CVE-2020-1335](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1335)
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1224)
+-   [CVE-2020-1332](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1332)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1338](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1338)
--   [CVE-2020-1218](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1338)
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1218)
 
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2020-1193](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1193)
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1193)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -86,31 +133,31 @@ Office 2019 批量许可：版本1808（内部版本10364.20059）
 
 ### <a name="access"></a>Access
 
--   [CVE-2020-1582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1582)
+-   [CVE-2020-1582](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1582)
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1495](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1495)
--   [CVE-2020-1498](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1498)
--   [CVE-2020-1496](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1496)
--   [CVE-2020-1497](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1497)
--   [CVE-2020-1494](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1494)
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1496](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1496)
+-   [CVE-2020-1497](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1497)
+-   [CVE-2020-1494](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1494)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2020-1493](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1493)
--   [CVE-2020-1483](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1483)
+-   [CVE-2020-1493](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1493)
+-   [CVE-2020-1483](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1483)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1583](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1583)
--   [CVE-2020-1502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1502)
--   [CVE-2020-1503](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1503)
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1502](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1502)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1503)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2020-1581](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1581)
--   [CVE-2020-1563](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1563)
+-   [CVE-2020-1581](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1581)
+-   [CVE-2020-1563](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1563)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -131,27 +178,27 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20880）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1240](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1240)
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1240)
 
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2020-1349](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1349)
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1349)
 
 ### <a name="project"></a>Project
 
--   [CVE-2020-1449](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1449)
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1449)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1445](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1445)
--   [CVE-2020-1342](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1342)
--   [CVE-2020-1447](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1447)
--   [CVE-2020-1446](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1446)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1446)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2020-1458](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1458)
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1458)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -171,20 +218,20 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20720）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1226](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1226)
--   [CVE-2020-1225](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1225)
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1225)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2020-1229](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1229)
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1229)
 
 ### <a name="project"></a>Project
 
--   [CVE-2020-1322](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1322)
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1322)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2020-1321](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1321)
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1321)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -203,7 +250,7 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20612）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0901](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0901)
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0901)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -221,18 +268,18 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20442）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0906](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0906)
--   [CVE-2020-0979](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0979)
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0979)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-0980](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0980)
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0980)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2020-0760](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0760)
--   [CVE-2020-0991](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0991)
--   [CVE-2020-0961](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0961)
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0760)
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0961)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -251,10 +298,10 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0850)
--   [CVE-2020-0892](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0892)
--   [CVE-2020-0855](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0855)
--   [CVE-2020-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0851)
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0851)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -272,15 +319,15 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0759](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0759)
+-   [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0759)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2020-0696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0696)
+-   [CVE-2020-0696](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0696)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2020-0697](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0697)
+-   [CVE-2020-0697](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0697)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -298,13 +345,13 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0651](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0651)
--   [CVE-2020-0650](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0650)
--   [CVE-2020-0653](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0653)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0653](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0653)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2020-0652](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0652)
+-   [CVE-2020-0652](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0652)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
@@ -318,20 +365,20 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-1464](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1464)
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1464)
 
 ### <a name="powerpoint"></a>PowerPoint
 
--   [CVE-2019-1462](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1462)
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1462)
 
 ### <a name="word"></a>Word
 
--   [CVE-2019-1461](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1461)
+-   [CVE-2019-1461](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1461)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-1400](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1400)
--   [CVE-2019-1463](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1463)
+-   [CVE-2019-1400](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1400)
+-   [CVE-2019-1463](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1463)
 
 ## <a name="november-12-2019"></a>2019 年 11 月 12 日
 每月频道：版本1910（内部版本12130.20344）  
@@ -341,13 +388,13 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-1448](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1448)
--   [CVE-2019-1446](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1446)
+-   [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1448)
+-   [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1446)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-1449](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1449)
--   [CVE-2019-1402](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1402)
+-   [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1449)
+-   [CVE-2019-1402](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1402)
 
 ## <a name="october-08-2019"></a>2019 年 10 月 8 日
 每月频道：版本 1909（内部版本 12026.20320）  
@@ -357,8 +404,8 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-1331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1331)
--   [CVE-2019-1327](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1327)
+-   [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1331)
+-   [CVE-2019-1327](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1327)
 
 ## <a name="september-10-2019"></a>2019 年 9 月 10 日
 每月频道：版本 1908（内部版本 11929.20300）  
@@ -368,13 +415,13 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-1263](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1263)
--   [CVE-2019-1297](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1297)
+-   [CVE-2019-1263](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1263)
+-   [CVE-2019-1297](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1297)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-1246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1246)
--   [CVE-2019-1264](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1264)
+-   [CVE-2019-1246](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1246)
+-   [CVE-2019-1264](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1264)
 
 ## <a name="august-13-2019"></a>2019 年 8 月 13 日
 每月频道：版本 1907（内部版本 11901.20218）  
@@ -385,18 +432,18 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2019-1199](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1199)
--   [CVE-2019-1204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1204)
--   [CVE-2019-1200](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1200)
+-   [CVE-2019-1199](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1199)
+-   [CVE-2019-1204](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1204)
+-   [CVE-2019-1200](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1200)
 
 ### <a name="word"></a>Word
 
--   [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205)
--   [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201)
+-   [CVE-2019-1205](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1205)
+-   [CVE-2019-1201](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1201)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-1155](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1155)
+-   [CVE-2019-1155](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1155)
 
 ## <a name="july-09-2019"></a>2019 年 7 月 9 日
 每月频道：版本 1906（内部版本 11727.20244）  
@@ -407,21 +454,21 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-1112](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1112)
--   [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110)
--   [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111)
+-   [CVE-2019-1112](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1112)
+-   [CVE-2019-1110](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1110)
+-   [CVE-2019-1111](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1111)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)
+-   [CVE-2019-1084](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1084)
 
 ### <a name="skype-for-business"></a>Skype for Business
 
--   [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)
+-   [CVE-2019-1084](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1084)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-1109](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1109)
+-   [CVE-2019-1109](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1109)
 
 ## <a name="june-11-2019"></a>2019 年 6 月 11 日
 每月频道：版本 1905（内部版本 11629.20246）  
@@ -431,8 +478,8 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="word"></a>Word
 
--   [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)
--   [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)
+-   [CVE-2019-1034](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1034)
+-   [CVE-2019-1035](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1035)
 
 ## <a name="may-14-2019"></a>2019 年 5 月 14 日
 每月频道：版本 1904（内部版本 11601.20204）  
@@ -442,12 +489,12 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="word"></a>Word
 
--   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
+-   [CVE-2019-0953](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0953)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
--   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0946)
 
 ## <a name="april-09-2019"></a>2019 年 4 月 9 日
 每月频道：版本 1903（内部版本 11425.20204）  
@@ -457,16 +504,16 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)
+-   [CVE-2019-0828](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0828)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
--   [CVE-2019-0827](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0827)
--   [CVE-2019-0824](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0824)
--   [CVE-2019-0825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0825)
--   [CVE-2019-0826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0826)
--   [CVE-2019-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0801)
+-   [CVE-2019-0822](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0822)
+-   [CVE-2019-0827](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0827)
+-   [CVE-2019-0824](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0824)
+-   [CVE-2019-0825](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0825)
+-   [CVE-2019-0826](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0826)
+-   [CVE-2019-0801](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0801)
 
 ## <a name="march-12-2019"></a>2019 年 3 月 12 日
 本月任何渠道没有安全更新。
@@ -481,16 +528,16 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669)
+-   [CVE-2019-0669](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0669)
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2019-0540](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0540)
--   [CVE-2019-0674](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0674)
--   [CVE-2019-0673](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0673)
--   [CVE-2019-0672](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0672)
--   [CVE-2019-0582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0582)
--   [CVE-2019-0671](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0671)
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0674)
+-   [CVE-2019-0673](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0673)
+-   [CVE-2019-0672](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0672)
+-   [CVE-2019-0582](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0582)
+-   [CVE-2019-0671](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0671)
 
 ## <a name="january-8-2019"></a>2019 年 1 月 8 日
 
@@ -502,15 +549,15 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 
 ### <a name="outlook"></a>Outlook
--   [CVE-2019-0559](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0559)
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0559)
 
 ### <a name="word-security-updates"></a>Word：安全更新 
--   [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561)
--   [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585) 
+-   [CVE-2019-0561](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0561)
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0585) 
  
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新 
--   [CVE-2019-0541](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0541)
--   [CVE-2019-0560](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0560)
+-   [CVE-2019-0541](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0541)
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0560)
 
 ## <a name="december-11-2018"></a>2018 年 12 月 11 日
 每月频道：版本 1811（内部版本 11029.20108）  
@@ -519,18 +566,18 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597)
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627)
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598)
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636)
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587)
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)
 
 ### <a name="powerpoint"></a>PowerPoint
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628)
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)
 
 ## <a name="november-13-2018"></a>2018 年 11 月 13 日
 每月频道：版本 1810（生成号 11001.20108）  
@@ -539,26 +586,26 @@ Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）
 
 ### <a name="excel"></a>Excel：
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574)
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577)
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8574)
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8577)
 
 ### <a name="outlook"></a>Outlook：
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522)
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524)
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558)
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576)
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579)
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582)
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8522)
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8524)
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8558)
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8576)
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8579)
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8582)
 
 ### <a name="project"></a>Project：
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575)
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8575)
 
 ### <a name="skype-for-business"></a>Skype for Business：
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546)
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8546)
 
 ### <a name="word"></a>Word：
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573)
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8573)

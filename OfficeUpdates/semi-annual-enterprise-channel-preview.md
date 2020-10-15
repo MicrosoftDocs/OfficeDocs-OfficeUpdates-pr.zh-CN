@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 224c64a8f12489edd5050be683e477a05369f8c9
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942859"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453390"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>有关 2020 年半年企业频道（预览）发行的发行说明
 
@@ -23,6 +23,79 @@ ms.locfileid: "47942859"
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
+*版本 2008（内部版本 13127.20638）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了 PivotDateFilter API 中“Before”和“After”筛选条件被颠倒的错误。
+
+
+- 修复了用户无法修改数据透视表筛选器的问题，因为它被设置为在 Analysis Services 数据库中已不存在的值。
+
+
+- 修复了以下问题：在冻结工作表首行后使用快速分析时，Excel 可能会崩溃。
+
+
+- 修复了以下问题：如果工作簿包含使用 IFNA() 的公式，则可能导致有关损坏的工作簿的警告。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了以下问题：用户单击角落的“X”无法关闭共享日历。
+
+
+- 解决了导致“打开共享的日历改进项”设置有时无法应用于现有共享日历的问题。
+
+
+- 解决了导致用户在打开云附件时在安全链接页面（而不是试图打开的文档）上看到错误的问题。
+
+
+- 解决附件上传的性能问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此更改解决了单击“导出到动态 GIF”功能的“导出”按钮后，并未成功导出的问题。
+
+
+- 安全性修补程序解决了在受保护视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了用户打开某些很大的邮件时会遇到崩溃的问题。
+
+
+- 我们修复了用户在打开文档时可能遇到崩溃的问题。
+
+
+- 解决了可能在启动 Word 时导致崩溃的问题。
+
+
+- 我们修复了“样式库”对话框的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
+
+
+- 修复了使用 GIF/动画模型 3D 时空闲的高 CPU 使用率
+
+
+- 此更改解决了启动 Office 应用时由于无法加载 d2d1 而出现的崩溃问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-september-08"></a>版本 2008：9 月 8 日
 *版本 2008（内部版本 13127.20408）*
@@ -65,7 +138,7 @@ ms.locfileid: "47942859"
 
 - **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。
 
-- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/zh-CN/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
 
 - **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解更多](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1115,6 +1188,7 @@ ms.locfileid: "47942859"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20638|2008 年 10 月 13 日版|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|2002 年 8 月 11 日版|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.12527.20880|2002 年 7 月 14 日版|)
