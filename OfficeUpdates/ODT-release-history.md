@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 为 IT 专业人士提供 Office 部署工具 (ODT) 的发布历史记录
-ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
+ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174641"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48469991"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的发布历史记录
 
@@ -29,6 +29,12 @@ Office 部署工具 (ODT) 是命令行工具，可用于下载即点即用版本
 
 [下载 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="october-14-2020"></a>2020 年 10 月 14 日
+版本 16.0.13231.20368（setup.exe 版本 16.0.13231.20350）
+- 如果未指定频道，则所有产品都将默认使用每月频道
+- 解决了使用 RemoveMSI 时，某些 Office 2007 产品可能意外阻止安装的问题
+- 增强了从包含其他 DLL 的目录运行 ODT 时的安全性
+- 可靠性和复原能力方面的改进
 
 ## <a name="june-9-2020"></a>2020 年 6 月 9 日
 

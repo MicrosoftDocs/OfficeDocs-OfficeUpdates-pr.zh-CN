@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
+ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453390"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466110"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>有关 2020 年半年企业频道（预览）发行的发行说明
 
@@ -67,6 +67,12 @@ ms.locfileid: "48453390"
 
 
 - 安全性修补程序解决了在受保护视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。
+
+- 我们修复了操作设置对话框中导致 PowerPoint 应用崩溃的问题。
+
+### <a name="visio"></a>Visio
+
+- 修复了导致 Live 预览在文本对齐时崩溃的问题。
 
 
 ### <a name="word"></a>Word
