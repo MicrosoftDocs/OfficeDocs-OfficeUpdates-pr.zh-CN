@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
-ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
+ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
+ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48409066"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48495909"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
-本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access 和 Project 的 Beta 频道内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 注意，我们通常会在一段时间内向 Beta 频道推出功能（有时甚至包括修补程序）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
+This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译。
@@ -30,6 +30,56 @@ ms.locfileid: "48409066"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2011-october-16"></a>版本 2011：10 月 16 日
+* 版本 2011（内部版本 13408.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="outlook"></a>Outlook
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="word"></a>Word
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了一个问题，即用户无法基本身份验证中删除 Microsoft 365 组的日历中的约会。
+
+
+- 我们修复了加载昵称缓存时启动 Outlook 失败的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了一个在内容占位符图标旁边的图片没有工具提示的问题。
+
+
+- 我们已修复了由 pptsx 文件显示的幻灯片保护视图允许对受 IRM 保护的文件进行屏幕截图的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2011-october-09"></a>版本 2011：10 月 9 日
 *版本 2011（内部版本 13406.20000）*
@@ -1659,6 +1709,7 @@ ms.locfileid: "48409066"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13318.20000|version-2010-september-25|)
@@ -1668,5 +1719,4 @@ ms.locfileid: "48409066"
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (不修改管理中心元数据内容结束)
