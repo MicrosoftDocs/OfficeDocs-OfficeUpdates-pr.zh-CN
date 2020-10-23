@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 1ba64e6f8c8c6c4f28784aa7bc32472ee7b7088b
-ms.sourcegitcommit: cffaa3a1571bd422c22e182b1722d2428cb6a6af
+ms.openlocfilehash: bee2186e91336f29f36edde863cbedae082835a8
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473043"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657310"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
 这些版本号和生成号适用于 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本。
 
 > [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 > [!NOTE]
 > - 该表是按发行日期排序的，首先列出最近的发行日期。
@@ -34,7 +34,7 @@ ms.locfileid: "48473043"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2009 年<br/>|13231.20390<br/>|2020 年 10 月 13 日<br/>|版本 2010 已发布<br/>|
+|当前频道<br/>|2009 年<br/>|13231.20418<br/>|2020 年 10 月 21 日<br/>|版本 2010 已发布<br/>|
 |每月企业频道<br/>|2008<br/>|13127.20638<br/>|2020 年 10 月 13 日<br/>|2020 年 12 月 8 日<br/>|
 |每月企业频道<br/>|2007<br/>|13029.20708<br/>|2020 年 10 月 13 日<br/>|2020 年 11 月 10 日<br/>|
 |半年企业频道（预览）<br/>|2008<br/>|13127.20638<br/>|2020 年 10 月 13 日<br/>|2021 年 3 月 9 日<br/>|
@@ -51,7 +51,7 @@ ms.locfileid: "48473043"
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|
+|2020 年|10 月 21 日|[版本 2009（内部版本 13231.20418）](current-channel.md#version-2009-october-21)| | | |
 |2020 年|10 月 13 日|[版本 2009（内部版本 13231.20390）](current-channel.md#version-2009-october-13)|[版本 2008（内部版本 13127.20638）](monthly-enterprise-channel.md#version-2008-october-13)<br/>[版本 2007（内部版本 13029.20708）](monthly-enterprise-channel.md#version-2007-october-13)|[版本 2008（内部版本 13127.20638）](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[版本 2002（内部版本 12527.21236）](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[版本 1908（内部版本 11929.20966）](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020 年|10 月 8 日|[版本 2009（内部版本 13231.20368）](current-channel.md#version-2009-october-08)| | | |
 |2020 年|9 月 28 日|[版本 2009 (内部版本 13231.20262)](current-channel.md#version-2009-september-28)| | | |

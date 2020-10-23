@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: d808192979c1d29053e5782e7ce64d0f144a9de5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453090"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657300"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -85,12 +85,12 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 10 月 21 日|版本 2009（内部版本 13231.20418）| |
 |2020 年 10 月 13 日|版本 2009（内部版本 13231.20390）|请参阅[安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |2020 年 10 月 8 日|版本 2009 (内部版本 13231.20368)| |
 |2020 年 9 月 28 日|版本 2009（内部版本 13231.20262）| |
 |2020 年 9 月 22 日|版本 2008（内部版本 13127.20508）| |
-|2020 年 9 月9 日|版本 2008（内部版本 13127.20408）|请参阅 [安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|2020 年 8 月 31 日|版本 2008（内部版本 13127.20296）| |
+|2020 年 9 月9 日|版本 2008（内部版本 13127.20408）|请参阅[安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 
 
 [//]: # (请勿删除零售表结尾)
@@ -104,6 +104,7 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 8 月 31 日|版本 2008（内部版本 13127.20296）| |
 |2020 年 8 月 25 日|版本 2007（内部版本 13029.20460）| |
 |2020 年 8 月 11 日|版本 2007（内部版本 13029.20344）|请参阅 [安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 7 月 30 日|版本 2007（内部版本 13029.20308）  |各种 Bug 和性能修补程序。  <br/>  |

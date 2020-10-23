@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453320"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657320"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年当前频道更新中。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
@@ -32,6 +32,31 @@ ms.locfileid: "48453320"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2009-october-21"></a>版本 2009：10 月 21 日
+*版本 2009（内部版本 13231.20418）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户无法向其代理授予编辑器权限的问题。
+
+
+- 解决了导致用户在选择搜索结果时遇到应用程序意外终止的问题。
+
+
+- 解决了导致在答复或转发时中文电子邮件的标题不可阅读的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 解决了 Forms 内容加载项在插入后不显示，而要到用户单击另一张幻灯片来使其放映时才显示的问题。
 
 
 
@@ -405,7 +430,7 @@ ms.locfileid: "48453320"
 
 - **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
 
-- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。 [了解更多](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
+- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。 这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。 [了解更多](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
 
 ### <a name="outlook"></a>Outlook
 
@@ -900,7 +925,7 @@ ms.locfileid: "48453320"
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2004-may-04"></a>版本 2004：5 月 4 日
-*版本 2004（生成号 12730.20250）*
+*版本 2004（内部版本 12730.20250）*
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -1180,7 +1205,7 @@ ms.locfileid: "48453320"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **工作簿统计信息：** 单元格、公式、图表、表格... 我们将对其进行计数，无需进行此操作。
+- **工作簿统计信息：** 单元格、公式、图表、表格...我们将对其进行计数，你无需操作。
 
 - **查询编辑器中的数据分析：** 快速分析列中的数据、确定错误和空值、查看分发直方图等。
 
@@ -1388,6 +1413,7 @@ ms.locfileid: "48453320"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13231.20418|2009 年 10 月 21 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13231.20390|2009 年 10 月 13 日版|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
@@ -1397,5 +1423,4 @@ ms.locfileid: "48453320"
 [//]: # (|Win32|CC|生产| |16.0.13029.20460|2007 年 8 月 25 日版|)
 [//]: # (|Win32|CC|生产 |16.0.13029.20344|2007 年 8 月 11 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20308|2007 年 7 月 30 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13001.20498|2006 年 7 月 28 日版|)
 [//]: # (不修改管理中心元数据内容结束)
