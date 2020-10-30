@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 8856e1e2bf934bb51aba4c3614d62da3650ff4b1
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597765"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773604"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 当前频道（预览）的更新历史记录
 
@@ -23,13 +23,13 @@ ms.locfileid: "48597765"
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 当前频道（预览）版本和内部版本
 
-如果你注册了当前频道（预览）级别（以前称为“预览体验计划 - 慢”），则大约一个月左右会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续内部版本。 下表显示了最近的当前频道（预览）版本和内部版本，其中**首先列出了最新发布的内部版本**。 新的内部版本包含之前的内部版本中包含的所有更新。
+如果你注册了当前频道（预览）级别（以前称为“预览体验计划 - 慢”），则大约一个月左右会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续内部版本。 下表显示了最近的当前频道（预览）版本和内部版本，其中 **首先列出了最新发布的内部版本** 。 新的内部版本包含之前的内部版本中包含的所有更新。
 若要查找发行说明，[请参阅](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)。 此外，你还可以查看 [Office 预览体验计划的新增功能](https://insider.office.com/zh-CN/releasenotes/windows/slow)。
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
@@ -37,6 +37,12 @@ ms.locfileid: "48597765"
 
 
 [//]: # (请勿移除)
+
+**2020 年 10 月 27 日**<br/>
+版本 2010（内部版本 13328.20292）<br/>
+
+**2020 年 10 月 24 日**<br/>
+版本 2010（内部版本 13328.20278）<br/>
 
 **2020 年 10 月 19 日**<br/>
 版本 2010 (内部版本 13328.20210)<br/>

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 137c1141a987a60f00674ce7e4eb0ac104d5df15
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 09a5dc07d59e5b731f88fe334817b8327cf5cb57
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597755"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773594"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,63 @@ ms.locfileid: "48597755"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2010-october-27"></a>版本 2010：10 月 27 日
+*版本 2010（内部版本 13328.20292）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致默认情况下不会为用户打开云设置的 n 问题。
+
+
+- 我们修复了导致无法保存用户签名更改的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2010-october-24"></a>版本 2010：10 月 24 日
+*版本 2010（内部版本 13328.20278）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致在答复或转发时中文电子邮件的标题不可阅读的问题。
+
+
+- 我们修复了另存为 OFT 文件时汉字变成问号的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。
+
+
+- 修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChange 事件中的 NewVal 没有正确的值。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-october-19"></a>版本 2010: 10 月 19 日
 *版本 2010 (内部版本 13328.20210)*
@@ -231,7 +288,7 @@ ms.locfileid: "48597755"
 [//]: # (请勿移除错误信息内容结尾)
 
 ## <a name="version-2009-october-07"></a>版本 2009：10 月 07 日
-* 版本 2009（内部版本 13231.20360）*
+*版本 2009（内部版本 13231.20360）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -832,7 +889,7 @@ ms.locfileid: "48597755"
 
 ### <a name="outlook"></a>Outlook
 
-- **选择搜索位置：**“新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。 感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。 此项设计和更新正是来自于该反馈！
+- **选择搜索位置：** “新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。 感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。 此项设计和更新正是来自于该反馈！
 
 ### <a name="word"></a>Word
 
@@ -1364,7 +1421,7 @@ ms.locfileid: "48597755"
 
 ### <a name="excel"></a>Excel
 
-- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全 Power BI 数据集计算、总结和分析数据。
+- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。 这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1982,7 +2039,7 @@ ms.locfileid: "48597755"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **“添加表”任务窗格：**：Access 的新“添加表”任务窗格终于推出了！ 使用此功能，可以轻松地选择/多重选择要添加到查询窗口或从中删除的表，而无需转到“显示表”对话框来获取查询和关系视图。 此外，还包括显示链接表的新“链接”选项卡、用于筛选当前列表的搜索框、“拖放”行为等！
+- **“添加表”任务窗格：** ：Access 的新“添加表”任务窗格终于推出了！ 使用此功能，可以轻松地选择/多重选择要添加到查询窗口或从中删除的表，而无需转到“显示表”对话框来获取查询和关系视图。 此外，还包括显示链接表的新“链接”选项卡、用于筛选当前列表的搜索框、“拖放”行为等！
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -2084,13 +2141,13 @@ ms.locfileid: "48597755"
 [//]: # (请勿移除错误详细信息内容开头)
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>已解决的问题
@@ -2311,7 +2368,7 @@ ms.locfileid: "48597755"
 
 ### <a name="word"></a>Word
 
-- **其他人可以快速查看你所做的更改: **共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+- **其他人可以快速查看你所做的更改:** 共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
 
 ### <a name="office-suite"></a>Office 套件
 

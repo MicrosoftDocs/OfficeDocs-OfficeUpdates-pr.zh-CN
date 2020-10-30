@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657300"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782277"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -23,8 +23,8 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 如果要验证是否是最新版本，请检查 Office 版本号，并在必要时手动更新 Office。要检查 Office 版本，请执行以下操作：
 
   1.    打开任何 Office 应用程序，如 Word 或 Excel。
-  2.    选择“**文件”>“帐户**”。
-  3.    在“**产品信息**”下，记下“**关于**”部分下的版本号。
+  2.    选择“ **文件”>“帐户** ”。
+  3.    在“ **产品信息** ”下，记下“ **关于** ”部分下的版本号。
 
 如果此版本号与最新版本一致，那你的产品是最新的。如果不一致，你可以手动更新以获取 Office 的最新版本。若要更新 Office，[请按照以下步骤操作](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
@@ -85,12 +85,12 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 10 月 27 日|版本 2010（内部版本 13328.20292）| |
 |2020 年 10 月 21 日|版本 2009（内部版本 13231.20418）| |
 |2020 年 10 月 13 日|版本 2009（内部版本 13231.20390）|请参阅[安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |2020 年 10 月 8 日|版本 2009 (内部版本 13231.20368)| |
 |2020 年 9 月 28 日|版本 2009（内部版本 13231.20262）| |
 |2020 年 9 月 22 日|版本 2008（内部版本 13127.20508）| |
-|2020 年 9 月9 日|版本 2008（内部版本 13127.20408）|请参阅[安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 
 
 [//]: # (请勿删除零售表结尾)
@@ -104,6 +104,7 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|
+|2020 年 9 月9 日|版本 2008（内部版本 13127.20408）|请参阅 [安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 8 月 31 日|版本 2008（内部版本 13127.20296）| |
 |2020 年 8 月 25 日|版本 2007（内部版本 13029.20460）| |
 |2020 年 8 月 11 日|版本 2007（内部版本 13029.20344）|请参阅 [安全更新页面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
