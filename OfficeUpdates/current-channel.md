@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 051e85e530d6b72821b46e12c67183d207035eb3
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657320"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782327"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -33,6 +33,104 @@ ms.locfileid: "48657320"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2010-october-27"></a>版本 2010：10 月 27 日
+*版本 2010 (内部版本 13328.20292)*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **跟上时代!日期/时间扩展数据类型具有更好的精度 。:** 引入新的改进的数据类型。 为了增强与SQL的语法兼容性，并提高包含日期和时间的记录的准确性和详细程度，我们将DateTime2数据类型实现到Access中。 这个额外的日期和时间数据类型将包括更大的日期范围(0001-01-01通过 9999-12-31)，具有更高的指定时间精度(使用纳秒，而不是秒)，你将能够提供和执行计算。 要启用，请选择新字段> Date & Time Extended。 [了解更多](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 创建数据类型：** 使用任何数据源中的 Power Query 创建丰富数据类型
+
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+
+- **使用动作笔快速编辑：** 使用动作笔，可直接在单元格中手写，使用自动转换为 Excel 数据的墨迹记下数据。
+
+### <a name="outlook"></a>Outlook
+
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+
+- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 [了解更多](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+
+### <a name="teams"></a>Teams
+
+- **Microsoft Teams 中的模板：** 使用T eams 中的模板，用户可以在创建新团队时从各种可自定义的模板中进行选择，以帮助他们快速入门。 IT 专业人员还可以为其组织创建新的自定义模板，从而使他们能够标准化团队结构，展示相关应用程序并扩展最佳实践。
+
+- **固定置顶帖：** 此功能允许用户将频道中的任何消息“固定”到频道信息窗格，以供频道的所有成员查看。 任何有权访问该频道的成员都将能够看到固定的消息。 频道的任何成员都可以固定任何消息（除非通过频道审核设置将其关闭）。
+
+- **提交到应用程序目录：** 您将在此屏幕的左下方看到“提交到应用程序目录”链接。 除 App Studio 和 Visual Studio 外，还可在此处提交供审批的应用。
+
+- **在弹出会议体验中将 Freehand by Invision 用于白板：** 现在，可以在参加任何弹出式会议体验的会议中将 Freeman by Invision 应用程序应用至白板。 从共享内容托盘中选择 Freehand 应用程序并进行安装，然后与同事开始白板会话，即可开始集思广益！
+
+### <a name="word"></a>Word
+
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了从非 Office 应用程序使用 DAO 时会导致应用程序意外关闭的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致在答复或转发时中文电子邮件的标题不可阅读的问题。
+
+
+- 我们修复了另存为 OFT 文件时汉字变成问号的问题。
+
+
+- 修复了导致 Outlook 为已启用云设置的用户创建第二个空签名的问题。
+
+
+- 我们修复了导致默认情况下不会为用户打开云设置的 n 问题。
+
+
+- 我们修复了导致用户签名更改无法保存的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 这是针对以下问题的修补程序：关闭文档且存在侦听 PresentationBeforeClose 事件和检查作为事件处理程序一部分的 Presentation.Saved 属性的加载时，“保存”提示会显示在循环之中。
+
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。
+
+
+- 修复了打开以特定方式指定资源分布的文件时，Project 可能意外终止的问题。
+
+
+- 修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。
+
+
+- 修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChange 事件中的 NewVal 没有正确的值。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
@@ -271,7 +369,7 @@ ms.locfileid: "48657320"
 
 ### <a name="teams"></a>Teams
 
-- **呼叫合并：**“呼叫合并”使最终用户能够将其现行的未保持 1 对 1 呼叫合并到另一个 1 对 1 呼叫或另一个组呼叫中。 这适用于 Teams VOIP 呼叫和 PSTN 呼叫。
+- **呼叫合并：** “呼叫合并”使最终用户能够将其现行的未保持 1 对 1 呼叫合并到另一个 1 对 1 呼叫或另一个组呼叫中。 这适用于 Teams VOIP 呼叫和 PSTN 呼叫。
 
 - **管理员可以为其一线工作人员配置基于班次的状态（上班、下班）：** 管理员可以将其一线工作人员配置为具有基于班次的状态：上班、忙碌（上班时可以切换）和下班。
 
@@ -792,7 +890,7 @@ ms.locfileid: "48657320"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自动使用新数据类型**：当您键入类似于股票或地理位置的数据值时，Excel 将其转换为适当的关联数据类型：股票或地理位置。 [了解更多](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **自动使用新数据类型** ：当您键入类似于股票或地理位置的数据值时，Excel 将其转换为适当的关联数据类型：股票或地理位置。 [了解更多](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
 - **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮
 
@@ -808,7 +906,7 @@ ms.locfileid: "48657320"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮[了解更多信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮 [了解更多信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 - **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
@@ -1101,11 +1199,11 @@ ms.locfileid: "48657320"
 
 ###<a name="powerpoint"></a>PowerPoint
 
-- **批注**：PowerPoint 中新的批注体验使你可以快速、轻松地发现批注并将其添加到文档中。 通过批注锚定、解决、任务、改进的提及通知等新功能实现协作工作流现代化。
+- **批注** ：PowerPoint 中新的批注体验使你可以快速、轻松地发现批注并将其添加到文档中。 通过批注锚定、解决、任务、改进的提及通知等新功能实现协作工作流现代化。
 
 ### <a name="word"></a>Word
 
-- **其他人可以快速查看你所做的更改: **共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+- **其他人可以快速查看你所做的更改:** 共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -1308,7 +1406,7 @@ ms.locfileid: "48657320"
 
 - **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。 [了解更多](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **用套索选择墨迹：** “绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 
@@ -1413,6 +1511,7 @@ ms.locfileid: "48657320"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|生产| |16.0.13231.20418|2009 年 10 月 21 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13231.20390|2009 年 10 月 13 日版|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
@@ -1422,5 +1521,4 @@ ms.locfileid: "48657320"
 [//]: # (|Win32|CC|生产| |16.0.13127.20296|2008 年 8 月 31 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20460|2007 年 8 月 25 日版|)
 [//]: # (|Win32|CC|生产 |16.0.13029.20344|2007 年 8 月 11 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13029.20308|2007 年 7 月 30 日版|)
 [//]: # (不修改管理中心元数据内容结束)
