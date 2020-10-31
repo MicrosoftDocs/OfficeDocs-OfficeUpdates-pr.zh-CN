@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
-ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
+ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
+ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48495909"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815598"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -31,9 +31,139 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-## <a name="version-2011-october-16"></a>版本 2011：10 月 16 日
-* 版本 2011（内部版本 13408.20000）*
+## <a name="version-2011-october-30"></a>版本 2011：10 月 30 日
+*版本 2011（内部版本 13426.20004）*
 
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **改进了条件格式对话框：** 条件格式对话框现在可以调整大小，现在只需单击一下即可复制规则。 [了解更多](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了从非 Office 应用程序使用 DAO 时会导致应用程序意外关闭的问题。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了使用与 Oracle 数据库的连接时 Power Pivot 出现的问题。
+
+
+- 我们修复了以下问题：当触发 MTR 计算和组策略对象更新进程（例如，通过远程组策略刷新）时，Excel 意外终止。
+
+
+- 此更改修复了一个 bug，该 bug 导致 Excel 在尝试加载 atomsvc 文件时失败。
+
+
+- 我们修复了将 Excel 工作簿插入 Word 文档时 Word 似乎挂起的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了以下问题：邮箱所有者无法管理自己日历的共享权限，因为该选项呈灰显。
+
+
+- 我们修复了将电子邮件模板另存为 .OFT 会将中文字符更改为问号的问题。
+
+
+- 我们修复了 Outlook 无法使用受限权限创建邮件的问题。
+
+
+- 解决了导致 Outlook 在添加或保存附件时偶尔停止工作的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了关闭设计窗格时网格线在幻灯片上发生偏移的问题。
+
+
+- 我们修复了以下问题：幻灯片中的滚动条在停止屏幕录制并打开选择窗格后开始自行调整。
+
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。
+
+
+- 修复了以下问题：资源预订按名称而不是按 GUID 搜索资源，如果存在多个具有相同名称的资源，则会导致问题。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了以下问题：单击评论提示并没有缩小到在视图中显示评论卡。
+
+
+- 我们修复了列之间的线条可能已发生偏移的布局问题。
+
+
+- 我们修复了将 Excel 工作簿插入 Word 文档时 Word 似乎挂起的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。
+
+
+
+[//]: # (请勿移除错误信息内容结尾)
+
+## <a name="version-2011-october-23"></a>版本 2011：10 月 23 日
+*版本 2011 (内部版本 13415.20002)*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用演示者指导排练演示文稿** 在有助于保持受众参与度的事情上获得反馈，比如节奏、音调、填充词、敏感短语等等。 [了解更多](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修复了一些用户在尝试从同步的 OneDrive 文件夹导出查询时看到“系统资源超出”错误的问题。
+
+- 修复了窗体窗口之间的“自动”切换到另一个窗体的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 修复了以下问题：当粘贴从会议位置复制的 URL 到其他地方（如浏览器）时，URL 的末尾包含分号。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了以下问题：当复制幻灯片到辅助监视器，幻灯片可能隐藏在其他窗口后面。
+
+### <a name="project"></a>Project
+
+- 修正了当以某种方式指定资源分布时，项目可能在打开文件时意外终止的问题。
+
+### <a name="word"></a>Word
+
+- 修复了修订中的问题：有时打开 Word 文档可能会显示错误对话框。
+
+- 修复了敏感度标签与水印被应用的打印问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2011-october-16"></a>版本 2011：10 月 16 日
+*版本 2011（内部版本 13408.20000）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -903,9 +1033,9 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **在 Excel 中协作时排序/筛选**：现在，你可以在与其他人协作的同时对 Excel 文件进行排序和筛选。 此新增功能可防止你在共同创作文档时受到其他用户的排序和筛选的影响。
+- **在 Excel 中协作时排序/筛选** ：现在，你可以在与其他人协作的同时对 Excel 文件进行排序和筛选。 此新增功能可防止你在共同创作文档时受到其他用户的排序和筛选的影响。
 
-- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。 [了解更多](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。 这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。 [了解更多](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -955,13 +1085,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (请勿移除错误详细信息内容结尾)
 
 
-## <a name="version2006may29"></a>版本 2006：5 月 29 日
-*版本 2006（内部版本 12920.20000）*
+## <a name="version-2006-may-29"></a>版本 2006：5 月 29 日
+*版本 2006 (内部版本 12920.20000)*
 
-### <a name="featureupdates"></a>功能更新
+### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook toast 通知中增加了额外的按钮：** 在 Windows 10 上运行 Outlook 时，Outlook toast 通知中会出现快速操作按钮。
+- **在Outlook toast通知中增加了额外的按钮：** 在 Windows 10 上运行 Outlook 时，Outlook toast通知中会出现快速操作按钮。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -973,7 +1103,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolvedissues"></a>已解决的问题
+### <a name="resolved-issues"></a>已解决的问题
 
 ### <a name="excel"></a>Excel
 
@@ -991,9 +1121,9 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - 我们修正了将文本复制粘贴到评论窗格中不会显示的问题。
 - 我们修正了评论提示气泡在 100% 缩放时出现模糊的问题。
 - 我们修复了启用策略 Word 2007 和以后的二进制文档和模板会导致一些合作创作失败的问题。
-- 我们修复了长路径名(大于 32K)的文件无法打开，并且没有显示适当的错误消息的问题。
+- 我们修复了长路径名(大于32K)的文件无法打开，并且没有显示适当的错误消息的问题。
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (请勿移除错误详细信息内容结尾)
 
 
 ## <a name="version-2006-may-22"></a>版本 2006：5 月 22 日
@@ -1451,13 +1581,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 
 ### <a name="excel"></a>Excel
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -1709,6 +1839,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
@@ -1717,6 +1849,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13219.20004|version-2009-august-28|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13212.20000|version-2009-august-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (不修改管理中心元数据内容结束)
