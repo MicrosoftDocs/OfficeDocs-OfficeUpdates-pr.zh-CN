@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 09a5dc07d59e5b731f88fe334817b8327cf5cb57
-ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
+ms.openlocfilehash: a9af3ed5d8e04263855dcfa8b2ce4137c941f79d
+ms.sourcegitcommit: c6e102b60f4e412b1255dee700a27a80b5690c48
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773594"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "48919424"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -27,6 +27,53 @@ ms.locfileid: "48773594"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2010-november-04"></a>版本 2010：11 月 4 日
+*版本 2010（内部版本 13328.20340）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="outlook"></a>Outlook
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
+
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许你使背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+
+- **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
+
+### <a name="word"></a>Word
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户无法向其代理授予编辑器权限的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了尝试从同步备份转换为仅支持服务器文件保存导致失败的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-october-27"></a>版本 2010：10 月 27 日
 *版本 2010（内部版本 13328.20292）*
