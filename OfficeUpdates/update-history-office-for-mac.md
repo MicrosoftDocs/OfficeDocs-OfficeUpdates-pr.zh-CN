@@ -9,30 +9,30 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人员提供有关 Office for Mac 的最新更新的信息，其中包括下载程序包的链接以及更新历史记录
-ms.openlocfilehash: 6586961cb52e6682a5979278520970a8be7880f8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 2bf1f8618d5a9f202f7ddb1050b933129dbf45cb
+ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453080"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "48944158"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac 的更新历史记录
   
 定期更新 Microsoft 365 订阅附带的 Office for Mac，以提供新功能、安全更新和非安全更新。以下信息主要面向在用户的组织中为用户部署 Office for Mac 的 IT 专业人员。
 
 > [!NOTE]
-> - 从版本 16.21 开始，如果使用 Office 套件安装包，则***新*** 安装将默认安装 Microsoft Teams。有关详细信息，请参阅[在 Mac 上安装 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
+> - 从版本 16.21 开始，如果使用 Office 套件安装包，则* **新** 安装将默认安装 Microsoft Teams。有关详细信息，请参阅[在 Mac 上安装 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
 > - 出于安全考虑，Microsoft 已停用 SHA-1。[了解详细信息](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 从 2018 年 9 月的 16.17 发行版开始，此信息也适用于 Office 2019 for Mac，这是 Office for Mac 的一个版本，可从零售商店或通过批量许可协议进行一次性购买。
-> - 16.16 和更早版本的更新历史记录信息也适用于 Office 2016 for Mac，它也是 Office for Mac 的一种版本，可一次性购买。可以使用 Office 2016 for Mac 批量许可证激活 16.16 版本之前（包括 16.16）的较旧版本。无法使用 Office 2016 for Mac 批量许可证激活版本 16.17 或更高版本。有关从 9 月开始的 Office 2016 for Mac 发行版的信息，请参阅 [Office 2016 for Mac 发行说明](release-notes-office-2016-mac.md)
 > - 有关指定版本的 Office for Mac 中包含的功能、安全更新和非安全更新的信息，请参阅 [Office for Mac 发行说明](release-notes-office-for-mac.md)。
-> - 如果想尽早访问新版本，请加入 [Office 预览体验成员](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)计划。
+> - 想尽早访问新版本，请加入 [Office 预览体验成员](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)计划。
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Office for Mac 的最新程序包
 
 下表列出了 Office 套件与各个应用程序的最新程序包。Office 套件包含所有单个应用程序，例如 Word、PowerPoint 和 Excel。所有程序包仅提供 64 位版本。创建日期在版本号后以 YYMMDD 格式在括号中列出。如果尚未安装该应用程序，则使用安装包，而更新包用于更新现有安装。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)
+
 
 [//]: # (请勿移除内容开头)
 
@@ -43,7 +43,7 @@ ms.locfileid: "48453080"
 
 [//]: # (请勿移除应用内容开头)
 
-|**应用程序**|**下载链接**|**安装包的 SHA-256 哈希**|
+|_ *应用程序**|**下载链接**|**安装包的 SHA-256 哈希**|
 |:-----|:-----|:-----|
 |Office 套件（含 Teams）|[安装包](https://go.microsoft.com/fwlink/p/?linkid=2009112)|8AC425F0E31869B32C323F4349FB48E9B1C3A114B77EA68897D97C50D9B8BECB|
 |Office 套件（不含 Teams）|[安装包](https://go.microsoft.com/fwlink/p/?linkid=525133)|5FA1084BD240BF10FAAF94D908492939807EAD8E014582DCB2ADE7ECC484276B|
@@ -62,7 +62,9 @@ ms.locfileid: "48453080"
 下表提供了 Office for Mac 的版本历史记录信息和下载链接。该表按发布日期排序，首先列出最新的发布日期。创建日期在版本号后以 YYMMDD 格式在括号中列出。2016 年 8 月 22 日之后全部仅提供 64 位版本。2016 年 8 月 22 日之前全部仅提供 32 位版本。
 
 > [!NOTE]
-> 仅为最新版本提供下载链接。
+> - 仅为最新版本提供下载链接。
+> - 仅支持下面列出的最新发布的版本。
+
 
 [//]: # (请勿移除历史记录内容开头)
 
