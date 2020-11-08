@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
-ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
+ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
+ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815598"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48939299"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,45 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2012-november-06"></a>版本 2012：11 月 6 日
+*版本 2012（内部版本13430.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **同时取消隐藏多张工作表：** 不再需要一次取消隐藏一个工作表，可以一次取消隐藏多个隐藏工作表。 [了解更多](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+### <a name="outlook"></a>Outlook
+
+- **所有设备有同一签名：** 签名将存储在云中。 创建一次，然后在所有使用 Outlook 的地方使用。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了某些功能区元素未本地化为简体中文版的问题。
+
+
+- 我们修复了更新时 Excel 意外终止的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们已修复了将附件添加到从 zip 文件打开的邮件时会失败的问题。
+
+
+
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-2011-october-30"></a>版本 2011：10 月 30 日
 *版本 2011（内部版本 13426.20004）*
@@ -1839,6 +1878,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
@@ -1848,5 +1888,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13301.20004|version-2010-september-04|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (不修改管理中心元数据内容结束)
