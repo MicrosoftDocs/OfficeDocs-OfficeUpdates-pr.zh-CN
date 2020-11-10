@@ -9,24 +9,176 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
+ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944136"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48950001"
 ---
-# <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
+# <a name="release-notes-for-office-current-channel-preview"></a>Office 当前频道（预览）发行说明
 
-本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access 和 Project 的当前频道（预览）内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 请注意，我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道（预览）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
+本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access 和 Project 的当前频道（预览）版本的发行说明。每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。注意，我们通常会在一段时间内推出当前频道（预览）的功能（有时甚至包括修补程序）。这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。因此，如果看不到如下所示的某些功能，不必担心。你会得到它们的。  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2011-november-09"></a>版本 2011：11 月 9 日
+*版本 2011（内部版本 13426.20184）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **根据查询创建 Power Platform 数据流：** 现在，你可以将查询导出到 Power Query 模板中，这些模板可用于创建新的 Power Platform 数据流
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修复了一些用户在尝试从同步的 OneDrive 文件夹导出查询时看到“系统资源超出”错误的问题。
+
+
+- 修复了在窗体窗口之间的“自动”切换时切换到另一个窗体的问题。
+
+
+- 修复了从非 Office 应用程序使用 DAO 时会导致应用程序意外关闭的问题。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了启用 COM 加载项的 SaveAs 操作后，文件名未更改的问题。
+
+
+- 修复了使用与 Oracle 数据库的连接时，Power Pivot 出现的问题。
+
+
+- 修复了以下问题：当 Excel 数据模型中存在错误的度量定义时，自动保存失败并显示错误/误导性错误消息。
+
+
+- 修复了以下问题：当触发 MTR 计算和组策略对象更新进程（例如，通过远程组策略刷新）时，Excel 意外终止。
+
+
+- 修复了用户无法直接从 SharePoint 打开 atomsvc (UTF8+BOM) 文件的问题。
+
+
+- 修复了在演示文稿区域中进行缩放会导致缩放后的选择框和鼠标指针之间出现间隙的问题。
+
+
+- 修复了将 Excel 工作簿插入 Word 文档时，Word 似乎会挂起的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致 Outlook 在添加或保存附件时偶尔停止工作的问题。
+
+
+- 修复了以下问题：图像附件快速打印导致错误“Windows 无法找到此图片。 请检查位置，然后重试。”
+
+
+- 修复了某些用户的 Outlook 会以脱机状态启动，需要他们手动选择联机工作的问题。
+
+
+- 修复了以下问题：当粘贴从会议位置复制的 URL 到其他地方（如浏览器）时，URL 的末尾包含分号。
+
+
+- 修复了以下问题：用户无法在基本身份验证中删除 Microsoft 365 组的日历中的约会。
+
+
+- 修复了加载昵称缓存时启动 Outlook 失败的问题。
+
+
+- 修复了以下问题：邮箱所有者无法管理自己日历的共享权限，因为该选项呈灰显。
+
+
+- 修复了 Outlook 无法使用受限权限创建邮件的问题。
+
+
+- 修复了将电子邮件模板另存为 .OFT 会将中文字符更改为问号的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了在演示文稿区域中进行缩放会导致缩放后的选择框和鼠标指针之间出现间隙的问题。
+
+
+- 修复了图片旁边的内容占位符图标没有工具提示的问题。
+
+
+- 修复了由 pptsx 文件显示的幻灯片保护视图允许对受 IRM 保护的文件进行屏幕截图的问题。
+
+
+- 修复了关闭设计窗格时，网格线在幻灯片上发生偏移的问题。
+
+
+- 修复了以下问题：当复制幻灯片到辅助监视器，幻灯片可能隐藏在其他窗口后面。
+
+
+- 修复了以下问题：幻灯片中的滚动条在停止屏幕录制并打开选择窗格后开始自行调整。
+
+
+### <a name="project"></a>Project
+
+- 修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChagne 事件中的 NewVal 没有正确的值。
+
+
+- 修复了当以某种方式指定资源分布时，项目可能在打开文件时意外终止的问题。
+
+
+- 修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。
+
+
+- 修复了以下问题：资源预订按名称而不是按 GUID 搜索资源，如果存在多个具有相同名称的资源，则会导致问题。
+
+
+- 修复了以下问题：如果你在项目网站中有任务列表并对任务列表进行了分组，将无法快速编辑任务列表。
+
+
+- 修复了以下问题：如果通过 CSOM 更新企业资源，可能会丢失资源最大单位。
+
+
+### <a name="word"></a>Word
+
+- 修复了在演示文稿区域中进行缩放会导致缩放后的选择框和鼠标指针之间出现间隙的问题。
+
+
+- 修复了单击批注提示不会缩小以在视图中显示批注卡片的问题。
+
+
+- 修复了列之间的线条可能已发生偏移的布局问题。
+
+
+- 修复了有时打开 Word 文档可能会显示错误对话框的修订问题。
+
+
+- 修复了将 Excel 工作簿插入 Word 文档时，Word 似乎会挂起的问题。
+
+
+- 修复了应用敏感度标签与水印的打印问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。
+
+
+- 修复了 SSO API 交互式登录返回错误代码的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-november-06"></a>版本 2010：11 月 6 日
 *版本 2010 (内部版本 13328.20356)*
@@ -1892,7 +2044,7 @@ ms.locfileid: "48944136"
 
 - 修复了以下问题：在工作表上选择单元格区域导致选择单个单元格。
 
-- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
+- 在当前版本的 Excel 中打开在 Excel 2016 中保存且带有数字签名的工作簿时，可能会使签名无效。
 
 - 修复了导致以下情形的问题：复制包含数据透视表的工作表后，在某些情况下 Excel 崩溃。
 
