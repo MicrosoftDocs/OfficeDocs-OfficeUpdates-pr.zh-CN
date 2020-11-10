@@ -281,11 +281,11 @@ ms.locfileid: "48370120"
 -   **取消选中单元格：** 在工作表中进行选择，并取消选中不小心单击的单元格，而不必重新开始。
 -   **快速访问网站和组：** 使用“文件”菜单处理常用网站和组中存储的文档。
 -   **数字铅笔：** 使用我们新的铅笔纹理记录或勾画创意灵感。只需倾斜支持的数字铅笔即可绘制底纹。
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **3D 模型：** 使用 3D 增强工作簿的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。 [了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。 [了解更多](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **按帐户组织的文件位置：** 打开或保存文件时，位置列表是按与位置关联的帐户进行组织。
 -   **触笔自定义：** 选择一组自己的触笔和荧光笔进行墨迹书写。自定义组适用于所有 Windows 电脑。
@@ -338,7 +338,7 @@ ms.locfileid: "48370120"
 -   **轻松排序电子邮件：** 感谢提供反馈，我们已为未使用重点收件箱的用户，在邮件列表和未读邮件筛选器上方恢复了排序功能。
 -   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，以便可更改其颜色、大小或纹理。
 -   **Office 365 群组的改进：** 阅读和回复群组对话比以往更加简便，因为可以双击群组消息，在它自己的窗口中打开消息。
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **3D 模型：** 使用 3D 增强电子邮件的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **个人资料卡片：** 无论是桌面版、Web 版还是使用移动应用，都显示与人员和群组最相关的详细信息。
 -   **将约会添加到群组日历中：** 现在无需以电子邮件方式发送会议安排，即可让群组中的所有人都知道你何时离开。
@@ -375,12 +375,12 @@ ms.locfileid: "48370120"
 -   **修订跟踪信息漫游：** 突出显示其他人修改的共享幻灯片的已读/未读状态，现在存储在漫游服务中（而不是存储在用户本地计算机上），这样就可以跨多个设备或平台同步此类信息。
 -   **快速访问网站和组：** 使用“文件”菜单处理常用网站和组中存储的文档。
 -   **数字铅笔：** 使用我们新的铅笔纹理记录或勾画创意灵感。只需倾斜支持的数字铅笔即可绘制底纹。
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **使用数控笔执行幻灯片放映：** 使用 Surface 触控笔或其他带有蓝牙按钮的触笔切换幻灯片。需要安装 Windows 10 Fall Creators Update。 [了解更多](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 -   **3D 模型：** 使用 3D 增强演示文稿的视觉效果和创意效果。使用切换效果（例如可在幻灯片之间打造电影动画效果的“平滑”）使演示文稿中的 3D 模型栩栩如生。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。 [了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **修订突出显示：** 突出显示由其他用户已修改的幻灯片。
 -   **离开期间：** PowerPoint 显示自你上次访问以后对共享演示文稿进行过编辑的用户。
 -   **设计器改进：** 现在，设计器会推荐有关项目符号列表中日程表的设计灵感。
@@ -388,7 +388,7 @@ ms.locfileid: "48370120"
 -   **按帐户组织的文件位置：** 打开或保存文件时，位置列表是按与位置关联的帐户进行组织。
 -   **触笔自定义：** 选择一组自己的触笔和荧光笔进行墨迹书写。自定义组适用于所有 Windows 电脑。
 -   **设计器改进：** 设计器现在为幻灯片中添加的图表提供设计灵感建议。
--   **快速启动：** 自动生成大纲，帮助用户开始研究他们所选的主题。[了解详细信息](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224)
+-   **快速启动：** 自动生成大纲，帮助用户开始研究他们所选的主题。 [了解详细信息](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224)
 -   **数字标尺：** 在具有触摸屏的设备上，转到“绘图”\>“标尺”，然后使用笔或手指绘制直线或对齐一组对象。 [了解更多](https://support.office.com/article/6222c9b4-2fdf-48f7-a3fd-1687fbe2bf84)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
@@ -410,7 +410,7 @@ ms.locfileid: "48370120"
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **“任务板”视图：** 在“任务板”视图中，对卡片上的任务进行排序。在任务板上的各栏之间重新排序和移动卡片，就跟在敏捷项目中一样。
--   **敏捷项目：** 使用积压工作 (backlog)、任务板、冲刺 (sprint) 等管理敏捷项目。支持使用 Scrum 或看板方法。[了解详细信息](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
+-   **敏捷项目：** 使用积压工作 (backlog)、任务板、冲刺 (sprint) 等管理敏捷项目。支持使用 Scrum 或看板方法。 [了解详细信息](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 -   **在规划器中管理任务：** 将项目任务关联到规划器，并为任务创建计划。将任务分解为子任务，添加团队，分配任务，并管理任务板上的工时。
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
@@ -441,7 +441,7 @@ ms.locfileid: "48370120"
 -   修复了以下问题：转到包含多个图像的报表时，Project 可能会发生故障。
 
 ### <a name="publisher-feature-updates"></a>Publisher：功能更新
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。 [了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="publisher-non-security-updates"></a>Publisher：非安全更新
 -   修复了以下问题：运行“邮件合并”向导时，无法筛选包含 null（空）值的数据源字段。
@@ -490,23 +490,23 @@ ms.locfileid: "48370120"
 -   **内置数据库模型图：** 使用新增的数据库模型图模板，可以将数据库准确建模为 Visio 图。不需要加载项。
 -   **更多适用于业务图表的模具：** 使用新式形状，通过维恩图比较和对比数据，或绘制循环图、矩阵图或棱锥图来帮助传达信息。
 -   **创建网站的线框图表：** 快速创建网站的线框图表，其中包含界面、导航及其协作方式。 [了解更多](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
--   **创建移动应用程序的线框：** 使用模板创建移动应用程序的线框。[了解详细信息](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
+-   **创建移动应用程序的线框：** 使用模板创建移动应用程序的线框。 [了解详细信息](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 -   **将数据图形应用到数据可视化工具图表：** 通过自动将形状数据应用为数据图形，从而在创建数据可视化工具图表时节省时间。 [了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6?#apply_dg)
 -   **协作绘图：** 通过在 OneDrive for Business 或 SharePoint Online 上共享绘图，可以与人协作绘图。可以查看谁正在处理绘图，也可以添加注释和查看文件活动。 [了解更多](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。 [了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **将 SVG 图标转换为形状：** 将所有 SVG 图片和图标都转换为 Office 形状，这样就可以更改它们的颜色、尺寸或纹理。
 -   **字符计数：** 在输入过程中，可以在状态栏上看到字符计数。可以通过“自定义状态栏”菜单启用此功能。
 -   **快速访问网站和组：** 使用“文件”菜单处理常用网站和组中存储的文档。
--   **Microsoft Translator：** 在 Word 中直接使用 Microsoft Translator 将字词、短语或整篇文档翻译成其他语言。[了解详细信息](https://support.office.com/article/24a987b3-03a1-4c17-8c1b-54495fca6b17)
+-   **Microsoft Translator：** 在 Word 中直接使用 Microsoft Translator 将字词、短语或整篇文档翻译成其他语言。 [了解详细信息](https://support.office.com/article/24a987b3-03a1-4c17-8c1b-54495fca6b17)
 -   **数字铅笔：** 使用我们新的铅笔纹理记录或勾画创意灵感。只需倾斜支持的数字铅笔即可绘制底纹。
--   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。[了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 功能设置：** 转到“文件”\>“选项”\>“常规”，以控制是否在 Office 应用程序中显示 LinkedIn 功能。 [了解详细信息](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **SharePoint 属性面板：** 在文档中显示和编辑 SharePoint 文档库列值。借助“视图”选项卡上的功能区按钮，可以轻松地访问面板，并且 SharePoint 管理员能够使用文档库设置自动打开属性面板。
 -   **3D 模型：** 使用 3D 增强文档的视觉效果和创意效果。轻松插入 3D 模型，然后可以在 360 度的范围内旋转它。 [了解更多](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新墨迹效果：** 使用金属笔和墨迹效果（例如彩虹、星系、岩浆、海洋、金色、银色等）以独特的风格表达自己的想法。
 -   **共享文件 UI：** 对于 OneDrive for Business 或 SharePoint 文件，单击功能区右上角的“共享”按钮或依次转到“文件”\>“共享”会启动已简化和改进的“共享”对话框。对于新文件或本地保存的文件，UI 可方便用户将文件轻松上传到 OneDrive，从而开始协作。
--   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。 [了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **使用学习工具进行编辑：** 学习工具现适用于 Word 的 Web 布局。编辑时，可以调整文字间距，并显示音节。在任意视图中，大声朗读文档时，每个单词都会突出显示。 [了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **LaTeX 语法：** 使用 LaTeX 语法创建和编辑数学公式。
 -   **实用的语音提示改进了辅助功能：** 打开音频提示后，可指导用户完成工作。可以在“文件”\>“选项”\>“辅助功能”中找到此功能。不需要加载项。 [了解更多](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -752,8 +752,8 @@ ms.locfileid: "48370120"
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **标签名称属性：** 通过将标签与窗体上的控件相关联，增强了辅助功能。
 -   **编辑新项更加容易：** 使用键盘快捷方式 (Ctrl+E) 通过组合框或列表框编辑新项。
--   **Dynamics 连接器：** 导入 Microsoft Dynamics 中的数据，或链接到其中存储的数据。[更多信息](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Salesforce 连接器：** 导入 Salesforce 中的数据，或链接到其中存储的数据。[详细信息](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Dynamics 连接器：** 导入 Microsoft Dynamics 中的数据，或链接到其中存储的数据。 [更多信息](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Salesforce 连接器：** 导入 Salesforce 中的数据，或链接到其中存储的数据。 [详细信息](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
 -   修复了以下问题：尝试选择文本框或组合框中的文本时似乎会选择所有文本，而不是指示的选择内容。
@@ -766,13 +766,13 @@ ms.locfileid: "48370120"
 -   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
 -   **Azure Data Lake Store 连接器：** 用户现在可以从 Azure Data Lake Store 导入数据。
 -   **“从示例中添加列”增强功能：** 支持建议、更多的日期/时间操作和其他转换。
--   **“数据”选项卡**：“数据”选项卡上的功能区按钮已被重排到两个新组中：“获取和转换数据”以及“查询和连接”。
--   **共享查询**：可以将任意查询定义导出到 Office 数据库连接 (ODC) 文件中，然后跨工作簿共享或与其他人共享。
+-   **“数据”选项卡** ：“数据”选项卡上的功能区按钮已被重排到两个新组中：“获取和转换数据”以及“查询和连接”。
+-   **共享查询** ：可以将任意查询定义导出到 Office 数据库连接 (ODC) 文件中，然后跨工作簿共享或与其他人共享。
 -   **加载数据：** 可以将查询中的数据直接加载到数据透视表或数据透视图中，而无需将数据保存到数据模型中。
 -   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
 -   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **增强的数据导入功能：** 可从各种源轻松导入并形成数据。通过“查询和连接”侧窗格管理工作簿查询和连接，并通过 ODC 文件与他人共享查询。 [更多信息](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
--   **对共享文件做出的更改**：查看共享工作簿的更改人，并还原旧版工作簿。[更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **对共享文件做出的更改** ：查看共享工作簿的更改人，并还原旧版工作簿。 [更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 -   **含有笔按钮的套索选择：** 无需访问功能区，即可使用套索选择墨迹带的支持数字笔按钮。
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -824,7 +824,7 @@ ms.locfileid: "48370120"
 -   **支持本地附件：** 本地 SharePoint Server 中的文件显示为“邮件”\>“附加文件”下的最近使用的文件，本地 OneDrive for Business 和 SharePoint 团队网站显示在“附加文件”\>“浏览 Web 位置”下，本地文件可以上传到本地的 OneDrive for Business 站点。
 -   **组业务分类：** 可在创建或编辑组时分配由租户管理员定义的业务分类级别，例如“机密”，并且分类会显示在组标头中。
 -   **Office 365 组的来宾访问：** 向组织外的用户授予组对话、文件、日历邀请和组笔记本的访问权限，并与他们进行协作。 [更多信息](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
--   **可操作邮件：** 开发人员可以创建能够轻松地使用户直接从 Outlook 执行简单或快速操作而无需切换到外部网站或单独应用的邮件。[更多信息](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
+-   **可操作邮件：** 开发人员可以创建能够轻松地使用户直接从 Outlook 执行简单或快速操作而无需切换到外部网站或单独应用的邮件。 [更多信息](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能规避漏洞
@@ -847,13 +847,13 @@ ms.locfileid: "48370120"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **插入联机图片：** 自动将图像插入用于选择图像和属性信息的新登录页。
--   **视频的隐藏式字幕：** 可以在视频中添加隐藏式字幕，使其更易于访问。[详细信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **视频的隐藏式字幕：** 可以在视频中添加隐藏式字幕，使其更易于访问。 [详细信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **对记录添加旁白：** 录制演示文稿时，请将自己旁白的视频包括在内。录制的内容可以包括动画、墨迹、音频和视频。
 -   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
 -   **替换文字创建：** 基于云的服务自动生成演示文稿中的图片的可选文字。
 -   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **设计器改进：** 推荐面向操作的列表的专业设计灵感。
--   **对共享文件做出的更改：** 查看共享演示文稿的更改人，并还原旧版演示文稿。[更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **对共享文件做出的更改：** 查看共享演示文稿的更改人，并还原旧版演示文稿。 [更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-8742)：PowerPoint 远程代码执行漏洞
@@ -919,7 +919,7 @@ ms.locfileid: "48370120"
 -   修复了在成功加入会议前空白会话窗口无法显示的问题。
 -   修复了以下问题：如果标题字段为空，则联系人卡片中的部门字段信息在搜索结果中为空。
 -   修复了以下问题：防火墙规则导致从本地迁移到在线环境的用户登录失败。
--   添加了新的 DWORD 注册表项以修复以下问题：当用户登录到执行 LyncAutoD 的外部网络上的客户端时，客户端将 OAuthUsed 注册表项重置为 False。若要修复此问题，请将 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的值设置为 1。
+-   添加了新的 DWORD 注册表项以修复以下问题：当用户通过执行 LyncAutoD 的外部网络登录客户端时，客户端将 OAuthUsed 注册表项重置为 False。若要修复此问题，请在 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下将 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的值设置为 1。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **使用 Excel 数据制作图表：** 通过使用新的数据可视化工具模板，从 Excel 数据自动创建基本流程图或跨职能流程图。 [更多信息](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
@@ -933,7 +933,7 @@ ms.locfileid: "48370120"
 -   **替换文字创建：** 基于云的服务在文档中自动生成图片可选文字（替换文字）。
 -   **共享文件活动：** 选择文件右上角的“活动”按钮，可以查看在 OneDrive for Business 或 SharePoint 中共享的文经共享、编辑、重命名或恢复的时间。
 -   **安全链接：** 当用户单击链接时，Office 365 高级威胁防护 (ATP) 会检查此链接并判断它是否是恶意链接。如果认为此链接是恶意链接，则将用户重定向到警告页面而不是原始目标 URL。 [详细信息](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
--   **对共享文件做出的更改：** 查看共享文档的更改人，并还原旧版文档。[更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **对共享文件做出的更改：** 查看共享文档的更改人，并还原旧版文档。 [更多信息](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="word-security-updates"></a>Word：安全更新
 -   [CVE-2017-11826](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11826)：Microsoft Office 内存损坏漏洞
