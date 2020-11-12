@@ -9,28 +9,62 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
-ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 47c4bc082265b63106f3293fbad1b830d012b504
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453290"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992687"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office安全更新发布说明
 
 这些发布说明提供了有关Microsoft Office更新中包含的安全修复的信息。
 
-此信息适用于Microsoft 365企业应用版，Microsoft 365商业应用版，Office2016零售版 (C2R)和Office2019。
+此信息适用于 Microsoft 365 企业应用版、Microsoft 365 商业应用版、Office 2016 零售版 (C2R) 和 Office 2019。
 
 
 > [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请 [阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。我们的文档通常将它称为“Microsoft 365 应用版”。
+> - 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 
  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="november-10-2020"></a>2020 年 11 月 10 日
+当前频道：版本 2010（内部版本 13328.20356）  
+每月企业频道：版本 2009（内部版本 13231.20514）  
+每月企业频道：版本 2008（内部版本 13127.20760）  
+半年企业频道（预览）：版本 2008（内部版本 13127.20760）  
+半年企业频道：版本 2002（内部版本 12527.21330）  
+半年企业频道：版本 1908（内部版本 11929.20974）  
+Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21330）  
+Office 2019 零售：版本 2010（内部版本 13328.20356）  
+Office 2016 零售版：版本 2010（内部版本 13328.20356）  
+Office 2019 批量许可：版本 1808（内部版本 10368.20035）  
+
+[//]: # (请勿删除安全详细信息内容开头)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17064](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17064)
+-   [CVE-2020-17065](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17065)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17067)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-17020](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17020)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-17062](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17062)
+-   [CVE-2020-17063](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17063)
+
+[//]: # (请勿删除安全详细信息内容结尾)
+
+
 
 ## <a name="october-13-2020"></a>2020 年 10 月 13 日
 当前频道：版本 2009（内部版本 13231.20390）  

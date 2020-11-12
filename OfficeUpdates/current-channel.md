@@ -9,29 +9,51 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: d47124846cd605174e6ca23e26cd0e61bb5cf779
-ms.sourcegitcommit: d03cdba884e24c4122db59bd06176ae5273d16e4
+ms.openlocfilehash: ddf6a8dc89f09b831bf162ecab4e853970843431
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "48878916"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989897"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年当前频道更新中。
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
  > [!NOTE]
 >
->- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道更新。  如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道更新。如果没有立即看到下述内容，则很快就会看到。[了解详细信息](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams 的功能可能不同于最新发布的当前频道，因为前者具有更高的发布频率。
 
 
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿删除错误详细信息内容结尾)
+
+## <a name="version-2010-november-10"></a>版本 2010：11 月 10 日
+*版本 2010 (内部版本 13328.20356)*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致用户无法向其代理授予编辑器权限的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了尝试从同步备份转换为仅支持服务器文件保存导致失败的问题。
 
 
 
@@ -130,12 +152,12 @@ ms.locfileid: "48878916"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示“碳粉/墨水不足”和“无碳粉/墨水”。
 
-- 解决了使用 Microsoft 365 端点数据丢失防护利用 System Center Configuration Manager 或其他 Office Update 管理工具的商业客户的问题。
+- 解决了 Microsoft 365 端点数据丢失防护无法对磁盘上的 Office 文档进行分类的问题。
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-2009-october-21"></a>版本 2009：10 月 21 日
 *版本 2009（内部版本 13231.20418）*
@@ -910,7 +932,7 @@ ms.locfileid: "48878916"
 
 - **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮 [了解更多信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
-- **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
+- **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
 - **无需遥控器：使用耳塞即可：** 使用 Surface Earbuds 来控制 PowerPoint 演示文稿。 工作原理：配对后，需要在 PowerPoint 中启用此功能。 通过按 F5 或选择“幻灯片放映” > “从头开始”开始演示。  在幻灯片放映中，右键单击幻灯片，然后在“ Surface Earbuds 设置”下选择“使用手势控制演示”。  在以后的所有演示中都会记住此设置。 现在可以在左侧耳机上向前向后滑动，以在幻灯片放映模式中浏览演示文稿。  双击播放或暂停嵌入视频。  重要提示：必须使用 Windows 10 的 Surface Audio 应用配对 Surface Earbuds，才能使用手势控制演示文稿。 此处提供了有关 Windows 10 上的 Surface Audio 应用入门的说明。 [了解更多](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
@@ -1512,8 +1534,9 @@ ms.locfileid: "48878916"
 > [!NOTE]
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
-[//]: # (不修改管理中心元数据内容启动)
-[//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
+[//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (|Win32|CC|生产| |16.0.13328.20356|2010 年 11 月 10 日版|)
+[//]: # (|Win32|CC|生产| |16.0.13328.20292|2010 年 10 月 27 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13231.20418|2009 年 10 月 21 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13231.20390|2009 年 10 月 13 日版|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
@@ -1522,5 +1545,4 @@ ms.locfileid: "48878916"
 [//]: # (|Win32|CC|生产| |16.0.13127.20408|2008 年 9 月 9 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13127.20296|2008 年 8 月 31 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13029.20460|2007 年 8 月 25 日版|)
-[//]: # (|Win32|CC|生产 |16.0.13029.20344|2007 年 8 月 11 日版|)
-[//]: # (不修改管理中心元数据内容结束)
+[//]: # (请勿修改管理中心元数据内容结尾)

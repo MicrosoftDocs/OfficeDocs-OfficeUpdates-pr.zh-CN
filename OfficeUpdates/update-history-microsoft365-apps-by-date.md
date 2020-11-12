@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: d94549f509b812d37638a5f0e6a0077fafd229f6
-ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
+ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48782317"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989941"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -34,12 +34,12 @@ ms.locfileid: "48782317"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2010 年<br/>|13328.20292<br/>|2020 年 10 月 27 日<br/>|版本 2011 已发布<br/>|
-|每月企业频道<br/>|2008<br/>|13127.20638<br/>|2020 年 10 月 13 日<br/>|2020 年 12 月 8 日<br/>|
-|每月企业频道<br/>|2007<br/>|13029.20708<br/>|2020 年 10 月 13 日<br/>|2020 年 11 月 10 日<br/>|
-|半年企业频道（预览）<br/>|2008<br/>|13127.20638<br/>|2020 年 10 月 13 日<br/>|2021 年 3 月 9 日<br/>|
-|半年企业频道<br/>|2002<br/>|12527.21236<br/>|2020 年 10 月 13 日<br/>|2021 年 9 月 14 日<br/>|
-|半年企业频道<br/>|1908<br/>|11929.20966<br/>|2020 年 10 月 13 日<br/>|2021 年 3 月 9 日<br/>|
+|当前频道<br/>|2010 版<br/>|13328.20356<br/>|2020 年 11 月 10 日<br/>|版本 2011 已发布<br/>|
+|每月企业频道<br/>|2009 版<br/>|13231.20514<br/>|2020 年 11 月 10 日<br/>|2021 年 1 月 12 日<br/>|
+|每月企业频道<br/>|2008 版<br/>|13127.20760<br/>|2020 年 11 月 10 日<br/>|2020 年 12 月 8 日<br/>|
+|半年企业频道（预览）<br/>|2008 版<br/>|13127.20760<br/>|2020 年 11 月 10 日<br/>|2021 年 3 月 9 日<br/>|
+|半年企业频道<br/>|2002 版<br/>|12527.21330<br/>|2020 年 11 月 10 日<br/>|2021 年 9 月 14 日<br/>|
+|半年企业频道<br/>|1908 版<br/>|11929.20974<br/>|2020 年 11 月 10 日<br/>|2021 年 3 月 9 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -51,6 +51,7 @@ ms.locfileid: "48782317"
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020 年|11 月 10 日|[版本 2010 (内部版本 13328.20356)](current-channel.md#version-2010-november-10)|[版本 2009（内部版本 13231.20514）](monthly-enterprise-channel.md#version-2009-november-10)<br/>[版本 2008（内部版本 13127.20760）](monthly-enterprise-channel.md#version-2008-november-10)|[版本 2008（内部版本 13127.20760）](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[版本 2002（内部版本 12527.21330）](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[版本 1908（内部版本 11929.20974）](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020 年|10 月 27日|[版本 2010 (内部版本 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020 年|10 月 21 日|[版本 2009（内部版本 13231.20418）](current-channel.md#version-2009-october-21)| | | |
 |2020 年|10 月 13 日|[版本 2009（内部版本 13231.20390）](current-channel.md#version-2009-october-13)|[版本 2008（内部版本 13127.20638）](monthly-enterprise-channel.md#version-2008-october-13)<br/>[版本 2007（内部版本 13029.20708）](monthly-enterprise-channel.md#version-2007-october-13)|[版本 2008（内部版本 13127.20638）](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[版本 2002（内部版本 12527.21236）](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[版本 1908（内部版本 11929.20966）](semi-annual-enterprise-channel.md#version-1908-october-13)|

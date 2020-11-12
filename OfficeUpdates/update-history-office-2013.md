@@ -9,27 +9,27 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2013 永久版本的更新历史记录
-ms.openlocfilehash: 768a146b2be4bccae92489e665c4e9ac9738dac5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 13d1a91f39169c073ffa8732b22051d95a512e2a
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453340"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989951"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 更新历史记录
 
 某些 Office 2013 产品使用名为即点即用的技术自动保持最新。如果你想验证你的产品是否为最新版本，请检查 Office 版本号并在需要时手动更新 Office。
   
 > [!NOTE]
-> Office 2013 的最新版本是 **15.0.5285.1000**，其于 2020 年 10 月 13 日发布。
+> Office 2013 的最新版本是 2020 年 11 月 10 日发布的 **15.0.5293.1000** 。
   
 若要检查你的 Office 版本，请执行下列操作：
   
 1. 打开任意 Office 2013 应用程序，如 Word 或 Excel。
     
-2. 选择“文件”**** > “帐户”****。
+2. 选择“文件” > “帐户”。
     
-3. 在“产品信息”**** 下，记下“Office 更新”**** 下的版本号。
+3. 在“产品信息”下，记下“Office 更新”下的版本号。
     
     如果此版本号与最新版本一致，那你的产品是最新的。如果不一致，你可以手动更新以获取 Office 2013 的最新版本。若要更新 Office，[请按照以下步骤操作](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013)。
     
@@ -45,7 +45,8 @@ ms.locfileid: "48453340"
   
 |**发布年份**|**发布日期**|**版本号**|**详细信息**|
 |:-----|:-----|:-----|:-----|
-|2020 年| 10 月 13 日| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
+|2020 年| 11 月 10 日|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
+||10 月 13 日| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||9 月 8 日| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||8 月 11 日 | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||7 月 14 日    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
