@@ -9,20 +9,89 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
-ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
+ms.openlocfilehash: e448b5e1d0ea334401c9bd9c91291376f6579367
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "48466110"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990051"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>有关 2020 年半年企业频道（预览）发行的发行说明
 
-这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版（预览）、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年企业频道更新中。
+这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年企业频道（预览）更新中。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
+*版本 2008（内部版本 13127.20760）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+
+### <a name="excel"></a>Excel
+
+- 解决了某些函数在加载工作簿后可能出现错误结果的问题。
+
+
+- 解决了与 XLAM 加载项引用和命名范围相关的应用程序意外终止的问题。
+
+
+- 解决了以下问题：使用宏设置范围的 FormulaR1C1 属性时，如果图表工作表是活动工作表，则单元格引用将不正确。
+
+
+- 解决了可能导致“Excel 在尝试计算一个或多个公式时用尽资源”错误的问题。
+
+
+- 解决了将 Office 语言设置为西班牙语时，数据验证列表可能不会显示列表中的所有项目的问题。
+
+
+- 解决了在刷新 OLAP 数据透视表时可能会导致挂起的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了以下问题：现在用户可以禁用 Outlook 的 IRM（信息权限管理），而无需在其他 Office 应用程序中禁用它。
+
+
+- 解决了导致用户无法向其代理授予编辑器权限的问题。
+
+
+- 解决了导致用户在选择搜索结果时遇到应用程序意外终止的问题。
+
+
+- 解决了导致在组日历中搜索无法返回任何结果的问题。
+
+
+- 解决了导致代理在其他邮箱中打开共享文件夹时出现间歇性故障的问题。
+
+
+- 解决了当主题行为空白时，某些自动生成的电子邮件将发送空白正文的问题。
+
+
+- 解决了导致在答复或转发时中文电子邮件的标题出现乱码的问题。
+
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。  <br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 解决了 Forms 内容加载项在插入后不显示，而要到用户单击另一张幻灯片来使其放映时才显示的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了使用 Microsoft 365 端点数据丢失防护利用 System Center Configuration Manager 或其他 Office Update 管理工具的商业客户的问题。
+
+- 解决了 Office 加载项的消息传递 API 无法正常工作的问题。
+
+
+
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
 *版本 2008（内部版本 13127.20638）*
@@ -124,7 +193,7 @@ ms.locfileid: "48466110"
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
-- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。 [了解更多](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
+- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 只需点击几下鼠标，即可在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表。 这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。 [了解更多](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
 
 - **你喜爱的 Excel 函数运行速度更快：** SUMIFS、AVERAGEIFS、COUNTIFS、MAXIFS 和 MINIFS 函数运行速度比以往更快。 更快达到底线。 立即试用。
 
@@ -150,7 +219,7 @@ ms.locfileid: "48466110"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用 \@提及**功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **使用 \@提及** 功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解更多](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
@@ -160,7 +229,7 @@ ms.locfileid: "48466110"
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
-- **批注**：PowerPoint 中新的批注体验使你可以快速、轻松地发现批注并将其添加到文档中。 通过批注锚定、解决、任务、改进的提及通知等新功能实现协作工作流现代化。 [了解更多](https://support.office.com/article/c0aa37bb-82cb-414c-872d-178946ff60ec)
+- **批注** ：PowerPoint 中新的批注体验使你可以快速、轻松地发现批注并将其添加到文档中。 通过批注锚定、解决、任务、改进的提及通知等新功能实现协作工作流现代化。 [了解更多](https://support.office.com/article/c0aa37bb-82cb-414c-872d-178946ff60ec)
 
 - **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
@@ -173,7 +242,7 @@ ms.locfileid: "48466110"
 
 - **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解更多](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **用套索选择墨迹：** “绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
@@ -555,7 +624,7 @@ ms.locfileid: "48466110"
 - 解决了 TabProcGrowth 注册表值为 REG_SZ 类型启用加载项时，windows 上的 office 主机会出现崩溃的问题。
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-2002-june-09"></a>版本 2002：6 月 9 日
 *版本 2002（内部版本 12527.20720）*
@@ -710,10 +779,10 @@ ms.locfileid: "48466110"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **键入可返回多个值的公式：** 现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解更多](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
-- **六个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。  [了解更多](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **向左看，向右看… XLOOKUP 在此！：** 使用 XLOOKUP 在表或区域中逐行查找所需内容。  
-  [了解更多](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **键入可返回多个值的公式：** 现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解详细信息](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- **6 个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。  [了解详细信息](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。  
+  [了解详细信息](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -784,7 +853,7 @@ ms.locfileid: "48466110"
 
 ### <a name="excel"></a>Excel
 
-- **使用 \@提及**功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **使用 \@提及** 功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **查找要找的内容：** 搜索命令、人员、文件、照片、Web 文章等等。 [了解更多](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -813,7 +882,7 @@ ms.locfileid: "48466110"
 
 - **将 LinkedIn 网络连接到 Outlook：** 以安全的方式将 LinkedIn 帐户连接到 Microsoft 帐户，直接在“人员”卡片中查看 LinkedIn 中的信息。 [了解更多](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
-- **所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。[了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
+- **所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。 [了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
 
 - **Outlook 中的插入链接菜单将插入包含租户管理员定义的权限的链接：** Outlook 插入链接 MRU 中的链接将插入仅对已经拥有权限的用户有效的链接。 这通常会导致请求获得文档访问权限的用户之间发生往来电子邮件。 我们已更新了此体验，现在该链接将通过租户管理员设置的默认权限进行插入。对于 MSIT，这“可供组织编辑”，因此收到以此方式共享的链接的所有内部用户都可以访问它。
 
@@ -843,7 +912,7 @@ ms.locfileid: "48466110"
 
 - **实时字幕和对白字幕：** 演示者的文字会作为字幕自动显示在屏幕上或翻译成你所选语言的对白字幕。 [了解更多](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
-- **你来计算，我们来设置格式：** 我们将书写数学表达式更改成标准字符。只需选择“将墨迹转换为数学公式”，再选择手写笔记即可开始。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **你来计算，我们来设置格式：** 我们将书写数学表达式更改成标准字符。只需选择“将墨迹转换为数学公式”，再选择手写笔记即可开始。 [了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解更多](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -855,7 +924,7 @@ ms.locfileid: "48466110"
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **将插图另存为 SVG** ：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **打印讲义上的幻灯片编号：** 幻灯片编号将会自动包括在讲义上。 打开或是关闭它们，全都取决于你。 [了解更多](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
@@ -869,9 +938,9 @@ ms.locfileid: "48466110"
 
 - **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。
 
-- **如果可以重复使用，为何还要重新创建呢？：** 通过重新使用你创建的幻灯片或其他人与你共享的幻灯片来节省时间。 [了解更多](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
+- **如果可以重复使用，为何还要重新创建呢？：** 通过重新使用你创建的幻灯片或其他人与你共享的幻灯片来节省时间。 [了解详细信息](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
-- **在 PowerPoint for Office 365 中将手写墨迹更改为形状、文本或数学公式：** 从自由格式的墨迹转到几条笔划中的 Office 形状、文本或数学表达式。 [了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **在 PowerPoint for Office 365 中将手写墨迹更改为形状、文本或数学公式：** 只需几笔，即可从自由格式的墨迹转到 Office 形状、文本或数学表达式。 [了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。 [了解更多详细信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
@@ -895,7 +964,7 @@ ms.locfileid: "48466110"
 
 - **协同编辑启用宏的文档：** 将 docm 文件保存在 OneDrive for Business 上，并与协作者实时进行编辑。
 
-- **合著改进**：提高了在具有修订的文档中进行合著时的 Word 性能。
+- **合著改进** ：提高了在具有修订的文档中进行合著时的 Word 性能。
 
 - **更多符合你心情的图标：** 我们添加了 300 多个新图标。 可在“插入”>“图标”中找到它们。 [了解更多](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -1193,7 +1262,8 @@ ms.locfileid: "48466110"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 
-[//]: # (不修改管理中心元数据内容启动)
+[//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20760|2008 年 11 月 10 日版|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20638|2008 年 10 月 13 日版|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|2002 年 8 月 11 日版|)

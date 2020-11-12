@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453410"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990071"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>有关 2020 年半年企业频道发行的发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年企业频道更新中。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 >
@@ -29,6 +29,48 @@ ms.locfileid: "48453410"
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-november-10"></a>版本 2002：11 月 10 日
+*版本 2002（内部版本 12527.21330）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了将 Office 语言设置为西班牙语时出现的问题，在有问题的情况下，数据验证列表可能不会显示列表中的所有项目。
+
+
+- 修复了在刷新 OLAP 数据透视表时可能会导致挂起的问题。
+
+
+- 修复了某些函数在加载工作簿后结果不正确的错误。
+
+
+- 解决了与 XLAM 加载项引用和命名范围相关的应用程序意外终止的问题。
+
+
+- 修正了运行高级筛选器宏时错误报告错误的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了在禁用可选连接体验时导致内部加载项意外禁用的问题。
+
+
+- 我们修复了导致用户无法作为或代表全局地址列表中隐藏的通讯组列表发送的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1908-november-10"></a>版本 1908：11 月 10 日
+*版本 1908（内部版本 11929.20974）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-2002-october-13"></a>版本 2002：10 月 13 日
 *版本 2002（内部版本 12527.21236）*
@@ -216,7 +258,7 @@ ms.locfileid: "48453410"
 
 - **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
 
-- **使用\@提及**功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **使用\@提及** 功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 ### <a name="outlook"></a>Outlook
 
@@ -236,7 +278,7 @@ ms.locfileid: "48453410"
 
 - **轻松发现网络钓鱼邮件：** 垃圾邮件和网络钓鱼邮件具有不同的外观，因此你可以轻松从收件箱中识别并删除它们。
 
-- **所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。[了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
+- **所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。 [了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
 
 - **在有拼写错误的情况下进行搜索：** 即使你的拼写有误，Outlook 仍将找到你在查找的内容。
 
@@ -246,7 +288,7 @@ ms.locfileid: "48453410"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **你来计算，我们来设置格式：** 我们将书写数学表达式更改成标准字符。只需选择“将墨迹转换为数学公式”，再选择手写笔记即可开始。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **你来计算，我们来设置格式：** 我们将书写数学表达式更改成标准字符。只需选择“将墨迹转换为数学公式”，再选择手写笔记即可开始。 [了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解更多](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -258,7 +300,7 @@ ms.locfileid: "48453410"
 
 - **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。
 
-- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **将插图另存为 SVG** ：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **打印讲义上的幻灯片编号：** 幻灯片编号将会自动包括在讲义上。 打开或是关闭它们，全都取决于你。 [了解更多](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
@@ -316,7 +358,7 @@ ms.locfileid: "48453410"
 
 - **修复了 3D 对象合并导致的文档损坏问题：** 修复了 3D 对象合并导致的文档损坏问题。
 
-- **合著改进**：提高了在具有修订的文档中进行合著时的 Word 性能。
+- **合著改进** ：提高了在具有修订的文档中进行合著时的 Word 性能。
 
 - **合著改进：** 提高了合著时的可靠性。
 
@@ -677,7 +719,7 @@ ms.locfileid: "48453410"
 
 - 在注册表项 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth 设置为零的情况下激活加载项时，办公室主机在 Windows 中崩溃。 此更改可修复此问题。
 
-- 解决了在注册表 TabProcGrowth 值为 REG_SZ 类型的情况下激活加载项时 Windows 办公室主机的崩溃问题。
+- 解决了 TabProcGrowth 注册表值为 REG_SZ 类型启用加载项时，windows 上的 office 主机会出现崩溃的问题。
 
 - 此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。
 
@@ -1102,7 +1144,7 @@ ms.locfileid: "48453410"
 
 ### <a name="word"></a>Word
 
-- 我们修复了将 2 个文档合并为一个文档时出现的问题。
+- 修复了将 2 个文档合并为一个文档时出现的问题。
 
 - 修复了受编辑保护的文档的“比较”功能问题。
 
@@ -1138,7 +1180,7 @@ ms.locfileid: "48453410"
 
 - 解决了导致附件工具中缺少“保存到云”按钮的问题。
 
-- 默认情况下，保留策略标签会在括号中显示保留时间段。提供了一个注册表项，允许管理员指定只应显示策略名称。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 默认 1 = 仅显示保留策略文本的 PolicyName。
+- 默认情况下，保留策略标签会在括号中显示保留时间段。 提供了一个注册表项，允许管理员指定只应显示策略名称。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。 0 = 默认值 1 = 仅显示保留策略文本的 PolicyName。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -1152,21 +1194,21 @@ ms.locfileid: "48453410"
 
 - 修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。
 
-## <a name="version1908april-26"></a>版本 1908：4 月 26 日
-*版本 1908（内部版本 11929.20736）*
+## <a name="version-1908-april-26"></a>版本 1908：4 月 26 日
+*版本1908（内部版本 11929.20736）*
 
-安全更新在 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
 - 修复了用户在使用 VBA 宏清除某区域中的内容时可能遇到的性能问题。
 
-- 修复了一个有关 VBA 的问题：将值写入某个区域可能比预期的要慢。
+- 修复了 VBA 中的一个问题：将值写入某个区域可能比预期的要慢。
 
 - 解决了保存并重新打开文件时图表坐标轴上的“值交叉点”属性意外发生更改的问题。
 
-- 在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。
+- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
 
 
 ### <a name="onenote"></a>OneNote
@@ -1378,7 +1420,7 @@ ms.locfileid: "48453410"
 
 - **见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 [了解更多](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
-- **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。[了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。 [了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **协作更简单：** 共同创作改进意味着使用条件格式、单元格样式等时，所做的更改将与协作者无缝合并。
 
@@ -1400,7 +1442,7 @@ ms.locfileid: "48453410"
 
 - **挑选你喜欢的操作：** 不要使用“标志”和“删除”？ “存档”或“标记为已读”呢？ 使用你最常用的命令自定义快速操作菜单。
 
-- **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。[了解详细信息](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+- **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。 [了解详细信息](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
 - **添加帐户的更快捷方式：** 由于帐户设置改进，现在可以更轻松地将使用双重身份验证的 Outlook.com 和 Gmail 帐户添加到 Outlook。 [了解更多](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
@@ -1422,9 +1464,9 @@ ms.locfileid: "48453410"
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
-- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。 [了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-- **比以往更轻松地插入联机视频：** 想要将 Vimeo 或 YouTube 中的视频放到幻灯片上？只需使用视频页面链接即可。[了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **比以往更轻松地插入联机视频：** 想要将 Vimeo 或 YouTube 中的视频放到幻灯片上？只需使用视频页面链接即可。 [了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -1440,7 +1482,7 @@ ms.locfileid: "48453410"
 
 - **内置 Azure 模具：** 使用数十个 Azure 模具设计云应用或规划基础结构。 [了解更多](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
-- **告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。[了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。 [了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
@@ -1450,9 +1492,9 @@ ms.locfileid: "48453410"
 
 - **“学习工具”模式可额外支持更多页面颜色：** Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。 许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
 
-- **使用笔迹编辑器随心编辑：** 使用单个笔划、拆分或连接字词、添加新行或使用手写笔插入字词。[了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **使用笔迹编辑器随心编辑：** 使用单个笔划、拆分或连接字词、添加新行或使用手写笔插入字词。 [了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。 [了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 - **增加内容的覆盖面：** 需要让你的文档易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
 
@@ -1460,11 +1502,11 @@ ms.locfileid: "48453410"
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。 [了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
-- **使用\@提及**功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **使用\@提及** 功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -1753,7 +1795,8 @@ ms.locfileid: "48453410"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 
-[//]: # (不修改管理中心元数据内容启动)
+[//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (|Win32|DC|生产| |16.0.12527.21330|2002 年 11 月 10 日版|)
 [//]: # (|Win32|DC|生产| |16.0.12527.21236|2002 年 10 月 13 日版|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|版本-2002年8月11日|)

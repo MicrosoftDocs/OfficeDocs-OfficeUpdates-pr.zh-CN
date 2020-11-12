@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: ba500a25ed32a9a3c7a57401fbfdc7ba7b3f208d
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944157"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990101"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -33,7 +33,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 
 
-[//]: # (请勿移除)
+[//]: # (请勿删除)
 
 
 
@@ -45,6 +45,34 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 
 
+
+
+
+## <a name="november-10-2020"></a>2020 年 11 月 10 日
+*版本 16.43（内部版本 20110804）*
+
+[//]: # (请勿删除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint-mac"></a>PowerPoint Mac
+
+- **搜索更加快速和简单：** 使用搜索框快速搜索文件
+
+
+[//]: # (请勿删除功能详细信息内容结尾)
+
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="security-updates"></a>安全更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17067)
+
+[//]: # (请勿删除安全详细信息内容结尾)
 
 ## <a name="october-13-2020"></a>2020 年 10 月 13 日
 *版本 16.42（内部版本 20101102）*
@@ -820,7 +848,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Microsoft 自动更新 4.7 <br/>| AutoUpdate 守护程序已作为安装流程的一部分启用。这就消除了先前向用户显示的令人混淆的安全对话框。 <br/><br/> Microsoft AutoUpdate 安全功能经过增强，以支持 SHA256 证书。 <br/>|<br/> | [Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> 从版本 16.21 开始，* *_新_* 安装将默认安装 Microsoft Teams。有关详细信息，请参阅[在 Mac 上安装 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
+> 从版本 16.21 开始，* *_新_* 安装将默认安装 Microsoft Teams。有关详细信息，请参阅 [在 Mac 上安装 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
 
 
 ## <a name="december-2018-release"></a>2018 年 12 月版本

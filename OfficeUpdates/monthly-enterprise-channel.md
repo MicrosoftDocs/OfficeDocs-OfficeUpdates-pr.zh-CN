@@ -9,23 +9,188 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453310"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990151"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
-这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年每月 Enterprise 频道更新中。
+这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本的 2020 年每月企业频道更新中。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
-[//]: # (请勿移除)
+[//]: # (请勿删除)
 
 
+
+## <a name="version-2009-november-10"></a>版本 2009：9 月 10 日
+*版本 2009（内部版本 13231.20514）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
+
+### <a name="word"></a>Word
+
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 解决了导致在答复或转发时中文电子邮件的标题不可阅读的问题。
+
+
+- 解决了导致代理在其他邮箱中打开共享文件夹时出现间歇性故障的问题。
+
+
+- 解决了当主题行为空白时，某些自动生成的电子邮件将发送空白正文的问题。
+
+
+- 解决了导致部分用户观察到 Outlook 在离线状态下意外启动的问题。
+
+
+- 解决了在搜索未缓存的共享日历时，导致搜索不返回结果的问题。
+
+
+- 解决了导致用户在选择搜索结果时遇到应用程序意外终止的问题。
+
+
+- 解决了导致用户无法向其代理授予编辑器权限的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 解决了在包含大量特定数据对象类型 (E2o) 的文件上导致共同创作慢的问题。
+
+
+- 解决了在受保护的视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。
+
+
+- 解决了 Forms 内容加载项在插入后不显示，而要到用户单击另一张幻灯片来使其放映时才显示的问题。
+
+
+### <a name="project"></a>Project
+
+- 解决了以下问题：如果你正在运行事件代码并尝试通过“任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。
+
+
+- 解决了打开以特定方式指定资源分布的文件时，Project 可能意外终止的问题。
+
+
+- 解决了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了“样式库”对话框的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了“压缩图片”对话框不保留某些用户设置的问题。
+
+
+- 解决了 Microsoft 365 端点数据丢失防护无法对磁盘上的 Office 文档进行分类的问题。
+
+
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示“碳粉不足”或“无碳粉”的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
+
+
+
+[//]: # (请勿删除错误详细信息内容结尾)
+
+## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
+*版本 2008（内部版本 13127.20760）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 解决了以下问题：使用宏设置范围的 FormulaR1C1 属性时，如果图表工作表是活动工作表，则单元格引用将不正确。
+
+
+- 解决了可能导致“Excel 在尝试计算一个或多个公式时用尽资源”错误的问题。
+
+
+- 解决了将 Office 语言设置为西班牙语时，数据验证列表可能不会显示列表中的所有项目的问题。
+
+
+- 解决了在刷新 OLAP 数据透视表时可能会导致挂起的问题。
+
+
+- 解决了某些函数在加载工作簿后可能出现错误结果的问题。
+
+
+- 解决了与 XLAM 加载项引用和命名范围相关的应用程序意外终止的问题。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致在答复或转发时中文电子邮件的标题出现乱码的问题。
+
+
+- 解决了当主题行为空白时，某些自动生成的电子邮件将发送空白正文的问题。
+
+
+- 解决了导致代理在其他邮箱中打开共享文件夹时出现间歇性故障的问题。
+
+
+- 解决了导致在组日历中搜索无法返回任何结果的问题。
+
+
+- 解决了导致用户在选择搜索结果时遇到应用程序意外终止的问题。
+
+
+- 解决了以下问题：现在用户可以禁用 Outlook 的 IRM（信息权限管理），而无需在其他 Office 应用程序中禁用它。
+
+
+- 解决了导致用户无法向其代理授予编辑器权限的问题。
+
+
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 这是针对以下问题的修补程序：关闭文档且存在侦听 PresentationBeforeClose 事件和检查作为事件处理程序一部分的 Presentation.Saved 属性的加载项时，“保存”提示会循环显示。
+
+
+- 解决了 Forms 内容加载项在插入后不显示，而要到用户单击另一张幻灯片来使其放映时才显示的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了使用 Microsoft 365 端点数据丢失防护利用 System Center Configuration Manager 或其他 Office Update 管理工具的商业客户的问题。
+
+- 解决了 Office 加载项的消息传递 API 无法正常工作的问题。
+
+
+
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
 *版本 2008（内部版本 13127.20638）*
@@ -557,7 +722,7 @@ ms.locfileid: "48453310"
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-2004-june-09"></a>版本 2004：6 月 9 日
-版本 2004（内部版本 12730.20430）**
+版本 2004（内部版本 12730.20430）
 
 [此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
@@ -597,7 +762,7 @@ ms.locfileid: "48453310"
 
 ### <a name="word"></a>Word
 
-- **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **用套索选择墨迹：** “绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
@@ -729,7 +894,7 @@ ms.locfileid: "48453310"
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **其他人可以快速查看你所做的更改: **共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
+- **其他人可以快速查看你所做的更改:** 共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -776,7 +941,7 @@ ms.locfileid: "48453310"
 - 解决了导致用户在退出后在任务管理器中看到 Outlook 进程延迟的问题。
 
 
-- 解决了在使用鼠标上的按钮时导致用户偶尔遇到崩溃的问题。
+- 解决了导致用户在使用鼠标上的按钮时偶尔遇到崩溃的问题。
 
 
 - 解决了用户在第三方 MAPI 应用程序中遇到崩溃的问题。
@@ -839,7 +1004,8 @@ ms.locfileid: "48453310"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 
-[//]: # (不修改管理中心元数据内容启动)
+[//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (|Win32|MEC|生产|功能|16.0.13231.20514|2009 年 11 月 10 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13127.20638|2008 年 10 月 13 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
