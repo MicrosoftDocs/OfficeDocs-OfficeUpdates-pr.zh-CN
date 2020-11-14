@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
-ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
+ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
+ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48939299"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071531"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -29,7 +29,48 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (请勿移除)
 
-[//]: # (请勿移除功能详细信息内容开头)
+[//]: # (请勿删除功能详细信息内容开头)
+
+## <a name="version-2012-november-13"></a>版本 2012：11 月 13 日
+*版本 2012（内部版本 13510.20004）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们已修复了从 OneDrive 本地同步文件夹插入文件时，插入对象命令不显示正确图标的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们已修复了导致任务状态报告中的收件人：字段为空白的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们已修复了 Slide.Shapes.AddMediaObject2 在使用传统的视频格式（MPG-1,Mpeg-2）时崩溃的问题。
+
+
+### <a name="project"></a>Project
+
+- 我们已修复了如果交付项所关联的 SharePoint 站点不再存在，则无法删除这些交付结果的依赖关系的问题。
+
+
+- 我们已修复用户在打开据推测已存储了更新信息的项目时，却无法找到所需更新的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们已修复了图片在缩放时变得模糊的相关问题。
+
+
+- 我们已修复了截断长超链接的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2012-november-06"></a>版本 2012：11 月 6 日
 *版本 2012（内部版本13430.20000）*
@@ -1877,7 +1918,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (请勿移除错误详细信息内容结尾)
 
 
-[//]: # (不修改管理中心元数据内容启动)
+[//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
@@ -1887,5 +1929,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|预览体验计划| |16.0.13304.20000|version-2010-september-11|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13301.20004|version-2010-september-04|)
-[//]: # (不修改管理中心元数据内容结束)
+[//]: # (请勿修改管理中心元数据内容结尾)
