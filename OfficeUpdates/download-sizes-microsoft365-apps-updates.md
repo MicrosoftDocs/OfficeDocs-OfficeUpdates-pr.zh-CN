@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
-ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
+ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48927135"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990131"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -36,14 +36,23 @@ ms.locfileid: "48927135"
 
 [//]: # (请勿移除)
 
-[//]: # (请勿移除预测内容开头)
+## <a name="november-10-2020"></a>2020 年 11 月 10 日
 
-## <a name="november-5-2020"></a>2020 年 11 月 5 日
+[//]: # (请勿移除内容开头 2020 年 11 月 10 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版为版本 2010（内部版本 13328.20356）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2010（内部版本 13328.20292） <br/> |2020 年 10 月 27 日 <br/> |57<br/> |
+|版本 2009（内部版本 13231.20418） <br/> |2020 年 10 月 21 日 <br/> |286<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企业频道
 
-<i>预期发行版本为版本 2009（内部版本 13231.20492）。</i>
+最新版为版本 2009（内部版本 13231.20514）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ ms.locfileid: "48927135"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企业频道（预览）
 
-<i>预期发行版本为版本 2008（内部版本 13127.20760）。</i>
+最新版为版本 2008（内部版本 13127.20760）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -63,15 +72,18 @@ ms.locfileid: "48927135"
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企业频道
 
-<i>预期发行版本为版本 2002（内部版本 12527.21316）。</i>
+最新版为版本 2002（内部版本 12527.21330）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
 |版本 2002（内部版本 12527.21236） <br/> |2020 年 10 月 13 日 <br/> |63<br/> |
-|版本 2002（内部版本 12527.21104） <br/> |2020 年 9 月 8 日 <br/> |77<br/> |
+|版本 2002（内部版本 12527.21104） <br/> |2020 年 9 月 8 日 <br/> |76<br/> |
 
 
-[//]: # (请勿移除预测内容结尾)
+[//]: # (请勿移除内容结尾 2020 年 11 月 10 日)
+
+
+
 
 ## <a name="october-27-2020"></a>2020 年 10 月 27 日
 
