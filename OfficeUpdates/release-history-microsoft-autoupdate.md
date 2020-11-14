@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
+ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453181"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48994961"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,6 +29,27 @@ ms.locfileid: "48453181"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+
+
+## <a name="november-2020-release"></a>2020 年 11 月版本
+
+**发布日期：** 2020 年 11 月 10 日
+
+*Microsoft 自动更新 4.29*
+
+**Bug 修复和增强功能：**
+-   已更新 Microsoft 365 的频道名称。
+-   修复了导致某些 OneDrive 安装无法获取更新的问题。
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.29 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 哈希：**
+
+7EDE97D524CE7E7869A4033D25270057E670588886F7A0E02628CC7FCB4F7851
+
+<br/><br/>
 
 ## <a name="october-2020-release"></a>2020 年 10 月发布
 
