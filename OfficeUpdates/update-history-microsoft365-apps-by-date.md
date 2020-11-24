@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989941"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387438"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -22,7 +22,7 @@ ms.locfileid: "48989941"
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 > [!NOTE]
 > - 该表是按发行日期排序的，首先列出最近的发行日期。
@@ -34,7 +34,7 @@ ms.locfileid: "48989941"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2010 版<br/>|13328.20356<br/>|2020 年 11 月 10 日<br/>|版本 2011 已发布<br/>|
+|当前频道<br/>|2011<br/>|13426.20274<br/>|2020 年 11 月 23 日<br/>|版本 2012 已发布<br/>|
 |每月企业频道<br/>|2009 版<br/>|13231.20514<br/>|2020 年 11 月 10 日<br/>|2021 年 1 月 12 日<br/>|
 |每月企业频道<br/>|2008 版<br/>|13127.20760<br/>|2020 年 11 月 10 日<br/>|2020 年 12 月 8 日<br/>|
 |半年企业频道（预览）<br/>|2008 版<br/>|13127.20760<br/>|2020 年 11 月 10 日<br/>|2021 年 3 月 9 日<br/>|
@@ -45,12 +45,14 @@ ms.locfileid: "48989941"
 
 有关从先前版本的 Microsoft 365 应用版更新到最新版本时的大致下载大小的信息，请参阅 [Microsoft 365 应用版更新下载大小](download-sizes-office365-proplus-updates.md)。
 
-下表列出了以下更新频道中发布的 Microsoft 365 应用的每个更新的版本号和生成号：当前频道、每月企业频道、半年企业频道（预览）和半年企业频道。 表格中的每个条目都将直接链接到该版本的发行说明。 这些发行说明提供有关 Microsoft 365 应用版更新中包含的功能、安全更新和非安全更新的信息。  
+The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020 年|11 月 23 日|[版本 2011（内部版本 13426.20274）](current-channel.md#version-2011-november-23)| | | |
+|2020 年|11 月 17 日|[版本 2010 (内部版本 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020 年|11 月 10 日|[版本 2010 (内部版本 13328.20356)](current-channel.md#version-2010-november-10)|[版本 2009（内部版本 13231.20514）](monthly-enterprise-channel.md#version-2009-november-10)<br/>[版本 2008（内部版本 13127.20760）](monthly-enterprise-channel.md#version-2008-november-10)|[版本 2008（内部版本 13127.20760）](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[版本 2002（内部版本 12527.21330）](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[版本 1908（内部版本 11929.20974）](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020 年|10 月 27日|[版本 2010 (内部版本 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020 年|10 月 21 日|[版本 2009（内部版本 13231.20418）](current-channel.md#version-2009-october-21)| | | |
