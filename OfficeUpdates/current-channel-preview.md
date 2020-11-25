@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: 2702cc1098282aa53972a2b01beb8eb9545b04ff
+ms.sourcegitcommit: 4b5ee25e335d9585dfe5660faac747600c9e3e69
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48950001"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49382632"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 当前频道（预览）发行说明
 
@@ -27,6 +27,73 @@ ms.locfileid: "48950001"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2011-november-21"></a>版本 2011：11 月 21 日
+*版本 2011（内部版本 13426.20274）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **视频库：** 使用精选和免版税的库提升你的文档应用中提供的免费视频素材
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们解决了导致 MailItem 的 BeforeAttachmentAdd 事件被破坏的问题。
+
+
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes 被排除。 1 = （默认）包含 filetimes
+
+
+- 我们修复了一个问题，当回复来自 Azure 信息保护的保护标签的邮件时，将导致嵌入式图像消失。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2011-november-18"></a>版本 2011：11 月 18 日
+*版本 2011（内部版本 13426.20250）*
+* 各种 bug 和性能修补程序。
+
+## <a name="version-2011-november-16"></a>版本 2011：11 月 16 日
+*版本 2011（内部版本 13426.20234）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **所有设备有同一签名：** 签名将存储在云中。 创建一次，然后在所有使用 Outlook 的地方使用。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们已修复了在向任务发送状态报告时导致 "收件人" 字段为空白的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们已修复了 Slide.Shapes.AddMediaObject2 在使用传统的视频格式（MPG-1,Mpeg-2）时崩溃的VBA问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2011-november-09"></a>版本 2011：11 月 9 日
 *版本 2011（内部版本 13426.20184）*
@@ -207,9 +274,9 @@ ms.locfileid: "48950001"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许你使背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许你使背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
@@ -239,7 +306,7 @@ ms.locfileid: "48950001"
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-october-27"></a>版本 2010：10 月 27 日
-*版本 2010（内部版本 13328.20292）*
+*版本 2010 (内部版本 13328.20292)*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -303,7 +370,7 @@ ms.locfileid: "48950001"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。<br />在[博客文章](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)中查看详细信息
+- **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。<br />在[博客文章](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)中查看详细信息
 
 - **使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！ 在邮件中，右键单击以翻译特定字词、短语或整个邮件。 [了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -509,7 +576,7 @@ ms.locfileid: "48950001"
 
 ### <a name="outlook"></a>Outlook
 
-- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 <br />在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
+- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 <br />在[博客文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -573,25 +640,25 @@ ms.locfileid: "48950001"
 
 ### <a name="excel"></a>Excel
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="onenote"></a>OneNote
 
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解更多详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="outlook"></a>Outlook
 
 - **邮件所有者删除对话：** 此功能允许你通过邮件所有者删除对话。
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -609,7 +676,7 @@ ms.locfileid: "48950001"
 
 ### <a name="word"></a>Word
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -899,7 +966,7 @@ ms.locfileid: "48950001"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
 
-- 解决了用户在答复电子邮件或撰写新电子邮件时收到以下错误的问题，错误为“此网页中的部分文件不在预期位置。 是否仍要下载它们？ 如果确定此网页来自可靠来源，请单击‘是’”
+- 解决了导致用户在答复或撰写新的电子邮件时收到错误的问题，其中该错误显示“此网页中的部分文件不在预期位置。 是否仍要下载它们？ 如果确定此网页来自可靠来源，请单击‘是’”
 
 
 ### <a name="project"></a>Project
@@ -913,7 +980,7 @@ ms.locfileid: "48950001"
 
 
 
-[//]: # (请勿删除 Bug 详细信息内容结尾)
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-august-17"></a>版本2008:8月17日
 *版本2008（内部版本13127.20208）*
@@ -1099,7 +1166,7 @@ ms.locfileid: "48950001"
 
 ### <a name="outlook"></a>Outlook
 
-- **选择搜索位置：** “新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。 感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。 此项设计和更新正是来自于该反馈！
+- **选择搜索位置：**“新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。 感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。 此项设计和更新正是来自于该反馈！
 
 ### <a name="word"></a>Word
 
@@ -1884,7 +1951,7 @@ ms.locfileid: "48950001"
 
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
@@ -2044,7 +2111,7 @@ ms.locfileid: "48950001"
 
 - 修复了以下问题：在工作表上选择单元格区域导致选择单个单元格。
 
-- 在当前版本的 Excel 中打开在 Excel 2016 中保存且带有数字签名的工作簿时，可能会使签名无效。
+- 在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。
 
 - 修复了导致以下情形的问题：复制包含数据透视表的工作表后，在某些情况下 Excel 崩溃。
 
@@ -2249,7 +2316,7 @@ ms.locfileid: "48950001"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **“添加表”任务窗格：** ：Access 的新“添加表”任务窗格终于推出了！ 使用此功能，可以轻松地选择/多重选择要添加到查询窗口或从中删除的表，而无需转到“显示表”对话框来获取查询和关系视图。 此外，还包括显示链接表的新“链接”选项卡、用于筛选当前列表的搜索框、“拖放”行为等！
+- **“添加表”任务窗格：**：Access 的新“添加表”任务窗格终于推出了！ 使用此功能，可以轻松地选择/多重选择要添加到查询窗口或从中删除的表，而无需转到“显示表”对话框来获取查询和关系视图。 此外，还包括显示链接表的新“链接”选项卡、用于筛选当前列表的搜索框、“拖放”行为等！
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -2351,13 +2418,13 @@ ms.locfileid: "48950001"
 [//]: # (请勿移除错误详细信息内容开头)
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
-- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **敏感度标签** ：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>已解决的问题
