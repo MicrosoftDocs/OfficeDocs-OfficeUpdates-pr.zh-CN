@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 2702cc1098282aa53972a2b01beb8eb9545b04ff
-ms.sourcegitcommit: 4b5ee25e335d9585dfe5660faac747600c9e3e69
+ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
+ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49382632"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49408338"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 当前频道（预览）发行说明
 
@@ -27,6 +27,20 @@ ms.locfileid: "49382632"
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
 
 [//]: # (请勿移除)
+
+## <a name="version-2011-november-24"></a>版本2011：11月24日
+*版本 2011（内部版本 13426.20294）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="office-suite"></a>Office 套件
+
+- 修复了将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2011-november-21"></a>版本 2011：11 月 21 日
 *版本 2011（内部版本 13426.20274）*
