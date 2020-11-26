@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: ddf6a8dc89f09b831bf162ecab4e853970843431
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 1601e91a17da4d4896ca6e058d14f2973c8c4eaa
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989897"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387457"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
 
@@ -32,6 +32,135 @@ ms.locfileid: "48989897"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿删除错误详细信息内容结尾)
+
+## <a name="version-2011-november-23"></a>版本 2011：11 月 23 日
+*版本 2011（内部版本 13426.20274）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > 帐户，然后在 Office 主题下拉列表中选择使用系统设置。 [了解更多](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > 帐户，然后在 Office 主题下拉列表中选择使用系统设置。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > 帐户，然后在 Office 主题下拉列表中选择使用系统设置。 [了解更多](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > Office 帐户，然后在 Office 主题下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **任务的用户体验更新：** 任务项的可视刷新。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
+
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许你使背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > 帐户，然后在 Office 主题下拉列表中选择使用系统设置。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片。
+
+### <a name="project"></a>Project
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > 帐户，然后在 Office 主题下拉列表中选择使用系统设置。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>Publisher
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > 帐户，然后在 Office 主题下拉列表中选择使用系统设置。 [了解更多](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > 帐户，然后在 Office 主题下拉列表中选择使用系统设置。 [了解更多](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到文件 > 帐户，然后在 Office 主题下拉列表中选择使用系统设置。 [了解更多](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们已修复了在向任务发送状态报告时导致 "收件人" 字段为空白的问题。
+
+
+- 我们解决了导致 MailItem 的 BeforeAttachmentAdd 事件被破坏的问题。
+
+
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes 被排除。 1 = （默认）包含 filetimes。
+
+
+- 我们修复了一个问题，当回复来自 Azure 信息保护的保护标签的邮件时，将导致嵌入式图像消失。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们已修复了 Slide.Shapes.AddMediaObject2 在使用传统的视频格式（MPG-1,Mpeg-2）时崩溃的问题。
+
+
+- 我们已修复了以下问题：复制包含新近录制的音频的幻灯片后保存文件时出现错误。
+
+
+- 已修复了一些损坏的 PowerPoint 文件无法正常打开的问题，即使在执行文档修复操作后也是如此。
+
+
+### <a name="word"></a>Word
+
+- 修复了影响 Word 的优化关口公开的申明错误。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2010-november-17"></a>版本 2010：11 月 17 日
+*版本 2010 (内部版本 13328.20408)*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们解决了导致 MailItem 的 BeforeAttachmentAdd 事件被破坏的问题。
+
+
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = filetimes 被排除。  1 = （默认）包含 filetimes。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 解决在合并错误过程中使用 IRM/受保护的文档时遇到的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 我们修复了一个问题，用户以后可以使用 Visio for 365 Office 中的连接器创建自定义 Visio 模具和内置模板的直线。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了在某些情况下尝试执行 SaveAs 操作时失败的问题。
 
 
 
@@ -60,7 +189,7 @@ ms.locfileid: "48989897"
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-october-27"></a>版本 2010：10 月 27 日
-*版本 2010（内部版本 13328.20292）*
+*版本 2010 (内部版本 13328.20292)*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -73,19 +202,19 @@ ms.locfileid: "48989897"
 
 - **使用 Power Query 创建数据类型：** 从任何数据源使用 Power Query 创建丰富的数据类型。 [了解更多](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[博客文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **使用动作笔快速编辑：** 使用动作笔，可直接在单元格中手写，使用自动转换为 Excel 数据的墨迹记下数据。
 
 ### <a name="outlook"></a>Outlook
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
-- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 [了解更多](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
+- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 [了解更多](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[博客文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="teams"></a>Teams
 
@@ -99,7 +228,7 @@ ms.locfileid: "48989897"
 
 ### <a name="word"></a>Word
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -229,7 +358,7 @@ ms.locfileid: "48989897"
 
 
 
-[//]: # (请勿移除错误信息内容结尾)
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2009-september-28"></a>版本 2009：9 月 28 日
 *版本 2009 (内部版本 13231.20262)*
@@ -383,7 +512,7 @@ ms.locfileid: "48989897"
 
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
 
 
@@ -393,7 +522,7 @@ ms.locfileid: "48989897"
 
 ### <a name="teams"></a>Teams
 
-- **呼叫合并：** “呼叫合并”使最终用户能够将其现行的未保持 1 对 1 呼叫合并到另一个 1 对 1 呼叫或另一个组呼叫中。 这适用于 Teams VOIP 呼叫和 PSTN 呼叫。
+- **呼叫合并：**“呼叫合并”使最终用户能够将其现行的未保持 1 对 1 呼叫合并到另一个 1 对 1 呼叫或另一个组呼叫中。 这适用于 Teams VOIP 呼叫和 PSTN 呼叫。
 
 - **管理员可以为其一线工作人员配置基于班次的状态（上班、下班）：** 管理员可以将其一线工作人员配置为具有基于班次的状态：上班、忙碌（上班时可以切换）和下班。
 
@@ -914,7 +1043,7 @@ ms.locfileid: "48989897"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自动使用新数据类型** ：当您键入类似于股票或地理位置的数据值时，Excel 将其转换为适当的关联数据类型：股票或地理位置。 [了解更多](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **自动使用新数据类型**：当您键入类似于股票或地理位置的数据值时，Excel 将其转换为适当的关联数据类型：股票或地理位置。 [了解更多](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
 - **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮
 
@@ -1079,7 +1208,7 @@ ms.locfileid: "48989897"
 
 - **有问题？询问 Excel：** 现在，Excel Ideas 允许您提出有关数据的问题，无需花费时间编写公式（仅英语）。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1093,7 +1222,7 @@ ms.locfileid: "48989897"
 
 - **在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。
 
-- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="teams"></a>Teams
 
@@ -1223,7 +1352,7 @@ ms.locfileid: "48989897"
 
 ###<a name="powerpoint"></a>PowerPoint
 
-- **批注** ：PowerPoint 中新的批注体验使你可以快速、轻松地发现批注并将其添加到文档中。 通过批注锚定、解决、任务、改进的提及通知等新功能实现协作工作流现代化。
+- **批注**：PowerPoint 中新的批注体验使你可以快速、轻松地发现批注并将其添加到文档中。 通过批注锚定、解决、任务、改进的提及通知等新功能实现协作工作流现代化。
 
 ### <a name="word"></a>Word
 
@@ -1430,7 +1559,7 @@ ms.locfileid: "48989897"
 
 - **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。 [了解更多](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- **用套索选择墨迹：** “绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 
@@ -1498,7 +1627,7 @@ ms.locfileid: "48989897"
 
 - **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -1535,6 +1664,8 @@ ms.locfileid: "48989897"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (|Win32|CC|生产| |16.0.13426.20274|2011 年 11月 23 日版|)
+[//]: # (|Win32|CC|生产| |16.0.13328.20408|2010 年 11 月 17 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13328.20356|2010 年 11 月 10 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13328.20292|2010 年 10 月 27 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13231.20418|2009 年 10 月 21 日版|)
@@ -1543,6 +1674,4 @@ ms.locfileid: "48989897"
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|生产| |16.0.13127.20408|2008 年 9 月 9 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13127.20296|2008 年 8 月 31 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13029.20460|2007 年 8 月 25 日版|)
 [//]: # (请勿修改管理中心元数据内容结尾)

@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990131"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387439"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
 我们的目标是, 在可能的情况下, 提前提供更新规模的信息, 帮助企业客户计划网络带宽利用率。
 
-下表显示了将上一版 Microsoft 365 应用版更新到最新版本时的近似下载大小。 实际下载大小可能会有所不同，差值最多不超过 50 MB。 若要从更低版本更新至当前版本，下载大小会更大。
+The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
 
-若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。 可能需要进行完整下载（至少为 1 GB）。
+If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 
 > [!NOTE]
@@ -35,6 +35,38 @@ ms.locfileid: "48990131"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+## <a name="november-23-2020"></a>2020 年 11 月 23 日
+
+[//]: # (请勿移除内容开头 2020 年 11 月 23 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新发布为版本 2011（内部版本 13426.20274）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2010（内部版本 13328.20408） <br/> |2020 年 11 月 17 日 <br/> |143<br/> |
+|版本 2010（内部版本 13328.20356） <br/> |2020 年 11 月 10 日 <br/> |148<br/> |
+
+
+[//]: # (请勿移除内容结尾 2020 年 11 月 23 日)
+
+## <a name="november-17-2020"></a>2020 年 11 月 17 日
+
+[//]: # (请勿移除内容开头 2020 年 11 月 17 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版为版本 2010（内部版本 13328.20408）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2010（内部版本 13328.20356） <br/> |2020 年 11 月 10 日 <br/> |51<br/> |
+|版本 2010（内部版本 13328.20292） <br/> |2020 年 10 月 27 日 <br/> |60<br/> |
+
+
+[//]: # (请勿移除内容结尾 2020 年 11 月 17 日)
 
 ## <a name="november-10-2020"></a>2020 年 11 月 10 日
 
@@ -513,7 +545,7 @@ ms.locfileid: "48990131"
 
 [//]: # (请勿移除内容开头 2020 年 6 月 2 日)
 
-### <a name="monthly-channel"></a>每月频道
+### <a name="monthly-channel"></a>月度频道
 
 最新版为版本 2005（内部版本 12827.20268）。
 

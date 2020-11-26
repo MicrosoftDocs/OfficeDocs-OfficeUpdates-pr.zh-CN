@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: 58f4904dec4b1ef76682713e5e3cbd40b9206f2f
-ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
+ms.openlocfilehash: f5e93a54dfc4745e1b7c412d1dbd02037d6cef3b
+ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999547"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49385488"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 频道的更新历史记录
 
@@ -31,12 +31,18 @@ ms.locfileid: "48999547"
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office Beta 频道版本和内部版本
 
-如果你注册的是预览体验成员级别，你将经常获得包含新功能和增强功能的更新。以下列表显示了最近的 Beta 版频道和内部版本的历史记录， **最新发布的内部版本将先列出** 。新的内部版本包含先前内部版本中所含的所有更新。
+如果你注册的是预览体验成员级别，你将经常获得包含新功能和增强功能的更新。以下列表显示了最近的 Beta 版频道和内部版本的历史记录，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。
 
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/OfficeUpdates/beta-channel)。
 
 
 [//]: # (请勿删除)
+
+**2020 年 11 月 23 日**<br/>
+版本 2012（内部版本13519.20000）<br/>
+
+**2020年11月16日**<br/>
+版本 2012（内部版本13512.20000）<br/>
 
 **2020 年 11 月 11 日**<br/>
 版本 2012（内部版本 13510.20004）<br/>
