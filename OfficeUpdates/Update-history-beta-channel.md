@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: f5e93a54dfc4745e1b7c412d1dbd02037d6cef3b
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: e183ddcbfb653678aaf3246fc7caae179c8b6426
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385488"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588295"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 频道的更新历史记录
 
 你好，预览体验成员！如果你想知道是否安装了最新的更新或查找最近的预览体验成员内部版本列表，那么你来对地方了。单击[此处](https://insider.office.com/)以了解有关预览体验成员计划的详细信息。
 
 > [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - 从 2004 版开始，Office 365 专业增强版将重命名为“Microsoft 365 企业应用版”。若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - 自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 > [!NOTE]
 >
@@ -31,12 +31,21 @@ ms.locfileid: "49385488"
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office Beta 频道版本和内部版本
 
-如果你注册的是预览体验成员级别，你将经常获得包含新功能和增强功能的更新。以下列表显示了最近的 Beta 版频道和内部版本的历史记录，**最新发布的内部版本将先列出**。新的内部版本包含先前内部版本中所含的所有更新。
+如果注册为预览体验计划级别，将获得带新功能和改进功能的频繁更新。 下面的列表显示最新 Beta 频道版本和内部版本的历史记录，**最新发布的内部版本列在前面**。 新的内部版本包含之前内部版本中所包含的所有更新。
 
 若要查找发行说明，请参阅 [Windows 桌面版的 Office 预览体验成员发行说明](https://docs.microsoft.com/OfficeUpdates/beta-channel)。
 
 
-[//]: # (请勿删除)
+[//]: # (请勿移除)
+
+**2020年12月7日**<br/>
+版本 2101（内部版本 13604.20000）<br/>
+
+**2020年12月2日**<br/>
+版本 2012（内部版本 13530.20000）<br/>
+
+**2020年11月30日**<br/>
+版本 2012（内部版本 13524.20004）<br/>
 
 **2020 年 11 月 23 日**<br/>
 版本 2012（内部版本13519.20000）<br/>

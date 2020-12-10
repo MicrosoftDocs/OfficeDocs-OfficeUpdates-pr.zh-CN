@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: 63e5a6f5335d3f7f0f08d673dae6ba5ad2e6ae75
-ms.sourcegitcommit: 058e54ff0668a2497ace28ef1f3dc8651ddec58e
+ms.openlocfilehash: 7482d963f594c772d5102d0ec9cd146f74edd8c8
+ms.sourcegitcommit: 4382f6248aba344455e891c4cfa32e3600a38c0d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48876693"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49527229"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
@@ -25,6 +25,15 @@ ms.locfileid: "48876693"
 > - 本文中的信息不适用于 Microsoft 365 应用。
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+
+## <a name="december-1-2020"></a>2020 年 12 月 1 日
+**Office 2016**<br/>
+Skype for Business 2016 的更新 ([KB4486745](https://support.microsoft.com/help/4486745)) <br/>
+Microsoft Office 2016 的更新 ([KB4486746](https://support.microsoft.com/help/4486746)) <br/> Microsoft Office 2016 的更新 ([KB4486747](https://support.microsoft.com/help/4486747)) <br/> Microsoft Office 2016 的更新 ([KB4486668](https://support.microsoft.com/help/4486668)) <br/>
+Microsoft Project 2016 的更新 ([KB4486749](https://support.microsoft.com/help/4486749)) <br/> Microsoft Publisher 2016 的更新 ([KB4484334](https://support.microsoft.com/help/4484334)) <br/> Microsoft Office 2016 的更新 ([KB4486716](https://support.microsoft.com/help/4486716)) <br/> Microsoft Visio 2016 的更新 ([KB4486709](https://support.microsoft.com/help/4486709)) <br/>
+Microsoft Word 2016 的更新 ([KB4486756](https://support.microsoft.com/help/4486756)) <br/> 
+
 
 ## <a name="november-3-2020"></a>2020 年 11 月 3 日
 **Office 2016**<br/>
