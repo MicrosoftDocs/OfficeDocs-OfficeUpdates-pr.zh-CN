@@ -9,23 +9,175 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 523eadc2a10787c22b774c4c01dd9997153a8bb8
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990151"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601517"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
-这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本的 2020 年每月企业频道更新中。
+这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年每月 Enterprise 频道更新中。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
-[//]: # (请勿删除)
+[//]: # (请勿移除)
 
 
+
+## <a name="version-2010-december-08"></a>版本 2010：12 月 8 日
+*版本 2010（内部版本 13328.20478）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **创建用于公式的变量：** 通过 LET 函数改进性能、可读性和可组合性。 此功能允许你在新的或预先存在的公式中创建已命名的变量。 [了解更多](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[博客文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看详细信息
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **任务的用户体验更新：** 任务项的可视刷新
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“Office”帐户，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
+
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+
+### <a name="project"></a>Project
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>Publisher
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了从非 Office 应用程序使用 DAO 时会导致应用程序意外关闭的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致 Outlook 为已启用云设置的用户创建第二个空签名的问题。
+
+
+- 我们修复了导致默认情况下不会为用户打开云设置的 n 问题。
+
+
+- 我们修复了导致无法保存用户签名更改的问题。
+
+
+- 解决了导致在答复或转发时中文电子邮件的标题不可阅读的问题。
+
+
+- 我们修复了另存为 OFT 文件时汉字变成问号的问题。
+
+
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。  REG_DWORD IncludeFileTimesInDataObject。  0 = filetimes 被排除。  1 = （默认）包含 filetimes。
+
+
+- 我们解决了导致 MailItem 的 BeforeAttachmentAdd 事件被破坏的问题。
+
+
+- 我们修复了导致某些会议的原始与会者在其他与会者转发会议时收到取消通知的问题。
+
+
+- 解决了导致用户无法向其代理授予编辑器权限的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 这是针对以下问题的修补程序：关闭文档且存在侦听 PresentationBeforeClose 事件和检查作为事件处理程序一部分的 Presentation.Saved 属性的加载项时，“保存”提示会循环显示。
+
+
+- 解决在合并错误过程中使用 IRM/受保护的文档时遇到的问题。
+
+
+- 修复了将公式从 Word 复制/粘贴到 PowerPoint 的问题。
+
+
+### <a name="project"></a>项目
+
+- 修复了打开以特定方式指定资源分布的文件时，Project 可能意外终止的问题。
+
+
+- 修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。
+
+
+- 修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChange 事件中的 NewVal 没有正确的值。
+
+
+### <a name="visio"></a>Visio
+
+- 我们修复了用户可以使用 Visio for Office 365 中的连接器为自定义 Visio 模具和内置模板创建直线的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了将公式从 Word 复制/粘贴到 PowerPoint 的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了 Microsoft 365 端点数据丢失防护无法对磁盘上的 Office 文档进行分类的问题。
+
+
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示“碳粉不足”或“无碳粉”的信息。 将信息更改为显示“碳粉/墨水不足”和“无碳粉/墨水”。
+
+
+- 修复了将注释中的文本复制/粘贴到 Excel 时出错的问题。
+
+
+- 解决了在某些情况下尝试执行 SaveAs 操作时失败的问题。
+
+
+- 解决了尝试保存文件导致故障的问题，该文件从同步备份转换为仅支持服务器。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2009-december-08"></a>版本 2009：12 月 8 日
+*版本 2009（内部版本 13231.20620）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-2009-november-10"></a>版本 2009：9 月 10 日
 *版本 2009（内部版本 13231.20514）*
@@ -81,7 +233,7 @@ ms.locfileid: "48990151"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 解决了在包含大量特定数据对象类型 (E2o) 的文件上导致共同创作慢的问题。
+- 已修复在包含大量特定数据对象类型 (E2o) 的文件上导致共同创作慢的问题。
 
 
 - 解决了在受保护的视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。
@@ -92,7 +244,7 @@ ms.locfileid: "48990151"
 
 ### <a name="project"></a>Project
 
-- 解决了以下问题：如果你正在运行事件代码并尝试通过“任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。
+- 修复了以下问题：如果你正在运行事件代码并尝试通过 “任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。
 
 
 - 解决了打开以特定方式指定资源分布的文件时，Project 可能意外终止的问题。
@@ -131,13 +283,13 @@ ms.locfileid: "48990151"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 解决了以下问题：使用宏设置范围的 FormulaR1C1 属性时，如果图表工作表是活动工作表，则单元格引用将不正确。
+- 我们解决了以下问题：使用宏设置区域的 FormulaR1C1 属性时，如果图表工作表是活动工作表，则单元格引用将不正确。
 
 
 - 解决了可能导致“Excel 在尝试计算一个或多个公式时用尽资源”错误的问题。
 
 
-- 解决了将 Office 语言设置为西班牙语时，数据验证列表可能不会显示列表中的所有项目的问题。
+- 修复了将 Office 语言设置为西班牙语时出现的问题，在有问题的情况下，数据验证列表可能不会显示列表中的所有项目。
 
 
 - 解决了在刷新 OLAP 数据透视表时可能会导致挂起的问题。
@@ -165,13 +317,13 @@ ms.locfileid: "48990151"
 - 解决了导致用户在选择搜索结果时遇到应用程序意外终止的问题。
 
 
-- 解决了以下问题：现在用户可以禁用 Outlook 的 IRM（信息权限管理），而无需在其他 Office 应用程序中禁用它。
+- 我们修复了以下问题：现在用户可以禁用 Outlook 的 IRM （信息权限管理），而无需在其他 Office 应用程序中禁用它。
 
 
 - 解决了导致用户无法向其代理授予编辑器权限的问题。
 
 
-- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -215,7 +367,7 @@ ms.locfileid: "48990151"
 
 - **在 Outlook 中使用快速投票创建投票：** 轻松创建投票、收集选票和在电子邮件中查看结果 [了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **适用于 Outlook 的新个人资料卡片：** 适用于 Outlook 的新个人资料卡片，包括更好的“组织”视图，并且与 Outlook Web 的卡样式相匹配。 [了解更多](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
+- **适用于 Outlook 的新个人资料卡片：** 适用于 Outlook 的新个人资料卡片，包括更好的“组织”视图，并且与 Outlook Web 的卡样式相匹配。 [了解详细信息](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -263,7 +415,7 @@ ms.locfileid: "48990151"
 
 ### <a name="outlook"></a>Outlook
 
-- 解决了用户在答复电子邮件或撰写新电子邮件时收到以下错误的问题，错误为“此网页中的部分文件不在预期位置。 是否仍要下载它们？ 如果确定此网页来自可靠来源，请单击‘是’”
+- 解决了导致用户在答复或撰写新的电子邮件时收到错误的问题，其中该错误显示“此网页中的部分文件不在预期位置。 是否仍要下载它们？ 如果确定此网页来自可靠来源，请单击‘是’”
 
 
 - 解决了导致右键单击上下文菜单无法在搜索控件中显示的问题。
@@ -629,7 +781,7 @@ ms.locfileid: "48990151"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解详细信息](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 
 
@@ -740,7 +892,7 @@ ms.locfileid: "48990151"
 
 - **Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。
 
-- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="outlook"></a>Outlook
 
@@ -750,7 +902,7 @@ ms.locfileid: "48990151"
 
 - **改进日历：** 可查看视觉对象更新，以便更轻松地扫描日历。 [了解更多详细信息](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[博客文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看详细信息
 
-- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -758,15 +910,15 @@ ms.locfileid: "48990151"
 
 - **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
-- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="word"></a>Word
 
-- **用套索选择墨迹：** “绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多详细信息](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **用套索选择墨迹：**“绘图”选项卡上的“套索”工具可帮助你选择用墨迹绘制的对象。 选择单独的笔划或整个字。 [了解更多](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
-- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -941,7 +1093,7 @@ ms.locfileid: "48990151"
 - 解决了导致用户在退出后在任务管理器中看到 Outlook 进程延迟的问题。
 
 
-- 解决了导致用户在使用鼠标上的按钮时偶尔遇到崩溃的问题。
+- 解决了在使用鼠标上的按钮时导致用户偶尔遇到崩溃的问题。
 
 
 - 解决了用户在第三方 MAPI 应用程序中遇到崩溃的问题。
@@ -1004,7 +1156,8 @@ ms.locfileid: "48990151"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 
-[//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32 |MEC |生产|功能|16.0.13328.20478|2010 年 12 月8 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13231.20514|2009 年 11 月 10 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13127.20638|2008 年 10 月 13 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13029.20534|version-2007-september-08|)

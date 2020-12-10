@@ -9,26 +9,223 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
+ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408338"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49613534"
 ---
-# <a name="release-notes-for-office-current-channel-preview"></a>Office 当前频道（预览）发行说明
+# <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
-本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access 和 Project 的当前频道（预览）版本的发行说明。每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。注意，我们通常会在一段时间内推出当前频道（预览）的功能（有时甚至包括修补程序）。这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。因此，如果看不到如下所示的某些功能，不必担心。你会得到它们的。  
+本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access、Project 和 Teams 的当前频道（预览）内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 请注意，我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道（预览）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
+> - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
 
-## <a name="version-2011-november-24"></a>版本2011：11月24日
+## <a name="version-2012-december-07"></a>版本 2012：12 月 7 日
+*版本 2012（内部版本 13530.20064）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+
+### <a name="teams"></a>Teams
+
+- **现在 Teams 支持 Windows 本机通知：** 用户现在可以通过 Teams 内置横幅或 Windows 本机横幅选择首选的通知传递方式。
+
+
+- **Citrix 和 VMWare VDI 中的 Teams 会议 2x2 库视图：** 当 Teams 客户端处于 VDI 优化模式时，通过 VDI 上的 Teams 2x2 库视图功能，可以在 Citrix 和 VMWare 的 VDI 客户端上的 2x2 库视图中查看最多四个与会者视频。
+
+
+- **会议反应：** 会议反应是在会议中进行交互的新方式。 参与者可以发送反应，这些反应将以流的形式显示在共享内容以及发送响应的个人上（如果它们在会议阶段显示）。 
+
+
+- **Web 会议的同聚一堂模式和大型画廊模式** 大型画廊模式允许你一次观看多达 49 个其他用户的视频。 如果至少有 10 个人打开了相机，则此选项可用。 同聚一堂模式可让你感觉自己与会议中的每个人处于同一个共享空间内。 当会议中至少有 5 个人时，同聚一堂模式可用。 
+
+
+- **呼叫合并** 呼叫合并允许用户将他们发出的新呼叫或新的来电合并到其一对一或群组呼叫中。 这适用于 Teams VOIP 呼叫和 PSTN 呼叫。 
+
+
+### <a name="visio"></a>Visio
+
+- **新 Azure 图案和形状：** 我们添加了很多图案，以帮助创建最新的 Azure 图表。 [了解详细信息](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了某些功能区元素未本地化为简体中文版的问题。
+
+
+- 我们修复了更新时 Excel 意外终止的问题。
+
+
+- 我们已修复了从 OneDrive 本地同步文件夹插入文件时，插入对象命令不显示正确图标的问题。
+
+
+- 已修复覆盖模式编辑时，以使用 IME 的语言进行编辑效果不佳的问题。
+
+
+- 修复了以下问题：某些用户在共同创作时，会错误地看到消息栏通知其新版本的文件。
+
+
+- 已修复公式视图中复制和粘贴数据时，Excel 意外关闭的问题。
+
+
+- 修复警报发生时与帮助文章断开的超链接，以防“自动保存”被禁用。
+
+
+- 我们修复了在 Excel 以某些语言运行时，输入数据可能会导致 Excel 停止工作的问题。
+
+
+- 此更改解决了在公式中正确显示字体的问题。
+
+
+- 此操作修复 Power Pivot 无法正确导入制表符分割文本文件的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们已修复导致任务状态报告中的“收件人:”字段为空白的问题。
+
+
+- 我们已修复导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。
+
+
+- 我们已修复从应用程序而非 Outlook 发送 Outlook 邮件时用户遇到某些问题的错误。
+
+
+- 我们修复了保存到草稿时，SmartLink 格式丢失的问题。
+
+
+- 我们已修复将附件添加到从 zip 文件打开的邮件时会失败的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题
+
+
+- 此更改解决了在墨迹分析期间遇到的超时相关问题。
+
+
+- 此更改解决了“创建动态 GIF”用户界面中的语法错误。
+
+
+- 此更改解决了使用特定几何图形对合并形状操作应用时路径填充的问题。
+
+
+- 此更改解决了在公式中正确显示字体的问题。
+
+
+- 此更改解决了处理视频加载过程中可能出现的错误的问题。
+
+
+- 我们已修复 Slide.Shapes.AddMediaObject2 在使用传统视频格式（MPG-1、Mpeg-2）时崩溃的 VBA 问题。
+
+
+- 我们已修复以下问题：当有关 coauthor 的详细信息可用时，未知共同作者的状态指示器不会完全刷新。
+
+
+- 已固定开启标尺调整幻灯片视图大小时取消引用的 null 指针。
+
+
+- 已修复一些损坏的 PowerPoint 文件无法正常打开的问题，即使在执行文档修复操作后也是如此。
+
+
+### <a name="project"></a>Project
+
+- 我们已修复用户在打开据推测已存储了更新信息的项目时，却无法找到所需更新的问题。
+
+
+- 我们已修复如果交付项所关联的 SharePoint 站点不再存在，则无法删除这些交付结果的依赖关系的问题。
+
+
+- 已修复打开资源较多的项目耗时较长的问题。
+
+
+- 已修复用户可能会看到多个与任务关联的未分配工作的问题。
+
+
+- 已修复大型项目中输入任务名称非常缓慢的问题。
+
+
+- 已修复项目文件加载到特定部分出现错误，导致可能打开特定项目的问题。
+
+
+### <a name="word"></a>Word
+
+- 粘贴纯文本往往优先于粘贴多格式文本。 上下文菜单修复允许用户以纯文本粘贴。 否则，用户必须复制到类似“记事本”的纯文本编辑器，然后从“记事本”复制到所需目标应用
+
+
+- 已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题
+
+
+- 此更改解决了编辑文档时光标存在的问题。
+
+
+- 我们已修复图片在缩放时变得模糊的相关问题。
+
+
+- 我们已修复截断长超链接的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- Office 套件已修复安装较新版本的 Office 覆盖旧版本时可能因为丢失注册表条目而导致功能受损（例如无法使用 Power Query）的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2011-december-01"></a>版本 2011：12 月 1 日
+*版本 2011（内部版本 13426.20306）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **每个在线会议：** 使用全新设置，将你的所有会议默认为在线会议，让安排在线会议变得更加简单。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们解决了导致某些会议的原定与会者在其他与会者转发会议时收到取消通知的问题。
+
+
+- 我们已修复虽以配置一个或多个签名，但仍导致有的用户在签名下拉菜单中看不到签名的问题。
+
+
+### <a name="project"></a>Project
+
+- 已修复项目文件加载到特定部分出现错误，导致可能打开特定项目的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2011-november-24"></a>版本 2011：11 月 24 日
 *版本 2011（内部版本 13426.20294）*
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -36,7 +233,7 @@ ms.locfileid: "49408338"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="office-suite"></a>Office 套件
 
-- 修复了将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题
+- 已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题
 
 
 
@@ -62,13 +259,13 @@ ms.locfileid: "49408338"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
 
-- 我们解决了导致 MailItem 的 BeforeAttachmentAdd 事件被破坏的问题。
+- 我们已修复导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。
 
 
-- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes 被排除。 1 = （默认）包含 filetimes
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes 被排除。 1 =（默认）包含 filetimes
 
 
-- 我们修复了一个问题，当回复来自 Azure 信息保护的保护标签的邮件时，将导致嵌入式图像消失。
+- 我们已修复回复来自 Azure 信息保护带有保护标签的邮件时，导致嵌入式图像消失的问题。
 
 
 
@@ -98,12 +295,12 @@ ms.locfileid: "49408338"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
 
-- 我们已修复了在向任务发送状态报告时导致 "收件人" 字段为空白的问题。
+- 我们已修复向任务发送状态报告时导致“收件人”字段为空白的问题。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我们已修复了 Slide.Shapes.AddMediaObject2 在使用传统的视频格式（MPG-1,Mpeg-2）时崩溃的VBA问题。
+- 我们已修复 Slide.Shapes.AddMediaObject2 在使用传统的视频格式（MPG-1、Mpeg-2）时崩溃的 VBA 问题。
 
 
 
@@ -155,7 +352,7 @@ ms.locfileid: "49408338"
 - 修复了用户无法直接从 SharePoint 打开 atomsvc (UTF8+BOM) 文件的问题。
 
 
-- 修复了在演示文稿区域中进行缩放会导致缩放后的选择框和鼠标指针之间出现间隙的问题。
+- 我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。
 
 
 - 修复了将 Excel 工作簿插入 Word 文档时，Word 似乎会挂起的问题。
@@ -192,7 +389,7 @@ ms.locfileid: "49408338"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修复了在演示文稿区域中进行缩放会导致缩放后的选择框和鼠标指针之间出现间隙的问题。
+- 我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。
 
 
 - 修复了图片旁边的内容占位符图标没有工具提示的问题。
@@ -232,7 +429,7 @@ ms.locfileid: "49408338"
 
 ### <a name="word"></a>Word
 
-- 修复了在演示文稿区域中进行缩放会导致缩放后的选择框和鼠标指针之间出现间隙的问题。
+- 我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。
 
 
 - 修复了单击批注提示不会缩小以在视图中显示批注卡片的问题。
@@ -252,7 +449,7 @@ ms.locfileid: "49408338"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。
+- 我们修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。
 
 
 - 修复了 SSO API 交互式登录返回错误代码的问题。
@@ -280,23 +477,23 @@ ms.locfileid: "49408338"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="outlook"></a>Outlook
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许你使背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
 ### <a name="word"></a>Word
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -313,14 +510,14 @@ ms.locfileid: "49408338"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 解决了尝试从同步备份转换为仅支持服务器文件保存导致失败的问题。
+- 解决了尝试保存文件导致故障的问题，该文件从同步备份转换为仅支持服务器。
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-october-27"></a>版本 2010：10 月 27 日
-*版本 2010 (内部版本 13328.20292)*
+*版本 2010（内部版本 13328.20292）*
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -392,7 +589,7 @@ ms.locfileid: "49408338"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用演示者指导练习演示：** 获取有关可以帮助吸引听众保持专注的要点（例如节奏、滥用的单词、肢体语言等等）的指导。 [了解更多](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **使用演示者指导练习演示：** 获取有关可以帮助吸引听众保持专注的要点（例如节奏、滥用的单词、肢体语言等等）的指导。 [了解详细信息](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 ### <a name="word"></a>Word
 
@@ -424,15 +621,15 @@ ms.locfileid: "49408338"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。 [了解更多](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。 [了解详细信息](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。 [了解更多](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。 [了解详细信息](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="word"></a>Word
 
-- **帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。 [了解更多](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。 [了解详细信息](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1712,7 +1909,7 @@ ms.locfileid: "49408338"
 
 ### <a name="excel"></a>Excel
 
-- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。 这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全的 Power BI 数据集计算、总结和分析数据。
+- **在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。 这样做可以让你更好地利用数据透视表和 Power BI。 使用数据透视表从你的安全 Power BI 数据集计算、总结和分析数据。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1965,13 +2162,13 @@ ms.locfileid: "49408338"
 
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。  [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。  [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 

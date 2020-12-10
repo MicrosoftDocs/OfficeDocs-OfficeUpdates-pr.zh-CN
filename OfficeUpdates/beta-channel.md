@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
-ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
+ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
+ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49372266"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49575016"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
-This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
+本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access 和 Project 的 Beta 频道内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 注意，我们通常会在一段时间内向 Beta 频道推出功能（有时甚至包括修补程序）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译。
@@ -29,7 +29,101 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (请勿移除)
 
-[//]: # (请勿删除功能详细信息内容开头)
+[//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2012-december-04"></a>版本 2012：12 月 4 日
+*版本 2012（内部版本 13530.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **在连续召开的会议之间提供时间：** 默认将会议设置为推迟 5-10 分钟开始，让与会者有时间喘口气或来往于不同地点。 [了解详细信息](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+### <a name="visio"></a>Visio
+
+- **新 Azure 图案和形状：** 我们添加了很多图案，以帮助创建最新的 Azure 图表。 [了解详细信息](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 已修复覆盖模式编辑时，以使用 IME 的语言进行编辑效果不佳的问题。
+
+
+- 修复警报发生时与帮助文章断开的超链接，以防“自动保存”被禁用。
+
+
+- 已修复公式视图中复制和粘贴数据时，Excel 意外关闭的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了保存到草稿时，SmartLink 格式丢失的问题。
+
+
+### <a name="project"></a>项目
+
+- 已修复打开资源较多的项目耗时较长的问题。
+
+
+- 已修复项目文件加载到特定部分出现错误，导致可能打开特定项目的问题。
+
+
+### <a name="word"></a>Word
+
+- 粘贴纯文本往往优先于粘贴多格式文本。 上下文菜单修复允许用户以纯文本粘贴。 否则，用户必须复制到类似“记事本”的纯文本编辑器，然后从“记事本”复制到所需目标应用
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2012-november-27"></a>版本 2012：11 月 27 日
+*版本 2012（内部版本 13519.20000）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 此操作修复 Power Pivot 无法正确导入制表符分割文本文件的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已修复从应用程序而非 Outlook 发送 Outlook 邮件时用户遇到某些问题的错误。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此更改解决了与墨迹分析时发生超时有关的问题。
+
+
+- 此更改解决了“创建动态 GIF”用户界面的语法错误。
+
+
+- 已修复了一些损坏的 PowerPoint 文件无法正常打开的问题，即使在执行文档修复操作后也是如此。
+
+
+### <a name="project"></a>项目
+
+- 已修复用户可能看到与某项任务有关的多项未分配任务的问题。
+
+
+- 已修复大型项目中输入任务名称非常缓慢的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2012-november-20"></a>版本 2012：11 月 20 日
 *版本 2012（内部版本13512.20000）*
@@ -56,7 +150,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修复了状态指示器在共同作者的有关可用信息增加时无法完全刷新的问题。
+- 已修复状态指示器在共同作者的有关可用信息增加时无法完全刷新的问题。
 
 
 ### <a name="word"></a>Word
@@ -117,7 +211,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **同时取消隐藏多张工作表：** 不再需要一次取消隐藏一个工作表，可以一次取消隐藏多个隐藏工作表。 [了解更多](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **同时取消隐藏多张工作表：** 不再需要一次取消隐藏一个工作表，可以一次取消隐藏多个隐藏工作表。 [了解详细信息](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 ### <a name="outlook"></a>Outlook
 
@@ -156,7 +250,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **改进了条件格式对话框：** 条件格式对话框现在可以调整大小，现在只需单击一下即可复制规则。 [了解更多](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **改进了条件格式对话框：** 条件格式对话框现在可以调整大小，现在只需单击一下即可复制规则。 [了解详细信息](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -242,7 +336,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用演示者指导排练演示文稿** 在有助于保持受众参与度的事情上获得反馈，比如节奏、音调、填充词、敏感短语等等。 [了解更多](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **使用演示者指导排练演示文稿** 在有助于保持受众参与度的事情上获得反馈，比如节奏、音调、填充词、敏感短语等等。 [了解详细信息](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -286,19 +380,19 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="outlook"></a>Outlook
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="word"></a>Word
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解更多](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -726,7 +820,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - 修复了将文档保存为 HTML 格式时长链接无法换行的问题。
 - 修复了宏 AutoOpen 在 AutoExec 之前运行的问题。
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除 Bug 详细信息内容结尾)
 
 ## <a name="version-2009-august-28"></a>版本 2009：8 月 28 日
 *版本 2009（内部版本 13219.20004）*
@@ -1237,7 +1331,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - 我们修正了将文本复制粘贴到评论窗格中不会显示的问题。
 - 我们修正了评论提示气泡在 100% 缩放时出现模糊的问题。
 - 我们修复了启用策略 Word 2007 和以后的二进制文档和模板会导致一些合作创作失败的问题。
-- 我们修复了长路径名(大于32K)的文件无法打开，并且没有显示适当的错误消息的问题。
+- 我们修复了长路径名(大于 32K)的文件无法打开，并且没有显示适当的错误消息的问题。
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
@@ -1367,7 +1461,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -1394,7 +1488,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -1954,7 +2048,9 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (请勿移除错误详细信息内容结尾)
 
 
-[//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
@@ -1963,6 +2059,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13318.20000|version-2010-september-25|)
-[//]: # (|Win32|DevMain|预览体验计划| |16.0.13312.20006|version-2010-september-18|)
-[//]: # (请勿修改管理中心元数据内容结尾)
+[//]: # (不修改管理中心元数据内容结束)

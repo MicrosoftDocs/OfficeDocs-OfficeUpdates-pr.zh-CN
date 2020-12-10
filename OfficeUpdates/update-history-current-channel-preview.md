@@ -9,25 +9,27 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: c2be3991959bb0dbd2110bc356df0659a6f06b0a
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: bf9c104215f5bd1824bc6536e113a4e5c2c670e6
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408348"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588285"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 当前频道（预览）的更新历史记录
 
-Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Current Channel (Preview) builds, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.
+各位预览体验成员： 大家好！如果想知道你是否已安装最新的更新或要寻找最新的当前频道（预览）内部版本的列表，那么此处可满足你的需要。
+有关预览体验计划的详细信息，请单击[此处](https://insider.office.com/)。
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 当前频道（预览）版本和内部版本
 
-If you're enrolled in the Current Channel (Preview) level, which was formerly called Insider Slow, you get a new Office feature update approximately once a month, plus subsequent builds containing important fixes or security updates. The following list shows recent Current Channel (Preview) versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds. To find release notes, [see](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Also, you can see [What's new for Office Insiders](https://insider.office.com/en-us/releasenotes/windows/slow).
+如果你注册了当前频道（预览）级别（以前称为“预览体验计划 - 慢”），则大约一个月左右会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续内部版本。 下表显示了最近的当前频道（预览）版本和内部版本，其中 **首先列出了最新发布的内部版本**。 新的内部版本包含之前的内部版本中包含的所有更新。
+若要查找发行说明，[请参阅](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)。 此外，你还可以查看 [Office 预览体验计划的新增功能](https://insider.office.com/en-us/releasenotes/windows/slow)。
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - 自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
@@ -35,6 +37,12 @@ If you're enrolled in the Current Channel (Preview) level, which was formerly ca
 
 
 [//]: # (请勿移除)
+
+**2020年12月7日**<br/>
+版本 2012 (内部版本 13530.20064) <br/>
+
+**2020年12月1日**<br/>
+版本 2011 (内部版本 13426.20306) <br/>
 
 **2020年11月24日**<br/>
 版本 2011（内部版本 13426.20294）<br/>

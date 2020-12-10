@@ -9,26 +9,75 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 60e12b7b58c06415c80db20cd35f41c622c0bbd0
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990071"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601467"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>有关 2020 年半年企业频道发行的发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年企业频道更新中。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 >
 >- 如果半年企业频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用版，现在默认情况下会包括 OneNote 2016。
 
 
+[//]: # (请勿删除 Bug 详细信息内容结尾)
+
+## <a name="version-2002-december-08"></a>版本 2002：12 月 8 日
+*版本 2002（内部版本 12527.21416）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 当从 Excel 中复制内容并使用“嵌入”选项粘贴到 PowerPoint 时，改进了 PowerPoint 中的文本间距调整。
+
+
+- 我们修复了 Excel 在重新计算期间停止运行的问题。
+
+
+- 修复了用户无法直接从 SharePoint 打开 atomsvc (UTF8+BOM) 文件的问题。
+
+
+- 修复了导致在 PowerPivot 中无法从“表预览”和“查询编辑器”进行切换的问题。
+
+
+- 改进了使用许多最近发布的功能的文件的性能。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了以下问题：设置 OME 配置时会在邮件项目上添加一个无关的附件，这会迫使 Outlook 对邮件进行加密，即使在服务端设置了 DecryptAttachmentsForEncryptOnly 选项也是如此。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了以下问题：当用户将源路径更改为本地 OneDrive 文件夹时，链接的 excel 图表出现错误地更改为 excel 工作表。
+
+
+### <a name="project"></a>Project
+
+- 我们修复了以下问题：如果 URL 以 .com 结尾，则无法通过 Project Web App 在 Project 桌面客户端中打开项目。
+
+
+
 [//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-1908-december-08"></a>版本 1908：12 月 8 日
+*版本 1908（内部版本 11929.20984）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出了安全更新
 
 ## <a name="version-2002-november-10"></a>版本 2002：11 月 10 日
 *版本 2002（内部版本 12527.21330）*
@@ -127,7 +176,7 @@ ms.locfileid: "48990071"
 
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除 Bug 详细信息内容结尾)
 
 ## <a name="version-2002-september-08"></a>版本 2002：9 月 8 日
 *版本 2002（内部版本 12527.21104）*
@@ -246,7 +295,7 @@ ms.locfileid: "48990071"
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **手绘：** 让工作簿中的 Office 形状呈现随意的手绘外观。 [了解更多](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[博客文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看详细信息
+- **手绘：** 让工作簿中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[博客文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看详细信息
 
 - **查找要找的内容：** 搜索命令、人员、文件、照片、Web 文章等等。 [了解更多](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -268,7 +317,7 @@ ms.locfileid: "48990071"
 
 - **让我把它画出来：** 在图片上进行涂鸦或添加绘图画布以使用墨迹表达你的想法。 [了解更多](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
-- **获取位置建议：** 在安排约会和会议时，开始键入位置，Outlook 就会推荐会议室、地址和其他邻近位置。 [了解更多](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />在[博客文章](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)中查看详细信息
+- **获取位置建议：** 在安排约会和会议时，开始键入位置，Outlook 就会推荐会议室、地址和其他邻近位置。 [了解详细信息](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />在[博客文章](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)中查看详细信息
 
 - **针对攻击的高级防护：** 通过 Office 365 高级威胁防护, 可通过电子邮件主题中的超链接、附加邮件、签名邮件、网络路径等的方式抵御攻击。
 
@@ -278,7 +327,7 @@ ms.locfileid: "48990071"
 
 - **轻松发现网络钓鱼邮件：** 垃圾邮件和网络钓鱼邮件具有不同的外观，因此你可以轻松从收件箱中识别并删除它们。
 
-- **所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。 [了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
+- **所有加密选项都在一个位置：** 只需转到“选项”>“加密”以选择如何保护电子邮件。[了解更多](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
 
 - **在有拼写错误的情况下进行搜索：** 即使你的拼写有误，Outlook 仍将找到你在查找的内容。
 
@@ -288,19 +337,19 @@ ms.locfileid: "48990071"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **你来计算，我们来设置格式：** 我们将书写数学表达式更改成标准字符。只需选择“将墨迹转换为数学公式”，再选择手写笔记即可开始。 [了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **你来计算，我们来设置格式：** 我们将书写数学表达式更改成标准字符。只需选择“将墨迹转换为数学公式”，再选择手写笔记即可开始。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解更多](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
 - **用墨迹绘制精彩绝伦的幻灯片：** 将墨迹转换为标准形状和文本，然后从 PowerPoint 设计器获取智能幻灯片设计灵感。 [了解更多](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-- **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 [了解更多](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[博客文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看详细信息
+- **手绘：** 让演示文稿中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[博客文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看详细信息
 
 - **墨迹即时重播：** 在幻灯片上使用墨迹时，可应用重播动画，在幻灯片放映期间重播墨迹的实际绘制过程。 [了解更多](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)<br />在[博客文章](https://blog-insider.office.com/2019/07/02/be-more-expressive-in-your-presentations-by-using-ink-replay-in-powerpoint/)中查看详细信息
 
 - **更安全的视频体验：** 安全增强意味着更安全的联机视频体验。
 
-- **将插图另存为 SVG** ：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **将插图另存为 SVG**：将图表、形状或其他插图另存为可缩放矢量图形，这样做可以调整其大小，而不会降低图像质量。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **打印讲义上的幻灯片编号：** 幻灯片编号将会自动包括在讲义上。 打开或是关闭它们，全都取决于你。 [了解更多](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
@@ -346,7 +395,7 @@ ms.locfileid: "48990071"
 
 - **将文件转换为改进辅助功能：** 将文件升级到新式格式，使其更易于所有人访问。<br />在[博客文章](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)中查看详细信息
 
-- **手绘：** 让文档中的 Office 形状呈现随意的手绘外观。 [了解更多](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[博客文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看详细信息
+- **手绘：** 让文档中的 Office 形状呈现随意的手绘外观。 [了解详细信息](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[博客文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看详细信息
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解更多](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -358,7 +407,7 @@ ms.locfileid: "48990071"
 
 - **修复了 3D 对象合并导致的文档损坏问题：** 修复了 3D 对象合并导致的文档损坏问题。
 
-- **合著改进** ：提高了在具有修订的文档中进行合著时的 Word 性能。
+- **合著改进**：提高了在具有修订的文档中进行合著时的 Word 性能。
 
 - **合著改进：** 提高了合著时的可靠性。
 
@@ -918,7 +967,7 @@ ms.locfileid: "48990071"
 
 - 解决了一个问题，该问题导致用户在将共享日历文件夹同步到 OST 时遇到问题，这导致他们与这些文件夹进行交互时出现权限错误。
 
-- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/zh-CN/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - 解决了 SMIME 算法选择方面的问题。
 
@@ -1420,7 +1469,7 @@ ms.locfileid: "48990071"
 
 - **见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 [了解更多](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
-- **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。 [了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。[了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **协作更简单：** 共同创作改进意味着使用条件格式、单元格样式等时，所做的更改将与协作者无缝合并。
 
@@ -1428,7 +1477,7 @@ ms.locfileid: "48990071"
 
 - **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
-- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1442,13 +1491,13 @@ ms.locfileid: "48990071"
 
 - **挑选你喜欢的操作：** 不要使用“标志”和“删除”？ “存档”或“标记为已读”呢？ 使用你最常用的命令自定义快速操作菜单。
 
-- **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。 [了解详细信息](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+- **清晰呈现思路：** 当文本或静态图像不起作用时，请使用动态 GIF 来发表你的观点。[了解详细信息](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
 - **添加帐户的更快捷方式：** 由于帐户设置改进，现在可以更轻松地将使用双重身份验证的 Outlook.com 和 Gmail 帐户添加到 Outlook。 [了解更多](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
 - **告别同步限制：** Outlook 改进意味着文件夹限制已取消，因此请继续操作并同步共享邮箱。
 
-- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1464,15 +1513,15 @@ ms.locfileid: "48990071"
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
-- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。 [了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **邀请受众参加测验或调查：** 幻灯片上放入测验或调查。Office 为你收集并存储该响应。[了解详细信息](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-- **比以往更轻松地插入联机视频：** 想要将 Vimeo 或 YouTube 中的视频放到幻灯片上？只需使用视频页面链接即可。 [了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **比以往更轻松地插入联机视频：** 想要将 Vimeo 或 YouTube 中的视频放到幻灯片上？只需使用视频页面链接即可。[了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="visio"></a>Visio
 
@@ -1482,7 +1531,7 @@ ms.locfileid: "48990071"
 
 - **内置 Azure 模具：** 使用数十个 Azure 模具设计云应用或规划基础结构。 [了解更多](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
-- **告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。 [了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **告别断开的 Excel 链接：** 找不到链接到 Data Visualizer 图表的 Excel 工作簿？ 重新链接，你又可以开工了。[了解更多](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
@@ -1492,9 +1541,9 @@ ms.locfileid: "48990071"
 
 - **“学习工具”模式可额外支持更多页面颜色：** Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。 许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
 
-- **使用笔迹编辑器随心编辑：** 使用单个笔划、拆分或连接字词、添加新行或使用手写笔插入字词。 [了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **使用笔迹编辑器随心编辑：** 使用单个笔划、拆分或连接字词、添加新行或使用手写笔插入字词。[了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。 [了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **将文档从静态转换为惊艳：** 将文档转换为易于共享的交互式网页，使其在任何设备上都看起来很棒。[了解更多](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 - **增加内容的覆盖面：** 需要让你的文档易于访问？ 让辅助功能检查器随时进行关注，但不妨碍到你。 通过单击“审查”>“检查辅助功能”进行尝试 - 我们在状态栏中找到你需要查看的内容时会通知你。
 
@@ -1502,13 +1551,13 @@ ms.locfileid: "48990071"
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。 [了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **使用 Line Focus 提高理解力：** 专心地逐行浏览文档。调整焦点，一目一行、三行或五行。[了解更多](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
 - **使用\@提及** 功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -1795,7 +1844,8 @@ ms.locfileid: "48990071"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 
-[//]: # (请勿修改管理中心元数据内容开头)
+[//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DC|生产| |16.0.12527.21416|2002 年 12 月 8 日版|)
 [//]: # (|Win32|DC|生产| |16.0.12527.21330|2002 年 11 月 10 日版|)
 [//]: # (|Win32|DC|生产| |16.0.12527.21236|2002 年 10 月 13 日版|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)

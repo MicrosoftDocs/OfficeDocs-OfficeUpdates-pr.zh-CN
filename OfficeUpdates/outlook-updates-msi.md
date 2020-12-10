@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: aa96c3580f834af83277bbd75275d3334ef38fca
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7136e7532588747443d19fa876be976b7d91ed3c
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989801"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601567"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -43,13 +43,13 @@ Outlook 与 Microsoft 365 和本地环境的兼容性取决于部署的系统要
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|不适用  <br/> |2016 年 3 月公开更新 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020 年 11 月 PU <br/>[KB4486720](https://support.microsoft.com/help/4486720) 
+|不适用  <br/> |2016 年 3 月公开更新 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020 年 12 月公开更新 <br/>[KB4486748](https://support.microsoft.com/help/4486748) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月公开更新 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020 年 10 月公开更新 <br/>[KB4484524](https://support.microsoft.com/help/4484524)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月公开更新 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020 年 12 月公开更新 <br/>[KB4486732 ](https://support.microsoft.com/help/4486732 )  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新
 > [!IMPORTANT]
@@ -57,6 +57,6 @@ Outlook 与 Microsoft 365 和本地环境的兼容性取决于部署的系统要
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 5 日公开更新 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月公开更新 <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020 年 10 月公开更新 <br/>[KB4486663](https://support.microsoft.com/help/4486663) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 5 日公开更新 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月公开更新 <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020 年 12 月公开更新 <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
    
 

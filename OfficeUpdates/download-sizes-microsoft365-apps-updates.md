@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: d3645b8814459970e7eaf0a2788cb292be739825
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387439"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601427"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
 我们的目标是, 在可能的情况下, 提前提供更新规模的信息, 帮助企业客户计划网络带宽利用率。
 
-The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
+下表显示了将上一版 Microsoft 365 应用版更新到最新版本时的近似下载大小。 实际下载大小可能会有所不同，差值最多不超过 50 MB。 若要从更低版本更新至当前版本，下载大小会更大。
 
-If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
+若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。 可能需要进行完整下载（至少为 1 GB）。
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - 自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 
 > [!NOTE]
@@ -35,6 +35,87 @@ If you are switching to a different channel, for example from Semi-Annual Channe
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+## <a name="december-8-2020"></a>2020 年 12 月 8 日
+
+[//]: # (请勿移除内容结尾 2020 年 12 月 8 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版为版本 2011（内部版本 13426.20332）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2011 (内部版本 13426.20308)  <br/> |2020 年 12 月 2 日 <br/> |55<br/> |
+|版本 2011（内部版本 13426.20294） <br/> |2020 年 11 月 30 日 <br/> |227<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>每月企业频道
+
+最新版本是版本 2010（版本 13328.20478）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2009（内部版本 13231.20514） <br/> |2020 年 11 月 10 日 <br/> |127<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企业频道（预览）
+
+最新版为版本 2008（内部版本 13127.20910）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2008（内部版本 13127.20760） <br/> |2020 年 11 月 10 日 <br/> |68<br/> |
+|版本 2008（内部版本 13127.20638） <br/> |2020 年 10 月 13 日 <br/> |75<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企业频道
+
+最新版为版本 2002（内部版本 12527.21416）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2002（内部版本 12527.21330） <br/> |2020 年 11 月 10 日 <br/> |68<br/> |
+|版本 2002（内部版本 12527.21236） <br/> |2020 年 10 月 13 日 <br/> |71<br/> |
+
+
+
+[//]: # (请勿移除内容结尾 2020 年 12 月 8 日)
+
+
+
+
+## <a name="december-2-2020"></a>2020 年 12 月 2 日
+
+[//]: # (请勿移除内容结尾 2020 年 12 月 2 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版本是版本 2011（内部版本 13426.20308）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2011（内部版本 13426.20294） <br/> |2020 年 11 月 30 日 <br/> |53<br/> |
+|版本 2011（内部版本13426.20274） <br/> |2020 年 11 月 23 日 <br/> |241<br/> |
+
+
+[//]: # (请勿移除内容结尾 2020 年 12 月 2 日)
+
+## <a name="november-30-2020"></a>2020 年 11 月 30 日
+
+[//]: # (请勿移除内容开头 2020 年 11 月 30 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版本是版本 2011（内部版本 13426.20294）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2011（内部版本13426.20274） <br/> |2020 年 11 月 23 日 <br/> |40<br/> |
+|版本 2010（内部版本 13328.20408） <br/> |2020 年 11 月 17 日 <br/> |146<br/> |
+
+
+[//]: # (请勿移除内容结尾 2020 年 11 月 30 日)
 
 ## <a name="november-23-2020"></a>2020 年 11 月 23 日
 
@@ -545,7 +626,7 @@ If you are switching to a different channel, for example from Semi-Annual Channe
 
 [//]: # (请勿移除内容开头 2020 年 6 月 2 日)
 
-### <a name="monthly-channel"></a>月度频道
+### <a name="monthly-channel"></a>每月频道
 
 最新版为版本 2005（内部版本 12827.20268）。
 
@@ -784,7 +865,7 @@ If you are switching to a different channel, for example from Semi-Annual Channe
 
 ## <a name="related-topics"></a>相关主题
 
-- [Microsoft 365 应用版更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 应用版更新通道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Microsoft 365 应用版的更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
 
