@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 523eadc2a10787c22b774c4c01dd9997153a8bb8
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 44a77260e0e674eccf53a76a0a451a3bfa2d7566
+ms.sourcegitcommit: 244f8fded28adafd66397baee0418254db5c9de2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601517"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49623123"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -36,49 +36,21 @@ ms.locfileid: "49601517"
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
-### <a name="access"></a>Access
-
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
 ### <a name="excel"></a>Excel
 
-- **创建用于公式的变量：** 通过 LET 函数改进性能、可读性和可组合性。 此功能允许你在新的或预先存在的公式中创建已命名的变量。 [了解更多](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[博客文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看详细信息
-
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="onenote"></a>OneNote
-
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **使用数据类型从 Power BI 获取组织数据：** 从 Power BI Excel 数据类型现在推出 Office 365 E5/A5 或 Microsoft 365 E5/A5 的组织中的预览体验成员。 获取所需信息并轻松刷新，这对许多日常工作流至关重要。 我们将为你提供从 Power BI 到 Excel 中的数据类型的公司或组织信息的访问权限，这将扩大你在电子表格中引入链接信息的能力。
 
 ### <a name="outlook"></a>Outlook
 
 - **任务的用户体验更新：** 任务项的可视刷新
 
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“Office”帐户，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
 - **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
-
-### <a name="project"></a>Project
-
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="publisher"></a>Publisher
-
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="visio"></a>Visio
-
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="word"></a>Word
-
-- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -146,7 +118,7 @@ ms.locfileid: "49601517"
 
 ### <a name="visio"></a>Visio
 
-- 我们修复了用户可以使用 Visio for Office 365 中的连接器为自定义 Visio 模具和内置模板创建直线的问题。
+- 我们修复了一个问题，用户以后可以使用 Visio for Office 365 中的连接器创建自定义 Visio 模具和内置模板的直线。
 
 
 ### <a name="word"></a>Word
@@ -270,7 +242,7 @@ ms.locfileid: "49601517"
 
 
 
-[//]: # (请勿删除错误详细信息内容结尾)
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
 *版本 2008（内部版本 13127.20760）*
@@ -781,7 +753,7 @@ ms.locfileid: "49601517"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解详细信息](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。 [了解更多](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 
 
@@ -892,7 +864,7 @@ ms.locfileid: "49601517"
 
 - **Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。
 
-- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="outlook"></a>Outlook
 
@@ -902,7 +874,7 @@ ms.locfileid: "49601517"
 
 - **改进日历：** 可查看视觉对象更新，以便更轻松地扫描日历。 [了解更多详细信息](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[博客文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看详细信息
 
-- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -910,7 +882,7 @@ ms.locfileid: "49601517"
 
 - **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
-- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="word"></a>Word
 
@@ -918,7 +890,7 @@ ms.locfileid: "49601517"
 
 - **选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。<br />在[博客文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看详细信息
 
-- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
+- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[博客文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看详细信息
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -1014,7 +986,7 @@ ms.locfileid: "49601517"
 
 - **6 个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。 [了解详细信息](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解详细信息](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[博客文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看详细信息
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解更多](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[博客文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看详细信息
 
 - **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
 
@@ -1032,11 +1004,11 @@ ms.locfileid: "49601517"
 
 - **PowerPoint 中的快速实时协作：** 在 PowerPoint 中快速展开实时协作
 
-- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **不再跳转到浏览器：** 由你决定如何打开 Office 文档链接：在浏览器还是在应用中打开。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解详细信息](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[博客文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看详细信息
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[博客文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看详细信息
 
 - **更好的图表：** 有了更好的连接器和更流程的墨迹转换过程，你可以更轻松用墨迹表达你的想法。 [了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
