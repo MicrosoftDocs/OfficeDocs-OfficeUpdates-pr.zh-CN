@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: bf9c104215f5bd1824bc6536e113a4e5c2c670e6
-ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
+ms.openlocfilehash: 29a5e61611e853638aa63e1e5ee4cce47e0ba06c
+ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49588285"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49673980"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 当前频道（预览）的更新历史记录
 
@@ -24,7 +24,7 @@ ms.locfileid: "49588285"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 当前频道（预览）版本和内部版本
 
 如果你注册了当前频道（预览）级别（以前称为“预览体验计划 - 慢”），则大约一个月左右会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续内部版本。 下表显示了最近的当前频道（预览）版本和内部版本，其中 **首先列出了最新发布的内部版本**。 新的内部版本包含之前的内部版本中包含的所有更新。
-若要查找发行说明，[请参阅](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)。 此外，你还可以查看 [Office 预览体验计划的新增功能](https://insider.office.com/en-us/releasenotes/windows/slow)。
+若要查找发行说明，[请参阅](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)。 此外，你还可以查看 [Office 预览体验计划的新增功能](https://insider.office.com/zh-CN/releasenotes/windows/slow)。
 
 
 > [!IMPORTANT]
@@ -37,6 +37,9 @@ ms.locfileid: "49588285"
 
 
 [//]: # (请勿移除)
+
+**2020 年 12 月 14 日**<br/>
+版本 2012（内部版本 13530.20144）<br/>
 
 **2020年12月7日**<br/>
 版本 2012 (内部版本 13530.20064) <br/>
