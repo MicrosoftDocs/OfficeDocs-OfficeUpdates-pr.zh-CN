@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
-ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
+ms.openlocfilehash: f6b5462189fa7cf9310c3d69b8ab34474ed96c07
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48994961"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684074"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -30,8 +30,27 @@ ms.locfileid: "48994961"
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="december-2020-release"></a>2020 年 12 月发布
 
-## <a name="november-2020-release"></a>2020 年 11 月版本
+**发布日期：** 2020 年 12 月 15 日
+
+*Microsoft 自动更新 4.30*
+
+**Bug 修复和增强功能：**
+- 添加适用于使用 M1 的 Mac 的通用应用支持。
+
+**MAU 更新链接：**
+
+[下载 Microsoft 自动更新 4.30 包](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash：**
+
+9F4C49BE4FCC82DED7BD394F4F2057912B40D0083F754D15495B7BDE9E58EAC4
+
+<br/><br/>
+
+
+## <a name="november-2020-release"></a>2020 年 11 月发布
 
 **发布日期：** 2020 年 11 月 10 日
 
