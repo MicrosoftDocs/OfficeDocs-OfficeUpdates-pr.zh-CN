@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 0be2192fb0bc08c399c4c7d698de759bfec3433e
-ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
+ms.openlocfilehash: 33fad2b4d91d05abedee0de26c8a0bc101e9c4bd
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49673970"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725771"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,46 @@ ms.locfileid: "49673970"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2012-december-21"></a>版本 2012：12 月 21 日
+*版本 2012（内部版本 13530.20218）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+### <a name="outlook"></a>Outlook
+
+- **在连续召开的会议之间提供时间：** 默认将会议设置为推迟 5-10 分钟开始，让与会者有时间喘口气或来往于不同地点。 [了解详细信息](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+### <a name="word"></a>Word
+
+- **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了 QAT 中添加的字号命令在更新时自动完成以最接近定义字号的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2012-december-14"></a>版本 2012：12 月 14 日
 *版本 2012（内部版本 13530.20144）*
