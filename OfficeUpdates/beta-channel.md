@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
-ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
+ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
+ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716942"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "49733205"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,48 @@ ms.locfileid: "49716942"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2101-december-25"></a>版本 2101：12 月 25 日
+*版本 2101（内部版本 13617.20002）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 更新以便在从 Excel 复制图表并粘贴到 Word 中时保留小数和千位分隔符设置
+
+
+- 修正了当打开具有无效文件属性（创建时间、修改时间等）的 UNC 文件时，Excel 会意外关闭的问题
+
+
+- 此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了以下问题：导致用户无法指定在从 Word 启动邮件合并时允许访问时长，从而导致他们获得过多提示的问题。
+
+
+- 我们修复了导致基于兑换的加载项用户意外关闭 Outlook 的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。
+
+
+### <a name="word"></a>Word
+
+- 此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。
+
+
+- 修正了评论卡上的回复框不在屏幕上的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2101-december-18"></a>版本 2101：12 月 18 日
 *版本 2101 (内部版本 13610.20002)*
@@ -1577,7 +1619,7 @@ ms.locfileid: "49716942"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -1604,7 +1646,7 @@ ms.locfileid: "49716942"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -2165,6 +2207,7 @@ ms.locfileid: "49716942"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
@@ -2174,5 +2217,4 @@ ms.locfileid: "49716942"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (不修改管理中心元数据内容结束)
