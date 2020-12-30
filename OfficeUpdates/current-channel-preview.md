@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 33fad2b4d91d05abedee0de26c8a0bc101e9c4bd
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
+ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725771"
+ms.lasthandoff: 12/28/2020
+ms.locfileid: "49735500"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,20 @@ ms.locfileid: "49725771"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2012-december-28"></a>版本 2012：12 月 28 日
+*版本 2012（内部版本 13530.20264）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致一些用户在加载日历时遇到挂起的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2012-december-21"></a>版本 2012：12 月 21 日
 *版本 2012（内部版本 13530.20218）*
@@ -1141,7 +1155,7 @@ ms.locfileid: "49725771"
 
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除 Bug 详细信息内容结尾)
 
 ## <a name="version-2008-september-04"></a>版本 2008：9 月 4 日
 *版本 2008（内部版本 13127.20378）*
