@@ -5,23 +5,22 @@
 ## [更新大小](download-sizes-microsoft365-apps-updates.md)
 
 ## 当前频道
-### [2021-2020](current-channel.md)
-### [2019 年](monthly-channel-2019.md)
-### [2018 年](monthly-channel-2018.md)
+### [发行说明](current-channel.md)
+### [已存档发行说明](monthly-channel-2019.md)
 
 ## 每月企业频道
-### [2021-2020](monthly-enterprise-channel.md)
+### [发行说明](monthly-enterprise-channel.md)
 
 ## 半年企业频道
-### [2021-2020](semi-annual-enterprise-channel.md)
-### [2019 年](semi-annual-channel-2019.md)
-### [2018 年](semi-annual-channel-2018.md)
+### [发行说明](semi-annual-enterprise-channel.md)
+### [已存档发行说明](semi-annual-channel-2019.md)
+
 
 
 ## 半年企业频道（预览）
-### [2021-2020](semi-annual-enterprise-channel-preview.md)
-### [2019 年](semi-annual-channel-targeted-2019.md)
-### [2018 年](semi-annual-channel-targeted-2018.md)
+### [发行说明](semi-annual-enterprise-channel-preview.md)
+### [已存档发行说明](semi-annual-channel-targeted-2019.md)
+
 
 
 ## Office 预览体验成员计划  
