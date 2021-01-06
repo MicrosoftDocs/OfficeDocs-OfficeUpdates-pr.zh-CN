@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
-ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
+ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "49733205"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748220"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,65 @@ ms.locfileid: "49733205"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2101-january-01"></a>版本 2101：1 月 1 日
+*版本 2101（内部版本 13624.20002）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。
+
+### <a name="word"></a>Word
+
+- **强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="onenote"></a>OneNote
+
+- 此更改解决了影响 OneNOte 的渲染问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 此更改使得 Outlook 得以利用一项 Exchange 服务器设置， 此设置会抑制 Exchange Online 存档邮箱对最终用户的显示。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此更改解决了合并形状处理文本的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复后使得新式评论更可靠。
+
+
+- 修复了使用@提及编辑评论帖子时的问题。
+
+
+- 创建新 Word 实例时评论草稿会消失。
+
+
+- 修复了评论窗格中嵌套滚动条的问题。
+
+
+
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-2101-december-25"></a>版本 2101：12 月 25 日
 *版本 2101（内部版本 13617.20002）*
@@ -1619,7 +1678,7 @@ ms.locfileid: "49733205"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -1646,7 +1705,7 @@ ms.locfileid: "49733205"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -2207,6 +2266,7 @@ ms.locfileid: "49733205"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
@@ -2216,5 +2276,4 @@ ms.locfileid: "49733205"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (不修改管理中心元数据内容结束)

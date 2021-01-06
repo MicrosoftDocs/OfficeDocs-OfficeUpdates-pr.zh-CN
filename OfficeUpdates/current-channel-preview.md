@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
-ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
+ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
+ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/28/2020
-ms.locfileid: "49735500"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49750623"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,29 @@ ms.locfileid: "49735500"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2012-january-04"></a>版本 2012：1 月 4 日
+*版本 2012（内部版本 13530.20316）*
+* 各种 bug 和性能修补程序。
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。
+
+### <a name="word"></a>Word
+
+- **强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。
+
+
+[//]: # (请勿删除功能详细信息内容结尾)
 
 ## <a name="version-2012-december-28"></a>版本 2012：12 月 28 日
 *版本 2012（内部版本 13530.20264）*
@@ -1155,7 +1178,7 @@ ms.locfileid: "49735500"
 
 
 
-[//]: # (请勿删除 Bug 详细信息内容结尾)
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-september-04"></a>版本 2008：9 月 4 日
 *版本 2008（内部版本 13127.20378）*
@@ -2245,13 +2268,13 @@ ms.locfileid: "49735500"
 
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。  [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。  [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
