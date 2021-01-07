@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 05b0f1f990c33ae7e3e7f76971eac447c66382f2
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: 5f7a0c255d98678baf5b868b5fd41e213e2901bc
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725791"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760676"
 ---
-# <a name="release-notes-for-current-channel-releases-in-2020"></a>有关 2020 年当前频道发行的发行说明
+# <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
-这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年当前频道更新中。
+我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了当前频道更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
 
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
@@ -32,6 +32,69 @@ ms.locfileid: "49725791"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2012-january-05"></a>版本 2012：1 月 5 日
+*版本 2012（内部版本 13530.20316）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **云端的 Outlook 设置：** 选择 Outlook for Windows 设置（如“自动答复”、“重点收件箱”和“隐私”），然后在任何电脑上进行访问。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用演示者指导排练演示文稿** 在有助于保持受众参与度的事情上获得反馈，比如节奏、音调、填充词、敏感短语等等。 [了解详细信息](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了使用数据透视表的“值显示方式”菜单时，Excel 可能意外关闭的问题。
+
+
+- 修复了当打开包含 Excel 4.0 宏的 Excel 加载项文件时，Excel 可能会禁用宏而不提示的问题。
+
+
+- 修复了以下问题：当某些用户共同创作时，会错误地向其显示存在新文件版本的消息栏通知。
+
+
+- 此更改解决了在公式中正确显示字体的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致一些用户在加载日历时遇到挂起的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此更改解决了使用特定几何图形对合并形状操作应用时路径填充的问题。
+
+
+- 此更改解决了在公式中正确显示字体的问题。
+
+
+- 我们修复了以下问题：在 QAT 中添加的字号命令会在更新时自动补全至最接近的定义字号。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 经过优化的二进制大小。
+
+
+- Anaheim WebView 尚不支持 Windows 信息保护(WIP)。 通过此修复，Office 插件平台可以在启用 WIP 的环境中回退到较低级别的 WebView。 根据客户的计算机环境，它可以是 Edge Spartan WebView 或 Trident WebView。 两个低级别 WebView 均支持 WIP。
 
 
 
@@ -601,7 +664,7 @@ ms.locfileid: "49725791"
 
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
 
 
@@ -1297,7 +1360,7 @@ ms.locfileid: "49725791"
 
 - **有问题？询问 Excel：** 现在，Excel Ideas 允许您提出有关数据的问题，无需花费时间编写公式（仅英语）。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让工作簿变得生动有趣：** 可在工作簿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1311,7 +1374,7 @@ ms.locfileid: "49725791"
 
 - **在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。
 
-- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让幻灯片变得生动有趣：** 可在演示文稿中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="teams"></a>Teams
 
@@ -1323,7 +1386,7 @@ ms.locfileid: "49725791"
 
 - **使工具易于使用：** 在绘图工具箱中，查找可向文本添加墨迹手势的智能笔。 [了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **新图像让文档变得生动有趣：** 可在文档中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1636,7 +1699,7 @@ ms.locfileid: "49725791"
 
 - **随时随地阅读和答复：** 无需打开工作簿即可直接从电子邮件响应评论和提及。
 
-- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解更多](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。 [了解详细信息](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1716,7 +1779,7 @@ ms.locfileid: "49725791"
 
 - **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解详细信息](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -1753,6 +1816,7 @@ ms.locfileid: "49725791"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13530.20316|2012 版 1 月 5 日|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20404|2011 年 12 月 21 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20332|2011 年 12 月 8 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20308|2011 年 12 月 2 日版|)
@@ -1762,5 +1826,4 @@ ms.locfileid: "49725791"
 [//]: # (|Win32|CC|生产| |16.0.13328.20356|2010 年 11 月 10 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13328.20292|2010 年 10 月 27 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13231.20418|2009 年 10 月 21 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13231.20390|2009 年 10 月 13 日版|)
 [//]: # (不修改管理中心元数据内容结束)

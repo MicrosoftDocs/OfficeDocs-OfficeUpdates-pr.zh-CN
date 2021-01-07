@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: ea0bcf4a30146c52bb45fef6361d490580b64739
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601607"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760646"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>有关 2020 年半年企业频道（预览）发行的发行说明
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
-这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版（预览）、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年企业频道更新中。
+我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了半年企业频道（预览）更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
 
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
@@ -176,7 +176,7 @@ ms.locfileid: "49601607"
 
 - 解决了导致在答复或转发时中文电子邮件的标题出现乱码的问题。
 
-- 解决了可选的连接体验阻止加载 Web 加载项的问题。  <br />在[博客文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。  <br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -314,7 +314,7 @@ ms.locfileid: "49601607"
 
 - **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。
 
-- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/zh-CN/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
 
 - **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解详细信息](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -882,7 +882,8 @@ ms.locfileid: "49601607"
 
 - **键入可返回多个值的公式：** 现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解详细信息](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **6 个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。  [了解详细信息](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。  [了解更多](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。  
+  [了解更多](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (请勿移除错误详细信息内容开头)
 

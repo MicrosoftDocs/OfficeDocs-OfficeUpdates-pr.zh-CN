@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 60e12b7b58c06415c80db20cd35f41c622c0bbd0
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 893b5374a24fefdbe1fbdc7788370dd5a87e0251
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601467"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760696"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>有关 2020 年半年企业频道发行的发行说明
+# <a name="release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的发行说明
 
-这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年半年企业频道更新中。
+我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了半年企业频道更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
 
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
@@ -967,7 +967,7 @@ ms.locfileid: "49601467"
 
 - 解决了一个问题，该问题导致用户在将共享日历文件夹同步到 OST 时遇到问题，这导致他们与这些文件夹进行交互时出现权限错误。
 
-- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/zh-CN/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - 解决了 SMIME 算法选择方面的问题。
 
