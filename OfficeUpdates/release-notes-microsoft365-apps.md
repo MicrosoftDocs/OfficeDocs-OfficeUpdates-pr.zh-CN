@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Microsoft 365 应用版最新版本列表，其中包含各更新通道和发行说明链接以及更新历史记录
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748230"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760636"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新发行信息
 
@@ -45,10 +45,10 @@ ms.locfileid: "49748230"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 应用版发行版的发行说明
 
 有关按更新频道和年份列出的发行说明的完整列表，请参阅以下文章：
- - 当前频道： [2021-2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)
- - 每月企业频道：[2021-2020](monthly-enterprise-channel.md)
- - 半年度企业版（预览版）：[2021-2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)
- - 半年度企业版：[2021-2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)
+ - 当前频道：[发行说明](current-channel.md)，[已存档发行说明](monthly-channel-archived.md)
+ - 每月企业频道：[发行说明](monthly-enterprise-channel.md)
+ - 半年企业频道（预览）：[发行说明](semi-annual-enterprise-channel-preview.md)，[已存档发行说明](semi-annual-enterprise-channel-preview-archived.md)
+ - 半年企业频道：[发行说明](semi-annual-enterprise-channel.md)，[已存档发行说明](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的发布历史记录
  有关 Office 部署工具版本的完整列表，请参阅以下文章：
