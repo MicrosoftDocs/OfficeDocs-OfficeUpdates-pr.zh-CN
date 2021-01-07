@@ -6,20 +6,20 @@
 
 ## 当前频道
 ### [发行说明](current-channel.md)
-### [已存档发行说明](monthly-channel-2019.md)
+### [已存档发行说明](monthly-channel-archived.md)
 
 ## 每月企业频道
 ### [发行说明](monthly-enterprise-channel.md)
 
 ## 半年企业频道
 ### [发行说明](semi-annual-enterprise-channel.md)
-### [已存档发行说明](semi-annual-channel-2019.md)
+### [已存档发行说明](semi-annual-enterprise-channel-archived.md)
 
 
 
 ## 半年企业频道（预览）
 ### [发行说明](semi-annual-enterprise-channel-preview.md)
-### [已存档发行说明](semi-annual-channel-targeted-2019.md)
+### [已存档发行说明](semi-annual-enterprise-channel-preview-archived.md)
 
 
 
