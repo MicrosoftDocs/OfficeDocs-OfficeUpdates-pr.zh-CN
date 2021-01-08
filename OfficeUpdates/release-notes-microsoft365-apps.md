@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Microsoft 365 应用版最新版本列表，其中包含各更新通道和发行说明链接以及更新历史记录
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760636"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780670"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新发行信息
 
@@ -64,12 +64,12 @@ ms.locfileid: "49760636"
 
 ## <a name="related-topics"></a>相关主题
 
-- [Microsoft 365 应用版更新通道概述](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 应用版更新通道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
 - [Microsoft 365 应用版中有哪些新增功能？](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 应用版路线图](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 365 应用版消息中心的概述](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 发行信息](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Windows 10 发行信息](https://aka.ms/windows/releaseinfo)
 - [Microsoft 安全更新指南](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
