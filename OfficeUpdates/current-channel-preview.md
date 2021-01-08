@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
-ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
+ms.openlocfilehash: 5c14b7c5e42d76034712a07789bce366b69d1543
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49750623"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780678"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,151 @@ ms.locfileid: "49750623"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2101-january-07"></a>版本2101：07年1月
+*版本2101（内部版本13628.20030）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **同时取消隐藏多张工作表：** 不再需要一次取消隐藏一个工作表，可以一次取消隐藏多个隐藏工作表。 [了解详细信息](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **改进了条件格式对话框：** 条件格式对话框现在可以调整大小，现在只需单击一下即可复制规则。 [了解详细信息](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：Excel 错误地显示新版本文件可用的消息栏，并强制用户将更改保存在工作簿副本中或放弃更改。
+
+
+- 修复了 Selection.Parent.Copy 调用后切换分隔符的问题。
+
+
+- 将格式样式应用于数据透视表时，会提升性能。
+
+
+- 修复了当打开包含 Excel 4.0 宏的 Excel 加载项文件时，Excel 可能会禁用宏而不提示的问题。
+
+
+- 更新以便在从 Excel 复制图表并粘贴到 Word 中时保留小数和千位分隔符设置
+
+
+- 修正了当打开具有无效文件属性（创建时间、修改时间等）的 UNC 文件时，Excel 会意外关闭的问题
+
+
+- 解决了使用 STOCKHISTORY 函数时可能会导致 "资源不足" 警报的问题。
+
+
+- 已向 PQ dll 列表添加 FuzzyClustering dll。
+
+
+- 此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。
+
+
+- 我们已修复 PowerPoint 中的嵌入 Excel 区域预览显示错误大小的问题。
+
+
+### <a name="onenote"></a>OneNote
+
+- 此更改解决了影响 OneNOte 的渲染问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了以下问题：导致用户无法指定在从 Word 启动邮件合并时允许访问时长，从而导致他们获得过多提示的问题。
+
+
+- 此更改使得 Outlook 得以利用一项 Exchange 服务器设置， 此设置会抑制 Exchange Online 存档邮箱对最终用户的显示。
+
+
+- 我们修复了导致基于兑换的加载项用户意外关闭 Outlook 的问题。
+
+
+- 修复了导致用户无法选择多个类别进行搜索的问题。
+
+
+- 修复了从另一个约会复制事件时，会意外更改某些日历项目开始时间的问题。
+
+
+- 解决了导致纯文本 S/MIME 邮件在发送时出现乱码的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此更改解决了合并形状处理文本的问题。
+
+
+- 此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。
+
+
+- 此更改解决了在幻灯片放映中循环播放背景视频的问题。
+
+
+- 修复了 QAT 中添加的字号命令在更新时自动完成以最接近定义字号的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了资源的最大设备不会始终反映最大设备最新更新的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 此问题是由于最近的回归。 我们已解决了此问题。 "另存为网页" 对话框现在使字段按照用户输入正确填充，用户可将其文件无缝地保存为网页。
+
+
+- 此问题已修复。 现在，你可以在其他 Office 应用程序（如 PowerPoint 和 Word）中将 Visio 文件嵌入到对象，并从这些应用程序中无缝访问它们。
+
+
+### <a name="word"></a>Word
+
+- 修复了一个问题，即在中运行自定义散列设置的计算机在进入协作会话时遇到 sha512 以外的散列设置。
+
+
+- 此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。
+
+
+- 修复了使用@提及编辑评论帖子时的问题。
+
+
+- 修复了一个问题使得新式评论更可靠。
+
+
+- 修复了有关删除内容控件中标记为不可编辑的新式批注的问题。
+
+
+- 在评论卡底部键入时修复动画。
+
+
+- 修正了评论卡上的回复框不在屏幕上的问题。
+
+
+- 修复页面顶部显示了批注卡的问题。
+
+
+- 修复了批注中的错误，文本可以在屏幕上滚动。
+
+
+- 修复了评论窗格中嵌套滚动条的问题。
+
+
+- 创建新 Word 实例时评论草稿会消失。
+
+
+- 我们修复了将文档保存到带有隐藏文字的 PDF 时 Word 挂起的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2012-january-04"></a>版本 2012：1 月 4 日
 *版本 2012（内部版本 13530.20316）*

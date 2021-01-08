@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 5f7a0c255d98678baf5b868b5fd41e213e2901bc
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 3b79261feff06820428a77b05fb778b577b0f046
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760676"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780750"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -205,6 +205,10 @@ ms.locfileid: "49760676"
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
+- **在源查询之后命名新工作表：** 将数据加载到新工作表中时，将根据源查询名称命名工作表。
+
+- **使用“高级”对话框创建数据类型：** 在“高级”对话框中，可手动选择合并所创建数据类型的列。
+
 ### <a name="onenote"></a>OneNote
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
@@ -226,6 +230,8 @@ ms.locfileid: "49760676"
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 - **导出范围内的动态 GIF：** 导出到动态 GIF 时选择一系列幻灯片。
+
+- **视频库：** 使用精选和免版税的库提升你的文档应用中提供的免费视频素材
 
 ### <a name="project"></a>Project
 
