@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: f2eb63f0f9724ab4f5927df9696f7007917fe82e
+ms.sourcegitcommit: 75e30d61054abf480f9344b5a54370db93198d11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748220"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49785744"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,37 @@ ms.locfileid: "49748220"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2102-january-08"></a>版本 2102：1 月 8 日
+*版本 2102（内部版本 13704.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **听写功能更佳：** 现在借助全新听写工具栏、语音命令和自动标点支持，可以用语音更轻松地创建内容。
+
+### <a name="word"></a>Word
+
+- **听写功能更佳：** 现在借助全新听写工具栏、语音命令和自动标点支持，可以用语音更轻松地创建内容。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们已修复 PowerPoint 中的嵌入 Excel 区域预览显示错误大小的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2101-january-01"></a>版本 2101：1 月 1 日
 *版本 2101（内部版本 13624.20002）*
@@ -1678,7 +1709,7 @@ ms.locfileid: "49748220"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -1705,7 +1736,7 @@ ms.locfileid: "49748220"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -2266,6 +2297,7 @@ ms.locfileid: "49748220"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
@@ -2275,5 +2307,4 @@ ms.locfileid: "49748220"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (不修改管理中心元数据内容结束)
