@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760646"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837623"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
@@ -23,6 +23,78 @@ ms.locfileid: "49760646"
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2008-january-12"></a>版本2008：1月12日
+*版本2008（内部版本13127.21064）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修正了只读书籍在打开时不再刷新数据透视表数据的问题。
+
+
+- 此更改提供了对以下问题的修复：当从OneDrive本地同步文件夹插入文件时，Excel "插入对象 "不显示正确的图标。
+
+
+- 修正了当客户在共同创作时，会错误地收到关于新版本文件通知的问题。
+
+
+- 修正了在覆写模式下使用输入法编辑器会错误地推进额外字符的编辑问题。
+
+
+- 修正了在使用实时数据和多线程重新计算功能时所出现的问题。
+
+
+- 修复了在使用某些 Windows 安全中心漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外关闭的问题
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了保存到草稿时，SmartLink 格式丢失的问题。
+
+
+- 修复了替代策略时为用户提供自定义对齐文本方法的问题。
+
+
+- 我们修复了另存为 OFT 文件时汉字变成问号的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修正了 Slide.Shapes.AddMediaObject2 在使用传统视频格式（MPG-1,Mpeg-2）时会意外关闭的 VBA 问题。
+
+
+- 已修复一些损坏的 PowerPoint 文件无法正常打开的问题，即使在执行文档修复操作后也是如此。
+
+
+### <a name="project"></a>Project
+
+- 修正了当以某种方式指定资源分布时，项目可能在打开文件时意外终止的问题。
+
+
+### <a name="skype"></a>Skype
+
+- 修复了用户的 TLS-DSK 证书无法在预期时间内更新，而是在有效期剩余不到12小时时续订。
+
+
+- 修复了当Office尚未获得授权时，Skype for Business用户界面在登录后显示为空白的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更改解决了与打开包含遗留图的文件相关的问题。
+
+
+- 此更改解决 SVG 回退代理导致访问违规的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-december-08"></a>版本 2008：12 月 8 日
 *版本 2008（内部版本 13127.20910）*
@@ -123,7 +195,7 @@ ms.locfileid: "49760646"
 
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
 *版本 2008（内部版本 13127.20760）*
@@ -316,7 +388,7 @@ ms.locfileid: "49760646"
 
 - **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/zh-CN/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
 
-- **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解详细信息](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解更多](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -324,7 +396,7 @@ ms.locfileid: "49760646"
 
 - **改进的地图图表：** 我们改进了地图图表，将其与 Excel 的地理数据类型相集成，可显示有关地图位置的丰富信息。 [了解更多](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解详细信息](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[博客文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看详细信息
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[博客文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看详细信息
 
 - **更好的图表：** 有了更好的连接器和更流程的墨迹转换过程，你可以更轻松用墨迹表达你的想法。 [了解更多](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -1364,6 +1436,7 @@ ms.locfileid: "49760646"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.21064 | 版本-2008年1月12日|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20910|2008 年 12 月 8 日版|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20760|2008 年 11 月 10 日版|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20638|2008 年 10 月 13 日版|)

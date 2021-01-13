@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: 8c3c42b5eb9ee1583736bc0e9df002b407ae71a5
-ms.sourcegitcommit: f42b5b75d8599f1876094ae2ceb5411519b69a31
+ms.openlocfilehash: a2463c58b44cb868e93ade384ea95f92a24bb22c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778873"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837483"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -36,34 +36,42 @@ ms.locfileid: "49778873"
 
 [//]: # (请勿移除)
 
-[//]: # (请勿移除预测内容开头)
+## <a name="january-12-2021"></a>2021 年 1 月 12 日
 
-## <a name="january-7-2021"></a>2021年1月7日
+[//]: # (请勿移除内容开头 2021 年 1 月 12 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版本是版本2012（内部版本13530.20376）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2012（内部版本 13530.20316） <br/> |2021 年 1 月 4 日 <br/> |56<br/> |
+|版本 2011（内部版本 13426.20404） <br/> |2020 年 12 月 21 日 <br/> |151<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企业频道
 
-<i>预期版本是版本2011（内部版本13426.20504）。</i>
+最新版本是版本2011（内部版本13426.20526）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
 |版本2010（内部版本13328.20478） <br/> |2020 年 12 月 8 日 <br/> |146<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企业频道（预览）
 
-<i>预期版本是版本2008（内部版本13127.21032）。</i>
+最新版本是版本2008（内部版本13127.21064）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
-|版本2008（内部版本13127.20910） <br/> |2020 年 12 月 8 日 <br/> |56<br/> |
-|版本 2008（内部版本 13127.20760） <br/> |2020 年 11 月 10 日 <br/> |71<br/> |
+|版本2008（内部版本13127.20910） <br/> |2020 年 12 月 8 日 <br/> |48<br/> |
+|版本 2008（内部版本 13127.20760） <br/> |2020 年 11 月 10 日 <br/> |72<br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a>半年企业频道
+### <a name="semi-annual-enterprise-channel"></a>半年度企业频道
 
-<i>预期版本是版本2102（内部版本13127.21032）。</i>
+最新版本是版本2008（内部版本13127.21064）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +79,11 @@ ms.locfileid: "49778873"
 |版本 2002（内部版本 12527.21330） <br/> |2020 年 11 月 10 日 <br/> |373<br/> |
 
 
-[//]: # (请勿移除预测内容结尾)
+
+[//]: # (请勿移除内容结尾 2021 年 1 月 12 日)
+
+
+
 
 ## <a name="january-5-2021"></a>2021 年 1 月 5 日
 
