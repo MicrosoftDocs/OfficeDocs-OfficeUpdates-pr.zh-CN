@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 44a77260e0e674eccf53a76a0a451a3bfa2d7566
-ms.sourcegitcommit: 244f8fded28adafd66397baee0418254db5c9de2
+ms.openlocfilehash: e4c46d64476cab52b9f4d78480dc4d4b652aae6f
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49623123"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837533"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -26,6 +26,145 @@ ms.locfileid: "49623123"
 [//]: # (请勿移除)
 
 
+
+## <a name="version-2011-january-12"></a>版本2011：1月12日
+*版本2011（内部版本13426.20526）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **创建用于公式的变量：** 通过 LET 函数改进性能、可读性和可组合性。 此功能允许你在新的或预先存在的公式中创建已命名的变量。 [了解更多](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[博客文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看详细信息
+
+- **在 Power Query 中创建自定义数据类型：** 使用任何数据源创建一个自定义数据类型，让你将多个相关信息加载到一列中。 [了解更多](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[博客文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看详细信息
+
+- **在源查询之后命名新工作表：** 将数据加载到新工作表中时，将根据源查询名称命名工作表。
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **视频库：** 通过应用内所提供的免版税视频素材库来提升你的文档。
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="project"></a>Project
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>Publisher
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了以下问题：Excel 错误地显示新版本文件可用的消息栏，并强制用户将更改保存在工作簿副本中或放弃更改。
+
+
+- 修正了当打开包含 Excel 4.0 宏的 Excel 加载项文件时，Excel 可能会禁用宏而不提示的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们已修复虽以配置一个或多个签名，但仍导致有的用户在签名下拉菜单中看不到签名的问题。
+
+
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes 被排除。 1 = （默认）包含 filetime。
+
+
+- 我们修复了以下问题：当回复带有来自 Azure 信息保护的保护标签的邮件时，将导致嵌入式图像消失。
+
+
+- 我们修复了导致 MailItem.BeforeAttachmentAdd 事件收到破坏的问题。
+
+
+- 我们修复了在发送任务状态报告时，“收件人”字段为空的问题。
+
+
+- 我们解决了导致某些会议的原定与会者在其他与会者转发会议时收到取消通知的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了一些损坏的 PowerPoint 文件即使在执行文档修复操作后亦无法正常打开的问题。
+
+
+- 我们修复了以下问题：复制包含新近录制的音频的幻灯片后，保存文件时出现错误。
+
+
+- 我们修复了 Slide.Shapes.AddMediaObject2 在使用传统的视频格式（MPG-1、Mpeg-2）时会崩溃的 VBA 问题。
+
+
+- 此更改解决了处理视频加载过程中可能出现的错误的问题。
+
+
+- 修复了将公式从 Word 复制/粘贴到 PowerPoint 的问题。
+
+
+### <a name="project"></a>Project
+
+- 已修复项目文件加载到特定部分出现错误，导致可能打开特定项目的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了影响 Word 的优化关口所暴露出的申明错误。
+
+
+- 我们修复了替换文档样式为模板中的其他样式的问题。
+
+
+- 此更改解决了编辑文档时光标存在的问题。
+
+
+- 修复了将公式从 Word 复制/粘贴到 PowerPoint 的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正了在某些旧版本上安装较新版本的Office，可能会因缺少注册表项而导致功能受损（例如无法使用Power Query）的问题。
+
+
+- 修正了当来自缓存的 URL 和来自 OneDrive 的 URL 不匹配时，文件在打开时不同步的问题。
+
+
+- 我们修复了 SaveRequestManagerCam 导致应用程序关闭而不是返回错误的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2010-december-08"></a>版本 2010：12 月 8 日
 *版本 2010（内部版本 13328.20478）*
@@ -50,7 +189,7 @@ ms.locfileid: "49623123"
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -295,7 +434,7 @@ ms.locfileid: "49623123"
 - 解决了导致用户无法向其代理授予编辑器权限的问题。
 
 
-- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1129,6 +1268,7 @@ ms.locfileid: "49623123"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|MEC|生产|功能|16.0.13426.20526|版本-2011年1月12日|)
 [//]: # (|Win32 |MEC |生产|功能|16.0.13328.20478|2010 年 12 月8 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13231.20514|2009 年 11 月 10 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13127.20638|2008 年 10 月 13 日版|)
