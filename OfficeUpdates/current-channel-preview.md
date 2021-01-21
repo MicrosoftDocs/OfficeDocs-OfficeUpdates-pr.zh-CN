@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 318bdeb50f56102977ba51282e0bcb14458f62e7
-ms.sourcegitcommit: 73f90b5a0c22dc87f8b8d88fe23f849209f5c849
+ms.openlocfilehash: ddd84106439eace1f0566ed336a4ecc83d4d897f
+ms.sourcegitcommit: 7261f86f16c400b51d14f6fd03e81552c78a8326
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49793880"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49903845"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,31 @@ ms.locfileid: "49793880"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2101-january-18"></a>版本 2101：1 月 18 日
+*版本 2101（内部版本 13628.20158）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="project"></a>Project
+
+- 解决了视图中不显示任务边框的问题。
+
+
+- 解决了“工作组规划器”视图中的拖放功能无法用于任务的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2101-january-09"></a>版本 2101：1 月 9 日
 *版本 2101（内部版本 13628.20118）*
@@ -536,10 +561,10 @@ ms.locfileid: "49793880"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
 
-- 我们已修复导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。
+- 我们修复了导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。
 
 
-- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes 被排除。 1 =（默认）包含 filetimes
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作（例如，拖放、剪贴板）中禁用附件的 filetime 包含。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes 被排除。 1 =（默认）包含 filetimes
 
 
 - 我们已修复回复来自 Azure 信息保护带有保护标签的邮件时，导致嵌入式图像消失的问题。
