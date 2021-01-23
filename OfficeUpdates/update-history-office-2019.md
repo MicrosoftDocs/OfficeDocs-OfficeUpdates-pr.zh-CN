@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用 (C2R) 的 Office 2016 和 2019 永久版本的更新历史记录
-ms.openlocfilehash: edd403ffd46e30ff36f158c898946763de32fbb1
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: f1209ee3059dd63e5f5bfd9c5be9230b9a3504ce
+ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837643"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49934400"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 更新历史记录
 
@@ -89,12 +89,12 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|
 |:-----|:-----|
+|2021 年 1 月 21 日|版本 2012（内部版本 13530.20440）|
 |2021 年 1 月 12 日|版本 2012（内部版本 13530.20376）|
 |2021 年 1 月 5 日|版本 2012（内部版本 13530.20316）|
 |2020 年 12 月 21 日|版本 2011（内部版本 13426.20404）|
 |2020 年 12 月 8 日|版本 2011（内部版本 13426.20332）|
 |2020 年 12 月 2 日|版本 2011 (内部版本 13426.20308) |
-|2020 年 11 月 30 日|版本 2011（内部版本 13426.20294）|
 
 
 [//]: # (请勿删除零售表结尾)
@@ -108,6 +108,7 @@ Microsoft 发布 Office 2016 即点即用 (C2R) 版本和 Office 2019 专属 C2R
 
 |**发布日期**|**版本号**|
 |:-----|:-----|
+|2020 年 11 月 30 日|版本 2011（内部版本 13426.20294）|
 |2020 年 11 月 23 日|版本 2011（内部版本13426.20274）|
 |2020 年 11 月 17 日|版本 2010（内部版本 13328.20408）|
 |2020 年 11 月 10 日|版本 2010（内部版本 13328.20356）|

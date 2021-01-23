@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
-ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
+ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
+ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878735"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937067"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,62 @@ ms.locfileid: "49878735"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2102-january-22"></a>版本 2102：1 月 22 日
+*版本 2102（内部版本 13714.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了在重新打开文件时某些使用非连续单元格区域的图表不会加载的问题。
+
+
+- 修复了在使用某些 Windows 安全漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外崩溃的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了与显示彩色表情符号相关的问题。
+
+
+### <a name="word"></a>Word
+
+
+- 这修复了在一段时间断开网络连接之后实时键入和状态无法恢复的问题。
+
+
+- 我们修复了与共同创作相关的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2102-january-15"></a>版本 2102：1 月 15 日
 *版本 2102（内部版本 13707.20008）*
@@ -2333,6 +2389,7 @@ ms.locfileid: "49878735"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
@@ -2342,5 +2399,4 @@ ms.locfileid: "49878735"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (不修改管理中心元数据内容结束)
