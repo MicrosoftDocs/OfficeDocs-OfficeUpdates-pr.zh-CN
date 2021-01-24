@@ -1,5 +1,5 @@
 ---
-title: Microsoft 自动更新 (MAU) 的发布历史记录
+title: Microsoft AutoUpdate (MAU) 的发布历史记录
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -8,25 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: 为 IT 专业人士提供 Microsoft 自动更新 (MAU) 的发布历史记录
-ms.openlocfilehash: 5250255af7fe776e7f8ed07a7d5987076fc08079
-ms.sourcegitcommit: 053560beb18fc8b527e2be661b165e0034e3b1bf
+description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
+ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
+ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49849487"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "49943272"
 ---
-# <a name="release-history-for-microsoft-auto-update-mau"></a>Microsoft 自动更新 (MAU) 的发布历史记录
+# <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
-我们建议始终更新到最新版本的 Microsoft 自动更新 (MAU)。
+我们建议始终更新到最新版本的 Microsoft AutoUpdate (MAU)。
 
-下表提供了 Microsoft 自动更新的发布历史记录信息。该表按发布日期排序，最新发布日期列在第一位。所有更新程序包均为 64 位。
+下表提供了 Microsoft AutoUpdate 的发布历史记录信息。该表按发布日期排序，最新发布日期列在第一位。所有更新程序包均为 64 位。
 
 
 > [!NOTE]
 > 
-> - 仅提供最新版 Microsoft 自动更新的下载链接
-> - Microsoft 自动更新提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft 自动更新的通知。
+> - 仅提供最新版 Microsoft AutoUpdate 的下载链接
+> - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
 
@@ -34,12 +34,12 @@ ms.locfileid: "49849487"
 
 **发布日期：** 2020 年 1 月 13 日
 
-*Microsoft 自动更新 4.31*
+*Microsoft AutoUpdate 4.31*
 
 **Bug 修复和增强功能：**
-- 对于没有自动更新的设备，Microsoft 自动更新现将通过通知而不是 MAU UI 告知新的更新。
+- 对于没有自动更新的设备，Microsoft AutoUpdate 现将通过通知而不是打开 MAU UI 告知新的更新。
 
-[下载 Microsoft 自动更新 4.31 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
+[下载 Microsoft AutoUpdate 4.31 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
 <br/>
 **SHA-256 哈希：**
 
@@ -51,14 +51,14 @@ ms.locfileid: "49849487"
 
 **发布日期：** 2020 年 12 月 15 日
 
-*Microsoft 自动更新 4.30*
+*Microsoft AutoUpdate 4.30*
 
 **Bug 修复和增强功能：**
 - 添加适用于使用 M1 的 Mac 的通用应用支持。
 
 **MAU 更新链接：**
 
-[下载 Microsoft 自动更新 4.30 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
+[下载 Microsoft AutoUpdate 4.30 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash：**
 
@@ -71,7 +71,7 @@ ms.locfileid: "49849487"
 
 **发布日期：** 2020 年 11 月 10 日
 
-*Microsoft 自动更新 4.29*
+*Microsoft AutoUpdate 4.29*
 
 **Bug 修复和增强功能：**
 -   已更新 Microsoft 365 的频道名称。
@@ -79,7 +79,7 @@ ms.locfileid: "49849487"
 
 **MAU 更新链接：**
 
-[下载 Microsoft 自动更新 4.29 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.29.20110804_Updater.pkg)<br/>
+[下载 Microsoft AutoUpdate 4.29 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.29.20110804_Updater.pkg)<br/>
 <br/>
 **SHA-256 哈希：**
 
@@ -91,7 +91,7 @@ ms.locfileid: "49849487"
 
 **发布日期：** 2020 年 10 月 13 日
 
-*Microsoft 自动更新 4.28*
+*Microsoft AutoUpdate 4.28*
 
 **Bug 修复和增强功能：**
 -   MAU UI：摘要视图现在显示用户需要注意错误
@@ -100,7 +100,7 @@ ms.locfileid: "49849487"
 
 **MAU 更新链接：**
 
-[下载 Microsoft 自动更新 4.28 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
+[下载 Microsoft AutoUpdate 4.28 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
 <br/>
 **SHA-256 哈希：**
 
@@ -112,14 +112,14 @@ ms.locfileid: "49849487"
 
 **发布日期：** 2020 年 9 月 16 日
 
-*Microsoft 自动更新 4.27*
+*Microsoft AutoUpdate 4.27*
 
 **Bug 修复和增强功能：**
 -   即使未达到常规检查周期，MAU 更新助手现在也会在锁定的屏幕后启动更新。
 
 **MAU 更新链接：**
 
-[下载 Microsoft 自动更新 4.27 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.27.20091302_Updater.pkg)<br/>
+[下载 Microsoft AutoUpdate 4.27 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.27.20091302_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash：**
 
@@ -131,7 +131,7 @@ ms.locfileid: "49849487"
 
 **发行日期：** 2020 年 8 月 11 日
 
-*Microsoft 自动更新 4.26*
+*Microsoft AutoUpdate 4.26*
 
 **Bug 修复和增强功能：**
 -   快捷栏中的 MAU 图标现在将显示可用更新的数目。 
@@ -143,7 +143,7 @@ ms.locfileid: "49849487"
 
 **MAU 更新链接：**
 
-[下载 Microsoft 自动更新 4.26 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.26.20081000_Updater.pkg)<br/>
+[下载 Microsoft AutoUpdate 4.26 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.26.20081000_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash：**
 
@@ -155,7 +155,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 **发布日期：** 2020 年 7 月 14 日
 
-*Microsoft 自动更新 4.25*
+*Microsoft AutoUpdate 4.25*
 
 **Bug 修复和增强功能：**
 - 检测应用终止并自动删除显示的与“打开应用”相关的对话框。
@@ -174,7 +174,7 @@ B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
 
 **发布日期：** 2020 年 6 月 18 日
 
-*Microsoft 自动更新 4.24*
+*Microsoft AutoUpdate 4.24*
 
 **Bug 修复和增强功能：**
 - 客户消息传递活动：Office for Mac 2016 将在 2020 年 10 月终止支持。 
@@ -190,11 +190,11 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **发布日期：** 2020 年 5 月 12 日
 
-*Microsoft 自动更新 4.23*
+*Microsoft AutoUpdate 4.23*
 
 **Bug 修复和增强功能：**
-- 对于使用 MacOS 10.13 或更高版本以及 Office 2016 版本的设备，用户将看到有关即将终止支持 Office 2016 的通知。 
-- 如果应用 Word、Excel 和 PowerPoint 没有打开的窗口，并且设备处于 Microsoft 自动更新的“自动模式”下，则用户无需退出这些应用来应用更新。 3. Microsoft 自动更新现在将自动使用 CDN 上的最新版本刷新其“更新仪表板”，无需用户刷新或启动新的自动更新会话。 
+- 对于使用 macOS 10.13 或更高版本以及 Office 2016 版本的设备，用户将看到有关即将终止支持 Office 2016 的通知。 
+- 如果应用 Word、Excel 和 PowerPoint 没有打开的窗口，并且设备处于 Microsoft AutoUpdate 的“自动更新模式”下，则用户无需退出这些应用来应用更新。 Microsoft 自动更新现在将自动使用 CDN 上的最新版本刷新其“更新仪表板”，无需用户刷新或启动新的自动更新会话。 
 
 **SHA-256 哈希：**
 
@@ -206,10 +206,10 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **发布日期：** 2020 年 4 月 21 日
 
-*Microsoft 自动更新 4.22*
+*Microsoft AutoUpdate 4.22*
 
 **Bug 修复和增强功能：**
-- Microsoft 自动更新 UI 将不会显示在通过 Microsoft 自动更新以“自动”模式更新其 Office 应用的设备上，也不会显示在（在没有新更新可用时）以非自动模式进行更新的设备上。
+- Microsoft AutoUpdate UI 将不会显示在通过 Microsoft AutoUpdate 以“自动”模式更新其 Office 应用的设备上，也不会显示在（在没有新更新可用时）以非自动模式进行更新的设备上。
 
 **SHA-256 哈希：**
 
@@ -219,13 +219,13 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **发布日期：** 2020 年 4 月 14 日
 
-*Microsoft 自动更新 4.22*
+*Microsoft AutoUpdate 4.22*
 
  **功能更新：**
 
 - 安全修复：Microsoft 自动更新将阻止旧版本中的任何不安全连接。
 - 关闭自动更新的用户只每周一次看到 Microsoft 自动更新用户界面。
-- 使用 SSD 的 MacOS 计算机将体验到更快的更新，并可忽略因更新导致的应用停机时间。
+- 使用 SSD 的 macOS 计算机将体验到更快的更新，并可忽略因更新导致的应用故障时间。
 
 
 参见 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0984)
@@ -239,11 +239,11 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **发布日期：** 2020年 3 月 10 日
 
-*Microsoft 自动更新 4.21*
+*Microsoft AutoUpdate 4.21*
 
  **功能更新：**
 
-- 已为 Word、Excel 和 PowerPoint 启用状态还原，运行但打开任何窗口，或在 Microsoft 自动更新的自动更新模式中运行 Docstage 状态。 现在对于最终用户而言，在“自动更新”模式下，更新将更加安静，因为最终用户无需退出通过状态恢复具备更新资格的应用程序。
+- 已为 Word、Excel 和 PowerPoint 启用状态还原，运行但打开任何窗口，或在 Microsoft AutoUpdate 的自动更新模式中运行 Docstage 状态。 现在对于最终用户而言，在“自动更新”模式下，更新将更加安静，因为最终用户无需退出通过状态恢复具备更新资格的应用程序。
 
 **SHA-256 哈希：**
 
@@ -254,11 +254,11 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **发布日期：** 2020 年 2 月 11 日
 
-*Microsoft 自动更新 4.20*
+*Microsoft AutoUpdate 4.20*
 
  **功能更新：**
 
-- 仅当设备上至少有 1 个应用已在 MAU 中注册时，才会启动 Microsoft 自动更新 UI
+- 仅当设备上至少有 1 个应用已在 MAU 中注册时，才会启动 Microsoft AutoUpdate UI
 - Bug 修复和增强功能
 
 **SHA-256 哈希：**
@@ -269,7 +269,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **发布日期：** 2020 年 1 月 14 日
 
-*Microsoft 自动更新 4.19*
+*Microsoft AutoUpdate 4.19*
 
  **功能更新：**
 
@@ -283,7 +283,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **发布日期：** 2019 年 12 月 10 日
 
-*Microsoft 自动更新 4.18*
+*Microsoft AutoUpdate 4.18*
 
  **功能更新：**
 
@@ -297,12 +297,12 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **发布日期：** 2019 年 11 月 12 日
 
-*Microsoft 自动更新 4.17*
+*Microsoft AutoUpdate 4.17*
 
  **功能更新：**
 
 - 现在可以在“Microsoft 自动更新”仪表板上查看每个主要更新中的新增功能。
-- 随着 Catalina 的发布，Office 2019 更新的最低操作系统要求已更改为 macOS 10.13，我们将通知用户升级以获取最新的 Office 更新。
+- 随着 Catalina 的发布，Office 2019 更新的最低操作系统要求已更改为 macOS 10.13。 我们将通知用户升级以获取最新的 Office 更新。
 
 **SHA-256 哈希：**
 
@@ -312,11 +312,11 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **发布日期：** 2019 年 10 月 15 日
 
-*Microsoft 自动更新 4.16*
+*Microsoft AutoUpdate 4.16*
 
  **功能更新：**
 
-- 从 Microsoft 自动更新 4.16 开始，所有客户都可以使用全新改进的最终用户体验。
+- 从 Microsoft AutoUpdate 4.16 开始，所有客户都可以使用全新改进的最终用户体验。
 
 **SHA-256 哈希：**
 
@@ -325,7 +325,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **发布日期：** 2019 年 9 月 10 日
 
-*Microsoft 自动更新 4.15*
+*Microsoft AutoUpdate 4.15*
 
  **功能更新：**
 
@@ -340,7 +340,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **发布日期：** 2019 年 8 月 13 日
 
-*Microsoft 自动更新 4.14*
+*Microsoft AutoUpdate 4.14*
 
  **功能更新：**
 
@@ -354,7 +354,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **发布日期：** 2019 年 7 月 18 日
 
-*Microsoft 自动更新 4.13*
+*Microsoft AutoUpdate 4.13*
 
  **功能更新：**
 
@@ -370,7 +370,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **发布日期：** 2019 年 6 月 27 日
 
-*Microsoft 自动更新 4.12*
+*Microsoft AutoUpdate 4.12*
 
  **功能更新：**
 
@@ -383,13 +383,13 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **发布日期：** 2019 年 6 月 9 日
 
-*Microsoft 自动更新 4.12*
+*Microsoft AutoUpdate 4.12*
 
  **功能更新：**
 
-- 二进制增量更新：对于 SSD 设备，将推出大小较小的更新，从而减少由于更新导致的带宽消耗。
+- 二进制增量更新：SSD 设备可采用较小的更新，从而减少由于更新导致的带宽消耗。
 - 支持配件应用：MAU 现支持 Microsoft OneDrive 等配件应用。
-- “克隆安装”增强功能：克隆更新现在变得更加可靠，且防故障能力更强。
+- “克隆安装”增强功能：克隆更新现在变得更加可靠。
 
 **SHA-256 哈希：**
 
@@ -401,7 +401,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 
 **发布日期：** 2019 年 5 月 14 日
 
-*Microsoft 自动更新 4.11*
+*Microsoft AutoUpdate 4.11*
 
  **功能更新：**
 
@@ -418,12 +418,12 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 
 **发布日期：** 2019 年 4 月 16 日
 
-*Microsoft 自动更新 4.10*
+*Microsoft AutoUpdate 4.10*
 
  **功能更新：**
 
-- “在克隆上安装”功能得到强化： 对于 SSD 设备，将在当前使用的应用的克隆上推广更新，从而降低应用由于更新而停机的情况。
-- 安装优化：更新过程将使用并行化克隆，因而缩短因更新而导致应用故障的时间。
+- “克隆安装”增强功能： 对于 SSD 设备，将在当前使用的应用的克隆上推出更新，从而缩短因更新导致的应用故障时间。
+- 安装优化：更新过程将使用并行化克隆，从而缩短应用故障时间。
 
 **SHA-256 哈希：**
 
@@ -475,7 +475,7 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 |2016 年 1 月 5 日  <br/> |3.4.0  <br/> |[KB 3133674](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
 
 
-## <a name="related-topics"></a>相关主题
+## <a name="related-articles"></a>相关文章
 
 - [Office for Mac 更新历史记录](update-history-office-for-mac.md)
 - [Office for Mac 发行说明](release-notes-office-for-mac.md) 
