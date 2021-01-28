@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934410"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013283"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -32,6 +32,86 @@ ms.locfileid: "49934410"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2101-january-26"></a>版本 2101：1 月 26 日
+*版本 2101（内部版本 13628.20274）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+- 
+  **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已可供 GCC 和 GCC-H 环境中的客户使用（了解详细信息 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="outlook"></a>Outlook
+
+- **邮件所有者删除对话：** 此功能允许你通过邮件所有者删除对话。
+
+- **在连续召开的会议之间提供时间：** 默认将会议设置为推迟 5-10 分钟开始，让与会者有时间喘口气或来往于不同地点。 [了解详细信息](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **所有联机会议：** 更新日历设置，确保在创建每个会议时都默认创建 Teams 会议，从而无需再记住单击“Teams 会议”选项。
+
+- **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+- 
+  **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已可供 GCC 和 GCC-H 环境中的客户使用（了解详细信息 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+- 
+  **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已可供 GCC 和 GCC-H 环境中的客户使用（了解详细信息 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="word"></a>Word
+
+- **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+- 
+  **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已可供 GCC 和 GCC-H 环境中的客户使用（了解详细信息 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了在使用某些 Windows 安全中心漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外关闭的问题
+
+
+### <a name="excelexe"></a>excel.exe
+
+- 修复了会对某些旧版 Excel 4.0 和 Excel 5.0 宏以及一些针对 dialogsheets.show 的 VBA 调用造成破坏的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们解决了导致某些用户在特定搜索方案中遇到 Outlook 意外关闭的问题。
+
+
+- 修复了导致配置文件中具有较大层次结构的共享邮箱或委派邮箱的用户遇到挂起的问题。
+
+
+### <a name="project"></a>Project
+
+- 解决了视图中不显示任务边框的问题。
+
+
+- 解决了“工作组规划器”视图中的拖放功能无法用于任务的问题。
+
+
+- 修复了将成本资源分配给里程碑任务时，基线成本没有正确汇总的问题。
 
 
 
@@ -1866,6 +1946,7 @@ ms.locfileid: "49934410"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13628.20274|2101 版 1 月 26 日|)
 [//]: # (|Win32|CC|产品| |.16.0.13530.20440|version-2012-1-21|)
 [//]: # (|Win32|CC|生产| |16.0.13530.20376|版本-2012年1月12日|)
 [//]: # (|Win32|CC|生产| |16.0.13530.20316|2012 版 1 月 5 日|)
@@ -1875,5 +1956,4 @@ ms.locfileid: "49934410"
 [//]: # (|Win32|CC|生产| |16.0.13426.20294|2011 年 11 月 30 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20274|2011 年 11月 23 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13328.20408|2010 年 11 月 17 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13328.20356|2010 年 11 月 10 日版|)
 [//]: # (不修改管理中心元数据内容结束)
