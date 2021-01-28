@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837623"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032295"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
@@ -384,7 +384,7 @@ ms.locfileid: "49837623"
 
 - **改进日历：** 可查看视觉对象更新，以便更轻松地扫描日历。 [了解更多详细信息](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[博客文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看详细信息
 
-- **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。
+- **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。 [了解更多](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/zh-CN/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
 

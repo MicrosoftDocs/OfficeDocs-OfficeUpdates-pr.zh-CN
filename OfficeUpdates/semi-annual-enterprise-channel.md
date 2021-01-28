@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: bd303034c8cd32292ad57e173dc7e9a11b1c2693
-ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
+ms.openlocfilehash: 260219b731e1edcb3b02ecc5a45e330b2ac4b0ca
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878745"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032313"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的发行说明
 
@@ -67,9 +67,9 @@ ms.locfileid: "49878745"
 
 - **将电子邮件拖动到你拥有的组：** 通过从收件箱中拖动来移动和复制邮件和对话。 将与所有组成员共享你拖动的消息。<br />在[博客文章](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)中查看详细信息
 
-- **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。
+- **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。 [了解更多](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/zh-CN/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
 
 - **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解更多](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -440,7 +440,7 @@ ms.locfileid: "49878745"
 - 我们修复了SmartLinks在保存到草稿时丢失格式的问题。
 
 
-- 我们修复了在替代策略时为用户提供自定义对齐文本方法的问题。
+- 修复了替代策略时为用户提供自定义对齐文本方法的问题。
 
 
 - 我们修复了另存为 OFT 文件时会导致汉字变成问号的问题。
@@ -1688,7 +1688,7 @@ ms.locfileid: "49878745"
 
 - 解决了一个问题，该问题导致用户在将共享日历文件夹同步到 OST 时遇到问题，这导致他们与这些文件夹进行交互时出现权限错误。
 
-- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/zh-CN/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - 解决了 SMIME 算法选择方面的问题。
 
