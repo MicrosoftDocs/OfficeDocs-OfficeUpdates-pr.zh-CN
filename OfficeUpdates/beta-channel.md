@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
-ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
+ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
+ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937067"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50054504"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,29 @@ ms.locfileid: "49937067"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2102-january-29"></a>版本 2102：1 月 29 日
+*版本 2102（内部版本 13721.20008）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了在"定义名称"对话框中添加名称时 Excel 意外退出的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了使用"仅加密"选项发送的电子邮件无法显示加密图标的问题。
+
+### <a name="project"></a>Project
+
+- 解决了无法通过项目中心打开长西里尔文项目的问题。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2102-january-22"></a>版本 2102：1 月 22 日
 *版本 2102（内部版本 13714.20000）*
@@ -2389,6 +2412,7 @@ ms.locfileid: "49937067"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
@@ -2398,5 +2422,4 @@ ms.locfileid: "49937067"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (不修改管理中心元数据内容结束)
