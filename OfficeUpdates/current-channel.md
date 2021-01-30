@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 5fab650e5b8ebb66b1507e889a744a95c3322809
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013283"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032294"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -47,8 +47,7 @@ ms.locfileid: "50013283"
 
 - **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
 
-- 
-  **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已可供 GCC 和 GCC-H 环境中的客户使用（了解详细信息 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -60,22 +59,19 @@ ms.locfileid: "50013283"
 
 - **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
 
-- 
-  **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已可供 GCC 和 GCC-H 环境中的客户使用（了解详细信息 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
 
-- 
-  **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已可供 GCC 和 GCC-H 环境中的客户使用（了解详细信息 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
 
-- 
-  **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已可供 GCC 和 GCC-H 环境中的客户使用（了解详细信息 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -89,8 +85,6 @@ ms.locfileid: "50013283"
 
 - 修复了在使用某些 Windows 安全中心漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外关闭的问题
 
-
-### <a name="excelexe"></a>excel.exe
 
 - 修复了会对某些旧版 Excel 4.0 和 Excel 5.0 宏以及一些针对 dialogsheets.show 的 VBA 调用造成破坏的问题。
 
@@ -1494,7 +1488,7 @@ ms.locfileid: "50013283"
 
 ### <a name="outlook"></a>Outlook
 
-- **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。
+- **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。 [了解更多](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **新图像让邮件变得生动有趣：** 可在电子邮件中使用数以千计的免版税库存图像、图标和贴纸。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
