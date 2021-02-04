@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: e2b211ded8c30c0ad3be4731a310cdbccfd10a65
-ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
+ms.openlocfilehash: 17896e4c80de0b30306ee69798d0631adfd18da5
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "49980406"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080973"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,20 @@ ms.locfileid: "49980406"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2101-february-02"></a>版本 2101：2 月 2 日
+*版本 2101（内部版本 13628.20320）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了一个导致云设置用户在更新设置时体验挂起的问题。
+
+
+
+[//]: # (请勿删除错误详细信息内容结尾)
 
 ## <a name="version-2101-january-25"></a>版本 2101：1 月 25 日
 *版本 2101（内部版本 13628.20274）*
@@ -1412,7 +1426,7 @@ ms.locfileid: "49980406"
 
 
 
-[//]: # (请勿移除错误详细信息内容结尾)
+[//]: # (请勿删除 Bug 详细信息内容结尾)
 
 ## <a name="version-2008-september-04"></a>版本 2008：9 月 4 日
 *版本 2008（内部版本 13127.20378）*
