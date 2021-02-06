@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
-ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
+ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50054504"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118382"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,65 @@ ms.locfileid: "50054504"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2102-february-05"></a>版本 2102：2 月 05 日
+*版本 2102（内部版本 13801.20004）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 现在，Access 中将更清晰地显示所选的选项卡。
+
+
+### <a name="excel"></a>Excel
+
+- 我们已修复了在图表中选择数据系列后 Excel 停止响应的问题。
+
+
+- 修复了在 Android 设备上使用某些键盘按 Enter 可以添加新行而不是移动到下一单元格的问题。
+
+
+- 修复了有关图片在裁剪操作过程中保留其纵横比的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们已修复了在用户取消选中该选项后导致邮件以数字签名发送的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了有关图片在裁剪操作过程中保留其纵横比的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了有关图片在裁剪操作过程中保留其纵横比的问题。
+
+
+- 我们修复了一个问题，即批注可能被链接截断。
+
+
+- 修复了共同编辑时出现冲突模式的问题。
+
+
+- 修复了保存到 SharePoint Online 时的问题
+
+
+- 我们修复了将 Word 文档导出为 PDF 的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了 Office 在某些情况下为一个已登录帐户显示敏感度标签时，Office 应为不同已登录帐户显示敏感度标签这一问题。
+
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2102-january-29"></a>版本 2102：1 月 29 日
 *版本 2102（内部版本 13721.20008）*
@@ -2412,6 +2471,7 @@ ms.locfileid: "50054504"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
@@ -2421,5 +2481,4 @@ ms.locfileid: "50054504"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (不修改管理中心元数据内容结束)
