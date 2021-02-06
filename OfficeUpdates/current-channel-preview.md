@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101360"
+ms.locfileid: "50105214"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -78,16 +78,11 @@ ms.locfileid: "50101360"
 
 - **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解详细信息](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)。
 
+
 ### <a name="word"></a>Word
 
 - **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ ms.locfileid: "50101360"
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+
 
 ## <a name="version-2101-january-18"></a>版本 2101：1 月 18 日
 *版本 2101（内部版本 13628.20158）*
@@ -122,6 +119,19 @@ ms.locfileid: "50101360"
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2101-january-13"></a>版本 2101：1 月 13 日
+*版本 2101（内部版本 13628.20118）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+- **更多主题：** 现在可在桌面和 Web 客户端中使用新主题。
+
+- **PPT 共享：** Teams 中的演示者视图，当你从 Teams 共享托盘中选择 PowerPoint 文件后，演示者视图将自动打开。 你可以查看当前幻灯片、幻灯片备注以及幻灯片组中的所有幻灯片的缩略图条，它便于你临时进行幻灯片导航。 此视图完全隐藏在幕后，它专供控制中的演示者使用。 受众只能看到你当前的幻灯片（在大红色框中突出显示），或者他们选择导航到的幻灯片（如果你未锁定受众导航）。 
+
+[//]: # (请勿移除功能详细信息内容结尾)
+<br/>
 
 ## <a name="version-2101-january-09"></a>版本 2101：1 月 9 日
 *版本 2101（内部版本 13628.20118）*
