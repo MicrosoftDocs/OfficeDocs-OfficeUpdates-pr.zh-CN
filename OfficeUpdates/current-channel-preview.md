@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
-ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
+ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
+ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50105214"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50151960"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,106 @@ ms.locfileid: "50105214"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2102-february-08"></a>版本 2102：2 月 8 日
+*版本 2102（内部版本 13801.20084）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Microsoft 搜索支持的撰写（收件人\抄送\密送）建议：** Microsoft 搜索现在支持将人员添加到“收件人\抄送”行。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 现在，Access 中将更清晰地显示所选的选项卡。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了在重新打开文件时某些使用非连续单元格区域的图表不会加载的问题。
+
+
+- 修复了在使用某些 Windows 安全中心漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外关闭的问题。
+
+
+- 我们修复了在图表中选择数据系列后 Excel 停止响应的问题。
+
+
+- 我们修复了在“定义名称”对话框中添加名称时 Excel 意外退出的问题。
+
+
+- 修复了有关图片在裁剪操作过程中保留其纵横比的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们已修复了在用户取消选中该选项后导致邮件以数字签名发送的问题。
+
+
+- 我们修复了使用“仅加密”选项发送的电子邮件无法显示加密图标的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了与显示彩色表情符号相关的问题。
+
+
+- 修复了有关图片在裁剪操作过程中保留其纵横比的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 有关从 CAD 模具进行形状渲染的问题现已得到修复。 用户会看到该问题在最新版本中已得到解决。
+
+
+### <a name="word"></a>Word
+
+- 这修复了在网络连接断开一段时间之后实时键入和状态无法恢复的问题。
+
+
+- 用户选择批注中的文本后，Word 现在将取消选择其他批注中的所选文本。
+
+
+- Word 现在允许将批注文本复制到 Excel。
+
+
+- 我们修复了 VBA 宏 ExportAsFixedFormat2 运行失败并出现错误“演示文稿(未知成员)非法值”的问题。
+
+
+- 修复了有关图片在裁剪操作过程中保留其纵横比的问题。
+
+
+- 我们修复了一个问题，即批注可能被链接截断。
+
+
+- 修复了保存到 SharePoint Online 时的问题
+
+
+- 我们修复了将 Word 文档导出为 PDF 的问题。
+
+
+- 我们修复了与自动恢复相关的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了 PowerPoint 中在将项目符号作为图像插入时会导致项目符号消失的 bug。 通过此修补程序，它们可以更可靠地进行呈现。
+
+- 解决了 Office 在某些情况下为一个已登录帐户显示敏感度标签时，Office 应为不同已登录帐户显示敏感度标签这一问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2101-february-03"></a>版本 2101：2 月 3 日
 *版本 2101（内部版本 13628.20330）*
