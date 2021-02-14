@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
-ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
+ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50151960"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173631"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -117,6 +117,8 @@ ms.locfileid: "50151960"
 
 
 - 我们修复了与自动恢复相关的问题。
+
+- 修复了使用 DRM 受保护的文件时出现的问题
 
 
 ### <a name="office-suite"></a>Office 套件

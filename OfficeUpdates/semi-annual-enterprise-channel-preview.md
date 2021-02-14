@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: bc3878099fa34b75437ce800250d711cb0f5bd0c
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032295"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173831"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
@@ -23,6 +23,67 @@ ms.locfileid: "50032295"
 > [!IMPORTANT]
 > 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2008-february-09"></a>版本 2008：2 月 09 日
+*版本 2008（内部版本 13127.21216）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了打开具有无效文件属性的 UNC 文件时 Excel 会意外关闭的问题（创建时间、修改时间等）
+
+
+- 修复了将图表从 Excel 复制并粘贴到 Word 或 PowerPoint 时无法执行小数和千位分隔符设置的问题。
+
+
+- 我们修复了这样一个问题，即每次运行宏时，涉及数据透视表区域格式的宏的性能会变差。
+
+
+- 修复了在将工作表复制或移动到另一个工作簿时条件格式规则被删除的问题。
+
+
+- 修复了禁用应用启动屏幕时，用户无法将敏感度标签应用到 Excel 文件这一问题。
+
+
+- 修复了从 OneDrive 同步文件夹打开云文件时出现的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解决了导致 Outlook 在添加或保存附件时偶尔停止工作的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了 QAT 中添加的字号命令在更新时自动完成以最接近定义字号的问题。
+
+
+- 修复了采用"保留源格式"选项的幻灯片复制和粘贴有时意外复制到新幻灯片母版上的问题
+
+
+### <a name="word"></a>Word
+
+- 修复了修订中的问题：有时打开 Word 文档可能会显示错误对话框。
+
+
+- 修复了从 OneDrive 同步文件夹打开云文件时出现的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解决了阻止在 Office 中成功打开文件的问题。
+
+
+- 修复了通过格式刷将包含草图轮廓应用到连接线的文档可能会损坏的问题。
+
+
+
+[//]: # (请勿删除 Bug 详细信息内容结尾)
 
 ## <a name="version-2008-january-12"></a>版本2008：1月12日
 *版本2008（内部版本13127.21064）*
@@ -195,7 +256,7 @@ ms.locfileid: "50032295"
 
 
 
-[//]: # (请勿删除错误详细信息内容结尾)
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
 *版本 2008（内部版本 13127.20760）*
@@ -1436,6 +1497,7 @@ ms.locfileid: "50032295"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|FRDC|预览体验成员| |16.0.13127.21216 | 版本-2008年2月09日|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.21064 | 版本-2008年1月12日|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20910|2008 年 12 月 8 日版|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20760|2008 年 11 月 10 日版|)

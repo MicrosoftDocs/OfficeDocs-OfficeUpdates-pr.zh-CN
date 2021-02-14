@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
-ms.openlocfilehash: 7f5cefd77c4639d4e06bd3974f56e070710bd2e8
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837673"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173711"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office安全更新发布说明
 
@@ -31,6 +31,29 @@ ms.locfileid: "49837673"
  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="february-09-2021"></a>2021 年 2 月 9 日
+每月企业频道：版本 2012（内部版本 13530.20528）  
+每月企业频道：版本 2011（内部版本 13426.20658）  
+半年度企业频道（预览版）：版本 2008（内部版本 13127.21216）  
+半年度企业频道：版本 2008（内部版本 13127.21216）  
+半年度企业频道：版本 2002（内部版本 12527.21594）  
+半年度企业频道：版本 1908（内部版本 11929.21008）  
+Windows 7 上的 Microsoft 365 应用：版本 2002（内部版本 12527.21594）  
+Office 2019 批量许可：版本 1808（内部版本 10371.20060）  
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24069)
+-   [CVE-2021-24070](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24070)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24067)
+
+[//]: # (请勿删除安全详细信息内容结尾)
+
+
 
 ## <a name="january-12-2021"></a>2021 年 1 月 12 日
 当前频道：版本2012（内部版本13530.20376）  
@@ -99,7 +122,7 @@ Office 2019 批量许可：版本1808（内部版本10369.20032）
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (请勿删除安全详细信息内容结尾)
+[//]: # (请勿移除安全详细信息内容结尾)
 
 
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: e4c46d64476cab52b9f4d78480dc4d4b652aae6f
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 6a5127c9b361c394196674910eabdc26cff39572
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837533"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173670"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -26,6 +26,125 @@ ms.locfileid: "49837533"
 [//]: # (请勿移除)
 
 
+
+## <a name="version-2012-february-09"></a>版本 2012：2 月 09 日
+*版本 2012（内部版本 13530.20528）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
+
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **在连续召开的会议之间提供时间：** 默认将会议设置为推迟 5-10 分钟开始，让与会者有时间喘口气或来往于不同地点。 [了解详细信息](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
+
+- **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
+
+- **所有联机会议：** 更新日历设置，确保在创建每个会议时都默认创建 Teams 会议，从而无需再记住单击“Teams 会议”选项。
+
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+- **所有联机会议：** 更新日历设置，确保在创建每个会议时都默认创建 Teams 会议，从而无需再记住单击“Teams 会议”选项。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
+
+- **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
+
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
+
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 此更改解决了在公式中正确显示字体的问题。
+
+
+- 修复了以下问题：当某些用户共同创作时，会错误地向其显示存在新文件版本的消息栏通知。
+
+
+- 修复了当打开包含 Excel 4.0 宏的 Excel 加载项文件时，Excel 可能会禁用宏而不提示的问题。
+
+
+- 修复了在使用某些 Windows 安全中心漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外关闭的问题。
+
+
+- 修复了使用数据透视表的“值显示方式”菜单时，Excel 可能意外关闭的问题。
+
+
+- 我们修复了某些旧版 Excel 4.0 和 Excel 5.0 宏以及对话框表.show 的一些 VBA 调用的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了在提示用户保存后，编辑的签名无法保存的问题。
+
+
+- 修复了某些搜索方案中导致某些用户意外体验 Outlook 关闭的问题。
+
+
+- 我们修复了导致一些用户在加载日历时遇到挂起的问题。
+
+
+- 修复了导致配置文件中具有较大层次结构的共享邮箱或委派邮箱的用户遇到挂起的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了 QAT 中添加的字号命令在更新时自动完成以最接近定义字号的问题。
+
+
+- 此更改解决了在公式中正确显示字体的问题。
+
+
+- 此更改解决了使用特定几何图形对合并形状操作应用时路径填充的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- Anaheim WebView 尚不支持 Windows 信息保护(WIP)。 通过此修复，Office 插件平台可以在启用 WIP 的环境中回退到较低级别的 WebView。 根据客户的计算机环境，它可以是 Edge Spartan WebView 或 Trident WebView。 两个低级别 WebView 均支持 WIP。
+
+
+- 经过优化的二进制大小。
+
+
+- 修复了文件关闭序列，以便完全关闭所有组件。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2011-february-09"></a>版本 2011：2 月 09 日
+*版本 2011（内部版本 13426.20658）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
 
 ## <a name="version-2011-january-12"></a>版本2011：1月12日
 *版本2011（内部版本13426.20526）*
@@ -1268,6 +1387,7 @@ ms.locfileid: "49837533"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|MEC|生产|功能|16.0.13530.20528|版本-2012 年 2 月 9 日|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13426.20526|版本-2011年1月12日|)
 [//]: # (|Win32 |MEC |生产|功能|16.0.13328.20478|2010 年 12 月8 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13231.20514|2009 年 11 月 10 日版|)

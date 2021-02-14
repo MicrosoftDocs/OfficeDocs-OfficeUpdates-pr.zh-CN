@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 5fab650e5b8ebb66b1507e889a744a95c3322809
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: f7ac64dfccab0196b01bceb1854dc4a450223c2a
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032294"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50177945"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -32,6 +32,29 @@ ms.locfileid: "50032294"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2101-february-09"></a>版本 2101：2 月 09 日
+*版本 2101（内部版本 13628.20380）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了一个导致云设置用户在更新设置时体验挂起的问题。
+
+
+- 解决了导致 OWA 中显示正确默认签名的问题。
+
+
+- 修复了使用仅加密选项发送的电子邮件无法显示加密图标的问题。
 
 
 
@@ -1940,6 +1963,7 @@ ms.locfileid: "50032294"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13628.20380|2101 版 2 月 09 日|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20274|2101 版 1 月 26 日|)
 [//]: # (|Win32|CC|产品| |.16.0.13530.20440|version-2012-1-21|)
 [//]: # (|Win32|CC|生产| |16.0.13530.20376|版本-2012年1月12日|)
@@ -1949,5 +1973,4 @@ ms.locfileid: "50032294"
 [//]: # (|Win32|CC|生产| |16.0.13426.20308|2011 年 12 月 2 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20294|2011 年 11 月 30 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20274|2011 年 11月 23 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13328.20408|2010 年 11 月 17 日版|)
 [//]: # (不修改管理中心元数据内容结束)
