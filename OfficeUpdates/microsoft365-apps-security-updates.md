@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
-ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173711"
+ms.locfileid: "50177934"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office安全更新发布说明
 
@@ -33,6 +33,7 @@ ms.locfileid: "50173711"
 [//]: # (请勿删除上面的线条，它用于调节间距)  
 
 ## <a name="february-09-2021"></a>2021 年 2 月 9 日
+当前频道：版本2101（内部版本13628.20380）  
 每月企业频道：版本 2012（内部版本 13530.20528）  
 每月企业频道：版本 2011（内部版本 13426.20658）  
 半年度企业频道（预览版）：版本 2008（内部版本 13127.21216）  
@@ -40,6 +41,8 @@ ms.locfileid: "50173711"
 半年度企业频道：版本 2002（内部版本 12527.21594）  
 半年度企业频道：版本 1908（内部版本 11929.21008）  
 Windows 7 上的 Microsoft 365 应用：版本 2002（内部版本 12527.21594）  
+Office 2019 零售版：版本2101（内部版本13628.20380）  
+Office 2016 零售版：版本2101（内部版本13628.20380）  
 Office 2019 批量许可：版本 1808（内部版本 10371.20060）  
 
 [//]: # (请勿移除安全详细信息内容开头)
