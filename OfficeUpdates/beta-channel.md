@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
-ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
+ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
+ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50118382"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50242040"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,57 @@ ms.locfileid: "50118382"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2103-february-12"></a>版本 2103：2 月 12 日
+*版本 2103（内部版本 13806.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Microsoft 搜索支持的撰写（收件人\抄送\密送）建议：** Microsoft 搜索现在支持将人员添加到“收件人\抄送”行。
+
+- **听写支持多种语言：** 听写现在支持 7 种新语言：印地语、俄语、波兰语、葡萄牙语（葡萄牙）、朝鲜语、泰语、中文（台湾）
+
+### <a name="word"></a>Word
+
+- **听写支持多种语言：** 听写现在支持 7 种新语言：印地语、俄语、波兰语、葡萄牙语（葡萄牙）、朝鲜语、泰语、中文（台湾）
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 解决了由于无法检索图像而尝试显示"数据类型"卡时 Excel 有时会意外关闭的问题。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了循环播放动画和音频书签的问题。
+
+### <a name="project"></a>Project
+
+- 修复了100%完成的任务可能恢复到99%完成的问题。
+
+- 解决了如果运行的 JAWS 并转到任务信息对话框，Project 可能会意外关闭的问题。
+
+### <a name="word"></a>Word
+
+- 修复了自动保存中的问题。
+
+
+- 我们已修复了在共同身份验证时解决冲突的问题。
+
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2102-february-05"></a>版本 2102：2 月 05 日
 *版本 2102（内部版本 13801.20004）*
@@ -2471,6 +2522,7 @@ ms.locfileid: "50118382"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
@@ -2480,5 +2532,4 @@ ms.locfileid: "50118382"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (不修改管理中心元数据内容结束)
