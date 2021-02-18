@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
+ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173631"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50263950"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,45 @@ ms.locfileid: "50173631"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2102-february-16"></a>版本 2102：2 月 16 日
+*版本 2102（内部版本 13801.20160）*
+* 各种 bug 和性能修补程序。
+
+## <a name="version-2102-february-15"></a>版本 2102：2 月 15 日
+*版本 2102（内部版本 13801.20158）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **听写支持多种语言：** 听写现在支持 7 种新语言：印地语、俄语、波兰语、葡萄牙语（葡萄牙）、朝鲜语、泰语、中文（台湾）
+
+### <a name="word"></a>Word
+
+- **听写支持多种语言：** 听写现在支持 7 种新语言：印地语、俄语、波兰语、葡萄牙语（葡萄牙）、朝鲜语、泰语、中文（台湾）
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了一个阻止用户将 Excel 工作簿导出为 PDF 的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们已修复了在共同身份验证时解决冲突的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2102-february-08"></a>版本 2102：2 月 8 日
 *版本 2102（内部版本 13801.20084）*

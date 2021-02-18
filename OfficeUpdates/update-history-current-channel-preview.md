@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 1bdc76c51356388bc442b61f78b19ca626358e26
-ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
+ms.openlocfilehash: 7d134c4f5b61abe79aeda9fe3e6a01c762ff3dd3
+ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50151940"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50263960"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 当前频道（预览）的更新历史记录
 
@@ -29,7 +29,7 @@ ms.locfileid: "50151940"
 
 > [!IMPORTANT]
 > - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - 自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本
@@ -38,6 +38,12 @@ ms.locfileid: "50151940"
 
 
 [//]: # (请勿移除)
+
+**2021 年 2 月 16 日**<br/>
+版本 2102（内部版本 13801.20160）<br/>
+
+**2021 年 2 月 15 日**<br/>
+版本 2102（内部版本 13801.20158）<br/>
 
 **2021 年 2 月 8 日**<br/>
 版本 2102（内部版本 13801.20084）<br/>
