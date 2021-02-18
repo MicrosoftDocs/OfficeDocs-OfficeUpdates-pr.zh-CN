@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: 853e398dab1e6eb040afbf5ccd6dbacd9fe6a9ea
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 255209ce47ba6194b972a8edb908e75b3a18b96e
+ms.sourcegitcommit: 22b0fb80adf158717f43f07a1d6e18ec91618fb4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177924"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50279809"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -27,7 +27,7 @@ ms.locfileid: "50177924"
 
 > [!IMPORTANT]
 > - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - 自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 
 > [!NOTE]
@@ -35,6 +35,22 @@ ms.locfileid: "50177924"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+## <a name="february-16-2021"></a>2021 年 2 月 16 日
+
+[//]: # (请勿删除内容 START 2021 年 2 月 17 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版本是版本 2101（内部版本 13628.20448）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2101（内部版本 13628.20380） <br/> |2021 年 2 月 9 日 <br/> |160<br/> |
+|版本 2101（内部版本 13628.20274） <br/> |2021 年 1 月 26 日 <br/> |63<br/> |
+
+
+[//]: # (请勿删除内容 END 2021 年 2 月 17 日)
 
 ## <a name="february-9-2021"></a>2021 年 2 月 9 日
 
@@ -542,7 +558,7 @@ ms.locfileid: "50177924"
 
 ## <a name="related-topics"></a>相关主题
 
-- [Microsoft 365 应用版更新通道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 应用版更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Microsoft 365 应用版的更新历史记录（按日期列出）](update-history-office365-proplus-by-date.md)
 

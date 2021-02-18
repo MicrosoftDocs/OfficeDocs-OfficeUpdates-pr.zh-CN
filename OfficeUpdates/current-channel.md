@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: f7ac64dfccab0196b01bceb1854dc4a450223c2a
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
+ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177945"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50271785"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -32,6 +32,31 @@ ms.locfileid: "50177945"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2101-february-16"></a>版本 2101：2 月 16 日
+*版本 2101（内部版本 13628.20448）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复了导致用户在 Outlook 中搜索时应用有时意外关闭的问题。
+
+
+- 我们已修复了在用户取消选中该选项后导致邮件以数字签名发送的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了与媒体控制器事件通知相关的问题。
+
+
+- 修复了与媒体播放器引擎计时相关的问题。
 
 
 
@@ -1963,6 +1988,7 @@ ms.locfileid: "50177945"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13628.20448|2101 版 2 月 16 日|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20380|2101 版 2 月 09 日|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20274|2101 版 1 月 26 日|)
 [//]: # (|Win32|CC|产品| |.16.0.13530.20440|version-2012-1-21|)
@@ -1972,5 +1998,4 @@ ms.locfileid: "50177945"
 [//]: # (|Win32|CC|生产| |16.0.13426.20332|2011 年 12 月 8 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20308|2011 年 12 月 2 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20294|2011 年 11 月 30 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13426.20274|2011 年 11月 23 日版|)
 [//]: # (不修改管理中心元数据内容结束)
