@@ -1,5 +1,5 @@
 ---
-title: Office 2016 产品的最新 .msp 文件列表
+title: Office 2016 产品最新 .msp 文件列表
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -8,15 +8,15 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: '为 IT 专业人员提供使用 Windows Installer (MSI 版本的 Office 2016 永久版本的最新 .msp) '
-ms.openlocfilehash: 5f5b8641396990834f791b2e713e3659e619a407
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+description: '为 IT 专业人员提供使用 Windows Installer 和 MSI (Office 2016 永久版本的最新 .msp) '
+ms.openlocfilehash: 58fb4c28c04f165f451a333c0f592923aa563c86
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173811"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468356"
 ---
-# <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 产品的最新 .msp 文件列表
+# <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 产品最新 .msp 文件列表
 
 以下信息提供了 IT 专业人员为 Office 2016 产品（包括 Visio 2016 和 Project 2016）创建安装映像时需要包括的最新的 .msp 文件的列表。 通过包括这些 .msp 文件，当用户安装 Office 2016 产品时，最新安全更新和非安全更新将自动应用于 Office 安装。
   
@@ -24,8 +24,14 @@ ms.locfileid: "50173811"
   
 ## <a name="most-recently-updated-msp-files"></a>最近更新的 .msp 文件
 
+[//]: # (请勿移除内容开头)
+
 下表列出了 **2021** 年 2 月更新的 .msp 文件。
-  
+
+[//]: # (请勿移除内容结尾)
+
+[//]: # (不删除 MSP 内容开始)
+
 |非安全更新****|安全更新****|
 |:-----|:-----|
 |mso-x-none<br/>|excel-x-none<br/>|
@@ -35,11 +41,15 @@ ms.locfileid: "50173811"
 
 <br/>
 
+[//]: # (不删除 MSP 内容结尾)
+
 ## <a name="list-of-all-msp-files"></a>所有 .msp 文件的列表
 
-下表列出了自 Office 2016 于 2015 年 9 月发布以来发布的所有 .msp 文件。 如果 .msp 文件的安全发布日期大于非安全发布日期，则不需要非安全版本，因为它已被安全版本取代。
+下表列出了自 2015 年 9 月发布 Office 2016 以来发布的所有 .msp 文件。 如果 .msp 文件的安全发布日期大于非安全发布日期，则不需要非安全版本，因为它已被安全版本取代。
+
+[//]: # (请勿移除历史记录内容开头)
   
-|.msp filename****|Product****|非安全发布日期****|非安全知识库文章****|安全发布日期****|安全版本知识库文章****|安全 KB 取代****|
+|.msp filename****|Product****|非安全发布日期****|非安全性知识库文章****|安全发布日期****|安全版本 KB 文章****|安全 KB 已取代****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2016  <br/> |2021 年 1 月 5 日  <br/> |[4484509](https://support.microsoft.com/help/4484509) <br/> |2020 年 8 月 11 日  <br/> |[4484340](https://support.microsoft.com/help/4484340) <br/> |[4484167](https://support.microsoft.com/help/4484167) <br/> | 
 |ace-x-none  <br/> |Office 2016  <br/> |2020 年 6 月 2 日  <br/> |[4484394](https://support.microsoft.com/help/4484394) <br/> | 2021 年 1 月 12 日  <br/> |[4486755](https://support.microsoft.com/help/4486755) <br/>|[4484508](https://support.microsoft.com/help/4484508) <br/> |
@@ -104,6 +114,8 @@ ms.locfileid: "50173811"
 |wxpcore-x-none  <br/> |Office 2016  <br/> |2016 年 10 月 4 日  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wxpnse-x-none  <br/> |Office 2016  <br/> |2016 年 10 月 4 日  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |xdext-x-none  <br/> |Office 2016  <br/> |2017 年 8 月 1 日  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-   
+
+[//]: # (请勿移除历史记录内容结尾)
+
 <sup>1</sup> *ll-cc*  表示相应的语言，如 eu-es 或 gl-es。 
   

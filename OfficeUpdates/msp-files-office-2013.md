@@ -8,24 +8,30 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: '为 IT 专业人员提供使用 Windows Installer (MSI 版本的 Office 2013 永久版本的最新 .msp) '
-ms.openlocfilehash: ec1808889c6cfb6ec4c8f2ba113170b9539a7826
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+description: '为 IT 专业人员提供使用 Windows Installer 和 MSI (Office 2013 永久版本的最新 .msp 文件) '
+ms.openlocfilehash: 25f3534f259614703476b64c8f183afe9991bece
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173661"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468366"
 ---
-# <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 产品的最新 .msp 文件列表
+# <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 产品最新 .msp 文件列表
 
 以下信息提供了 IT 专业人员为 Office 2013 产品（包括 Visio 2013 和 Project 2013）创建安装映像时需要包括的最新的 .msp 文件的列表。 通过包括这些 .msp 文件，当用户安装 Office 2013 产品时，最新安全更新和非安全更新将自动应用于 Office 安装。
   
-此信息仅适用于使用 Windows Installer 和 MSI (安装的 Office 2013) 产品。 例如，2013 和 Visio Standard 2013 Office Professional Plus批量许可版本使用 MSI。
+此信息仅适用于使用 Windows Installer (MSI) 技术的 Office 2013 产品。 例如，2013 Office Professional Plus Visio Standard 2013 的批量许可版本使用 MSI。
   
 ## <a name="most-recently-updated-msp-files"></a>最近更新的 .msp 文件
 
+[//]: # (请勿移除内容开头)
+
 下表列出了 **2021** 年 2 月更新的 .msp 文件。 
-  
+
+ [//]: # (请勿移除内容结尾)
+
+[//]: # (不删除 MSP 内容开始)
+
 |非安全更新****|安全更新****|
 |:-----|:-----|
 |mso-x-none<br/>|excel-x-none<br/>|
@@ -35,18 +41,21 @@ ms.locfileid: "50173661"
 
 <br/>
 
- 
+[//]: # (不删除 MSP 内容结尾)
+
 ## <a name="list-of-all-msp-files"></a>所有 .msp 文件的列表
 
 下表列出了自 2014 年 2 月发布的 Office 2013 Service Pack 1 (SP1) 以来发布的所有 .msp 文件。 如果 .msp 文件的安全发布日期大于非安全发布日期，则不需要非安全版本，因为它已被安全版本取代。
+
+[//]: # (请勿移除历史记录内容开头)
   
-|.msp filename****|Product****|非安全发布日期****|非安全知识库文章****|安全发布日期****|安全版本知识库文章****|安全 KB 取代****|
+|.msp filename****|Product****|非安全发布日期****|非安全性 KB 文章****|安全发布日期****|安全版本 KB 文章****|安全 KB 已取代****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2013  <br/> |2019 年 2 月 5 日  <br/> |[4032252](https://support.microsoft.com/help/4032252) <br/> |2020 年 8 月 11 日  <br/> |[4484366](https://support.microsoft.com/help/4484366) <br/>|[4462210](https://support.microsoft.com/help/4462210) <br/> |
 |ace-x-none  <br/> |Office 2013  <br/> |2016 年 11 月 1 日  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |2021 年 1 月 12 日  <br/> |[4486762](https://support.microsoft.com/help/4486762) <br/>|[4484520](https://support.microsoft.com/help/4484520) <br/> |
 |acmserver-x-none  <br/> |Office 2013  <br/> |2017 年 9 月 5 日  <br/> |[3172512](https://support.microsoft.com/help/3172512) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|与 x-none  <br/> |Office 2013  <br/> |2014 年 12 月 9 日  <br/> |[2899522](https://support.microsoft.com/kb/2899522) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-|一个 32-x-none  <br/> |Office 2013  <br/> |2016 年 2 月 9 日  <br/> |[3054819](https://support.microsoft.com/kb/3054819) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
+|或 x-none  <br/> |Office 2013  <br/> |2014 年 12 月 9 日  <br/> |[2899522](https://support.microsoft.com/kb/2899522) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
+|32-x-none  <br/> |Office 2013  <br/> |2016 年 2 月 9 日  <br/> |[3054819](https://support.microsoft.com/kb/3054819) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |clview-x-none  <br/> |Office 2013  <br/> |2016 年 7 月 5 日  <br/> |[3101503](https://support.microsoft.com/kb/3101503) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |conv-x-none  <br/> |Office 2013  <br/> |不适用  <br/> |不适用  <br/> |2017 年 9 月 12 日  <br/> |[3213564](https://support.microsoft.com/help/3213564) <br/> |[3203392](https://support.microsoft.com/help/3203392) <br/> |
 |csi-x-none  <br/> |Office 2013  <br/> |2017 年 7 月 11 日  <br/> |[3172545](https://support.microsoft.com/help/3172545) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
@@ -69,7 +78,7 @@ ms.locfileid: "50173661"
 |infopathpc-x-none  <br/> |Office 2013  <br/> |2016 年 11 月 1 日  <br/> |[3127916](https://support.microsoft.com/kb/3127916) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |ipeditor-x-none  <br/> |InfoPath 2013  <br/> |2018 年 12 月 11 日  <br/> |[4022181](https://support.microsoft.com/kb/4022181) <br/> |2018 年 5 月 8 日  <br/> |[3162075](https://support.microsoft.com/help/3162075) <br/> |不适用  <br/> |
 |lync-x-none  <br/> |Lync 2013 (Skype for Business)   <br/> |2020 年 5 月 5 日  <br/> |[4484289](https://support.microsoft.com/help/4484289) <br/> |2019 年 7 月 9 日  <br/> |[4475519](https://support.microsoft.com/help/4475519) <br/> |[4461487](https://support.microsoft.com/help/4461487) <br/> |
-|一百万 *行- ll*   -   *cc* <sup>3</sup> <br/> |Lync 2013 (Skype for Business)   <br/> |2017 年 5 月 2 日  <br/> |[3191873](https://support.microsoft.com/help/3191873) <br/> |2017 年 9 月 12 日  <br/> |[3213568](https://support.microsoft.com/help/3213568) <br/> |[3191937](https://support.microsoft.com/help/3191937) <br/> |
+|1000    -    <sup></sup> <br/> |Lync 2013 (Skype for Business)   <br/> |2017 年 5 月 2 日  <br/> |[3191873](https://support.microsoft.com/help/3191873) <br/> |2017 年 9 月 12 日  <br/> |[3213568](https://support.microsoft.com/help/3213568) <br/> |[3191937](https://support.microsoft.com/help/3191937) <br/> |
 |mscomct2-x-none  <br/> |Office 2013  <br/> |不适用  <br/> |不适用  <br/> |2014 年 5 月 13 日  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |不适用  <br/> |
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |不适用  <br/> |不适用  <br/> |2016 年 1 月 12 日  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-none  <br/> |Office 2013  <br/> |2017 年 4 月 4 日  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
@@ -117,10 +126,12 @@ ms.locfileid: "50173661"
 |wordpia-x-none  <br/> |Word 2013  <br/> |2017 年 11 月 7 日  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |2016 年 3 月 8 日  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |2015 年 10 月 13 日  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |
-   
+
+[//]: # (请勿移除历史记录内容结尾)
+
 <sup>1</sup>此文件仅适用于 64 位安装的 Office 2013。
   
 <sup>2</sup>此文件仅适用于 32 位安装的 Office 2013。
   
-<sup>3</sup> *ll*   -   *cc* 表示相应的语言，如 en-us 或 ja-jp。 
+<sup>3</sup> *将*   -   *cc* 表示相应的语言，如 en-us 或 ja-jp。 
   
