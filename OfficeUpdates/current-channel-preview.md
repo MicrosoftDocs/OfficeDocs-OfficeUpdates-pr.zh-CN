@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263950"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421398"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,88 @@ ms.locfileid: "50263950"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2102-march-03"></a>版本 2102：3 月 3 日
+*版本 2102（内部版本 13801.20274）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="word"></a>Word
+
+- 修复了将主题信息应用于图标和 SVG 图形的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2102-march-01"></a>版本 2102：3 月 1 日
+*版本 2102（内部版本 13801.20266）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **共享到 Teams：** 与 Teams 中的人员或频道共享 Outlook 中的邮件。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复并解决了导致用户在创建新组后看到重复日历组的问题。
+
+
+- 修复了导致“共享日历”改进用户无法将日历的颜色设置为黄色或棕色的问题。
+
+
+- 修复了导致部分用户在关闭消息窗口时遇到关闭应用程序的问题。
+
+
+- 修复了导致用户看到包含 unicode 内容的签名受损的问题。
+
+
+- 修复了导致内联翻译用户无法提交反馈的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2102-february-21"></a>版本 2102：2 月 21 日
+*版本 2102（内部版本 13801.20182）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **使用语音撰写邮件：** 使用新的听写工具栏，语音命令，自动标点符号等撰写邮件。
+
+### <a name="word"></a>Word
+
+- **使用语音撰写文档：** 使用新的听写工具栏，语音命令和自动标点来起草文档。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了使用"粘贴链接图片"选项时导致图像小于预期的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2102-february-16"></a>版本 2102：2 月 16 日
 *版本 2102（内部版本 13801.20160）*
@@ -67,6 +149,22 @@ ms.locfileid: "50263950"
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+
+## <a name="version-2102-february-11"></a>版本 2102：2 月 11 日
+*版本 2102（内部版本 13801.20158）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **Window 和 Mac 版本 Edge 和 Chrome 浏览器上的 2x2 视频** 在 Windows 和Mac 版 Edge 和 Chrome 浏览器中，用户最多可以在 Teams 会议中观看 4 位参与者的视频。 [了解更多](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
 
 ## <a name="version-2102-february-08"></a>版本 2102：2 月 8 日
 *版本 2102（内部版本 13801.20084）*
@@ -270,6 +368,8 @@ ms.locfileid: "50263950"
 - **更多主题：** 现在可在桌面和 Web 客户端中使用新主题。
 
 - **PPT 共享：** Teams 中的演示者视图，当你从 Teams 共享托盘中选择 PowerPoint 文件后，演示者视图将自动打开。 你可以查看当前幻灯片、幻灯片备注以及幻灯片组中的所有幻灯片的缩略图条，它便于你临时进行幻灯片导航。 此视图完全隐藏在幕后，它专供控制中的演示者使用。 受众只能看到你当前的幻灯片（在大红色框中突出显示），或者他们选择导航到的幻灯片（如果你未锁定受众导航）。 
+
+- **在 Mac 上共享桌面或窗口时包含计算机声音** 当从 Mac 的 Teams 共享桌面或窗口时，现在可以包含计算机声音，以使参加会议的人员可以听到计算机中播放的音频。
 
 [//]: # (请勿移除功能详细信息内容结尾)
 <br/>

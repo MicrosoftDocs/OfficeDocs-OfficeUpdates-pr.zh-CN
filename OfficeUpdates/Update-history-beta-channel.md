@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: b04a794205843602ee39ec1c3f341b507f1fab18
-ms.sourcegitcommit: cbd73b0469d1d632efc0e8d64a47c8e401ef18a9
+ms.openlocfilehash: 9f5974a072575500e90f2e8adb1afa0a48bb3b3b
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50257697"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418087"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 频道的更新历史记录
 
@@ -37,6 +37,12 @@ ms.locfileid: "50257697"
 
 
 [//]: # (请勿移除)
+
+**2021 年 3 月 1 日**<br/>
+版本 2103（内部版本 13827.20004）<br/>
+
+**2021 年 2 月 22 日**<br/>
+版本 2103（内部版本 13819.20006）<br/>
 
 **2021 年 2 月 16 日**<br/>
 版本 2103（内部版本 13811.20002）<br/>

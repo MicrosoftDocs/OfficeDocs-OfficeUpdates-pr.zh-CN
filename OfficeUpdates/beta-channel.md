@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242040"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418037"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,84 @@ ms.locfileid: "50242040"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2103-february-26"></a>版本 2103：2 月 26 日
+*版本 2103（内部版本 13819.20006）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了一个阻止用户将 Excel 工作簿导出为 PDF 的问题。
+
+
+- 修复了共同创作时复制工作表可能会丢失某些格式的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们已修复删除 DRM 保护时导致用户看到附件重复的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了将项目从 Project Web 应用程序保存到本地文件时，可能会错误创建任务拆分的问题。 如果使用非标准工作时间的任务日历，则会发生这种情况。
+
+
+- 修复了如果指示器列未处于第一列位置且剪切摘要任务时、你不会收到子任务也将删除的警告的问题。
+
+
+- 我们已修复如果用户在其“时间表”上选择“将自己添加到任务”功能、正确的资源可用性单位可能无法在已创建分配上使用的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了多个批注对齐的问题。
+
+
+- 我们已修复“大声朗读”任务窗格键盘快捷方式中的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 现在会根据组策略设置适当筛选掉 OneDrive 位置。
+
+
+- 修复了加载 EMF 图像时可能出现的无响应的相关问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2103-february-19"></a>版本 2103：2 月 19 日
+*版本 2103（内部版本 13811.20002）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们已修复删除 DRM 保护时导致用户看到附件重复的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了如果指示器列未处于第一列位置且剪切摘要任务时、你不会收到子任务也将删除的警告的问题。
+
+
+- 我们已修复如果用户在其“时间表”上选择“将自己添加到任务”功能、正确的资源可用性单位可能无法在已创建分配上使用的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们已修复“大声朗读”任务窗格键盘快捷方式中的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2103-february-12"></a>版本 2103：2 月 12 日
 *版本 2103（内部版本 13806.20000）*
@@ -2522,6 +2600,8 @@ ms.locfileid: "50242040"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
@@ -2530,6 +2610,4 @@ ms.locfileid: "50242040"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (不修改管理中心元数据内容结束)

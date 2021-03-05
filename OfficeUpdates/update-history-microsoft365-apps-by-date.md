@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 8c430193def5bacbd177630c3d61598c8ab49bdd
-ms.sourcegitcommit: 22b0fb80adf158717f43f07a1d6e18ec91618fb4
+ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50279819"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418067"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -36,7 +36,7 @@ ms.locfileid: "50279819"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2101<br/>|13628.20448<br/>|2021 年 2 月 16 日<br/>|版本 2102 已发布<br/>|
+|当前频道<br/>|2102<br/>|13801.20266<br/>|2021 年 3 月 1 日<br/>|版本 2103 已发布<br/>|
 |每月企业频道<br/>|2012 版<br/>|13530.20528<br/>|2021 年 2 月 9 日<br/>|2021 年 4 月 13 日<br/>|
 |每月企业频道<br/>|2011<br/>|13426.20658<br/>|2021 年 2 月 9 日<br/>|2021 年 3 月 9 日<br/>|
 |半年企业频道（预览）<br/>|2008 版<br/>|13127.21216<br/>|2021 年 2 月 9 日<br/>|2021 年 3 月 9 日<br/>|
@@ -56,7 +56,8 @@ ms.locfileid: "50279819"
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2021|2 月 16 日|[版本 2101（内部版本 13628.20448）](current-channel.md#version-2101-february-17)| | | |
+|2021 年|3 月 1 日|[版本 2102（内部版本 13801.20266）](current-channel.md#version-2102-march-01)| | | |
+|2021 年|2 月 16 日|[版本 2101（内部版本 13628.20448）](current-channel.md#version-2101-february-17)| | | |
 |2021|2 月 9 日|[版本 2101 （内部版本 13628.20380）](current-channel.md#version-2101-february-09)|[版本 2012（内部版本 13530.20528）](monthly-enterprise-channel.md#version-2012-february-09)<br/>[版本 2011（内部版本 13426.20658）](monthly-enterprise-channel.md#version-2011-february-09)|[版本 2008（内部版本 13127.21216）](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[版本 2008（内部版本 13127.21216）](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[版本 2002（内部版本 12527.21594）](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[版本 1908（内部版本 11929.21008）](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|1 月 26 日|[版本 2101（内部版本 13628.20274）](current-channel.md#version-2101-january-26)| | | |
 |2021|1 月 21 日|[版本 2012（内部版本 13530.20440）](current-channel.md#version-2012-january-21)| | | |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
-ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
+ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "49943272"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421367"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,6 +29,24 @@ ms.locfileid: "49943272"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="february-2021-release"></a>2021 年 2 月版本
+
+**发布日期：** 2021 年 2 月 17 日
+
+*Microsoft AutoUpdate 4.32*
+
+**Bug 修复和增强功能：**
+- 文档更新：MAU 命令行界面中现在提供了-t、-m 缺失的标记和更新的标记。 
+- 辅助功能更新：现在 MAU UI 上的下载/安装进度栏和 MAU 用户首选项 UI上的更新频道标签现在都可以使用语音过滤通知。
+- 功能更新：MAU 的主菜单栏现在具有一个“编辑”选项，以允许使用键盘快捷方式。
+- 其他更新：MAU 的版权年份已更新为 2021 年。
+
+[下载 Microsoft AutoUpdate 4.32 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.32.21021202_Updater.pkg)<br/>
+<br/>
+**SHA-256 哈希：**
+
+CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 ## <a name="january-2021-release"></a>2021 年 1 月版本
 

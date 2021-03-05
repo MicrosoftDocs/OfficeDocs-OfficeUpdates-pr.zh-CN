@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
-ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
+ms.openlocfilehash: 8627a47ca19b170f0d69e16d4a23cc787cb8a6bd
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080943"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418057"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
@@ -25,6 +25,15 @@ ms.locfileid: "50080943"
 > - 本文中的信息不适用于 Microsoft 365 应用。
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="march-2-2021"></a>2021 年 3 月 2 日
+**Office 2016**<br/>
+Microsoft Access 2016 的更新 ([KB4493188](https://support.microsoft.com/help/4493188)) </br> Microsoft Office 2016 的更新 ([KB4493153](https://support.microsoft.com/help/4493153)) </br> Microsoft Outlook 2016 的更新 ([KB4493226](https://support.microsoft.com/help/4493226)) </br> Microsoft Project 2016 的更新 ([KB4493191](https://support.microsoft.com/help/4493191)) </br> 
+
+
+**Office 2013**<br/>
+Microsoft Outlook 2013 的更新 ([KB4493174](https://support.microsoft.com/help/4493174)) </br> 
+
 
 ## <a name="february-2-2021"></a>2021 年 2 月 2 日
 **Office 2016**<br/>

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 为 IT 专业人士提供 Office 部署工具 (ODT) 的发布历史记录
-ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177946"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421400"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的发布历史记录
 
@@ -28,6 +28,14 @@ Office 部署工具 (ODT) 是命令行工具，可用于下载即点即用版本
  **安装说明**：下载文件后，运行自解压缩可执行文件，其中包含 Office 部署工具可执行文件 (setup.exe) 和示例配置文件 (configuration.xml)。 
 
 [下载 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-25-2021"></a>2021 年 2 月 25 日
+版本 16.0.13628.20476（setup.exe 版本 16.0.13628.20462）
+- 修复了无法验证指定数十种语言的 configuration.xml 文件的问题
+- 修复了迁移存档方案中不遵守 FORCEAPPSHUTDOWN 属性的问题
+- 修复了在 configuration.xml 中指定 2 个或更多 PIDKEY 属性无法安装 PIDKey 的问题
+
+
 
 ## <a name="february-9-2021"></a>2021 年 2 月 9 日
 版本 16.0.13628.20274（setup.exe 版本 16.0.13628.20246）
