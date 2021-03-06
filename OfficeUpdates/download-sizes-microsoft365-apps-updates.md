@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: 47c5eee644df956bb6a23b17d8b3159f882da08c
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 60461742e857889e5249688f53c385e649cd7ff0
+ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418077"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50455758"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -35,6 +35,43 @@ ms.locfileid: "50418077"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+[//]: # (请勿移除预测内容开头)
+
+## <a name="march-4-2021"></a>2021 年 3 月 4 日
+
+
+### <a name="monthly-enterprise-channel"></a>每月企业频道
+
+<i>预期版本是版本 2101（内部版本 13628.20526）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2012（内部版本 13530.20528） <br/> |2021 年 2 月 9 日 <br/> |203<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企业频道（预览）
+
+<i>预期版本是版本 2102（内部版本 13801.20274）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2008（内部版本 13127.21216） <br/> |2021 年 2 月 9 日 <br/> |280<br/> |
+|版本 2008（内部版本 13127.21064） <br/> |2021 年 1 月 12 日 <br/> |533<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企业频道
+
+<i>预期版本是版本 2008（内部版本 13127.21322）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2008（内部版本 13127.21216） <br/> |2021 年 2 月 9 日 <br/> |382<br/> |
+|版本 2008（内部版本 13127.21064） <br/> |2021 年 1 月 12 日 <br/> |61<br/> |
+
+
+[//]: # (请勿移除预测内容结尾)
 
 ## <a name="march-1-2021"></a>2021 年 3 月 1 日
 
