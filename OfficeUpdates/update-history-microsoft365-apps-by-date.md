@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
+ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418067"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "50515323"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -28,7 +28,7 @@ ms.locfileid: "50418067"
 > - 该表是按发行日期排序的，首先列出最近的发行日期。
 > - 有关更新频道的详细信息，请参阅 [Microsoft 365 应用版的更新频道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
-下表列出了每个更新频道支持的版本和最新内部版本号。
+下表列出了每个更新频道支持的版本和最新内部版本号。 发布日期指示最新版本的发布时间。
 
 ### <a name="supported-versions"></a>**支持的版本**
 

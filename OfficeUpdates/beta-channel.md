@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
+ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418037"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50505664"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,80 @@ ms.locfileid: "50418037"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2103-march-05"></a>版本 2103：3 月 5 日
+*版本 2103（内部版本 13901.20036）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。 使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。 需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。 使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。 需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。
+
+### <a name="word"></a>Word
+
+- **对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。 使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。 需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 更正了使用乘法或日文字体除号时字体会意外更改的问题。 现在，如果支持该字符，我们将继续使用同一字体。
+
+
+- 修复了保存为 .xls 或 .xlt 格式时导致某些数据透视表格式损坏工作簿的问题。
+
+
+- 修复了打开工作簿时意外显示某些笔记的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导出到 CSV 时导致非 ASCII 字符导出错误的问题。
+
+
+- 已修复了一个问题，即导致用户在撰写邮件时无法使用"检查姓名"来查找联系人组。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了 PowerPoint 幻灯片放映模式下图表中的箭头没有按预期显示的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了这样一个问题，即如果用户未登录到可以访问 MIP 保护标签的标识，则使用 Microsoft 信息保护 （MIP） 标签打开的文件可能会无限期挂起。 用户被强制取消打开以显示登录提示，且该打开仅在这之后成功。 通过允许打开/下载期间显示登录提示来修复此问题。
+
+
+- 修复了新"Word 批注"使用"听写"时的问题，批注卡中的"听写"按钮现在可正确开启和关闭。
+
+
+- 解决了用户口述文档时，字词间没有插入空格的问题。
+
+
+- 修复了在 RTL 中键入多行批注导致第 2 行和后行左对齐（而非右对齐）时的问题。
+
+
+- 修复了两个不同拼写更正上下文菜单之间的拼写检查切换的问题。
+
+
+- 我们解决了列可能包含重叠文本的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2103-february-26"></a>版本 2103：2 月 26 日
 *版本 2103（内部版本 13819.20006）*
@@ -2012,7 +2086,7 @@ ms.locfileid: "50418037"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。 [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -2039,7 +2113,7 @@ ms.locfileid: "50418037"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -2600,6 +2674,7 @@ ms.locfileid: "50418037"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
@@ -2609,5 +2684,4 @@ ms.locfileid: "50418037"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (不修改管理中心元数据内容结束)
