@@ -9,734 +9,772 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
-ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: f260cdf331ad730f8fade30fc64e76fa79a5df58
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177934"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595556"
 ---
-# <a name="release-notes-for-microsoft-office-security-updates"></a><span data-ttu-id="c0c9f-103">Microsoft Office安全更新发布说明</span><span class="sxs-lookup"><span data-stu-id="c0c9f-103">Release notes for Microsoft Office security updates</span></span>
+# <a name="release-notes-for-microsoft-office-security-updates"></a><span data-ttu-id="5817b-103">Microsoft Office安全更新发布说明</span><span class="sxs-lookup"><span data-stu-id="5817b-103">Release notes for Microsoft Office security updates</span></span>
 
-<span data-ttu-id="c0c9f-104">这些发布说明提供了有关Microsoft Office更新中包含的安全修复的信息。</span><span class="sxs-lookup"><span data-stu-id="c0c9f-104">These release notes provide information about security fixes that are included in updates to Microsoft Office.</span></span>
+<span data-ttu-id="5817b-104">这些发布说明提供了有关Microsoft Office更新中包含的安全修复的信息。</span><span class="sxs-lookup"><span data-stu-id="5817b-104">These release notes provide information about security fixes that are included in updates to Microsoft Office.</span></span>
 
-<span data-ttu-id="c0c9f-105">此信息适用于Microsoft 365企业应用版，Microsoft 365商业应用版，Office2016零售版 (C2R)和Office2019。</span><span class="sxs-lookup"><span data-stu-id="c0c9f-105">This information applies to Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, Office 2016 Retail (C2R), and Office 2019.</span></span>
+<span data-ttu-id="5817b-105">此信息适用于Microsoft 365企业应用版，Microsoft 365商业应用版，Office2016零售版 (C2R)和Office2019。</span><span class="sxs-lookup"><span data-stu-id="5817b-105">This information applies to Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, Office 2016 Retail (C2R), and Office 2019.</span></span>
 
 
 > [!IMPORTANT]
-> - <span data-ttu-id="c0c9f-106">我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。</span><span class="sxs-lookup"><span data-stu-id="c0c9f-106">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="c0c9f-107">若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。</span><span class="sxs-lookup"><span data-stu-id="c0c9f-107">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
-> - <span data-ttu-id="c0c9f-108">自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。</span><span class="sxs-lookup"><span data-stu-id="c0c9f-108">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="c0c9f-109">若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。</span><span class="sxs-lookup"><span data-stu-id="c0c9f-109">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span> <span data-ttu-id="c0c9f-110">在我们的文档中，我们通常将其称为Microsoft 365 应用。</span><span class="sxs-lookup"><span data-stu-id="c0c9f-110">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
+> - <span data-ttu-id="5817b-106">我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。</span><span class="sxs-lookup"><span data-stu-id="5817b-106">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="5817b-107">若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。</span><span class="sxs-lookup"><span data-stu-id="5817b-107">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
+> - <span data-ttu-id="5817b-108">自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。</span><span class="sxs-lookup"><span data-stu-id="5817b-108">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="5817b-109">若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。</span><span class="sxs-lookup"><span data-stu-id="5817b-109">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span> <span data-ttu-id="5817b-110">在我们的文档中，我们通常将其称为Microsoft 365 应用。</span><span class="sxs-lookup"><span data-stu-id="5817b-110">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
 
 
  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
 
-## <a name="february-09-2021"></a><span data-ttu-id="c0c9f-112">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-112">February 09, 2021</span></span>
-<span data-ttu-id="c0c9f-113">当前频道：版本2101（内部版本13628.20380）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-113">Current Channel: Version 2101 (Build 13628.20380)</span></span>  
-<span data-ttu-id="c0c9f-114">每月企业频道：版本 2012（内部版本 13530.20528）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-114">Monthly Enterprise Channel: Version 2012 (Build 13530.20528)</span></span>  
-<span data-ttu-id="c0c9f-115">每月企业频道：版本 2011（内部版本 13426.20658）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-115">Monthly Enterprise Channel: Version 2011 (Build 13426.20658)</span></span>  
-<span data-ttu-id="c0c9f-116">半年度企业频道（预览版）：版本 2008（内部版本 13127.21216）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-116">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.21216)</span></span>  
-<span data-ttu-id="c0c9f-117">半年度企业频道：版本 2008（内部版本 13127.21216）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-117">Semi-Annual Enterprise Channel: Version 2008 (Build 13127.21216)</span></span>  
-<span data-ttu-id="c0c9f-118">半年度企业频道：版本 2002（内部版本 12527.21594）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-118">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21594)</span></span>  
-<span data-ttu-id="c0c9f-119">半年度企业频道：版本 1908（内部版本 11929.21008）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-119">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.21008)</span></span>  
-<span data-ttu-id="c0c9f-120">Windows 7 上的 Microsoft 365 应用：版本 2002（内部版本 12527.21594）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-120">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21594)</span></span>  
-<span data-ttu-id="c0c9f-121">Office 2019 零售版：版本2101（内部版本13628.20380）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-121">Office 2019 Retail: Version 2101 (Build 13628.20380)</span></span>  
-<span data-ttu-id="c0c9f-122">Office 2016 零售版：版本2101（内部版本13628.20380）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-122">Office 2016 Retail: Version 2101 (Build 13628.20380)</span></span>  
-<span data-ttu-id="c0c9f-123">Office 2019 批量许可：版本 1808（内部版本 10371.20060）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-123">Office 2019 Volume Licensed: Version 1808 (Build 10371.20060)</span></span>  
+## <a name="march-09-2021"></a><span data-ttu-id="5817b-112">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="5817b-112">March 09, 2021</span></span>
+<span data-ttu-id="5817b-113">当前频道：版本 2102（内部版本13801.20294）</span><span class="sxs-lookup"><span data-stu-id="5817b-113">Current Channel: Version 2102 (Build 13801.20294)</span></span>  
+<span data-ttu-id="5817b-114">每月企业频道：版本 2101（内部版本 13628.20528）</span><span class="sxs-lookup"><span data-stu-id="5817b-114">Monthly Enterprise Channel: Version 2101 (Build 13628.20528)</span></span>  
+<span data-ttu-id="5817b-115">每月企业频道：版本 2012（内部版本 13530.20628）</span><span class="sxs-lookup"><span data-stu-id="5817b-115">Monthly Enterprise Channel: Version 2012 (Build 13530.20628)</span></span>  
+<span data-ttu-id="5817b-116">半年度企业频道（预览版）：版本 2102（内部版本 13801.20294）</span><span class="sxs-lookup"><span data-stu-id="5817b-116">Semi-Annual Enterprise Channel (Preview): Version 2102 (Build 13801.20294)</span></span>  
+<span data-ttu-id="5817b-117">半年度企业频道（预览）：版本 2008（内部版本 13127.21348）</span><span class="sxs-lookup"><span data-stu-id="5817b-117">Semi-Annual Enterprise Channel: Version 2008 (Build 13127.21348)</span></span>  
+<span data-ttu-id="5817b-118">半年度企业频道：版本 2002（内部版本 12527.21686）</span><span class="sxs-lookup"><span data-stu-id="5817b-118">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21686)</span></span>  
+<span data-ttu-id="5817b-119">Windows 7 上的 Microsoft 365 应用版：版本 2002（内部版本 12527.21686）</span><span class="sxs-lookup"><span data-stu-id="5817b-119">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21686)</span></span>  
+<span data-ttu-id="5817b-120">Office 2019 零售版：版本2102（内部版本13801.20294）</span><span class="sxs-lookup"><span data-stu-id="5817b-120">Office 2019 Retail: Version 2102 (Build 13801.20294)</span></span>  
+<span data-ttu-id="5817b-121">Office 2016 零售版：版本2102（内部版本13801.20294）</span><span class="sxs-lookup"><span data-stu-id="5817b-121">Office 2016 Retail: Version 2102 (Build 13801.20294)</span></span>  
+<span data-ttu-id="5817b-122">Office 2019 批量许可：版本 1808（内部版本 10372.20060）</span><span class="sxs-lookup"><span data-stu-id="5817b-122">Office 2019 Volume Licensed: Version 1808 (Build 10372.20060)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-125">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-125">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-124">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-124">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-126">CVE-2021-24069</span><span class="sxs-lookup"><span data-stu-id="c0c9f-126">CVE-2021-24069</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24069)
--   [<span data-ttu-id="c0c9f-127">CVE-2021-24070</span><span class="sxs-lookup"><span data-stu-id="c0c9f-127">CVE-2021-24070</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24070)
--   [<span data-ttu-id="c0c9f-128">CVE-2021-24067</span><span class="sxs-lookup"><span data-stu-id="c0c9f-128">CVE-2021-24067</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24067)
+-   [<span data-ttu-id="5817b-125">CVE-2021-27054</span><span class="sxs-lookup"><span data-stu-id="5817b-125">CVE-2021-27054</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27054)
+-   [<span data-ttu-id="5817b-126">CVE-2021-27057</span><span class="sxs-lookup"><span data-stu-id="5817b-126">CVE-2021-27057</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27057)
+-   [<span data-ttu-id="5817b-127">CVE-2021-27053</span><span class="sxs-lookup"><span data-stu-id="5817b-127">CVE-2021-27053</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27053)
+
+### <a name="powerpoint"></a><span data-ttu-id="5817b-128">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5817b-128">PowerPoint</span></span>
+
+-   [<span data-ttu-id="5817b-129">CVE-2021-27056</span><span class="sxs-lookup"><span data-stu-id="5817b-129">CVE-2021-27056</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27056)
+
+### <a name="visio"></a><span data-ttu-id="5817b-130">Visio</span><span class="sxs-lookup"><span data-stu-id="5817b-130">Visio</span></span>
+
+-   [<span data-ttu-id="5817b-131">CVE-2021-27055</span><span class="sxs-lookup"><span data-stu-id="5817b-131">CVE-2021-27055</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27055)
+
+### <a name="office-suite"></a><span data-ttu-id="5817b-132">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-132">Office Suite</span></span>
+
+-   [<span data-ttu-id="5817b-133">CVE-2021-27058</span><span class="sxs-lookup"><span data-stu-id="5817b-133">CVE-2021-27058</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27058)
+-   [<span data-ttu-id="5817b-134">CVE-2021-24108</span><span class="sxs-lookup"><span data-stu-id="5817b-134">CVE-2021-24108</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24108)
 
 [//]: # (请勿删除安全详细信息内容结尾)
 
 
 
-## <a name="january-12-2021"></a><span data-ttu-id="c0c9f-130">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-130">January 12, 2021</span></span>
-<span data-ttu-id="c0c9f-131">当前频道：版本2012（内部版本13530.20376）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-131">Current Channel: Version 2012 (Build 13530.20376)</span></span>  
-<span data-ttu-id="c0c9f-132">每月企业频道：版本2011（内部版本13426.20526）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-132">Monthly Enterprise Channel: Version 2011 (Build 13426.20526)</span></span>  
-<span data-ttu-id="c0c9f-133">每月企业频道：版本 2010（内部版本 13328.20550）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-133">Monthly Enterprise Channel: Version 2010 (Build 13328.20550)</span></span>  
-<span data-ttu-id="c0c9f-134">半年度企业频道（预览版）：版本2008（内部版本13127.21064）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-134">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.21064)</span></span>  
-<span data-ttu-id="c0c9f-135">半年度企业频道：版本2008（内部版本13127.21064）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-135">Semi-Annual Enterprise Channel: Version 2008 (Build 13127.21064)</span></span>  
-<span data-ttu-id="c0c9f-136">半年度企业频道：版本2002（内部版本12527.21504）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-136">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21504)</span></span>  
-<span data-ttu-id="c0c9f-137">半年度企业频道：版本1908（内部版本11929.20994）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-137">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20994)</span></span>  
-<span data-ttu-id="c0c9f-138">Windows 7 上的 Microsoft 365 应用版：版本2002（内部版本12527.21504）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-138">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21504)</span></span>  
-<span data-ttu-id="c0c9f-139">Office 2019 零售版：版本2012（内部版本13530.20376）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-139">Office 2019 Retail: Version 2012 (Build 13530.20376)</span></span>  
-<span data-ttu-id="c0c9f-140">Office 2016 零售版：版本2012（内部版本13530.20376）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-140">Office 2016 Retail: Version 2012 (Build 13530.20376)</span></span>  
-<span data-ttu-id="c0c9f-141">Office 2019 批量许可：版本1808（内部版本10370.20052）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-141">Office 2019 Volume Licensed: Version 1808 (Build 10370.20052)</span></span>  
+## <a name="february-09-2021"></a><span data-ttu-id="5817b-136">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="5817b-136">February 09, 2021</span></span>
+<span data-ttu-id="5817b-137">当前频道：版本2101（内部版本13628.20380）</span><span class="sxs-lookup"><span data-stu-id="5817b-137">Current Channel: Version 2101 (Build 13628.20380)</span></span>  
+<span data-ttu-id="5817b-138">每月企业频道：版本 2012（内部版本 13530.20528）</span><span class="sxs-lookup"><span data-stu-id="5817b-138">Monthly Enterprise Channel: Version 2012 (Build 13530.20528)</span></span>  
+<span data-ttu-id="5817b-139">每月企业频道：版本 2011（内部版本 13426.20658）</span><span class="sxs-lookup"><span data-stu-id="5817b-139">Monthly Enterprise Channel: Version 2011 (Build 13426.20658)</span></span>  
+<span data-ttu-id="5817b-140">半年度企业频道（预览版）：版本 2008（内部版本 13127.21216）</span><span class="sxs-lookup"><span data-stu-id="5817b-140">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.21216)</span></span>  
+<span data-ttu-id="5817b-141">半年度企业频道：版本 2008（内部版本 13127.21216）</span><span class="sxs-lookup"><span data-stu-id="5817b-141">Semi-Annual Enterprise Channel: Version 2008 (Build 13127.21216)</span></span>  
+<span data-ttu-id="5817b-142">半年度企业频道：版本 2002（内部版本 12527.21594）</span><span class="sxs-lookup"><span data-stu-id="5817b-142">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21594)</span></span>  
+<span data-ttu-id="5817b-143">半年度企业频道：版本 1908（内部版本 11929.21008）</span><span class="sxs-lookup"><span data-stu-id="5817b-143">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.21008)</span></span>  
+<span data-ttu-id="5817b-144">Windows 7 上的 Microsoft 365 应用：版本 2002（内部版本 12527.21594）</span><span class="sxs-lookup"><span data-stu-id="5817b-144">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21594)</span></span>  
+<span data-ttu-id="5817b-145">Office 2019 零售版：版本2101（内部版本13628.20380）</span><span class="sxs-lookup"><span data-stu-id="5817b-145">Office 2019 Retail: Version 2101 (Build 13628.20380)</span></span>  
+<span data-ttu-id="5817b-146">Office 2016 零售版：版本2101（内部版本13628.20380）</span><span class="sxs-lookup"><span data-stu-id="5817b-146">Office 2016 Retail: Version 2101 (Build 13628.20380)</span></span>  
+<span data-ttu-id="5817b-147">Office 2019 批量许可：版本 1808（内部版本 10371.20060）</span><span class="sxs-lookup"><span data-stu-id="5817b-147">Office 2019 Volume Licensed: Version 1808 (Build 10371.20060)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-143">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-143">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-149">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-149">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-144">CVE-2021-1714</span><span class="sxs-lookup"><span data-stu-id="c0c9f-144">CVE-2021-1714</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1714)
--   [<span data-ttu-id="c0c9f-145">CVE-2021-1713</span><span class="sxs-lookup"><span data-stu-id="c0c9f-145">CVE-2021-1713</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1713)
+-   [<span data-ttu-id="5817b-150">CVE-2021-24069</span><span class="sxs-lookup"><span data-stu-id="5817b-150">CVE-2021-24069</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24069)
+-   [<span data-ttu-id="5817b-151">CVE-2021-24070</span><span class="sxs-lookup"><span data-stu-id="5817b-151">CVE-2021-24070</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24070)
+-   [<span data-ttu-id="5817b-152">CVE-2021-24067</span><span class="sxs-lookup"><span data-stu-id="5817b-152">CVE-2021-24067</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24067)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-146">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-146">Word</span></span>
+[//]: # (请勿删除安全详细信息内容结尾)
 
--   [<span data-ttu-id="c0c9f-147">CVE-2021-1715</span><span class="sxs-lookup"><span data-stu-id="c0c9f-147">CVE-2021-1715</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1715)
--   [<span data-ttu-id="c0c9f-148">CVE-2021-1716</span><span class="sxs-lookup"><span data-stu-id="c0c9f-148">CVE-2021-1716</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1716)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-149">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-149">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-150">CVE-2021-1711</span><span class="sxs-lookup"><span data-stu-id="c0c9f-150">CVE-2021-1711</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1711)
+## <a name="january-12-2021"></a><span data-ttu-id="5817b-154">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="5817b-154">January 12, 2021</span></span>
+<span data-ttu-id="5817b-155">当前频道：版本2012（内部版本13530.20376）</span><span class="sxs-lookup"><span data-stu-id="5817b-155">Current Channel: Version 2012 (Build 13530.20376)</span></span>  
+<span data-ttu-id="5817b-156">每月企业频道：版本2011（内部版本13426.20526）</span><span class="sxs-lookup"><span data-stu-id="5817b-156">Monthly Enterprise Channel: Version 2011 (Build 13426.20526)</span></span>  
+<span data-ttu-id="5817b-157">每月企业频道：版本 2010（内部版本 13328.20550）</span><span class="sxs-lookup"><span data-stu-id="5817b-157">Monthly Enterprise Channel: Version 2010 (Build 13328.20550)</span></span>  
+<span data-ttu-id="5817b-158">半年度企业频道（预览版）：版本2008（内部版本13127.21064）</span><span class="sxs-lookup"><span data-stu-id="5817b-158">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.21064)</span></span>  
+<span data-ttu-id="5817b-159">半年度企业频道：版本2008（内部版本13127.21064）</span><span class="sxs-lookup"><span data-stu-id="5817b-159">Semi-Annual Enterprise Channel: Version 2008 (Build 13127.21064)</span></span>  
+<span data-ttu-id="5817b-160">半年度企业频道：版本2002（内部版本12527.21504）</span><span class="sxs-lookup"><span data-stu-id="5817b-160">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21504)</span></span>  
+<span data-ttu-id="5817b-161">半年度企业频道：版本1908（内部版本11929.20994）</span><span class="sxs-lookup"><span data-stu-id="5817b-161">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20994)</span></span>  
+<span data-ttu-id="5817b-162">Windows 7 上的 Microsoft 365 应用版：版本2002（内部版本12527.21504）</span><span class="sxs-lookup"><span data-stu-id="5817b-162">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21504)</span></span>  
+<span data-ttu-id="5817b-163">Office 2019 零售版：版本2012（内部版本13530.20376）</span><span class="sxs-lookup"><span data-stu-id="5817b-163">Office 2019 Retail: Version 2012 (Build 13530.20376)</span></span>  
+<span data-ttu-id="5817b-164">Office 2016 零售版：版本2012（内部版本13530.20376）</span><span class="sxs-lookup"><span data-stu-id="5817b-164">Office 2016 Retail: Version 2012 (Build 13530.20376)</span></span>  
+<span data-ttu-id="5817b-165">Office 2019 批量许可：版本1808（内部版本10370.20052）</span><span class="sxs-lookup"><span data-stu-id="5817b-165">Office 2019 Volume Licensed: Version 1808 (Build 10370.20052)</span></span>  
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="excel"></a><span data-ttu-id="5817b-167">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-167">Excel</span></span>
+
+-   [<span data-ttu-id="5817b-168">CVE-2021-1714</span><span class="sxs-lookup"><span data-stu-id="5817b-168">CVE-2021-1714</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1714)
+-   [<span data-ttu-id="5817b-169">CVE-2021-1713</span><span class="sxs-lookup"><span data-stu-id="5817b-169">CVE-2021-1713</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a><span data-ttu-id="5817b-170">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-170">Word</span></span>
+
+-   [<span data-ttu-id="5817b-171">CVE-2021-1715</span><span class="sxs-lookup"><span data-stu-id="5817b-171">CVE-2021-1715</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1715)
+-   [<span data-ttu-id="5817b-172">CVE-2021-1716</span><span class="sxs-lookup"><span data-stu-id="5817b-172">CVE-2021-1716</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1716)
+
+### <a name="office-suite"></a><span data-ttu-id="5817b-173">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-173">Office Suite</span></span>
+
+-   [<span data-ttu-id="5817b-174">CVE-2021-1711</span><span class="sxs-lookup"><span data-stu-id="5817b-174">CVE-2021-1711</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-1711)
 
 
 [//]: # (请勿删除安全详细信息内容结尾)
 
 
 
-## <a name="december-08-2020"></a><span data-ttu-id="c0c9f-152">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-152">December 08, 2020</span></span>
-<span data-ttu-id="c0c9f-153">当前频道：版本 2011 (内部版本 13426.20332) </span><span class="sxs-lookup"><span data-stu-id="c0c9f-153">Current Channel: Version 2011 (Build 13426.20332)</span></span>  
-<span data-ttu-id="c0c9f-154">每月企业频道：版本 2010 (内部版本 13328.20478) </span><span class="sxs-lookup"><span data-stu-id="c0c9f-154">Monthly Enterprise Channel: Version 2010 (Build 13328.20478)</span></span>  
-<span data-ttu-id="c0c9f-155">每月企业频道：版本 2009 (内部版本 13231.20620) </span><span class="sxs-lookup"><span data-stu-id="c0c9f-155">Monthly Enterprise Channel: Version 2009 (Build 13231.20620)</span></span>  
-<span data-ttu-id="c0c9f-156">半年企业频道（预览）：版本 2008（内部版本 13127.20910）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-156">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.20910)</span></span>  
-<span data-ttu-id="c0c9f-157">半年企业频道：版本 2002（内部版本 12527.21416）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-157">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21416)</span></span>  
-<span data-ttu-id="c0c9f-158">半年企业频道：版本 1908（内部版本 11929.20984）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-158">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20984)</span></span>  
-<span data-ttu-id="c0c9f-159">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21416）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-159">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21416)</span></span>  
-<span data-ttu-id="c0c9f-160">Office 2019 零售版：版本 2011 (内部版本 13426.20332) </span><span class="sxs-lookup"><span data-stu-id="c0c9f-160">Office 2019 Retail: Version 2011 (Build 13426.20332)</span></span>  
-<span data-ttu-id="c0c9f-161">Office 2016 零售版：版本 2011 (内部版本 13426.20332) </span><span class="sxs-lookup"><span data-stu-id="c0c9f-161">Office 2016 Retail: Version 2011 (Build 13426.20332)</span></span>  
-<span data-ttu-id="c0c9f-162">Office 2019 批量许可：版本1808（内部版本10369.20032）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-162">Office 2019 Volume Licensed: Version 1808 (Build 10369.20032)</span></span>  
+## <a name="december-08-2020"></a><span data-ttu-id="5817b-176">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="5817b-176">December 08, 2020</span></span>
+<span data-ttu-id="5817b-177">当前频道：版本 2011 (内部版本 13426.20332) </span><span class="sxs-lookup"><span data-stu-id="5817b-177">Current Channel: Version 2011 (Build 13426.20332)</span></span>  
+<span data-ttu-id="5817b-178">每月企业频道：版本 2010 (内部版本 13328.20478) </span><span class="sxs-lookup"><span data-stu-id="5817b-178">Monthly Enterprise Channel: Version 2010 (Build 13328.20478)</span></span>  
+<span data-ttu-id="5817b-179">每月企业频道：版本 2009 (内部版本 13231.20620) </span><span class="sxs-lookup"><span data-stu-id="5817b-179">Monthly Enterprise Channel: Version 2009 (Build 13231.20620)</span></span>  
+<span data-ttu-id="5817b-180">半年企业频道（预览）：版本 2008（内部版本 13127.20910）</span><span class="sxs-lookup"><span data-stu-id="5817b-180">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.20910)</span></span>  
+<span data-ttu-id="5817b-181">半年企业频道：版本 2002（内部版本 12527.21416）</span><span class="sxs-lookup"><span data-stu-id="5817b-181">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21416)</span></span>  
+<span data-ttu-id="5817b-182">半年企业频道：版本 1908（内部版本 11929.20984）</span><span class="sxs-lookup"><span data-stu-id="5817b-182">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20984)</span></span>  
+<span data-ttu-id="5817b-183">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21416）</span><span class="sxs-lookup"><span data-stu-id="5817b-183">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21416)</span></span>  
+<span data-ttu-id="5817b-184">Office 2019 零售版：版本 2011 (内部版本 13426.20332) </span><span class="sxs-lookup"><span data-stu-id="5817b-184">Office 2019 Retail: Version 2011 (Build 13426.20332)</span></span>  
+<span data-ttu-id="5817b-185">Office 2016 零售版：版本 2011 (内部版本 13426.20332) </span><span class="sxs-lookup"><span data-stu-id="5817b-185">Office 2016 Retail: Version 2011 (Build 13426.20332)</span></span>  
+<span data-ttu-id="5817b-186">Office 2019 批量许可：版本1808（内部版本10369.20032）</span><span class="sxs-lookup"><span data-stu-id="5817b-186">Office 2019 Volume Licensed: Version 1808 (Build 10369.20032)</span></span>  
 
 [//]: # (请勿删除安全详细信息内容启动)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-164">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-164">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-188">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-188">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-165">CVE-2020-17123</span><span class="sxs-lookup"><span data-stu-id="c0c9f-165">CVE-2020-17123</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17123)
--   [<span data-ttu-id="c0c9f-166">CVE-2020-17125</span><span class="sxs-lookup"><span data-stu-id="c0c9f-166">CVE-2020-17125</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17125)
--   [<span data-ttu-id="c0c9f-167">CVE-2020-17126</span><span class="sxs-lookup"><span data-stu-id="c0c9f-167">CVE-2020-17126</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17126)
--   [<span data-ttu-id="c0c9f-168">CVE-2020-17128</span><span class="sxs-lookup"><span data-stu-id="c0c9f-168">CVE-2020-17128</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17128)
--   [<span data-ttu-id="c0c9f-169">CVE-2020-17129</span><span class="sxs-lookup"><span data-stu-id="c0c9f-169">CVE-2020-17129</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17129)
--   [<span data-ttu-id="c0c9f-170">CVE-2020-17130</span><span class="sxs-lookup"><span data-stu-id="c0c9f-170">CVE-2020-17130</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17130)
+-   [<span data-ttu-id="5817b-189">CVE-2020-17123</span><span class="sxs-lookup"><span data-stu-id="5817b-189">CVE-2020-17123</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17123)
+-   [<span data-ttu-id="5817b-190">CVE-2020-17125</span><span class="sxs-lookup"><span data-stu-id="5817b-190">CVE-2020-17125</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17125)
+-   [<span data-ttu-id="5817b-191">CVE-2020-17126</span><span class="sxs-lookup"><span data-stu-id="5817b-191">CVE-2020-17126</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17126)
+-   [<span data-ttu-id="5817b-192">CVE-2020-17128</span><span class="sxs-lookup"><span data-stu-id="5817b-192">CVE-2020-17128</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17128)
+-   [<span data-ttu-id="5817b-193">CVE-2020-17129</span><span class="sxs-lookup"><span data-stu-id="5817b-193">CVE-2020-17129</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17129)
+-   [<span data-ttu-id="5817b-194">CVE-2020-17130</span><span class="sxs-lookup"><span data-stu-id="5817b-194">CVE-2020-17130</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17130)
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-171">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-171">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-195">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-195">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-172">CVE-2020-17119</span><span class="sxs-lookup"><span data-stu-id="c0c9f-172">CVE-2020-17119</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17119)
+-   [<span data-ttu-id="5817b-196">CVE-2020-17119</span><span class="sxs-lookup"><span data-stu-id="5817b-196">CVE-2020-17119</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17119)
 
-### <a name="powerpoint"></a><span data-ttu-id="c0c9f-173">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c0c9f-173">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5817b-197">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5817b-197">PowerPoint</span></span>
 
--   [<span data-ttu-id="c0c9f-174">CVE-2020-17124</span><span class="sxs-lookup"><span data-stu-id="c0c9f-174">CVE-2020-17124</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17124)
+-   [<span data-ttu-id="5817b-198">CVE-2020-17124</span><span class="sxs-lookup"><span data-stu-id="5817b-198">CVE-2020-17124</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17124)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="november-10-2020"></a><span data-ttu-id="c0c9f-176">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-176">November 10, 2020</span></span>
-<span data-ttu-id="c0c9f-177">当前频道：版本 2010（内部版本 13328.20356）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-177">Current Channel: Version 2010 (Build 13328.20356)</span></span>  
-<span data-ttu-id="c0c9f-178">每月企业频道：版本 2009（内部版本 13231.20514）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-178">Monthly Enterprise Channel: Version 2009 (Build 13231.20514)</span></span>  
-<span data-ttu-id="c0c9f-179">每月企业频道：版本 2008（内部版本 13127.20760）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-179">Monthly Enterprise Channel: Version 2008 (Build 13127.20760)</span></span>  
-<span data-ttu-id="c0c9f-180">半年企业频道（预览）：版本 2008（内部版本 13127.20760）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-180">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.20760)</span></span>  
-<span data-ttu-id="c0c9f-181">半年企业频道：版本 2002（内部版本 12527.21330）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-181">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21330)</span></span>  
-<span data-ttu-id="c0c9f-182">半年企业频道：版本 1908（内部版本 11929.20974）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-182">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20974)</span></span>  
-<span data-ttu-id="c0c9f-183">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21330）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-183">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21330)</span></span>  
-<span data-ttu-id="c0c9f-184">Office 2019 零售：版本 2010（内部版本 13328.20356）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-184">Office 2019 Retail: Version 2010 (Build 13328.20356)</span></span>  
-<span data-ttu-id="c0c9f-185">Office 2016 零售版：版本 2010（内部版本 13328.20356）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-185">Office 2016 Retail: Version 2010 (Build 13328.20356)</span></span>  
-<span data-ttu-id="c0c9f-186">Office 2019 批量许可：版本 1808（内部版本 10368.20035）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-186">Office 2019 Volume Licensed: Version 1808 (Build 10368.20035)</span></span>  
+## <a name="november-10-2020"></a><span data-ttu-id="5817b-200">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="5817b-200">November 10, 2020</span></span>
+<span data-ttu-id="5817b-201">当前频道：版本 2010（内部版本 13328.20356）</span><span class="sxs-lookup"><span data-stu-id="5817b-201">Current Channel: Version 2010 (Build 13328.20356)</span></span>  
+<span data-ttu-id="5817b-202">每月企业频道：版本 2009（内部版本 13231.20514）</span><span class="sxs-lookup"><span data-stu-id="5817b-202">Monthly Enterprise Channel: Version 2009 (Build 13231.20514)</span></span>  
+<span data-ttu-id="5817b-203">每月企业频道：版本 2008（内部版本 13127.20760）</span><span class="sxs-lookup"><span data-stu-id="5817b-203">Monthly Enterprise Channel: Version 2008 (Build 13127.20760)</span></span>  
+<span data-ttu-id="5817b-204">半年企业频道（预览）：版本 2008（内部版本 13127.20760）</span><span class="sxs-lookup"><span data-stu-id="5817b-204">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.20760)</span></span>  
+<span data-ttu-id="5817b-205">半年企业频道：版本 2002（内部版本 12527.21330）</span><span class="sxs-lookup"><span data-stu-id="5817b-205">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21330)</span></span>  
+<span data-ttu-id="5817b-206">半年企业频道：版本 1908（内部版本 11929.20974）</span><span class="sxs-lookup"><span data-stu-id="5817b-206">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20974)</span></span>  
+<span data-ttu-id="5817b-207">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21330）</span><span class="sxs-lookup"><span data-stu-id="5817b-207">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21330)</span></span>  
+<span data-ttu-id="5817b-208">Office 2019 零售：版本 2010（内部版本 13328.20356）</span><span class="sxs-lookup"><span data-stu-id="5817b-208">Office 2019 Retail: Version 2010 (Build 13328.20356)</span></span>  
+<span data-ttu-id="5817b-209">Office 2016 零售版：版本 2010（内部版本 13328.20356）</span><span class="sxs-lookup"><span data-stu-id="5817b-209">Office 2016 Retail: Version 2010 (Build 13328.20356)</span></span>  
+<span data-ttu-id="5817b-210">Office 2019 批量许可：版本 1808（内部版本 10368.20035）</span><span class="sxs-lookup"><span data-stu-id="5817b-210">Office 2019 Volume Licensed: Version 1808 (Build 10368.20035)</span></span>  
 
 [//]: # (请勿删除安全详细信息内容启动)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-188">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-188">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-212">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-212">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-189">CVE-2020-17064</span><span class="sxs-lookup"><span data-stu-id="c0c9f-189">CVE-2020-17064</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17064)
--   [<span data-ttu-id="c0c9f-190">CVE-2020-17065</span><span class="sxs-lookup"><span data-stu-id="c0c9f-190">CVE-2020-17065</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17065)
--   [<span data-ttu-id="c0c9f-191">CVE-2020-17067</span><span class="sxs-lookup"><span data-stu-id="c0c9f-191">CVE-2020-17067</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17067)
+-   [<span data-ttu-id="5817b-213">CVE-2020-17064</span><span class="sxs-lookup"><span data-stu-id="5817b-213">CVE-2020-17064</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17064)
+-   [<span data-ttu-id="5817b-214">CVE-2020-17065</span><span class="sxs-lookup"><span data-stu-id="5817b-214">CVE-2020-17065</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17065)
+-   [<span data-ttu-id="5817b-215">CVE-2020-17067</span><span class="sxs-lookup"><span data-stu-id="5817b-215">CVE-2020-17067</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17067)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-192">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-192">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-216">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-216">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-193">CVE-2020-17020</span><span class="sxs-lookup"><span data-stu-id="c0c9f-193">CVE-2020-17020</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17020)
+-   [<span data-ttu-id="5817b-217">CVE-2020-17020</span><span class="sxs-lookup"><span data-stu-id="5817b-217">CVE-2020-17020</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17020)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-194">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-194">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-218">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-218">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-195">CVE-2020-17062</span><span class="sxs-lookup"><span data-stu-id="c0c9f-195">CVE-2020-17062</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17062)
--   [<span data-ttu-id="c0c9f-196">CVE-2020-17063</span><span class="sxs-lookup"><span data-stu-id="c0c9f-196">CVE-2020-17063</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17063)
+-   [<span data-ttu-id="5817b-219">CVE-2020-17062</span><span class="sxs-lookup"><span data-stu-id="5817b-219">CVE-2020-17062</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17062)
+-   [<span data-ttu-id="5817b-220">CVE-2020-17063</span><span class="sxs-lookup"><span data-stu-id="5817b-220">CVE-2020-17063</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-17063)
 
 [//]: # (请勿删除安全详细信息内容结尾)
 
 
 
-## <a name="october-13-2020"></a><span data-ttu-id="c0c9f-198">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-198">October 13, 2020</span></span>
-<span data-ttu-id="c0c9f-199">当前频道：版本 2009（内部版本 13231.20390）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-199">Current Channel: Version 2009 (Build 13231.20390)</span></span>  
-<span data-ttu-id="c0c9f-200">每月企业渠道：版本 2008（内部版本 13127.20638）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-200">Monthly Enterprise Channel: Version 2008 (Build 13127.20638)</span></span>  
-<span data-ttu-id="c0c9f-201">每月企业渠道：版本 2007（内部版本 13029.20708）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-201">Monthly Enterprise Channel: Version 2007 (Build 13029.20708)</span></span>  
-<span data-ttu-id="c0c9f-202">半年企业频道（预览）：版本 2008（内部版本 13127.20638）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-202">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.20638)</span></span>  
-<span data-ttu-id="c0c9f-203">半年企业频道：版本 2002（内部版本 12527.21236）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-203">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21236)</span></span>  
-<span data-ttu-id="c0c9f-204">半年企业频道：版本 1908（内部版本 11929.20966）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-204">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20966)</span></span>  
-<span data-ttu-id="c0c9f-205">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21236）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-205">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21236)</span></span>  
-<span data-ttu-id="c0c9f-206">Office 2019 零售：版本 2009（内部版本 13231.20390）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-206">Office 2019 Retail: Version 2009 (Build 13231.20390)</span></span>  
-<span data-ttu-id="c0c9f-207">Office 2016 零售：版本 2009（内部版本 13231.20390）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-207">Office 2016 Retail: Version 2009 (Build 13231.20390)</span></span>  
-<span data-ttu-id="c0c9f-208">Office 2019 批量许可：版本 1808（内部版本 10367.20048）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-208">Office 2019 Volume Licensed: Version 1808 (Build 10367.20048)</span></span>  
+## <a name="october-13-2020"></a><span data-ttu-id="5817b-222">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="5817b-222">October 13, 2020</span></span>
+<span data-ttu-id="5817b-223">当前频道：版本 2009（内部版本 13231.20390）</span><span class="sxs-lookup"><span data-stu-id="5817b-223">Current Channel: Version 2009 (Build 13231.20390)</span></span>  
+<span data-ttu-id="5817b-224">每月企业渠道：版本 2008（内部版本 13127.20638）</span><span class="sxs-lookup"><span data-stu-id="5817b-224">Monthly Enterprise Channel: Version 2008 (Build 13127.20638)</span></span>  
+<span data-ttu-id="5817b-225">每月企业渠道：版本 2007（内部版本 13029.20708）</span><span class="sxs-lookup"><span data-stu-id="5817b-225">Monthly Enterprise Channel: Version 2007 (Build 13029.20708)</span></span>  
+<span data-ttu-id="5817b-226">半年企业频道（预览）：版本 2008（内部版本 13127.20638）</span><span class="sxs-lookup"><span data-stu-id="5817b-226">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.20638)</span></span>  
+<span data-ttu-id="5817b-227">半年企业频道：版本 2002（内部版本 12527.21236）</span><span class="sxs-lookup"><span data-stu-id="5817b-227">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21236)</span></span>  
+<span data-ttu-id="5817b-228">半年企业频道：版本 1908（内部版本 11929.20966）</span><span class="sxs-lookup"><span data-stu-id="5817b-228">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20966)</span></span>  
+<span data-ttu-id="5817b-229">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21236）</span><span class="sxs-lookup"><span data-stu-id="5817b-229">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21236)</span></span>  
+<span data-ttu-id="5817b-230">Office 2019 零售：版本 2009（内部版本 13231.20390）</span><span class="sxs-lookup"><span data-stu-id="5817b-230">Office 2019 Retail: Version 2009 (Build 13231.20390)</span></span>  
+<span data-ttu-id="5817b-231">Office 2016 零售：版本 2009（内部版本 13231.20390）</span><span class="sxs-lookup"><span data-stu-id="5817b-231">Office 2016 Retail: Version 2009 (Build 13231.20390)</span></span>  
+<span data-ttu-id="5817b-232">Office 2019 批量许可：版本 1808（内部版本 10367.20048）</span><span class="sxs-lookup"><span data-stu-id="5817b-232">Office 2019 Volume Licensed: Version 1808 (Build 10367.20048)</span></span>  
 
 [//]: # (请勿删除安全详细信息内容启动)
 
 
-### <a name="access"></a><span data-ttu-id="c0c9f-210">Access</span><span class="sxs-lookup"><span data-stu-id="c0c9f-210">Access</span></span>
+### <a name="access"></a><span data-ttu-id="5817b-234">Access</span><span class="sxs-lookup"><span data-stu-id="5817b-234">Access</span></span>
 
--   [<span data-ttu-id="c0c9f-211">CVE-2020-16957</span><span class="sxs-lookup"><span data-stu-id="c0c9f-211">CVE-2020-16957</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16957)
+-   [<span data-ttu-id="5817b-235">CVE-2020-16957</span><span class="sxs-lookup"><span data-stu-id="5817b-235">CVE-2020-16957</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16957)
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-212">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-212">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-236">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-236">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-213">CVE-2020-16929</span><span class="sxs-lookup"><span data-stu-id="c0c9f-213">CVE-2020-16929</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16929)
--   [<span data-ttu-id="c0c9f-214">CVE-2020-16931</span><span class="sxs-lookup"><span data-stu-id="c0c9f-214">CVE-2020-16931</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16931)
--   [<span data-ttu-id="c0c9f-215">CVE-2020-16932</span><span class="sxs-lookup"><span data-stu-id="c0c9f-215">CVE-2020-16932</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16932)
+-   [<span data-ttu-id="5817b-237">CVE-2020-16929</span><span class="sxs-lookup"><span data-stu-id="5817b-237">CVE-2020-16929</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16929)
+-   [<span data-ttu-id="5817b-238">CVE-2020-16931</span><span class="sxs-lookup"><span data-stu-id="5817b-238">CVE-2020-16931</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16931)
+-   [<span data-ttu-id="5817b-239">CVE-2020-16932</span><span class="sxs-lookup"><span data-stu-id="5817b-239">CVE-2020-16932</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16932)
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-216">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-216">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-240">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-240">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-217">CVE-2020-16947</span><span class="sxs-lookup"><span data-stu-id="c0c9f-217">CVE-2020-16947</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16947)
--   [<span data-ttu-id="c0c9f-218">CVE-2020-16949</span><span class="sxs-lookup"><span data-stu-id="c0c9f-218">CVE-2020-16949</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16949)
+-   [<span data-ttu-id="5817b-241">CVE-2020-16947</span><span class="sxs-lookup"><span data-stu-id="5817b-241">CVE-2020-16947</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16947)
+-   [<span data-ttu-id="5817b-242">CVE-2020-16949</span><span class="sxs-lookup"><span data-stu-id="5817b-242">CVE-2020-16949</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16949)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-219">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-219">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-243">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-243">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-220">CVE-2020-16933</span><span class="sxs-lookup"><span data-stu-id="c0c9f-220">CVE-2020-16933</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16933)
+-   [<span data-ttu-id="5817b-244">CVE-2020-16933</span><span class="sxs-lookup"><span data-stu-id="5817b-244">CVE-2020-16933</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16933)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-221">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-221">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-245">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-245">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-222">CVE-2020-16930</span><span class="sxs-lookup"><span data-stu-id="c0c9f-222">CVE-2020-16930</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16930)
--   [<span data-ttu-id="c0c9f-223">CVE-2020-16955</span><span class="sxs-lookup"><span data-stu-id="c0c9f-223">CVE-2020-16955</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16955)
--   [<span data-ttu-id="c0c9f-224">CVE-2020-16928</span><span class="sxs-lookup"><span data-stu-id="c0c9f-224">CVE-2020-16928</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16928)
--   [<span data-ttu-id="c0c9f-225">CVE-2020-16934</span><span class="sxs-lookup"><span data-stu-id="c0c9f-225">CVE-2020-16934</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16934)
--   [<span data-ttu-id="c0c9f-226">CVE-2020-16918</span><span class="sxs-lookup"><span data-stu-id="c0c9f-226">CVE-2020-16918</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16918)
--   [<span data-ttu-id="c0c9f-227">CVE-2020-16954</span><span class="sxs-lookup"><span data-stu-id="c0c9f-227">CVE-2020-16954</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16954)
+-   [<span data-ttu-id="5817b-246">CVE-2020-16930</span><span class="sxs-lookup"><span data-stu-id="5817b-246">CVE-2020-16930</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16930)
+-   [<span data-ttu-id="5817b-247">CVE-2020-16955</span><span class="sxs-lookup"><span data-stu-id="5817b-247">CVE-2020-16955</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16955)
+-   [<span data-ttu-id="5817b-248">CVE-2020-16928</span><span class="sxs-lookup"><span data-stu-id="5817b-248">CVE-2020-16928</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16928)
+-   [<span data-ttu-id="5817b-249">CVE-2020-16934</span><span class="sxs-lookup"><span data-stu-id="5817b-249">CVE-2020-16934</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16934)
+-   [<span data-ttu-id="5817b-250">CVE-2020-16918</span><span class="sxs-lookup"><span data-stu-id="5817b-250">CVE-2020-16918</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16918)
+-   [<span data-ttu-id="5817b-251">CVE-2020-16954</span><span class="sxs-lookup"><span data-stu-id="5817b-251">CVE-2020-16954</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16954)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="september-08-2020"></a><span data-ttu-id="c0c9f-229">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-229">September 08, 2020</span></span>
-<span data-ttu-id="c0c9f-230">当前频道：版本 2008（内部版本 13127.20408）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-230">Current Channel: Version 2008 (Build 13127.20408)</span></span>  
-<span data-ttu-id="c0c9f-231">月度企业版渠道：版本 2007（内部版本 13029.20534）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-231">Monthly Enterprise Channel: Version 2007 (Build 13029.20534)</span></span>  
-<span data-ttu-id="c0c9f-232">月度企业版渠道：版本 2006（内部版本13001.20648）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-232">Monthly Enterprise Channel: Version 2006 (Build 13001.20648)</span></span>  
-<span data-ttu-id="c0c9f-233">半年企业频道（预览）：版本 2008（内部版本 13127.20408）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-233">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.20408)</span></span>  
-<span data-ttu-id="c0c9f-234">半年企业频道：版本 2002（内部版本 12527.21104）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-234">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21104)</span></span>  
-<span data-ttu-id="c0c9f-235">半年企业频道：版本 1908（内部版本 11929.20946）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-235">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20946)</span></span>  
-<span data-ttu-id="c0c9f-236">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21104）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-236">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21104)</span></span>  
-<span data-ttu-id="c0c9f-237">Office 2019 零售：版本2008（内部版本 13127.20408）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-237">Office 2019 Retail: Version 2008 (Build 13127.20408)</span></span>  
-<span data-ttu-id="c0c9f-238">Office 2016 零售：版本2008（内部版本 13127.20408）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-238">Office 2016 Retail: Version 2008 (Build 13127.20408)</span></span>  
-<span data-ttu-id="c0c9f-239">Office 2019 批量许可：版本1808（内部版本10366.20016）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-239">Office 2019 Volume Licensed: Version 1808 (Build 10366.20016)</span></span>  
+## <a name="september-08-2020"></a><span data-ttu-id="5817b-253">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="5817b-253">September 08, 2020</span></span>
+<span data-ttu-id="5817b-254">当前频道：版本 2008（内部版本 13127.20408）</span><span class="sxs-lookup"><span data-stu-id="5817b-254">Current Channel: Version 2008 (Build 13127.20408)</span></span>  
+<span data-ttu-id="5817b-255">月度企业版渠道：版本 2007（内部版本 13029.20534）</span><span class="sxs-lookup"><span data-stu-id="5817b-255">Monthly Enterprise Channel: Version 2007 (Build 13029.20534)</span></span>  
+<span data-ttu-id="5817b-256">月度企业版渠道：版本 2006（内部版本13001.20648）</span><span class="sxs-lookup"><span data-stu-id="5817b-256">Monthly Enterprise Channel: Version 2006 (Build 13001.20648)</span></span>  
+<span data-ttu-id="5817b-257">半年企业频道（预览）：版本 2008（内部版本 13127.20408）</span><span class="sxs-lookup"><span data-stu-id="5817b-257">Semi-Annual Enterprise Channel (Preview): Version 2008 (Build 13127.20408)</span></span>  
+<span data-ttu-id="5817b-258">半年企业频道：版本 2002（内部版本 12527.21104）</span><span class="sxs-lookup"><span data-stu-id="5817b-258">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.21104)</span></span>  
+<span data-ttu-id="5817b-259">半年企业频道：版本 1908（内部版本 11929.20946）</span><span class="sxs-lookup"><span data-stu-id="5817b-259">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20946)</span></span>  
+<span data-ttu-id="5817b-260">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.21104）</span><span class="sxs-lookup"><span data-stu-id="5817b-260">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.21104)</span></span>  
+<span data-ttu-id="5817b-261">Office 2019 零售：版本2008（内部版本 13127.20408）</span><span class="sxs-lookup"><span data-stu-id="5817b-261">Office 2019 Retail: Version 2008 (Build 13127.20408)</span></span>  
+<span data-ttu-id="5817b-262">Office 2016 零售：版本2008（内部版本 13127.20408）</span><span class="sxs-lookup"><span data-stu-id="5817b-262">Office 2016 Retail: Version 2008 (Build 13127.20408)</span></span>  
+<span data-ttu-id="5817b-263">Office 2019 批量许可：版本1808（内部版本10366.20016）</span><span class="sxs-lookup"><span data-stu-id="5817b-263">Office 2019 Volume Licensed: Version 1808 (Build 10366.20016)</span></span>  
 
 [//]: # (请勿删除安全详细信息内容启动)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-241">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-241">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-265">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-265">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-242">CVE-2020-1594</span><span class="sxs-lookup"><span data-stu-id="c0c9f-242">CVE-2020-1594</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1594)
--   [<span data-ttu-id="c0c9f-243">CVE-2020-1335</span><span class="sxs-lookup"><span data-stu-id="c0c9f-243">CVE-2020-1335</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1335)
--   [<span data-ttu-id="c0c9f-244">CVE-2020-1224</span><span class="sxs-lookup"><span data-stu-id="c0c9f-244">CVE-2020-1224</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1224)
--   [<span data-ttu-id="c0c9f-245">CVE-2020-1332</span><span class="sxs-lookup"><span data-stu-id="c0c9f-245">CVE-2020-1332</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1332)
+-   [<span data-ttu-id="5817b-266">CVE-2020-1594</span><span class="sxs-lookup"><span data-stu-id="5817b-266">CVE-2020-1594</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1594)
+-   [<span data-ttu-id="5817b-267">CVE-2020-1335</span><span class="sxs-lookup"><span data-stu-id="5817b-267">CVE-2020-1335</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1335)
+-   [<span data-ttu-id="5817b-268">CVE-2020-1224</span><span class="sxs-lookup"><span data-stu-id="5817b-268">CVE-2020-1224</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1224)
+-   [<span data-ttu-id="5817b-269">CVE-2020-1332</span><span class="sxs-lookup"><span data-stu-id="5817b-269">CVE-2020-1332</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1332)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-246">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-246">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-270">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-270">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-247">CVE-2020-1338</span><span class="sxs-lookup"><span data-stu-id="c0c9f-247">CVE-2020-1338</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1338)
--   [<span data-ttu-id="c0c9f-248">CVE-2020-1218</span><span class="sxs-lookup"><span data-stu-id="c0c9f-248">CVE-2020-1218</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1218)
+-   [<span data-ttu-id="5817b-271">CVE-2020-1338</span><span class="sxs-lookup"><span data-stu-id="5817b-271">CVE-2020-1338</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1338)
+-   [<span data-ttu-id="5817b-272">CVE-2020-1218</span><span class="sxs-lookup"><span data-stu-id="5817b-272">CVE-2020-1218</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1218)
 
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-249">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-249">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-273">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-273">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-250">CVE-2020-1193</span><span class="sxs-lookup"><span data-stu-id="c0c9f-250">CVE-2020-1193</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1193)
+-   [<span data-ttu-id="5817b-274">CVE-2020-1193</span><span class="sxs-lookup"><span data-stu-id="5817b-274">CVE-2020-1193</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1193)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="august-11-2020"></a><span data-ttu-id="c0c9f-252">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-252">August 11, 2020</span></span>
-<span data-ttu-id="c0c9f-253">当前频道：版本 2007（内部版本 13029.20344）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-253">Current Channel: Version 2007 (Build 13029.20344)</span></span>  
-<span data-ttu-id="c0c9f-254">月度企业版渠道：版本 2006（内部版本 13001.20520）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-254">Monthly Enterprise Channel: Version 2006 (Build 13001.20520)</span></span>  
-<span data-ttu-id="c0c9f-255">月度企业版渠道：版本 2005（内部版本 12827.20656）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-255">Monthly Enterprise Channel: Version 2005 (Build 12827.20656)</span></span>  
-<span data-ttu-id="c0c9f-256">半年企业频道（预览）：版本 2002（内部版本 12527.20988）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-256">Semi-Annual Enterprise Channel (Preview): Version 2002 (Build 12527.20988)</span></span>  
-<span data-ttu-id="c0c9f-257">半年企业频道：版本 2002（内部版本 12527.20988）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-257">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.20988)</span></span>  
-<span data-ttu-id="c0c9f-258">半年企业频道：版本 1908（内部版本 11929.20934）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-258">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20934)</span></span>  
-<span data-ttu-id="c0c9f-259">半年企业频道：版本 1902（内部版本 11328.20644）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-259">Semi-Annual Enterprise Channel: Version 1902 (Build 11328.20644)</span></span>  
-<span data-ttu-id="c0c9f-260">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.20988）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-260">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20988)</span></span>  
-<span data-ttu-id="c0c9f-261">Office 2019 零售：版本2007（内部版本13029.20344）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-261">Office 2019 Retail: Version 2007 (Build 13029.20344)</span></span>  
-<span data-ttu-id="c0c9f-262">Office 2016 零售：版本2007（内部版本13029.20344）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-262">Office 2016 Retail: Version 2007 (Build 13029.20344)</span></span>  
-<span data-ttu-id="c0c9f-263">Office 2019 批量许可：版本1808（内部版本10364.20059）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-263">Office 2019 Volume Licensed: Version 1808 (Build 10364.20059)</span></span>  
+## <a name="august-11-2020"></a><span data-ttu-id="5817b-276">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="5817b-276">August 11, 2020</span></span>
+<span data-ttu-id="5817b-277">当前频道：版本 2007（内部版本 13029.20344）</span><span class="sxs-lookup"><span data-stu-id="5817b-277">Current Channel: Version 2007 (Build 13029.20344)</span></span>  
+<span data-ttu-id="5817b-278">月度企业版渠道：版本 2006（内部版本 13001.20520）</span><span class="sxs-lookup"><span data-stu-id="5817b-278">Monthly Enterprise Channel: Version 2006 (Build 13001.20520)</span></span>  
+<span data-ttu-id="5817b-279">月度企业版渠道：版本 2005（内部版本 12827.20656）</span><span class="sxs-lookup"><span data-stu-id="5817b-279">Monthly Enterprise Channel: Version 2005 (Build 12827.20656)</span></span>  
+<span data-ttu-id="5817b-280">半年企业频道（预览）：版本 2002（内部版本 12527.20988）</span><span class="sxs-lookup"><span data-stu-id="5817b-280">Semi-Annual Enterprise Channel (Preview): Version 2002 (Build 12527.20988)</span></span>  
+<span data-ttu-id="5817b-281">半年企业频道：版本 2002（内部版本 12527.20988）</span><span class="sxs-lookup"><span data-stu-id="5817b-281">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.20988)</span></span>  
+<span data-ttu-id="5817b-282">半年企业频道：版本 1908（内部版本 11929.20934）</span><span class="sxs-lookup"><span data-stu-id="5817b-282">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20934)</span></span>  
+<span data-ttu-id="5817b-283">半年企业频道：版本 1902（内部版本 11328.20644）</span><span class="sxs-lookup"><span data-stu-id="5817b-283">Semi-Annual Enterprise Channel: Version 1902 (Build 11328.20644)</span></span>  
+<span data-ttu-id="5817b-284">Windows 7 版 Microsoft 365 应用版：版本 2002（内部版本 12527.20988）</span><span class="sxs-lookup"><span data-stu-id="5817b-284">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20988)</span></span>  
+<span data-ttu-id="5817b-285">Office 2019 零售：版本2007（内部版本13029.20344）</span><span class="sxs-lookup"><span data-stu-id="5817b-285">Office 2019 Retail: Version 2007 (Build 13029.20344)</span></span>  
+<span data-ttu-id="5817b-286">Office 2016 零售：版本2007（内部版本13029.20344）</span><span class="sxs-lookup"><span data-stu-id="5817b-286">Office 2016 Retail: Version 2007 (Build 13029.20344)</span></span>  
+<span data-ttu-id="5817b-287">Office 2019 批量许可：版本1808（内部版本10364.20059）</span><span class="sxs-lookup"><span data-stu-id="5817b-287">Office 2019 Volume Licensed: Version 1808 (Build 10364.20059)</span></span>  
 
 [//]: # (请勿删除安全详细信息内容启动)
 
 
-### <a name="access"></a><span data-ttu-id="c0c9f-265">Access</span><span class="sxs-lookup"><span data-stu-id="c0c9f-265">Access</span></span>
+### <a name="access"></a><span data-ttu-id="5817b-289">Access</span><span class="sxs-lookup"><span data-stu-id="5817b-289">Access</span></span>
 
--   [<span data-ttu-id="c0c9f-266">CVE-2020-1582</span><span class="sxs-lookup"><span data-stu-id="c0c9f-266">CVE-2020-1582</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1582)
+-   [<span data-ttu-id="5817b-290">CVE-2020-1582</span><span class="sxs-lookup"><span data-stu-id="5817b-290">CVE-2020-1582</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1582)
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-267">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-267">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-291">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-291">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-268">CVE-2020-1495</span><span class="sxs-lookup"><span data-stu-id="c0c9f-268">CVE-2020-1495</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1495)
--   [<span data-ttu-id="c0c9f-269">CVE-2020-1498</span><span class="sxs-lookup"><span data-stu-id="c0c9f-269">CVE-2020-1498</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1498)
--   [<span data-ttu-id="c0c9f-270">CVE-2020-1496</span><span class="sxs-lookup"><span data-stu-id="c0c9f-270">CVE-2020-1496</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1496)
--   [<span data-ttu-id="c0c9f-271">CVE-2020-1497</span><span class="sxs-lookup"><span data-stu-id="c0c9f-271">CVE-2020-1497</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1497)
--   [<span data-ttu-id="c0c9f-272">CVE-2020-1494</span><span class="sxs-lookup"><span data-stu-id="c0c9f-272">CVE-2020-1494</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1494)
+-   [<span data-ttu-id="5817b-292">CVE-2020-1495</span><span class="sxs-lookup"><span data-stu-id="5817b-292">CVE-2020-1495</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1495)
+-   [<span data-ttu-id="5817b-293">CVE-2020-1498</span><span class="sxs-lookup"><span data-stu-id="5817b-293">CVE-2020-1498</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1498)
+-   [<span data-ttu-id="5817b-294">CVE-2020-1496</span><span class="sxs-lookup"><span data-stu-id="5817b-294">CVE-2020-1496</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1496)
+-   [<span data-ttu-id="5817b-295">CVE-2020-1497</span><span class="sxs-lookup"><span data-stu-id="5817b-295">CVE-2020-1497</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1497)
+-   [<span data-ttu-id="5817b-296">CVE-2020-1494</span><span class="sxs-lookup"><span data-stu-id="5817b-296">CVE-2020-1494</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1494)
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-273">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-273">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-297">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-297">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-274">CVE-2020-1493</span><span class="sxs-lookup"><span data-stu-id="c0c9f-274">CVE-2020-1493</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1493)
--   [<span data-ttu-id="c0c9f-275">CVE-2020-1483</span><span class="sxs-lookup"><span data-stu-id="c0c9f-275">CVE-2020-1483</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1483)
+-   [<span data-ttu-id="5817b-298">CVE-2020-1493</span><span class="sxs-lookup"><span data-stu-id="5817b-298">CVE-2020-1493</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1493)
+-   [<span data-ttu-id="5817b-299">CVE-2020-1483</span><span class="sxs-lookup"><span data-stu-id="5817b-299">CVE-2020-1483</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1483)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-276">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-276">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-300">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-300">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-277">CVE-2020-1583</span><span class="sxs-lookup"><span data-stu-id="c0c9f-277">CVE-2020-1583</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1583)
--   [<span data-ttu-id="c0c9f-278">CVE-2020-1502</span><span class="sxs-lookup"><span data-stu-id="c0c9f-278">CVE-2020-1502</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1502)
--   [<span data-ttu-id="c0c9f-279">CVE-2020-1503</span><span class="sxs-lookup"><span data-stu-id="c0c9f-279">CVE-2020-1503</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1503)
+-   [<span data-ttu-id="5817b-301">CVE-2020-1583</span><span class="sxs-lookup"><span data-stu-id="5817b-301">CVE-2020-1583</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1583)
+-   [<span data-ttu-id="5817b-302">CVE-2020-1502</span><span class="sxs-lookup"><span data-stu-id="5817b-302">CVE-2020-1502</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1502)
+-   [<span data-ttu-id="5817b-303">CVE-2020-1503</span><span class="sxs-lookup"><span data-stu-id="5817b-303">CVE-2020-1503</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1503)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-280">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-280">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-304">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-304">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-281">CVE-2020-1581</span><span class="sxs-lookup"><span data-stu-id="c0c9f-281">CVE-2020-1581</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1581)
--   [<span data-ttu-id="c0c9f-282">CVE-2020-1563</span><span class="sxs-lookup"><span data-stu-id="c0c9f-282">CVE-2020-1563</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1563)
+-   [<span data-ttu-id="5817b-305">CVE-2020-1581</span><span class="sxs-lookup"><span data-stu-id="5817b-305">CVE-2020-1581</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1581)
+-   [<span data-ttu-id="5817b-306">CVE-2020-1563</span><span class="sxs-lookup"><span data-stu-id="5817b-306">CVE-2020-1563</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1563)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="july-14-2020"></a><span data-ttu-id="c0c9f-284">2020 年 7 月 14 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-284">July 14, 2020</span></span>
-<span data-ttu-id="c0c9f-285">当前频道：版本 2006（内部版本 13001.20384）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-285">Current Channel: Version 2006 (Build 13001.20384)</span></span>  
-<span data-ttu-id="c0c9f-286">月度企业版渠道：版本 2005（内部版本 12827.20538）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-286">Monthly Enterprise Channel: Version 2005 (Build 12827.20538)</span></span>  
-<span data-ttu-id="c0c9f-287">月度企业版渠道：版本 2004（内部版本 12730.20602）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-287">Monthly Enterprise Channel: Version 2004 (Build 12730.20602)</span></span>  
-<span data-ttu-id="c0c9f-288">半年企业频道（预览）：版本 2002（内部版本 12527.20880）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-288">Semi-Annual Enterprise Channel (Preview): Version 2002 (Build 12527.20880)</span></span>  
-<span data-ttu-id="c0c9f-289">半年企业频道：版本 2002（内部版本 12527.20880）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-289">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.20880)</span></span>  
-<span data-ttu-id="c0c9f-290">半年企业频道：版本 1908（内部版本 11929.20904）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-290">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20904)</span></span>  
-<span data-ttu-id="c0c9f-291">半年企业频道：版本 1902（内部版本 11328.20624）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-291">Semi-Annual Enterprise Channel: Version 1902 (Build 11328.20624)</span></span>  
-<span data-ttu-id="c0c9f-292">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20880）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-292">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20880)</span></span>  
+## <a name="july-14-2020"></a><span data-ttu-id="5817b-308">2020 年 7 月 14 日</span><span class="sxs-lookup"><span data-stu-id="5817b-308">July 14, 2020</span></span>
+<span data-ttu-id="5817b-309">当前频道：版本 2006（内部版本 13001.20384）</span><span class="sxs-lookup"><span data-stu-id="5817b-309">Current Channel: Version 2006 (Build 13001.20384)</span></span>  
+<span data-ttu-id="5817b-310">月度企业版渠道：版本 2005（内部版本 12827.20538）</span><span class="sxs-lookup"><span data-stu-id="5817b-310">Monthly Enterprise Channel: Version 2005 (Build 12827.20538)</span></span>  
+<span data-ttu-id="5817b-311">月度企业版渠道：版本 2004（内部版本 12730.20602）</span><span class="sxs-lookup"><span data-stu-id="5817b-311">Monthly Enterprise Channel: Version 2004 (Build 12730.20602)</span></span>  
+<span data-ttu-id="5817b-312">半年企业频道（预览）：版本 2002（内部版本 12527.20880）</span><span class="sxs-lookup"><span data-stu-id="5817b-312">Semi-Annual Enterprise Channel (Preview): Version 2002 (Build 12527.20880)</span></span>  
+<span data-ttu-id="5817b-313">半年企业频道：版本 2002（内部版本 12527.20880）</span><span class="sxs-lookup"><span data-stu-id="5817b-313">Semi-Annual Enterprise Channel: Version 2002 (Build 12527.20880)</span></span>  
+<span data-ttu-id="5817b-314">半年企业频道：版本 1908（内部版本 11929.20904）</span><span class="sxs-lookup"><span data-stu-id="5817b-314">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20904)</span></span>  
+<span data-ttu-id="5817b-315">半年企业频道：版本 1902（内部版本 11328.20624）</span><span class="sxs-lookup"><span data-stu-id="5817b-315">Semi-Annual Enterprise Channel: Version 1902 (Build 11328.20624)</span></span>  
+<span data-ttu-id="5817b-316">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20880）</span><span class="sxs-lookup"><span data-stu-id="5817b-316">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20880)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-294">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-294">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-318">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-318">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-295">CVE-2020-1240</span><span class="sxs-lookup"><span data-stu-id="c0c9f-295">CVE-2020-1240</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1240)
+-   [<span data-ttu-id="5817b-319">CVE-2020-1240</span><span class="sxs-lookup"><span data-stu-id="5817b-319">CVE-2020-1240</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1240)
 
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-296">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-296">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-320">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-320">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-297">CVE-2020-1349</span><span class="sxs-lookup"><span data-stu-id="c0c9f-297">CVE-2020-1349</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1349)
+-   [<span data-ttu-id="5817b-321">CVE-2020-1349</span><span class="sxs-lookup"><span data-stu-id="5817b-321">CVE-2020-1349</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1349)
 
-### <a name="project"></a><span data-ttu-id="c0c9f-298">Project</span><span class="sxs-lookup"><span data-stu-id="c0c9f-298">Project</span></span>
+### <a name="project"></a><span data-ttu-id="5817b-322">Project</span><span class="sxs-lookup"><span data-stu-id="5817b-322">Project</span></span>
 
--   [<span data-ttu-id="c0c9f-299">CVE-2020-1449</span><span class="sxs-lookup"><span data-stu-id="c0c9f-299">CVE-2020-1449</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1449)
+-   [<span data-ttu-id="5817b-323">CVE-2020-1449</span><span class="sxs-lookup"><span data-stu-id="5817b-323">CVE-2020-1449</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1449)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-300">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-300">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-324">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-324">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-301">CVE-2020-1445</span><span class="sxs-lookup"><span data-stu-id="c0c9f-301">CVE-2020-1445</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445)
--   [<span data-ttu-id="c0c9f-302">CVE-2020-1342</span><span class="sxs-lookup"><span data-stu-id="c0c9f-302">CVE-2020-1342</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1342)
--   [<span data-ttu-id="c0c9f-303">CVE-2020-1447</span><span class="sxs-lookup"><span data-stu-id="c0c9f-303">CVE-2020-1447</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1447)
--   [<span data-ttu-id="c0c9f-304">CVE-2020-1446</span><span class="sxs-lookup"><span data-stu-id="c0c9f-304">CVE-2020-1446</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1446)
+-   [<span data-ttu-id="5817b-325">CVE-2020-1445</span><span class="sxs-lookup"><span data-stu-id="5817b-325">CVE-2020-1445</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1445)
+-   [<span data-ttu-id="5817b-326">CVE-2020-1342</span><span class="sxs-lookup"><span data-stu-id="5817b-326">CVE-2020-1342</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1342)
+-   [<span data-ttu-id="5817b-327">CVE-2020-1447</span><span class="sxs-lookup"><span data-stu-id="5817b-327">CVE-2020-1447</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1447)
+-   [<span data-ttu-id="5817b-328">CVE-2020-1446</span><span class="sxs-lookup"><span data-stu-id="5817b-328">CVE-2020-1446</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1446)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-305">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-305">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-329">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-329">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-306">CVE-2020-1458</span><span class="sxs-lookup"><span data-stu-id="c0c9f-306">CVE-2020-1458</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1458)
+-   [<span data-ttu-id="5817b-330">CVE-2020-1458</span><span class="sxs-lookup"><span data-stu-id="5817b-330">CVE-2020-1458</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1458)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="june-09-2020"></a><span data-ttu-id="c0c9f-308">2020 年 6 月 9 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-308">June 09, 2020</span></span>
-<span data-ttu-id="c0c9f-309">当前频道：版本 2005（内部版本 12827.20336）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-309">Current Channel: Version 2005 (Build 12827.20336)</span></span>  
-<span data-ttu-id="c0c9f-310">月度企业版渠道：版本 2004（内部版本 12730.20430）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-310">Monthly Enterprise Channel: Version 2004 (Build 12730.20430)</span></span>  
-<span data-ttu-id="c0c9f-311">月度企业版渠道：版本 2003（内部版本 12624.20708）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-311">Monthly Enterprise Channel: Version 2003 (Build 12624.20708)</span></span>  
-<span data-ttu-id="c0c9f-312">半年企业频道（预览）：版本 2002（内部版本 12527.20720）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-312">Semi-Annual Enterprise Channel (Preview): Version 2002 (Build 12527.20720)</span></span>  
-<span data-ttu-id="c0c9f-313">半年企业频道：版本 1908（内部版本 11929.20838）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-313">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20838)</span></span>  
-<span data-ttu-id="c0c9f-314">半年企业频道：版本 1902（内部版本 11328.20602）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-314">Semi-Annual Enterprise Channel: Version 1902 (Build 11328.20602)</span></span>  
-<span data-ttu-id="c0c9f-315">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20720）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-315">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20720)</span></span>  
+## <a name="june-09-2020"></a><span data-ttu-id="5817b-332">2020 年 6 月 9 日</span><span class="sxs-lookup"><span data-stu-id="5817b-332">June 09, 2020</span></span>
+<span data-ttu-id="5817b-333">当前频道：版本 2005（内部版本 12827.20336）</span><span class="sxs-lookup"><span data-stu-id="5817b-333">Current Channel: Version 2005 (Build 12827.20336)</span></span>  
+<span data-ttu-id="5817b-334">月度企业版渠道：版本 2004（内部版本 12730.20430）</span><span class="sxs-lookup"><span data-stu-id="5817b-334">Monthly Enterprise Channel: Version 2004 (Build 12730.20430)</span></span>  
+<span data-ttu-id="5817b-335">月度企业版渠道：版本 2003（内部版本 12624.20708）</span><span class="sxs-lookup"><span data-stu-id="5817b-335">Monthly Enterprise Channel: Version 2003 (Build 12624.20708)</span></span>  
+<span data-ttu-id="5817b-336">半年企业频道（预览）：版本 2002（内部版本 12527.20720）</span><span class="sxs-lookup"><span data-stu-id="5817b-336">Semi-Annual Enterprise Channel (Preview): Version 2002 (Build 12527.20720)</span></span>  
+<span data-ttu-id="5817b-337">半年企业频道：版本 1908（内部版本 11929.20838）</span><span class="sxs-lookup"><span data-stu-id="5817b-337">Semi-Annual Enterprise Channel: Version 1908 (Build 11929.20838)</span></span>  
+<span data-ttu-id="5817b-338">半年企业频道：版本 1902（内部版本 11328.20602）</span><span class="sxs-lookup"><span data-stu-id="5817b-338">Semi-Annual Enterprise Channel: Version 1902 (Build 11328.20602)</span></span>  
+<span data-ttu-id="5817b-339">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20720）</span><span class="sxs-lookup"><span data-stu-id="5817b-339">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20720)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-317">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-317">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-341">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-341">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-318">CVE-2020-1226</span><span class="sxs-lookup"><span data-stu-id="c0c9f-318">CVE-2020-1226</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1226)
--   [<span data-ttu-id="c0c9f-319">CVE-2020-1225</span><span class="sxs-lookup"><span data-stu-id="c0c9f-319">CVE-2020-1225</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1225)
+-   [<span data-ttu-id="5817b-342">CVE-2020-1226</span><span class="sxs-lookup"><span data-stu-id="5817b-342">CVE-2020-1226</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1226)
+-   [<span data-ttu-id="5817b-343">CVE-2020-1225</span><span class="sxs-lookup"><span data-stu-id="5817b-343">CVE-2020-1225</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1225)
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-320">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-320">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-344">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-344">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-321">CVE-2020-1229</span><span class="sxs-lookup"><span data-stu-id="c0c9f-321">CVE-2020-1229</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1229)
+-   [<span data-ttu-id="5817b-345">CVE-2020-1229</span><span class="sxs-lookup"><span data-stu-id="5817b-345">CVE-2020-1229</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1229)
 
-### <a name="project"></a><span data-ttu-id="c0c9f-322">Project</span><span class="sxs-lookup"><span data-stu-id="c0c9f-322">Project</span></span>
+### <a name="project"></a><span data-ttu-id="5817b-346">Project</span><span class="sxs-lookup"><span data-stu-id="5817b-346">Project</span></span>
 
--   [<span data-ttu-id="c0c9f-323">CVE-2020-1322</span><span class="sxs-lookup"><span data-stu-id="c0c9f-323">CVE-2020-1322</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1322)
+-   [<span data-ttu-id="5817b-347">CVE-2020-1322</span><span class="sxs-lookup"><span data-stu-id="5817b-347">CVE-2020-1322</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1322)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-324">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-324">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-348">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-348">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-325">CVE-2020-1321</span><span class="sxs-lookup"><span data-stu-id="c0c9f-325">CVE-2020-1321</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1321)
+-   [<span data-ttu-id="5817b-349">CVE-2020-1321</span><span class="sxs-lookup"><span data-stu-id="5817b-349">CVE-2020-1321</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1321)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="may-12-2020"></a><span data-ttu-id="c0c9f-327">2020 年 5 月12 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-327">May 12, 2020</span></span>
-<span data-ttu-id="c0c9f-328">月度频道：版本 2004（内部版本 12730.20270）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-328">Monthly Channel: Version 2004 (Build 12730.20270)</span></span>  
-<span data-ttu-id="c0c9f-329">月度企业版渠道：版本 2003（内部版本 12624.20588）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-329">Monthly Enterprise Channel: Version 2003 (Build 12624.20588)</span></span>  
-<span data-ttu-id="c0c9f-330">半年频道（定向）：版本 2002（内部版本 12527.20612）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-330">Semi-Annual Channel (Targeted): Version 2002 (Build 12527.20612)</span></span>  
-<span data-ttu-id="c0c9f-331">半年频道：版本 1908（内部版11929.20776）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-331">Semi-Annual Channel: Version 1908 (Build 11929.20776)</span></span>  
-<span data-ttu-id="c0c9f-332">半年频道：版本 1902（内部版11328.20586）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-332">Semi-Annual Channel: Version 1902 (Build 11328.20586)</span></span>  
-<span data-ttu-id="c0c9f-333">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20612）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-333">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20612)</span></span>  
+## <a name="may-12-2020"></a><span data-ttu-id="5817b-351">2020 年 5 月12 日</span><span class="sxs-lookup"><span data-stu-id="5817b-351">May 12, 2020</span></span>
+<span data-ttu-id="5817b-352">月度频道：版本 2004（内部版本 12730.20270）</span><span class="sxs-lookup"><span data-stu-id="5817b-352">Monthly Channel: Version 2004 (Build 12730.20270)</span></span>  
+<span data-ttu-id="5817b-353">月度企业版渠道：版本 2003（内部版本 12624.20588）</span><span class="sxs-lookup"><span data-stu-id="5817b-353">Monthly Enterprise Channel: Version 2003 (Build 12624.20588)</span></span>  
+<span data-ttu-id="5817b-354">半年频道（定向）：版本 2002（内部版本 12527.20612）</span><span class="sxs-lookup"><span data-stu-id="5817b-354">Semi-Annual Channel (Targeted): Version 2002 (Build 12527.20612)</span></span>  
+<span data-ttu-id="5817b-355">半年频道：版本 1908（内部版11929.20776）</span><span class="sxs-lookup"><span data-stu-id="5817b-355">Semi-Annual Channel: Version 1908 (Build 11929.20776)</span></span>  
+<span data-ttu-id="5817b-356">半年频道：版本 1902（内部版11328.20586）</span><span class="sxs-lookup"><span data-stu-id="5817b-356">Semi-Annual Channel: Version 1902 (Build 11328.20586)</span></span>  
+<span data-ttu-id="5817b-357">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20612）</span><span class="sxs-lookup"><span data-stu-id="5817b-357">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20612)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-335">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-335">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-359">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-359">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-336">CVE-2020-0901</span><span class="sxs-lookup"><span data-stu-id="c0c9f-336">CVE-2020-0901</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0901)
+-   [<span data-ttu-id="5817b-360">CVE-2020-0901</span><span class="sxs-lookup"><span data-stu-id="5817b-360">CVE-2020-0901</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0901)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="april-14-2020"></a><span data-ttu-id="c0c9f-338">2020 年 4 月 14 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-338">April 14, 2020</span></span>
-<span data-ttu-id="c0c9f-339">每月频道：版本 2003（内部版本 12624.20442）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-339">Monthly Channel: Version 2003 (Build 12624.20442)</span></span>  
-<span data-ttu-id="c0c9f-340">半年频道（定向）：版本 2002（内部版本 12527.20442）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-340">Semi-Annual Channel (Targeted): Version 2002 (Build 12527.20442)</span></span>  
-<span data-ttu-id="c0c9f-341">半年频道：版本 1908（内部版本 11929.20708）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-341">Semi-Annual Channel: Version 1908 (Build 11929.20708)</span></span>  
-<span data-ttu-id="c0c9f-342">半年频道：版本 1902（内部版本 11328.20564）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-342">Semi-Annual Channel: Version 1902 (Build 11328.20564)</span></span>  
-<span data-ttu-id="c0c9f-343">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20442）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-343">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20442)</span></span>  
+## <a name="april-14-2020"></a><span data-ttu-id="5817b-362">2020 年 4 月 14 日</span><span class="sxs-lookup"><span data-stu-id="5817b-362">April 14, 2020</span></span>
+<span data-ttu-id="5817b-363">每月频道：版本 2003（内部版本 12624.20442）</span><span class="sxs-lookup"><span data-stu-id="5817b-363">Monthly Channel: Version 2003 (Build 12624.20442)</span></span>  
+<span data-ttu-id="5817b-364">半年频道（定向）：版本 2002（内部版本 12527.20442）</span><span class="sxs-lookup"><span data-stu-id="5817b-364">Semi-Annual Channel (Targeted): Version 2002 (Build 12527.20442)</span></span>  
+<span data-ttu-id="5817b-365">半年频道：版本 1908（内部版本 11929.20708）</span><span class="sxs-lookup"><span data-stu-id="5817b-365">Semi-Annual Channel: Version 1908 (Build 11929.20708)</span></span>  
+<span data-ttu-id="5817b-366">半年频道：版本 1902（内部版本 11328.20564）</span><span class="sxs-lookup"><span data-stu-id="5817b-366">Semi-Annual Channel: Version 1902 (Build 11328.20564)</span></span>  
+<span data-ttu-id="5817b-367">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20442）</span><span class="sxs-lookup"><span data-stu-id="5817b-367">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20442)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-345">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-345">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-369">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-369">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-346">CVE-2020-0906</span><span class="sxs-lookup"><span data-stu-id="c0c9f-346">CVE-2020-0906</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0906)
--   [<span data-ttu-id="c0c9f-347">CVE-2020-0979</span><span class="sxs-lookup"><span data-stu-id="c0c9f-347">CVE-2020-0979</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0979)
+-   [<span data-ttu-id="5817b-370">CVE-2020-0906</span><span class="sxs-lookup"><span data-stu-id="5817b-370">CVE-2020-0906</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0906)
+-   [<span data-ttu-id="5817b-371">CVE-2020-0979</span><span class="sxs-lookup"><span data-stu-id="5817b-371">CVE-2020-0979</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0979)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-348">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-348">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-372">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-372">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-349">CVE-2020-0980</span><span class="sxs-lookup"><span data-stu-id="c0c9f-349">CVE-2020-0980</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0980)
+-   [<span data-ttu-id="5817b-373">CVE-2020-0980</span><span class="sxs-lookup"><span data-stu-id="5817b-373">CVE-2020-0980</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0980)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-350">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-350">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-374">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-374">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-351">CVE-2020-0760</span><span class="sxs-lookup"><span data-stu-id="c0c9f-351">CVE-2020-0760</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0760)
--   [<span data-ttu-id="c0c9f-352">CVE-2020-0991</span><span class="sxs-lookup"><span data-stu-id="c0c9f-352">CVE-2020-0991</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0991)
--   [<span data-ttu-id="c0c9f-353">CVE-2020-0961</span><span class="sxs-lookup"><span data-stu-id="c0c9f-353">CVE-2020-0961</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0961)
+-   [<span data-ttu-id="5817b-375">CVE-2020-0760</span><span class="sxs-lookup"><span data-stu-id="5817b-375">CVE-2020-0760</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0760)
+-   [<span data-ttu-id="5817b-376">CVE-2020-0991</span><span class="sxs-lookup"><span data-stu-id="5817b-376">CVE-2020-0991</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0991)
+-   [<span data-ttu-id="5817b-377">CVE-2020-0961</span><span class="sxs-lookup"><span data-stu-id="5817b-377">CVE-2020-0961</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0961)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="march-10-2020"></a><span data-ttu-id="c0c9f-355">2020 年 3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-355">March 10, 2020</span></span>
-<span data-ttu-id="c0c9f-356">每月频道：版本 2002（内部版本 12527.20278）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-356">Monthly Channel: Version 2002 (Build 12527.20278)</span></span>  
-<span data-ttu-id="c0c9f-357">半年频道（定向）：版本 2002（内部版本 12527.20278）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-357">Semi-Annual Channel (Targeted): Version 2002 (Build 12527.20278)</span></span>  
-<span data-ttu-id="c0c9f-358">半年频道：版本 1908（内部版本 11929.20648）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-358">Semi-Annual Channel: Version 1908 (Build 11929.20648)</span></span>  
-<span data-ttu-id="c0c9f-359">半年频道：版本 1902（内部版本 11328.20554）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-359">Semi-Annual Channel: Version 1902 (Build 11328.20554)</span></span>  
-<span data-ttu-id="c0c9f-360">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-360">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20278)</span></span>  
+## <a name="march-10-2020"></a><span data-ttu-id="5817b-379">2020 年 3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="5817b-379">March 10, 2020</span></span>
+<span data-ttu-id="5817b-380">每月频道：版本 2002（内部版本 12527.20278）</span><span class="sxs-lookup"><span data-stu-id="5817b-380">Monthly Channel: Version 2002 (Build 12527.20278)</span></span>  
+<span data-ttu-id="5817b-381">半年频道（定向）：版本 2002（内部版本 12527.20278）</span><span class="sxs-lookup"><span data-stu-id="5817b-381">Semi-Annual Channel (Targeted): Version 2002 (Build 12527.20278)</span></span>  
+<span data-ttu-id="5817b-382">半年频道：版本 1908（内部版本 11929.20648）</span><span class="sxs-lookup"><span data-stu-id="5817b-382">Semi-Annual Channel: Version 1908 (Build 11929.20648)</span></span>  
+<span data-ttu-id="5817b-383">半年频道：版本 1902（内部版本 11328.20554）</span><span class="sxs-lookup"><span data-stu-id="5817b-383">Semi-Annual Channel: Version 1902 (Build 11328.20554)</span></span>  
+<span data-ttu-id="5817b-384">Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.20278）</span><span class="sxs-lookup"><span data-stu-id="5817b-384">Microsoft 365 Apps on Windows 7: Version 2002 (Build 12527.20278)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
 
-### <a name="word"></a><span data-ttu-id="c0c9f-362">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-362">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-386">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-386">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-363">CVE-2020-0850</span><span class="sxs-lookup"><span data-stu-id="c0c9f-363">CVE-2020-0850</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0850)
--   [<span data-ttu-id="c0c9f-364">CVE-2020-0892</span><span class="sxs-lookup"><span data-stu-id="c0c9f-364">CVE-2020-0892</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0892)
--   [<span data-ttu-id="c0c9f-365">CVE-2020-0855</span><span class="sxs-lookup"><span data-stu-id="c0c9f-365">CVE-2020-0855</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0855)
--   [<span data-ttu-id="c0c9f-366">CVE-2020-0851</span><span class="sxs-lookup"><span data-stu-id="c0c9f-366">CVE-2020-0851</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0851)
+-   [<span data-ttu-id="5817b-387">CVE-2020-0850</span><span class="sxs-lookup"><span data-stu-id="5817b-387">CVE-2020-0850</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0850)
+-   [<span data-ttu-id="5817b-388">CVE-2020-0892</span><span class="sxs-lookup"><span data-stu-id="5817b-388">CVE-2020-0892</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0892)
+-   [<span data-ttu-id="5817b-389">CVE-2020-0855</span><span class="sxs-lookup"><span data-stu-id="5817b-389">CVE-2020-0855</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0855)
+-   [<span data-ttu-id="5817b-390">CVE-2020-0851</span><span class="sxs-lookup"><span data-stu-id="5817b-390">CVE-2020-0851</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0851)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="february-11-2020"></a><span data-ttu-id="c0c9f-368">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-368">February 11, 2020</span></span>
-<span data-ttu-id="c0c9f-369">每月频道：版本 2001（内部版本 12430.20264）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-369">Monthly Channel: Version 2001 (Build 12430.20264)</span></span>  
-<span data-ttu-id="c0c9f-370">半年频道（定向）：版本 1908（内部版本 11929.20606）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-370">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20606)</span></span>  
-<span data-ttu-id="c0c9f-371">半年频道：版本 1908（内部版本 11929.20606）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-371">Semi-Annual Channel: Version 1908 (Build 11929.20606)</span></span>  
-<span data-ttu-id="c0c9f-372">半年频道：版本 1902（内部版本 11328.20526）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-372">Semi-Annual Channel: Version 1902 (Build 11328.20526)</span></span>  
-<span data-ttu-id="c0c9f-373">半年频道：版本 1808（内部版本 10730.20438）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-373">Semi-Annual Channel: Version 1808 (Build 10730.20438)</span></span>  
+## <a name="february-11-2020"></a><span data-ttu-id="5817b-392">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="5817b-392">February 11, 2020</span></span>
+<span data-ttu-id="5817b-393">每月频道：版本 2001（内部版本 12430.20264）</span><span class="sxs-lookup"><span data-stu-id="5817b-393">Monthly Channel: Version 2001 (Build 12430.20264)</span></span>  
+<span data-ttu-id="5817b-394">半年频道（定向）：版本 1908（内部版本 11929.20606）</span><span class="sxs-lookup"><span data-stu-id="5817b-394">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20606)</span></span>  
+<span data-ttu-id="5817b-395">半年频道：版本 1908（内部版本 11929.20606）</span><span class="sxs-lookup"><span data-stu-id="5817b-395">Semi-Annual Channel: Version 1908 (Build 11929.20606)</span></span>  
+<span data-ttu-id="5817b-396">半年频道：版本 1902（内部版本 11328.20526）</span><span class="sxs-lookup"><span data-stu-id="5817b-396">Semi-Annual Channel: Version 1902 (Build 11328.20526)</span></span>  
+<span data-ttu-id="5817b-397">半年频道：版本 1808（内部版本 10730.20438）</span><span class="sxs-lookup"><span data-stu-id="5817b-397">Semi-Annual Channel: Version 1808 (Build 10730.20438)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-375">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-375">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-399">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-399">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-376">CVE-2020-0759</span><span class="sxs-lookup"><span data-stu-id="c0c9f-376">CVE-2020-0759</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0759)
+-   [<span data-ttu-id="5817b-400">CVE-2020-0759</span><span class="sxs-lookup"><span data-stu-id="5817b-400">CVE-2020-0759</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0759)
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-377">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-377">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-401">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-401">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-378">CVE-2020-0696</span><span class="sxs-lookup"><span data-stu-id="c0c9f-378">CVE-2020-0696</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0696)
+-   [<span data-ttu-id="5817b-402">CVE-2020-0696</span><span class="sxs-lookup"><span data-stu-id="5817b-402">CVE-2020-0696</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0696)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-379">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-379">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-403">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-403">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-380">CVE-2020-0697</span><span class="sxs-lookup"><span data-stu-id="c0c9f-380">CVE-2020-0697</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0697)
+-   [<span data-ttu-id="5817b-404">CVE-2020-0697</span><span class="sxs-lookup"><span data-stu-id="5817b-404">CVE-2020-0697</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0697)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="january-14-2020"></a><span data-ttu-id="c0c9f-382">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-382">January 14, 2020</span></span>
-<span data-ttu-id="c0c9f-383">每月频道：版本 1912（内部版本 12325.20298）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-383">Monthly Channel: Version 1912 (Build 12325.20298)</span></span>  
-<span data-ttu-id="c0c9f-384">半年频道（定向）：版本 1908（内部版本 11929.20562）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-384">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20562)</span></span>  
-<span data-ttu-id="c0c9f-385">半年频道：版本 1908（内部版本 11929.20562）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-385">Semi-Annual Channel: Version 1908 (Build 11929.20562)</span></span>  
-<span data-ttu-id="c0c9f-386">半年频道：版本 1902（内部版本 11328.20512）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-386">Semi-Annual Channel: Version 1902 (Build 11328.20512)</span></span>  
-<span data-ttu-id="c0c9f-387">半年频道：版本 1808（内部版本 10730.20432）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-387">Semi-Annual Channel: Version 1808 (Build 10730.20432)</span></span>  
+## <a name="january-14-2020"></a><span data-ttu-id="5817b-406">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="5817b-406">January 14, 2020</span></span>
+<span data-ttu-id="5817b-407">每月频道：版本 1912（内部版本 12325.20298）</span><span class="sxs-lookup"><span data-stu-id="5817b-407">Monthly Channel: Version 1912 (Build 12325.20298)</span></span>  
+<span data-ttu-id="5817b-408">半年频道（定向）：版本 1908（内部版本 11929.20562）</span><span class="sxs-lookup"><span data-stu-id="5817b-408">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20562)</span></span>  
+<span data-ttu-id="5817b-409">半年频道：版本 1908（内部版本 11929.20562）</span><span class="sxs-lookup"><span data-stu-id="5817b-409">Semi-Annual Channel: Version 1908 (Build 11929.20562)</span></span>  
+<span data-ttu-id="5817b-410">半年频道：版本 1902（内部版本 11328.20512）</span><span class="sxs-lookup"><span data-stu-id="5817b-410">Semi-Annual Channel: Version 1902 (Build 11328.20512)</span></span>  
+<span data-ttu-id="5817b-411">半年频道：版本 1808（内部版本 10730.20432）</span><span class="sxs-lookup"><span data-stu-id="5817b-411">Semi-Annual Channel: Version 1808 (Build 10730.20432)</span></span>  
 
 [//]: # (请勿移除安全详细信息内容开头)
 
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-389">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-389">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-413">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-413">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-390">CVE-2020-0651</span><span class="sxs-lookup"><span data-stu-id="c0c9f-390">CVE-2020-0651</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0651)
--   [<span data-ttu-id="c0c9f-391">CVE-2020-0650</span><span class="sxs-lookup"><span data-stu-id="c0c9f-391">CVE-2020-0650</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0650)
--   [<span data-ttu-id="c0c9f-392">CVE-2020-0653</span><span class="sxs-lookup"><span data-stu-id="c0c9f-392">CVE-2020-0653</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0653)
+-   [<span data-ttu-id="5817b-414">CVE-2020-0651</span><span class="sxs-lookup"><span data-stu-id="5817b-414">CVE-2020-0651</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0651)
+-   [<span data-ttu-id="5817b-415">CVE-2020-0650</span><span class="sxs-lookup"><span data-stu-id="5817b-415">CVE-2020-0650</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0650)
+-   [<span data-ttu-id="5817b-416">CVE-2020-0653</span><span class="sxs-lookup"><span data-stu-id="5817b-416">CVE-2020-0653</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0653)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-393">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-393">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-417">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-417">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-394">CVE-2020-0652</span><span class="sxs-lookup"><span data-stu-id="c0c9f-394">CVE-2020-0652</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0652)
+-   [<span data-ttu-id="5817b-418">CVE-2020-0652</span><span class="sxs-lookup"><span data-stu-id="5817b-418">CVE-2020-0652</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0652)
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
 
 
-## <a name="december-10-2019"></a><span data-ttu-id="c0c9f-396">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-396">December 10, 2019</span></span>
-<span data-ttu-id="c0c9f-397">每月频道：版本 1911（内部版本 12228.20364）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-397">Monthly Channel: Version 1911 (Build 12228.20364)</span></span>  
-<span data-ttu-id="c0c9f-398">半年频道（定向）：版本 1908（内部版本 11929.20516）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-398">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20516)</span></span>  
-<span data-ttu-id="c0c9f-399">半年频道：版本 1902（内部版本 11328.20492）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-399">Semi-Annual Channel: Version 1902 (Build 11328.20492)</span></span>  
-<span data-ttu-id="c0c9f-400">半年频道：版本 1808（内部版本 10730.20426）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-400">Semi-Annual Channel: Version 1808 (Build 10730.20426)</span></span>  
+## <a name="december-10-2019"></a><span data-ttu-id="5817b-420">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="5817b-420">December 10, 2019</span></span>
+<span data-ttu-id="5817b-421">每月频道：版本 1911（内部版本 12228.20364）</span><span class="sxs-lookup"><span data-stu-id="5817b-421">Monthly Channel: Version 1911 (Build 12228.20364)</span></span>  
+<span data-ttu-id="5817b-422">半年频道（定向）：版本 1908（内部版本 11929.20516）</span><span class="sxs-lookup"><span data-stu-id="5817b-422">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20516)</span></span>  
+<span data-ttu-id="5817b-423">半年频道：版本 1902（内部版本 11328.20492）</span><span class="sxs-lookup"><span data-stu-id="5817b-423">Semi-Annual Channel: Version 1902 (Build 11328.20492)</span></span>  
+<span data-ttu-id="5817b-424">半年频道：版本 1808（内部版本 10730.20426）</span><span class="sxs-lookup"><span data-stu-id="5817b-424">Semi-Annual Channel: Version 1808 (Build 10730.20426)</span></span>  
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-401">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-401">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-425">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-425">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-402">CVE-2019-1464</span><span class="sxs-lookup"><span data-stu-id="c0c9f-402">CVE-2019-1464</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1464)
+-   [<span data-ttu-id="5817b-426">CVE-2019-1464</span><span class="sxs-lookup"><span data-stu-id="5817b-426">CVE-2019-1464</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1464)
 
-### <a name="powerpoint"></a><span data-ttu-id="c0c9f-403">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c0c9f-403">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5817b-427">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5817b-427">PowerPoint</span></span>
 
--   [<span data-ttu-id="c0c9f-404">CVE-2019-1462</span><span class="sxs-lookup"><span data-stu-id="c0c9f-404">CVE-2019-1462</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1462)
+-   [<span data-ttu-id="5817b-428">CVE-2019-1462</span><span class="sxs-lookup"><span data-stu-id="5817b-428">CVE-2019-1462</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1462)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-405">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-405">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-429">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-429">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-406">CVE-2019-1461</span><span class="sxs-lookup"><span data-stu-id="c0c9f-406">CVE-2019-1461</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1461)
+-   [<span data-ttu-id="5817b-430">CVE-2019-1461</span><span class="sxs-lookup"><span data-stu-id="5817b-430">CVE-2019-1461</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1461)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-407">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-407">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-431">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-431">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-408">CVE-2019-1400</span><span class="sxs-lookup"><span data-stu-id="c0c9f-408">CVE-2019-1400</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1400)
--   [<span data-ttu-id="c0c9f-409">CVE-2019-1463</span><span class="sxs-lookup"><span data-stu-id="c0c9f-409">CVE-2019-1463</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1463)
+-   [<span data-ttu-id="5817b-432">CVE-2019-1400</span><span class="sxs-lookup"><span data-stu-id="5817b-432">CVE-2019-1400</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1400)
+-   [<span data-ttu-id="5817b-433">CVE-2019-1463</span><span class="sxs-lookup"><span data-stu-id="5817b-433">CVE-2019-1463</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1463)
 
-## <a name="november-12-2019"></a><span data-ttu-id="c0c9f-410">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-410">November 12, 2019</span></span>
-<span data-ttu-id="c0c9f-411">每月频道：版本1910（内部版本12130.20344）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-411">Monthly Channel: Version 1910 (Build 12130.20344)</span></span>  
-<span data-ttu-id="c0c9f-412">半年频道（定向）：版本 1908（内部版本 11929.20436）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-412">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20436)</span></span>  
-<span data-ttu-id="c0c9f-413">半年频道：版本 1902（内部版本 11328.20468）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-413">Semi-Annual Channel: Version 1902 (Build 11328.20468)</span></span>  
-<span data-ttu-id="c0c9f-414">半年频道：版本 1808（内部版本 10730.20416）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-414">Semi-Annual Channel: Version 1808 (Build 10730.20416)</span></span>  
+## <a name="november-12-2019"></a><span data-ttu-id="5817b-434">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="5817b-434">November 12, 2019</span></span>
+<span data-ttu-id="5817b-435">每月频道：版本1910（内部版本12130.20344）</span><span class="sxs-lookup"><span data-stu-id="5817b-435">Monthly Channel: Version 1910 (Build 12130.20344)</span></span>  
+<span data-ttu-id="5817b-436">半年频道（定向）：版本 1908（内部版本 11929.20436）</span><span class="sxs-lookup"><span data-stu-id="5817b-436">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20436)</span></span>  
+<span data-ttu-id="5817b-437">半年频道：版本 1902（内部版本 11328.20468）</span><span class="sxs-lookup"><span data-stu-id="5817b-437">Semi-Annual Channel: Version 1902 (Build 11328.20468)</span></span>  
+<span data-ttu-id="5817b-438">半年频道：版本 1808（内部版本 10730.20416）</span><span class="sxs-lookup"><span data-stu-id="5817b-438">Semi-Annual Channel: Version 1808 (Build 10730.20416)</span></span>  
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-415">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-415">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-439">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-439">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-416">CVE-2019-1448</span><span class="sxs-lookup"><span data-stu-id="c0c9f-416">CVE-2019-1448</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1448)
--   [<span data-ttu-id="c0c9f-417">CVE-2019-1446</span><span class="sxs-lookup"><span data-stu-id="c0c9f-417">CVE-2019-1446</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1446)
+-   [<span data-ttu-id="5817b-440">CVE-2019-1448</span><span class="sxs-lookup"><span data-stu-id="5817b-440">CVE-2019-1448</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1448)
+-   [<span data-ttu-id="5817b-441">CVE-2019-1446</span><span class="sxs-lookup"><span data-stu-id="5817b-441">CVE-2019-1446</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1446)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-418">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-418">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-442">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-442">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-419">CVE-2019-1449</span><span class="sxs-lookup"><span data-stu-id="c0c9f-419">CVE-2019-1449</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1449)
--   [<span data-ttu-id="c0c9f-420">CVE-2019-1402</span><span class="sxs-lookup"><span data-stu-id="c0c9f-420">CVE-2019-1402</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1402)
+-   [<span data-ttu-id="5817b-443">CVE-2019-1449</span><span class="sxs-lookup"><span data-stu-id="5817b-443">CVE-2019-1449</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1449)
+-   [<span data-ttu-id="5817b-444">CVE-2019-1402</span><span class="sxs-lookup"><span data-stu-id="5817b-444">CVE-2019-1402</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1402)
 
-## <a name="october-08-2019"></a><span data-ttu-id="c0c9f-421">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-421">October 08, 2019</span></span>
-<span data-ttu-id="c0c9f-422">每月频道：版本 1909（内部版本 12026.20320）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-422">Monthly Channel: Version 1909 (Build 12026.20320)</span></span>  
-<span data-ttu-id="c0c9f-423">半年频道（定向）：版本 1908（内部版本 11929.20388）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-423">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20388)</span></span>  
-<span data-ttu-id="c0c9f-424">半年频道：版本 1902（内部版本 11328.20438）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-424">Semi-Annual Channel: Version 1902 (Build 11328.20438)</span></span>  
-<span data-ttu-id="c0c9f-425">半年频道：版本 1808（内部版本 10730.20386）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-425">Semi-Annual Channel: Version 1808 (Build 10730.20386)</span></span>  
+## <a name="october-08-2019"></a><span data-ttu-id="5817b-445">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="5817b-445">October 08, 2019</span></span>
+<span data-ttu-id="5817b-446">每月频道：版本 1909（内部版本 12026.20320）</span><span class="sxs-lookup"><span data-stu-id="5817b-446">Monthly Channel: Version 1909 (Build 12026.20320)</span></span>  
+<span data-ttu-id="5817b-447">半年频道（定向）：版本 1908（内部版本 11929.20388）</span><span class="sxs-lookup"><span data-stu-id="5817b-447">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20388)</span></span>  
+<span data-ttu-id="5817b-448">半年频道：版本 1902（内部版本 11328.20438）</span><span class="sxs-lookup"><span data-stu-id="5817b-448">Semi-Annual Channel: Version 1902 (Build 11328.20438)</span></span>  
+<span data-ttu-id="5817b-449">半年频道：版本 1808（内部版本 10730.20386）</span><span class="sxs-lookup"><span data-stu-id="5817b-449">Semi-Annual Channel: Version 1808 (Build 10730.20386)</span></span>  
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-426">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-426">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-450">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-450">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-427">CVE-2019-1331</span><span class="sxs-lookup"><span data-stu-id="c0c9f-427">CVE-2019-1331</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1331)
--   [<span data-ttu-id="c0c9f-428">CVE-2019-1327</span><span class="sxs-lookup"><span data-stu-id="c0c9f-428">CVE-2019-1327</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1327)
+-   [<span data-ttu-id="5817b-451">CVE-2019-1331</span><span class="sxs-lookup"><span data-stu-id="5817b-451">CVE-2019-1331</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1331)
+-   [<span data-ttu-id="5817b-452">CVE-2019-1327</span><span class="sxs-lookup"><span data-stu-id="5817b-452">CVE-2019-1327</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1327)
 
-## <a name="september-10-2019"></a><span data-ttu-id="c0c9f-429">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-429">September 10, 2019</span></span>
-<span data-ttu-id="c0c9f-430">每月频道：版本 1908（内部版本 11929.20300）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-430">Monthly Channel: Version 1908 (Build 11929.20300)</span></span>  
-<span data-ttu-id="c0c9f-431">半年频道（定向）：版本 1908（内部版本 11929.20300）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-431">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20300)</span></span>  
-<span data-ttu-id="c0c9f-432">半年频道：版本 1902（内部版本 11328.20420）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-432">Semi-Annual Channel: Version 1902 (Build 11328.20420)</span></span>  
-<span data-ttu-id="c0c9f-433">半年频道：版本 1808（内部版本 10730.20380）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-433">Semi-Annual Channel: Version 1808 (Build 10730.20380)</span></span>  
+## <a name="september-10-2019"></a><span data-ttu-id="5817b-453">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="5817b-453">September 10, 2019</span></span>
+<span data-ttu-id="5817b-454">每月频道：版本 1908（内部版本 11929.20300）</span><span class="sxs-lookup"><span data-stu-id="5817b-454">Monthly Channel: Version 1908 (Build 11929.20300)</span></span>  
+<span data-ttu-id="5817b-455">半年频道（定向）：版本 1908（内部版本 11929.20300）</span><span class="sxs-lookup"><span data-stu-id="5817b-455">Semi-Annual Channel (Targeted): Version 1908 (Build 11929.20300)</span></span>  
+<span data-ttu-id="5817b-456">半年频道：版本 1902（内部版本 11328.20420）</span><span class="sxs-lookup"><span data-stu-id="5817b-456">Semi-Annual Channel: Version 1902 (Build 11328.20420)</span></span>  
+<span data-ttu-id="5817b-457">半年频道：版本 1808（内部版本 10730.20380）</span><span class="sxs-lookup"><span data-stu-id="5817b-457">Semi-Annual Channel: Version 1808 (Build 10730.20380)</span></span>  
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-434">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-434">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-458">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-458">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-435">CVE-2019-1263</span><span class="sxs-lookup"><span data-stu-id="c0c9f-435">CVE-2019-1263</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1263)
--   [<span data-ttu-id="c0c9f-436">CVE-2019-1297</span><span class="sxs-lookup"><span data-stu-id="c0c9f-436">CVE-2019-1297</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1297)
+-   [<span data-ttu-id="5817b-459">CVE-2019-1263</span><span class="sxs-lookup"><span data-stu-id="5817b-459">CVE-2019-1263</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1263)
+-   [<span data-ttu-id="5817b-460">CVE-2019-1297</span><span class="sxs-lookup"><span data-stu-id="5817b-460">CVE-2019-1297</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1297)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-437">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-437">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-461">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-461">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-438">CVE-2019-1246</span><span class="sxs-lookup"><span data-stu-id="c0c9f-438">CVE-2019-1246</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1246)
--   [<span data-ttu-id="c0c9f-439">CVE-2019-1264</span><span class="sxs-lookup"><span data-stu-id="c0c9f-439">CVE-2019-1264</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1264)
+-   [<span data-ttu-id="5817b-462">CVE-2019-1246</span><span class="sxs-lookup"><span data-stu-id="5817b-462">CVE-2019-1246</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1246)
+-   [<span data-ttu-id="5817b-463">CVE-2019-1264</span><span class="sxs-lookup"><span data-stu-id="5817b-463">CVE-2019-1264</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1264)
 
-## <a name="august-13-2019"></a><span data-ttu-id="c0c9f-440">2019 年 8 月 13 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-440">August 13, 2019</span></span>
-<span data-ttu-id="c0c9f-441">每月频道：版本 1907（内部版本 11901.20218）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-441">Monthly Channel: Version 1907 (Build 11901.20218)</span></span>  
-<span data-ttu-id="c0c9f-442">半年频道（定向）：版本 1902（内部版本 11328.20392）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-442">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20392)</span></span>  
-<span data-ttu-id="c0c9f-443">半年频道：版本 1902（内部版本 11328.20392）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-443">Semi-Annual Channel: Version 1902 (Build 11328.20392)</span></span>  
-<span data-ttu-id="c0c9f-444">半年频道：版本 1808（内部版本 10730.20370）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-444">Semi-Annual Channel: Version 1808 (Build 10730.20370)</span></span>  
-<span data-ttu-id="c0c9f-445">半年频道：版本 1803（内部版本 9126.2432）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-445">Semi-Annual Channel: Version 1803 (Build 9126.2432)</span></span>  
+## <a name="august-13-2019"></a><span data-ttu-id="5817b-464">2019 年 8 月 13 日</span><span class="sxs-lookup"><span data-stu-id="5817b-464">August 13, 2019</span></span>
+<span data-ttu-id="5817b-465">每月频道：版本 1907（内部版本 11901.20218）</span><span class="sxs-lookup"><span data-stu-id="5817b-465">Monthly Channel: Version 1907 (Build 11901.20218)</span></span>  
+<span data-ttu-id="5817b-466">半年频道（定向）：版本 1902（内部版本 11328.20392）</span><span class="sxs-lookup"><span data-stu-id="5817b-466">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20392)</span></span>  
+<span data-ttu-id="5817b-467">半年频道：版本 1902（内部版本 11328.20392）</span><span class="sxs-lookup"><span data-stu-id="5817b-467">Semi-Annual Channel: Version 1902 (Build 11328.20392)</span></span>  
+<span data-ttu-id="5817b-468">半年频道：版本 1808（内部版本 10730.20370）</span><span class="sxs-lookup"><span data-stu-id="5817b-468">Semi-Annual Channel: Version 1808 (Build 10730.20370)</span></span>  
+<span data-ttu-id="5817b-469">半年频道：版本 1803（内部版本 9126.2432）</span><span class="sxs-lookup"><span data-stu-id="5817b-469">Semi-Annual Channel: Version 1803 (Build 9126.2432)</span></span>  
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-446">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-446">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-470">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-470">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-447">CVE-2019-1199</span><span class="sxs-lookup"><span data-stu-id="c0c9f-447">CVE-2019-1199</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1199)
--   [<span data-ttu-id="c0c9f-448">CVE-2019-1204</span><span class="sxs-lookup"><span data-stu-id="c0c9f-448">CVE-2019-1204</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1204)
--   [<span data-ttu-id="c0c9f-449">CVE-2019-1200</span><span class="sxs-lookup"><span data-stu-id="c0c9f-449">CVE-2019-1200</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1200)
+-   [<span data-ttu-id="5817b-471">CVE-2019-1199</span><span class="sxs-lookup"><span data-stu-id="5817b-471">CVE-2019-1199</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1199)
+-   [<span data-ttu-id="5817b-472">CVE-2019-1204</span><span class="sxs-lookup"><span data-stu-id="5817b-472">CVE-2019-1204</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1204)
+-   [<span data-ttu-id="5817b-473">CVE-2019-1200</span><span class="sxs-lookup"><span data-stu-id="5817b-473">CVE-2019-1200</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1200)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-450">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-450">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-474">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-474">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-451">CVE-2019-1205</span><span class="sxs-lookup"><span data-stu-id="c0c9f-451">CVE-2019-1205</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1205)
--   [<span data-ttu-id="c0c9f-452">CVE-2019-1201</span><span class="sxs-lookup"><span data-stu-id="c0c9f-452">CVE-2019-1201</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1201)
+-   [<span data-ttu-id="5817b-475">CVE-2019-1205</span><span class="sxs-lookup"><span data-stu-id="5817b-475">CVE-2019-1205</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1205)
+-   [<span data-ttu-id="5817b-476">CVE-2019-1201</span><span class="sxs-lookup"><span data-stu-id="5817b-476">CVE-2019-1201</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1201)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-453">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-453">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-477">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-477">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-454">CVE-2019-1155</span><span class="sxs-lookup"><span data-stu-id="c0c9f-454">CVE-2019-1155</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1155)
+-   [<span data-ttu-id="5817b-478">CVE-2019-1155</span><span class="sxs-lookup"><span data-stu-id="5817b-478">CVE-2019-1155</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1155)
 
-## <a name="july-09-2019"></a><span data-ttu-id="c0c9f-455">2019 年 7 月 9 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-455">July 09, 2019</span></span>
-<span data-ttu-id="c0c9f-456">每月频道：版本 1906（内部版本 11727.20244）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-456">Monthly Channel: Version 1906 (Build 11727.20244)</span></span>  
-<span data-ttu-id="c0c9f-457">半年频道（定向）：版本 1902（内部版本 11328.20368）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-457">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20368)</span></span>  
-<span data-ttu-id="c0c9f-458">半年频道：版本 1902（内部版本 11328.20368）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-458">Semi-Annual Channel: Version 1902 (Build 11328.20368)</span></span>  
-<span data-ttu-id="c0c9f-459">半年频道：版本 1808（内部版本 10730.20360）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-459">Semi-Annual Channel: Version 1808 (Build 10730.20360)</span></span>  
-<span data-ttu-id="c0c9f-460">半年频道：版本 1803（内部版本 9126.2428）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-460">Semi-Annual Channel: Version 1803 (Build 9126.2428)</span></span>   
+## <a name="july-09-2019"></a><span data-ttu-id="5817b-479">2019 年 7 月 9 日</span><span class="sxs-lookup"><span data-stu-id="5817b-479">July 09, 2019</span></span>
+<span data-ttu-id="5817b-480">每月频道：版本 1906（内部版本 11727.20244）</span><span class="sxs-lookup"><span data-stu-id="5817b-480">Monthly Channel: Version 1906 (Build 11727.20244)</span></span>  
+<span data-ttu-id="5817b-481">半年频道（定向）：版本 1902（内部版本 11328.20368）</span><span class="sxs-lookup"><span data-stu-id="5817b-481">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20368)</span></span>  
+<span data-ttu-id="5817b-482">半年频道：版本 1902（内部版本 11328.20368）</span><span class="sxs-lookup"><span data-stu-id="5817b-482">Semi-Annual Channel: Version 1902 (Build 11328.20368)</span></span>  
+<span data-ttu-id="5817b-483">半年频道：版本 1808（内部版本 10730.20360）</span><span class="sxs-lookup"><span data-stu-id="5817b-483">Semi-Annual Channel: Version 1808 (Build 10730.20360)</span></span>  
+<span data-ttu-id="5817b-484">半年频道：版本 1803（内部版本 9126.2428）</span><span class="sxs-lookup"><span data-stu-id="5817b-484">Semi-Annual Channel: Version 1803 (Build 9126.2428)</span></span>   
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-461">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-461">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-485">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-485">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-462">CVE-2019-1112</span><span class="sxs-lookup"><span data-stu-id="c0c9f-462">CVE-2019-1112</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1112)
--   [<span data-ttu-id="c0c9f-463">CVE-2019-1110</span><span class="sxs-lookup"><span data-stu-id="c0c9f-463">CVE-2019-1110</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1110)
--   [<span data-ttu-id="c0c9f-464">CVE-2019-1111</span><span class="sxs-lookup"><span data-stu-id="c0c9f-464">CVE-2019-1111</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1111)
+-   [<span data-ttu-id="5817b-486">CVE-2019-1112</span><span class="sxs-lookup"><span data-stu-id="5817b-486">CVE-2019-1112</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1112)
+-   [<span data-ttu-id="5817b-487">CVE-2019-1110</span><span class="sxs-lookup"><span data-stu-id="5817b-487">CVE-2019-1110</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1110)
+-   [<span data-ttu-id="5817b-488">CVE-2019-1111</span><span class="sxs-lookup"><span data-stu-id="5817b-488">CVE-2019-1111</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1111)
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-465">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-465">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-489">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-489">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-466">CVE-2019-1084</span><span class="sxs-lookup"><span data-stu-id="c0c9f-466">CVE-2019-1084</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1084)
+-   [<span data-ttu-id="5817b-490">CVE-2019-1084</span><span class="sxs-lookup"><span data-stu-id="5817b-490">CVE-2019-1084</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1084)
 
-### <a name="skype-for-business"></a><span data-ttu-id="c0c9f-467">Skype for Business</span><span class="sxs-lookup"><span data-stu-id="c0c9f-467">Skype for Business</span></span>
+### <a name="skype-for-business"></a><span data-ttu-id="5817b-491">Skype for Business</span><span class="sxs-lookup"><span data-stu-id="5817b-491">Skype for Business</span></span>
 
--   [<span data-ttu-id="c0c9f-468">CVE-2019-1084</span><span class="sxs-lookup"><span data-stu-id="c0c9f-468">CVE-2019-1084</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1084)
+-   [<span data-ttu-id="5817b-492">CVE-2019-1084</span><span class="sxs-lookup"><span data-stu-id="5817b-492">CVE-2019-1084</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1084)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-469">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-469">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-493">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-493">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-470">CVE-2019-1109</span><span class="sxs-lookup"><span data-stu-id="c0c9f-470">CVE-2019-1109</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1109)
+-   [<span data-ttu-id="5817b-494">CVE-2019-1109</span><span class="sxs-lookup"><span data-stu-id="5817b-494">CVE-2019-1109</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1109)
 
-## <a name="june-11-2019"></a><span data-ttu-id="c0c9f-471">2019 年 6 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-471">June 11, 2019</span></span>
-<span data-ttu-id="c0c9f-472">每月频道：版本 1905（内部版本 11629.20246）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-472">Monthly Channel: Version 1905 (Build 11629.20246)</span></span>  
-<span data-ttu-id="c0c9f-473">半年频道（定向）：版本 1902（生成号 11328.20318）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-473">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20318)</span></span>   
-<span data-ttu-id="c0c9f-474">半年频道：版本 1808（内部版本 10730.20348）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-474">Semi-Annual Channel: Version 1808 (Build 10730.20348)</span></span>  
-<span data-ttu-id="c0c9f-475">半年频道：版本 1803（内部版本 9126.2388）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-475">Semi-Annual Channel: Version 1803 (Build 9126.2388)</span></span>  
+## <a name="june-11-2019"></a><span data-ttu-id="5817b-495">2019 年 6 月 11 日</span><span class="sxs-lookup"><span data-stu-id="5817b-495">June 11, 2019</span></span>
+<span data-ttu-id="5817b-496">每月频道：版本 1905（内部版本 11629.20246）</span><span class="sxs-lookup"><span data-stu-id="5817b-496">Monthly Channel: Version 1905 (Build 11629.20246)</span></span>  
+<span data-ttu-id="5817b-497">半年频道（定向）：版本 1902（生成号 11328.20318）</span><span class="sxs-lookup"><span data-stu-id="5817b-497">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20318)</span></span>   
+<span data-ttu-id="5817b-498">半年频道：版本 1808（内部版本 10730.20348）</span><span class="sxs-lookup"><span data-stu-id="5817b-498">Semi-Annual Channel: Version 1808 (Build 10730.20348)</span></span>  
+<span data-ttu-id="5817b-499">半年频道：版本 1803（内部版本 9126.2388）</span><span class="sxs-lookup"><span data-stu-id="5817b-499">Semi-Annual Channel: Version 1803 (Build 9126.2388)</span></span>  
 
-### <a name="word"></a><span data-ttu-id="c0c9f-476">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-476">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-500">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-500">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-477">CVE-2019-1034</span><span class="sxs-lookup"><span data-stu-id="c0c9f-477">CVE-2019-1034</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1034)
--   [<span data-ttu-id="c0c9f-478">CVE-2019-1035</span><span class="sxs-lookup"><span data-stu-id="c0c9f-478">CVE-2019-1035</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1035)
+-   [<span data-ttu-id="5817b-501">CVE-2019-1034</span><span class="sxs-lookup"><span data-stu-id="5817b-501">CVE-2019-1034</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1034)
+-   [<span data-ttu-id="5817b-502">CVE-2019-1035</span><span class="sxs-lookup"><span data-stu-id="5817b-502">CVE-2019-1035</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1035)
 
-## <a name="may-14-2019"></a><span data-ttu-id="c0c9f-479">2019 年 5 月 14 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-479">May 14, 2019</span></span>
-<span data-ttu-id="c0c9f-480">每月频道：版本 1904（内部版本 11601.20204）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-480">Monthly Channel: Version 1904 (Build 11601.20204)</span></span>  
-<span data-ttu-id="c0c9f-481">半年频道（定向）：版本 1902（内部版本 11328.20286）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-481">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20286)</span></span>  
-<span data-ttu-id="c0c9f-482">半年频道：版本 1808（内部版本 10730.20344）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-482">Semi-Annual Channel: Version 1808 (Build 10730.20344)</span></span>  
-<span data-ttu-id="c0c9f-483">半年频道：版本 1803（内部版本 9126.2387）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-483">Semi-Annual Channel: Version 1803 (Build 9126.2387)</span></span>  
+## <a name="may-14-2019"></a><span data-ttu-id="5817b-503">2019 年 5 月 14 日</span><span class="sxs-lookup"><span data-stu-id="5817b-503">May 14, 2019</span></span>
+<span data-ttu-id="5817b-504">每月频道：版本 1904（内部版本 11601.20204）</span><span class="sxs-lookup"><span data-stu-id="5817b-504">Monthly Channel: Version 1904 (Build 11601.20204)</span></span>  
+<span data-ttu-id="5817b-505">半年频道（定向）：版本 1902（内部版本 11328.20286）</span><span class="sxs-lookup"><span data-stu-id="5817b-505">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20286)</span></span>  
+<span data-ttu-id="5817b-506">半年频道：版本 1808（内部版本 10730.20344）</span><span class="sxs-lookup"><span data-stu-id="5817b-506">Semi-Annual Channel: Version 1808 (Build 10730.20344)</span></span>  
+<span data-ttu-id="5817b-507">半年频道：版本 1803（内部版本 9126.2387）</span><span class="sxs-lookup"><span data-stu-id="5817b-507">Semi-Annual Channel: Version 1803 (Build 9126.2387)</span></span>  
 
-### <a name="word"></a><span data-ttu-id="c0c9f-484">Word</span><span class="sxs-lookup"><span data-stu-id="c0c9f-484">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-508">Word</span><span class="sxs-lookup"><span data-stu-id="5817b-508">Word</span></span>
 
--   [<span data-ttu-id="c0c9f-485">CVE-2019-0953</span><span class="sxs-lookup"><span data-stu-id="c0c9f-485">CVE-2019-0953</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0953)
+-   [<span data-ttu-id="5817b-509">CVE-2019-0953</span><span class="sxs-lookup"><span data-stu-id="5817b-509">CVE-2019-0953</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0953)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-486">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-486">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-510">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-510">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-487">CVE-2019-0945</span><span class="sxs-lookup"><span data-stu-id="c0c9f-487">CVE-2019-0945</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0945)
--   [<span data-ttu-id="c0c9f-488">CVE-2019-0946</span><span class="sxs-lookup"><span data-stu-id="c0c9f-488">CVE-2019-0946</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0946)
+-   [<span data-ttu-id="5817b-511">CVE-2019-0945</span><span class="sxs-lookup"><span data-stu-id="5817b-511">CVE-2019-0945</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0945)
+-   [<span data-ttu-id="5817b-512">CVE-2019-0946</span><span class="sxs-lookup"><span data-stu-id="5817b-512">CVE-2019-0946</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0946)
 
-## <a name="april-09-2019"></a><span data-ttu-id="c0c9f-489">2019 年 4 月 9 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-489">April 09, 2019</span></span>
-<span data-ttu-id="c0c9f-490">每月频道：版本 1903（内部版本 11425.20204）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-490">Monthly Channel: Version 1903 (Build 11425.20204)</span></span>  
-<span data-ttu-id="c0c9f-491">半年频道（定向）：版本 1902（生成号 11328.20230）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-491">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)</span></span>  
-<span data-ttu-id="c0c9f-492">半年频道：版本 1808（内部版本 10730.20334）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-492">Semi-Annual Channel: Version 1808 (Build 10730.20334)</span></span>  
-<span data-ttu-id="c0c9f-493">半年频道：版本 1803（内部版本 9126.2382）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-493">Semi-Annual Channel: Version 1803 (Build 9126.2382)</span></span>  
+## <a name="april-09-2019"></a><span data-ttu-id="5817b-513">2019 年 4 月 9 日</span><span class="sxs-lookup"><span data-stu-id="5817b-513">April 09, 2019</span></span>
+<span data-ttu-id="5817b-514">每月频道：版本 1903（内部版本 11425.20204）</span><span class="sxs-lookup"><span data-stu-id="5817b-514">Monthly Channel: Version 1903 (Build 11425.20204)</span></span>  
+<span data-ttu-id="5817b-515">半年频道（定向）：版本 1902（生成号 11328.20230）</span><span class="sxs-lookup"><span data-stu-id="5817b-515">Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)</span></span>  
+<span data-ttu-id="5817b-516">半年频道：版本 1808（内部版本 10730.20334）</span><span class="sxs-lookup"><span data-stu-id="5817b-516">Semi-Annual Channel: Version 1808 (Build 10730.20334)</span></span>  
+<span data-ttu-id="5817b-517">半年频道：版本 1803（内部版本 9126.2382）</span><span class="sxs-lookup"><span data-stu-id="5817b-517">Semi-Annual Channel: Version 1803 (Build 9126.2382)</span></span>  
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-494">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-494">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-518">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-518">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-495">CVE-2019-0828</span><span class="sxs-lookup"><span data-stu-id="c0c9f-495">CVE-2019-0828</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0828)
+-   [<span data-ttu-id="5817b-519">CVE-2019-0828</span><span class="sxs-lookup"><span data-stu-id="5817b-519">CVE-2019-0828</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0828)
 
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-496">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-496">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5817b-520">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-520">Office Suite</span></span>
 
--   [<span data-ttu-id="c0c9f-497">CVE-2019-0822</span><span class="sxs-lookup"><span data-stu-id="c0c9f-497">CVE-2019-0822</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0822)
--   [<span data-ttu-id="c0c9f-498">CVE-2019-0827</span><span class="sxs-lookup"><span data-stu-id="c0c9f-498">CVE-2019-0827</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0827)
--   [<span data-ttu-id="c0c9f-499">CVE-2019-0824</span><span class="sxs-lookup"><span data-stu-id="c0c9f-499">CVE-2019-0824</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0824)
--   [<span data-ttu-id="c0c9f-500">CVE-2019-0825</span><span class="sxs-lookup"><span data-stu-id="c0c9f-500">CVE-2019-0825</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0825)
--   [<span data-ttu-id="c0c9f-501">CVE-2019-0826</span><span class="sxs-lookup"><span data-stu-id="c0c9f-501">CVE-2019-0826</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0826)
--   [<span data-ttu-id="c0c9f-502">CVE-2019-0801</span><span class="sxs-lookup"><span data-stu-id="c0c9f-502">CVE-2019-0801</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0801)
+-   [<span data-ttu-id="5817b-521">CVE-2019-0822</span><span class="sxs-lookup"><span data-stu-id="5817b-521">CVE-2019-0822</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0822)
+-   [<span data-ttu-id="5817b-522">CVE-2019-0827</span><span class="sxs-lookup"><span data-stu-id="5817b-522">CVE-2019-0827</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0827)
+-   [<span data-ttu-id="5817b-523">CVE-2019-0824</span><span class="sxs-lookup"><span data-stu-id="5817b-523">CVE-2019-0824</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0824)
+-   [<span data-ttu-id="5817b-524">CVE-2019-0825</span><span class="sxs-lookup"><span data-stu-id="5817b-524">CVE-2019-0825</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0825)
+-   [<span data-ttu-id="5817b-525">CVE-2019-0826</span><span class="sxs-lookup"><span data-stu-id="5817b-525">CVE-2019-0826</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0826)
+-   [<span data-ttu-id="5817b-526">CVE-2019-0801</span><span class="sxs-lookup"><span data-stu-id="5817b-526">CVE-2019-0801</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0801)
 
-## <a name="march-12-2019"></a><span data-ttu-id="c0c9f-503">2019 年 3 月 12 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-503">March 12, 2019</span></span>
-<span data-ttu-id="c0c9f-504">本月任何渠道没有安全更新。</span><span class="sxs-lookup"><span data-stu-id="c0c9f-504">There are no security updates for any channel this month.</span></span>
+## <a name="march-12-2019"></a><span data-ttu-id="5817b-527">2019 年 3 月 12 日</span><span class="sxs-lookup"><span data-stu-id="5817b-527">March 12, 2019</span></span>
+<span data-ttu-id="5817b-528">本月任何渠道没有安全更新。</span><span class="sxs-lookup"><span data-stu-id="5817b-528">There are no security updates for any channel this month.</span></span>
 
-## <a name="february-12-2019"></a><span data-ttu-id="c0c9f-505">2019 年 2 月 12 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-505">February 12, 2019</span></span>
-<span data-ttu-id="c0c9f-506">每月频道：版本 1901（内部版本 11231.20174）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-506">Monthly Channel: Version 1901 (Build 11231.20174)</span></span>  
-<span data-ttu-id="c0c9f-507">半年频道（定向）：版本 1808（内部版本 10730.20280）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-507">Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20280)</span></span>   
-<span data-ttu-id="c0c9f-508">半年频道：版本 1808（内部版本 10730.20280）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-508">Semi-Annual Channel: Version 1808 (Build 10730.20280)</span></span>  
-<span data-ttu-id="c0c9f-509">半年频道：版本 1803（内部版本 9126.2356）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-509">Semi-Annual Channel: Version 1803 (Build 9126.2356)</span></span>  
-<span data-ttu-id="c0c9f-510">半年频道：版本 1708（内部版本 8431.2372）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-510">Semi-Annual Channel: Version 1708 (Build 8431.2372)</span></span>  
-
-
-### <a name="excel"></a><span data-ttu-id="c0c9f-511">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-511">Excel</span></span>
-
--   [<span data-ttu-id="c0c9f-512">CVE-2019-0669</span><span class="sxs-lookup"><span data-stu-id="c0c9f-512">CVE-2019-0669</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0669)
-
-### <a name="office-suite"></a><span data-ttu-id="c0c9f-513">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c0c9f-513">Office suite</span></span>
-
--   [<span data-ttu-id="c0c9f-514">CVE-2019-0540</span><span class="sxs-lookup"><span data-stu-id="c0c9f-514">CVE-2019-0540</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0540)
--   [<span data-ttu-id="c0c9f-515">CVE-2019-0674</span><span class="sxs-lookup"><span data-stu-id="c0c9f-515">CVE-2019-0674</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0674)
--   [<span data-ttu-id="c0c9f-516">CVE-2019-0673</span><span class="sxs-lookup"><span data-stu-id="c0c9f-516">CVE-2019-0673</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0673)
--   [<span data-ttu-id="c0c9f-517">CVE-2019-0672</span><span class="sxs-lookup"><span data-stu-id="c0c9f-517">CVE-2019-0672</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0672)
--   [<span data-ttu-id="c0c9f-518">CVE-2019-0582</span><span class="sxs-lookup"><span data-stu-id="c0c9f-518">CVE-2019-0582</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0582)
--   [<span data-ttu-id="c0c9f-519">CVE-2019-0671</span><span class="sxs-lookup"><span data-stu-id="c0c9f-519">CVE-2019-0671</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0671)
-
-## <a name="january-8-2019"></a><span data-ttu-id="c0c9f-520">2019 年 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-520">January 8, 2019</span></span>
-
-<span data-ttu-id="c0c9f-521">每月频道：版本 1812（内部版本 11126.20196）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-521">Monthly Channel: Version 1812 (Build 11126.20196)</span></span>  
-<span data-ttu-id="c0c9f-522">半年定向频道：版本 1808（内部版本 10730.20264）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-522">Semi-Annual Targeted Channel: Version 1808 (Build 10730.20264)</span></span>  
-<span data-ttu-id="c0c9f-523">半年频道：版本 1808（内部版本 10730.20264）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-523">Semi-Annual Channel: Version 1808 (Build 10730.20264)</span></span>  
-<span data-ttu-id="c0c9f-524">半年频道：版本 1803（内部版本 9126.2351）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-524">Semi-Annual Channel: Version 1803 (Build 9126.2351)</span></span>  
-<span data-ttu-id="c0c9f-525">半年频道：版本 1708（内部版本 8431.2366）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-525">Semi-Annual Channel: Version 1708 (Build 8431.2366)</span></span>  
+## <a name="february-12-2019"></a><span data-ttu-id="5817b-529">2019 年 2 月 12 日</span><span class="sxs-lookup"><span data-stu-id="5817b-529">February 12, 2019</span></span>
+<span data-ttu-id="5817b-530">每月频道：版本 1901（内部版本 11231.20174）</span><span class="sxs-lookup"><span data-stu-id="5817b-530">Monthly Channel: Version 1901 (Build 11231.20174)</span></span>  
+<span data-ttu-id="5817b-531">半年频道（定向）：版本 1808（内部版本 10730.20280）</span><span class="sxs-lookup"><span data-stu-id="5817b-531">Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20280)</span></span>   
+<span data-ttu-id="5817b-532">半年频道：版本 1808（内部版本 10730.20280）</span><span class="sxs-lookup"><span data-stu-id="5817b-532">Semi-Annual Channel: Version 1808 (Build 10730.20280)</span></span>  
+<span data-ttu-id="5817b-533">半年频道：版本 1803（内部版本 9126.2356）</span><span class="sxs-lookup"><span data-stu-id="5817b-533">Semi-Annual Channel: Version 1803 (Build 9126.2356)</span></span>  
+<span data-ttu-id="5817b-534">半年频道：版本 1708（内部版本 8431.2372）</span><span class="sxs-lookup"><span data-stu-id="5817b-534">Semi-Annual Channel: Version 1708 (Build 8431.2372)</span></span>  
 
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-526">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-526">Outlook</span></span>
--   [<span data-ttu-id="c0c9f-527">CVE-2019-0559</span><span class="sxs-lookup"><span data-stu-id="c0c9f-527">CVE-2019-0559</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0559)
+### <a name="excel"></a><span data-ttu-id="5817b-535">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-535">Excel</span></span>
 
-### <a name="word-security-updates"></a><span data-ttu-id="c0c9f-528">Word：安全更新</span><span class="sxs-lookup"><span data-stu-id="c0c9f-528">Word: Security updates</span></span> 
--   [<span data-ttu-id="c0c9f-529">CVE-2019-0561</span><span class="sxs-lookup"><span data-stu-id="c0c9f-529">CVE-2019-0561</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0561)
--   [<span data-ttu-id="c0c9f-530">CVE-2019-0585</span><span class="sxs-lookup"><span data-stu-id="c0c9f-530">CVE-2019-0585</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0585) 
+-   [<span data-ttu-id="5817b-536">CVE-2019-0669</span><span class="sxs-lookup"><span data-stu-id="5817b-536">CVE-2019-0669</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0669)
+
+### <a name="office-suite"></a><span data-ttu-id="5817b-537">Office 套件</span><span class="sxs-lookup"><span data-stu-id="5817b-537">Office suite</span></span>
+
+-   [<span data-ttu-id="5817b-538">CVE-2019-0540</span><span class="sxs-lookup"><span data-stu-id="5817b-538">CVE-2019-0540</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0540)
+-   [<span data-ttu-id="5817b-539">CVE-2019-0674</span><span class="sxs-lookup"><span data-stu-id="5817b-539">CVE-2019-0674</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0674)
+-   [<span data-ttu-id="5817b-540">CVE-2019-0673</span><span class="sxs-lookup"><span data-stu-id="5817b-540">CVE-2019-0673</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0673)
+-   [<span data-ttu-id="5817b-541">CVE-2019-0672</span><span class="sxs-lookup"><span data-stu-id="5817b-541">CVE-2019-0672</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0672)
+-   [<span data-ttu-id="5817b-542">CVE-2019-0582</span><span class="sxs-lookup"><span data-stu-id="5817b-542">CVE-2019-0582</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0582)
+-   [<span data-ttu-id="5817b-543">CVE-2019-0671</span><span class="sxs-lookup"><span data-stu-id="5817b-543">CVE-2019-0671</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0671)
+
+## <a name="january-8-2019"></a><span data-ttu-id="5817b-544">2019 年 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="5817b-544">January 8, 2019</span></span>
+
+<span data-ttu-id="5817b-545">每月频道：版本 1812（内部版本 11126.20196）</span><span class="sxs-lookup"><span data-stu-id="5817b-545">Monthly Channel: Version 1812 (Build 11126.20196)</span></span>  
+<span data-ttu-id="5817b-546">半年定向频道：版本 1808（内部版本 10730.20264）</span><span class="sxs-lookup"><span data-stu-id="5817b-546">Semi-Annual Targeted Channel: Version 1808 (Build 10730.20264)</span></span>  
+<span data-ttu-id="5817b-547">半年频道：版本 1808（内部版本 10730.20264）</span><span class="sxs-lookup"><span data-stu-id="5817b-547">Semi-Annual Channel: Version 1808 (Build 10730.20264)</span></span>  
+<span data-ttu-id="5817b-548">半年频道：版本 1803（内部版本 9126.2351）</span><span class="sxs-lookup"><span data-stu-id="5817b-548">Semi-Annual Channel: Version 1803 (Build 9126.2351)</span></span>  
+<span data-ttu-id="5817b-549">半年频道：版本 1708（内部版本 8431.2366）</span><span class="sxs-lookup"><span data-stu-id="5817b-549">Semi-Annual Channel: Version 1708 (Build 8431.2366)</span></span>  
+
+
+### <a name="outlook"></a><span data-ttu-id="5817b-550">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-550">Outlook</span></span>
+-   [<span data-ttu-id="5817b-551">CVE-2019-0559</span><span class="sxs-lookup"><span data-stu-id="5817b-551">CVE-2019-0559</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0559)
+
+### <a name="word-security-updates"></a><span data-ttu-id="5817b-552">Word：安全更新</span><span class="sxs-lookup"><span data-stu-id="5817b-552">Word: Security updates</span></span> 
+-   [<span data-ttu-id="5817b-553">CVE-2019-0561</span><span class="sxs-lookup"><span data-stu-id="5817b-553">CVE-2019-0561</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0561)
+-   [<span data-ttu-id="5817b-554">CVE-2019-0585</span><span class="sxs-lookup"><span data-stu-id="5817b-554">CVE-2019-0585</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0585) 
  
-### <a name="office-suite-security-updates"></a><span data-ttu-id="c0c9f-531">Office 套件：安全更新</span><span class="sxs-lookup"><span data-stu-id="c0c9f-531">Office suite: Security updates</span></span> 
--   [<span data-ttu-id="c0c9f-532">CVE-2019-0541</span><span class="sxs-lookup"><span data-stu-id="c0c9f-532">CVE-2019-0541</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0541)
--   [<span data-ttu-id="c0c9f-533">CVE-2019-0560</span><span class="sxs-lookup"><span data-stu-id="c0c9f-533">CVE-2019-0560</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0560)
+### <a name="office-suite-security-updates"></a><span data-ttu-id="5817b-555">Office 套件：安全更新</span><span class="sxs-lookup"><span data-stu-id="5817b-555">Office suite: Security updates</span></span> 
+-   [<span data-ttu-id="5817b-556">CVE-2019-0541</span><span class="sxs-lookup"><span data-stu-id="5817b-556">CVE-2019-0541</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0541)
+-   [<span data-ttu-id="5817b-557">CVE-2019-0560</span><span class="sxs-lookup"><span data-stu-id="5817b-557">CVE-2019-0560</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0560)
 
-## <a name="december-11-2018"></a><span data-ttu-id="c0c9f-534">2018 年 12 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-534">December 11, 2018</span></span>
-<span data-ttu-id="c0c9f-535">每月频道：版本 1811（内部版本 11029.20108）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-535">Monthly Channel: Version 1811 (Build 11029.20108)</span></span>  
-<span data-ttu-id="c0c9f-536">半年频道：版本 1803（内部版本 9126.2336）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-536">Semi-Annual Channel: Version 1803 (Build 9126.2336)</span></span>  
-<span data-ttu-id="c0c9f-537">半年频道（定向）：版本 1808（内部版本 10730.20262）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-537">Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20262)</span></span>  
+## <a name="december-11-2018"></a><span data-ttu-id="5817b-558">2018 年 12 月 11 日</span><span class="sxs-lookup"><span data-stu-id="5817b-558">December 11, 2018</span></span>
+<span data-ttu-id="5817b-559">每月频道：版本 1811（内部版本 11029.20108）</span><span class="sxs-lookup"><span data-stu-id="5817b-559">Monthly Channel: Version 1811 (Build 11029.20108)</span></span>  
+<span data-ttu-id="5817b-560">半年频道：版本 1803（内部版本 9126.2336）</span><span class="sxs-lookup"><span data-stu-id="5817b-560">Semi-Annual Channel: Version 1803 (Build 9126.2336)</span></span>  
+<span data-ttu-id="5817b-561">半年频道（定向）：版本 1808（内部版本 10730.20262）</span><span class="sxs-lookup"><span data-stu-id="5817b-561">Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20262)</span></span>  
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-538">Excel</span><span class="sxs-lookup"><span data-stu-id="c0c9f-538">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-562">Excel</span><span class="sxs-lookup"><span data-stu-id="5817b-562">Excel</span></span>
 
--   [<span data-ttu-id="c0c9f-539">CVE-2018-8597</span><span class="sxs-lookup"><span data-stu-id="c0c9f-539">CVE-2018-8597</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)
--   [<span data-ttu-id="c0c9f-540">CVE-2018-8627</span><span class="sxs-lookup"><span data-stu-id="c0c9f-540">CVE-2018-8627</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)
--   [<span data-ttu-id="c0c9f-541">CVE-2018-8598</span><span class="sxs-lookup"><span data-stu-id="c0c9f-541">CVE-2018-8598</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)
--   [<span data-ttu-id="c0c9f-542">CVE-2018-8636</span><span class="sxs-lookup"><span data-stu-id="c0c9f-542">CVE-2018-8636</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)
+-   [<span data-ttu-id="5817b-563">CVE-2018-8597</span><span class="sxs-lookup"><span data-stu-id="5817b-563">CVE-2018-8597</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)
+-   [<span data-ttu-id="5817b-564">CVE-2018-8627</span><span class="sxs-lookup"><span data-stu-id="5817b-564">CVE-2018-8627</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)
+-   [<span data-ttu-id="5817b-565">CVE-2018-8598</span><span class="sxs-lookup"><span data-stu-id="5817b-565">CVE-2018-8598</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)
+-   [<span data-ttu-id="5817b-566">CVE-2018-8636</span><span class="sxs-lookup"><span data-stu-id="5817b-566">CVE-2018-8636</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-543">Outlook</span><span class="sxs-lookup"><span data-stu-id="c0c9f-543">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-567">Outlook</span><span class="sxs-lookup"><span data-stu-id="5817b-567">Outlook</span></span>
 
--   [<span data-ttu-id="c0c9f-544">CVE-2018-8587</span><span class="sxs-lookup"><span data-stu-id="c0c9f-544">CVE-2018-8587</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)
+-   [<span data-ttu-id="5817b-568">CVE-2018-8587</span><span class="sxs-lookup"><span data-stu-id="5817b-568">CVE-2018-8587</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)
 
-### <a name="powerpoint"></a><span data-ttu-id="c0c9f-545">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c0c9f-545">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5817b-569">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5817b-569">PowerPoint</span></span>
 
--   [<span data-ttu-id="c0c9f-546">CVE-2018-8628</span><span class="sxs-lookup"><span data-stu-id="c0c9f-546">CVE-2018-8628</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)
+-   [<span data-ttu-id="5817b-570">CVE-2018-8628</span><span class="sxs-lookup"><span data-stu-id="5817b-570">CVE-2018-8628</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)
 
-## <a name="november-13-2018"></a><span data-ttu-id="c0c9f-547">2018 年 11 月 13 日</span><span class="sxs-lookup"><span data-stu-id="c0c9f-547">November 13, 2018</span></span>
-<span data-ttu-id="c0c9f-548">每月频道：版本 1810（生成号 11001.20108）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-548">Monthly Channel: Version 1810 (Build 11001.20108)</span></span>  
-<span data-ttu-id="c0c9f-549">半年频道：版本 1803（生成号 9126.2315）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-549">Semi-Annual Channel: Version 1803 (Build 9126.2315)</span></span>  
-<span data-ttu-id="c0c9f-550">半年频道（定向）：版本 1808（生成号 10730.20205）</span><span class="sxs-lookup"><span data-stu-id="c0c9f-550">Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20205)</span></span>  
+## <a name="november-13-2018"></a><span data-ttu-id="5817b-571">2018 年 11 月 13 日</span><span class="sxs-lookup"><span data-stu-id="5817b-571">November 13, 2018</span></span>
+<span data-ttu-id="5817b-572">每月频道：版本 1810（生成号 11001.20108）</span><span class="sxs-lookup"><span data-stu-id="5817b-572">Monthly Channel: Version 1810 (Build 11001.20108)</span></span>  
+<span data-ttu-id="5817b-573">半年频道：版本 1803（生成号 9126.2315）</span><span class="sxs-lookup"><span data-stu-id="5817b-573">Semi-Annual Channel: Version 1803 (Build 9126.2315)</span></span>  
+<span data-ttu-id="5817b-574">半年频道（定向）：版本 1808（生成号 10730.20205）</span><span class="sxs-lookup"><span data-stu-id="5817b-574">Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20205)</span></span>  
 
-### <a name="excel"></a><span data-ttu-id="c0c9f-551">Excel：</span><span class="sxs-lookup"><span data-stu-id="c0c9f-551">Excel:</span></span>
+### <a name="excel"></a><span data-ttu-id="5817b-575">Excel：</span><span class="sxs-lookup"><span data-stu-id="5817b-575">Excel:</span></span>
 
--   [<span data-ttu-id="c0c9f-552">CVE-2018-8574</span><span class="sxs-lookup"><span data-stu-id="c0c9f-552">CVE-2018-8574</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8574)
--   [<span data-ttu-id="c0c9f-553">CVE-2018-8577</span><span class="sxs-lookup"><span data-stu-id="c0c9f-553">CVE-2018-8577</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8577)
+-   [<span data-ttu-id="5817b-576">CVE-2018-8574</span><span class="sxs-lookup"><span data-stu-id="5817b-576">CVE-2018-8574</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8574)
+-   [<span data-ttu-id="5817b-577">CVE-2018-8577</span><span class="sxs-lookup"><span data-stu-id="5817b-577">CVE-2018-8577</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8577)
 
-### <a name="outlook"></a><span data-ttu-id="c0c9f-554">Outlook：</span><span class="sxs-lookup"><span data-stu-id="c0c9f-554">Outlook:</span></span>
+### <a name="outlook"></a><span data-ttu-id="5817b-578">Outlook：</span><span class="sxs-lookup"><span data-stu-id="5817b-578">Outlook:</span></span>
 
--   [<span data-ttu-id="c0c9f-555">CVE-2018-8522</span><span class="sxs-lookup"><span data-stu-id="c0c9f-555">CVE-2018-8522</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8522)
--   [<span data-ttu-id="c0c9f-556">CVE-2018-8524</span><span class="sxs-lookup"><span data-stu-id="c0c9f-556">CVE-2018-8524</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8524)
--   [<span data-ttu-id="c0c9f-557">CVE-2018-8558</span><span class="sxs-lookup"><span data-stu-id="c0c9f-557">CVE-2018-8558</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8558)
--   [<span data-ttu-id="c0c9f-558">CVE-2018-8576</span><span class="sxs-lookup"><span data-stu-id="c0c9f-558">CVE-2018-8576</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8576)
--   [<span data-ttu-id="c0c9f-559">CVE-2018-8579</span><span class="sxs-lookup"><span data-stu-id="c0c9f-559">CVE-2018-8579</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8579)
--   [<span data-ttu-id="c0c9f-560">CVE-2018-8582</span><span class="sxs-lookup"><span data-stu-id="c0c9f-560">CVE-2018-8582</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8582)
+-   [<span data-ttu-id="5817b-579">CVE-2018-8522</span><span class="sxs-lookup"><span data-stu-id="5817b-579">CVE-2018-8522</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8522)
+-   [<span data-ttu-id="5817b-580">CVE-2018-8524</span><span class="sxs-lookup"><span data-stu-id="5817b-580">CVE-2018-8524</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8524)
+-   [<span data-ttu-id="5817b-581">CVE-2018-8558</span><span class="sxs-lookup"><span data-stu-id="5817b-581">CVE-2018-8558</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8558)
+-   [<span data-ttu-id="5817b-582">CVE-2018-8576</span><span class="sxs-lookup"><span data-stu-id="5817b-582">CVE-2018-8576</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8576)
+-   [<span data-ttu-id="5817b-583">CVE-2018-8579</span><span class="sxs-lookup"><span data-stu-id="5817b-583">CVE-2018-8579</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8579)
+-   [<span data-ttu-id="5817b-584">CVE-2018-8582</span><span class="sxs-lookup"><span data-stu-id="5817b-584">CVE-2018-8582</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8582)
 
-### <a name="project"></a><span data-ttu-id="c0c9f-561">Project：</span><span class="sxs-lookup"><span data-stu-id="c0c9f-561">Project:</span></span>
+### <a name="project"></a><span data-ttu-id="5817b-585">Project：</span><span class="sxs-lookup"><span data-stu-id="5817b-585">Project:</span></span>
 
--   [<span data-ttu-id="c0c9f-562">CVE-2018-8575</span><span class="sxs-lookup"><span data-stu-id="c0c9f-562">CVE-2018-8575</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8575)
+-   [<span data-ttu-id="5817b-586">CVE-2018-8575</span><span class="sxs-lookup"><span data-stu-id="5817b-586">CVE-2018-8575</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8575)
 
-### <a name="skype-for-business"></a><span data-ttu-id="c0c9f-563">Skype for Business：</span><span class="sxs-lookup"><span data-stu-id="c0c9f-563">Skype for Business:</span></span>
+### <a name="skype-for-business"></a><span data-ttu-id="5817b-587">Skype for Business：</span><span class="sxs-lookup"><span data-stu-id="5817b-587">Skype for Business:</span></span>
 
--   [<span data-ttu-id="c0c9f-564">CVE-2018-8546</span><span class="sxs-lookup"><span data-stu-id="c0c9f-564">CVE-2018-8546</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8546)
+-   [<span data-ttu-id="5817b-588">CVE-2018-8546</span><span class="sxs-lookup"><span data-stu-id="5817b-588">CVE-2018-8546</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8546)
 
-### <a name="word"></a><span data-ttu-id="c0c9f-565">Word：</span><span class="sxs-lookup"><span data-stu-id="c0c9f-565">Word:</span></span>
+### <a name="word"></a><span data-ttu-id="5817b-589">Word：</span><span class="sxs-lookup"><span data-stu-id="5817b-589">Word:</span></span>
 
--   [<span data-ttu-id="c0c9f-566">CVE-2018-8573</span><span class="sxs-lookup"><span data-stu-id="c0c9f-566">CVE-2018-8573</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8573)
+-   [<span data-ttu-id="5817b-590">CVE-2018-8573</span><span class="sxs-lookup"><span data-stu-id="5817b-590">CVE-2018-8573</span></span>](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8573)
