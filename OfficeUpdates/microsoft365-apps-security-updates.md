@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
-ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: f260cdf331ad730f8fade30fc64e76fa79a5df58
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177934"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595556"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office安全更新发布说明
 
@@ -25,12 +25,50 @@ ms.locfileid: "50177934"
 
 > [!IMPORTANT]
 > - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - 自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为Microsoft 365 应用。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为Microsoft 365 应用。
 
 
  
 
 [//]: # (请勿删除上面的线条，它用于调节间距)  
+
+## <a name="march-09-2021"></a>2021 年 3 月 9 日
+当前频道：版本 2102（内部版本13801.20294）  
+每月企业频道：版本 2101（内部版本 13628.20528）  
+每月企业频道：版本 2012（内部版本 13530.20628）  
+半年度企业频道（预览版）：版本 2102（内部版本 13801.20294）  
+半年度企业频道（预览）：版本 2008（内部版本 13127.21348）  
+半年度企业频道：版本 2002（内部版本 12527.21686）  
+Windows 7 上的 Microsoft 365 应用版：版本 2002（内部版本 12527.21686）  
+Office 2019 零售版：版本2102（内部版本13801.20294）  
+Office 2016 零售版：版本2102（内部版本13801.20294）  
+Office 2019 批量许可：版本 1808（内部版本 10372.20060）  
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27057)
+-   [CVE-2021-27053](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27053)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2021-27056](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27056)
+
+### <a name="visio"></a>Visio
+
+-   [CVE-2021-27055](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27055)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-27058](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-27058)
+-   [CVE-2021-24108](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-24108)
+
+[//]: # (请勿删除安全详细信息内容结尾)
+
+
 
 ## <a name="february-09-2021"></a>2021 年 2 月 9 日
 当前频道：版本2101（内部版本13628.20380）  

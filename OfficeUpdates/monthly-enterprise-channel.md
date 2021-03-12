@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455778"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595566"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -26,6 +26,70 @@ ms.locfileid: "50455778"
 [//]: # (请勿移除)
 
 
+
+## <a name="version-2101-march-09"></a>版本 2101：3 月 9 日
+*版本 2101（内部版本 13628.20528）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了在使用某些 Windows 安全中心漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外关闭的问题
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了使用仅加密选项发送的电子邮件上无法显示加密图标的问题。
+
+
+- 我们已修复了在用户取消选中该选项后导致邮件以数字签名方式发送的问题。
+
+
+- 我们修复了导致 OWA 中显示正确默认签名问题的问题。
+
+
+- 我们修复了一个导致云设置用户在更新设置时体验挂起的问题。
+
+
+- 我们修复了导致用户在 Outlook 中搜索时应用有时意外关闭的问题。
+
+
+- 我们修复了导致配置文件中具有较大层次结构共享邮箱或委派邮箱的用户遇到挂起的问题。
+
+
+- 我们修复了导致某些用户在特定搜索方案中遇到 Outlook 意外关闭的问题。
+
+
+### <a name="project"></a>Project
+
+- 修复了将成本资源分配给里程碑任务时，基线成本没有正确汇总的问题。
+
+
+- 解决了视图中不显示任务边框的问题。
+
+
+- 解决了“工作组规划器”视图中的拖放功能无法用于任务的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了与媒体控制器事件通知相关的问题。
+
+
+- 修复了与媒体播放器引擎计时相关的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2012-march-09"></a>版本 2012：3 月 9 日
+*版本 2012（内部版本 13530.20628）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 列出安全更新
 
 ## <a name="version-2012-february-09"></a>版本 2012：2 月 09 日
 *版本 2012（内部版本 13530.20528）*
@@ -1387,6 +1451,7 @@ ms.locfileid: "50455778"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|MEC|生产|功能|16.0.13628.20528|版本-2101-3-9|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13530.20528|版本-2012 年 2 月 9 日|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13426.20526|版本-2011年1月12日|)
 [//]: # (|Win32 |MEC |生产|功能|16.0.13328.20478|2010 年 12 月8 日版|)

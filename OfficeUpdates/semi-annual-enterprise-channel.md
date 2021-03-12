@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173651"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595686"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的发行说明
 
@@ -28,7 +28,47 @@ ms.locfileid: "50173651"
 >- 如果半年企业频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用版，现在默认情况下会包括 OneNote 2016。
 
 
-[//]: # (请勿删除 Bug 详细信息内容结尾)
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2008-march-09"></a>版本 2008：3 月 9 日
+*版本 2008（内部版本13127.21348）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们已修复了在图表中选择数据系列后 Excel 停止响应的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了可能导致应用程序在文件保存失败时意外关闭的问题。
+
+
+- 解决了某些情况下选择设计创意会删除演示文稿数据分类标签的问题
+
+
+### <a name="word"></a>Word
+
+- 修复了可能导致应用程序在文件保存失败时意外关闭的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了 Skype for Business 中复制/粘贴业务消息操作导致对话显示“粘贴内容时出错”的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-march-09"></a>版本 2002：3 月 9 日
+*版本 2002（内部版本 12527.21686）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 列出安全更新
 
 ## <a name="version-2008-february-09"></a>版本 2008：2 月 09 日
 *版本 2008（内部版本 13127.21216）*
@@ -2649,6 +2689,7 @@ ms.locfileid: "50173651"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|产品| |16.0.13127.21216|version-2008-febru-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|生产| |16.0.12527.21416|2002 年 12 月 8 日版|)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: ae1c321ef15541e632da9e7e9d84c364f57c6858
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: 95b197a91dda728899ddebc6825fcd042180e805
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455768"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595646"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -32,6 +32,39 @@ ms.locfileid: "50455768"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2102-march-09"></a>版本 2102：3 月 9 日
+*版本 2102（内部版本 13801.20294）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致用户看到新添加的日历直到 Outlook 重新启动之后才会显示在导航窗格中的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了将颜色应用于图标和具有 3D 效果的 SVG 图形的问题。
+
+
+- 我们修复了讲述人可能跳过某个段落的问题。
+
+
+- 我们修复了富文本内容控件的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了在含有数学公式的文本内使用讲述人时可能发生的问题。
 
 
 
@@ -531,7 +564,7 @@ ms.locfileid: "50455768"
 - 我们修复了导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。
 
 
-- 我们添加了一个 regkey，允许客户在 IDataObject 操作（例如，拖放、剪贴板）中禁用附件的 filetime 包含。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes 被排除。 1 = （默认）包含 filetime。
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes 被排除。 1 = （默认）包含 filetime。
 
 
 - 我们修复了以下问题：当回复带有来自 Azure 信息保护的保护标签的邮件时，将导致嵌入式图像消失。
@@ -567,7 +600,7 @@ ms.locfileid: "50455768"
 - 我们修复了导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。
 
 
-- 我们添加了一个 regkey，允许客户在 IDataObject 操作（例如，拖放、剪贴板）中禁用附件的 filetime 包含。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。  REG_DWORD IncludeFileTimesInDataObject。  0 = filetimes 被排除。  1 = （默认）包含 filetime。
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。  REG_DWORD IncludeFileTimesInDataObject。  0 = filetimes 被排除。  1 = （默认）包含 filetime。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -2086,6 +2119,7 @@ ms.locfileid: "50455768"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|生产| |16.0.13801.20294|版本-2102-3-09|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20448|2101 版 2 月 16 日|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20380|2101 版 2 月 09 日|)
@@ -2095,5 +2129,4 @@ ms.locfileid: "50455768"
 [//]: # (|Win32|CC|生产| |16.0.13530.20316|2012 版 1 月 5 日|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20404|2011 年 12 月 21 日版|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20332|2011 年 12 月 8 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13426.20308|2011 年 12 月 2 日版|)
 [//]: # (不修改管理中心元数据内容结束)
