@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595566"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735187"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -122,6 +122,8 @@ ms.locfileid: "50595566"
 
 - **所有联机会议：** 更新日历设置，确保在创建每个会议时都默认创建 Teams 会议，从而无需再记住单击“Teams 会议”选项。
 
+- **新的会议室查找器：** 根据不同功能搜索会议室。
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
@@ -129,6 +131,10 @@ ms.locfileid: "50595566"
 - **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
 
 - **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="visio"></a>Visio
+
+- **新 Azure 图案和形状：** 我们添加了很多图案，以帮助创建最新的 Azure 图表。 [了解详细信息](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
@@ -241,6 +247,7 @@ ms.locfileid: "50595566"
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **视频库：** 通过应用内所提供的免版税视频素材库来提升你的文档。
@@ -348,6 +355,11 @@ ms.locfileid: "50595566"
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2010-january-12"></a>版本 2010：1 月 12 日
+*版本2010（内部版本13328.20550）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 列出安全更新
 
 ## <a name="version-2010-december-08"></a>版本 2010：12 月 8 日
 *版本 2010（内部版本 13328.20478）*
@@ -656,6 +668,8 @@ ms.locfileid: "50595566"
 - **建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。 [了解更多](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。 [了解更多](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **在 Excel 中制作优美的 Visio 图表：** 通过将数据置于工作表上来创建流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 Office 365 专业增强版半年频道发行的发行说明
-ms.openlocfilehash: 9947b1ffc822b5f9fd578bb991cb1b5898c2a560
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: ac826a441d961f8215a9d6f088fe7e5429ff8425
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760715"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735206"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的已存档发行说明
 
@@ -719,7 +719,8 @@ ms.locfileid: "49760715"
 
 ### <a name="office-suite-security-update"></a>Office 套件：安全更新
 
-- **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和 [此处](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)了解详细信息。
+- 
+  **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)了解详细信息。
  
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 - 修复了在某些场景中导致更新安装所用时间过长的问题。
@@ -1600,7 +1601,7 @@ ms.locfileid: "49760715"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-8696)：Microsoft 图形组件远程代码执行
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
--   添加对话框，解释当阻止特定端口或 IP 未列入白名单时，用户为何无法加入某个会议。
+-   添加对话框，解释当阻止特定端口或不允许特定 IP 时，用户为何无法加入某个会议。
 -   修复了在单击即时消息对话标签页时，持久聊天室中的未读消息会标记为已读的问题。
 -   修复了传入即时消息 Toast 发生数秒钟延迟的问题。
 -   修复了当禁用与 Exchange 同步时，AD 联系人显示为电话号码，而非联系人姓名的问题。

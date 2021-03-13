@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 95b197a91dda728899ddebc6825fcd042180e805
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: f6d99e8a1f14403d96f481db795362c56448c8bc
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595646"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735157"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -88,7 +88,8 @@ ms.locfileid: "50595646"
 
 - **更新联系人列表视图：** 联系人列表现在显示电子邮件地址以及更新的照片和文字大小。
 
-- **使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！ 在邮件中，右键单击以翻译特定字词、短语或整个邮件。 [了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+- **使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！ 现可在 Outlook 中使用智能翻译工具。 当你收到一封其他语言的邮件时，邮件顶部将显示一条提示，询问你是否希望 Outlook 将其翻译成默认语言。
+也可以右键单击以翻译特定字词、短语或整封邮件。 [了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -344,9 +345,15 @@ ms.locfileid: "50595646"
 
 - **云端的 Outlook 设置：** 选择 Outlook for Windows 设置（如“自动答复”、“重点收件箱”和“隐私”），然后在任何电脑上进行访问。
 
+- **新的会议室查找器：** 根据不同功能搜索会议室。
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **使用演示者指导排练演示文稿** 在有助于保持受众参与度的事情上获得反馈，比如节奏、音调、填充词、敏感短语等等。 [了解详细信息](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+### <a name="visio"></a>Visio
+
+- **新 Azure 图案和形状：** 我们添加了很多图案，以帮助创建最新的 Azure 图表。 [了解详细信息](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -964,6 +971,8 @@ ms.locfileid: "50595646"
 ### <a name="excel"></a>Excel
 
 - **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。 我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
+
+- **在 Excel 中制作优美的 Visio 图表：** 通过将数据置于工作表上来创建流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
