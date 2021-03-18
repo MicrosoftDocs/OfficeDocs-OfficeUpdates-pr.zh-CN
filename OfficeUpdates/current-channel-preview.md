@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: f2b162d7f9195efb4ad58d37ce15642307b5696b
+ms.sourcegitcommit: f17a5deca413fadd5cd18bca76e9d4e740715a07
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741635"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50829226"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,38 @@ ms.locfileid: "50741635"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2103-march-15"></a>版本 2103：3 月 15 日
+*版本 2103（内部版本 13901.20170）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="project"></a>Project
+
+- 修复了 Visio 在关闭期间停止运行的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 修复了 Visio 在关闭期间停止运行的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2103-march-12"></a>版本 2103：3 月 12 日
+*版本 2103（内部版本 13901.20148）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **外出状态** 设置信息让他人知道你不在工作或正在休假，因此他们发聊天消息给你的时候你无法回复。 你的外出状态也会和Outlook 日历中的自动答复同步。
+
+[//]: # (请勿移除)
+
 
 ## <a name="version-2103-march-11"></a>版本 2103：3 月 11 日
 *版本 2103（内部版本 13901.20148）*
@@ -3016,13 +3048,13 @@ ms.locfileid: "50741635"
 
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。  [了解更多](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。  [了解详细信息](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
