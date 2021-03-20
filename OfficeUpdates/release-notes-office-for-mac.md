@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d62ae78e877444b44b16b7107a1417ad2c68b286
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837520"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902188"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -68,7 +68,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 - **使用 Excel 数据类型从 Power BI 获取组织数据：** 你可以使用 Excel 数据类型插入组织数据。 转换工作簿的单元格，得到更多信息，然后随时更新你的数据！
 
-### <a name="powerpoint-mac"></a>PowerPoint Mac
+### <a name="powerpoint"></a>PowerPoint
 
 - **使用改进后的录制幻灯片演示录制你的演讲：** 录制幻灯片演示现支持演讲者视频录制，墨迹录制和激光笔录制。<br />在[博客文章](https://insider.office.com/zh-CN/blog/record-slide-show-updates-powerpoint-mac)中查看详细信息
 
@@ -107,7 +107,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="outlook"></a>Outlook
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解详细信息](https://docs.microsoft.com/zh-CN/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/zh-CN/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -151,19 +151,19 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解详细信息](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="outlook"></a>Outlook
 
-- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解详细信息](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解详细信息](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="word"></a>Word
 
-- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解详细信息](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -266,7 +266,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 - **在 Excel 中制作精美的 Visio 图表：** 在工作表中使用数据创建数据驱动的图表，例如流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- **使工作簿更加生动有趣：** 通过高质量的免费库存图像、图标和贴纸，为电子表格提供更多的风格。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **使工作簿更加生动有趣：** 通过高质量的免费库存图像、图标和贴纸，为电子表格提供更多的风格。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="outlook"></a>Outlook
 
@@ -282,7 +282,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="word"></a>Word
 
-- **使文档更加生动有趣：** 通过高质量的免费库存图像、图标和贴纸，为文档提供更多的风格。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **使文档更加生动有趣：** 通过高质量的免费库存图像、图标和贴纸，为文档提供更多的风格。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -333,7 +333,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 [//]: # (请勿移除安全详细信息内容结尾)
 
-## <a name="august-11-2020"></a>2020 年 8 月 11 日
+## <a name="august-11-2020"></a>2020年8月11日
 *版本16.40（内部版本 2008 1000）*
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -488,7 +488,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="word"></a>Word
 
-- **无需键入，解放双手：** 有麦克风？ 单击“听写”，即可看到 Word 随着你说话而键入文字。 [了解详细信息](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />在[博客文章](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)中查看详细信息
+- **无需键入，解放双手：** 有麦克风？ 单击“听写”，即可看到 Word 随着你说话而键入文字。 [了解更多](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />在[博客文章](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)中查看详细信息
 
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解详细信息](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[博客文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看详细信息
@@ -607,7 +607,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解详细信息](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 ### <a name="word"></a>Word
 

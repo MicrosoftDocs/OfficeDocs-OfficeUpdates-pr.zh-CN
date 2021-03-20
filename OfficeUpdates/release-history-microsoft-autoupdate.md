@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421367"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902191"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,6 +29,22 @@ ms.locfileid: "50421367"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2021-release"></a>2021 年 3 月版本
+
+**发布日期：2021** 3 月 17 日
+
+*Microsoft 自动更新 4.33*
+
+**Bug 修复和增强功能：**
+- MAU 检查更新时，MAU GUI 上的"检查"按钮现已禁用。
+- "更新已在进行中"提示现在包含其他信息。
+- MAU UI 在下载更新时显示正确的更新大小。
+- MAU 现可安装在具有 M1 且不带 Rose客户端的 macOS 设备上。
+
+[下载 Microsoft AutoUpdate 4.33 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
 
 ## <a name="february-2021-release"></a>2021 年 2 月版本
 
@@ -55,7 +71,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 *Microsoft AutoUpdate 4.31*
 
 **Bug 修复和增强功能：**
-- 对于没有自动更新的设备，Microsoft AutoUpdate 现将通过通知而不是打开 MAU UI 告知新的更新。
+- 对于没有自动更新的设备，Microsoft AutoUpdate 现将通知新更新，而不是打开 MAU UI。
 
 [下载 Microsoft AutoUpdate 4.31 包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
 <br/>
@@ -133,7 +149,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 *Microsoft AutoUpdate 4.27*
 
 **Bug 修复和增强功能：**
--   即使未达到常规检查周期，MAU 更新助手现在也会在锁定的屏幕后启动更新。
+-   MAU 更新助手现将在锁定屏幕后启动更新，即使未达到常规检查周期。
 
 **MAU 更新链接：**
 
@@ -178,8 +194,8 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 **Bug 修复和增强功能：**
 - 检测应用终止并自动删除显示的与“打开应用”相关的对话框。
 - 恢复了四月发布的版本中引入的功能，其中，关闭了自动更新的用户每周只能看到一次 Microsoft AutoUpdate UI。
-- 修复了下载更新后，更新助手在安装开始之前终止的问题。
-- 修复了用户通知挂起时，更新助手长时间未终止的问题。
+- 修复了下载更新后安装前更新助手意外关闭的问题。
+- 解决了待定用户通知的最长持续时间后更新助手未关闭的问题。
 - 修复了 MAU UI 在安装后重新打开（或未打开）的问题。 如果从 MAU UI 本身启动更新，或者如果用户显式启动了更新（通过 Finder、终端等），则 UI 将在安装后打开。
 
 **SHA-256 哈希：**
@@ -405,7 +421,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
  **功能更新：**
 
-- 二进制增量更新：SSD 设备可采用较小的更新，从而减少由于更新导致的带宽消耗。
+- 二进制增量更新：通过减少因更新而减少带宽消耗的较小更新，可用于 SSD 设备。
 - 支持配件应用：MAU 现支持 Microsoft OneDrive 等配件应用。
 - “克隆安装”增强功能：克隆更新现在变得更加可靠。
 
@@ -440,7 +456,7 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 
  **功能更新：**
 
-- “克隆安装”增强功能： 对于 SSD 设备，将在当前使用的应用的克隆上推出更新，从而缩短因更新导致的应用故障时间。
+- "安装克隆功能增强功能"：对于 SSD 设备，为使用中的应用推出更新，这样做可缩短更新后的应用停机时间。
 - 安装优化：更新过程将使用并行化克隆，从而缩短应用故障时间。
 
 **SHA-256 哈希：**
