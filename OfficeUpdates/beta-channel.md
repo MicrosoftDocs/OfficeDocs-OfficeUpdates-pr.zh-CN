@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
-ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
+ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50756258"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902137"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,36 @@ ms.locfileid: "50756258"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2104-march-19"></a>版本 2104：3 月 19 日
+*版本 2104（内部版本 13913.20000）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 此更改修复了在某些情况下，运行 SQL Server 通过查询可能会导致错误消息表明存在"光标状态无效"的问题。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了一个问题，阻止在受保护的工作表上粘贴为公式。
+
+
+### <a name="project"></a>项目
+
+- 解决了日期格式为 W4/4 时，日期选取器可能显示日期和年份错误的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了在 Office 中支持 GDI+ LineJoinMiterC你的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2104-march-12"></a>版本 2104：3 月 12 日
 *版本 2104 (内部版本 13906.20000)*
@@ -2706,6 +2736,7 @@ ms.locfileid: "50756258"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
@@ -2715,5 +2746,4 @@ ms.locfileid: "50756258"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (不修改管理中心元数据内容结束)

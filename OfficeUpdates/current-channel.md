@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: f6d99e8a1f14403d96f481db795362c56448c8bc
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735157"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902167"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -32,6 +32,42 @@ ms.locfileid: "50735157"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2102-march-18"></a>版本 2102：3 月 18 日
+*版本 2102（内部版本 13801.20360）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 此更改修复了在某些情况下，运行 SQL Server 通过查询可能会导致错误消息表明存在"光标状态无效"的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致云设置功能用户在新设备上配置 Outlook 后会看到默认设置覆盖自定义设置的问题。
+
+
+- 修复了导致用户看到签名超过预期的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了在隐藏段落末尾键入时可能导致应用程序挂起的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+
+- 解决了用户在打开以前打开的文件时无法保存文件（其中未保存编辑，但现在文件已删除）的问题。 修复后，用户收到友好消息，告知用户文件已删除，因此用户可选择放弃更改或另存为文件。
+
+
+- 修复了与会话 0 中运行的 Office 应用支持相关的可靠性问题。
 
 
 
@@ -2128,6 +2164,7 @@ ms.locfileid: "50735157"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|产品| |.16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20294|版本-2102-3-09|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20448|2101 版 2 月 16 日|)
@@ -2137,5 +2174,4 @@ ms.locfileid: "50735157"
 [//]: # (|Win32|CC|生产| |16.0.13530.20376|版本-2012年1月12日|)
 [//]: # (|Win32|CC|生产| |16.0.13530.20316|2012 版 1 月 5 日|)
 [//]: # (|Win32|CC|生产| |16.0.13426.20404|2011 年 12 月 21 日版|)
-[//]: # (|Win32|CC|生产| |16.0.13426.20332|2011 年 12 月 8 日版|)
 [//]: # (不修改管理中心元数据内容结束)
