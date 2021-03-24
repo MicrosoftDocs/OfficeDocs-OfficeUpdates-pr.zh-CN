@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: 8d3541747f9a650c1cb45121dcfcaac6dbabc53f
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a5ff9d2142b1aefb64f40ad4a775ef4cf07919b4
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595536"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169731"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -32,11 +32,11 @@ Outlook 与 Microsoft 365 和本地环境的兼容性取决于部署的系统要
     
 - 对于 Exchange 本地部署，请按照 Outlook 版本的系统要求操作：
     
-  - [Exchange 2016 系统要求](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
+  - [Exchange 2016 系统要求](/Exchange/plan-and-deploy/system-requirements)
     
-  - [Exchange 2013 系统要求](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
+  - [Exchange 2013 系统要求](/exchange/exchange-2013-system-requirements-exchange-2013-help)
     
-  - [Exchange 2010 系统要求](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
+  - [Exchange 2010 系统要求](/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Outlook 2016 更新
@@ -53,10 +53,8 @@ Outlook 与 Microsoft 365 和本地环境的兼容性取决于部署的系统要
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新
 > [!IMPORTANT]
-> 于 2020 年 10 月 13 日终止对 Office 2010 的支持。 如果尚未开始升级 Office 2010 环境，建议立即开始。 有关详细信息，请参阅 [Office 2010 的停止提供支持路线图](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。
+> 于 2020 年 10 月 13 日终止对 Office 2010 的支持。 如果尚未开始升级 Office 2010 环境，建议立即开始。 有关详细信息，请参阅 [Office 2010 的停止提供支持路线图](/DeployOffice/office-2010-end-support-roadmap)。
 
 |**最新 Service Pack (SP)**|**所需的最低更新**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|
 |SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 5 日公开更新 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月公开更新 <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020 年 12 月公开更新 <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
-   
-

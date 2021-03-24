@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在一个位置集中查找和管理 SharePoint Server 2016、SharePoint 2013 和 SharePoint 2010 更新。单击此页面上的链接可以获取这些更新的详细信息，并下载它们。
-ms.openlocfilehash: e9187ff0773046586409e63904b3be303dc4f222
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: ebcdf333a3c9a8cd934508a51159eaa7cb2a278c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595666"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170241"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -323,20 +323,20 @@ ms.locfileid: "50595666"
 - 结合使用 Windows Server AppFabric 和 SharePoint
   
   - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
-  - [有关结合使用 AppFabric 和 SharePoint 的重要概念](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
-  - [AppFabric 更新](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
+  - [有关结合使用 AppFabric 和 SharePoint 的重要概念](/archive/blogs/besidethepoint/appfabric-caching-and-sharepoint-concepts-and-examples-part-1)
+  - [AppFabric 更新](/archive/blogs/distributedservices/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages)
   
 - 结合使用 Workflow Management 和 SharePoint 
   
-  - [安装和配置 SharePoint Server 的工作流](https://docs.microsoft.com/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
-  - [Workflow Manager 更新](https://blogs.msdn.microsoft.com/workflowteam/)
+  - [安装和配置 SharePoint Server 的工作流](/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
+  - [Workflow Manager 更新](/archive/blogs/workflowteam/)
    
 
 ## <a name="related-topics"></a>相关主题
 
-- [安装 SharePoint Server 2019 的软件更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
-- [安装 SharePoint Server 2016 的软件更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
-- [SharePoint Server 2013 的软件更新概述](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
-- [准备部署 SharePoint Server 2013 的软件更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
-- [Exchange Server 更新](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+- [安装 SharePoint Server 2019 的软件更新](/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [安装 SharePoint Server 2016 的软件更新](/SharePoint/upgrade-and-update/install-a-software-update)
+- [SharePoint Server 2013 的软件更新概述](/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
+- [准备部署 SharePoint Server 2013 的软件更新](/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
+- [Exchange Server 更新](/Exchange/new-features/build-numbers-and-release-dates)
 - [Project Server 更新程序](project-server-updates.md)

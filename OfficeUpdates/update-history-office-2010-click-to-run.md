@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人员提供使用即点即用的 Office 2010 永久版本的更新历史记录
-ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: c99f3b4602deb5c72cea8b5b813101ef5af5f86a
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989931"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170191"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 即点即用产品的更新历史记录
 
 > [!IMPORTANT]
-> 对 Office 2010 的支持于2020年10月13日结束。 如果尚未开始升级 Office 2010 环境，建议立即开始。 有关详细信息，请参阅 [Office 2010 的停止提供支持路线图](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。 
+> 于 2020 年 10 月 13 日终止对 Office 2010 的支持。 如果尚未开始升级 Office 2010 环境，建议立即开始。 有关详细信息，请参阅 [Office 2010 的停止提供支持路线图](/DeployOffice/office-2010-end-support-roadmap)。 
 
 
 通过使用一种名为即点即用的技术，以下 Office 2010 产品自动保持最新。
@@ -33,15 +33,15 @@ ms.locfileid: "48989931"
 如果要使用这些产品之一，并且想要验证你拥有最新版本，请检查 Office 版本号，并在必要时手动更新 Office。
   
 > [!NOTE]
-> Office 2010 的最新版本是 **14.0.7261.5000** ，在10月13日发布了2020。
+> Office 2010 的最新版本是 2020 年 10 月 13 日发布的 **14.0.7261.5000。**
   
 若要检查你的 Office 版本，请执行下列操作：
   
 1. 打开任意 Office 2010 应用程序，如 Word 或 Excel。
     
-2. 选择“ **文件** ” > “ **帮助** ”。
+2. 选择“**文件**” > “**帮助**”。
     
-3. 记住在“ **即点即用产品更新** ”下列出的版本号。
+3. 记住在“**即点即用产品更新**”下列出的版本号。
     
     如果版本号匹配最新版本，则为最新版本。 如果不匹配，则可以手动更新以获取最新版本的 Office 2010。 若要更新 Office，[请按以下步骤操作](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
     
@@ -67,7 +67,7 @@ ms.locfileid: "48989931"
 ||3 月 11 日  <br/> |14.0.7247.5000  <br/> |[KB 4538705 ](https://support.microsoft.com/help/4538705 ) <br/> |
 ||2 月 11 日  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
 ||1 月 14 日  <br/> |14.0.7244.5000  <br/> |[KB 4536554](https://support.microsoft.com/help/4536554) <br/> |
-|2019|12 月 10 日  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
+|2019 年|12 月 10 日  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
 ||11 月 12 日  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/help/4527848) <br/> |
 ||10 月 8 日  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/help/4522242) <br/> |
 ||9 月 10 日  <br/> |14.0.7237.5000  <br/> |[KB 4517986](https://support.microsoft.com/help/4517986) <br/> |
@@ -79,7 +79,7 @@ ms.locfileid: "48989931"
 ||3 月 12 日  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/help/4491754) <br/> |
 ||2 月 15 日  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/help/4488446) <br/> |
 ||1 月 8 日  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/help/4484800) <br/> |
-|2018|11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/help/4469617) <br/> |
+|2018 年|11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/help/4469617) <br/> |
 ||10 月 9 日  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/help/4464656) <br/> |
 | |9 月 11 日  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/help/4459402) <br/> |
 ||8 月 14 日  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/help/4346823) <br/> |
@@ -132,9 +132,9 @@ ms.locfileid: "48989931"
 ||4 月 8 日  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||2 月 12 日  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |5 月 14 日  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |10 月 9 日  <br/> |14.0.6126.5003  <br/> |[Microsoft 安全公告 MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Microsoft 安全公告 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Office 2010 的定义更新  <br/> |
+|2012  <br/> |10 月 9 日  <br/> |14.0.6126.5003  <br/> |[Microsoft 安全公告 MS12-064](/security-updates/SecurityBulletins/2012/ms12-064) <br/> [Microsoft 安全公告 MS12-066](/security-updates/SecurityBulletins/2012/ms12-066) <br/> Office 2010 的定义更新  <br/> |
 ||3 月 13 日  <br/> |14.0.6117.5002  <br/> |Office 2010 的定义更新  <br/> |
-|2011  <br/> |12 月 13 日  <br/> |14.0.6114.5002  <br/> |[Microsoft 安全公告 MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 垃圾邮件筛选器更新  <br/> |
+|2011  <br/> |12 月 13 日  <br/> |14.0.6114.5002  <br/> |[Microsoft 安全公告 MS11-089](/security-updates/SecurityBulletins/2011/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 垃圾邮件筛选器更新  <br/> |
 ||4 月 12 日  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Office 2010 的定义更新  <br/> |
 ||2 月 9 日  <br/> |14.0.5130.5004  <br/> |Office 2010 的定义更新  <br/> |
 |2010  <br/> |12 月 14 日  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Office 2010 的定义更新  <br/> |
@@ -147,5 +147,3 @@ ms.locfileid: "48989931"
 |2009  <br/> |12 月 8 日  <br/> |14.0.4541.1000 (Beta)  <br/> |这是 beta 版本的 Office 2010。  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
 ||11 月 18 日  <br/> |14.0.4536.1000  <br/> |这是 beta 版本的 Office 2010。  <br/> |
    
-  
-

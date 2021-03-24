@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新信息的链接
-ms.openlocfilehash: 39d497c714588d5ca31e8c4fbf8e3157545b4e90
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a0bc255deaf46ffab63899468deaab9289689d47
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595496"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169691"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新更新
 
@@ -41,7 +41,7 @@ ms.locfileid: "50595496"
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 > [!IMPORTANT]
-> 于 2020 年 10 月 13 日终止对 Office 2010 的支持。 如果尚未开始升级 Office 2010 环境，建议立即开始。 有关详细信息，请参阅 [Office 2010 的停止提供支持路线图](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。 
+> 于 2020 年 10 月 13 日终止对 Office 2010 的支持。 如果尚未开始升级 Office 2010 环境，建议立即开始。 有关详细信息，请参阅 [Office 2010 的停止提供支持路线图](/DeployOffice/office-2010-end-support-roadmap)。 
 
 |**版本和产品**|**最新 Service Pack (SP)**|**最新公开更新 (PU)**|
 |:-----|:-----|:-----|:-----|
