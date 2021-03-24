@@ -48,14 +48,14 @@
 ## [Office 非安全更新 (MSI)](office-MSI-non-security-updates.md)
 ## [Office 2016 .msp 文件 (MSI)](msp-files-office-2016.md)
 ## [Office 2013 .msp 文件 (MSI)](msp-files-office-2013.md)
-## [Skype for Business 更新 (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
+## [Skype for Business 更新 (MSI)](/SkypeForBusiness/sfb-client-updates)
 
 # Office Server 产品
-## [Exchange Server 更新](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+## [Exchange Server 更新](/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server 更新](project-server-updates.md)
 ## [SharePoint 更新](sharepoint-updates.md)
-## [Skype for Business Server 更新](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
+## [Skype for Business Server 更新](/SkypeForBusiness/sfb-server-updates)
 
 # 相关链接
-## [Windows 10 版本](https://aka.ms/windows/releaseinfo)
+## [Windows 10 版本](/windows/release-health/release-information)
 ## [Microsoft 生命周期策略](https://support.microsoft.com/lifecycle)
