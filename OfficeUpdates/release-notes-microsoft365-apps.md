@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供 Microsoft 365 应用版最新版本列表，其中包含各更新通道和发行说明链接以及更新历史记录
-ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: a3122186a3b7e78b58437532b2d89bf99b8f0b61
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780670"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170141"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新发行信息
 
 
 > [!IMPORTANT]
-> 自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+> 自版本 2004 起，Office 365 专业增强版现在更名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](/deployoffice/name-change)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 应用版发行版的安全更新
@@ -64,12 +64,12 @@ ms.locfileid: "49780670"
 
 ## <a name="related-topics"></a>相关主题
 
-- [Microsoft 365 应用版更新通道概述](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 部署](https://docs.microsoft.com/deployoffice/)
+- [Microsoft 365 应用版更新通道概述](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 部署](/deployoffice/)
 - [Microsoft 365 应用版中有哪些新增功能？](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 应用版路线图](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 365 应用版消息中心的概述](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 发行信息](https://aka.ms/windows/releaseinfo)
+- [Windows 10 发行信息](/windows/release-health/release-information)
 - [Microsoft 安全更新指南](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902191"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169711"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -262,7 +262,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - 使用 SSD 的 macOS 计算机将体验到更快的更新，并可忽略因更新导致的应用故障时间。
 
 
-参见 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-0984)
+参见 [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **SHA-256 哈希：**
 
@@ -393,7 +393,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **功能更新：**
 
 - MAU 隐私权变更：所需的数据收集通知将作为合规性的一部分向最终用户显示。
-- MAU 更新截止日期：Mac 管理员现在可以在 MAU 中设置截止日期，从而跨其 Mac 用户强制执行更新。 [了解更多](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- MAU 更新截止日期：Mac 管理员现在可以在 MAU 中设置截止日期，从而跨其 Mac 用户强制执行更新。 [了解更多](/deployoffice/mac/mau-deadline)
 - 各种 Bug 和性能修补程序。
 
 **SHA-256 哈希：**
@@ -440,7 +440,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **功能更新：**
 
 - MAU 隐私权变更：所需的数据收集通知将作为合规性的一部分向最终用户显示。
-- MAU 更新截止日期：Mac 管理员现在可以在 MAU 中设置截止日期，从而跨其 Mac 用户强制执行更新。 [了解更多](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- MAU 更新截止日期：Mac 管理员现在可以在 MAU 中设置截止日期，从而跨其 Mac 用户强制执行更新。 [了解更多](/deployoffice/mac/mau-deadline)
 - 各种 Bug 和性能修补程序。
 
 **SHA-256 哈希：**
@@ -512,4 +512,4 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 ## <a name="related-articles"></a>相关文章
 
 - [Office for Mac 更新历史记录](update-history-office-for-mac.md)
-- [Office for Mac 发行说明](release-notes-office-for-mac.md) 
+- [Office for Mac 发行说明](release-notes-office-for-mac.md)

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735187"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169721"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用的订阅版本的 2020 年每月 Enterprise 频道更新中。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 [//]: # (请勿移除)
 
@@ -30,7 +30,7 @@ ms.locfileid: "50735187"
 ## <a name="version-2101-march-09"></a>版本 2101：3 月 9 日
 *版本 2101（内部版本 13628.20528）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -89,12 +89,12 @@ ms.locfileid: "50735187"
 ## <a name="version-2012-march-09"></a>版本 2012：3 月 9 日
 *版本 2012（内部版本 13530.20628）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 列出安全更新
+[此处](./microsoft365-apps-security-updates.md) 列出安全更新
 
 ## <a name="version-2012-february-09"></a>版本 2012：2 月 09 日
 *版本 2012（内部版本 13530.20528）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -106,7 +106,7 @@ ms.locfileid: "50735187"
 
 - **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -118,7 +118,7 @@ ms.locfileid: "50735187"
 
 - **所有联机会议：** 更新日历设置，确保在创建每个会议时都默认创建 Teams 会议，从而无需再记住单击“Teams 会议”选项。
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 - **所有联机会议：** 更新日历设置，确保在创建每个会议时都默认创建 Teams 会议，从而无需再记住单击“Teams 会议”选项。
 
@@ -126,11 +126,11 @@ ms.locfileid: "50735187"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
 
 - **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="visio"></a>Visio
 
@@ -142,7 +142,7 @@ ms.locfileid: "50735187"
 
 - **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -214,12 +214,12 @@ ms.locfileid: "50735187"
 ## <a name="version-2011-february-09"></a>版本 2011：2 月 09 日
 *版本 2011（内部版本 13426.20658）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-2011-january-12"></a>版本2011：1月12日
 *版本2011（内部版本13426.20526）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -359,12 +359,12 @@ ms.locfileid: "50735187"
 ## <a name="version-2010-january-12"></a>版本 2010：1 月 12 日
 *版本2010（内部版本13328.20550）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 列出安全更新
+[此处](./microsoft365-apps-security-updates.md) 列出安全更新
 
 ## <a name="version-2010-december-08"></a>版本 2010：12 月 8 日
 *版本 2010（内部版本 13328.20478）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -384,7 +384,7 @@ ms.locfileid: "50735187"
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -483,12 +483,12 @@ ms.locfileid: "50735187"
 ## <a name="version-2009-december-08"></a>版本 2009：12 月 8 日
 *版本 2009（内部版本 13231.20620）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-2009-november-10"></a>版本 2009：9 月 10 日
 *版本 2009（内部版本 13231.20514）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -581,7 +581,7 @@ ms.locfileid: "50735187"
 ## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
 *版本 2008（内部版本 13127.20760）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -629,7 +629,7 @@ ms.locfileid: "50735187"
 - 解决了导致用户无法向其代理授予编辑器权限的问题。
 
 
-- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -653,7 +653,7 @@ ms.locfileid: "50735187"
 ## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
 *版本 2008（内部版本 13127.20638）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -842,7 +842,7 @@ ms.locfileid: "50735187"
 ## <a name="version-2007-october-13"></a>版本 2007：10 月 13 日
 *版本 2007（内部版本 13029.20708）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -859,7 +859,7 @@ ms.locfileid: "50735187"
 ## <a name="version-2007-september-08"></a>版本 2007：9 月 8 日
 *版本 2007（内部版本 13029.20534）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -968,12 +968,12 @@ ms.locfileid: "50735187"
 ## <a name="version-2006-september-08"></a>版本 2006：9 月 8 日
 *版本 2006（内部版本 13001.20648）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-2006-august-11"></a>版本2006:8月11日
 *版本 2006（内部版本13001.20520）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -1076,12 +1076,12 @@ ms.locfileid: "50735187"
 ## <a name="version-2005-august-11"></a>版本2005:8月11日
 *版本 2005（内部版本 12827.20656）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-2005-july-14"></a>版本 2005：7 月 14 日
 *版本 2005（内部版本 12827.20538）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -1179,12 +1179,12 @@ ms.locfileid: "50735187"
 ## <a name="version-2004-july-14"></a>版本 2004：7 月 14 日
 *版本 2004（内部版本 12730.20602）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-2004-june-09"></a>版本 2004：6 月 9 日
 版本 2004（内部版本 12730.20430）
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -1289,7 +1289,7 @@ ms.locfileid: "50735187"
 ## <a name="version-2003-june-09"></a>版本 2003：6 月 9 日
 *版本 2003（内部版本 12624.20708）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1304,7 +1304,7 @@ ms.locfileid: "50735187"
 ## <a name="version-2003-may-12"></a>版本 2003：5 月 12 日
 *版本 2003（内部版本 12624.20588）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)

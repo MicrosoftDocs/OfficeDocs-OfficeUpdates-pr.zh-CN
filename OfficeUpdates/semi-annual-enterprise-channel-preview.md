@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: d6ea5c4806d3c330611aada74259db7dc19e9c11
-ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
+ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50603012"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170211"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
 我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了半年企业频道（预览）更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 
 ## <a name="version-2102-march-09"></a>版本 2102：3 月 9 日
 *版本 2102（内部版本 13801.20294）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -45,7 +45,7 @@ ms.locfileid: "50603012"
 
 - **使用数据类型从 Power BI 获取组织数据：Power BI 中的** Excel 数据类型现向具有 Office 365/Microsoft 365 和 Power BI Pro 服务计划的组织的预览体验成员推出。 获取所需信息并轻松刷新，这对许多日常工作流至关重要。 我们将为你提供从 Power BI 到 Excel 中的数据类型的公司或组织信息的访问权限，这将扩大你在电子表格中引入链接信息的能力。 [了解更多](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **在 Excel 中制作精美的 Visio 图表：** 根据工作表中的数据创建数据驱动的图表，例如流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -57,21 +57,21 @@ ms.locfileid: "50603012"
 
 - **在 Outlook 中使用快速投票创建投票：** 轻松创建投票、收集选票和在电子邮件中查看结果 [了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **新的会议室查找器：** 根据不同功能搜索会议室。
 
 - **按照你说的方式搜索目标：** 使用日常语言（如“上周预约的兽医”）来筛选和缩小搜索范围。
 
-- **从上一个 Outlook 会话快速重新打开项目的选项：** 我们添加了一个选项，可以从上一个 Outlook 会话快速重新打开项目。<br />在[博客文章](https://insider.office.com/zh-CN/blog/automatically-restore-windows-in-outlook)中查看详细信息
+- **从上一个 Outlook 会话快速重新打开项目的选项：** 我们添加了一个选项，可以从上一个 Outlook 会话快速重新打开项目。<br />在[博客文章](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **墨迹工具箱中的“套索和橡皮擦”：** 使用绘图工具时，现在“墨迹工具箱”中可以提供“套索” 和“橡皮擦”了。<br />在 [博客文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/) 中查看详细信息
+- **墨迹工具箱中的“套索和橡皮擦”：** 使用绘图工具时，现在“墨迹工具箱”中可以提供“套索” 和“橡皮擦”了。<br />在[博客文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看详细信息
 
 - **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。  我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="visio"></a>Visio
 
@@ -85,7 +85,7 @@ ms.locfileid: "50603012"
 
 - **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。  我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -409,7 +409,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2008-february-09"></a>版本 2008：2 月 09 日
 *版本 2008（内部版本 13127.21216）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -470,7 +470,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2008-january-12"></a>版本2008：1月12日
 *版本2008（内部版本13127.21064）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -542,7 +542,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2008-december-08"></a>版本 2008：12 月 8 日
 *版本 2008（内部版本 13127.20910）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -643,7 +643,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
 *版本 2008（内部版本 13127.20760）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -691,7 +691,7 @@ ms.locfileid: "50603012"
 
 - 解决了导致在答复或转发时中文电子邮件的标题出现乱码的问题。
 
-- 解决了可选的连接体验阻止加载 Web 加载项的问题。  <br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。  <br />在[博客文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -712,7 +712,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
 *版本 2008（内部版本 13127.20638）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -791,7 +791,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2008-september-08"></a>版本 2008：9 月 8 日
 *版本 2008（内部版本 13127.20408）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -829,7 +829,7 @@ ms.locfileid: "50603012"
 
 - **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。 [了解更多](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/zh-CN/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
 
 - **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解更多](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1137,7 +1137,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2002-august-11"></a>版本2002:8月11日
 *版本2002（内部版本12527.20988）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1174,7 +1174,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2002-july-14"></a>版本 2002: 7 月 14 日
 *版本 2002（内部版本 12527.20880）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1245,7 +1245,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2002-june-09"></a>版本 2002：6 月 9 日
 *版本 2002（内部版本 12527.20720）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1295,7 +1295,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2002-may-12"></a>版本 2002：5 月 12 日
 *版本 2002（内部版本 12527.20612）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出了安全更新
+[此处](./microsoft365-apps-security-updates.md)列出了安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1389,7 +1389,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2002-april-14"></a>版本 2002：4 月 14 日
 *版本 2002（内部版本 12527.20442）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 ### <a name="feature-updates"></a>功能更新
@@ -1397,8 +1397,7 @@ ms.locfileid: "50603012"
 
 - **键入可返回多个值的公式：** 现可键入返回多个值的公式，它们将自动溢出到相邻的单元格中。 [了解详细信息](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **6 个强大的函数：** 我们添加了六个新函数来增强你的电子表格：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。  [了解详细信息](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。  
-  [了解更多](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **向左看，向右看… XLOOKUP 在此！** 使用 XLOOKUP 在表或区域中逐行查找所需内容。  [了解更多](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -1458,7 +1457,7 @@ ms.locfileid: "50603012"
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002（生成号 12527.20278）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -1770,7 +1769,7 @@ ms.locfileid: "50603012"
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908（内部版本 11929.20606）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1838,7 +1837,7 @@ ms.locfileid: "50603012"
 ## <a name="version-1908-january-14"></a>版本 1908：1 月 14 日
 *版本 1908（内部版本 11929.20562）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)

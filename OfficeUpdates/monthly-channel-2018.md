@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2018 年 Office 365 专业增强版每月频道发行的发行说明
-ms.openlocfilehash: bcf8417d7dfe8796f3e67e6cf1950320e5c9019a
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: d4cca950f63a31f9f57583c62781893bf6e6fbf3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369890"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169781"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>有关 2018 年每月频道发行的发行说明
 
@@ -426,7 +426,7 @@ ms.locfileid: "48369890"
 -   **收听电子邮件：** Outlook 可以大声读出电子邮件，并能一边朗读一边突出显示文本。[了解详细信息](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **绝不错过任何提醒：** 设置在工作窗口中弹出的提醒。如果不设置，Outlook 会在任务栏中闪烁，以引起用户注意。[了解详细信息](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **将已删除邮件标记为已读：** 现在可以将任何已删除邮件设置为已读。启用方法为，依次转到“文件”\>“选项”\>“邮件”\>“其他”。
--   **加密选项：** Office 365 邮件加密用户可以加密邮件，并将邮件发送给组织内外的任何人。创建邮件时，可以在“选项”\>“权限”下找到加密选项。[了解详细信息](https://aka.ms/omeoverview)
+-   **加密选项：** Office 365 邮件加密用户可以加密邮件，并将邮件发送给组织内外的任何人。创建邮件时，可以在“选项”\>“权限”下找到加密选项。[了解详细信息](/microsoft-365/compliance/ome)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **转换墨迹：** 获取自由曲线备注和绘图，并将它们转换为可读文本和清晰形状，以创建完善的演示文稿。[了解详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -460,7 +460,7 @@ ms.locfileid: "48369890"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
--   **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)了解详细信息。
+-   **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和 [此处](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)了解详细信息。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
 *版本 1803（内部版本 9126.2116）*
@@ -601,7 +601,7 @@ ms.locfileid: "48369890"
 -   在用于传入 PSTN 呼叫的 Toast UI 中添加呼叫转移按钮。
 -   当 ChatDefaultClient 和 CallDefaultClient 设置为“团队”时，通知用户呼叫和聊天正在发送到“团队”。
 -   当用户不在会议中时，显示用户为“脱机”状态，并禁用 Skype for Business，同时会议加入体验设置为“本地有限客户端”。
--   当 Skype for Business 最小化到通知区域时，禁用除“打开”和“退出”之外的所有选项。 
+-   当 Skype for Business 最小化到通知区域时，禁用除“打开”和“退出”之外的所有选项。 
 -   当启用与 Aries 手机和 RedirectClient 配对时，禁止新的呼叫和对话。
 -   修复了日期格式不是美国格式 (mm/dd/yy) 时，按日期在 PChat 中搜索消息失败的问题。
 -   修复了 EnableExternalP2PFileTransfer 策略设置为 false 时，用户仍然能够在会议中附加文件的问题。

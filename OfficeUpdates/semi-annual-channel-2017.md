@@ -1,5 +1,5 @@
 ---
-title: 2017中的半年频道发布的发行说明
+title: 2017 年Semi-Annual频道发行说明
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人士提供发布说明，适用于 Office 365 专业增强版的半年频道发行版2017
-ms.openlocfilehash: e98b5359a10f2a6cba7dd8539983496f95b5177a
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: 为 IT 专业人员提供有关 2017 Semi-Annual Office 365 专业增强版频道发布的发行说明
+ms.openlocfilehash: f362dc713e39ea29f9505c70c926d352e5e83281
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370160"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170061"
 ---
-# <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017中的半年频道发布的发行说明
+# <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017 年Semi-Annual频道发行说明
 
-这些发行说明提供了有关在2017中的 Office 365 专业增强版的半年频道更新中包含的新功能、安全更新和非安全更新的信息。 
+这些发行说明提供有关 2017 年 Office 365 专业增强版 Semi-Annual 频道更新中包含的新功能、安全更新和非安全更新的信息。 
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
 > - 在 2018 年 1 月前，半年频道被命名为延期频道。
 
 
-## <a name="version-1705-december-12"></a>版本1705：12月12日
+## <a name="version-1705-december-12"></a>版本 1705：12 月 12 日
 *版本 1705（内部版本 8201.2213）*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
@@ -37,10 +37,10 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1701-december-12"></a>版本1701：12月12日
+## <a name="version-1701-december-12"></a>版本 1701：12 月 12 日
 *版本 1701（内部版本 7766.2130）*
 
-*这是自2017年6月起，现已推出的延期频道版本。在2018年1月之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1705 (内部版本 8201.2213) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2017 年 6 月以来就已发布的延期频道版本。2018 年 1 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1705 (内部版本 8201.2213) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 信息泄漏漏洞
@@ -50,7 +50,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1705-november-24"></a>版本1705：11月24日
+## <a name="version-1705-november-24"></a>版本 1705：11 月 24 日
 *版本 1705（内部版本 8201.2209）*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
@@ -58,7 +58,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1705-november-14"></a>版本1705：11月14
+## <a name="version-1705-november-14"></a>版本 1705：11 月 14 日
 *版本 1705（内部版本 8201.2207）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -74,10 +74,10 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1701-november-14"></a>版本1701：11月14
+## <a name="version-1701-november-14"></a>版本 1701：11 月 14 日
 *版本 1701（内部版本 7766.2122）*
 
-*这是自2017年6月起，现已推出的延期频道版本。在2018年1月之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1705 (内部版本 8201.2207) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2017 年 6 月以来就已发布的延期频道版本。2018 年 1 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1705 (内部版本 8201.2207) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能规避漏洞
@@ -92,7 +92,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1705-october-10"></a>版本1705：10月10
+## <a name="version-1705-october-10"></a>版本 1705：10 月 10 日
 *版本 1705（内部版本 8201.2200）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -113,10 +113,10 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1701-october-10"></a>版本1701：10月10
+## <a name="version-1701-october-10"></a>版本 1701：10 月 10 日
 *版本 1701（内部版本 7766.2119）*
 
-*这是自2017年6月起，现已推出的延期频道版本。在2018年1月之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1705 (内部版本 8201.2200) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2017 年 6 月以来就已发布的延期频道版本。2018 年 1 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1705 (内部版本 8201.2200) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774)：Microsoft Outlook 安全功能绕过漏洞
@@ -132,7 +132,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1705-september-12"></a>版本1705：9月12
+## <a name="version-1705-september-12"></a>版本 1705：9 月 12 日
 *版本 1705（内部版本 8201.2193）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -140,7 +140,7 @@ ms.locfileid: "48370160"
 -   **支持大数 (bigint)：** 使用 Access 表中的 Large Number 数据类型来计算大型数字，并链接到使用等效数据类型的外部数据库（如 SQL Server 中的 bigint）或从中导入。 [详细信息](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **Windows 信息保护 (WIP) 支持：**   Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **“获取和转换数据”改进：** 在“查询编辑器”中，可以通过提供示例值创建新列。在输入过程中，Excel 会检测所需的转换，然后显示新列的预览效果。
 -   **插入最近使用的链接：** 轻松地将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **个性化设置默认的数据透视表布局：** 以你喜欢的方式设置数据透视表，并在每次创建新的数据透视表时从该布局开始。 [更多信息](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -154,12 +154,12 @@ ms.locfileid: "48370160"
 -   **使用触笔选择和更改对象：** 使用数字触笔捕捉对象句柄，以执行重设大小、旋转、移动等操作。
 -   **地图图表：** 跨地理区域比较值和显示类别。 [更多信息](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 图像：** 在工作簿中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：**  通过转到插入插图图标 (SVG) 文件的标准库中的图标（通过可缩放的矢量图形） \> \> 。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将工作簿保存到最近访问的文件夹中。
 -   **辅助功能改进：** 改进了支持，可以更好地使用键盘、讲述人和其他辅助技术阅读和编辑工作簿。 [更多信息](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631)：Microsoft Office 内存损坏漏洞
@@ -184,24 +184,24 @@ ms.locfileid: "48370160"
 -   修复了以下问题：选择图表工作表上的表单控件组合框时，Excel 可能会发生故障。
 
 ### <a name="onenote-feature-updates"></a>OneNote：功能更新
--   **Windows 信息保护 (WIP) 支持：** OneNote 应用程序现已启用 WIP，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：** OneNote 应用程序现已启用 WIP，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
 -   添加属性以允许将页面设置为只读（在信息栏中也提供了这一功能）。
 -   修复了以下问题：显示多个段落时，OneNote 画布会隐藏内容或更新。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **Windows 信息保护 (WIP) 支持：**   Outlook 现在是一个智能型应用程序，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Outlook 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [详细信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景消除：** 使用任意格式的绘图工具删除图片背景。
 -   **检查对共享文件的访问权限：** Outlook 会提前告知用户，收件人可能无法访问附加的 OneDrive 或 SharePoint 文件，并对如何解决该问题提供建议。
 -   **对附件设置权限：** 对于 OneDrive 或 SharePoint 附件，用户可以设置组织中或外部的收件人是否具有对附件的读取或编辑权限。
--   **可固定的任务窗格：** 在邮箱中切换邮件的同时，可让外接程序任务窗格一直处于打开状态。 [更多信息](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **可固定的任务窗格：** 在邮箱中切换邮件的同时，可让外接程序任务窗格一直处于打开状态。 [更多信息](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 -   **SVG 图像：** 在电子邮件中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：**  通过转到插入插图图标 (SVG) 文件的标准库中的图标（通过可缩放的矢量图形） \> \> 。  [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [更多信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook：安全更新
+### <a name="outlook-security-updates"></a>Outlook：安全更新程序
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204)：Microsoft Office 安全功能绕过漏洞
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 远程代码执行
@@ -220,14 +220,14 @@ ms.locfileid: "48370160"
 -   修复了当使用高 DPI 从计算机发送邮件时，邮件中的图像变暗的问题。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **Windows 信息保护 (WIP) 支持：**   PowerPoint 现在是一个智能型应用程序，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   PowerPoint 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [更多信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **外接程序的集中式部署**：管理员可以从 Office 365 管理中心将加载项部署并更新到用户或组。 [更多信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景消除：** 使用任意格式的绘图工具删除图片背景。
 -   **SVG 图像：** 在演示文稿中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：**  通过转到插入插图图标 (SVG) 文件的标准库中的图标（通过可缩放的矢量图形） \> \> 。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同创作时的实时键入：** 查看其他人在演示文稿中的工作方式并在键入时查看更改。 [详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [更多信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **共同创作时进行实时键入：** 查看其他人在演示文稿中的工作位置，并查看键入的更改。 [详细信息](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将演示文稿保存到最近访问的文件夹中。
 -   **精确创建墨迹形状：** 拖动线段橡皮擦擦去多余墨迹，直到与最近线段交汇之处为止。
 -   **使用触笔选择并操作对象：** 使用数字触笔时，利用对象句柄或套索选择墨迹带的支持触笔按钮来移动、调整大小或旋转对象。
@@ -245,7 +245,7 @@ ms.locfileid: "48370160"
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **用于设置前导活动的快速下拉列表：** 使用甘特图下拉列表选择要链接到任务的前导活动或后续活动。
--   **任务摘要名称：**  只读任务域，显示任务的摘要任务的名称。  
+-   **任务摘要名称：**  显示任务的摘要任务名称的只读任务字段。  
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
 -   修复了为图表/表选择的值在图表/表窗格中不可见的问题。
@@ -288,11 +288,11 @@ ms.locfileid: "48370160"
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **插入链接：** 可以在 IM 和群组聊天中添加链接，并输入易记的链接文本，而不是完整 URL。
 -   **屏幕共享通知：** 在 IM 对话中共享屏幕或在离开会议后仍继续共享屏幕时，对话窗口中会显示屏幕共享通知。此通知旨在提醒仍在共享屏幕，只需使用“停止共享”按钮，即可轻松停止共享。
--   **Windows 信息保护 (WIP) 支持：** Skype for Business 现作为“仅 WIP 作业”应用受到支持。通过将 Skype 添加到允许的应用列表，可以指示 Windows 不处理个人数据。Windows 将代表 Skype for Business 保护数据。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：** Skype for Business 现作为“仅 WIP 作业”应用受到支持。通过将 Skype 添加到允许的应用列表，可以指示 Windows 不处理个人数据。Windows 将代表 Skype for Business 保护数据。 [更多信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **密码重置选项：** 当用户至少登录失败一次时，重置按钮链接将显示在登录窗口中。
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
--   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
+-   Microsoft 安全公告 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013)：Microsoft 图形组件安全更新 (4013075)
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283)：Windows Uniscribe 远程代码执行漏洞
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550)：Skype for Business 远程代码执行漏洞
@@ -343,21 +343,21 @@ ms.locfileid: "48370160"
 -   **幻灯片片段：** 获取 Visio 绘图的片段，并将其作为幻灯片导出到 PowerPoint。 [更多信息](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **Windows 信息保护 (WIP) 支持：**   Word 现在是一个智能型应用，可以区分企业数据和个人数据，并根据配置的策略正确地确定要保护的数据。  [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Word 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **插入最近使用的链接：** 将超链接附加到最近使用的基于云的文件或网站，并为使用屏幕阅读器的用户创建有意义的显示名称。 [更多信息](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **外接程序的集中部署**：管理员可以从 Office 365 管理中心将外接程序部署和更新到用户或组。  [详细信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **外接程序的集中式部署**：管理员可以从 Office 365 管理中心将加载项部署并更新到用户或组。 [更多信息](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **迪拜字体：** 支持西欧语言和使用阿拉伯语脚本的主要语言的字体系列。 [更多信息](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景消除：** 使用任意格式的绘图工具删除图片背景。
 -   **并排：** 通过将页面像一叠纸一样并排滑动实现在页面视图下浏览页面。 [详细信息](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **使用触笔选择和更改对象：** 使用数字触笔捕捉对象句柄，以执行重设大小、旋转、移动等操作。
 -   **SVG 图像：** 在文档中插入和编辑可缩放的矢量图形 (SVG)。 [详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入图标：**  通过转到插入插图图标 (SVG) 文件的标准库中的图标（通过可缩放的矢量图形） \> \> 。  [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入图标：**  依次转到“插入”\>“图示”\>“图标”，使用可缩放的矢量图形 (SVG) 文件标准库中的图标。 [详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **保存到最近访问的文件夹：** 依次转到“文件”\>“另存为”，使用“最近访问的位置”选项卡，将文档保存到最近访问的文件夹中。
 -   **借助学习工具提升阅读技能：** 阅读模式中的新命令可提升阅读技能，具体包括调整文字间距、在音节之间显示分隔符和突出显示每个单词（如同在大声朗读文档一样）。 [更多信息](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **形状识别：** 使用“绘图”\>“转换为形状”将绘图自动转换为形状。 [详细信息](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 远程代码执行漏洞
@@ -388,15 +388,15 @@ ms.locfileid: "48370160"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了以下问题：一些程序文件的签名方式存在问题，导致防病毒程序标记这些文件，并且 Windows 信息保护 (WIP) 无法保护或访问数据。
 -   修复了无法显示“新增功能”对话框的问题。
--   修复了在使用 Configuration Manager 时导致 office 2013 到 Office 2016 的无人参与升级失败的问题。
+-   修复了使用 Configuration Manager 时导致 Office 2013 到 Office 2016 的无人参与升级失败的问题。
 -   修复了通过企业目录从存储部署的旧版外接程序不加载的问题。
 
 
 
-## <a name="version-1701-september-12"></a>版本1701：9月12
+## <a name="version-1701-september-12"></a>版本 1701：9 月 12 日
 *版本 1701（内部版本 7766.2116）*
 
-*这是自2017年6月起，现已推出的延期频道版本。在2018年1月之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1705 (内部版本 8201.2193) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2017 年 6 月以来就已发布的延期频道版本。2018 年 1 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1705 (内部版本 8201.2193) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631)：Microsoft Office 内存损坏漏洞
@@ -417,7 +417,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1701-july-27"></a>版本1701：7月27日
+## <a name="version-1701-july-27"></a>版本 1701：7 月 27 日
 *版本 1701（内部版本 7766.2099）*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
@@ -427,10 +427,10 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1609-july-27"></a>版本1609：7月27日
+## <a name="version-1609-july-27"></a>版本 1609：7 月 27 日
 *版本 1609（内部版本 7369.2154）*
 
-*这是自2017年2月起，现已推出的延期频道版本。在9月2017之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1701 (内部版本 7766.2099) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2017 年 2 日起提供的延期频道版本。2017 年 9 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1701 (内部版本 7766.2099) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全功能规避漏洞
@@ -439,7 +439,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1701-july-13"></a>版本1701：7月13日
+## <a name="version-1701-july-13"></a>版本 1701：7 月 13 日
 *版本 1701（内部版本 7766.2096）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
@@ -451,10 +451,10 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1609-july-13"></a>版本1609：7月13日
+## <a name="version-1609-july-13"></a>版本 1609：7 月 13 日
 *版本 1609（内部版本 7369.2151）*
 
-*这是自2017年2月起，现已推出的延期频道版本。在9月2017之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1701 (内部版本 7766.2096) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2017 年 2 日起提供的延期频道版本。2017 年 9 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1701 (内部版本 7766.2096) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 内存损坏漏洞
@@ -465,7 +465,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1701-june-13"></a>版本1701：6月13日
+## <a name="version-1701-june-13"></a>版本 1701：6 月 13 日
 *版本 1701（内部版本 7766.2092）*
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
@@ -482,8 +482,8 @@ ms.locfileid: "48370160"
 -   **更改颜色：** 使用“操作说明搜索”来设置字体、突出显示、形状填充等的颜色。 [更多信息](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 安全更新程序 (3204068)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：当加载表的列名称中有尾随空格时，模块查询刷新失败。
@@ -598,12 +598,12 @@ ms.locfileid: "48370160"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **Windows 通知样式：** 更改了传入呼叫和对话的通知外观。 [更多信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **咨询式转移：** 在呼叫中，在将呼叫转移到该用户之前，通过 IM 或呼叫咨询另一个用户。 [详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **咨询转接：** 在呼叫内，在将呼叫转接到其他用户之前，通过 IM 或呼叫咨询其他用户。 [详细信息](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麦克风通知：** 当操作系统中的麦克风静音或麦克风不拾音时，在对话窗口中显示通知。
 -   **禁用“我的号码”：** 使用 DisableDisplayMyNumber 注册表项禁止在拨号盘下显示“我的号码”。
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
--   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
+-   Microsoft 安全公告 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013)：Microsoft 图形组件安全更新 (4013075)
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
 -   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283)：Windows Uniscribe 远程代码执行漏洞
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550)：Skype for Business 远程代码执行漏洞
@@ -637,8 +637,8 @@ ms.locfileid: "48370160"
 -   修复了以下问题：如果使用 Polycom CX100 设备，通话时检测不到麦克风。
 -   修复了以下问题：在 IM 消息中单击 \\\\servername 或 file:// 等链接会看到错误消息，而不是打开相应的位置。
 -   修复了以下问题：在使用基于位置的路由的虚拟桌面基础结构 (VDI) 环境中，用户无法拨打或接听 PSTN 呼叫，因为服务器认为用户的位置对 PSTN 呼叫无效。
--   当用户的状态设置为 "请勿打扰" 或 "正在进行演示" 时，请更改 "缺少与 ' 的会话 \<name\> 向 \<Name\> 您发送了 Skype for business 中的邮件" 中的未送达邮件的主题行。
--   开始在设备上捕获首次登录的时间戳作为 [统计数据的](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 一部分，以帮助确定登录可靠性趋势。
+-   当用户的状态设置为"请勿打扰或正在显示"时，将针对错过的邮件发送的电子邮件的主题行从"错过的对话与"更改为"在 Skype for Business 中发送给你一条消息 \<name\> \<Name\> "。
+-   开始在设备上捕获首次登录的时间戳作为 [统计数据的](/skypeforbusiness/legal-and-regulatory/data-collection-practices) 一部分，以帮助确定登录可靠性趋势。
 -   修复了以下问题：在 Window 10 版本 1607（亦称为“周年更新”）上，用于共享辅助监视器的选项没有与特定的监视器配置一起显示。
 -   修复了以下问题：如果共享者使用第三方 RDP 实现，Skype for Business 在放大共享内容时发生故障。
 -   修复了以下问题：用户在虚拟桌面基础结构 (VDI) 环境中单击音频呼叫控件按钮后未看到“音频控件”面板。
@@ -707,11 +707,11 @@ ms.locfileid: "48370160"
 -   **Change colors:** Use Tell Me to set the color for the font, highlighting, shape fill, and more. [More information](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 内存损坏漏洞
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 远程代码执行漏洞 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 远程执行代码漏洞  
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 远程代码执行漏洞 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 远程执行代码漏洞  
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复了使用某些监视器配置时的内存消耗问题。
@@ -726,7 +726,7 @@ ms.locfileid: "48370160"
 -   **提供反馈：** 依次转到“文件”\>“反馈”，提出新功能建议，或告诉 Microsoft 你喜欢的功能或无法使用的功能
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
+-   Microsoft 安全公告 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 安全更新程序 (3204068)
 -   [CVE-2017-0199](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0199)：Microsoft Office/WordPad 远程代码执行漏洞 w/Windows API
 -   [CVE-2017-0260](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0260)：Microsoft Office 远程代码执行
 -   [CVE-2017-0261](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261)：Microsoft Office 远程执行代码漏洞
@@ -742,14 +742,14 @@ ms.locfileid: "48370160"
 -   修复了以下问题：在 Office 文档中插入 SVG 图像后，SVG 图像在文档保存和重新打开后消失。
 -   修复了以下问题：针对非英语用户激活期间，Office 显示以下错误消息：“产品密钥的长度上限为 25 个字符。”
 -   修复了以下问题：使用 VBA 窗体可能会导致框架的 z 顺序无法正常运行或显示。
--   修复了以下问题：配置管理器触发的更新将注册表中的 UpdateChannel 设置更改为不是有效更新通道的内容。
+-   修复了 Configuration Manager 切换的更新将注册表中的 UpdateChannel 设置更改为无效更新通道的问题。
 
 
 
-## <a name="version-1609-june-13"></a>版本1609：6月13日
+## <a name="version-1609-june-13"></a>版本 1609：6 月 13 日
 *版本 1609（内部版本 7369.2139）*
 
-*这是自2017年2月起，现已推出的延期频道版本。在9月2017之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1701 (内部版本 7766.2092) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2017 年 2 日起提供的延期频道版本。2017 年 9 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1701 (内部版本 7766.2092) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 远程代码执行
@@ -761,8 +761,8 @@ ms.locfileid: "48370160"
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550)：Skype for Business 远程代码执行漏洞
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 远程代码执行漏洞 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 远程执行代码漏洞  
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 远程代码执行漏洞 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 远程执行代码漏洞  
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
 -   [CVE-2017-0260](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0260)：Microsoft Office 远程代码执行
@@ -771,7 +771,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1609-may-9"></a>版本1609：5月9
+## <a name="version-1609-may-9"></a>版本 1609：5 月 9 日
 *版本 1609（内部版本 7369.2130）*
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
@@ -788,10 +788,10 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1605-may-9"></a>版本1605：5月9
+## <a name="version-1605-may-9"></a>版本 1605：5 月 9 日
 *版本 1605（内部版本 6965.2150）*
 
-*这是自10月2016以来现已推出的延期频道版本。在6月2017日之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1609 (内部版本 7369.2130) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2016 年 10 日起提供的延期频道版本。2017 年 6 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1609 (内部版本 7369.2130) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 远程执行代码漏洞
@@ -807,7 +807,7 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1609-april-11"></a>版本1609：4月11日
+## <a name="version-1609-april-11"></a>版本 1609：4 月 11 日
 *版本 1609（内部版本 7369.2127）*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -822,10 +822,10 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1605-april-11"></a>版本1605：4月11日
+## <a name="version-1605-april-11"></a>版本 1605：4 月 11 日
 *版本 1605（内部版本 6965.2145）*
 
-*这是自10月2016以来现已推出的延期频道版本。在6月2017日之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1609 (内部版本 7369.2127) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2016 年 10 日起提供的延期频道版本。2017 年 6 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1609 (内部版本 7369.2127) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 远程代码执行漏洞
@@ -836,40 +836,40 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1609-march-14"></a>版本1609：3月14
+## <a name="version-1609-march-14"></a>版本 1609：3 月 14 日
 *版本 1609（内部版本 7369.2120）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
--   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
+-   Microsoft 安全公告 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013)：Microsoft 图形组件安全更新 (4013075)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了以下问题：同时打开多个对话窗口时，Skype for Business 挂起。
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新 (3217868)
 
 
 
-## <a name="version-1605-march-14"></a>版本1605：3月14
+## <a name="version-1605-march-14"></a>版本 1605：3 月 14 日
 *版本 1605（内部版本 6965.2140）*
 
-*这是自10月2016以来现已推出的延期频道版本。在6月2017日之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1609 (内部版本 7369.2120) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2016 年 10 日起提供的延期频道版本。2017 年 6 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1609 (内部版本 7369.2120) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
--   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
+-   Microsoft 安全公告 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013)：Microsoft 图形组件安全更新 (4013075)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新 (3217868)
 
 
 
-## <a name="version-1609-february-22"></a>版本1609：2月22日
+## <a name="version-1609-february-22"></a>版本 1609：2 月 22 日
 *版本 1609（内部版本 7369.2118）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -893,10 +893,10 @@ ms.locfileid: "48370160"
 -   **数据连接改进：** 可检测交错的 CSV 文件；支持在使用 Exchange 连接器时通过 Microsoft 帐户进行身份验证；以及可在尝试连接到用户的 SharePoint 列表时验证其提供的 URL。
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
--   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
--   Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 安全更新程序 (3199168)
--   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
+-   Microsoft 安全公告 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088)：Microsoft Office 安全更新程序 (3170008)
+-   Microsoft 安全公告 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 安全更新程序 (3185852)
+-   Microsoft 安全公告 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133)：Microsoft Office 安全更新程序 (3199168)
+-   Microsoft 安全公告 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 安全更新程序 (3204068)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：使用“编辑度量值”对话框导致 Excel 发生故障。
@@ -916,7 +916,7 @@ ms.locfileid: "48370160"
 -   修复在某些情况下 Excel 不通知讲述人单元格值发生更改的问题。
 
 ### <a name="onenote-security-updates"></a>OneNote：安全更新
--   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
+-   Microsoft 安全公告 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099)：Microsoft Office 安全更新程序 (3177451)
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
 -   修复了在禁止任何注册表写入的计算机上写入注册表导致 OneNote 崩溃的问题。
@@ -927,16 +927,16 @@ ms.locfileid: "48370160"
 -   修复删除某个表将导致 OneNote 崩溃的问题。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   ** \@ 提及：** 确保收件人通过将 "@" 符号（后跟人名）添加到 "电子邮件" 或 "日历" 项目的正文中，来知道他们正在要求输入或执行操作。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@ 提及：** 将 @ 符号后跟人员姓名后跟电子邮件或日历项目正文，确保收件人知道他们需要输入或操作。 同时，这也会将他们自动添加到“收件人”行。 [更多信息](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **旅游预订和行程的摘要卡：** 使用收件箱和日历中自动创建的摘要卡验证并跟踪旅游预订以及发送行程。 [更多信息](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加照片的微型预览**：将某个照片附加到电子邮件中时，Outlook 在邮件中显示该照片的微型预览。
 -   **恢复已删除的邮件链接：** 在“已删除邮件文件夹”中，“恢复最近从此文件夹删除的邮件”链接将显示在已删除邮件列表的上方，在选中该链接后，将打开“恢复已删除邮件”对话框。
 -   **点击：** 从组织的相关文档中查找和重新使用内容。 [详细信息](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新程序
--   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
--   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
--   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
+-   Microsoft 安全公告 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088)：Microsoft Office 安全更新程序 (3170008)
+-   Microsoft 安全公告 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099)：Microsoft Office 安全更新程序 (3177451)
+-   Microsoft 安全公告 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 安全更新程序 (3185852)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了以下问题：结合使用应用程序虚拟化 (App-V) 和其他应用程序且已设置 AllowJitvInAppvVirtualizedProcess 注册表项时，尝试在控制面板中创建配置文件会导致 Windows 7 发生故障。
@@ -974,12 +974,12 @@ ms.locfileid: "48370160"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **更新了可视元素：** 更改了图标和颜色，以改进辅助功能。 [更多信息](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **将 UI 更新为 "共享"：**  将 UI 元素中的 "现有" 更改为 "共享"，如将 "现有桌面" 更改为 "共享桌面" 和 "显示程序" 以 "共享窗口"。
+-   **将 UI 更新为“共享”：** UI 元素中的“演示”变为“共享”。例如，“演示桌面”变为“共享桌面”，“演示程序”变为“共享窗口”。
 -   **Citrix 支持**：支持基于 Citrix 的虚拟桌面基础结构 (VDI) 环境，以及 Citrix HDX 实时优化包 2.1。
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
--   Microsoft 安全公告 [MS16-097](https://technet.microsoft.com/library/security/ms16-097)：Microsoft 图形组件安全更新 (3177393)
--   Microsoft 安全公告 [MS16-120](https://technet.microsoft.com/library/security/ms16-120)：Microsoft 图形组件安全更新 (3192884)
+-   Microsoft 安全公告 [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097)：Microsoft 图形组件安全更新 (3177393)
+-   Microsoft 安全公告 [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120)：Microsoft 图形组件安全更新 (3192884)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复了以下问题：在 Window 10 版本 1607（亦称为“周年更新”）上，用于共享辅助监视器的选项没有与特定的监视器配置一起显示。
@@ -1019,10 +1019,10 @@ ms.locfileid: "48370160"
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **辅助功能检查器：** 通过转至“文件”\>“信息”\>“检查问题”\>“检查辅助功能”来查看辅助功能关系图。
--   **UML 模板：**  符合统一建模语言 (UML) 2.5 标准的三个模板（ [组件](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074)、 [通信](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)和 [部署](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)）。
+-   **UML 模板：** 三个模板 [（组件](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074)、[](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)通信和部署 [](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)）均符合统一建模语言 (UML) 2.5 标准。
 
 ### <a name="visio-security-updates"></a>Visio：安全更新
--   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
+-   Microsoft 安全公告 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 安全更新程序 (3185852)
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全更新
 -   修复了以下问题：在“帮助”窗格打开时，无法执行特定操作。
@@ -1036,9 +1036,9 @@ ms.locfileid: "48370160"
 -   **点击：** 从组织的相关文档中查找和重新使用内容。 [详细信息](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 安全更新程序 (3170008)
--   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
--   Microsoft 安全公告 [MS16-121](https://technet.microsoft.com/library/security/ms16-121)：Microsoft Office 安全更新程序 (3194063)
+-   Microsoft 安全公告 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088)：Microsoft Office 安全更新程序 (3170008)
+-   Microsoft 安全公告 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099)：Microsoft Office 安全更新程序 (3177451)
+-   Microsoft 安全公告 [MS16-121](/security-updates/SecurityBulletins/2016/ms16-121)：Microsoft Office 安全更新程序 (3194063)
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复了以下问题：如果另存为的目标文件夹包含大量文件（如超过 30,000 个文件），Word 发生故障。
@@ -1057,14 +1057,14 @@ ms.locfileid: "48370160"
 -   **共享计算机激活的缩减功能模式：** 使用共享计算机激活时，如果用户关闭了登录窗口或用户的许可令牌到期，用户仍可以使用 Office 应用，但应用将处于缩减功能模式。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   Microsoft 安全公告 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 安全更新程序 (3177451)
--   Microsoft 安全公告 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 安全更新程序 (3185852)
--   Microsoft 安全公告 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 安全更新程序 (3199168)
--   Microsoft 安全公告 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 安全更新程序 (3204068)
+-   Microsoft 安全公告 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099)：Microsoft Office 安全更新程序 (3177451)
+-   Microsoft 安全公告 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 安全更新程序 (3185852)
+-   Microsoft 安全公告 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133)：Microsoft Office 安全更新程序 (3199168)
+-   Microsoft 安全公告 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 安全更新程序 (3204068)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复了以下问题：使用 VBA 窗体可能会导致框架的 z 顺序无法正常运行或显示。
--   修复了以下问题：配置管理器触发的更新将注册表中的 UpdateChannel 设置更改为不是有效更新通道的内容。
+-   修复了 Configuration Manager 切换的更新将注册表中的 UpdateChannel 设置更改为无效更新通道的问题。
 -   修复了以下问题：使用 OneDrive 同步客户端将文件从 OneDrive for Business 网站同步到本地计算机时，保存通过 URL 打开的同步返回文件导致 Word、Excel 或 PowerPoint 挂起。
 -   修复了以下问题：VBA 表单控件可导致透明标签控件显示为不透明；现有表单不再按预期方式显示或运行；尝试打开包含表单控件的启用宏的文件时，Office 应用程序停止响应。
 -   修复了使用托管元数据属性时，“显示详细信息”按钮显示在“文件”\>“信息”下的“属性”部分，而不是设置的元数据值的问题。
@@ -1085,18 +1085,18 @@ ms.locfileid: "48370160"
 
 
 
-## <a name="version-1605-january-10"></a>版本1605：1月10日
+## <a name="version-1605-january-10"></a>版本 1605：1 月 10 日
 *版本 1605（内部版本 6965.2117）*
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-002](https://technet.microsoft.com/library/security/ms17-002)：Microsoft Office 安全更新程序 (3214291)
+-   Microsoft 安全公告 [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002)：Microsoft Office 安全更新程序 (3214291)
 
 
 
-## <a name="version-1602-january-10"></a>版本1602：1月10日
+## <a name="version-1602-january-10"></a>版本 1602：1 月 10 日
 *版本 1602（内部版本 6741.2105）*
 
-*这是自2016年6月起，现已推出的延期频道版本。在二月份2017之前，它将继续受支持和接收安全更新。但现在提供了新的延迟频道版本，即版本 1605 (内部版本 6965.2117) ，其中包含新功能、安全更新和非安全更新。*
+*这是自 2016 年 6 月以来就已发布的延期频道版本。2017 年 2 月前，它会继续获得支持，并接收安全更新程序。不过，新版延期频道（即版本 1605 (内部版本 6965.2117) ）现已推出，其中包含新增功能、安全更新程序和非安全更新程序。*
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-002](https://technet.microsoft.com/library/security/ms17-002)：Microsoft Office 安全更新程序 (3214291)
+-   Microsoft 安全公告 [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002)：Microsoft Office 安全更新程序 (3214291)

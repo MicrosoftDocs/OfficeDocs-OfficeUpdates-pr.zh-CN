@@ -1,5 +1,5 @@
 ---
-title: 2015中的每月频道发布的发行说明
+title: 2015 年每月频道发布的发行说明
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 为 IT 专业人员提供有关 Office 365 专业增强版的每月频道发布的发行说明2015
-ms.openlocfilehash: 29e4500dafb8fe95569608b0dca148a03c182a6b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: 为 IT 专业人士提供有关 2015 年 Office 365 专业增强版每月频道发布的发行说明
+ms.openlocfilehash: 21afefcf714dcdd67d193b74b2e9f7d69f64c0c9
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369910"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169881"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015中的每月频道发布的发行说明
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015 年每月频道发布的发行说明
 
-这些发行说明提供了有关在2015中的 Office 365 专业增强版的每月频道更新中包含的新功能、安全更新和非安全更新的信息。
+这些发行说明提供有关 2015 年 Office 365 专业增强版每月频道更新中包含的新功能、安全更新和非安全更新的信息。
  
 > [!NOTE]
 > - 以下说明还提供了有关 Visio Pro for Office 365 和 Project Online 桌面客户端的新功能、安全更新和非安全更新的信息。
 > - 此信息还适用于 Office 365 商业版，即随附一些 Office 365 计划的 Office 版本（如企业高级版）。
-> - 每月频道的名称为9月2017日之前的当前频道。
+> - 每月频道在 2017 年 9 月之前被命名为当前频道。
 
-## <a name="version-1511-december-11"></a>版本1511：12月11日
+## <a name="version-1511-december-11"></a>版本 1511：12 月 11 日
 *版本 1511（内部版本 6366.2036）*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **BI 模板：** 利用 Excel 的商业智能 (BI) 功能的三个新模板： [日历见解](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、 [股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、我的 [现金流量](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI 模板：** 利用 Excel 的 商业智能 (BI) 三个新模板 [：Calendar Insights、Stock](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40) [Analysis](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)和 [My Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了拖动格式为使用数字作为长日期的单元格的填充手柄导致 Excel 崩溃的问题。
@@ -55,7 +55,7 @@ ms.locfileid: "48369910"
 -   **Morph 转换：** 在幻灯片之间创建无缝转换并为演示文稿添加动画功能，以便更有效地传达概念和信息。 [详细信息](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 设计器：** 允许您提取内容并自动生成各种想法，使您可从中选择以使您的幻灯片效果更佳的新服务。 [更多信息](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    此服务需要 Internet 连接。 若要禁用此功能，请 [使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030) 并启用 PowerPoint 设计器选项设置。 可以在 "用户配置管理模板" 下找到此策略设置 \\ \\ Microsoft Office 2016 \\ Tools |选项 |常规 |服务选项 ... \\PowerPoint 设计器。
+    此服务需要 Internet 连接。 若要禁用此功能， [请使用最新的组策略管理模板文件](https://www.microsoft.com/download/details.aspx?id=49030) 并启用 PowerPoint Designer 选项设置。 您可以在 User Configuration \\ Administrative Templates \\ Microsoft Office 2016 Tools \\ |选项|常规|服务选项... \\PowerPoint Designer。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 -   修复带有动画的 SmartArt 在演示者视图中不按预期顺序出现在幻灯片放映视图中的问题。
@@ -69,7 +69,7 @@ ms.locfileid: "48369910"
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 -   **代理发送选项**：在 Word 或 PowerPoint 中从“共享”窗格将文档作为附件或 PDF 发送。
--   **插入图片 API**：使用通用 office.js 库中的 [document.setSelectedDataAsync 方法将图像插入 Word、](https://msdn.microsoft.com/library/office/fp142145.aspx)Excel 或 PowerPoint。 Word JavaScript API 提供了特定于主机的方法，称为 "insertInlinePictureFromBase64 ( # A1，用于在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、 [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 对象上设置内联图片。
+-   **插入图片 API**：使用通用 office.js 库中的 [document.setSelectedDataAsync 方法将图像插入 Word、](/javascript/api/office/office.document)Excel 或 PowerPoint。 Word JavaScript API 提供特定于主机的方法 insertInlinePictureFromBase64 () 以在[Body、ContentControl、Paragraph](/javascript/api/word/word.contentcontrol)和[](/javascript/api/word/word.paragraph)Range 对象上设置内联图片。 [](/office/dev/add-ins/reference/overview/word-add-ins-reference-overview)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复执行“打开”或“另存为”操作时显示的“修改日期”信息被截断的问题。
@@ -82,7 +82,7 @@ ms.locfileid: "48369910"
 -   修复在 Office 预安装工具包在审核模式下运行的 Windows 7 OEM 计算机上升级到 Office 2016 时导致激活过程中出现错误 0x80070005 的问题。
 
 
-## <a name="version-1509-december-8"></a>版本1509：12月8日
+## <a name="version-1509-december-8"></a>版本 1509：12 月 8 日
 *版本 1509（内部版本 6001.1043）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -92,14 +92,14 @@ ms.locfileid: "48369910"
 -   修复书签跨多个段落创建，但当收到电子邮件时，使用“转到”时仅选择书签的第一段的问题。
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
--   Microsoft 安全公告 [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559)：可修复远程执行代码的 Microsoft 图形组件安全更新 (3104503)
+-   Microsoft 安全公告 [MS15-128](/security-updates/SecurityBulletins/2015/ms15-128)：可修复远程执行代码的 Microsoft 图形组件安全更新 (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   修复应用共享会话失败（尤其是在突发通信期间）的问题。
 -   修复在安装 Office 2016 后第一个启动 Skype for Business 时导致其崩溃的问题。
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410)：可解决远程执行代码的 Microsoft Office 安全更新 (3116111)
+-   Microsoft 安全公告 [MS15-131](/security-updates/SecurityBulletins/2015/ms15-131)：可解决远程执行代码的 Microsoft Office 安全更新 (3116111)
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复在使用某些字体时不间断连字符显示为正方形的问题。
@@ -111,14 +111,14 @@ ms.locfileid: "48369910"
 
 
 
-## <a name="version-1509-november-10"></a>版本1509：11月10日
+## <a name="version-1509-november-10"></a>版本 1509：11 月 10 日
 *版本 1509（内部版本 6001.1038）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   解决记录查询创建宏导致编译错误的问题。
@@ -131,23 +131,23 @@ ms.locfileid: "48369910"
 -   更新“文件”\>“帐户”\>“关于 Excel”中的 Dotlesscss URL。
 
 ### <a name="onenote-security-updates"></a>OneNote：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   解决在粘贴的文本量大于窗口高度时，Outlook 不会显示粘贴的全部文本的问题。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="project-security-updates"></a>Project：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="publisher-security-updates"></a>Publisher：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
--   Microsoft 安全公告 [MS15-123](https://technet.microsoft.com/library/security/ms15-123)：可修复信息泄漏的 Skype for Business 和 Microsoft Lync 安全更新 (3105872)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-123](/security-updates/SecurityBulletins/2015/ms15-123)：可修复信息泄漏的 Skype for Business 和 Microsoft Lync 安全更新 (3105872)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   解决有两个输入麦克风的设备上的音频噪声问题。
@@ -157,10 +157,10 @@ ms.locfileid: "48369910"
 -   解决用户在遇到发送和接收网络问题时看到的通知的相关问题。
 
 ### <a name="visio-security-updates"></a>Visio：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   解决在后台打印已将脚注设置为“每页重新开始编号”的文档时，Word 显示和打印结果中的脚注编号不一致的问题。
@@ -169,7 +169,7 @@ ms.locfileid: "48369910"
 -   解决导致在窗口调整大小时，Outlook 内 HTML 电子邮件中嵌入的表格无法正确呈现的格式设置问题。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   Microsoft 安全公告 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
+-   Microsoft 安全公告 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：可解决远程执行代码的 Microsoft Office 安全更新 (3104540)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   解决用户在尝试从 SharePoint Online 打开文件时反复收到登录提示的问题。
@@ -180,7 +180,7 @@ ms.locfileid: "48369910"
 
 
 
-## <a name="version-1509-october-21"></a>版本1509：10月21日
+## <a name="version-1509-october-21"></a>版本 1509：10 月 21 日
 *版本 1509（内部版本 6001.1034）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -223,7 +223,7 @@ ms.locfileid: "48369910"
 
 
 
-## <a name="version-1509-october-5"></a>版本1509：10月5日
+## <a name="version-1509-october-5"></a>版本 1509：10 月 5 日
 *版本 1509（内部版本 4229.1029）*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全更新
@@ -248,21 +248,21 @@ ms.locfileid: "48369910"
 
 
 
-## <a name="version-1509-september-22"></a>版本1509：9月22日
+## <a name="version-1509-september-22"></a>版本 1509：9 月 22 日
 *版本 1509（内部版本 4229.1024）*
 
 这是此分支的初始版本。在此版本中，Office 2016 应用程序首次可用。
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS15-099](https://technet.microsoft.com/library/security/ms15-099)：Microsoft Office 中的漏洞可能允许远程执行代码 (3089664)
--   Microsoft 安全公告 [MS15-110](https://technet.microsoft.com/library/security/ms15-110)：可修复远程执行代码的 Microsoft Office 安全更新 (3096440)
+-   Microsoft 安全公告 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099)：Microsoft Office 中的漏洞可能允许远程执行代码 (3089664)
+-   Microsoft 安全公告 [MS15-110](/security-updates/SecurityBulletins/2015/ms15-110)：可修复远程执行代码的 Microsoft Office 安全更新 (3096440)
 
 ### <a name="visio-security-updates"></a>Visio：安全更新
--   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
+-   Microsoft 安全公告 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
+-   Microsoft 安全公告 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   Microsoft 安全公告 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
--   Microsoft 安全公告 [MS15-099](https://technet.microsoft.com/library/security/ms15-099)：Microsoft Office 中的漏洞可能允许远程执行代码 (3089664)
+-   Microsoft 安全公告 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081)：Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)
+-   Microsoft 安全公告 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099)：Microsoft Office 中的漏洞可能允许远程执行代码 (3089664)

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 向客户提供 Windows 7 版 Microsoft 365 应用更新历史记录的发行说明
-ms.openlocfilehash: a2815cc08784277532f16a1e5d4f81aa491edfb4
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 06a5467d0ea72650d5696f56ba637e385d6be4f2
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595456"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170161"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 版 Microsoft 365 应用的更新历史记录 
 
  > [!NOTE]
 >
 >- Windows 7 支持将于 2020 年 1 月 14 日结束。 [了解更多](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
->- Windows 7 不再支持 Microsoft 365 应用，但将继续获得安全更新，直到 2023 年 1 月。 有关更多详细信息，请参阅 [Windows 7 终端支持和 Microsoft 365 应用版](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support)。
+>- Windows 7 不再支持 Microsoft 365 应用，但将继续获得安全更新，直到 2023 年 1 月。 有关更多详细信息，请参阅 [Windows 7 终端支持和 Microsoft 365 应用版](/DeployOffice/endofsupport/windows-7-support)。
 >- 如果你是在 Windows 7 上运行 Office 家庭用户，请参阅 有关 Windows 7 [和 Office 应用结束](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9)。
 
 版本 2002 是最后一个版本的 Microsoft 365 应用，可用于运行 Windows 7 的设备。 版本 2002 可用于 Microsoft 365 应用的所有更新频道。
@@ -32,7 +32,7 @@ ms.locfileid: "50595456"
 
 每个月的第二个星期二，将根据需要发布新版本 2002 的安全更新。 有关版本 2002 的安全更新列表，请参阅 [Office 安全更新的发行](microsoft365-apps-security-updates.md)。
 
-如果使用 Microsoft Endpoint Configuration Manager 管理更新，请参阅 [Manager 获取更新时可参阅](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates)。
+如果使用 Microsoft Endpoint Configuration Manager 管理更新，请参阅 [Manager 获取更新时可参阅](/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates)。
 
 
 ## <a name="update-history"></a>更新历史记录

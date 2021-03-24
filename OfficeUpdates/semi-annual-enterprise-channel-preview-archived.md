@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2019 年 Office 365 专业增强版半年频道（已设定目标）发行的发行说明
-ms.openlocfilehash: 5d4d10b03d82788b4d3b561d0664b48d680dfc39
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 2b9b90ef7e1d9bc792be381ba35a94f883156e90
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760714"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169601"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的已存档发行说明
 
@@ -22,12 +22,12 @@ ms.locfileid: "49760714"
 
 > [!NOTE]
 > - 我们经常会过一段时间就将功能（有时甚至是修补程序）发布到半年企业频道（预览）。 如果没有立即看到下述内容，则很快就会看到的。 [了解更多](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams 包含在半年企业频道（预览）的新安装中，从版本 1902 开始。 当半年企业频道（预览）的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
+> - Microsoft Teams 包含在半年企业频道（预览）的新安装中，从版本 1902 开始。 当半年企业频道（预览）的现有安装更新到版本 1908 或更高版本时，将向现有安装添加 Teams。 有关详细信息，请参阅[使用 Office 365 专业增强版部署 Microsoft Teams](/deployoffice/teams-install)。
 
 ## <a name="version-1908-december-10"></a>版本 1908：12 月 10 日
 *版本 1908（内部版本 11929.20516）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -129,7 +129,7 @@ ms.locfileid: "49760714"
 ## <a name="version-1908-november-12"></a>版本 1908：11 月 12 日
 *版本 1908（内部版本 11929.20436）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -206,7 +206,7 @@ ms.locfileid: "49760714"
 ## <a name="version-1908-october-08"></a>版本 1908：10 月 8 日
 *版本 1908（内部版本 11929.20388）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -246,7 +246,7 @@ ms.locfileid: "49760714"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908（内部版本 11929.20300）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -257,7 +257,7 @@ ms.locfileid: "49760714"
 
 - **密切关注数据库对象：** 可以清楚地看到活动选项卡，轻松拖动选项卡以重新排列它们，并且只需单击一下即可关闭数据库对象。
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="excel"></a>Excel
 
@@ -277,7 +277,7 @@ ms.locfileid: "49760714"
 
 - **使用 Power Query 增强功能快速编码：** 使用自动完成和语法着色快速完成代码编写。 也可以轻松发现函数、列和参数。
 
-- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook"></a>Outlook
 
@@ -299,7 +299,7 @@ ms.locfileid: "49760714"
 
 - **告别同步限制：** Outlook 改进意味着文件夹限制已取消，因此请继续操作并同步共享邮箱。
 
-- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索”来插入图标，以便轻松找到所需的图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -317,13 +317,13 @@ ms.locfileid: "49760714"
 
 - **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解详细信息](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **联机视频获得新的存储位置：** 将视频保存到 Microsoft Stream，以便组织中的任何人都可以看到它。 插入视频链接，只需占用相当于相应文件大小的一小部分的空间，即可享受多媒体演示。 [了解更多](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="visio"></a>Visio
 
@@ -357,22 +357,22 @@ ms.locfileid: "49760714"
 
 - **“学习工具”模式可额外支持更多页面颜色：** Word 中的“学习工具”添加了对更多页面主题颜色的支持，从而允许更改页面的背景色。 许多人在全黑或全白背景中阅读存在着困难，因此，我们扩展了电脑和 Mac 上的 Word 中的颜色选择。
 
-- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解详细信息](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **无缝切换：** 新的帐户管理器在同一个位置显示你的所有 Office 365 工作和个人帐户。 帐户之间可轻松自如切换。 [了解更多](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 
-- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜索和享受：** 我们添加了“搜索以插入图标”，让你能轻松找到所需图标。 选择时，“插入”按钮会显示已选数目。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Office 套件
 
-- **Microsoft Teams 的安装：** 向 Office 365 专业增强版的现有安装添加了 Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 的安装：** 向 Office 365 专业增强版的现有安装添加了 Teams。 [了解更多](/deployoffice/teams-install)
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
-- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。
 
-- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](/DeployOffice/teams-install)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -457,7 +457,7 @@ ms.locfileid: "49760714"
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
 *版本 1902（内部版本 11328.20392）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 - 修复了表中针对已筛选切片器和未筛选切片器均显示清除筛选器图标的问题。
@@ -479,7 +479,7 @@ ms.locfileid: "49760714"
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902（内部版本 11328.20368）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
@@ -521,7 +521,7 @@ ms.locfileid: "49760714"
 
 ## <a name="version-1902-june-11"></a>版本 1902：6 月 11 日
 *版本 1902（内部版本 11328.20318）*
-<br/>[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+<br/>[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
  - 解决了将包含 XML 映射的文件保存为 PDF 时导致崩溃的问题。
@@ -611,7 +611,7 @@ ms.locfileid: "49760714"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
-- 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
+- 修复了以下问题：Office 更新的某些部分不使用传递优化对等缓存。 [了解详细信息](/windows/deployment/update/waas-delivery-optimization)
 - 修复了如果使用 Office 部署工具安装 Office 且存在不匹配的情况时，可能导致产品被删除或未激活的 bug。
 - 修复了导致 Windows 10（版本 1803 或更高版本）设备上出现过多登录提示的问题。
 - 修复了下载链接图片时导致挂起的回归。
@@ -668,7 +668,7 @@ ms.locfileid: "49760714"
 - **查看栩栩如生的幻灯片：** 插入动态 3D 图形，观看心跳、行星轨道以及在整个屏幕中横冲直撞的霸王龙。 [了解更多](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **用户绘制草图，我们来润色：** 我们将手绘文本和形状变为精致的图表。只需选择笔划墨迹即可开始。[了解详细信息](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **显示图片背后的内容：** 将图片置于工作表中，选择预设，然后观察透明度的变化。就是这样！[了解详细信息](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **发布到 Microsoft Stream：** 通过使用 Microsoft Stream 在组织中更为安全地将演示文稿作为视频进行共享。  [了解更多](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **发布到 Microsoft Stream：** 通过使用 Microsoft Stream 在组织中更为安全地将演示文稿作为视频进行共享。  [了解更多](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **导出为 4K 视频：** 将演示文稿导出为视频时，现在可以选择 4K 分辨率。  [了解更多](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **大文件现在可以更快地打开：** 打开存储在 OneDrive 或 SharePoint 中的文件时，图像、视频和其他大文件现在可以在后台下载。
@@ -701,7 +701,7 @@ ms.locfileid: "49760714"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
 - **Office 第三方应用程序现已支持通过 office.js API 插入 SVG：** 第三方应用程序也称为 Office 中的加载项，它们现可插入 SVG。用户现可将其个人的 SVG 集合连接到 Office。而开发人员可通过 Office.js API 使用该项功能。
-- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 
@@ -727,7 +727,7 @@ ms.locfileid: "49760714"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新程序
 
-- 修复以下问题：使用 [O365 Office 集中式部署](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
+- 修复以下问题：使用 [O365 Office 集中式部署](/office/dev/add-ins/publish/centralized-deployment)部署的外接程序被冻结且不可用。
 
 
 ## <a name="version-1808-january-8"></a>版本 1808：1 月 8 日
@@ -746,18 +746,18 @@ ms.locfileid: "49760714"
 
 ### <a name="excel-security-updates"></a>Excel：安全更新 
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 远程代码执行漏洞 
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8598)：Microsoft Excel 信息泄漏漏洞 
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 信息泄漏漏洞 
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8636)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636)：Microsoft Excel 远程代码执行漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新 
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8587)：Microsoft Outlook 远程代码执行漏洞 
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587)：Microsoft Outlook 远程代码执行漏洞 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新 
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 远程代码执行漏洞 
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 远程代码执行漏洞 
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新 
 
@@ -791,29 +791,29 @@ ms.locfileid: "49760714"
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8574)：Microsoft Excel 远程代码执行漏洞 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8577)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577)：Microsoft Excel 远程代码执行漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8522)：Microsoft Outlook 远程代码执行漏洞 
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8524)：Microsoft Outlook 远程代码执行漏洞 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8558)：Microsoft Outlook 信息泄漏漏洞 
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8576)：Microsoft Outlook 远程代码执行漏洞 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8579)：Microsoft Outlook 信息泄漏漏洞 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8582)：Microsoft Outlook 远程代码执行漏洞 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522)：Microsoft Outlook 远程代码执行漏洞 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524)：Microsoft Outlook 远程代码执行漏洞 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558)：Microsoft Outlook 信息泄漏漏洞 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576)：Microsoft Outlook 远程代码执行漏洞 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579)：Microsoft Outlook 信息泄漏漏洞 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582)：Microsoft Outlook 远程代码执行漏洞 
 
 ### <a name="project-security-updates"></a>Project：安全更新 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8575)：Microsoft Project 远程代码执行漏洞 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575)：Microsoft Project 远程代码执行漏洞 
 
 ### <a name="word-security-updates"></a>Word：安全更新 
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8573)：Microsoft Word 远程代码执行漏洞 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573)：Microsoft Word 远程代码执行漏洞 
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新 
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8546)：Microsoft Skype for Business 拒绝服务漏洞 
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546)：Microsoft Skype for Business 拒绝服务漏洞 
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新 
 
@@ -838,20 +838,20 @@ ms.locfileid: "49760714"
 *版本 1808（内部版本 10730.20155）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8502)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502)：Microsoft Excel 远程代码执行漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新 
--   [ADV180026](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV180026)：Microsoft Office 深度防御更新 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026)：Microsoft Office 深度防御更新 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8501)：Microsoft PowerPoint 远程代码执行漏洞
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501)：Microsoft PowerPoint 远程代码执行漏洞
 
 ### <a name="word-security-updates"></a>Word：安全更新 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8504)：Microsoft Word 远程代码执行漏洞 
--   [ADV180026](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV180026)：Microsoft Office 深度防御更新 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504)：Microsoft Word 远程代码执行漏洞 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026)：Microsoft Office 深度防御更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8432)：Microsoft Graphics 组件远程代码执行漏洞 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft Graphics 组件远程代码执行漏洞 
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新 
 -   已修复以下问题：范围 2190...2194 中的符号切换为 Cambria Math 时，Excel 单元格高度增加 3 倍。
@@ -878,7 +878,7 @@ ms.locfileid: "49760714"
  - **利用新图表实现数据的可视化效果：** 从 11 个图表中选择一个图表并将其添加到窗体和报表，更好地实现数据的可视化效果，并做出明智的决策。[了解详细信息](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
  
  ### <a name="access-security-updates"></a>Access：安全更新
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **协作编辑：** 与其他人同时协作处理工作簿。[了解详细信息](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
@@ -888,18 +888,18 @@ ms.locfileid: "49760714"
 - **避免不需要的编辑：** 将工作簿设置为以只读方式打开，避免意外更改。转到“文件”>“信息”>“保护工作簿”>“始终以只读方式打开”
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 远程代码执行漏洞 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8379)：Microsoft Excel 远程代码执行漏洞 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 远程代码执行漏洞
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 远程代码执行漏洞
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 远程代码执行漏洞
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 信息泄漏漏洞
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 信息泄漏漏洞
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 信息泄漏漏洞
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   已修复以下问题：从图表源数据的原始单元格集更改图表源数据时，Excel 可能出现故障。
@@ -927,10 +927,10 @@ ms.locfileid: "49760714"
 - **优化创建组的用户体验：** 已优化创建组的用户体验，使其更现代、更简便。[了解详细信息](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 篡改漏洞
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全功能规避漏洞
--   [ADV180021](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 篡改漏洞
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全功能规避漏洞
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   已修复以下问题：如果将系统语言切换为日语并且尝试将日语字符键入 VBA IDE，在 Outlook 中加载时，可能会冻结。
@@ -994,8 +994,8 @@ ms.locfileid: "49760714"
 - **改进了 SVG 支持：** 可以插入应用了筛选器的 SVG。[了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8430)：Word PDF 远程代码执行漏洞
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 信息泄漏漏洞
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)：Word PDF 远程代码执行漏洞
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 信息泄漏漏洞
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复了导致出现内存不足消息的问题。
@@ -1003,16 +1003,16 @@ ms.locfileid: "49760714"
 -   修复了一些性能问题。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics 远程代码执行漏洞
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 远程代码执行漏洞
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 远程代码执行漏洞
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics 远程代码执行漏洞
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
 -   
-  **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过 [此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和 [此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解详细信息。
+  **出于安全考虑，禁止在 Office 中激活 Flash、Silverlight 和 Shockwave 控件：** 出于安全考虑，Windows 上的 Microsoft Office for Office 365 新版本阻止激活 Flash、Silverlight 和 Shockwave 控件。可通过[此处](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[此处](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)了解详细信息。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -  修复了在某些场景中导致更新安装所用时间过长的问题。
@@ -1023,30 +1023,30 @@ ms.locfileid: "49760714"
 *版本 1803（内部版本 9126.2275）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 远程代码执行漏洞 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8379)：Microsoft Excel 远程代码执行漏洞 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞 
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379)：Microsoft Excel 远程代码执行漏洞 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 信息泄漏漏洞 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [ADV180021](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防御更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞 
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 信息泄漏漏洞 
 
 ## <a name="version-1803-july-10"></a>版本 1803：7 月 10 日
 *版本 1803（内部版本 9126.2259）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 远程代码执行释放后使用漏洞
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新程序
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 篡改漏洞
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 篡改漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 远程代码执行漏洞
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新程序
 -   修复了在日期单元格格式中使用日本和历日历时显示错误年份的问题。
@@ -1070,14 +1070,14 @@ ms.locfileid: "49760714"
 *版本 1803（生成号 9126.2227）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新程序
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 信息泄漏漏洞
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 远程代码执行漏洞
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新程序
 -   修复了以下问题：Excel 数据透视表中的组合（或取消组合）操作有时可能会触发故障。
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新程序
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 特权提升漏洞
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新程序
 -   修复了以下问题：更改 Shape.Visibile 属性时，可能会发生潜在故障。
@@ -1113,17 +1113,17 @@ ms.locfileid: "49760714"
 *版本 1803（内部版本 9126.2191）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 远程代码执行漏洞
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 远程代码执行漏洞
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 远程代码执行漏洞
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 信息泄漏漏洞
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 信息泄漏漏洞
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了从 SharePoint Online 打开文件时 Excel 崩溃的问题。
 -   修复了打印或打印预览只打印或显示工作表部分，内容被工作表上的切片器截断的问题。
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全功能规避漏洞
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全功能规避漏洞
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了切换到发件箱或已发送邮件文件夹会导致 Outlook 崩溃的问题。
@@ -1144,8 +1144,8 @@ ms.locfileid: "49760714"
 -   修复了小写罗马数字页码 被错误地更改为大写的问题。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 远程代码执行漏洞
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 远程代码执行漏洞
 
 
 
@@ -1153,7 +1153,7 @@ ms.locfileid: "49760714"
 *版本 1803（内部版本 9126.2152）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 远程代码执行漏洞
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 -   修复了以下问题：多个用户在同一个演示文稿中共同创作导致幻灯片母板复制不正确。
@@ -1166,9 +1166,9 @@ ms.locfileid: "49760714"
 -   修复了导致出现内存不足消息的问题。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 信息泄漏漏洞
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 远程代码执行漏洞
 
 
 
@@ -1199,7 +1199,7 @@ ms.locfileid: "49760714"
 *版本 1803（内部版本 9126.2072）*
 
 ### <a name="access-security-updates"></a>Access：安全更新
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0903)：Microsoft Access 远程代码执行漏洞
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903)：Microsoft Access 远程代码执行漏洞
 
 ### <a name="access-non-security-updates"></a>Access：非安全更新
 -   修复了以下问题：打开 Access 运行时应用程序 (.accde file) 导致“无法识别此数据库的格式”错误消息出现，且应用程序无法打开。
@@ -1221,13 +1221,13 @@ ms.locfileid: "49760714"
 -   **触笔自定义：** 选择一组自己的触笔和荧光笔进行墨迹书写。自定义组适用于所有 Windows 电脑。
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能规避漏洞
--   [CVE-2017-11878](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11878)：Microsoft Excel 内存损坏漏洞
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11884)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 远程执行代码漏洞
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0841)：Microsoft Excel 远程执行代码漏洞
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全功能规避漏洞
--   [公告 170021](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV170021)：Microsoft Office 深度防御更新
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全功能规避漏洞
+-   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878)：Microsoft Excel 内存损坏漏洞
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884)：Microsoft Office 内存损坏漏洞
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 远程执行代码漏洞
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841)：Microsoft Excel 远程执行代码漏洞
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全功能规避漏洞
+-   [公告 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021)：Microsoft Office 深度防御更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：如果编辑语言是日语、中文或韩语，那么尝试在“开始”选项卡上选择新字体或进行编辑时，Excel 可能会冻结。
@@ -1258,11 +1258,11 @@ ms.locfileid: "49760714"
 -   **快速访问最常用的组：** 最常与之交互的组现在显示在“文件夹”窗格的“组”下方列表的顶部。
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [CVE-2017-11939](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11939)：Microsoft Office 信息泄漏漏洞
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0791)：Microsoft Outlook 远程代码执行漏洞
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程执行代码漏洞
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0850)：Microsoft Outlook 特权提升漏洞
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0852)：Microsoft Outlook 内存损坏漏洞
+-   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939)：Microsoft Office 信息泄漏漏洞
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791)：Microsoft Outlook 远程代码执行漏洞
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程执行代码漏洞
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850)：Microsoft Outlook 特权提升漏洞
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852)：Microsoft Outlook 内存损坏漏洞
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了以下问题：在搜索范围为全部邮箱时，搜索失败且看到“找不到匹配”错误消息。
@@ -1292,7 +1292,7 @@ ms.locfileid: "49760714"
 -   **数字标尺：** 在具有触摸屏的设备上，转到“绘图”\>“标尺”，然后使用笔或手指绘制直线或对齐一组对象。 [了解更多](https://support.office.com/article/6222c9b4-2fdf-48f7-a3fd-1687fbe2bf84)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全更新
--   [CVE-2017-11934](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 信息泄漏漏洞
+-   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 信息泄漏漏洞
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
 -   修复了以下问题：删除文档属性和个人信息导致无法保存到 SharePoint。
@@ -1398,19 +1398,19 @@ ms.locfileid: "49760714"
 -   **通过“编辑器”窗格增强了书写帮助：** “编辑器”窗格可用于提供高级拼写、语法和写作风格建议。对辅助技术的支持已经过改进，可以访问此窗格。
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程代码执行漏洞
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0801)：Microsoft Office 远程执行代码漏洞
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0802)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0804)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0805)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0806)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0807)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 内存损坏漏洞
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 信息泄漏漏洞
--   [公告 170020](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV170020)：Microsoft Office 深度防御更新
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程代码执行漏洞
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 内存损坏漏洞
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802)：Microsoft Office 内存损坏漏洞
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 内存损坏漏洞
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 信息泄漏漏洞
+-   [公告 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020)：Microsoft Office 深度防御更新
 
 ### <a name="word-non-security-updates"></a>Word：非安全更新
 -   修复了以下问题：如果用户尝试对 OneDrive for Business 上的现有文档执行“另存为”操作，然后又取消保存或尝试合并现有更改，Word 发生故障。
@@ -1419,11 +1419,11 @@ ms.locfileid: "49760714"
 -   修复了以下问题：无法撤消对文档的 IRM 保护。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2017-11882)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 远程执行代码漏洞
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0851)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 信息泄漏漏洞
--   [公告 180003](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV180003)：Microsoft Office 深度防御更新
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882)：Microsoft Office 内存损坏漏洞
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851)：Microsoft Office 内存损坏漏洞
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 信息泄漏漏洞
+-   [公告 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防御更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   修复以下问题：在打开应用程序时，用户可能会看到关于以安全模式启动而应用程序无法打开的消息。
@@ -1442,15 +1442,15 @@ ms.locfileid: "49760714"
 -   修复了以下问题：在使用多项目窗体时，调整鼠标滚轮的位置或滚动条缩略图不更改窗体中显示的项目。
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0841)：Microsoft Excel 远程代码执行漏洞
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841)：Microsoft Excel 远程代码执行漏洞
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0850)：Microsoft Outlook 特权提升漏洞
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0852)：Microsoft Outlook 内存损坏漏洞
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850)：Microsoft Outlook 特权提升漏洞
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852)：Microsoft Outlook 内存损坏漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0851)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 信息泄漏漏洞
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851)：Microsoft Office 内存损坏漏洞
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 信息泄漏漏洞
 
 
 
@@ -1458,32 +1458,32 @@ ms.locfileid: "49760714"
 *版本 1708（内部版本 8431.2153）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 远程代码执行漏洞
--   [公告 170021](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV170021)：Microsoft Office 深度防御更新
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 远程代码执行漏洞
+-   [公告 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021)：Microsoft Office 深度防御更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了在编程创建数据透视表后，编程刷新导致 Excel 崩溃的问题。
 
 ### <a name="outlook-security-updates"></a>Outlook：安全更新
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0791)：Microsoft Outlook 远程代码执行漏洞
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程代码执行漏洞
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791)：Microsoft Outlook 远程代码执行漏洞
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程代码执行漏洞
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程代码执行漏洞
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0801)：Microsoft Office 远程执行代码漏洞
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0802)：Microsoft Office 内存损坏漏洞
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0804)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0805)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0806)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0807)：Microsoft Word 远程代码执行漏洞
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 内存损坏漏洞
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 远程代码执行漏洞
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 内存损坏漏洞
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801)：Microsoft Office 远程执行代码漏洞
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802)：Microsoft Office 内存损坏漏洞
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807)：Microsoft Word 远程代码执行漏洞
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 内存损坏漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全更新
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 远程代码执行漏洞
--   [公告 180003](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/ADV180003)：Microsoft Office 深度防御更新
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 远程代码执行漏洞
+-   [公告 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防御更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
 -   针对 Office 365 德国计划，为身份与本地 Active Directory 联合的域用户添加了单一登录 (SSO) 的支持。

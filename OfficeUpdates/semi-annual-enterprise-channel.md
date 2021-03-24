@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741645"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169610"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的发行说明
 
 我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了半年企业频道更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ ms.locfileid: "50741645"
 ## <a name="version-2008-march-09"></a>版本 2008：3 月 9 日
 *版本 2008（内部版本13127.21348）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -68,12 +68,12 @@ ms.locfileid: "50741645"
 ## <a name="version-2002-march-09"></a>版本 2002：3 月 9 日
 *版本 2002（内部版本 12527.21686）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 列出安全更新
+[此处](./microsoft365-apps-security-updates.md) 列出安全更新
 
 ## <a name="version-2008-february-09"></a>版本 2008：2 月 09 日
 *版本 2008（内部版本 13127.21216）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -134,7 +134,7 @@ ms.locfileid: "50741645"
 ## <a name="version-2002-february-09"></a>版本 2002：2 月 09 日
 *版本 2002（内部版本 12527.21594）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -151,12 +151,12 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-february-09"></a>版本 1908：2 月 09 日
 *版本 1908（内部版本 11929.21008）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-2008-january-12"></a>版本2008：1月12日
 *版本2008（内部版本13127.21064）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -192,7 +192,7 @@ ms.locfileid: "50741645"
 
 - **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 将日历固定到“待办事项”窗格后，在 Exchange Server 2019 或 Exchange Online 上托管的用户帐户只需单击一次即可加入任何会议。 [了解更多](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/zh-CN/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
 
 - **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解更多](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -839,7 +839,7 @@ ms.locfileid: "50741645"
 ## <a name="version-2002-january-12"></a>版本2002：1月12日
 *版本2002（内部版本12527.21504）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -864,7 +864,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-january-12"></a>版本1908：1月12日
 *版本1908（内部版本11929.20994）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -881,7 +881,7 @@ ms.locfileid: "50741645"
 ## <a name="version-2002-december-08"></a>版本 2002：12 月 8 日
 *版本 2002（内部版本 12527.21416）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -925,12 +925,12 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-december-08"></a>版本 1908：12 月 8 日
 *版本 1908（内部版本 11929.20984）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出了安全更新
+[此处](./microsoft365-apps-security-updates.md)列出了安全更新
 
 ## <a name="version-2002-november-10"></a>版本 2002：11 月 10 日
 *版本 2002（内部版本 12527.21330）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -967,12 +967,12 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-november-10"></a>版本 1908：11 月 10 日
 *版本 1908（内部版本 11929.20974）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-2002-october-13"></a>版本 2002：10 月 13 日
 *版本 2002（内部版本 12527.21236）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1012,7 +1012,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-october-13"></a>版本 1908：10 月 13 日
 *版本 1908（内部版本 11929.20966）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1029,7 +1029,7 @@ ms.locfileid: "50741645"
 ## <a name="version-2002-september-08"></a>版本 2002：9 月 8 日
 *版本 2002（内部版本 12527.21104）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1059,12 +1059,12 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-september-08"></a>版本 1908：9 月 8 日
 *版本 1908（内部版本 11929.20946）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-2002-august-11"></a>版本2002:8月11日
 *版本2002（内部版本12527.20988）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1099,12 +1099,12 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-august-11"></a>版本1908:8月11日
 *版本 1908（内部版本 11929..20934）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-1902-august-11"></a>版本1902:8月11日
 *版本 1902（内部版本 11328.20644）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1115,7 +1115,7 @@ ms.locfileid: "50741645"
 ## <a name="version-2002-july-14"></a>版本 2002: 7 月 14 日
 *版本 2002（内部版本 12527.20880）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -1631,7 +1631,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-july-14"></a>版本1908：7月14日
 *版本 1908（内部版本 11929.20904）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1811,7 +1811,7 @@ ms.locfileid: "50741645"
 
 - 解决了一个问题，该问题导致用户在将共享日历文件夹同步到 OST 时遇到问题，这导致他们与这些文件夹进行交互时出现权限错误。
 
-- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/zh-CN/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - 解决了 SMIME 算法选择方面的问题。
 
@@ -1969,12 +1969,12 @@ ms.locfileid: "50741645"
 ## <a name="version-1902-july-14"></a>版本 1902：7 月 14 日
 *版本 1902（内部版本 11328.20624）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-1908-june-09"></a>版本 1908：6 月 9 日
 *版本 1908（内部版本 11929.20838）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2002,7 +2002,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1902-june-09"></a>版本 1902：6 月 9 日
 *版本 1902（内部版本 11328.20602）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2021,7 +2021,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-may-12"></a>版本 1908：5 月 12 日
 *版本 1908（内部版本 11929.20776）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2046,7 +2046,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1902-may-12"></a>版本 1902：5 月 12 日
 *版本 1902（内部版本 11328.20586）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2064,7 +2064,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-may-04"></a>版本 1908：5 月 4 日
 *版本 1908（内部版本 11929.20752）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-april-26"></a>版本 1908：4 月 26 日
 *版本1908（内部版本 11929.20736）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
 *版本 1908 （内部版本 11929.20708）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 
@@ -2145,14 +2145,14 @@ ms.locfileid: "50741645"
 ## <a name="version-1902-april-14"></a>版本 1902：4 月 14 日
 *版本 1902 （内部版本 11328.20564）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
 *版本 1908（内部版本 11929.20648）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2186,14 +2186,14 @@ ms.locfileid: "50741645"
 ## <a name="version-1902-march-10"></a>版本 1902：3 月 10 日
 *版本 1902（内部版本 11328.20554）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908（内部版本 11929.20606）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2261,7 +2261,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1902-february-11"></a>版本 1902：2 月 11 日
 *版本 1902（内部版本 11328.20526）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2283,14 +2283,14 @@ ms.locfileid: "50741645"
 ## <a name="version-1808-february-11"></a>版本 1808：2 月 11 日
 *版本 1808（内部版本 10730.20438）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-1908-january-14"></a>版本 1908：1 月 14 日
 *版本 1908（内部版本 11929.20562）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -2409,11 +2409,11 @@ ms.locfileid: "50741645"
 
 - **在更改时进行保存：** 将文件上传到 OneDrive，以确保所有更新均自动保存。
 
-- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **隐私控制：** 对诊断数据和连接体验的全新、更新和改进控制。 [了解更多](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。
 
-- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 安装：** 默认情况下，将为现已安装的 Office 365 专业增强版安装 Microsoft Teams。 [了解更多](/DeployOffice/teams-install)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -2652,7 +2652,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1902-january-14"></a>版本 1902：1 月 14 日
 *版本 1902（内部版本 11328.20512）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2680,7 +2680,7 @@ ms.locfileid: "50741645"
 ## <a name="version-1808-january-14"></a>版本 1808：1 月 14 日
 *版本 1808（内部版本 10730.20432）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 

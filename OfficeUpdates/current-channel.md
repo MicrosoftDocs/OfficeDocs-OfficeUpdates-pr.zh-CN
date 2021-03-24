@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902167"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169941"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
 我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了当前频道更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
  > [!NOTE]
 >
@@ -76,7 +76,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2102-march-09"></a>版本 2102：3 月 9 日
 *版本 2102（内部版本 13801.20294）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -155,7 +155,7 @@ ms.locfileid: "50902167"
 
 ### <a name="word"></a>Word
 
-- **一键式写作建议：** 只需单击一次，即可应用写作建议。 更新的“编辑器”窗格使你可以轻松地在建议间导航。 [了解更多](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[博客文章](https://insider.office.com/zh-CN/blog/microsoft-editor-gets-an-upgrade)中查看详细信息
+- **一键式写作建议：** 只需单击一次，即可应用写作建议。 更新的“编辑器”窗格使你可以轻松地在建议间导航。 [了解更多](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[博客文章](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)中查看详细信息
 
 - **要求用户应用敏感度标签：** 如果组织的策略要求，系统会提示用户应用敏感度标签。
 
@@ -233,7 +233,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2101-february-09"></a>版本 2101：2 月 09 日
 *版本 2101（内部版本 13628.20380）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -263,7 +263,7 @@ ms.locfileid: "50902167"
 
 - **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -275,19 +275,19 @@ ms.locfileid: "50902167"
 
 - **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -352,7 +352,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2012-january-12"></a>版本2012：1月12日
 *版本2012（内部版本13530.20376）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -465,7 +465,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2011-december-08"></a>版本 2011：12 月 8 日
 *版本 2011（内部版本 13426.20332）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -563,9 +563,9 @@ ms.locfileid: "50902167"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -667,7 +667,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2010-november-10"></a>版本 2010：11 月 10 日
 *版本 2010 (内部版本 13328.20356)*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -700,19 +700,19 @@ ms.locfileid: "50902167"
 
 - **使用 Power Query 创建数据类型：** 从任何数据源使用 Power Query 创建丰富的数据类型。 [了解详细信息](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[博客文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **使用动作笔快速编辑：** 使用动作笔，可直接在单元格中手写，使用自动转换为 Excel 数据的墨迹记下数据。
 
 ### <a name="outlook"></a>Outlook
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
-- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 [了解详细信息](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
+- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 [了解详细信息](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[博客文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +726,7 @@ ms.locfileid: "50902167"
 
 ### <a name="word"></a>Word
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -814,7 +814,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2009-october-13"></a>版本 2009：10 月 13 日
 *版本 2009（内部版本 13231.20390）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -880,7 +880,7 @@ ms.locfileid: "50902167"
 
 ### <a name="teams"></a>Teams
 
-- **在 Microsoft Teams 中共享文件：** [了解更多](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)
+- **在 Microsoft Teams 中共享文件：** [了解更多](/MicrosoftTeams/sharing-files-in-teams)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1145,7 +1145,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2007-august-11"></a>版本2007:8月11日
 *版本 2007（内部版本 13029.20344）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1296,7 +1296,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2006-july-14"></a>版本 2006：7 月 14 日
 *版本 2006（内部版本 13001.20384）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1490,7 +1490,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2005-june-09"></a>版本 2005：6 月 9 日
 *版本 2005（内部版本 12827.20336）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
@@ -1661,7 +1661,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2004-may-12"></a>版本 2004：5 月 12 日
 *版本 2004（内部版本 12730.20270）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1791,7 +1791,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2003-april-14"></a>版本 2003：4 月14 日
 *版本 2003（内部版本 12624.20442）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -1909,7 +1909,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002（生成号 12527.20278）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -1999,7 +1999,7 @@ ms.locfileid: "50902167"
 ## <a name="version-2001-february-11"></a>版本 2001：2 月 11 日
 *版本 2001（内部版本 12430.20264）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -2110,7 +2110,7 @@ ms.locfileid: "50902167"
 ## <a name="version-1912-january-14"></a>版本 1912：1 月 14 日
 *版本 1912（内部版本 12325.20298 ）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 ## <a name="version-1912-january-08"></a>版本 1912：1 月 8 日
 *版本 1912（内部版本 12325.20288）*
@@ -2127,7 +2127,7 @@ ms.locfileid: "50902167"
 
 - **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 

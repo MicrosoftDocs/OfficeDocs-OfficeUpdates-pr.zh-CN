@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2017 年 Office 365 专业增强版每月频道发布的发行说明
-ms.openlocfilehash: a41d4c959b108995e0a4d1d8601cf1635b2c594d
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735197"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169811"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017 年每月频道发布的发行说明
 
@@ -100,10 +100,10 @@ ms.locfileid: "50735197"
 -   修复了以下问题：在使用可访问事件观察器 (AccEvent.exe) 进行监视时，切换文件夹导致 Outlook 故障。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全更新
--   修复了以下问题：引用基于 Flash Player 的 YouTube 嵌入代码，导致打开新窗口来播放视频。旧嵌入代码现已升级为，引用基于 HTML5 的 YouTube 视频，以便正确就地播放这些视频。
+-   修复了对基于 Flash Player 的 YouTube 嵌入代码进行引用导致打开新窗口播放视频的问题。旧嵌入代码现已升级以引用基于 HTML5 的 YouTube 视频，以便正确播放这些视频。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全更新
--   修复了以下问题：在动态 DPI 环境下 Office 加载项存在的缩放问题。
+-   修复了在动态 DPI 环境下 Office 外接程序缩放的问题。
 -   修复了以下问题：即使当前安装了 Office 365 专业增强版，Office 配置服务提供程序 (CSP) 的 CurrentStatus 节点也会返回空字符串。
 -   修复了导致 .box 文件格式更改的问题，这些更改会影响安装在同一台计算机上的旧版 Office 的功能，因为 .box 文件在同一台计算机上的所有 Office 应用版本之间共享。
 
@@ -323,7 +323,7 @@ ms.locfileid: "50735197"
 -   **阻止危险扩展：** 默认阻止激活被视为高风险且作为 OLE 包对象嵌入的扩展。例如，.exe、.vbs 和 .js。[了解更多](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
--   添加对话框，解释阻止某些端口或不允许 IP 时用户无法加入会议的原因。
+-   添加对话框，解释当阻止特定端口或不允许 IP 时，用户为何无法加入某个会议。
 -   修复了在单击即时消息对话标签页时，持久聊天室中的未读消息会标记为已读的问题。
 -   修复了传入即时消息 Toast 发生数秒钟延迟的问题。
 -   修复了当禁用与 Exchange 同步时，AD 联系人显示为电话号码，而非联系人姓名的问题。
@@ -601,22 +601,22 @@ ms.locfileid: "50735197"
 -   **共享查询**：可以将任意查询定义导出到 Office 数据库连接 (ODC) 文件中，然后跨工作簿共享或与其他人共享。
 -   **加载数据：** 可以将查询中的数据直接加载到数据透视表或数据透视图中，而无需将数据保存到数据模型中。
 -   **“获取和转换数据”改进：** 在“查询编辑器”中，可以通过提供示例值创建新列。在输入过程中，Excel 会检测所需的转换，然后显示新列的预览效果。
--   **Windows 信息保护 (WIP) 支持：**   Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Excel 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：“合并后居中”对分组的工作表无效。
 
 ### <a name="onenote-feature-updates"></a>OneNote：功能更新
--   **Windows 信息保护 (WIP) 支持：** OneNote 应用程序现已启用 WIP，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：** OneNote 应用程序现已启用 WIP，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **Windows 信息保护 (WIP) 支持：** Outlook 应用程序现已启用 WIP，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：** Outlook 应用程序现已启用 WIP，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **链接附加对话框：** 使用功能区上的“附加文件”附加链接时，可以选择是将它添加为链接，还是添加为附件。如果不想每次都看到此对话框，请依次转到“文件”\>“选项”\>“常规”，并在“附件选项”下指定所需的链接附加方式。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **视频隐藏式字幕：** 可以在视频中添加隐藏式字幕，使其更易于访问。 [更多信息](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **设计器改进：** 设计器现在对幻灯片中添加的图表提供设计灵感建议。
--   **Windows 信息保护 (WIP) 支持：**   PowerPoint 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   PowerPoint 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [详细信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="project-non-security-updates"></a>Project：非安全更新
 -   修复了“创建项目网站”对话框，使其能够显示网站的正确位置。这样，在 Project Online 中，每个企业项目模板 (EPT) 都有自己的项目网站 URL。
@@ -631,7 +631,7 @@ ms.locfileid: "50735197"
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business：功能更新
 -   **插入链接：** 可以在 IM 和群组聊天中添加链接，并输入易记的链接文本，而不是完整 URL。
 -   **屏幕共享通知：** 在 IM 对话中共享屏幕或在离开会议后仍继续共享屏幕时，对话窗口中会显示屏幕共享通知。此通知旨在提醒仍在共享屏幕，只需使用“停止共享”按钮，即可轻松停止共享。
--   **Windows 信息保护 (WIP) 支持：** Skype for Business 现作为“仅 WIP 作业”应用受到支持。通过将 Skype 添加到允许的应用列表，可以指示 Windows 不处理个人数据。Windows 将代表 Skype for Business 保护数据。 [更多信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：** Skype for Business 现作为“仅 WIP 作业”应用受到支持。通过将 Skype 添加到允许的应用列表，可以指示 Windows 不处理个人数据。Windows 将代表 Skype for Business 保护数据。 [更多信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business：非安全更新
 -   如果尝试呼叫用户未成功，且已根据策略禁用音频，显示的消息从“无法完成呼叫”更改为“由于 IT 管理员已限制音频，无法呼叫。请尝试改用即时消息或电子邮件，并咨询 IT 管理员。”
@@ -646,7 +646,7 @@ ms.locfileid: "50735197"
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **通过“编辑器”窗格增强了书写帮助：** “编辑器”窗格可用于提供高级拼写、语法和写作风格建议。对辅助技术的支持已经过改进，可以访问此窗格。
 -   **替换文字创建：** 基于云的服务在文档中自动生成图片可选文字（替换文字）。
--   **Windows 信息保护 (WIP) 支持：**   Word 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](https://aka.ms/wiptechnet)
+-   **Windows 信息保护 (WIP) 支持：**   Word 现在是一个智能型应用，可以区分企业数据和个人数据，并能根据配置的策略正确地确定要保护的内容。 [更多信息](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ## <a name="version-1704-june-1"></a>版本 1704：6 月 1 日
 *版本 1704（内部版本 8067.2157）*
@@ -821,13 +821,13 @@ ms.locfileid: "50735197"
 *版本 1702（内部版本 7870.2024）*
 
 ### <a name="excel-security-updates"></a>Excel：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新程序 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新程序 (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business：安全更新
--   Microsoft 安全公告 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 图形组件安全更新 (4013075)
+-   Microsoft 安全公告 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013)：Microsoft 图形组件安全更新 (4013075)
 
 ### <a name="word-security-updates"></a>Word：安全更新
--   Microsoft 安全公告 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 安全更新 (3217868)
+-   Microsoft 安全公告 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 安全更新 (3217868)
 
 
 
@@ -1007,7 +1007,7 @@ ms.locfileid: "50735197"
 -   修复了以下问题：当打印的图像大于页面时，OneNote 发生故障。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **可固定的任务窗格：** 在邮箱中切换邮件的同时，可让外接程序任务窗格一直处于打开状态。 [更多信息](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **可固定的任务窗格：** 在邮箱中切换邮件的同时，可让外接程序任务窗格一直处于打开状态。 [更多信息](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全更新
 -   修复了以下问题：用户在右键单击对话附件列表中的附件时，可以看到所有上下文菜单项，而不是只看到适用的菜单项。
@@ -1044,7 +1044,7 @@ ms.locfileid: "50735197"
 -   修复了以下问题：在 IM 消息中单击 \\\\servername 或 file:// 等链接会看到错误消息，而不是打开相应的位置。
 -   修复了以下问题：在使用基于位置的路由的虚拟桌面基础结构 (VDI) 环境中，用户无法拨打或接听 PSTN 呼叫，因为服务器认为用户的位置对 PSTN 呼叫无效。
 -   当用户的状态设置为"请勿打扰或正在显示"时，将针对错过的邮件发送的电子邮件的主题行从"错过的对话与"更改为"在 Skype for Business 中发送给你一条消息 \<name\> \<Name\> "。
--   开始在设备上捕获首次登录的时间戳作为 [统计数据的](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 一部分，以帮助确定登录可靠性趋势。
+-   开始在设备上捕获首次登录的时间戳作为 [统计数据的](/skypeforbusiness/legal-and-regulatory/data-collection-practices) 一部分，以帮助确定登录可靠性趋势。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **辅助功能改进：** 改进了对键盘、讲述人和其他辅助技术的支持，方便用户处理图形、与他人协同编辑等。
@@ -1065,7 +1065,7 @@ ms.locfileid: "50735197"
 ## <a name="version-1611-january-4"></a>版本 1611：1 月 4 日
 *版本 1611（内部版本 7571.2109）*
 
-注意：Microsoft 安全公告 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 中涵盖的安全更新不适用于此频道版本中的 Word 版本。
+注意：Microsoft 安全公告 [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) 中涵盖的安全更新不适用于此频道版本中的 Word 版本。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全更新
 -   修复了以下问题：在另存为 CSV 或 CSV UTF-8 时，无法正确导出包含文本和双引号的单元格值。
