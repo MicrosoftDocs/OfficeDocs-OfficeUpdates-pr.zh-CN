@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供有关 Office 365 专业增强版已知问题的信息
-ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: f93d43233c448cdc1100fe82e255acbb1fd344f3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369940"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169841"
 ---
 # <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 应用版的已知问题
 
@@ -23,7 +23,7 @@ ms.locfileid: "48369940"
 
 > [!NOTE]
 >- 此列表并不全面。
->- 如果你在显示为“已解决”的频道以外的频道中遇到问题，则问题可以很快得到解决。 [了解更多](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
+>- 如果你在显示为“已解决”的频道以外的频道中遇到问题，则问题可以很快得到解决。 [了解更多](/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
 >- 已解决的问题也记录在其各自的频道页面中。
 
 <br>
@@ -116,7 +116,7 @@ ms.locfileid: "48369940"
 - 发现了将文件作为来自 OneDrive 的对象插入时出现的问题。<br><br> **已解决**：每月版本 1910 (12130.20272)
 
 ### <a name="office-suite"></a>Office 套件
-- 尝试将文件保存到断开的网络共享可能会导致出现问题**正在调查**：每月
+- 尝试将文件保存到断开的网络共享可能会导致出现问题 **正在调查**：每月
 
 
 
