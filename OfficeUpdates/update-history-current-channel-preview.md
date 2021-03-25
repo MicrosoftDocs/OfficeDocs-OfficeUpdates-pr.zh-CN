@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 139b25287695c0147c36e5766f0a2127fffb74eb
-ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
+ms.openlocfilehash: e897f5cbe2f4533b4a357ece4a4c412f5f63ba01
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51030772"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170231"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 当前频道（预览）的更新历史记录
 
@@ -24,12 +24,12 @@ ms.locfileid: "51030772"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 当前频道（预览）版本和内部版本
 
 如果你注册了当前频道（预览）级别（以前称为“预览体验计划 - 慢”），则大约一个月左右会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续内部版本。 下表显示了最近的当前频道（预览）版本和内部版本，其中 **首先列出了最新发布的内部版本**。 新的内部版本包含之前的内部版本中包含的所有更新。
-若要查找发行说明，[请参阅](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)。 此外，你还可以查看 [Office 预览体验计划的新增功能](https://insider.office.com/zh-CN/releasenotes/windows/slow)。
+若要查找发行说明，[请参阅](./current-channel-preview.md)。 此外，你还可以查看 [Office 预览体验计划的新增功能](https://insider.office.com/zh-CN/releasenotes/windows/slow)。
 
 
 > [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](/deployoffice/name-change)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 > [!NOTE]
 > - 此处的更新历史记录列出了发布的所有内部版本

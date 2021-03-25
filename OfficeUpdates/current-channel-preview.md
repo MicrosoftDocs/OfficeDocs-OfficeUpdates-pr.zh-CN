@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: e12cd2ef1015a6f561d186ace737e96548dc5d18
-ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
+ms.openlocfilehash: 9034604f61ae18eaa07a1467814fdf160b4f46f6
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51030762"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169981"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
 本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access、Project 和 Teams 的当前频道（预览）内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 请注意，我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道（预览）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 > [!NOTE]
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
@@ -585,20 +585,20 @@ ms.locfileid: "51030762"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解详细信息](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)。
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解详细信息](/microsoft-365/compliance/sensitivity-labels)。
 
 
 ### <a name="word"></a>Word
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 
 ### <a name="resolved-issues"></a>已解决的问题
@@ -2119,7 +2119,7 @@ ms.locfileid: "51030762"
 ## <a name="version-2008-august-11"></a>版本2008:8月11日
 *版本2008（内部版本13127.20164）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -3349,7 +3349,7 @@ ms.locfileid: "51030762"
 ## <a name="version-2003-april-14"></a>版本 2003：4 月14 日
 *版本 2003（内部版本 12624.20466）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -3524,18 +3524,18 @@ ms.locfileid: "51030762"
 ## <a name="version-2003-march-10"></a>版本 2003：3 月 10 日
 *版本 2003（内部版本 12624.20176）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 [//]: # (请勿移除错误详细信息内容开头)
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
-- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。 [了解更多](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 </br>
 
 ### <a name="resolved-issues"></a>已解决的问题
@@ -3744,7 +3744,7 @@ ms.locfileid: "51030762"
 ## <a name="version-2002-february-11"></a>版本 2002：2 月 11 日
 *版本 2002（内部版本 12527.20092）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -3864,4 +3864,3 @@ ms.locfileid: "51030762"
 [//]: # (请勿移除错误详细信息内容结尾)
 
 [//]: # (请勿移除错误详细信息内容结尾)
-
