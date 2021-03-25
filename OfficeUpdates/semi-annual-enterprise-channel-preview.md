@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 6fdea7518be03546ba6bd761c88634da3b29d071
+ms.sourcegitcommit: 63637fc22e4a2df0000612e8b4d51a29af7fb6e5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170211"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51196731"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
@@ -79,9 +79,7 @@ ms.locfileid: "51170211"
 
 ### <a name="word"></a>Word
 
-- **墨迹工具箱中的“套索和橡皮擦”：** 使用绘图工具时，现在“墨迹工具箱”中可以提供“套索” 和“橡皮擦”了。<br />在 [博客文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/) 中查看详细信息
-
-- **使工具易于使用：** 在绘图工具箱中，查找可向文本添加墨迹手势的智能笔。 [了解详细信息](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />在[博客文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看详细信息
+- **墨迹工具箱中的“套索和橡皮擦”：** 使用绘图工具时，现在“墨迹工具箱”中可以提供“套索” 和“橡皮擦”了。<br />在[博客文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看详细信息
 
 - **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。  我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
 
