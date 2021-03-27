@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: f8d234b83d6b08b1f6fd15630055bb150441322b
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 1ee65ac506208e6c4005b40ad50fdeebf044d917
+ms.sourcegitcommit: 856b82b3d51fd4bcee3ecf516dc30e05d5ba0921
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169951"
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "51383772"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,31 @@ ms.locfileid: "51169951"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2104-march-26"></a>版本 2104：3 月 26 日
+*版本 2104（内部版本 13919.20002）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复了同步文件夹层次结构更改时导致某些用户意外关闭 Outlook 的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了粘贴文本中复制和粘贴样式可能不同的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了与文本迭代相关的性能问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2104-march-19"></a>版本 2104：3 月 19 日
 *版本 2104（内部版本 13913.20000）*
@@ -675,7 +700,7 @@ ms.locfileid: "51169951"
 
 ### <a name="word"></a>Word
 
-- **与新式评论更好地协作：** 向对象添加批注、@提及同事并解决批注线程，以便获得更好的协作体验。 [了解更多](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[博客文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看详细信息
+- **与新式评论更好地协作：** 向对象添加批注、@提及同事并解决批注线程，以便获得更好的协作体验。 [了解更多](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[博客文章](https://insider.office.com/zh-CN/blog/modern-commenting-in-word)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1618,19 +1643,19 @@ ms.locfileid: "51169951"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="outlook"></a>Outlook
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="word"></a>Word
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -2736,6 +2761,7 @@ ms.locfileid: "51169951"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
@@ -2745,5 +2771,4 @@ ms.locfileid: "51169951"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (不修改管理中心元数据内容结束)
