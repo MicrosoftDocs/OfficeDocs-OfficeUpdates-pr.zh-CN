@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
-ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
+ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
+ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408045"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440707"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,10 @@ ms.locfileid: "51408045"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+## <a name="version-2103-march-30"></a>版本 2103：3 月 30 日
+*版本 2103（内部版本 13901.20312）*
+* 各种 bug 和性能修补程序。
 
 ## <a name="version-2103-march-28"></a>版本 2103：3 月 28 日
 *版本 2103（内部版本 13901.20306）*
