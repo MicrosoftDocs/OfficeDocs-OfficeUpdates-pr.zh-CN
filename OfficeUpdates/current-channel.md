@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
+ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169941"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51487246"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -32,6 +32,126 @@ ms.locfileid: "51169941"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2103-march-30"></a>版本 2103：3 月 30 日
+*版本 2103（内部版本 13901.20312）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。<br />在[博客文章](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)中查看详细信息
+
+- **新式会议室和工作区预定体验：** 会议室预定体验已刷新，通过此体验，我们添加了允许你安排个别工作区的功能
+
+- **选择搜索位置：**“新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。 感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。 此项设计和更新正是来自于该反馈！
+
+- **搜索人员时获取会议建议：** 在搜索框中键入人员姓名时，搜索建议中将包含日历邀请的最相关电子邮件包括在内。
+
+- **共享到 Teams：** 与 Teams 中的人员或频道共享 Outlook 中的邮件。
+
+- **使用语音撰写邮件：** 使用新的听写工具栏，语音命令，自动标点符号等撰写邮件。
+
+### <a name="teams"></a>Teams
+
+- **会议反应：** 会议反应是在会议中进行交互的新方式。 参与者可以发送反应，并且这些反应将以流的形式显示在共享内容以及发送响应的个人上（如果它们在会议阶段显示）。
+
+- **在 Teams 会议中管理与会者音频权限的改进：** 会议演示者和组织者现可允许与会者取消静音，即使不上手。 以前，阻止取消静音（已禁用麦克风）的会议与会者必须抬起手来允许取消静音。
+
+- **在 Teams 会议中管理与会者音频权限的改进：** 以前，会议演示者或组织者无法禁用会议中单个与会者的麦克风。 组织者或演示者只能将"允许与会者取消静音"设置为关闭，从而禁用每个与会者的麦克风。 通过此更改，会议演示者和组织者可以防止在工作组会议期间单个与会者以临时方式取消静音。
+
+- **改进了会议参与者名单的体验：** 现在，我们正在更改参与者列表在"车队"（在会议、演示者和与会者参与者）的 Teams 会议中的显示方式。 初始视图中每个节最多显示 20 位参与者，可选择深入研究并查看该分区内的其他参与者。 对于查阅人，可在将全部插入会议之前查看完整列表。 名单将显示会议中大多数活跃参与者的详细信息（按字母顺序排列）。 参与者操作菜单未发生变化。
+
+- **从名单搜索会议参与者：** 从名单中的搜索框搜索，现在用户可以在会议参与者中搜索，以确定是否有特定人员已加入会议。 他们可继续搜索会议外部参与者，并请求其加入会议。
+
+- **从 Outlook 共享到 Teams：** Outlook 共享给 Teams 允许你将电子邮件或对话（包括附件）的副本发送到 Teams 聊天和频道。 在 Outlook 功能区或电子邮件的操作菜单上查找"共享到 Teams"选项。 共享到 Teams 支持 Outlook 网页版、Outlook for Windows 和新的 Outlook for Mac 预览版。
+
+- **分会议室计时器和会议室分配保留：** 组织者现可通过会议室设置为分会会议室设置计时器。 计时器过期后，会议室将自动关闭，且参与者将返回主会议。 通过会议室作业保留，可保持多个会话中的会议室配置和分配。使用参与者重新分配功能，组织者现能够在打开会议室时在会议室和主会议间移动加入的参与者。
+
+- **脱机访问文件：** 用户现可以访问以前打开的文件，即使没有 Internet 连接也是如此。
+
+- **共享 PowerPoint 文件时的网格视图：** 在会议上共享 PowerPoint 文件时，用户现在可以使用网格视图查看幻灯片组内的所有幻灯片，以便进行简单的临时幻灯片导航。
+
+### <a name="word"></a>Word
+
+- **使用语音撰写文档：** 使用新的听写工具栏，语音命令和自动标点来起草文档。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 此更改修复了在某些情况下，运行 SQL Server 通过查询可能会导致错误消息表明存在"光标状态无效"的问题。
+
+- 我们修复了外部应用程序请求辅助功能界面时，在其释放引用之前阻止我们关闭的问题。
+
+### <a name="project"></a>项目
+
+- 修复了 Office 功能区中禁用的命令只会灰显图标，但不显示深灰色 Office 主题中的文本。
+
+### <a name="excel"></a>Excel
+
+- 修复了 Office 功能区中禁用的命令只会灰显图标，但不显示深灰色 Office 主题中的文本。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了同步文件夹层次结构更改时导致某些用户意外关闭 Outlook 的问题。
+
+
+- 修复了一个问题，导致某些用户在导航窗格中看到主要日历和次要日历切换位置。
+
+
+- 修复了导致用户看到签名超过预期的问题。
+
+
+- 我们修复了导致某些人员无法访问与辅助邮件账户相关联的签名的问题。
+
+
+- 我们修复了导致云设置功能用户在新设备上配置 Outlook 后会看到默认设置覆盖自定义设置的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了 Office 功能区中禁用的命令只会灰显图标，但不显示深灰色 Office 主题中的文本。
+
+
+### <a name="visio"></a>Visio
+
+- 修复了 Visio 在关闭期间停止运行的问题。
+
+
+### <a name="word"></a>Word
+
+- 共同创作文档时，活动草稿在批注顺序更改时没有清除。
+
+
+- 修复了 Office 功能区中禁用的命令只会灰显图标，但不显示深灰色 Office 主题中的文本。
+
+
+- 修复了与复制和粘贴相关的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了 GCC 用户禁用听写的 bug
+
+
+- 修复了一个 bug，此 bug 有时可能导致 Outlook 中的文本变为透明，因而无法清晰显示。
+
+
+- 解决了与支持在会话 0 中运行的 Office 应用相关的可靠性问题。
 
 
 
@@ -155,7 +275,7 @@ ms.locfileid: "51169941"
 
 ### <a name="word"></a>Word
 
-- **一键式写作建议：** 只需单击一次，即可应用写作建议。 更新的“编辑器”窗格使你可以轻松地在建议间导航。 [了解更多](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[博客文章](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)中查看详细信息
+- **一键式写作建议：** 只需单击一次，即可应用写作建议。 更新的“编辑器”窗格使你可以轻松地在建议间导航。 [了解更多](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[博客文章](https://insider.office.com/zh-CN/blog/microsoft-editor-gets-an-upgrade)中查看详细信息
 
 - **要求用户应用敏感度标签：** 如果组织的策略要求，系统会提示用户应用敏感度标签。
 
@@ -563,9 +683,9 @@ ms.locfileid: "51169941"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件”>“帐户”，然后在“Office 主题”下拉列表中选择“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -700,19 +820,19 @@ ms.locfileid: "51169941"
 
 - **使用 Power Query 创建数据类型：** 从任何数据源使用 Power Query 创建丰富的数据类型。 [了解详细信息](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[博客文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **使用动作笔快速编辑：** 使用动作笔，可直接在单元格中手写，使用自动转换为 Excel 数据的墨迹记下数据。
 
 ### <a name="outlook"></a>Outlook
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
-- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 [了解详细信息](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[博客文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
+- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 [了解详细信息](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +846,7 @@ ms.locfileid: "51169941"
 
 ### <a name="word"></a>Word
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -2127,7 +2247,7 @@ ms.locfileid: "51169941"
 
 - **全面优化你的演示文稿：** 辅助功能检查器可帮助你在使用屏幕阅读器时排列幻灯片上的对象。
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/zh-CN/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -2164,6 +2284,7 @@ ms.locfileid: "51169941"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|产品| |.16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|产品| |.16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20294|版本-2102-3-09|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20266|version-2102-march-01|)
@@ -2173,5 +2294,4 @@ ms.locfileid: "51169941"
 [//]: # (|Win32|CC|产品| |.16.0.13530.20440|version-2012-1-21|)
 [//]: # (|Win32|CC|生产| |16.0.13530.20376|版本-2012年1月12日|)
 [//]: # (|Win32|CC|生产| |16.0.13530.20316|2012 版 1 月 5 日|)
-[//]: # (|Win32|CC|生产| |16.0.13426.20404|2011 年 12 月 21 日版|)
 [//]: # (不修改管理中心元数据内容结束)

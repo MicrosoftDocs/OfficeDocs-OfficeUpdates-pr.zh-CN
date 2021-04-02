@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: c1e99728c8928e7f014f46fc5598102f8f92f72d
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 4a170a9784e1724c67a50769590d969e57a16264
+ms.sourcegitcommit: 5ce5af1dcdbe2e8eb8fcf5987690f7de7289ee2a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170201"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51476117"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -36,7 +36,7 @@ ms.locfileid: "51170201"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2102<br/>|13801.20360<br/>|2021 年 3 月 18 日<br/>|版本 2103 已发布<br/>|
+|当前频道<br/>|2103<br/>|13901.20312<br/>|2021 年 3 月 30 日<br/>|版本 2104 发布<br/>|
 |每月企业频道<br/>|2101<br/>|13628.20528<br/>|2021 年 3 月 9 日<br/>|2021 年 5 月 11 日<br/>|
 |每月企业频道<br/>|2012<br/>|13530.20628<br/>|2021 年 3 月 9 日<br/>|2021 年 4 月 13 日<br/>|
 |半年度企业频道（预览）<br/>|2102<br/>|13801.20294<br/>|2021 年 3 月 9 日<br/>|2021 年 9 月 14 日<br/>|
@@ -55,6 +55,7 @@ ms.locfileid: "51170201"
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021 年|3 月 30 日|[版本 2103（内部版本 13901.20312）](current-channel.md#version-2103-march-30)| | | |
 |2021 年|3 月 18 日|[版本 2102（内部版本 13801.20360）](current-channel.md#version-2102-march-18)| | | |
 |2021 年|3 月 9 日|[版本 2102（内部版本 13801.20294）](current-channel.md#version-2102-march-09)|[版本 2101（内部版本 13628.20528）](monthly-enterprise-channel.md#version-2101-march-09)<br/>[版本 2012（内部版本 13530.20628）](monthly-enterprise-channel.md#version-2012-march-09)|[版本 2102（内部版本 13801.20294）](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[版本 2008（内部版本13127.21348）](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[版本 2002（内部版本 12527.21686）](semi-annual-enterprise-channel.md#version-2002-march-09)|
 |2021 年|3 月 1 日|[版本 2102（内部版本 13801.20266）](current-channel.md#version-2102-march-01)| | | |
