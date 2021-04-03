@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 1ee65ac506208e6c4005b40ad50fdeebf044d917
-ms.sourcegitcommit: 856b82b3d51fd4bcee3ecf516dc30e05d5ba0921
+ms.openlocfilehash: 78d200b4d33693aa0092fe9a7c768fef67e6721e
+ms.sourcegitcommit: 5863f79973406ef27d5904509c0aef059e25c17b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51383772"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51506779"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,46 @@ ms.locfileid: "51383772"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2104-april-02"></a>版本 2104：4 月 02 日
+*版本 2104（内部版本 13929.20016）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Outlook for Windows 中建议的答复：** 收到可通过简短答复获得答复的电子邮件时，Outlook 建议三次单击即可回复。
+
+- **共享日历更新速度更快：** 对于 Office 365 中的共享日历，Outlook 可以使用 REST API 更新这些日历。 打开预览，更快速、更可靠地更新共享日历。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了外部应用程序请求辅助功能界面时，在其释放引用之前阻止我们关闭的问题。
+
+
+### <a name="word"></a>Word
+
+- 在此 bug 中，Office 不执行特定策略（应该禁用这些策略时，已在主页上显示一组模板）。 借助此修补程序，将遵守这些策略。
+
+
+- 我们修复了自动保存中的问题。
+
+
+- 我们在 Application.OnTime 中修复了错误触发的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2104-march-26"></a>版本 2104：3 月 26 日
 *版本 2104（内部版本 13919.20002）*
@@ -2761,6 +2801,7 @@ ms.locfileid: "51383772"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
@@ -2770,5 +2811,4 @@ ms.locfileid: "51383772"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (不修改管理中心元数据内容结束)

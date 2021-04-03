@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
-ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
+ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
+ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440707"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "51582078"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,22 @@ ms.locfileid: "51440707"
 > - Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。
 
 [//]: # (请勿移除)
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2103-april-02"></a>版本 2103：4 月 02 日
+*版本 2103（内部版本 13901.20336）*
+* 各种 bug 和性能修补程序。
+
+## <a name="version-2103-april-1"></a>版本 2103：4 月 1 日
+*版本 2103（内部版本 13901.20148）*
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **使用此更新** ，Teams 中的日期/时间格式将匹配 Mac 和 Windows 操作系统区域设置。 以前，Teams 将仅以与应用程序语言对应的格式显示日期/时间。 请注意，不管操作系统的日历设置如何，只支持公历，这一点很重要。 
+
+[//]: # (请勿移除功能详细信息内容结尾)
 
 ## <a name="version-2103-march-30"></a>版本 2103：3 月 30 日
 *版本 2103（内部版本 13901.20312）*
@@ -79,27 +95,11 @@ ms.locfileid: "51440707"
 
 - 修复了 Visio 在关闭期间停止运行的问题。
 
-
-
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2103-march-12"></a>版本 2103：3 月 12 日
-*版本 2103（内部版本 13901.20148）*
-
 [//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="teams"></a>Teams
-
-- **外出状态** 设置信息让他人知道你不在工作或正在休假，因此他们发聊天消息给你的时候你无法回复。 你的外出状态也会和Outlook 日历中的自动答复同步。
-
-[//]: # (请勿移除)
-
-
 ## <a name="version-2103-march-11"></a>版本 2103：3 月 11 日
 *版本 2103（内部版本 13901.20148）*
-
-[//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
@@ -114,6 +114,10 @@ ms.locfileid: "51440707"
 
 - **对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。 使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。 需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。
 
+### <a name="teams"></a>Teams
+
+- **外出状态** 设置信息让他人知道你不在工作或正在休假，因此他们发聊天消息给你的时候你无法回复。 你的外出状态也会和Outlook 日历中的自动答复同步。
+
 ### <a name="visio"></a>Visio
 
 - **Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。 [了解更多](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
@@ -123,7 +127,6 @@ ms.locfileid: "51440707"
 - **Word 文档的深色模式：** 深色模式可以在处理文档时，帮助减轻眼部疲劳，降低对光线的敏感度。
 
 - **对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。 使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。 需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。
-
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
