@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
-ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
+ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
+ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51487246"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51589884"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -36,6 +36,15 @@ ms.locfileid: "51487246"
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2103-april-02"></a>版本 2103：4 月 02 日
+*版本 2103（内部版本 13901.20336）*
+* 各种 bug 和性能修补程序。
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复了具有 ARM 处理器的计算机上，启用 MAPI 的应用程序所使用的 Outlook 组件中的问题。 该问题导致搜索失败，或因背景应用重复重新启动导致计算机的额外负载。
 
 ## <a name="version-2103-march-30"></a>版本 2103：3 月 30 日
 *版本 2103（内部版本 13901.20312）*
@@ -2284,6 +2293,7 @@ ms.locfileid: "51487246"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|产品| |.16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|产品| |.16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20294|版本-2102-3-09|)
@@ -2293,5 +2303,4 @@ ms.locfileid: "51487246"
 [//]: # (|Win32|CC|生产| |16.0.13628.20274|2101 版 1 月 26 日|)
 [//]: # (|Win32|CC|产品| |.16.0.13530.20440|version-2012-1-21|)
 [//]: # (|Win32|CC|生产| |16.0.13530.20376|版本-2012年1月12日|)
-[//]: # (|Win32|CC|生产| |16.0.13530.20316|2012 版 1 月 5 日|)
 [//]: # (不修改管理中心元数据内容结束)
