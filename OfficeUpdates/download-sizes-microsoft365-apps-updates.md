@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: 710af3f6cfb276732812490957d22cd40fd9c737
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: fd0201ce7ec5cb64809556c01ed27fabfd461f62
+ms.sourcegitcommit: 94b7247497c7498627f408aa6d08ea32b4af7eb0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589874"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645034"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -35,6 +35,43 @@ ms.locfileid: "51589874"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+[//]: # (请勿移除预测内容开头)
+
+## <a name="april-8-2021"></a>2021 年 4 月 8 日
+
+
+### <a name="monthly-enterprise-channel"></a>每月企业频道
+
+<i>预期版本是版本 2102（内部版本 13801.20490）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2101（内部版本 13628.20528） <br/> |2021 年 3 月 9 日 <br/> |190<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年度企业频道（预览）
+
+<i>预期版本是版本 2102（内部版本 13801.20454）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2102（内部版本 13801.20294） <br/> |2021 年 3 月 9 日 <br/> |63<br/> |
+|版本 2008（内部版本 13127.21216） <br/> |2021 年 2 月 9 日 <br/> |444<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年度企业频道
+
+<i>预期版本是版本 2008（内部版本 13127.21474）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2008（内部版本 13127.21348） <br/> |2021 年 3 月 9 日 <br/> |61<br/> |
+|版本 2008（内部版本 13127.21216） <br/> |2021 年 2 月 9 日 <br/> |62<br/> |
+
+
+[//]: # (请勿移除预测内容结尾)
 
 ## <a name="april-2-2021"></a>2021 年 4 月 2 日
 
@@ -670,7 +707,7 @@ ms.locfileid: "51589874"
 
 ## <a name="related-topics"></a>相关主题
 
-- [Microsoft 365 应用版更新频道概述](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 应用版更新通道概述](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Microsoft 365 应用版的更新历史记录（按日期列出）](./update-history-microsoft365-apps-by-date.md)
 

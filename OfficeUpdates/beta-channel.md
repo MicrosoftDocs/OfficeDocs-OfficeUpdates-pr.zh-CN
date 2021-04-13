@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 78d200b4d33693aa0092fe9a7c768fef67e6721e
-ms.sourcegitcommit: 5863f79973406ef27d5904509c0aef059e25c17b
+ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
+ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51506779"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51662326"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,24 @@ ms.locfileid: "51506779"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-april-09"></a>版本 2105：4 月 09 日
+*版本 2105（内部版本 14002.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **辅助功能功能** ：在一处找到创建易于访问的内容所需的全部工具 - 辅助功能功能区！
+
+### <a name="word"></a>Word
+
+- **现对文档中的选定文本提供校对功能：** 通过这些更改，现可仅查看所选文本的拼写、语法和其他智能写作建议。 此外，还可以查看针对整个文档的建议。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
 
 ## <a name="version-2104-april-02"></a>版本 2104：4 月 02 日
 *版本 2104（内部版本 13929.20016）*
@@ -2801,6 +2819,7 @@ ms.locfileid: "51506779"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
@@ -2810,5 +2829,4 @@ ms.locfileid: "51506779"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (不修改管理中心元数据内容结束)
