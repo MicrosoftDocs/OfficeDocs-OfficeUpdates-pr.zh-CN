@@ -9,124 +9,162 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
-ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
+ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "51582078"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749060"
 ---
-# <a name="release-notes-for-office-current-channel-preview"></a><span data-ttu-id="c9536-103">Office 的发布笔记当前频道（预览）</span><span class="sxs-lookup"><span data-stu-id="c9536-103">Release Notes for Office Current Channel (Preview)</span></span>
+# <a name="release-notes-for-office-current-channel-preview"></a><span data-ttu-id="75f95-103">Office 的发布笔记当前频道（预览）</span><span class="sxs-lookup"><span data-stu-id="75f95-103">Release Notes for Office Current Channel (Preview)</span></span>
 
-<span data-ttu-id="c9536-104">本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access、Project 和 Teams 的当前频道（预览）内部版本的发行说明。</span><span class="sxs-lookup"><span data-stu-id="c9536-104">This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, Project, and Teams for Windows desktop.</span></span> <span data-ttu-id="c9536-105">每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="c9536-106">请注意，我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道（预览）。</span><span class="sxs-lookup"><span data-stu-id="c9536-106">Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time.</span></span> <span data-ttu-id="c9536-107">这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。</span><span class="sxs-lookup"><span data-stu-id="c9536-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="c9536-108">因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。</span><span class="sxs-lookup"><span data-stu-id="c9536-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
+<span data-ttu-id="75f95-104">本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access、Project 和 Teams 的当前频道（预览）内部版本的发行说明。</span><span class="sxs-lookup"><span data-stu-id="75f95-104">This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, Project, and Teams for Windows desktop.</span></span> <span data-ttu-id="75f95-105">每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="75f95-106">请注意，我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道（预览）。</span><span class="sxs-lookup"><span data-stu-id="75f95-106">Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time.</span></span> <span data-ttu-id="75f95-107">这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。</span><span class="sxs-lookup"><span data-stu-id="75f95-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="75f95-108">因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。</span><span class="sxs-lookup"><span data-stu-id="75f95-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
 
 > [!IMPORTANT]
-> <span data-ttu-id="c9536-109">我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。</span><span class="sxs-lookup"><span data-stu-id="c9536-109">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="c9536-110">若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。</span><span class="sxs-lookup"><span data-stu-id="c9536-110">To learn more, [read this article](/DeployOffice/update-channels-changes).</span></span>
+> <span data-ttu-id="75f95-109">我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。</span><span class="sxs-lookup"><span data-stu-id="75f95-109">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="75f95-110">若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。</span><span class="sxs-lookup"><span data-stu-id="75f95-110">To learn more, [read this article](/DeployOffice/update-channels-changes).</span></span>
 
 > [!NOTE]
-> - <span data-ttu-id="c9536-111">发行说明发布日期可能与实际内部版本发布日期不一致。</span><span class="sxs-lookup"><span data-stu-id="c9536-111">The release notes publication date may not match the actual build release date.</span></span>
-> - <span data-ttu-id="c9536-112">Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。</span><span class="sxs-lookup"><span data-stu-id="c9536-112">Microsoft Teams features may differ from the latest Current Channel Preview released as they have a more frequent release cadence.</span></span>
+> - <span data-ttu-id="75f95-111">发行说明发布日期可能与实际内部版本发布日期不一致。</span><span class="sxs-lookup"><span data-stu-id="75f95-111">The release notes publication date may not match the actual build release date.</span></span>
+> - <span data-ttu-id="75f95-112">Microsoft Teams 的功能可能不同于最新发布的当前频道预览版，因为前者具有更高的发布频率。</span><span class="sxs-lookup"><span data-stu-id="75f95-112">Microsoft Teams features may differ from the latest Current Channel Preview released as they have a more frequent release cadence.</span></span>
 
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-## <a name="version-2103-april-02"></a><span data-ttu-id="c9536-115">版本 2103：4 月 02 日</span><span class="sxs-lookup"><span data-stu-id="c9536-115">Version 2103: April 02</span></span>
-<span data-ttu-id="c9536-116">*版本 2103（内部版本 13901.20336）*</span><span class="sxs-lookup"><span data-stu-id="c9536-116">*Version 2103 (Build 13901.20336)*</span></span>
-* <span data-ttu-id="c9536-117">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-117">Various bugs and performance fixes.</span></span>
+## <a name="version-2103-april-10"></a><span data-ttu-id="75f95-115">版本 2103：4 月 10 日</span><span class="sxs-lookup"><span data-stu-id="75f95-115">Version 2103: April 10</span></span>
+<span data-ttu-id="75f95-116">*版本 2103（内部版本 13901.20400）*</span><span class="sxs-lookup"><span data-stu-id="75f95-116">*Version 2103 (Build 13901.20400)*</span></span>
 
-## <a name="version-2103-april-1"></a><span data-ttu-id="c9536-118">版本 2103：4 月 1 日</span><span class="sxs-lookup"><span data-stu-id="c9536-118">Version 2103: April 1</span></span>
-<span data-ttu-id="c9536-119">*版本 2103（内部版本 13901.20148）*</span><span class="sxs-lookup"><span data-stu-id="c9536-119">*Version 2103 (Build 13901.20148)*</span></span>
+[//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-120">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-120">Feature updates</span></span>
-### <a name="teams"></a><span data-ttu-id="c9536-121">Teams</span><span class="sxs-lookup"><span data-stu-id="c9536-121">Teams</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-118">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-118">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-119">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-119">Excel</span></span>
 
-- <span data-ttu-id="c9536-122">**使用此更新** ，Teams 中的日期/时间格式将匹配 Mac 和 Windows 操作系统区域设置。</span><span class="sxs-lookup"><span data-stu-id="c9536-122">**Date/Time format** With this update, the date/time formats in Teams will match the Mac and Windows operating system regional settings.</span></span> <span data-ttu-id="c9536-123">以前，Teams 将仅以与应用程序语言对应的格式显示日期/时间。</span><span class="sxs-lookup"><span data-stu-id="c9536-123">Previously, Teams would only show date/time in the format corresponding to the application's language.</span></span> <span data-ttu-id="c9536-124">请注意，不管操作系统的日历设置如何，只支持公历，这一点很重要。</span><span class="sxs-lookup"><span data-stu-id="c9536-124">It's important to note that only the Gregorian calendar is supported regardless of the operating system's calendar setting.</span></span> 
+- <span data-ttu-id="75f95-120">已修复 Word 中绘制图像时出现的潜在资源放大问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-120">Fixed a potential resource contention issue in word when drawing an image.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-121">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-121">Outlook</span></span>
+
+- <span data-ttu-id="75f95-122">我们修复了添加日历时导致用户错误地看到"这可能需要一段时间"消息的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-122">We fixed an issue that cause users to erroneously see a "This may take a while" message when adding a calendar.</span></span>
+
+- <span data-ttu-id="75f95-123">我们解决了导致代理人显示为新添加的日历上创建的会议的组织者这一问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-123">We fixed an issue that caused delegates to appear as the organizer of meetings created on newly added calendars.</span></span>  <span data-ttu-id="75f95-124">在此州/省/市/区中的会议不会在主体的日历上显示。</span><span class="sxs-lookup"><span data-stu-id="75f95-124">Meetings in this state did not appear on the principal's calendar.</span></span>
+
+- <span data-ttu-id="75f95-125">已修复 Word 中绘制图像时出现的潜在资源放大问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-125">Fixed a potential resource contention issue in word when drawing an image.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-126">Powerpoint</span><span class="sxs-lookup"><span data-stu-id="75f95-126">Powerpoint</span></span>
+
+- <span data-ttu-id="75f95-127">已修复 Word 中绘制图像时出现的潜在资源放大问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-127">Fixed a potential resource contention issue in word when drawing an image.</span></span>
+
+### <a name="word"></a><span data-ttu-id="75f95-128">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-128">Word</span></span>
+
+- <span data-ttu-id="75f95-129">已修复 Word 中绘制图像时出现的潜在资源放大问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-129">Fixed a potential resource contention issue in word when drawing an image.</span></span>
+
+- <span data-ttu-id="75f95-130">修复了打印预览中响应不响应的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-130">Fixed a non-responsive issue while in Print preview.</span></span>
+
+- <span data-ttu-id="75f95-131">更新本地保存的文件的自动保存标注上的文本。</span><span class="sxs-lookup"><span data-stu-id="75f95-131">Updates text on autosave callout for files saved locally.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-132">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-132">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-133">修复了脱机打开 SyncBacked 文件，然后在保存文件之前在应用中重命名文件时出现重命名失败问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-133">Fixed rename failure issue when open a SyncBacked file offline then rename the file in app before saving file.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2103-april-02"></a><span data-ttu-id="75f95-135">版本 2103：4 月 02 日</span><span class="sxs-lookup"><span data-stu-id="75f95-135">Version 2103: April 02</span></span>
+<span data-ttu-id="75f95-136">*版本 2103（内部版本 13901.20336）*</span><span class="sxs-lookup"><span data-stu-id="75f95-136">*Version 2103 (Build 13901.20336)*</span></span>
+* <span data-ttu-id="75f95-137">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-137">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2103-april-1"></a><span data-ttu-id="75f95-138">版本 2103：4 月 1 日</span><span class="sxs-lookup"><span data-stu-id="75f95-138">Version 2103: April 1</span></span>
+<span data-ttu-id="75f95-139">*版本 2103（内部版本 13901.20148）*</span><span class="sxs-lookup"><span data-stu-id="75f95-139">*Version 2103 (Build 13901.20148)*</span></span>
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-140">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-140">Feature updates</span></span>
+### <a name="teams"></a><span data-ttu-id="75f95-141">Teams</span><span class="sxs-lookup"><span data-stu-id="75f95-141">Teams</span></span>
+
+- <span data-ttu-id="75f95-142">**使用此更新** ，Teams 中的日期/时间格式将匹配 Mac 和 Windows 操作系统区域设置。</span><span class="sxs-lookup"><span data-stu-id="75f95-142">**Date/Time format** With this update, the date/time formats in Teams will match the Mac and Windows operating system regional settings.</span></span> <span data-ttu-id="75f95-143">以前，Teams 将仅以与应用程序语言对应的格式显示日期/时间。</span><span class="sxs-lookup"><span data-stu-id="75f95-143">Previously, Teams would only show date/time in the format corresponding to the application's language.</span></span> <span data-ttu-id="75f95-144">请注意，不管操作系统的日历设置如何，只支持公历，这一点很重要。</span><span class="sxs-lookup"><span data-stu-id="75f95-144">It's important to note that only the Gregorian calendar is supported regardless of the operating system's calendar setting.</span></span> 
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
-## <a name="version-2103-march-30"></a><span data-ttu-id="c9536-126">版本 2103：3 月 30 日</span><span class="sxs-lookup"><span data-stu-id="c9536-126">Version 2103: March 30</span></span>
-<span data-ttu-id="c9536-127">*版本 2103（内部版本 13901.20312）*</span><span class="sxs-lookup"><span data-stu-id="c9536-127">*Version 2103 (Build 13901.20312)*</span></span>
-* <span data-ttu-id="c9536-128">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-128">Various bugs and performance fixes.</span></span>
+## <a name="version-2103-march-30"></a><span data-ttu-id="75f95-146">版本 2103：3 月 30 日</span><span class="sxs-lookup"><span data-stu-id="75f95-146">Version 2103: March 30</span></span>
+<span data-ttu-id="75f95-147">*版本 2103（内部版本 13901.20312）*</span><span class="sxs-lookup"><span data-stu-id="75f95-147">*Version 2103 (Build 13901.20312)*</span></span>
+* <span data-ttu-id="75f95-148">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-148">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2103-march-28"></a><span data-ttu-id="c9536-129">版本 2103：3 月 28 日</span><span class="sxs-lookup"><span data-stu-id="c9536-129">Version 2103: March 28</span></span>
-<span data-ttu-id="c9536-130">*版本 2103（内部版本 13901.20306）*</span><span class="sxs-lookup"><span data-stu-id="c9536-130">*Version 2103 (Build 13901.20306)*</span></span>
+## <a name="version-2103-march-28"></a><span data-ttu-id="75f95-149">版本 2103：3 月 28 日</span><span class="sxs-lookup"><span data-stu-id="75f95-149">Version 2103: March 28</span></span>
+<span data-ttu-id="75f95-150">*版本 2103（内部版本 13901.20306）*</span><span class="sxs-lookup"><span data-stu-id="75f95-150">*Version 2103 (Build 13901.20306)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-132">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-132">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-133">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-133">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-152">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-152">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-153">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-153">Outlook</span></span>
 
-- <span data-ttu-id="c9536-134">修复了同步文件夹层次结构更改时导致某些用户意外关闭 Outlook 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-134">We fixed an issue that caused some users to experience Outlook to close unexpectedly when syncing folder hierarchy changes.</span></span>
+- <span data-ttu-id="75f95-154">修复了同步文件夹层次结构更改时导致某些用户意外关闭 Outlook 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-154">We fixed an issue that caused some users to experience Outlook to close unexpectedly when syncing folder hierarchy changes.</span></span>
 
 
-- <span data-ttu-id="c9536-135">修复了一个问题，导致某些用户在导航窗格中看到主要日历和次要日历切换位置。</span><span class="sxs-lookup"><span data-stu-id="c9536-135">We fixed an issue that caused some users to see their primary and secondary calendar switching places in the Navigation Pane.</span></span>
+- <span data-ttu-id="75f95-155">修复了一个问题，导致某些用户在导航窗格中看到主要日历和次要日历切换位置。</span><span class="sxs-lookup"><span data-stu-id="75f95-155">We fixed an issue that caused some users to see their primary and secondary calendar switching places in the Navigation Pane.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2103-march-22"></a><span data-ttu-id="c9536-137">版本 2103：3 月 22 日</span><span class="sxs-lookup"><span data-stu-id="c9536-137">Version 2103: March 22</span></span>
-<span data-ttu-id="c9536-138">*版本 2103（内部版本 13901.20230）*</span><span class="sxs-lookup"><span data-stu-id="c9536-138">*Version 2103 (Build 13901.20230)*</span></span>
+## <a name="version-2103-march-22"></a><span data-ttu-id="75f95-157">版本 2103：3 月 22 日</span><span class="sxs-lookup"><span data-stu-id="75f95-157">Version 2103: March 22</span></span>
+<span data-ttu-id="75f95-158">*版本 2103（内部版本 13901.20230）*</span><span class="sxs-lookup"><span data-stu-id="75f95-158">*Version 2103 (Build 13901.20230)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-140">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-140">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-141">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-141">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-160">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-160">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-161">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-161">Outlook</span></span>
 
-- <span data-ttu-id="c9536-142">修复了导致用户看到签名超过预期的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-142">We fixed an issue that caused users to see more signatures than expected.</span></span>
+- <span data-ttu-id="75f95-162">修复了导致用户看到签名超过预期的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-162">We fixed an issue that caused users to see more signatures than expected.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2103-march-15"></a><span data-ttu-id="c9536-144">版本 2103：3 月 15 日</span><span class="sxs-lookup"><span data-stu-id="c9536-144">Version 2103: March 15</span></span>
-<span data-ttu-id="c9536-145">*版本 2103（内部版本 13901.20170）*</span><span class="sxs-lookup"><span data-stu-id="c9536-145">*Version 2103 (Build 13901.20170)*</span></span>
+## <a name="version-2103-march-15"></a><span data-ttu-id="75f95-164">版本 2103：3 月 15 日</span><span class="sxs-lookup"><span data-stu-id="75f95-164">Version 2103: March 15</span></span>
+<span data-ttu-id="75f95-165">*版本 2103（内部版本 13901.20170）*</span><span class="sxs-lookup"><span data-stu-id="75f95-165">*Version 2103 (Build 13901.20170)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-147">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-147">Resolved issues</span></span>
-### <a name="project"></a><span data-ttu-id="c9536-148">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-148">Project</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-167">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-167">Resolved issues</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-168">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-168">Project</span></span>
 
-- <span data-ttu-id="c9536-149">修复了 Visio 在关闭期间停止运行的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-149">Fixed an issue where Visio could stop working during close.</span></span>
+- <span data-ttu-id="75f95-169">修复了 Visio 在关闭期间停止运行的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-169">Fixed an issue where Visio could stop working during close.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="c9536-150">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-150">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="75f95-170">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-170">Visio</span></span>
 
-- <span data-ttu-id="c9536-151">修复了 Visio 在关闭期间停止运行的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-151">Fixed an issue where Visio could stop working during close.</span></span>
+- <span data-ttu-id="75f95-171">修复了 Visio 在关闭期间停止运行的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-171">Fixed an issue where Visio could stop working during close.</span></span>
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 [//]: # (请勿移除功能详细信息内容开头)
-## <a name="version-2103-march-11"></a><span data-ttu-id="c9536-154">版本 2103：3 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c9536-154">Version 2103: March 11</span></span>
-<span data-ttu-id="c9536-155">*版本 2103（内部版本 13901.20148）*</span><span class="sxs-lookup"><span data-stu-id="c9536-155">*Version 2103 (Build 13901.20148)*</span></span>
+## <a name="version-2103-march-11"></a><span data-ttu-id="75f95-174">版本 2103：3 月 11 日</span><span class="sxs-lookup"><span data-stu-id="75f95-174">Version 2103: March 11</span></span>
+<span data-ttu-id="75f95-175">*版本 2103（内部版本 13901.20148）*</span><span class="sxs-lookup"><span data-stu-id="75f95-175">*Version 2103 (Build 13901.20148)*</span></span>
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-156">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-156">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-157">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-157">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-176">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-176">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-177">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-177">Excel</span></span>
 
-- <span data-ttu-id="c9536-158">**对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。</span><span class="sxs-lookup"><span data-stu-id="c9536-158">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="c9536-159">使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。</span><span class="sxs-lookup"><span data-stu-id="c9536-159">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="c9536-160">需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。</span><span class="sxs-lookup"><span data-stu-id="c9536-160">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
+- <span data-ttu-id="75f95-178">**对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。</span><span class="sxs-lookup"><span data-stu-id="75f95-178">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="75f95-179">使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。</span><span class="sxs-lookup"><span data-stu-id="75f95-179">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="75f95-180">需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。</span><span class="sxs-lookup"><span data-stu-id="75f95-180">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-161">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-161">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-181">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-181">Outlook</span></span>
 
-- <span data-ttu-id="c9536-162">**新式会议室和工作区预定体验：** 会议室预定体验已刷新，通过此体验，我们添加了允许你安排个别工作区的功能</span><span class="sxs-lookup"><span data-stu-id="c9536-162">**New conference room and workspace booking experience:** The conference room booking experience has been refreshed, and with it we've added capabilities to allow you to schedule individual workspaces as well</span></span>
+- <span data-ttu-id="75f95-182">**新式会议室和工作区预定体验：** 会议室预定体验已刷新，通过此体验，我们添加了允许你安排个别工作区的功能</span><span class="sxs-lookup"><span data-stu-id="75f95-182">**New conference room and workspace booking experience:** The conference room booking experience has been refreshed, and with it we've added capabilities to allow you to schedule individual workspaces as well</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-163">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-163">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-183">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-183">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-164">**对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。</span><span class="sxs-lookup"><span data-stu-id="c9536-164">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="c9536-165">使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。</span><span class="sxs-lookup"><span data-stu-id="c9536-165">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="c9536-166">需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。</span><span class="sxs-lookup"><span data-stu-id="c9536-166">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
+- <span data-ttu-id="75f95-184">**对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。</span><span class="sxs-lookup"><span data-stu-id="75f95-184">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="75f95-185">使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。</span><span class="sxs-lookup"><span data-stu-id="75f95-185">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="75f95-186">需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。</span><span class="sxs-lookup"><span data-stu-id="75f95-186">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
 
-### <a name="teams"></a><span data-ttu-id="c9536-167">Teams</span><span class="sxs-lookup"><span data-stu-id="c9536-167">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="75f95-187">Teams</span><span class="sxs-lookup"><span data-stu-id="75f95-187">Teams</span></span>
 
-- <span data-ttu-id="c9536-168">**外出状态** 设置信息让他人知道你不在工作或正在休假，因此他们发聊天消息给你的时候你无法回复。</span><span class="sxs-lookup"><span data-stu-id="c9536-168">**Out of Office status** Set up a message to let others know you're not working or on vacation so you're not available to reply when they send a chat message to you.</span></span> <span data-ttu-id="c9536-169">你的外出状态也会和Outlook 日历中的自动答复同步。</span><span class="sxs-lookup"><span data-stu-id="c9536-169">Your Out of Office status will also sync with Automatic Replies in your Outlook calendar.</span></span>
+- <span data-ttu-id="75f95-188">**外出状态** 设置信息让他人知道你不在工作或正在休假，因此他们发聊天消息给你的时候你无法回复。</span><span class="sxs-lookup"><span data-stu-id="75f95-188">**Out of Office status** Set up a message to let others know you're not working or on vacation so you're not available to reply when they send a chat message to you.</span></span> <span data-ttu-id="75f95-189">你的外出状态也会和Outlook 日历中的自动答复同步。</span><span class="sxs-lookup"><span data-stu-id="75f95-189">Your Out of Office status will also sync with Automatic Replies in your Outlook calendar.</span></span>
 
-### <a name="visio"></a><span data-ttu-id="c9536-170">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-170">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="75f95-190">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-190">Visio</span></span>
 
-- <span data-ttu-id="c9536-171">**Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。</span><span class="sxs-lookup"><span data-stu-id="c9536-171">**Office icons have a new look:** The product icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.</span></span> [<span data-ttu-id="c9536-172">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-172">Learn more</span></span>](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+- <span data-ttu-id="75f95-191">**Office 图标具有新的外观：** Office 图标经过重新设计，可体现简单、强大和智能的 Office 体验。</span><span class="sxs-lookup"><span data-stu-id="75f95-191">**Office icons have a new look:** The product icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.</span></span> [<span data-ttu-id="75f95-192">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-192">Learn more</span></span>](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
 
-### <a name="word"></a><span data-ttu-id="c9536-173">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-173">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-193">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-193">Word</span></span>
 
-- <span data-ttu-id="c9536-174">**Word 文档的深色模式：** 深色模式可以在处理文档时，帮助减轻眼部疲劳，降低对光线的敏感度。</span><span class="sxs-lookup"><span data-stu-id="c9536-174">**Dark Mode for Word documents:** Dark Mode may help reduce eye strain and accommodate light sensitivity while working on your documents.</span></span>
+- <span data-ttu-id="75f95-194">**Word 文档的深色模式：** 深色模式可以在处理文档时，帮助减轻眼部疲劳，降低对光线的敏感度。</span><span class="sxs-lookup"><span data-stu-id="75f95-194">**Dark Mode for Word documents:** Dark Mode may help reduce eye strain and accommodate light sensitivity while working on your documents.</span></span>
 
-- <span data-ttu-id="c9536-175">**对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。</span><span class="sxs-lookup"><span data-stu-id="c9536-175">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="c9536-176">使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。</span><span class="sxs-lookup"><span data-stu-id="c9536-176">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="c9536-177">需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。</span><span class="sxs-lookup"><span data-stu-id="c9536-177">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
+- <span data-ttu-id="75f95-195">**对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。</span><span class="sxs-lookup"><span data-stu-id="75f95-195">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="75f95-196">使用 Microsoft 信息保护，现在像未加密文档一样，使用敏感度标签加密的文档可自动保存和他人共同创作。</span><span class="sxs-lookup"><span data-stu-id="75f95-196">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="75f95-197">需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。</span><span class="sxs-lookup"><span data-stu-id="75f95-197">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -135,225 +173,225 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-180">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-180">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-181">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-181">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-200">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-200">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-201">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-201">Access</span></span>
 
-- <span data-ttu-id="c9536-182">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-182">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="75f95-202">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-202">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="c9536-183">我们修复了外部应用程序请求辅助功能界面时，在其释放引用之前阻止我们关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-183">We fixed an issue when an external application requests an accessibility interface, it will prevent us from shutting down until they release their reference.</span></span>
+- <span data-ttu-id="75f95-203">我们修复了外部应用程序请求辅助功能界面时，在其释放引用之前阻止我们关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-203">We fixed an issue when an external application requests an accessibility interface, it will prevent us from shutting down until they release their reference.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="c9536-184">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-184">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-204">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-204">Excel</span></span>
 
-- <span data-ttu-id="c9536-185">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-185">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="75f95-205">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-205">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="c9536-186">解决了由于无法检索图像而尝试显示"数据类型"卡时 Excel 有时会意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-186">Fixed an issue where Excel would sometimes close unexpectedly when trying to show the Data Types card due to a not being able to retrieve an image.</span></span>
+- <span data-ttu-id="75f95-206">解决了由于无法检索图像而尝试显示"数据类型"卡时 Excel 有时会意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-206">Fixed an issue where Excel would sometimes close unexpectedly when trying to show the Data Types card due to a not being able to retrieve an image.</span></span>
 
 
-- <span data-ttu-id="c9536-187">更正了使用乘法或日文字体除号时字体会意外更改的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-187">Corrected an issue where the font would change unexpectedly when using a multiplication or divide sign with a Japanese font.</span></span> <span data-ttu-id="c9536-188">现在，如果支持该字符，我们将继续使用同一字体。</span><span class="sxs-lookup"><span data-stu-id="c9536-188">We now continue to use the same font if it supports the character.</span></span>
+- <span data-ttu-id="75f95-207">更正了使用乘法或日文字体除号时字体会意外更改的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-207">Corrected an issue where the font would change unexpectedly when using a multiplication or divide sign with a Japanese font.</span></span> <span data-ttu-id="75f95-208">现在，如果支持该字符，我们将继续使用同一字体。</span><span class="sxs-lookup"><span data-stu-id="75f95-208">We now continue to use the same font if it supports the character.</span></span>
 
 
-- <span data-ttu-id="c9536-189">我们修复了一个阻止用户将 Excel 工作簿导出为 PDF 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-189">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
+- <span data-ttu-id="75f95-209">我们修复了一个阻止用户将 Excel 工作簿导出为 PDF 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-209">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
 
 
-- <span data-ttu-id="c9536-190">我们修复了使用“粘贴链接图片”选项时导致图像小于预期的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-190">We fixed an issue which caused images to be smaller than expected when using the Paste Linked Picture option.</span></span>
+- <span data-ttu-id="75f95-210">我们修复了使用“粘贴链接图片”选项时导致图像小于预期的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-210">We fixed an issue which caused images to be smaller than expected when using the Paste Linked Picture option.</span></span>
 
 
-- <span data-ttu-id="c9536-191">我们修复了共同创作时复制工作表可能会丢失某些格式设置的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-191">We fixed an issue where some formatting could be lost when copying a sheet while coauthoring.</span></span>
+- <span data-ttu-id="75f95-211">我们修复了共同创作时复制工作表可能会丢失某些格式设置的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-211">We fixed an issue where some formatting could be lost when copying a sheet while coauthoring.</span></span>
 
 
-- <span data-ttu-id="c9536-192">我们修复了打开工作簿时意外显示某些笔记的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-192">We fixed an issue where some notes were unexpectedly shown when opening a workbook.</span></span>
+- <span data-ttu-id="75f95-212">我们修复了打开工作簿时意外显示某些笔记的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-212">We fixed an issue where some notes were unexpectedly shown when opening a workbook.</span></span>
 
 
-- <span data-ttu-id="c9536-193">我们修复了保存为 .xls 或 .xlt 格式时导致某些数据透视表格式设置损坏工作簿的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-193">We fixed an issue that caused some PivotTable formatting to corrupt the workbook when saving to the .xls or .xlt format.</span></span>
+- <span data-ttu-id="75f95-213">我们修复了保存为 .xls 或 .xlt 格式时导致某些数据透视表格式设置损坏工作簿的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-213">We fixed an issue that caused some PivotTable formatting to corrupt the workbook when saving to the .xls or .xlt format.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="c9536-194">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-194">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-214">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-214">Outlook</span></span>
 
-- <span data-ttu-id="c9536-195">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-195">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="75f95-215">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-215">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="c9536-196">修复并解决了导致用户在创建新组后看到重复日历组的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-196">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
+- <span data-ttu-id="75f95-216">修复并解决了导致用户在创建新组后看到重复日历组的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-216">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
 
 
-- <span data-ttu-id="c9536-197">修复了导致“共享日历”改进用户无法将日历的颜色设置为黄色或棕色的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-197">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
+- <span data-ttu-id="75f95-217">修复了导致“共享日历”改进用户无法将日历的颜色设置为黄色或棕色的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-217">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
 
 
-- <span data-ttu-id="c9536-198">我们修复了导致用户看到新添加的日历直到 Outlook 重新启动之后才会显示在导航窗格中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-198">We fixed a problem that caused users to see newly added calendars fail to appear in the navigation pane until after Outlook had been restarted.</span></span>
+- <span data-ttu-id="75f95-218">我们修复了导致用户看到新添加的日历直到 Outlook 重新启动之后才会显示在导航窗格中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-218">We fixed a problem that caused users to see newly added calendars fail to appear in the navigation pane until after Outlook had been restarted.</span></span>
 
 
-- <span data-ttu-id="c9536-199">我们修复了导出到 CSV 时导致非 ASCII 字符导出错误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-199">We fixed an issue that caused non-ASCII characters to export incorrectly when exporting to CSV.</span></span>
+- <span data-ttu-id="75f95-219">我们修复了导出到 CSV 时导致非 ASCII 字符导出错误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-219">We fixed an issue that caused non-ASCII characters to export incorrectly when exporting to CSV.</span></span>
 
 
-- <span data-ttu-id="c9536-200">我们修复了导致某些人员无法访问与辅助邮件账户相关联的签名的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-200">We fixed an issue that caused some people to be unable to access signatures associated with secondary mail accounts.</span></span>
+- <span data-ttu-id="75f95-220">我们修复了导致某些人员无法访问与辅助邮件账户相关联的签名的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-220">We fixed an issue that caused some people to be unable to access signatures associated with secondary mail accounts.</span></span>
 
 
-- <span data-ttu-id="c9536-201">我们修复了导致云设置功能用户在新设备上配置 Outlook 后会看到默认设置覆盖自定义设置的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-201">We fixed an issue that caused users of the Cloud Settings feature to see customized settings overridden by default setting after configuring Outlook on a new device.</span></span>
+- <span data-ttu-id="75f95-221">我们修复了导致云设置功能用户在新设备上配置 Outlook 后会看到默认设置覆盖自定义设置的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-221">We fixed an issue that caused users of the Cloud Settings feature to see customized settings overridden by default setting after configuring Outlook on a new device.</span></span>
 
 
-- <span data-ttu-id="c9536-202">修复了导致用户看到包含 unicode 内容的签名受损的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-202">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
+- <span data-ttu-id="75f95-222">修复了导致用户看到包含 unicode 内容的签名受损的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-222">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
 
 
-- <span data-ttu-id="c9536-203">修复了导致内联翻译用户无法提交反馈的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-203">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
+- <span data-ttu-id="75f95-223">修复了导致内联翻译用户无法提交反馈的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-223">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
 
 
-- <span data-ttu-id="c9536-204">我们已修复删除 DRM 保护时导致用户看到附件重复的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-204">We fixed an issue that caused users to see attachments getting duplicated when removing DRM protection.</span></span>
+- <span data-ttu-id="75f95-224">我们已修复删除 DRM 保护时导致用户看到附件重复的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-224">We fixed an issue that caused users to see attachments getting duplicated when removing DRM protection.</span></span>
 
 
-- <span data-ttu-id="c9536-205">已修复了一个问题，即导致用户在撰写邮件时无法使用"检查姓名"来查找联系人组。</span><span class="sxs-lookup"><span data-stu-id="c9536-205">We fixed an issue that caused users to be unable to look up a contact group with Check Names  when composing mail.</span></span>
+- <span data-ttu-id="75f95-225">已修复了一个问题，即导致用户在撰写邮件时无法使用"检查姓名"来查找联系人组。</span><span class="sxs-lookup"><span data-stu-id="75f95-225">We fixed an issue that caused users to be unable to look up a contact group with Check Names  when composing mail.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-206">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-206">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-226">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-226">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-207">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-207">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="75f95-227">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-227">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="c9536-208">我们修复了 PowerPoint 幻灯片放映模式下折线图中的箭头没有按预期显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-208">We fixed an issue where arrows in line charts were not appearing as expected in PowerPoint slideshow mode.</span></span>
+- <span data-ttu-id="75f95-228">我们修复了 PowerPoint 幻灯片放映模式下折线图中的箭头没有按预期显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-228">We fixed an issue where arrows in line charts were not appearing as expected in PowerPoint slideshow mode.</span></span>
 
 
-- <span data-ttu-id="c9536-209">修复了循环播放动画和音频书签的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-209">Fixes an issue with looping animations and audio bookmarks.</span></span>
+- <span data-ttu-id="75f95-229">修复了循环播放动画和音频书签的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-229">Fixes an issue with looping animations and audio bookmarks.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-210">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-210">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-230">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-230">Project</span></span>
 
-- <span data-ttu-id="c9536-211">修复了 Visio 在关闭期间停止运行的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-211">Fixed an issue where Visio could stop working during close.</span></span>
+- <span data-ttu-id="75f95-231">修复了 Visio 在关闭期间停止运行的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-231">Fixed an issue where Visio could stop working during close.</span></span>
 
 
-- <span data-ttu-id="c9536-212">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-212">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="75f95-232">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-232">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="c9536-213">修复了100%完成的任务可能恢复到99%完成的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-213">Fixed an issue where a task that are 100% complete may revert back to 99% complete.</span></span>
+- <span data-ttu-id="75f95-233">修复了100%完成的任务可能恢复到99%完成的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-233">Fixed an issue where a task that are 100% complete may revert back to 99% complete.</span></span>
 
 
-- <span data-ttu-id="c9536-214">解决了如果运行的 JAWS 并转到任务信息对话框，Project 可能会意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-214">Fixed an issue where Project may close unexpectedly if you are running JAWS and go to the task information dialog.</span></span>
+- <span data-ttu-id="75f95-234">解决了如果运行的 JAWS 并转到任务信息对话框，Project 可能会意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-234">Fixed an issue where Project may close unexpectedly if you are running JAWS and go to the task information dialog.</span></span>
 
 
-- <span data-ttu-id="c9536-215">修复了如果指示器列未处于第一列位置且剪切摘要任务时、你不会收到子任务也将删除的警告的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-215">Fixed an issue where if the indicator column is not in the first column spot, when you cut a summary task you aren't warned that the subtasks will also be removed.</span></span>
+- <span data-ttu-id="75f95-235">修复了如果指示器列未处于第一列位置且剪切摘要任务时、你不会收到子任务也将删除的警告的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-235">Fixed an issue where if the indicator column is not in the first column spot, when you cut a summary task you aren't warned that the subtasks will also be removed.</span></span>
 
 
-- <span data-ttu-id="c9536-216">我们已修复如果用户在其“时间表”上选择“将自己添加到任务”功能、正确的资源可用性单位可能无法在已创建分配上使用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-216">Fixed an issue where if a user selected the Add Yourself to a Task function on their Timesheet, the correctly resource availability units may not be used on the created assignment.</span></span>
+- <span data-ttu-id="75f95-236">我们已修复如果用户在其“时间表”上选择“将自己添加到任务”功能、正确的资源可用性单位可能无法在已创建分配上使用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-236">Fixed an issue where if a user selected the Add Yourself to a Task function on their Timesheet, the correctly resource availability units may not be used on the created assignment.</span></span>
 
 
-- <span data-ttu-id="c9536-217">修复了将项目从 Project Web 应用程序保存到本地文件时，可能会错误创建任务拆分的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-217">Fixed an issue where task splits may be wrongly created when saving a project from Project web app to a local file.</span></span> <span data-ttu-id="c9536-218">如果使用非标准工作时间的任务日历，则会发生这种情况。</span><span class="sxs-lookup"><span data-stu-id="c9536-218">This would happen if a task calendar with non-standard working times was being used.</span></span>
+- <span data-ttu-id="75f95-237">修复了将项目从 Project Web 应用程序保存到本地文件时，可能会错误创建任务拆分的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-237">Fixed an issue where task splits may be wrongly created when saving a project from Project web app to a local file.</span></span> <span data-ttu-id="75f95-238">如果使用非标准工作时间的任务日历，则会发生这种情况。</span><span class="sxs-lookup"><span data-stu-id="75f95-238">This would happen if a task calendar with non-standard working times was being used.</span></span>
 
 
-### <a name="publisher"></a><span data-ttu-id="c9536-219">发布者</span><span class="sxs-lookup"><span data-stu-id="c9536-219">Publisher</span></span>
+### <a name="publisher"></a><span data-ttu-id="75f95-239">发布者</span><span class="sxs-lookup"><span data-stu-id="75f95-239">Publisher</span></span>
 
-- <span data-ttu-id="c9536-220">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-220">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="75f95-240">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-240">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="c9536-221">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-221">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="75f95-241">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-241">Visio</span></span>
 
-- <span data-ttu-id="c9536-222">修复了 Visio 在关闭期间停止运行的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-222">Fixed an issue where Visio could stop working during close.</span></span>
+- <span data-ttu-id="75f95-242">修复了 Visio 在关闭期间停止运行的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-242">Fixed an issue where Visio could stop working during close.</span></span>
 
 
-- <span data-ttu-id="c9536-223">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-223">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="75f95-243">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-243">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-224">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-224">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-244">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-244">Word</span></span>
 
-- <span data-ttu-id="c9536-225">修复了这样一个问题，即如果用户未登录到可以访问 MIP 保护标签的标识，则使用 Microsoft 信息保护 （MIP） 标签打开的文件可能会无限期挂起。</span><span class="sxs-lookup"><span data-stu-id="c9536-225">We fixed an issue where opening a file protected with a Microsoft Information Protection (MIP) label can hang indefinitely if the user is not signed in to an identity that has access to the MIP protected label.</span></span> <span data-ttu-id="c9536-226">用户被强制取消打开以显示登录提示，且该打开仅在这之后成功。</span><span class="sxs-lookup"><span data-stu-id="c9536-226">The user is forced to cancel the open to show the sign-in prompt, and the open only succeeds after that point.</span></span> <span data-ttu-id="c9536-227">通过允许打开/下载期间显示登录提示来修复此问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-227">Fixing this issue by allowing the sign-in prompt to be shown during open/download.</span></span>
+- <span data-ttu-id="75f95-245">修复了这样一个问题，即如果用户未登录到可以访问 MIP 保护标签的标识，则使用 Microsoft 信息保护 （MIP） 标签打开的文件可能会无限期挂起。</span><span class="sxs-lookup"><span data-stu-id="75f95-245">We fixed an issue where opening a file protected with a Microsoft Information Protection (MIP) label can hang indefinitely if the user is not signed in to an identity that has access to the MIP protected label.</span></span> <span data-ttu-id="75f95-246">用户被强制取消打开以显示登录提示，且该打开仅在这之后成功。</span><span class="sxs-lookup"><span data-stu-id="75f95-246">The user is forced to cancel the open to show the sign-in prompt, and the open only succeeds after that point.</span></span> <span data-ttu-id="75f95-247">通过允许打开/下载期间显示登录提示来修复此问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-247">Fixing this issue by allowing the sign-in prompt to be shown during open/download.</span></span>
 
 
-- <span data-ttu-id="c9536-228">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-228">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="75f95-248">我们修复了删除外部驱动器时可能导致应用意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-248">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="c9536-229">修复了新"Word 批注"使用"听写"时的问题，批注卡中的"听写"按钮现在可正确开启和关闭。</span><span class="sxs-lookup"><span data-stu-id="c9536-229">We fixed an issue when using Dictation in the new Word Commenting, the Dictation button in the Comment card now correctly toggles on and off.</span></span>
+- <span data-ttu-id="75f95-249">修复了新"Word 批注"使用"听写"时的问题，批注卡中的"听写"按钮现在可正确开启和关闭。</span><span class="sxs-lookup"><span data-stu-id="75f95-249">We fixed an issue when using Dictation in the new Word Commenting, the Dictation button in the Comment card now correctly toggles on and off.</span></span>
 
 
-- <span data-ttu-id="c9536-230">共同创作文档时，活动草稿在批注顺序更改时没有清除。</span><span class="sxs-lookup"><span data-stu-id="c9536-230">When coauthoring a document, active draft is not cleared when comment order changes.</span></span>
+- <span data-ttu-id="75f95-250">共同创作文档时，活动草稿在批注顺序更改时没有清除。</span><span class="sxs-lookup"><span data-stu-id="75f95-250">When coauthoring a document, active draft is not cleared when comment order changes.</span></span>
 
 
-- <span data-ttu-id="c9536-231">修复了用户口述录入文档时，字词间没有插入空格的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-231">Fixed an issue where there was no space being inserted between words when users dictated into their document.</span></span>
+- <span data-ttu-id="75f95-251">修复了用户口述录入文档时，字词间没有插入空格的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-251">Fixed an issue where there was no space being inserted between words when users dictated into their document.</span></span>
 
 
-- <span data-ttu-id="c9536-232">修复了与包含滚动或缩放动画的滚动层有关的渲染管道中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-232">Fixes an issue in the rendering pipeline related to scrolling layers that contain scroll or zoom animations.</span></span>
+- <span data-ttu-id="75f95-252">修复了与包含滚动或缩放动画的滚动层有关的渲染管道中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-252">Fixes an issue in the rendering pipeline related to scrolling layers that contain scroll or zoom animations.</span></span>
 
 
-- <span data-ttu-id="c9536-233">我们修复了应用于图标和具有 3D 效果的 SVG 图形的颜色问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-233">Fixes an issue with colors applied to icons and SVG graphics with 3D effects.</span></span>
+- <span data-ttu-id="75f95-253">我们修复了应用于图标和具有 3D 效果的 SVG 图形的颜色问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-253">Fixes an issue with colors applied to icons and SVG graphics with 3D effects.</span></span>
 
 
-- <span data-ttu-id="c9536-234">我们修复了自动保存中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-234">We fixed an issue in AutoSave.</span></span>
+- <span data-ttu-id="75f95-254">我们修复了自动保存中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-254">We fixed an issue in AutoSave.</span></span>
 
 
-- <span data-ttu-id="c9536-235">我们修复了脚注中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-235">We fixed an issue in footnote.</span></span>
+- <span data-ttu-id="75f95-255">我们修复了脚注中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-255">We fixed an issue in footnote.</span></span>
 
 
-- <span data-ttu-id="c9536-236">修复了在 RTL 中键入多行批注导致第 2 行和后行左对齐（而非右对齐）时的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-236">We fixed an issue when posting multi-line comments typed in RTL caused the 2nd and onward lines to be aligned to the left instead of the right.</span></span>
+- <span data-ttu-id="75f95-256">修复了在 RTL 中键入多行批注导致第 2 行和后行左对齐（而非右对齐）时的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-256">We fixed an issue when posting multi-line comments typed in RTL caused the 2nd and onward lines to be aligned to the left instead of the right.</span></span>
 
 
-- <span data-ttu-id="c9536-237">修复了多个批注对齐的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-237">We fixed an issue with alignment of multiple comments.</span></span>
+- <span data-ttu-id="75f95-257">修复了多个批注对齐的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-257">We fixed an issue with alignment of multiple comments.</span></span>
 
 
-- <span data-ttu-id="c9536-238">我们已修复“大声朗读”任务窗格键盘快捷方式中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-238">We fixed an issue in Read Aloud task pane keyboard shortcuts.</span></span>
+- <span data-ttu-id="75f95-258">我们已修复“大声朗读”任务窗格键盘快捷方式中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-258">We fixed an issue in Read Aloud task pane keyboard shortcuts.</span></span>
 
 
-- <span data-ttu-id="c9536-239">我们修复了讲述人可能跳过某个段落的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-239">We fixed an issue with Narrator which may skips over a paragraph.</span></span>
+- <span data-ttu-id="75f95-259">我们修复了讲述人可能跳过某个段落的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-259">We fixed an issue with Narrator which may skips over a paragraph.</span></span>
 
 
-- <span data-ttu-id="c9536-240">我们修复了拼写检查在两个不同的拼写更正上下文菜单之间切换的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-240">We fixed an issue where spell check switched between two different spelling correction context menus.</span></span>
+- <span data-ttu-id="75f95-260">我们修复了拼写检查在两个不同的拼写更正上下文菜单之间切换的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-260">We fixed an issue where spell check switched between two different spelling correction context menus.</span></span>
 
 
-- <span data-ttu-id="c9536-241">我们修复了富文本内容控件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-241">We fixed an issue with Rich text content controls.</span></span>
+- <span data-ttu-id="75f95-261">我们修复了富文本内容控件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-261">We fixed an issue with Rich text content controls.</span></span>
 
 
-- <span data-ttu-id="c9536-242">我们修复了在隐藏段落末尾键入时可能导致应用程序挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-242">We fixed an issue with typing at the end of a hidden paragraph may result in application hang.</span></span>
+- <span data-ttu-id="75f95-262">我们修复了在隐藏段落末尾键入时可能导致应用程序挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-262">We fixed an issue with typing at the end of a hidden paragraph may result in application hang.</span></span>
 
 
-- <span data-ttu-id="c9536-243">我们修复了列可能包含重叠文本的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-243">We fixed an issue where columns might have overlapping text.</span></span>
+- <span data-ttu-id="75f95-263">我们修复了列可能包含重叠文本的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-263">We fixed an issue where columns might have overlapping text.</span></span>
 
 
-- <span data-ttu-id="c9536-244">我们修复了与书签相关的一个问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-244">We fixed an issue relating to bookmark.</span></span>
+- <span data-ttu-id="75f95-264">我们修复了与书签相关的一个问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-264">We fixed an issue relating to bookmark.</span></span>
 
 
-- <span data-ttu-id="c9536-245">我们已修复了在共同创作时解决冲突的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-245">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
+- <span data-ttu-id="75f95-265">我们已修复了在共同创作时解决冲突的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-265">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-246">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-246">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-266">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-266">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-247">现在会根据组策略设置适当筛选掉 OneDrive 位置。</span><span class="sxs-lookup"><span data-stu-id="c9536-247">OneDrive places are now filtered out as appropriate per the group policy setting.</span></span>
+- <span data-ttu-id="75f95-267">现在会根据组策略设置适当筛选掉 OneDrive 位置。</span><span class="sxs-lookup"><span data-stu-id="75f95-267">OneDrive places are now filtered out as appropriate per the group policy setting.</span></span>
 
 
-- <span data-ttu-id="c9536-248">修复了在含有数学公式的文本内使用讲述人时可能发生的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-248">Fixed an issue that could happen when using narrator within text that contains math equations.</span></span>
+- <span data-ttu-id="75f95-268">修复了在含有数学公式的文本内使用讲述人时可能发生的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-268">Fixed an issue that could happen when using narrator within text that contains math equations.</span></span>
 
 
-- <span data-ttu-id="c9536-249">修复了与在会话 0 中运行的 Office 应用支持相关的可靠性问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-249">Fixes a reliability issue related to support of Office apps running in session 0.</span></span>
+- <span data-ttu-id="75f95-269">修复了与在会话 0 中运行的 Office 应用支持相关的可靠性问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-269">Fixes a reliability issue related to support of Office apps running in session 0.</span></span>
 
 
-- <span data-ttu-id="c9536-250">修复了与在会话 0 中运行的 Office 应用支持相关的可靠性问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-250">Fixes a reliability issue related to support of Office apps running in session 0.</span></span>
+- <span data-ttu-id="75f95-270">修复了与在会话 0 中运行的 Office 应用支持相关的可靠性问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-270">Fixes a reliability issue related to support of Office apps running in session 0.</span></span>
 
 
-- <span data-ttu-id="c9536-251">修复了加载 EMF 图像时可能出现的无响应的相关问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-251">Fixes an issue related to unresponsiveness that may occur when loading EMF images.</span></span>
+- <span data-ttu-id="75f95-271">修复了加载 EMF 图像时可能出现的无响应的相关问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-271">Fixes an issue related to unresponsiveness that may occur when loading EMF images.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2102-march-03"></a><span data-ttu-id="c9536-253">版本 2102：3 月 3 日</span><span class="sxs-lookup"><span data-stu-id="c9536-253">Version 2102: March 03</span></span>
-<span data-ttu-id="c9536-254">*版本 2102（内部版本 13801.20274）*</span><span class="sxs-lookup"><span data-stu-id="c9536-254">*Version 2102 (Build 13801.20274)*</span></span>
+## <a name="version-2102-march-03"></a><span data-ttu-id="75f95-273">版本 2102：3 月 3 日</span><span class="sxs-lookup"><span data-stu-id="75f95-273">Version 2102: March 03</span></span>
+<span data-ttu-id="75f95-274">*版本 2102（内部版本 13801.20274）*</span><span class="sxs-lookup"><span data-stu-id="75f95-274">*Version 2102 (Build 13801.20274)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-256">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-256">Resolved issues</span></span>
-### <a name="word"></a><span data-ttu-id="c9536-257">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-257">Word</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-276">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-276">Resolved issues</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-277">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-277">Word</span></span>
 
-- <span data-ttu-id="c9536-258">修复了将主题信息应用于图标和 SVG 图形的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-258">Fixes an issue with theme information applied to icons and SVG graphics.</span></span>
+- <span data-ttu-id="75f95-278">修复了将主题信息应用于图标和 SVG 图形的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-278">Fixes an issue with theme information applied to icons and SVG graphics.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2102-march-01"></a><span data-ttu-id="c9536-260">版本 2102：3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="c9536-260">Version 2102: March 01</span></span>
-<span data-ttu-id="c9536-261">*版本 2102（内部版本 13801.20266）*</span><span class="sxs-lookup"><span data-stu-id="c9536-261">*Version 2102 (Build 13801.20266)*</span></span>
+## <a name="version-2102-march-01"></a><span data-ttu-id="75f95-280">版本 2102：3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="75f95-280">Version 2102: March 01</span></span>
+<span data-ttu-id="75f95-281">*版本 2102（内部版本 13801.20266）*</span><span class="sxs-lookup"><span data-stu-id="75f95-281">*Version 2102 (Build 13801.20266)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-263">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-263">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-264">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-264">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-283">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-283">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-284">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-284">Outlook</span></span>
 
-- <span data-ttu-id="c9536-265">**共享到 Teams：** 与 Teams 中的人员或频道共享 Outlook 中的邮件。</span><span class="sxs-lookup"><span data-stu-id="c9536-265">**Share to Teams:** Share messages from Outlook with a person or channel in Teams.</span></span>
+- <span data-ttu-id="75f95-285">**共享到 Teams：** 与 Teams 中的人员或频道共享 Outlook 中的邮件。</span><span class="sxs-lookup"><span data-stu-id="75f95-285">**Share to Teams:** Share messages from Outlook with a person or channel in Teams.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -362,40 +400,40 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-268">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-268">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-269">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-269">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-288">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-288">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-289">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-289">Outlook</span></span>
 
-- <span data-ttu-id="c9536-270">修复并解决了导致用户在创建新组后看到重复日历组的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-270">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
-
-
-- <span data-ttu-id="c9536-271">修复了导致“共享日历”改进用户无法将日历的颜色设置为黄色或棕色的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-271">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
+- <span data-ttu-id="75f95-290">修复并解决了导致用户在创建新组后看到重复日历组的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-290">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
 
 
-- <span data-ttu-id="c9536-272">修复了导致部分用户在关闭消息窗口时遇到关闭应用程序的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-272">We fixed an issue that  caused some users to experience the app to shut down when closing message windows.</span></span>
+- <span data-ttu-id="75f95-291">修复了导致“共享日历”改进用户无法将日历的颜色设置为黄色或棕色的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-291">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
 
 
-- <span data-ttu-id="c9536-273">修复了导致用户看到包含 unicode 内容的签名受损的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-273">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
+- <span data-ttu-id="75f95-292">修复了导致部分用户在关闭消息窗口时遇到关闭应用程序的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-292">We fixed an issue that  caused some users to experience the app to shut down when closing message windows.</span></span>
 
 
-- <span data-ttu-id="c9536-274">修复了导致内联翻译用户无法提交反馈的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-274">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
+- <span data-ttu-id="75f95-293">修复了导致用户看到包含 unicode 内容的签名受损的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-293">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
+
+
+- <span data-ttu-id="75f95-294">修复了导致内联翻译用户无法提交反馈的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-294">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2102-february-21"></a><span data-ttu-id="c9536-276">版本 2102：2 月 21 日</span><span class="sxs-lookup"><span data-stu-id="c9536-276">Version 2102: February 21</span></span>
-<span data-ttu-id="c9536-277">*版本 2102（内部版本 13801.20182）*</span><span class="sxs-lookup"><span data-stu-id="c9536-277">*Version 2102 (Build 13801.20182)*</span></span>
+## <a name="version-2102-february-21"></a><span data-ttu-id="75f95-296">版本 2102：2 月 21 日</span><span class="sxs-lookup"><span data-stu-id="75f95-296">Version 2102: February 21</span></span>
+<span data-ttu-id="75f95-297">*版本 2102（内部版本 13801.20182）*</span><span class="sxs-lookup"><span data-stu-id="75f95-297">*Version 2102 (Build 13801.20182)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-279">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-279">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-280">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-280">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-299">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-299">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-300">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-300">Outlook</span></span>
 
-- <span data-ttu-id="c9536-281">**使用语音撰写邮件：** 使用新的听写工具栏，语音命令，自动标点符号等撰写邮件。</span><span class="sxs-lookup"><span data-stu-id="c9536-281">**Draft messages with your voice:** Use the new dictation toolbar, voice commands, auto-punctuation, and more to compose messages.</span></span>
+- <span data-ttu-id="75f95-301">**使用语音撰写邮件：** 使用新的听写工具栏，语音命令，自动标点符号等撰写邮件。</span><span class="sxs-lookup"><span data-stu-id="75f95-301">**Draft messages with your voice:** Use the new dictation toolbar, voice commands, auto-punctuation, and more to compose messages.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-282">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-282">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-302">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-302">Word</span></span>
 
-- <span data-ttu-id="c9536-283">**使用语音撰写文档：** 使用新的听写工具栏，语音命令和自动标点来起草文档。</span><span class="sxs-lookup"><span data-stu-id="c9536-283">**Draft documents with your voice:** Use the new dictation toolbar, voice commands and auto-punctuation to draft documents.</span></span>
+- <span data-ttu-id="75f95-303">**使用语音撰写文档：** 使用新的听写工具栏，语音命令和自动标点来起草文档。</span><span class="sxs-lookup"><span data-stu-id="75f95-303">**Draft documents with your voice:** Use the new dictation toolbar, voice commands and auto-punctuation to draft documents.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -404,32 +442,32 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-286">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-286">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-287">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-287">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-306">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-306">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-307">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-307">Excel</span></span>
 
-- <span data-ttu-id="c9536-288">修复了使用"粘贴链接图片"选项时导致图像小于预期的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-288">We fixed an issue which caused images to bee smaller than expected when using the Paste Linked Picture option.</span></span>
+- <span data-ttu-id="75f95-308">修复了使用"粘贴链接图片"选项时导致图像小于预期的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-308">We fixed an issue which caused images to bee smaller than expected when using the Paste Linked Picture option.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2102-february-16"></a><span data-ttu-id="c9536-290">版本 2102：2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="c9536-290">Version 2102: February 16</span></span>
-<span data-ttu-id="c9536-291">*版本 2102（内部版本 13801.20160）*</span><span class="sxs-lookup"><span data-stu-id="c9536-291">*Version 2102 (Build 13801.20160)*</span></span>
-* <span data-ttu-id="c9536-292">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-292">Various bugs and performance fixes.</span></span>
+## <a name="version-2102-february-16"></a><span data-ttu-id="75f95-310">版本 2102：2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="75f95-310">Version 2102: February 16</span></span>
+<span data-ttu-id="75f95-311">*版本 2102（内部版本 13801.20160）*</span><span class="sxs-lookup"><span data-stu-id="75f95-311">*Version 2102 (Build 13801.20160)*</span></span>
+* <span data-ttu-id="75f95-312">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-312">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2102-february-15"></a><span data-ttu-id="c9536-293">版本 2102：2 月 15 日</span><span class="sxs-lookup"><span data-stu-id="c9536-293">Version 2102: February 15</span></span>
-<span data-ttu-id="c9536-294">*版本 2102（内部版本 13801.20158）*</span><span class="sxs-lookup"><span data-stu-id="c9536-294">*Version 2102 (Build 13801.20158)*</span></span>
+## <a name="version-2102-february-15"></a><span data-ttu-id="75f95-313">版本 2102：2 月 15 日</span><span class="sxs-lookup"><span data-stu-id="75f95-313">Version 2102: February 15</span></span>
+<span data-ttu-id="75f95-314">*版本 2102（内部版本 13801.20158）*</span><span class="sxs-lookup"><span data-stu-id="75f95-314">*Version 2102 (Build 13801.20158)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-296">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-296">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-297">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-297">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-316">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-316">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-317">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-317">Outlook</span></span>
 
-- <span data-ttu-id="c9536-298">**听写支持多种语言：** 听写现在支持 7 种新语言：印地语、俄语、波兰语、葡萄牙语（葡萄牙）、朝鲜语、泰语、中文（台湾）</span><span class="sxs-lookup"><span data-stu-id="c9536-298">**Dictation is available in more languages:** Dictation now supports 7 new languages: Hindi, Russian, Polish, Portuguese (Portugal), Korean, Thai, Chinese (Taiwan)</span></span>
+- <span data-ttu-id="75f95-318">**听写支持多种语言：** 听写现在支持 7 种新语言：印地语、俄语、波兰语、葡萄牙语（葡萄牙）、朝鲜语、泰语、中文（台湾）</span><span class="sxs-lookup"><span data-stu-id="75f95-318">**Dictation is available in more languages:** Dictation now supports 7 new languages: Hindi, Russian, Polish, Portuguese (Portugal), Korean, Thai, Chinese (Taiwan)</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-299">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-299">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-319">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-319">Word</span></span>
 
-- <span data-ttu-id="c9536-300">**听写支持多种语言：** 听写现在支持 7 种新语言：印地语、俄语、波兰语、葡萄牙语（葡萄牙）、朝鲜语、泰语、中文（台湾）</span><span class="sxs-lookup"><span data-stu-id="c9536-300">**Dictation is available in more languages:** Dictation now supports 7 new languages: Hindi, Russian, Polish, Portuguese (Portugal), Korean, Thai, Chinese (Taiwan)</span></span>
+- <span data-ttu-id="75f95-320">**听写支持多种语言：** 听写现在支持 7 种新语言：印地语、俄语、波兰语、葡萄牙语（葡萄牙）、朝鲜语、泰语、中文（台湾）</span><span class="sxs-lookup"><span data-stu-id="75f95-320">**Dictation is available in more languages:** Dictation now supports 7 new languages: Hindi, Russian, Polish, Portuguese (Portugal), Korean, Thai, Chinese (Taiwan)</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -438,45 +476,45 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-303">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-303">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-304">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-304">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-323">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-323">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-324">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-324">Excel</span></span>
 
-- <span data-ttu-id="c9536-305">我们修复了一个阻止用户将 Excel 工作簿导出为 PDF 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-305">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
+- <span data-ttu-id="75f95-325">我们修复了一个阻止用户将 Excel 工作簿导出为 PDF 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-325">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-306">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-306">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-326">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-326">Word</span></span>
 
-- <span data-ttu-id="c9536-307">我们已修复了在共同身份验证时解决冲突的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-307">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
+- <span data-ttu-id="75f95-327">我们已修复了在共同身份验证时解决冲突的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-327">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
 
-## <a name="version-2102-february-11"></a><span data-ttu-id="c9536-309">版本 2102：2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c9536-309">Version 2102: February 11</span></span>
-<span data-ttu-id="c9536-310">*版本 2102（内部版本 13801.20158）*</span><span class="sxs-lookup"><span data-stu-id="c9536-310">*Version 2102 (Build 13801.20158)*</span></span>
+## <a name="version-2102-february-11"></a><span data-ttu-id="75f95-329">版本 2102：2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="75f95-329">Version 2102: February 11</span></span>
+<span data-ttu-id="75f95-330">*版本 2102（内部版本 13801.20158）*</span><span class="sxs-lookup"><span data-stu-id="75f95-330">*Version 2102 (Build 13801.20158)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-312">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-312">Feature updates</span></span>
-### <a name="teams"></a><span data-ttu-id="c9536-313">Teams</span><span class="sxs-lookup"><span data-stu-id="c9536-313">Teams</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-332">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-332">Feature updates</span></span>
+### <a name="teams"></a><span data-ttu-id="75f95-333">Teams</span><span class="sxs-lookup"><span data-stu-id="75f95-333">Teams</span></span>
 
-- <span data-ttu-id="c9536-314">**Window 和 Mac 版本 Edge 和 Chrome 浏览器上的 2x2 视频** 在 Windows 和Mac 版 Edge 和 Chrome 浏览器中，用户最多可以在 Teams 会议中观看 4 位参与者的视频。</span><span class="sxs-lookup"><span data-stu-id="c9536-314">**2x2 video on Edge and Chrome browsers on Windows and Mac** Users can see up to 4 participants' video in Teams meetings in Edge and Chrome browsers on Windows and Mac.</span></span> [<span data-ttu-id="c9536-315">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-315">Learn more</span></span>](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+- <span data-ttu-id="75f95-334">**Window 和 Mac 版本 Edge 和 Chrome 浏览器上的 2x2 视频** 在 Windows 和Mac 版 Edge 和 Chrome 浏览器中，用户最多可以在 Teams 会议中观看 4 位参与者的视频。</span><span class="sxs-lookup"><span data-stu-id="75f95-334">**2x2 video on Edge and Chrome browsers on Windows and Mac** Users can see up to 4 participants' video in Teams meetings in Edge and Chrome browsers on Windows and Mac.</span></span> [<span data-ttu-id="75f95-335">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-335">Learn more</span></span>](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
 <br/>
 
-## <a name="version-2102-february-08"></a><span data-ttu-id="c9536-317">版本 2102：2 月 8 日</span><span class="sxs-lookup"><span data-stu-id="c9536-317">Version 2102: February 08</span></span>
-<span data-ttu-id="c9536-318">*版本 2102（内部版本 13801.20084）*</span><span class="sxs-lookup"><span data-stu-id="c9536-318">*Version 2102 (Build 13801.20084)*</span></span>
+## <a name="version-2102-february-08"></a><span data-ttu-id="75f95-337">版本 2102：2 月 8 日</span><span class="sxs-lookup"><span data-stu-id="75f95-337">Version 2102: February 08</span></span>
+<span data-ttu-id="75f95-338">*版本 2102（内部版本 13801.20084）*</span><span class="sxs-lookup"><span data-stu-id="75f95-338">*Version 2102 (Build 13801.20084)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-320">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-320">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-321">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-321">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-340">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-340">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-341">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-341">Outlook</span></span>
 
-- <span data-ttu-id="c9536-322">**Microsoft 搜索支持的撰写（收件人\抄送\密送）建议：** Microsoft 搜索现在支持将人员添加到“收件人\抄送”行。</span><span class="sxs-lookup"><span data-stu-id="c9536-322">**Microsoft Search powered compose (To\CC\BCC) suggestions:** Adding people to the To\CC line is now powered by Microsoft Search.</span></span>
+- <span data-ttu-id="75f95-342">**Microsoft 搜索支持的撰写（收件人\抄送\密送）建议：** Microsoft 搜索现在支持将人员添加到“收件人\抄送”行。</span><span class="sxs-lookup"><span data-stu-id="75f95-342">**Microsoft Search powered compose (To\CC\BCC) suggestions:** Adding people to the To\CC line is now powered by Microsoft Search.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -485,150 +523,150 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-325">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-325">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-326">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-326">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-345">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-345">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-346">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-346">Access</span></span>
 
-- <span data-ttu-id="c9536-327">现在，Access 中将更清晰地显示所选的选项卡。</span><span class="sxs-lookup"><span data-stu-id="c9536-327">You will now see selected tabs clearer in Access.</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="c9536-328">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-328">Excel</span></span>
-
-- <span data-ttu-id="c9536-329">修复了在重新打开文件时某些使用非连续单元格区域的图表不会加载的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-329">Fixes issue where certain charts using discontinuous ranges of cells would not load when files are re-opened.</span></span>
+- <span data-ttu-id="75f95-347">现在，Access 中将更清晰地显示所选的选项卡。</span><span class="sxs-lookup"><span data-stu-id="75f95-347">You will now see selected tabs clearer in Access.</span></span>
 
 
-- <span data-ttu-id="c9536-330">修复了在使用某些 Windows 安全中心漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-330">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use.</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-348">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-348">Excel</span></span>
+
+- <span data-ttu-id="75f95-349">修复了在重新打开文件时某些使用非连续单元格区域的图表不会加载的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-349">Fixes issue where certain charts using discontinuous ranges of cells would not load when files are re-opened.</span></span>
 
 
-- <span data-ttu-id="c9536-331">我们修复了在图表中选择数据系列后 Excel 停止响应的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-331">We fixed an issue where Excel would stop responding after selecting a data series in a chart.</span></span>
+- <span data-ttu-id="75f95-350">修复了在使用某些 Windows 安全中心漏洞保护设置（SimExec、CallerCheck）时，Excel 无法启动或意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-350">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use.</span></span>
 
 
-- <span data-ttu-id="c9536-332">我们修复了在“定义名称”对话框中添加名称时 Excel 意外退出的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-332">We fixed an issue where Excel would unexpectedly quit when you added a Name in the Define Name dialog.</span></span>
+- <span data-ttu-id="75f95-351">我们修复了在图表中选择数据系列后 Excel 停止响应的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-351">We fixed an issue where Excel would stop responding after selecting a data series in a chart.</span></span>
 
 
-- <span data-ttu-id="c9536-333">修复了有关图片在裁剪操作过程中保留其纵横比的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-333">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
+- <span data-ttu-id="75f95-352">我们修复了在“定义名称”对话框中添加名称时 Excel 意外退出的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-352">We fixed an issue where Excel would unexpectedly quit when you added a Name in the Define Name dialog.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="c9536-334">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-334">Outlook</span></span>
-
-- <span data-ttu-id="c9536-335">我们已修复了在用户取消选中该选项后导致邮件以数字签名发送的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-335">We fixed an issue that caused mails to be sent as digitally signed after the user unchecked that option.</span></span>
+- <span data-ttu-id="75f95-353">修复了有关图片在裁剪操作过程中保留其纵横比的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-353">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
 
 
-- <span data-ttu-id="c9536-336">我们修复了使用“仅加密”选项发送的电子邮件无法显示加密图标的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-336">We fixed an issue that caused the encryption icon to fail to display for emails sent using the Encrypt Only option.</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-354">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-354">Outlook</span></span>
+
+- <span data-ttu-id="75f95-355">我们已修复了在用户取消选中该选项后导致邮件以数字签名发送的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-355">We fixed an issue that caused mails to be sent as digitally signed after the user unchecked that option.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-337">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-337">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-338">修复了与显示彩色表情符号相关的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-338">Fixed an issue related to displaying emojis with color.</span></span>
+- <span data-ttu-id="75f95-356">我们修复了使用“仅加密”选项发送的电子邮件无法显示加密图标的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-356">We fixed an issue that caused the encryption icon to fail to display for emails sent using the Encrypt Only option.</span></span>
 
 
-- <span data-ttu-id="c9536-339">修复了有关图片在裁剪操作过程中保留其纵横比的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-339">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-357">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-357">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-358">修复了与显示彩色表情符号相关的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-358">Fixed an issue related to displaying emojis with color.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="c9536-340">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-340">Visio</span></span>
-
-- <span data-ttu-id="c9536-341">有关从 CAD 模具进行形状渲染的问题现已得到修复。</span><span class="sxs-lookup"><span data-stu-id="c9536-341">This issue on shape rendering from CAD stencils has now been fixed.</span></span> <span data-ttu-id="c9536-342">用户会看到该问题在最新版本中已得到解决。</span><span class="sxs-lookup"><span data-stu-id="c9536-342">Users will see the issue resolved in the latest build.</span></span>
+- <span data-ttu-id="75f95-359">修复了有关图片在裁剪操作过程中保留其纵横比的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-359">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-343">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-343">Word</span></span>
+### <a name="visio"></a><span data-ttu-id="75f95-360">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-360">Visio</span></span>
 
-- <span data-ttu-id="c9536-344">这修复了在网络连接断开一段时间之后实时键入和状态无法恢复的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-344">This fixes an issue that prevented real-time typing and presence from being restored after losing internet connectivity for a period of time.</span></span>
-
-
-- <span data-ttu-id="c9536-345">用户选择批注中的文本后，Word 现在将取消选择其他批注中的所选文本。</span><span class="sxs-lookup"><span data-stu-id="c9536-345">When a user selects text in a comment, Word now unselects selected text in other comments.</span></span>
+- <span data-ttu-id="75f95-361">有关从 CAD 模具进行形状渲染的问题现已得到修复。</span><span class="sxs-lookup"><span data-stu-id="75f95-361">This issue on shape rendering from CAD stencils has now been fixed.</span></span> <span data-ttu-id="75f95-362">用户会看到该问题在最新版本中已得到解决。</span><span class="sxs-lookup"><span data-stu-id="75f95-362">Users will see the issue resolved in the latest build.</span></span>
 
 
-- <span data-ttu-id="c9536-346">Word 现在允许将批注文本复制到 Excel。</span><span class="sxs-lookup"><span data-stu-id="c9536-346">Word now allows copying comment text into Excel.</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-363">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-363">Word</span></span>
+
+- <span data-ttu-id="75f95-364">这修复了在网络连接断开一段时间之后实时键入和状态无法恢复的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-364">This fixes an issue that prevented real-time typing and presence from being restored after losing internet connectivity for a period of time.</span></span>
 
 
-- <span data-ttu-id="c9536-347">我们修复了 VBA 宏 ExportAsFixedFormat2 运行失败并出现错误“演示文稿(未知成员)非法值”的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-347">We fixed an issue when running the VBA macro ExportAsFixedFormat2 fails with an error stating "Presentation (unknown member) illegal value".</span></span>
+- <span data-ttu-id="75f95-365">用户选择批注中的文本后，Word 现在将取消选择其他批注中的所选文本。</span><span class="sxs-lookup"><span data-stu-id="75f95-365">When a user selects text in a comment, Word now unselects selected text in other comments.</span></span>
 
 
-- <span data-ttu-id="c9536-348">修复了有关图片在裁剪操作过程中保留其纵横比的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-348">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
+- <span data-ttu-id="75f95-366">Word 现在允许将批注文本复制到 Excel。</span><span class="sxs-lookup"><span data-stu-id="75f95-366">Word now allows copying comment text into Excel.</span></span>
 
 
-- <span data-ttu-id="c9536-349">我们修复了一个问题，即批注可能被链接截断。</span><span class="sxs-lookup"><span data-stu-id="c9536-349">We fixed an issue which the comment may be truncated with links.</span></span>
+- <span data-ttu-id="75f95-367">我们修复了 VBA 宏 ExportAsFixedFormat2 运行失败并出现错误“演示文稿(未知成员)非法值”的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-367">We fixed an issue when running the VBA macro ExportAsFixedFormat2 fails with an error stating "Presentation (unknown member) illegal value".</span></span>
 
 
-- <span data-ttu-id="c9536-350">修复了保存到 SharePoint Online 时的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-350">We fixed an issue in saving to SharePoint Online</span></span>
+- <span data-ttu-id="75f95-368">修复了有关图片在裁剪操作过程中保留其纵横比的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-368">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
 
 
-- <span data-ttu-id="c9536-351">我们修复了将 Word 文档导出为 PDF 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-351">We fixed an issue in exporting Word document to PDF.</span></span>
+- <span data-ttu-id="75f95-369">我们修复了一个问题，即批注可能被链接截断。</span><span class="sxs-lookup"><span data-stu-id="75f95-369">We fixed an issue which the comment may be truncated with links.</span></span>
 
 
-- <span data-ttu-id="c9536-352">我们修复了与自动恢复相关的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-352">We fixed an issue with AutoRecover.</span></span>
-
-- <span data-ttu-id="c9536-353">修复了使用 DRM 受保护的文件时出现的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-353">We fixed an issue when coauthoring with DRM protected files</span></span>
+- <span data-ttu-id="75f95-370">修复了保存到 SharePoint Online 时的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-370">We fixed an issue in saving to SharePoint Online</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-354">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-354">Office Suite</span></span>
+- <span data-ttu-id="75f95-371">我们修复了将 Word 文档导出为 PDF 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-371">We fixed an issue in exporting Word document to PDF.</span></span>
 
-- <span data-ttu-id="c9536-355">修复了 PowerPoint 中在将项目符号作为图像插入时会导致项目符号消失的 bug。</span><span class="sxs-lookup"><span data-stu-id="c9536-355">Fixing a bug in PowerPoint where inserting bullets as images would result in bullets disappearing.</span></span> <span data-ttu-id="c9536-356">通过此修补程序，它们可以更可靠地进行呈现。</span><span class="sxs-lookup"><span data-stu-id="c9536-356">This fix makes it so they render more reliably.</span></span>
 
-- <span data-ttu-id="c9536-357">解决了 Office 在某些情况下为一个已登录帐户显示敏感度标签时，Office 应为不同已登录帐户显示敏感度标签这一问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-357">Fixed an issue where Office would in some circumstances present sensitivity labels for one signed-in account when it should present sensitivity labels for a different signed-in account.</span></span>
+- <span data-ttu-id="75f95-372">我们修复了与自动恢复相关的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-372">We fixed an issue with AutoRecover.</span></span>
+
+- <span data-ttu-id="75f95-373">修复了使用 DRM 受保护的文件时出现的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-373">We fixed an issue when coauthoring with DRM protected files</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-374">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-374">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-375">修复了 PowerPoint 中在将项目符号作为图像插入时会导致项目符号消失的 bug。</span><span class="sxs-lookup"><span data-stu-id="75f95-375">Fixing a bug in PowerPoint where inserting bullets as images would result in bullets disappearing.</span></span> <span data-ttu-id="75f95-376">通过此修补程序，它们可以更可靠地进行呈现。</span><span class="sxs-lookup"><span data-stu-id="75f95-376">This fix makes it so they render more reliably.</span></span>
+
+- <span data-ttu-id="75f95-377">解决了 Office 在某些情况下为一个已登录帐户显示敏感度标签时，Office 应为不同已登录帐户显示敏感度标签这一问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-377">Fixed an issue where Office would in some circumstances present sensitivity labels for one signed-in account when it should present sensitivity labels for a different signed-in account.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2101-february-03"></a><span data-ttu-id="c9536-359">版本 2101：2 月 3 日</span><span class="sxs-lookup"><span data-stu-id="c9536-359">Version 2101: February 03</span></span>
-<span data-ttu-id="c9536-360">*版本 2101（内部版本 13628.20330）*</span><span class="sxs-lookup"><span data-stu-id="c9536-360">*Version 2101 (Build 13628.20330)*</span></span>
+## <a name="version-2101-february-03"></a><span data-ttu-id="75f95-379">版本 2101：2 月 3 日</span><span class="sxs-lookup"><span data-stu-id="75f95-379">Version 2101: February 03</span></span>
+<span data-ttu-id="75f95-380">*版本 2101（内部版本 13628.20330）*</span><span class="sxs-lookup"><span data-stu-id="75f95-380">*Version 2101 (Build 13628.20330)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-362">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-362">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-363">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-363">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-382">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-382">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-383">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-383">Outlook</span></span>
 
-- <span data-ttu-id="c9536-364">解决了导致 OWA 中显示正确默认签名的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-364">We fixed an issue that caused issues with displaying the correct default signature in OWA.</span></span>
+- <span data-ttu-id="75f95-384">解决了导致 OWA 中显示正确默认签名的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-384">We fixed an issue that caused issues with displaying the correct default signature in OWA.</span></span>
 
 
-- <span data-ttu-id="c9536-365">修复了使用仅加密选项发送的电子邮件无法显示加密图标的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-365">We fixed an issue that caused the encryption icon to fail to display on emails sent using the encryption only option.</span></span>
+- <span data-ttu-id="75f95-385">修复了使用仅加密选项发送的电子邮件无法显示加密图标的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-385">We fixed an issue that caused the encryption icon to fail to display on emails sent using the encryption only option.</span></span>
 
 
 
 [//]: # (请勿删除错误详细信息内容结尾)
 
-## <a name="version-2101-february-02"></a><span data-ttu-id="c9536-367">版本 2101：2 月 2 日</span><span class="sxs-lookup"><span data-stu-id="c9536-367">Version 2101: February 02</span></span>
-<span data-ttu-id="c9536-368">*版本 2101（内部版本 13628.20320）*</span><span class="sxs-lookup"><span data-stu-id="c9536-368">*Version 2101 (Build 13628.20320)*</span></span>
+## <a name="version-2101-february-02"></a><span data-ttu-id="75f95-387">版本 2101：2 月 2 日</span><span class="sxs-lookup"><span data-stu-id="75f95-387">Version 2101: February 02</span></span>
+<span data-ttu-id="75f95-388">*版本 2101（内部版本 13628.20320）*</span><span class="sxs-lookup"><span data-stu-id="75f95-388">*Version 2101 (Build 13628.20320)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-370">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-370">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-371">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-371">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-390">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-390">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-391">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-391">Outlook</span></span>
 
-- <span data-ttu-id="c9536-372">我们修复了一个导致云设置用户在更新设置时体验挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-372">We fixed an issue that caused Cloud Settings users to experience a hang when updating settings.</span></span>
+- <span data-ttu-id="75f95-392">我们修复了一个导致云设置用户在更新设置时体验挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-392">We fixed an issue that caused Cloud Settings users to experience a hang when updating settings.</span></span>
 
 
 
 [//]: # (请勿删除错误详细信息内容结尾)
 
-## <a name="version-2101-january-25"></a><span data-ttu-id="c9536-374">版本 2101：1 月 25 日</span><span class="sxs-lookup"><span data-stu-id="c9536-374">Version 2101: January 25</span></span>
-<span data-ttu-id="c9536-375">*版本 2101（内部版本 13628.20274）*</span><span class="sxs-lookup"><span data-stu-id="c9536-375">*Version 2101 (Build 13628.20274)*</span></span>
+## <a name="version-2101-january-25"></a><span data-ttu-id="75f95-394">版本 2101：1 月 25 日</span><span class="sxs-lookup"><span data-stu-id="75f95-394">Version 2101: January 25</span></span>
+<span data-ttu-id="75f95-395">*版本 2101（内部版本 13628.20274）*</span><span class="sxs-lookup"><span data-stu-id="75f95-395">*Version 2101 (Build 13628.20274)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-377">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-377">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-378">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-378">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-397">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-397">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-398">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-398">Excel</span></span>
 
-- <span data-ttu-id="c9536-379">**政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。</span><span class="sxs-lookup"><span data-stu-id="c9536-379">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="c9536-380">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-380">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
+- <span data-ttu-id="75f95-399">**政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。</span><span class="sxs-lookup"><span data-stu-id="75f95-399">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="75f95-400">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-400">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
 
-### <a name="outlook"></a><span data-ttu-id="c9536-381">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-381">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-401">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-401">Outlook</span></span>
 
-- <span data-ttu-id="c9536-382">**政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。</span><span class="sxs-lookup"><span data-stu-id="c9536-382">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="c9536-383">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-383">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
+- <span data-ttu-id="75f95-402">**政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。</span><span class="sxs-lookup"><span data-stu-id="75f95-402">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="75f95-403">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-403">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-384">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-384">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-404">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-404">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-385">**政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。</span><span class="sxs-lookup"><span data-stu-id="c9536-385">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> <span data-ttu-id="c9536-386">[了解详细信息](/microsoft-365/compliance/sensitivity-labels)。</span><span class="sxs-lookup"><span data-stu-id="c9536-386">[Learn more](/microsoft-365/compliance/sensitivity-labels).</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="c9536-387">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-387">Word</span></span>
-
-- <span data-ttu-id="c9536-388">**政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。</span><span class="sxs-lookup"><span data-stu-id="c9536-388">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="c9536-389">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-389">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
+- <span data-ttu-id="75f95-405">**政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。</span><span class="sxs-lookup"><span data-stu-id="75f95-405">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> <span data-ttu-id="75f95-406">[了解详细信息](/microsoft-365/compliance/sensitivity-labels)。</span><span class="sxs-lookup"><span data-stu-id="75f95-406">[Learn more](/microsoft-365/compliance/sensitivity-labels).</span></span>
 
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-390">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-390">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-391">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-391">Outlook</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-407">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-407">Word</span></span>
 
-- <span data-ttu-id="c9536-392">修复了导致配置文件中具有较大层次结构的共享邮箱或委派邮箱的用户遇到挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-392">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
+- <span data-ttu-id="75f95-408">**政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。</span><span class="sxs-lookup"><span data-stu-id="75f95-408">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="75f95-409">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-409">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
+
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-410">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-410">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-411">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-411">Outlook</span></span>
+
+- <span data-ttu-id="75f95-412">修复了导致配置文件中具有较大层次结构的共享邮箱或委派邮箱的用户遇到挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-412">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
 
 
 
@@ -636,8 +674,8 @@ ms.locfileid: "51582078"
 
 
 
-## <a name="version-2101-january-18"></a><span data-ttu-id="c9536-394">版本 2101：1 月 18 日</span><span class="sxs-lookup"><span data-stu-id="c9536-394">Version 2101: January 18</span></span>
-<span data-ttu-id="c9536-395">*版本 2101（内部版本 13628.20158）*</span><span class="sxs-lookup"><span data-stu-id="c9536-395">*Version 2101 (Build 13628.20158)*</span></span>
+## <a name="version-2101-january-18"></a><span data-ttu-id="75f95-414">版本 2101：1 月 18 日</span><span class="sxs-lookup"><span data-stu-id="75f95-414">Version 2101: January 18</span></span>
+<span data-ttu-id="75f95-415">*版本 2101（内部版本 13628.20158）*</span><span class="sxs-lookup"><span data-stu-id="75f95-415">*Version 2101 (Build 13628.20158)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -649,70 +687,42 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-399">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-399">Resolved issues</span></span>
-### <a name="project"></a><span data-ttu-id="c9536-400">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-400">Project</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-419">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-419">Resolved issues</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-420">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-420">Project</span></span>
 
-- <span data-ttu-id="c9536-401">解决了视图中不显示任务边框的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-401">Fixed an issue where borders weren't showing up for tasks in the Team Planner view.</span></span>
-
-
-- <span data-ttu-id="c9536-402">解决了“工作组规划器”视图中的拖放功能无法用于任务的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-402">Fixed an issue where you drag and drop wasn't working for tasks in the Team Planner view.</span></span>
+- <span data-ttu-id="75f95-421">解决了视图中不显示任务边框的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-421">Fixed an issue where borders weren't showing up for tasks in the Team Planner view.</span></span>
 
 
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2101-january-13"></a><span data-ttu-id="c9536-404">版本 2101：1 月 13 日</span><span class="sxs-lookup"><span data-stu-id="c9536-404">Version 2101: January 13</span></span>
-<span data-ttu-id="c9536-405">*版本 2101（内部版本 13628.20118）*</span><span class="sxs-lookup"><span data-stu-id="c9536-405">*Version 2101 (Build 13628.20118)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-### <a name="feature-updates"></a><span data-ttu-id="c9536-407">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-407">Feature updates</span></span>
-### <a name="teams"></a><span data-ttu-id="c9536-408">Teams</span><span class="sxs-lookup"><span data-stu-id="c9536-408">Teams</span></span>
-- <span data-ttu-id="c9536-409">**更多主题：** 现在可在桌面和 Web 客户端中使用新主题。</span><span class="sxs-lookup"><span data-stu-id="c9536-409">**More themes:** New themes are now available for desktop and web clients.</span></span>
-
-- <span data-ttu-id="c9536-410">**PPT 共享：** Teams 中的演示者视图，当你从 Teams 共享托盘中选择 PowerPoint 文件后，演示者视图将自动打开。</span><span class="sxs-lookup"><span data-stu-id="c9536-410">**PPT Sharing:** Presenter View in Teams Once you select a PowerPoint file from the Teams Share Tray, Presenter View is opened automatically.</span></span> <span data-ttu-id="c9536-411">你可以查看当前幻灯片、幻灯片备注以及幻灯片组中的所有幻灯片的缩略图条，它便于你临时进行幻灯片导航。</span><span class="sxs-lookup"><span data-stu-id="c9536-411">You can see the current slide, the slide notes, and a thumbnail strip of all the slides in the deck for easy ad-hoc slide navigation.</span></span> <span data-ttu-id="c9536-412">此视图完全隐藏在幕后，它专供控制中的演示者使用。</span><span class="sxs-lookup"><span data-stu-id="c9536-412">This view is completely behind the scenes, and it’s private to the presenter in control.</span></span> <span data-ttu-id="c9536-413">受众只能看到你当前的幻灯片（在大红色框中突出显示），或者他们选择导航到的幻灯片（如果你未锁定受众导航）。</span><span class="sxs-lookup"><span data-stu-id="c9536-413">Your audience can only see your current slide (highlighted in the big red box), or the slide that they choose to navigate to (if audience navigation is not locked by you).</span></span> 
-
-- <span data-ttu-id="c9536-414">**在 Mac 上共享桌面或窗口时包含计算机声音** 当从 Mac 的 Teams 共享桌面或窗口时，现在可以包含计算机声音，以使参加会议的人员可以听到计算机中播放的音频。</span><span class="sxs-lookup"><span data-stu-id="c9536-414">**Include computer sound when desktop or window sharing on Mac** When you share a desktop or window from Teams on Mac, you can now include your computer's sound so people that have joined the meeting can hear the audio playing out of your computer.</span></span>
-
-[//]: # (请勿移除功能详细信息内容结尾)
-<br/>
-
-## <a name="version-2101-january-09"></a><span data-ttu-id="c9536-416">版本 2101：1 月 9 日</span><span class="sxs-lookup"><span data-stu-id="c9536-416">Version 2101: January 09</span></span>
-<span data-ttu-id="c9536-417">*版本 2101（内部版本 13628.20118）*</span><span class="sxs-lookup"><span data-stu-id="c9536-417">*Version 2101 (Build 13628.20118)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-419">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-419">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-420">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-420">Outlook</span></span>
-
-- <span data-ttu-id="c9536-421">**一键式写作建议：** 只需单击一次，即可应用写作建议。</span><span class="sxs-lookup"><span data-stu-id="c9536-421">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="c9536-422">编辑器可校正拼写和语法，并提供创意以改进写作。</span><span class="sxs-lookup"><span data-stu-id="c9536-422">Editor corrects spelling and grammar and gives you ideas for refining your writing.</span></span> [<span data-ttu-id="c9536-423">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-423">Learn more</span></span>](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br /><span data-ttu-id="c9536-424">在[博客文章](https://insider.office.com/zh-CN/blog/microsoft-editor-gets-an-upgrade)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-424">See details in [blog post](https://insider.office.com/zh-CN/blog/microsoft-editor-gets-an-upgrade)</span></span>
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-427">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-427">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-428">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-428">Outlook</span></span>
-
-- <span data-ttu-id="c9536-429">我们解决了导致某些用户在特定搜索方案中遇到 Outlook 意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-429">We fixed an issue that caused some users to experience Outlook to close unexpectedly in certain search scenarios.</span></span>
+- <span data-ttu-id="75f95-422">解决了“工作组规划器”视图中的拖放功能无法用于任务的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-422">Fixed an issue where you drag and drop wasn't working for tasks in the Team Planner view.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2101-january-07"></a><span data-ttu-id="c9536-431">版本2101：07年1月</span><span class="sxs-lookup"><span data-stu-id="c9536-431">Version 2101: January 07</span></span>
-<span data-ttu-id="c9536-432">*版本2101（内部版本13628.20030）*</span><span class="sxs-lookup"><span data-stu-id="c9536-432">*Version 2101 (Build 13628.20030)*</span></span>
+## <a name="version-2101-january-13"></a><span data-ttu-id="75f95-424">版本 2101：1 月 13 日</span><span class="sxs-lookup"><span data-stu-id="75f95-424">Version 2101: January 13</span></span>
+<span data-ttu-id="75f95-425">*版本 2101（内部版本 13628.20118）*</span><span class="sxs-lookup"><span data-stu-id="75f95-425">*Version 2101 (Build 13628.20118)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+### <a name="feature-updates"></a><span data-ttu-id="75f95-427">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-427">Feature updates</span></span>
+### <a name="teams"></a><span data-ttu-id="75f95-428">Teams</span><span class="sxs-lookup"><span data-stu-id="75f95-428">Teams</span></span>
+- <span data-ttu-id="75f95-429">**更多主题：** 现在可在桌面和 Web 客户端中使用新主题。</span><span class="sxs-lookup"><span data-stu-id="75f95-429">**More themes:** New themes are now available for desktop and web clients.</span></span>
+
+- <span data-ttu-id="75f95-430">**PPT 共享：** Teams 中的演示者视图，当你从 Teams 共享托盘中选择 PowerPoint 文件后，演示者视图将自动打开。</span><span class="sxs-lookup"><span data-stu-id="75f95-430">**PPT Sharing:** Presenter View in Teams Once you select a PowerPoint file from the Teams Share Tray, Presenter View is opened automatically.</span></span> <span data-ttu-id="75f95-431">你可以查看当前幻灯片、幻灯片备注以及幻灯片组中的所有幻灯片的缩略图条，它便于你临时进行幻灯片导航。</span><span class="sxs-lookup"><span data-stu-id="75f95-431">You can see the current slide, the slide notes, and a thumbnail strip of all the slides in the deck for easy ad-hoc slide navigation.</span></span> <span data-ttu-id="75f95-432">此视图完全隐藏在幕后，它专供控制中的演示者使用。</span><span class="sxs-lookup"><span data-stu-id="75f95-432">This view is completely behind the scenes, and it’s private to the presenter in control.</span></span> <span data-ttu-id="75f95-433">受众只能看到你当前的幻灯片（在大红色框中突出显示），或者他们选择导航到的幻灯片（如果你未锁定受众导航）。</span><span class="sxs-lookup"><span data-stu-id="75f95-433">Your audience can only see your current slide (highlighted in the big red box), or the slide that they choose to navigate to (if audience navigation is not locked by you).</span></span> 
+
+- <span data-ttu-id="75f95-434">**在 Mac 上共享桌面或窗口时包含计算机声音** 当从 Mac 的 Teams 共享桌面或窗口时，现在可以包含计算机声音，以使参加会议的人员可以听到计算机中播放的音频。</span><span class="sxs-lookup"><span data-stu-id="75f95-434">**Include computer sound when desktop or window sharing on Mac** When you share a desktop or window from Teams on Mac, you can now include your computer's sound so people that have joined the meeting can hear the audio playing out of your computer.</span></span>
+
+[//]: # (请勿移除功能详细信息内容结尾)
+<br/>
+
+## <a name="version-2101-january-09"></a><span data-ttu-id="75f95-436">版本 2101：1 月 9 日</span><span class="sxs-lookup"><span data-stu-id="75f95-436">Version 2101: January 09</span></span>
+<span data-ttu-id="75f95-437">*版本 2101（内部版本 13628.20118）*</span><span class="sxs-lookup"><span data-stu-id="75f95-437">*Version 2101 (Build 13628.20118)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-434">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-434">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-435">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-435">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-439">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-439">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-440">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-440">Outlook</span></span>
 
-- <span data-ttu-id="c9536-436">**同时取消隐藏多张工作表：** 不再需要一次取消隐藏一个工作表，可以一次取消隐藏多个隐藏工作表。</span><span class="sxs-lookup"><span data-stu-id="c9536-436">**Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once.</span></span> [<span data-ttu-id="c9536-437">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-437">Learn more</span></span>](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
-
-- <span data-ttu-id="c9536-438">**改进了条件格式对话框：** 条件格式对话框现在可以调整大小，现在只需单击一下即可复制规则。</span><span class="sxs-lookup"><span data-stu-id="c9536-438">**Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click.</span></span> [<span data-ttu-id="c9536-439">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-439">Learn more</span></span>](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- <span data-ttu-id="75f95-441">**一键式写作建议：** 只需单击一次，即可应用写作建议。</span><span class="sxs-lookup"><span data-stu-id="75f95-441">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="75f95-442">编辑器可校正拼写和语法，并提供创意以改进写作。</span><span class="sxs-lookup"><span data-stu-id="75f95-442">Editor corrects spelling and grammar and gives you ideas for refining your writing.</span></span> [<span data-ttu-id="75f95-443">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-443">Learn more</span></span>](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br /><span data-ttu-id="75f95-444">在[博客文章](https://insider.office.com/zh-CN/blog/microsoft-editor-gets-an-upgrade)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-444">See details in [blog post](https://insider.office.com/zh-CN/blog/microsoft-editor-gets-an-upgrade)</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -721,192 +731,220 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-442">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-442">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-443">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-443">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-447">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-447">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-448">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-448">Outlook</span></span>
 
-- <span data-ttu-id="c9536-444">修复了以下问题：Excel 错误地显示新版本文件可用的消息栏，并强制用户将更改保存在工作簿副本中或放弃更改。</span><span class="sxs-lookup"><span data-stu-id="c9536-444">Fixed an issue where Excel would incorrectly show a message bar that a new version of the file is available and force the user to save their changes in a copy of the workbook or discard their changes.</span></span>
-
-
-- <span data-ttu-id="c9536-445">修复了 Selection.Parent.Copy 调用后切换分隔符的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-445">Fixed an issue with switching separators after a Selection.Parent.Copy call.</span></span>
-
-
-- <span data-ttu-id="c9536-446">将格式样式应用于数据透视表时，会提升性能。</span><span class="sxs-lookup"><span data-stu-id="c9536-446">Made a performance improvement when applying formatting styles to pivot tables.</span></span>
-
-
-- <span data-ttu-id="c9536-447">修复了当打开包含 Excel 4.0 宏的 Excel 加载项文件时，Excel 可能会禁用宏而不提示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-447">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
-
-
-- <span data-ttu-id="c9536-448">更新以便在从 Excel 复制图表并粘贴到 Word 中时保留小数和千位分隔符设置</span><span class="sxs-lookup"><span data-stu-id="c9536-448">Update so that decimal and thousands separators settings carryover when copying a chart from Excel and pasting into Word</span></span>
-
-
-- <span data-ttu-id="c9536-449">修正了当打开具有无效文件属性（创建时间、修改时间等）的 UNC 文件时，Excel 会意外关闭的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-449">Fixed an issue where Excel would close unexpectedly when opening UNC files that have invalid file attributes (creation time, modified time, etc.)</span></span>
-
-
-- <span data-ttu-id="c9536-450">解决了使用 STOCKHISTORY 函数时可能会导致 "资源不足" 警报的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-450">Fixed an issue which could cause an "out of resources" alert when using the STOCKHISTORY function.</span></span>
-
-
-- <span data-ttu-id="c9536-451">已向 PQ dll 列表添加 FuzzyClustering dll。</span><span class="sxs-lookup"><span data-stu-id="c9536-451">Added a FuzzyClustering dll to PQ dlls list.</span></span>
-
-
-- <span data-ttu-id="c9536-452">此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-452">This change addresses an issue related to changing outline colors of SVG images.</span></span>
-
-
-- <span data-ttu-id="c9536-453">我们已修复 PowerPoint 中的嵌入 Excel 区域预览显示错误大小的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-453">We have fixed an issue where Preview of embedded Excel range in PowerPoint shows incorrect size.</span></span>
-
-
-### <a name="onenote"></a><span data-ttu-id="c9536-454">OneNote</span><span class="sxs-lookup"><span data-stu-id="c9536-454">OneNote</span></span>
-
-- <span data-ttu-id="c9536-455">此更改解决了影响 OneNOte 的渲染问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-455">This change addresses a rendering issue affecting OneNote.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="c9536-456">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-456">Outlook</span></span>
-
-- <span data-ttu-id="c9536-457">修复了以下问题：导致用户无法指定在从 Word 启动邮件合并时允许访问时长，从而导致他们获得过多提示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-457">We fixed an issue that caused users to be unable to specify how long they wanted to allow access for when starting a mail merge from Word, resulting in them getting excess prompts.</span></span>
-
-
-- <span data-ttu-id="c9536-458">此更改使得 Outlook 得以利用一项 Exchange 服务器设置， 此设置会抑制 Exchange Online 存档邮箱对最终用户的显示。</span><span class="sxs-lookup"><span data-stu-id="c9536-458">This change enables Outlook to take advantage of an Exchange server setting that suppresses the display of the Exchange Online Archive Mailbox to end users.</span></span>
-
-
-- <span data-ttu-id="c9536-459">我们修复了导致基于兑换的加载项用户意外关闭 Outlook 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-459">We fixed an issue that caused a Outlook to close unexpectedly for users of Redemption based Add-ins.</span></span>
-
-
-- <span data-ttu-id="c9536-460">修复了导致用户无法选择多个类别进行搜索的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-460">We fixed and issue that caused users to be unable to select more than one category to search.</span></span>
-
-
-- <span data-ttu-id="c9536-461">修复了从另一个约会复制事件时，会意外更改某些日历项目开始时间的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-461">We fixed an issue that caused the start time of some calendar items to change unexpectedly when the event is copied from another appointment.</span></span>
-
-
-- <span data-ttu-id="c9536-462">解决了导致纯文本 S/MIME 邮件在发送时出现乱码的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-462">Addressed an issue that caused plain text S/MIME messages to become garbled when sending.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="c9536-463">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-463">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-464">此更改解决了合并形状处理文本的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-464">This change addresses an issue with Merge Shapes working with text.</span></span>
-
-
-- <span data-ttu-id="c9536-465">此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-465">This change addresses an issue related to changing outline colors of SVG images.</span></span>
-
-
-- <span data-ttu-id="c9536-466">此更改解决了在幻灯片放映中循环播放背景视频的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-466">This change addresses an issue with looping background videos playback in Slide Show.</span></span>
-
-
-- <span data-ttu-id="c9536-467">修复了 QAT 中添加的字号命令在更新时自动完成以最接近定义字号的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-467">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="c9536-468">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-468">Project</span></span>
-
-- <span data-ttu-id="c9536-469">修复了资源的最大设备不会始终反映最大设备最新更新的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-469">Fixed an issue where a resource's max units would not always reflect the latest update to max units.</span></span>
-
-
-### <a name="visio"></a><span data-ttu-id="c9536-470">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-470">Visio</span></span>
-
-- <span data-ttu-id="c9536-471">此问题是由于最近的回归。</span><span class="sxs-lookup"><span data-stu-id="c9536-471">The issue occurred due to a recent regression.</span></span> <span data-ttu-id="c9536-472">我们已解决了此问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-472">We have resolved the issue.</span></span> <span data-ttu-id="c9536-473">"另存为网页" 对话框现在使字段按照用户输入正确填充，用户可将其文件无缝地保存为网页。</span><span class="sxs-lookup"><span data-stu-id="c9536-473">"Save as Web Page" dialog will now have the fields correctly populated as per the user inputs and users can seamlessly save their files as web pages.</span></span>
-
-
-- <span data-ttu-id="c9536-474">此问题已修复。</span><span class="sxs-lookup"><span data-stu-id="c9536-474">This issue has been fixed.</span></span> <span data-ttu-id="c9536-475">现在，你可以在其他 Office 应用程序（如 PowerPoint 和 Word）中将 Visio 文件嵌入到对象，并从这些应用程序中无缝访问它们。</span><span class="sxs-lookup"><span data-stu-id="c9536-475">You can now embed Visio files as objects in other Office applications like PowerPoint and Word and seamlessly access them from within these applications.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="c9536-476">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-476">Word</span></span>
-
-- <span data-ttu-id="c9536-477">修复了一个问题，即在中运行自定义散列设置的计算机在进入协作会话时遇到 sha512 以外的散列设置。</span><span class="sxs-lookup"><span data-stu-id="c9536-477">Fixed an issue where machines with custom hash settings were running in to issues when they got into a collab session with a hash setting other than sha512.</span></span>
-
-
-- <span data-ttu-id="c9536-478">此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-478">This change addresses an issue related to changing outline colors of SVG images.</span></span>
-
-
-- <span data-ttu-id="c9536-479">修复了使用@提及编辑评论帖子时的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-479">Fixed an issue when editing commenting post with @mention.</span></span>
-
-
-- <span data-ttu-id="c9536-480">修复了一个问题使得新式评论更可靠。</span><span class="sxs-lookup"><span data-stu-id="c9536-480">Fixed an issue to make Modern comments more robust.</span></span>
-
-
-- <span data-ttu-id="c9536-481">修复了有关删除内容控件中标记为不可编辑的新式批注的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-481">We fixed an issue around deleting modern comments in a content control that is marked as not editable.</span></span>
-
-
-- <span data-ttu-id="c9536-482">在评论卡底部键入时修复动画。</span><span class="sxs-lookup"><span data-stu-id="c9536-482">Fix animation when typing on the bottom of a comment card.</span></span>
-
-
-- <span data-ttu-id="c9536-483">修正了评论卡上的回复框不在屏幕上的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-483">Fixes an issue where the reply box on a comment card is off the screen.</span></span>
-
-
-- <span data-ttu-id="c9536-484">修复页面顶部显示了批注卡的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-484">Fixes an issue with a comment card displaying at top of page.</span></span>
-
-
-- <span data-ttu-id="c9536-485">修复了批注中的错误，文本可以在屏幕上滚动。</span><span class="sxs-lookup"><span data-stu-id="c9536-485">Fixes bug in comments where text can scroll off screen.</span></span>
-
-
-- <span data-ttu-id="c9536-486">修复了评论窗格中嵌套滚动条的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-486">Fix and issue with nested scrollbars in the comments pane.</span></span>
-
-
-- <span data-ttu-id="c9536-487">创建新 Word 实例时评论草稿会消失。</span><span class="sxs-lookup"><span data-stu-id="c9536-487">Comment drafts disappears when creating a new Word instance.</span></span>
-
-
-- <span data-ttu-id="c9536-488">我们修复了将文档保存到带有隐藏文字的 PDF 时 Word 挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-488">We fixed an issue where Word hangs when saving document to PDF with hidden text.</span></span>
+- <span data-ttu-id="75f95-449">我们解决了导致某些用户在特定搜索方案中遇到 Outlook 意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-449">We fixed an issue that caused some users to experience Outlook to close unexpectedly in certain search scenarios.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2012-january-04"></a><span data-ttu-id="c9536-490">版本 2012：1 月 4 日</span><span class="sxs-lookup"><span data-stu-id="c9536-490">Version 2012: January 04</span></span>
-<span data-ttu-id="c9536-491">*版本 2012（内部版本 13530.20316）*</span><span class="sxs-lookup"><span data-stu-id="c9536-491">*Version 2012 (Build 13530.20316)*</span></span>
-* <span data-ttu-id="c9536-492">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-492">Various bugs and performance fixes.</span></span>
+## <a name="version-2101-january-07"></a><span data-ttu-id="75f95-451">版本2101：07年1月</span><span class="sxs-lookup"><span data-stu-id="75f95-451">Version 2101: January 07</span></span>
+<span data-ttu-id="75f95-452">*版本2101（内部版本13628.20030）*</span><span class="sxs-lookup"><span data-stu-id="75f95-452">*Version 2101 (Build 13628.20030)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-454">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-454">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-455">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-455">Excel</span></span>
+
+- <span data-ttu-id="75f95-456">**同时取消隐藏多张工作表：** 不再需要一次取消隐藏一个工作表，可以一次取消隐藏多个隐藏工作表。</span><span class="sxs-lookup"><span data-stu-id="75f95-456">**Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once.</span></span> [<span data-ttu-id="75f95-457">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-457">Learn more</span></span>](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- <span data-ttu-id="75f95-458">**改进了条件格式对话框：** 条件格式对话框现在可以调整大小，现在只需单击一下即可复制规则。</span><span class="sxs-lookup"><span data-stu-id="75f95-458">**Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click.</span></span> [<span data-ttu-id="75f95-459">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-459">Learn more</span></span>](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-462">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-462">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-463">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-463">Excel</span></span>
+
+- <span data-ttu-id="75f95-464">修复了以下问题：Excel 错误地显示新版本文件可用的消息栏，并强制用户将更改保存在工作簿副本中或放弃更改。</span><span class="sxs-lookup"><span data-stu-id="75f95-464">Fixed an issue where Excel would incorrectly show a message bar that a new version of the file is available and force the user to save their changes in a copy of the workbook or discard their changes.</span></span>
+
+
+- <span data-ttu-id="75f95-465">修复了 Selection.Parent.Copy 调用后切换分隔符的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-465">Fixed an issue with switching separators after a Selection.Parent.Copy call.</span></span>
+
+
+- <span data-ttu-id="75f95-466">将格式样式应用于数据透视表时，会提升性能。</span><span class="sxs-lookup"><span data-stu-id="75f95-466">Made a performance improvement when applying formatting styles to pivot tables.</span></span>
+
+
+- <span data-ttu-id="75f95-467">修复了当打开包含 Excel 4.0 宏的 Excel 加载项文件时，Excel 可能会禁用宏而不提示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-467">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
+
+
+- <span data-ttu-id="75f95-468">更新以便在从 Excel 复制图表并粘贴到 Word 中时保留小数和千位分隔符设置</span><span class="sxs-lookup"><span data-stu-id="75f95-468">Update so that decimal and thousands separators settings carryover when copying a chart from Excel and pasting into Word</span></span>
+
+
+- <span data-ttu-id="75f95-469">修正了当打开具有无效文件属性（创建时间、修改时间等）的 UNC 文件时，Excel 会意外关闭的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-469">Fixed an issue where Excel would close unexpectedly when opening UNC files that have invalid file attributes (creation time, modified time, etc.)</span></span>
+
+
+- <span data-ttu-id="75f95-470">解决了使用 STOCKHISTORY 函数时可能会导致 "资源不足" 警报的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-470">Fixed an issue which could cause an "out of resources" alert when using the STOCKHISTORY function.</span></span>
+
+
+- <span data-ttu-id="75f95-471">已向 PQ dll 列表添加 FuzzyClustering dll。</span><span class="sxs-lookup"><span data-stu-id="75f95-471">Added a FuzzyClustering dll to PQ dlls list.</span></span>
+
+
+- <span data-ttu-id="75f95-472">此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-472">This change addresses an issue related to changing outline colors of SVG images.</span></span>
+
+
+- <span data-ttu-id="75f95-473">我们已修复 PowerPoint 中的嵌入 Excel 区域预览显示错误大小的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-473">We have fixed an issue where Preview of embedded Excel range in PowerPoint shows incorrect size.</span></span>
+
+
+### <a name="onenote"></a><span data-ttu-id="75f95-474">OneNote</span><span class="sxs-lookup"><span data-stu-id="75f95-474">OneNote</span></span>
+
+- <span data-ttu-id="75f95-475">此更改解决了影响 OneNOte 的渲染问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-475">This change addresses a rendering issue affecting OneNote.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="75f95-476">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-476">Outlook</span></span>
+
+- <span data-ttu-id="75f95-477">修复了以下问题：导致用户无法指定在从 Word 启动邮件合并时允许访问时长，从而导致他们获得过多提示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-477">We fixed an issue that caused users to be unable to specify how long they wanted to allow access for when starting a mail merge from Word, resulting in them getting excess prompts.</span></span>
+
+
+- <span data-ttu-id="75f95-478">此更改使得 Outlook 得以利用一项 Exchange 服务器设置， 此设置会抑制 Exchange Online 存档邮箱对最终用户的显示。</span><span class="sxs-lookup"><span data-stu-id="75f95-478">This change enables Outlook to take advantage of an Exchange server setting that suppresses the display of the Exchange Online Archive Mailbox to end users.</span></span>
+
+
+- <span data-ttu-id="75f95-479">我们修复了导致基于兑换的加载项用户意外关闭 Outlook 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-479">We fixed an issue that caused a Outlook to close unexpectedly for users of Redemption based Add-ins.</span></span>
+
+
+- <span data-ttu-id="75f95-480">修复了导致用户无法选择多个类别进行搜索的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-480">We fixed and issue that caused users to be unable to select more than one category to search.</span></span>
+
+
+- <span data-ttu-id="75f95-481">修复了从另一个约会复制事件时，会意外更改某些日历项目开始时间的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-481">We fixed an issue that caused the start time of some calendar items to change unexpectedly when the event is copied from another appointment.</span></span>
+
+
+- <span data-ttu-id="75f95-482">解决了导致纯文本 S/MIME 邮件在发送时出现乱码的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-482">Addressed an issue that caused plain text S/MIME messages to become garbled when sending.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-483">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-483">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-484">此更改解决了合并形状处理文本的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-484">This change addresses an issue with Merge Shapes working with text.</span></span>
+
+
+- <span data-ttu-id="75f95-485">此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-485">This change addresses an issue related to changing outline colors of SVG images.</span></span>
+
+
+- <span data-ttu-id="75f95-486">此更改解决了在幻灯片放映中循环播放背景视频的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-486">This change addresses an issue with looping background videos playback in Slide Show.</span></span>
+
+
+- <span data-ttu-id="75f95-487">修复了 QAT 中添加的字号命令在更新时自动完成以最接近定义字号的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-487">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="75f95-488">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-488">Project</span></span>
+
+- <span data-ttu-id="75f95-489">修复了资源的最大设备不会始终反映最大设备最新更新的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-489">Fixed an issue where a resource's max units would not always reflect the latest update to max units.</span></span>
+
+
+### <a name="visio"></a><span data-ttu-id="75f95-490">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-490">Visio</span></span>
+
+- <span data-ttu-id="75f95-491">此问题是由于最近的回归。</span><span class="sxs-lookup"><span data-stu-id="75f95-491">The issue occurred due to a recent regression.</span></span> <span data-ttu-id="75f95-492">我们已解决了此问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-492">We have resolved the issue.</span></span> <span data-ttu-id="75f95-493">"另存为网页" 对话框现在使字段按照用户输入正确填充，用户可将其文件无缝地保存为网页。</span><span class="sxs-lookup"><span data-stu-id="75f95-493">"Save as Web Page" dialog will now have the fields correctly populated as per the user inputs and users can seamlessly save their files as web pages.</span></span>
+
+
+- <span data-ttu-id="75f95-494">此问题已修复。</span><span class="sxs-lookup"><span data-stu-id="75f95-494">This issue has been fixed.</span></span> <span data-ttu-id="75f95-495">现在，你可以在其他 Office 应用程序（如 PowerPoint 和 Word）中将 Visio 文件嵌入到对象，并从这些应用程序中无缝访问它们。</span><span class="sxs-lookup"><span data-stu-id="75f95-495">You can now embed Visio files as objects in other Office applications like PowerPoint and Word and seamlessly access them from within these applications.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="75f95-496">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-496">Word</span></span>
+
+- <span data-ttu-id="75f95-497">修复了一个问题，即在中运行自定义散列设置的计算机在进入协作会话时遇到 sha512 以外的散列设置。</span><span class="sxs-lookup"><span data-stu-id="75f95-497">Fixed an issue where machines with custom hash settings were running in to issues when they got into a collab session with a hash setting other than sha512.</span></span>
+
+
+- <span data-ttu-id="75f95-498">此更改解决了与更改 SVG 图像的轮廓颜色有关的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-498">This change addresses an issue related to changing outline colors of SVG images.</span></span>
+
+
+- <span data-ttu-id="75f95-499">修复了使用@提及编辑评论帖子时的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-499">Fixed an issue when editing commenting post with @mention.</span></span>
+
+
+- <span data-ttu-id="75f95-500">修复了一个问题使得新式评论更可靠。</span><span class="sxs-lookup"><span data-stu-id="75f95-500">Fixed an issue to make Modern comments more robust.</span></span>
+
+
+- <span data-ttu-id="75f95-501">修复了有关删除内容控件中标记为不可编辑的新式批注的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-501">We fixed an issue around deleting modern comments in a content control that is marked as not editable.</span></span>
+
+
+- <span data-ttu-id="75f95-502">在评论卡底部键入时修复动画。</span><span class="sxs-lookup"><span data-stu-id="75f95-502">Fix animation when typing on the bottom of a comment card.</span></span>
+
+
+- <span data-ttu-id="75f95-503">修正了评论卡上的回复框不在屏幕上的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-503">Fixes an issue where the reply box on a comment card is off the screen.</span></span>
+
+
+- <span data-ttu-id="75f95-504">修复页面顶部显示了批注卡的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-504">Fixes an issue with a comment card displaying at top of page.</span></span>
+
+
+- <span data-ttu-id="75f95-505">修复了批注中的错误，文本可以在屏幕上滚动。</span><span class="sxs-lookup"><span data-stu-id="75f95-505">Fixes bug in comments where text can scroll off screen.</span></span>
+
+
+- <span data-ttu-id="75f95-506">修复了评论窗格中嵌套滚动条的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-506">Fix and issue with nested scrollbars in the comments pane.</span></span>
+
+
+- <span data-ttu-id="75f95-507">创建新 Word 实例时评论草稿会消失。</span><span class="sxs-lookup"><span data-stu-id="75f95-507">Comment drafts disappears when creating a new Word instance.</span></span>
+
+
+- <span data-ttu-id="75f95-508">我们修复了将文档保存到带有隐藏文字的 PDF 时 Word 挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-508">We fixed an issue where Word hangs when saving document to PDF with hidden text.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2012-january-04"></a><span data-ttu-id="75f95-510">版本 2012：1 月 4 日</span><span class="sxs-lookup"><span data-stu-id="75f95-510">Version 2012: January 04</span></span>
+<span data-ttu-id="75f95-511">*版本 2012（内部版本 13530.20316）*</span><span class="sxs-lookup"><span data-stu-id="75f95-511">*Version 2012 (Build 13530.20316)*</span></span>
+* <span data-ttu-id="75f95-512">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-512">Various bugs and performance fixes.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-494">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-494">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-495">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-495">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-514">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-514">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-515">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-515">Excel</span></span>
 
-- <span data-ttu-id="c9536-496">**强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。</span><span class="sxs-lookup"><span data-stu-id="c9536-496">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+- <span data-ttu-id="75f95-516">**强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。</span><span class="sxs-lookup"><span data-stu-id="75f95-516">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-497">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-497">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-517">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-517">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-498">**强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。</span><span class="sxs-lookup"><span data-stu-id="c9536-498">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+- <span data-ttu-id="75f95-518">**强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。</span><span class="sxs-lookup"><span data-stu-id="75f95-518">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-499">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-499">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-519">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-519">Word</span></span>
 
-- <span data-ttu-id="c9536-500">**强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。</span><span class="sxs-lookup"><span data-stu-id="c9536-500">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+- <span data-ttu-id="75f95-520">**强制标记：** 对于有强制标签策略集的用户，他们的管理员需要标记他们的文档和电子邮件。</span><span class="sxs-lookup"><span data-stu-id="75f95-520">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
 
 
 [//]: # (请勿删除功能详细信息内容结尾)
 
-## <a name="version-2012-december-28"></a><span data-ttu-id="c9536-502">版本 2012：12 月 28 日</span><span class="sxs-lookup"><span data-stu-id="c9536-502">Version 2012: December 28</span></span>
-<span data-ttu-id="c9536-503">*版本 2012（内部版本 13530.20264）*</span><span class="sxs-lookup"><span data-stu-id="c9536-503">*Version 2012 (Build 13530.20264)*</span></span>
+## <a name="version-2012-december-28"></a><span data-ttu-id="75f95-522">版本 2012：12 月 28 日</span><span class="sxs-lookup"><span data-stu-id="75f95-522">Version 2012: December 28</span></span>
+<span data-ttu-id="75f95-523">*版本 2012（内部版本 13530.20264）*</span><span class="sxs-lookup"><span data-stu-id="75f95-523">*Version 2012 (Build 13530.20264)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-505">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-505">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-506">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-506">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-525">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-525">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-526">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-526">Outlook</span></span>
 
-- <span data-ttu-id="c9536-507">我们修复了导致一些用户在加载日历时遇到挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-507">We fixed an issue that caused some customers to encounter a hang while loading their calendars.</span></span>
+- <span data-ttu-id="75f95-527">我们修复了导致一些用户在加载日历时遇到挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-527">We fixed an issue that caused some customers to encounter a hang while loading their calendars.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2012-december-21"></a><span data-ttu-id="c9536-509">版本 2012：12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="c9536-509">Version 2012: December 21</span></span>
-<span data-ttu-id="c9536-510">*版本 2012（内部版本 13530.20218）*</span><span class="sxs-lookup"><span data-stu-id="c9536-510">*Version 2012 (Build 13530.20218)*</span></span>
+## <a name="version-2012-december-21"></a><span data-ttu-id="75f95-529">版本 2012：12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="75f95-529">Version 2012: December 21</span></span>
+<span data-ttu-id="75f95-530">*版本 2012（内部版本 13530.20218）*</span><span class="sxs-lookup"><span data-stu-id="75f95-530">*Version 2012 (Build 13530.20218)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-512">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-512">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-513">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-513">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-532">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-532">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-533">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-533">Excel</span></span>
 
-- <span data-ttu-id="c9536-514">**将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。</span><span class="sxs-lookup"><span data-stu-id="c9536-514">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="c9536-515">这是一项静默功能（无 UI ），可让管理员受益。</span><span class="sxs-lookup"><span data-stu-id="c9536-515">This is a silent functionality (no UI) for administrator benefit.</span></span>
+- <span data-ttu-id="75f95-534">**将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。</span><span class="sxs-lookup"><span data-stu-id="75f95-534">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="75f95-535">这是一项静默功能（无 UI ），可让管理员受益。</span><span class="sxs-lookup"><span data-stu-id="75f95-535">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-516">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-516">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-536">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-536">Outlook</span></span>
 
-- <span data-ttu-id="c9536-517">**在连续召开的会议之间提供时间：** 默认将会议设置为推迟 5-10 分钟开始，让与会者有时间喘口气或来往于不同地点。</span><span class="sxs-lookup"><span data-stu-id="c9536-517">**Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default.</span></span> [<span data-ttu-id="c9536-518">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-518">Learn more</span></span>](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+- <span data-ttu-id="75f95-537">**在连续召开的会议之间提供时间：** 默认将会议设置为推迟 5-10 分钟开始，让与会者有时间喘口气或来往于不同地点。</span><span class="sxs-lookup"><span data-stu-id="75f95-537">**Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default.</span></span> [<span data-ttu-id="75f95-538">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-538">Learn more</span></span>](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
-- <span data-ttu-id="c9536-519">**将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。</span><span class="sxs-lookup"><span data-stu-id="c9536-519">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="c9536-520">这是一项静默功能（无 UI ），可让管理员受益。</span><span class="sxs-lookup"><span data-stu-id="c9536-520">This is a silent functionality (no UI) for administrator benefit.</span></span>
+- <span data-ttu-id="75f95-539">**将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。</span><span class="sxs-lookup"><span data-stu-id="75f95-539">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="75f95-540">这是一项静默功能（无 UI ），可让管理员受益。</span><span class="sxs-lookup"><span data-stu-id="75f95-540">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-521">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-521">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-541">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-541">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-522">**将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。</span><span class="sxs-lookup"><span data-stu-id="c9536-522">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="c9536-523">这是一项静默功能（无 UI ），可让管理员受益。</span><span class="sxs-lookup"><span data-stu-id="c9536-523">This is a silent functionality (no UI) for administrator benefit.</span></span>
+- <span data-ttu-id="75f95-542">**将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。</span><span class="sxs-lookup"><span data-stu-id="75f95-542">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="75f95-543">这是一项静默功能（无 UI ），可让管理员受益。</span><span class="sxs-lookup"><span data-stu-id="75f95-543">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-524">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-524">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-544">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-544">Word</span></span>
 
-- <span data-ttu-id="c9536-525">**将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。</span><span class="sxs-lookup"><span data-stu-id="c9536-525">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="c9536-526">这是一项静默功能（无 UI ），可让管理员受益。</span><span class="sxs-lookup"><span data-stu-id="c9536-526">This is a silent functionality (no UI) for administrator benefit.</span></span>
+- <span data-ttu-id="75f95-545">**将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。</span><span class="sxs-lookup"><span data-stu-id="75f95-545">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="75f95-546">这是一项静默功能（无 UI ），可让管理员受益。</span><span class="sxs-lookup"><span data-stu-id="75f95-546">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -915,24 +953,24 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-529">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-529">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="c9536-530">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-530">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-549">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-549">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-550">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-550">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-531">修复了 QAT 中添加的字号命令在更新时自动完成以最接近定义字号的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-531">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
+- <span data-ttu-id="75f95-551">修复了 QAT 中添加的字号命令在更新时自动完成以最接近定义字号的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-551">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2012-december-14"></a><span data-ttu-id="c9536-533">版本 2012：12 月 14 日</span><span class="sxs-lookup"><span data-stu-id="c9536-533">Version 2012: December 14</span></span>
-<span data-ttu-id="c9536-534">*版本 2012（内部版本 13530.20144）*</span><span class="sxs-lookup"><span data-stu-id="c9536-534">*Version 2012 (Build 13530.20144)*</span></span>
+## <a name="version-2012-december-14"></a><span data-ttu-id="75f95-553">版本 2012：12 月 14 日</span><span class="sxs-lookup"><span data-stu-id="75f95-553">Version 2012: December 14</span></span>
+<span data-ttu-id="75f95-554">*版本 2012（内部版本 13530.20144）*</span><span class="sxs-lookup"><span data-stu-id="75f95-554">*Version 2012 (Build 13530.20144)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-536">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-536">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-537">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-537">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-556">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-556">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-557">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-557">Outlook</span></span>
 
-- <span data-ttu-id="c9536-538">**云端的 Outlook 设置：** 选择 Outlook for Windows 设置（如“自动答复”、“重点收件箱”和“隐私”），然后在任何电脑上进行访问。</span><span class="sxs-lookup"><span data-stu-id="c9536-538">**Your Outlook settings in the cloud:** Choose your Outlook for Windows settings like Automatic Replies, Focused Inbox, and Privacy, and get to them on any PC.</span></span>
+- <span data-ttu-id="75f95-558">**云端的 Outlook 设置：** 选择 Outlook for Windows 设置（如“自动答复”、“重点收件箱”和“隐私”），然后在任何电脑上进行访问。</span><span class="sxs-lookup"><span data-stu-id="75f95-558">**Your Outlook settings in the cloud:** Choose your Outlook for Windows settings like Automatic Replies, Focused Inbox, and Privacy, and get to them on any PC.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -941,45 +979,45 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-541">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-541">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="c9536-542">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-542">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-561">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-561">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-562">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-562">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-543">经过优化的二进制大小。</span><span class="sxs-lookup"><span data-stu-id="c9536-543">Optimized binary size.</span></span>
+- <span data-ttu-id="75f95-563">经过优化的二进制大小。</span><span class="sxs-lookup"><span data-stu-id="75f95-563">Optimized binary size.</span></span>
 
 
-- <span data-ttu-id="c9536-544">Anaheim WebView 尚不支持 Windows 信息保护(WIP)。</span><span class="sxs-lookup"><span data-stu-id="c9536-544">Anaheim WebView does not support Windows Information Protection (WIP) yet.</span></span> <span data-ttu-id="c9536-545">通过此修复，Office 插件平台可以在启用 WIP 的环境中回退到较低级别的 WebView。</span><span class="sxs-lookup"><span data-stu-id="c9536-545">With this fix Office addin platform falls back to down level WebView in WIP enabled environment.</span></span> <span data-ttu-id="c9536-546">根据客户的计算机环境，它可以是 Edge Spartan WebView 或 Trident WebView。</span><span class="sxs-lookup"><span data-stu-id="c9536-546">That can be either Edge Spartan WebView or Trident WebView depending on customer's machine environment.</span></span> <span data-ttu-id="c9536-547">两个低级别 WebView 均支持 WIP。</span><span class="sxs-lookup"><span data-stu-id="c9536-547">Both down level WebViews support WIP.</span></span>
+- <span data-ttu-id="75f95-564">Anaheim WebView 尚不支持 Windows 信息保护(WIP)。</span><span class="sxs-lookup"><span data-stu-id="75f95-564">Anaheim WebView does not support Windows Information Protection (WIP) yet.</span></span> <span data-ttu-id="75f95-565">通过此修复，Office 插件平台可以在启用 WIP 的环境中回退到较低级别的 WebView。</span><span class="sxs-lookup"><span data-stu-id="75f95-565">With this fix Office addin platform falls back to down level WebView in WIP enabled environment.</span></span> <span data-ttu-id="75f95-566">根据客户的计算机环境，它可以是 Edge Spartan WebView 或 Trident WebView。</span><span class="sxs-lookup"><span data-stu-id="75f95-566">That can be either Edge Spartan WebView or Trident WebView depending on customer's machine environment.</span></span> <span data-ttu-id="75f95-567">两个低级别 WebView 均支持 WIP。</span><span class="sxs-lookup"><span data-stu-id="75f95-567">Both down level WebViews support WIP.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2012-december-07"></a><span data-ttu-id="c9536-549">版本 2012：12 月 7 日</span><span class="sxs-lookup"><span data-stu-id="c9536-549">Version 2012: December 07</span></span>
-<span data-ttu-id="c9536-550">*版本 2012（内部版本 13530.20064）*</span><span class="sxs-lookup"><span data-stu-id="c9536-550">*Version 2012 (Build 13530.20064)*</span></span>
+## <a name="version-2012-december-07"></a><span data-ttu-id="75f95-569">版本 2012：12 月 7 日</span><span class="sxs-lookup"><span data-stu-id="75f95-569">Version 2012: December 07</span></span>
+<span data-ttu-id="75f95-570">*版本 2012（内部版本 13530.20064）*</span><span class="sxs-lookup"><span data-stu-id="75f95-570">*Version 2012 (Build 13530.20064)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-552">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-552">Feature updates</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-572">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-572">Feature updates</span></span>
 
-### <a name="teams"></a><span data-ttu-id="c9536-553">Teams</span><span class="sxs-lookup"><span data-stu-id="c9536-553">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="75f95-573">Teams</span><span class="sxs-lookup"><span data-stu-id="75f95-573">Teams</span></span>
 
-- <span data-ttu-id="c9536-554">**现在 Teams 支持 Windows 本机通知：** 用户现在可以通过 Teams 内置横幅或 Windows 本机横幅选择首选的通知传递方式。</span><span class="sxs-lookup"><span data-stu-id="c9536-554">**Windows Native Notification are now Supported on Teams:** Users can now select their preferred means of notification delivery, either through Teams built-in banners or the Windows native banners.</span></span>
-
-
-- <span data-ttu-id="c9536-555">**Citrix 和 VMWare VDI 中的 Teams 会议 2x2 库视图：** 当 Teams 客户端处于 VDI 优化模式时，通过 VDI 上的 Teams 2x2 库视图功能，可以在 Citrix 和 VMWare 的 VDI 客户端上的 2x2 库视图中查看最多四个与会者视频。</span><span class="sxs-lookup"><span data-stu-id="c9536-555">**Teams Meetings 2x2 Gallery View in Citrix and VMWare VDI:** Teams on VDI 2x2 Gallery View feature will enable to view up to four attendees videos in 2x2 Gallery View on VDI clients from Citrix, VMWare when Teams client in VDI optimized mode.</span></span>
+- <span data-ttu-id="75f95-574">**现在 Teams 支持 Windows 本机通知：** 用户现在可以通过 Teams 内置横幅或 Windows 本机横幅选择首选的通知传递方式。</span><span class="sxs-lookup"><span data-stu-id="75f95-574">**Windows Native Notification are now Supported on Teams:** Users can now select their preferred means of notification delivery, either through Teams built-in banners or the Windows native banners.</span></span>
 
 
-- <span data-ttu-id="c9536-556">**会议反应：** 会议反应是在会议中进行交互的新方式。</span><span class="sxs-lookup"><span data-stu-id="c9536-556">**Meeting Reactions:**  Meeting reactions are a new way to interact in meetings.</span></span> <span data-ttu-id="c9536-557">参与者可以发送反应，这些反应将以流的形式显示在共享内容以及发送响应的个人上（如果它们在会议阶段显示）。</span><span class="sxs-lookup"><span data-stu-id="c9536-557">Participants can send reactions which are shown as a stream on content that is being shared, and on the individual who sent the reaction if they're displayed on the meeting stage.</span></span> 
+- <span data-ttu-id="75f95-575">**Citrix 和 VMWare VDI 中的 Teams 会议 2x2 库视图：** 当 Teams 客户端处于 VDI 优化模式时，通过 VDI 上的 Teams 2x2 库视图功能，可以在 Citrix 和 VMWare 的 VDI 客户端上的 2x2 库视图中查看最多四个与会者视频。</span><span class="sxs-lookup"><span data-stu-id="75f95-575">**Teams Meetings 2x2 Gallery View in Citrix and VMWare VDI:** Teams on VDI 2x2 Gallery View feature will enable to view up to four attendees videos in 2x2 Gallery View on VDI clients from Citrix, VMWare when Teams client in VDI optimized mode.</span></span>
 
 
-- <span data-ttu-id="c9536-558">**Web 会议的同聚一堂模式和大型画廊模式** 大型画廊模式允许你一次观看多达 49 个其他用户的视频。</span><span class="sxs-lookup"><span data-stu-id="c9536-558">**Together Mode and Large Gallery for Web Meetings** Large Gallery enables you to see the videos of up to 49 other people at once.</span></span> <span data-ttu-id="c9536-559">如果至少有 10 个人打开了相机，则此选项可用。</span><span class="sxs-lookup"><span data-stu-id="c9536-559">This option is available when at least ten people have their cameras turned on.</span></span> <span data-ttu-id="c9536-560">同聚一堂模式可让你感觉自己与会议中的每个人处于同一个共享空间内。</span><span class="sxs-lookup"><span data-stu-id="c9536-560">Together mode lets you feel like you're in the same shared space with everyone in the meeting.</span></span> <span data-ttu-id="c9536-561">当会议中至少有 5 个人时，同聚一堂模式可用。</span><span class="sxs-lookup"><span data-stu-id="c9536-561">Together mode is available when there are at least five people in the meeting.</span></span> 
+- <span data-ttu-id="75f95-576">**会议反应：** 会议反应是在会议中进行交互的新方式。</span><span class="sxs-lookup"><span data-stu-id="75f95-576">**Meeting Reactions:**  Meeting reactions are a new way to interact in meetings.</span></span> <span data-ttu-id="75f95-577">参与者可以发送反应，这些反应将以流的形式显示在共享内容以及发送响应的个人上（如果它们在会议阶段显示）。</span><span class="sxs-lookup"><span data-stu-id="75f95-577">Participants can send reactions which are shown as a stream on content that is being shared, and on the individual who sent the reaction if they're displayed on the meeting stage.</span></span> 
 
 
-- <span data-ttu-id="c9536-562">**呼叫合并** 呼叫合并允许用户将他们发出的新呼叫或新的来电合并到其一对一或群组呼叫中。</span><span class="sxs-lookup"><span data-stu-id="c9536-562">**Call Merge** Call Merge allows users to merge a new call they place, or a new incoming call, into their 1-1 or group call.</span></span> <span data-ttu-id="c9536-563">这适用于 Teams VOIP 呼叫和 PSTN 呼叫。</span><span class="sxs-lookup"><span data-stu-id="c9536-563">This applies to Teams VOIP calls and PSTN calls.</span></span> 
+- <span data-ttu-id="75f95-578">**Web 会议的同聚一堂模式和大型画廊模式** 大型画廊模式允许你一次观看多达 49 个其他用户的视频。</span><span class="sxs-lookup"><span data-stu-id="75f95-578">**Together Mode and Large Gallery for Web Meetings** Large Gallery enables you to see the videos of up to 49 other people at once.</span></span> <span data-ttu-id="75f95-579">如果至少有 10 个人打开了相机，则此选项可用。</span><span class="sxs-lookup"><span data-stu-id="75f95-579">This option is available when at least ten people have their cameras turned on.</span></span> <span data-ttu-id="75f95-580">同聚一堂模式可让你感觉自己与会议中的每个人处于同一个共享空间内。</span><span class="sxs-lookup"><span data-stu-id="75f95-580">Together mode lets you feel like you're in the same shared space with everyone in the meeting.</span></span> <span data-ttu-id="75f95-581">当会议中至少有 5 个人时，同聚一堂模式可用。</span><span class="sxs-lookup"><span data-stu-id="75f95-581">Together mode is available when there are at least five people in the meeting.</span></span> 
 
 
-### <a name="visio"></a><span data-ttu-id="c9536-564">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-564">Visio</span></span>
+- <span data-ttu-id="75f95-582">**呼叫合并** 呼叫合并允许用户将他们发出的新呼叫或新的来电合并到其一对一或群组呼叫中。</span><span class="sxs-lookup"><span data-stu-id="75f95-582">**Call Merge** Call Merge allows users to merge a new call they place, or a new incoming call, into their 1-1 or group call.</span></span> <span data-ttu-id="75f95-583">这适用于 Teams VOIP 呼叫和 PSTN 呼叫。</span><span class="sxs-lookup"><span data-stu-id="75f95-583">This applies to Teams VOIP calls and PSTN calls.</span></span> 
 
-- <span data-ttu-id="c9536-565">**新 Azure 图案和形状：** 我们添加了很多图案，以帮助创建最新的 Azure 图表。</span><span class="sxs-lookup"><span data-stu-id="c9536-565">**New Azure stencils and shapes:** We've added many more stencils to help you create up-to-date Azure diagrams.</span></span> [<span data-ttu-id="c9536-566">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-566">Learn more</span></span>](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="visio"></a><span data-ttu-id="75f95-584">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-584">Visio</span></span>
+
+- <span data-ttu-id="75f95-585">**新 Azure 图案和形状：** 我们添加了很多图案，以帮助创建最新的 Azure 图表。</span><span class="sxs-lookup"><span data-stu-id="75f95-585">**New Azure stencils and shapes:** We've added many more stencils to help you create up-to-date Azure diagrams.</span></span> [<span data-ttu-id="75f95-586">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-586">Learn more</span></span>](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -988,142 +1026,142 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-569">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-569">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-570">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-570">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-589">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-589">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-590">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-590">Excel</span></span>
 
-- <span data-ttu-id="c9536-571">我们修复了某些功能区元素未本地化为简体中文版的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-571">We fixed an issue where some Ribbon elements were not localized in Simplified Chinese.</span></span>
+- <span data-ttu-id="75f95-591">我们修复了某些功能区元素未本地化为简体中文版的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-591">We fixed an issue where some Ribbon elements were not localized in Simplified Chinese.</span></span>
 
 
-- <span data-ttu-id="c9536-572">我们修复了更新时 Excel 意外终止的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-572">We fixed an issue where Excel terminated unexpectedly when updating.</span></span>
+- <span data-ttu-id="75f95-592">我们修复了更新时 Excel 意外终止的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-592">We fixed an issue where Excel terminated unexpectedly when updating.</span></span>
 
 
-- <span data-ttu-id="c9536-573">我们已修复了从 OneDrive 本地同步文件夹插入文件时，插入对象命令不显示正确图标的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-573">We fixed an issue where the Insert Object command does not show the correct icon when inserting a file from OneDrive local sync folder.</span></span>
+- <span data-ttu-id="75f95-593">我们已修复了从 OneDrive 本地同步文件夹插入文件时，插入对象命令不显示正确图标的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-593">We fixed an issue where the Insert Object command does not show the correct icon when inserting a file from OneDrive local sync folder.</span></span>
 
 
-- <span data-ttu-id="c9536-574">已修复覆盖模式编辑时，以使用 IME 的语言进行编辑效果不佳的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-574">Fixed an issue where editing in languages that require use of IME would behave poorly when editing in overwrite mode.</span></span>
+- <span data-ttu-id="75f95-594">已修复覆盖模式编辑时，以使用 IME 的语言进行编辑效果不佳的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-594">Fixed an issue where editing in languages that require use of IME would behave poorly when editing in overwrite mode.</span></span>
 
 
-- <span data-ttu-id="c9536-575">修复了以下问题：某些用户在共同创作时，会错误地看到消息栏通知其新版本的文件。</span><span class="sxs-lookup"><span data-stu-id="c9536-575">Fixed an issue where some users would incorrectly see a message bar informing them of a new version of a file when coauthoring.</span></span>
+- <span data-ttu-id="75f95-595">修复了以下问题：某些用户在共同创作时，会错误地看到消息栏通知其新版本的文件。</span><span class="sxs-lookup"><span data-stu-id="75f95-595">Fixed an issue where some users would incorrectly see a message bar informing them of a new version of a file when coauthoring.</span></span>
 
 
-- <span data-ttu-id="c9536-576">已修复公式视图中复制和粘贴数据时，Excel 意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-576">Fixed an issue where Excel would close unexpectedly when copying and pasting data in formula view.</span></span>
+- <span data-ttu-id="75f95-596">已修复公式视图中复制和粘贴数据时，Excel 意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-596">Fixed an issue where Excel would close unexpectedly when copying and pasting data in formula view.</span></span>
 
 
-- <span data-ttu-id="c9536-577">修复警报发生时与帮助文章断开的超链接，以防“自动保存”被禁用。</span><span class="sxs-lookup"><span data-stu-id="c9536-577">Fixed a broken hyperlink to a help article in an alert in case Autosave becomes disabled.</span></span>
+- <span data-ttu-id="75f95-597">修复警报发生时与帮助文章断开的超链接，以防“自动保存”被禁用。</span><span class="sxs-lookup"><span data-stu-id="75f95-597">Fixed a broken hyperlink to a help article in an alert in case Autosave becomes disabled.</span></span>
 
 
-- <span data-ttu-id="c9536-578">我们修复了在 Excel 以某些语言运行时，输入数据可能会导致 Excel 停止工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-578">We fixed an issue where when entering data while Excel is running in certain languages could cause Excel to stop working.</span></span>
+- <span data-ttu-id="75f95-598">我们修复了在 Excel 以某些语言运行时，输入数据可能会导致 Excel 停止工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-598">We fixed an issue where when entering data while Excel is running in certain languages could cause Excel to stop working.</span></span>
 
 
-- <span data-ttu-id="c9536-579">此更改解决了在公式中正确显示字体的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-579">This change addresses an issue with properly displaying fonts within equations.</span></span>
+- <span data-ttu-id="75f95-599">此更改解决了在公式中正确显示字体的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-599">This change addresses an issue with properly displaying fonts within equations.</span></span>
 
 
-- <span data-ttu-id="c9536-580">此操作修复 Power Pivot 无法正确导入制表符分割文本文件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-580">This fixes an issue where Power Pivot wasn't able to correctly import a tab-delimited text file.</span></span>
+- <span data-ttu-id="75f95-600">此操作修复 Power Pivot 无法正确导入制表符分割文本文件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-600">This fixes an issue where Power Pivot wasn't able to correctly import a tab-delimited text file.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="c9536-581">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-581">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-601">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-601">Outlook</span></span>
 
-- <span data-ttu-id="c9536-582">我们已修复导致任务状态报告中的“收件人:”字段为空白的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-582">We fixed an issue that caused the To: field to be blank in task status reports.</span></span>
+- <span data-ttu-id="75f95-602">我们已修复导致任务状态报告中的“收件人:”字段为空白的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-602">We fixed an issue that caused the To: field to be blank in task status reports.</span></span>
 
 
-- <span data-ttu-id="c9536-583">我们已修复导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-583">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
+- <span data-ttu-id="75f95-603">我们已修复导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-603">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
 
 
-- <span data-ttu-id="c9536-584">我们已修复从应用程序而非 Outlook 发送 Outlook 邮件时用户遇到某些问题的错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-584">We fixed an issue that was causing users to experience some issues when sending Outlook mail from applications other than Outlook.</span></span>
+- <span data-ttu-id="75f95-604">我们已修复从应用程序而非 Outlook 发送 Outlook 邮件时用户遇到某些问题的错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-604">We fixed an issue that was causing users to experience some issues when sending Outlook mail from applications other than Outlook.</span></span>
 
 
-- <span data-ttu-id="c9536-585">我们修复了保存到草稿时，SmartLink 格式丢失的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-585">We fixed an issue that caused SmartLinks to lose their formatting when saved to drafts.</span></span>
+- <span data-ttu-id="75f95-605">我们修复了保存到草稿时，SmartLink 格式丢失的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-605">We fixed an issue that caused SmartLinks to lose their formatting when saved to drafts.</span></span>
 
 
-- <span data-ttu-id="c9536-586">我们已修复将附件添加到从 zip 文件打开的邮件时会失败的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-586">We fixed and issue where adding an attachment to a message opened from a zip file would fail.</span></span>
+- <span data-ttu-id="75f95-606">我们已修复将附件添加到从 zip 文件打开的邮件时会失败的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-606">We fixed and issue where adding an attachment to a message opened from a zip file would fail.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-587">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-587">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-607">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-607">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-588">已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-588">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
+- <span data-ttu-id="75f95-608">已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-608">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
 
 
-- <span data-ttu-id="c9536-589">此更改解决了在墨迹分析期间遇到的超时相关问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-589">This change addresses an issue related to timeouts experienced during ink analysis.</span></span>
+- <span data-ttu-id="75f95-609">此更改解决了在墨迹分析期间遇到的超时相关问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-609">This change addresses an issue related to timeouts experienced during ink analysis.</span></span>
 
 
-- <span data-ttu-id="c9536-590">此更改解决了“创建动态 GIF”用户界面中的语法错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-590">This change addresses a grammatical error in the Create an Animated GIF user interface.</span></span>
+- <span data-ttu-id="75f95-610">此更改解决了“创建动态 GIF”用户界面中的语法错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-610">This change addresses a grammatical error in the Create an Animated GIF user interface.</span></span>
 
 
-- <span data-ttu-id="c9536-591">此更改解决了使用特定几何图形对合并形状操作应用时路径填充的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-591">This change addresses an issue with path fills when applying Merge Shapes operations with certain geometries.</span></span>
+- <span data-ttu-id="75f95-611">此更改解决了使用特定几何图形对合并形状操作应用时路径填充的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-611">This change addresses an issue with path fills when applying Merge Shapes operations with certain geometries.</span></span>
 
 
-- <span data-ttu-id="c9536-592">此更改解决了在公式中正确显示字体的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-592">This change addresses an issue with properly displaying fonts within equations.</span></span>
+- <span data-ttu-id="75f95-612">此更改解决了在公式中正确显示字体的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-612">This change addresses an issue with properly displaying fonts within equations.</span></span>
 
 
-- <span data-ttu-id="c9536-593">此更改解决了处理视频加载过程中可能出现的错误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-593">This change addresses an issue with handling errors that may occur during video loading.</span></span>
+- <span data-ttu-id="75f95-613">此更改解决了处理视频加载过程中可能出现的错误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-613">This change addresses an issue with handling errors that may occur during video loading.</span></span>
 
 
-- <span data-ttu-id="c9536-594">我们已修复 Slide.Shapes.AddMediaObject2 在使用传统视频格式（MPG-1、Mpeg-2）时崩溃的 VBA 问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-594">We fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
+- <span data-ttu-id="75f95-614">我们已修复 Slide.Shapes.AddMediaObject2 在使用传统视频格式（MPG-1、Mpeg-2）时崩溃的 VBA 问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-614">We fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
 
 
-- <span data-ttu-id="c9536-595">我们已修复以下问题：当有关 coauthor 的详细信息可用时，未知共同作者的状态指示器不会完全刷新。</span><span class="sxs-lookup"><span data-stu-id="c9536-595">We fixed an issue where an unknown coauthor's presence indicator does not get completely refreshed when more information about the coauthor is available.</span></span>
+- <span data-ttu-id="75f95-615">我们已修复以下问题：当有关 coauthor 的详细信息可用时，未知共同作者的状态指示器不会完全刷新。</span><span class="sxs-lookup"><span data-stu-id="75f95-615">We fixed an issue where an unknown coauthor's presence indicator does not get completely refreshed when more information about the coauthor is available.</span></span>
 
 
-- <span data-ttu-id="c9536-596">已固定开启标尺调整幻灯片视图大小时取消引用的 null 指针。</span><span class="sxs-lookup"><span data-stu-id="c9536-596">Fixed a null pointer being dereferenced when slide view is resized with ruler turned on.</span></span>
+- <span data-ttu-id="75f95-616">已固定开启标尺调整幻灯片视图大小时取消引用的 null 指针。</span><span class="sxs-lookup"><span data-stu-id="75f95-616">Fixed a null pointer being dereferenced when slide view is resized with ruler turned on.</span></span>
 
 
-- <span data-ttu-id="c9536-597">已修复一些损坏的 PowerPoint 文件无法正常打开的问题，即使在执行文档修复操作后也是如此。</span><span class="sxs-lookup"><span data-stu-id="c9536-597">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
+- <span data-ttu-id="75f95-617">已修复一些损坏的 PowerPoint 文件无法正常打开的问题，即使在执行文档修复操作后也是如此。</span><span class="sxs-lookup"><span data-stu-id="75f95-617">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-598">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-598">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-618">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-618">Project</span></span>
 
-- <span data-ttu-id="c9536-599">我们已修复用户在打开据推测已存储了更新信息的项目时，却无法找到所需更新的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-599">We fixed an issue where users open projects which have supposedly been saved with updated information, but find the updates are is missing.</span></span>
+- <span data-ttu-id="75f95-619">我们已修复用户在打开据推测已存储了更新信息的项目时，却无法找到所需更新的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-619">We fixed an issue where users open projects which have supposedly been saved with updated information, but find the updates are is missing.</span></span>
 
 
-- <span data-ttu-id="c9536-600">我们已修复如果交付项所关联的 SharePoint 站点不再存在，则无法删除这些交付结果的依赖关系的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-600">We fixed an issue where you couldn't delete dependencies on the deliverables if the SharePoint site the deliverable was associated with no longer existed.</span></span>
+- <span data-ttu-id="75f95-620">我们已修复如果交付项所关联的 SharePoint 站点不再存在，则无法删除这些交付结果的依赖关系的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-620">We fixed an issue where you couldn't delete dependencies on the deliverables if the SharePoint site the deliverable was associated with no longer existed.</span></span>
 
 
-- <span data-ttu-id="c9536-601">已修复打开资源较多的项目耗时较长的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-601">Fixed an issue where opening a project with a lot of resources was taking a long time.</span></span>
+- <span data-ttu-id="75f95-621">已修复打开资源较多的项目耗时较长的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-621">Fixed an issue where opening a project with a lot of resources was taking a long time.</span></span>
 
 
-- <span data-ttu-id="c9536-602">已修复用户可能会看到多个与任务关联的未分配工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-602">Fixed an issue where users may see multiple unassigned assignments associated with a task.</span></span>
+- <span data-ttu-id="75f95-622">已修复用户可能会看到多个与任务关联的未分配工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-622">Fixed an issue where users may see multiple unassigned assignments associated with a task.</span></span>
 
 
-- <span data-ttu-id="c9536-603">已修复大型项目中输入任务名称非常缓慢的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-603">Fixed an issue where in large projects it can be very slow to enter a task name.</span></span>
+- <span data-ttu-id="75f95-623">已修复大型项目中输入任务名称非常缓慢的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-623">Fixed an issue where in large projects it can be very slow to enter a task name.</span></span>
 
 
-- <span data-ttu-id="c9536-604">已修复项目文件加载到特定部分出现错误，导致可能打开特定项目的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-604">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
+- <span data-ttu-id="75f95-624">已修复项目文件加载到特定部分出现错误，导致可能打开特定项目的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-624">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-605">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-605">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-625">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-625">Word</span></span>
 
-- <span data-ttu-id="c9536-606">粘贴纯文本往往优先于粘贴多格式文本。</span><span class="sxs-lookup"><span data-stu-id="c9536-606">Paste as plain text is often preferred to pasting as rich text.</span></span> <span data-ttu-id="c9536-607">上下文菜单修复允许用户以纯文本粘贴。</span><span class="sxs-lookup"><span data-stu-id="c9536-607">This context menu fix allows the user to paste as plain text.</span></span> <span data-ttu-id="c9536-608">否则，用户必须复制到类似“记事本”的纯文本编辑器，然后从“记事本”复制到所需目标应用</span><span class="sxs-lookup"><span data-stu-id="c9536-608">Else the user would have to copy into a plain-text editor like Notepad and then copy from Notepad into the desired target app</span></span>
+- <span data-ttu-id="75f95-626">粘贴纯文本往往优先于粘贴多格式文本。</span><span class="sxs-lookup"><span data-stu-id="75f95-626">Paste as plain text is often preferred to pasting as rich text.</span></span> <span data-ttu-id="75f95-627">上下文菜单修复允许用户以纯文本粘贴。</span><span class="sxs-lookup"><span data-stu-id="75f95-627">This context menu fix allows the user to paste as plain text.</span></span> <span data-ttu-id="75f95-628">否则，用户必须复制到类似“记事本”的纯文本编辑器，然后从“记事本”复制到所需目标应用</span><span class="sxs-lookup"><span data-stu-id="75f95-628">Else the user would have to copy into a plain-text editor like Notepad and then copy from Notepad into the desired target app</span></span>
 
 
-- <span data-ttu-id="c9536-609">已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-609">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
+- <span data-ttu-id="75f95-629">已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-629">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
 
 
-- <span data-ttu-id="c9536-610">此更改解决了编辑文档时光标存在的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-610">This change addresses an issue with the cursor when editing a document.</span></span>
+- <span data-ttu-id="75f95-630">此更改解决了编辑文档时光标存在的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-630">This change addresses an issue with the cursor when editing a document.</span></span>
 
 
-- <span data-ttu-id="c9536-611">我们已修复图片在缩放时变得模糊的相关问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-611">We fixed an issue related to pictures becoming blurry while zooming.</span></span>
+- <span data-ttu-id="75f95-631">我们已修复图片在缩放时变得模糊的相关问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-631">We fixed an issue related to pictures becoming blurry while zooming.</span></span>
 
 
-- <span data-ttu-id="c9536-612">我们已修复截断长超链接的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-612">We fixed an issue where long hyperlinks were getting truncated.</span></span>
+- <span data-ttu-id="75f95-632">我们已修复截断长超链接的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-632">We fixed an issue where long hyperlinks were getting truncated.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-613">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-613">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-633">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-633">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-614">Office 套件已修复安装较新版本的 Office 覆盖旧版本时可能因为丢失注册表条目而导致功能受损（例如无法使用 Power Query）的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-614">Office Suite Fixed an issue where installing a newer version of Office over certain older versions can result in impaired functionality (such as being unable to use Power Query) due to missing registry entries.</span></span>
+- <span data-ttu-id="75f95-634">Office 套件已修复安装较新版本的 Office 覆盖旧版本时可能因为丢失注册表条目而导致功能受损（例如无法使用 Power Query）的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-634">Office Suite Fixed an issue where installing a newer version of Office over certain older versions can result in impaired functionality (such as being unable to use Power Query) due to missing registry entries.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2011-december-01"></a><span data-ttu-id="c9536-616">版本 2011：12 月 1 日</span><span class="sxs-lookup"><span data-stu-id="c9536-616">Version 2011: December 01</span></span>
-<span data-ttu-id="c9536-617">*版本 2011（内部版本 13426.20306）*</span><span class="sxs-lookup"><span data-stu-id="c9536-617">*Version 2011 (Build 13426.20306)*</span></span>
+## <a name="version-2011-december-01"></a><span data-ttu-id="75f95-636">版本 2011：12 月 1 日</span><span class="sxs-lookup"><span data-stu-id="75f95-636">Version 2011: December 01</span></span>
+<span data-ttu-id="75f95-637">*版本 2011（内部版本 13426.20306）*</span><span class="sxs-lookup"><span data-stu-id="75f95-637">*Version 2011 (Build 13426.20306)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-619">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-619">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-620">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-620">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-639">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-639">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-640">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-640">Outlook</span></span>
 
-- <span data-ttu-id="c9536-621">**每个在线会议：** 使用全新设置，将你的所有会议默认为在线会议，让安排在线会议变得更加简单。</span><span class="sxs-lookup"><span data-stu-id="c9536-621">**Every meeting online:** Make it easier to schedule online meetings with a new setting to make all your meetings online by default.</span></span>
+- <span data-ttu-id="75f95-641">**每个在线会议：** 使用全新设置，将你的所有会议默认为在线会议，让安排在线会议变得更加简单。</span><span class="sxs-lookup"><span data-stu-id="75f95-641">**Every meeting online:** Make it easier to schedule online meetings with a new setting to make all your meetings online by default.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1132,46 +1170,46 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-624">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-624">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-625">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-625">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-644">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-644">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-645">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-645">Outlook</span></span>
 
-- <span data-ttu-id="c9536-626">我们解决了导致某些会议的原定与会者在其他与会者转发会议时收到取消通知的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-626">We fixed an issue that caused the original attendees of some meetings to receive a cancellation when another attendee forwards the meeting.</span></span>
-
-
-- <span data-ttu-id="c9536-627">我们已修复虽以配置一个或多个签名，但仍导致有的用户在签名下拉菜单中看不到签名的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-627">We fixed an issue that caused some users to see no signatures in the signatures drop down despite having one or more signatures configured.</span></span>
+- <span data-ttu-id="75f95-646">我们解决了导致某些会议的原定与会者在其他与会者转发会议时收到取消通知的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-646">We fixed an issue that caused the original attendees of some meetings to receive a cancellation when another attendee forwards the meeting.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-628">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-628">Project</span></span>
+- <span data-ttu-id="75f95-647">我们已修复虽以配置一个或多个签名，但仍导致有的用户在签名下拉菜单中看不到签名的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-647">We fixed an issue that caused some users to see no signatures in the signatures drop down despite having one or more signatures configured.</span></span>
 
-- <span data-ttu-id="c9536-629">已修复项目文件加载到特定部分出现错误，导致可能打开特定项目的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-629">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
+
+### <a name="project"></a><span data-ttu-id="75f95-648">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-648">Project</span></span>
+
+- <span data-ttu-id="75f95-649">已修复项目文件加载到特定部分出现错误，导致可能打开特定项目的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-649">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2011-november-24"></a><span data-ttu-id="c9536-631">版本 2011：11 月 24 日</span><span class="sxs-lookup"><span data-stu-id="c9536-631">Version 2011: November 24</span></span>
-<span data-ttu-id="c9536-632">*版本 2011（内部版本 13426.20294）*</span><span class="sxs-lookup"><span data-stu-id="c9536-632">*Version 2011 (Build 13426.20294)*</span></span>
+## <a name="version-2011-november-24"></a><span data-ttu-id="75f95-651">版本 2011：11 月 24 日</span><span class="sxs-lookup"><span data-stu-id="75f95-651">Version 2011: November 24</span></span>
+<span data-ttu-id="75f95-652">*版本 2011（内部版本 13426.20294）*</span><span class="sxs-lookup"><span data-stu-id="75f95-652">*Version 2011 (Build 13426.20294)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-634">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-634">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="c9536-635">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-635">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-654">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-654">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-655">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-655">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-636">已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-636">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
+- <span data-ttu-id="75f95-656">已修复将公式从 Word 复制/粘贴到 Powerpoint 时产生的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-656">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2011-november-21"></a><span data-ttu-id="c9536-638">版本 2011：11 月 21 日</span><span class="sxs-lookup"><span data-stu-id="c9536-638">Version 2011: November 21</span></span>
-<span data-ttu-id="c9536-639">*版本 2011（内部版本 13426.20274）*</span><span class="sxs-lookup"><span data-stu-id="c9536-639">*Version 2011 (Build 13426.20274)*</span></span>
+## <a name="version-2011-november-21"></a><span data-ttu-id="75f95-658">版本 2011：11 月 21 日</span><span class="sxs-lookup"><span data-stu-id="75f95-658">Version 2011: November 21</span></span>
+<span data-ttu-id="75f95-659">*版本 2011（内部版本 13426.20274）*</span><span class="sxs-lookup"><span data-stu-id="75f95-659">*Version 2011 (Build 13426.20274)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-641">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-641">Feature updates</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="c9536-642">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-642">PowerPoint</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-661">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-661">Feature updates</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-662">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-662">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-643">**视频库：** 使用精选和免版税的库提升你的文档应用中提供的免费视频素材</span><span class="sxs-lookup"><span data-stu-id="c9536-643">**Video Library:** Elevate your documents with a library of curated, royalty-free video footage available in-app</span></span>
+- <span data-ttu-id="75f95-663">**视频库：** 使用精选和免版税的库提升你的文档应用中提供的免费视频素材</span><span class="sxs-lookup"><span data-stu-id="75f95-663">**Video Library:** Elevate your documents with a library of curated, royalty-free video footage available in-app</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1180,34 +1218,34 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-646">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-646">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-647">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-647">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-666">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-666">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-667">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-667">Outlook</span></span>
 
-- <span data-ttu-id="c9536-648">我们修复了导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-648">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
-
-
-- <span data-ttu-id="c9536-649">我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。</span><span class="sxs-lookup"><span data-stu-id="c9536-649">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span> <span data-ttu-id="c9536-650">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。</span><span class="sxs-lookup"><span data-stu-id="c9536-650">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span> <span data-ttu-id="c9536-651">REG_DWORD IncludeFileTimesInDataObject。</span><span class="sxs-lookup"><span data-stu-id="c9536-651">REG_DWORD IncludeFileTimesInDataObject.</span></span> <span data-ttu-id="c9536-652">0 = filetimes 被排除。</span><span class="sxs-lookup"><span data-stu-id="c9536-652">0 = filetimes are excluded.</span></span> <span data-ttu-id="c9536-653">1 =（默认）包含 filetimes</span><span class="sxs-lookup"><span data-stu-id="c9536-653">1 = (default) filetimes are included</span></span>
+- <span data-ttu-id="75f95-668">我们修复了导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-668">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
 
 
-- <span data-ttu-id="c9536-654">我们已修复回复来自 Azure 信息保护带有保护标签的邮件时，导致嵌入式图像消失的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-654">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
+- <span data-ttu-id="75f95-669">我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。</span><span class="sxs-lookup"><span data-stu-id="75f95-669">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span> <span data-ttu-id="75f95-670">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。</span><span class="sxs-lookup"><span data-stu-id="75f95-670">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span> <span data-ttu-id="75f95-671">REG_DWORD IncludeFileTimesInDataObject。</span><span class="sxs-lookup"><span data-stu-id="75f95-671">REG_DWORD IncludeFileTimesInDataObject.</span></span> <span data-ttu-id="75f95-672">0 = filetimes 被排除。</span><span class="sxs-lookup"><span data-stu-id="75f95-672">0 = filetimes are excluded.</span></span> <span data-ttu-id="75f95-673">1 =（默认）包含 filetimes</span><span class="sxs-lookup"><span data-stu-id="75f95-673">1 = (default) filetimes are included</span></span>
+
+
+- <span data-ttu-id="75f95-674">我们已修复回复来自 Azure 信息保护带有保护标签的邮件时，导致嵌入式图像消失的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-674">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2011-november-18"></a><span data-ttu-id="c9536-656">版本 2011：11 月 18 日</span><span class="sxs-lookup"><span data-stu-id="c9536-656">Version 2011: November 18</span></span>
-<span data-ttu-id="c9536-657">*版本 2011（内部版本 13426.20250）*</span><span class="sxs-lookup"><span data-stu-id="c9536-657">*Version 2011 (Build 13426.20250)*</span></span>
-* <span data-ttu-id="c9536-658">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-658">Various bugs and performance fixes.</span></span>
+## <a name="version-2011-november-18"></a><span data-ttu-id="75f95-676">版本 2011：11 月 18 日</span><span class="sxs-lookup"><span data-stu-id="75f95-676">Version 2011: November 18</span></span>
+<span data-ttu-id="75f95-677">*版本 2011（内部版本 13426.20250）*</span><span class="sxs-lookup"><span data-stu-id="75f95-677">*Version 2011 (Build 13426.20250)*</span></span>
+* <span data-ttu-id="75f95-678">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-678">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2011-november-16"></a><span data-ttu-id="c9536-659">版本 2011：11 月 16 日</span><span class="sxs-lookup"><span data-stu-id="c9536-659">Version 2011: November 16</span></span>
-<span data-ttu-id="c9536-660">*版本 2011（内部版本 13426.20234）*</span><span class="sxs-lookup"><span data-stu-id="c9536-660">*Version 2011 (Build 13426.20234)*</span></span>
+## <a name="version-2011-november-16"></a><span data-ttu-id="75f95-679">版本 2011：11 月 16 日</span><span class="sxs-lookup"><span data-stu-id="75f95-679">Version 2011: November 16</span></span>
+<span data-ttu-id="75f95-680">*版本 2011（内部版本 13426.20234）*</span><span class="sxs-lookup"><span data-stu-id="75f95-680">*Version 2011 (Build 13426.20234)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-662">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-662">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-663">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-663">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-682">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-682">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-683">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-683">Outlook</span></span>
 
-- <span data-ttu-id="c9536-664">**所有设备有同一签名：** 签名将存储在云中。</span><span class="sxs-lookup"><span data-stu-id="c9536-664">**Same signature, all devices:** Your signature is stored in the cloud.</span></span> <span data-ttu-id="c9536-665">创建一次，然后在所有使用 Outlook 的地方使用。</span><span class="sxs-lookup"><span data-stu-id="c9536-665">Create it once and use it everywhere you use Outlook.</span></span>
+- <span data-ttu-id="75f95-684">**所有设备有同一签名：** 签名将存储在云中。</span><span class="sxs-lookup"><span data-stu-id="75f95-684">**Same signature, all devices:** Your signature is stored in the cloud.</span></span> <span data-ttu-id="75f95-685">创建一次，然后在所有使用 Outlook 的地方使用。</span><span class="sxs-lookup"><span data-stu-id="75f95-685">Create it once and use it everywhere you use Outlook.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1216,29 +1254,29 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-668">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-668">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-669">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-669">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-688">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-688">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-689">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-689">Outlook</span></span>
 
-- <span data-ttu-id="c9536-670">我们已修复向任务发送状态报告时导致“收件人”字段为空白的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-670">We fixed an issue that caused the To field to be blank when sending a status report on a task.</span></span>
+- <span data-ttu-id="75f95-690">我们已修复向任务发送状态报告时导致“收件人”字段为空白的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-690">We fixed an issue that caused the To field to be blank when sending a status report on a task.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-671">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-671">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-691">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-691">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-672">我们已修复 Slide.Shapes.AddMediaObject2 在使用传统的视频格式（MPG-1、Mpeg-2）时崩溃的 VBA 问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-672">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
+- <span data-ttu-id="75f95-692">我们已修复 Slide.Shapes.AddMediaObject2 在使用传统的视频格式（MPG-1、Mpeg-2）时崩溃的 VBA 问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-692">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2011-november-09"></a><span data-ttu-id="c9536-674">版本 2011：11 月 9 日</span><span class="sxs-lookup"><span data-stu-id="c9536-674">Version 2011: November 09</span></span>
-<span data-ttu-id="c9536-675">*版本 2011（内部版本 13426.20184）*</span><span class="sxs-lookup"><span data-stu-id="c9536-675">*Version 2011 (Build 13426.20184)*</span></span>
+## <a name="version-2011-november-09"></a><span data-ttu-id="75f95-694">版本 2011：11 月 9 日</span><span class="sxs-lookup"><span data-stu-id="75f95-694">Version 2011: November 09</span></span>
+<span data-ttu-id="75f95-695">*版本 2011（内部版本 13426.20184）*</span><span class="sxs-lookup"><span data-stu-id="75f95-695">*Version 2011 (Build 13426.20184)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-677">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-677">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-678">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-678">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-697">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-697">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-698">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-698">Excel</span></span>
 
-- <span data-ttu-id="c9536-679">**根据查询创建 Power Platform 数据流：** 现在，你可以将查询导出到 Power Query 模板中，这些模板可用于创建新的 Power Platform 数据流</span><span class="sxs-lookup"><span data-stu-id="c9536-679">**Create Power Platform dataflows from queries:** You can now export your queries into Power Query templates that can be used to create new Power Platform dataflows</span></span>
+- <span data-ttu-id="75f95-699">**根据查询创建 Power Platform 数据流：** 现在，你可以将查询导出到 Power Query 模板中，这些模板可用于创建新的 Power Platform 数据流</span><span class="sxs-lookup"><span data-stu-id="75f95-699">**Create Power Platform dataflows from queries:** You can now export your queries into Power Query templates that can be used to create new Power Platform dataflows</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1247,144 +1285,144 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-682">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-682">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-683">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-683">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-702">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-702">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-703">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-703">Access</span></span>
 
-- <span data-ttu-id="c9536-684">修复了一些用户在尝试从同步的 OneDrive 文件夹导出查询时看到“系统资源超出”错误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-684">We fixed an issue where some users were seeing the "system resource exceeded" error when they tried to export a query from their synced OneDrive folder.</span></span>
+- <span data-ttu-id="75f95-704">修复了一些用户在尝试从同步的 OneDrive 文件夹导出查询时看到“系统资源超出”错误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-704">We fixed an issue where some users were seeing the "system resource exceeded" error when they tried to export a query from their synced OneDrive folder.</span></span>
 
 
-- <span data-ttu-id="c9536-685">修复了在窗体窗口之间的“自动”切换时切换到另一个窗体的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-685">We fixed an issue where 'auto'-switching between form windows was switching to another form.</span></span>
+- <span data-ttu-id="75f95-705">修复了在窗体窗口之间的“自动”切换时切换到另一个窗体的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-705">We fixed an issue where 'auto'-switching between form windows was switching to another form.</span></span>
 
 
-- <span data-ttu-id="c9536-686">修复了从非 Office 应用程序使用 DAO 时会导致应用程序意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-686">We fixed an issue when using DAO from non-Office applications would cause the application to close unexpectedly.</span></span>
+- <span data-ttu-id="75f95-706">修复了从非 Office 应用程序使用 DAO 时会导致应用程序意外关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-706">We fixed an issue when using DAO from non-Office applications would cause the application to close unexpectedly.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="c9536-687">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-687">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-707">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-707">Excel</span></span>
 
-- <span data-ttu-id="c9536-688">修复了启用 COM 加载项的 SaveAs 操作后，文件名未更改的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-688">We fixed an issue where Filename was not changing after a SaveAs operation with COM add-ins enabled.</span></span>
+- <span data-ttu-id="75f95-708">修复了启用 COM 加载项的 SaveAs 操作后，文件名未更改的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-708">We fixed an issue where Filename was not changing after a SaveAs operation with COM add-ins enabled.</span></span>
 
 
-- <span data-ttu-id="c9536-689">修复了使用与 Oracle 数据库的连接时，Power Pivot 出现的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-689">Fixed an issue with Power Pivot when using a connection to an Oracle database.</span></span>
+- <span data-ttu-id="75f95-709">修复了使用与 Oracle 数据库的连接时，Power Pivot 出现的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-709">Fixed an issue with Power Pivot when using a connection to an Oracle database.</span></span>
 
 
-- <span data-ttu-id="c9536-690">修复了以下问题：当 Excel 数据模型中存在错误的度量定义时，自动保存失败并显示错误/误导性错误消息。</span><span class="sxs-lookup"><span data-stu-id="c9536-690">We fixed an issue when Auto-Save fails with incorrect/misleading error message when there's a bad measure definition in the Excel data model.</span></span>
+- <span data-ttu-id="75f95-710">修复了以下问题：当 Excel 数据模型中存在错误的度量定义时，自动保存失败并显示错误/误导性错误消息。</span><span class="sxs-lookup"><span data-stu-id="75f95-710">We fixed an issue when Auto-Save fails with incorrect/misleading error message when there's a bad measure definition in the Excel data model.</span></span>
 
 
-- <span data-ttu-id="c9536-691">修复了以下问题：当触发 MTR 计算和组策略对象更新进程（例如，通过远程组策略刷新）时，Excel 意外终止。</span><span class="sxs-lookup"><span data-stu-id="c9536-691">We fixed an issue where Excel terminated unexpectedly when the process of MTR calc and Group Policy Object update (e.g. via Remote Group Policy Refresh) was triggered.</span></span>
+- <span data-ttu-id="75f95-711">修复了以下问题：当触发 MTR 计算和组策略对象更新进程（例如，通过远程组策略刷新）时，Excel 意外终止。</span><span class="sxs-lookup"><span data-stu-id="75f95-711">We fixed an issue where Excel terminated unexpectedly when the process of MTR calc and Group Policy Object update (e.g. via Remote Group Policy Refresh) was triggered.</span></span>
 
 
-- <span data-ttu-id="c9536-692">修复了用户无法直接从 SharePoint 打开 atomsvc (UTF8+BOM) 文件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-692">We fixed an issue where a user was unable to open atomsvc (UTF8+BOM) file from SharePoint, directly.</span></span>
+- <span data-ttu-id="75f95-712">修复了用户无法直接从 SharePoint 打开 atomsvc (UTF8+BOM) 文件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-712">We fixed an issue where a user was unable to open atomsvc (UTF8+BOM) file from SharePoint, directly.</span></span>
 
 
-- <span data-ttu-id="c9536-693">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-693">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+- <span data-ttu-id="75f95-713">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-713">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
 
 
-- <span data-ttu-id="c9536-694">修复了将 Excel 工作簿插入 Word 文档时，Word 似乎会挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-694">We fixed an issue where Word appears to hang when inserting an Excel workbook into a Word document.</span></span>
+- <span data-ttu-id="75f95-714">修复了将 Excel 工作簿插入 Word 文档时，Word 似乎会挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-714">We fixed an issue where Word appears to hang when inserting an Excel workbook into a Word document.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="c9536-695">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-695">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-715">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-715">Outlook</span></span>
 
-- <span data-ttu-id="c9536-696">修复了导致 Outlook 在添加或保存附件时偶尔停止工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-696">Addressed an issue which caused Outlook to stop working sporadically when adding or saving attachments.</span></span>
+- <span data-ttu-id="75f95-716">修复了导致 Outlook 在添加或保存附件时偶尔停止工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-716">Addressed an issue which caused Outlook to stop working sporadically when adding or saving attachments.</span></span>
 
 
-- <span data-ttu-id="c9536-697">修复了以下问题：图像附件快速打印导致错误“Windows 无法找到此图片。</span><span class="sxs-lookup"><span data-stu-id="c9536-697">We fixed an issue where quick print for image attachments resulted in error, "Windows can't find this picture.</span></span> <span data-ttu-id="c9536-698">请检查位置，然后重试。”</span><span class="sxs-lookup"><span data-stu-id="c9536-698">Check the location, and then try again".</span></span>
+- <span data-ttu-id="75f95-717">修复了以下问题：图像附件快速打印导致错误“Windows 无法找到此图片。</span><span class="sxs-lookup"><span data-stu-id="75f95-717">We fixed an issue where quick print for image attachments resulted in error, "Windows can't find this picture.</span></span> <span data-ttu-id="75f95-718">请检查位置，然后重试。”</span><span class="sxs-lookup"><span data-stu-id="75f95-718">Check the location, and then try again".</span></span>
 
 
-- <span data-ttu-id="c9536-699">修复了某些用户的 Outlook 会以脱机状态启动，需要他们手动选择联机工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-699">We fixed an issue that caused some users to see Outlook start in an Offline state until they manually chose to work online.</span></span>
+- <span data-ttu-id="75f95-719">修复了某些用户的 Outlook 会以脱机状态启动，需要他们手动选择联机工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-719">We fixed an issue that caused some users to see Outlook start in an Offline state until they manually chose to work online.</span></span>
 
 
-- <span data-ttu-id="c9536-700">修复了以下问题：当粘贴从会议位置复制的 URL 到其他地方（如浏览器）时，URL 的末尾包含分号。</span><span class="sxs-lookup"><span data-stu-id="c9536-700">We fixed an issue when pasting a URL copied from meeting location to somewhere else (such as a browser), the URL contains a semicolon at the end.</span></span>
+- <span data-ttu-id="75f95-720">修复了以下问题：当粘贴从会议位置复制的 URL 到其他地方（如浏览器）时，URL 的末尾包含分号。</span><span class="sxs-lookup"><span data-stu-id="75f95-720">We fixed an issue when pasting a URL copied from meeting location to somewhere else (such as a browser), the URL contains a semicolon at the end.</span></span>
 
 
-- <span data-ttu-id="c9536-701">修复了以下问题：用户无法在基本身份验证中删除 Microsoft 365 组的日历中的约会。</span><span class="sxs-lookup"><span data-stu-id="c9536-701">We fixed an issue where users were unable to delete appointments in Calendar of Microsoft 365 Groups in Basic Auth.</span></span>
+- <span data-ttu-id="75f95-721">修复了以下问题：用户无法在基本身份验证中删除 Microsoft 365 组的日历中的约会。</span><span class="sxs-lookup"><span data-stu-id="75f95-721">We fixed an issue where users were unable to delete appointments in Calendar of Microsoft 365 Groups in Basic Auth.</span></span>
 
 
-- <span data-ttu-id="c9536-702">修复了加载昵称缓存时启动 Outlook 失败的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-702">We fixed an issue where starting Outlook failed while loading nickname cache.</span></span>
+- <span data-ttu-id="75f95-722">修复了加载昵称缓存时启动 Outlook 失败的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-722">We fixed an issue where starting Outlook failed while loading nickname cache.</span></span>
 
 
-- <span data-ttu-id="c9536-703">修复了以下问题：邮箱所有者无法管理自己日历的共享权限，因为该选项呈灰显。</span><span class="sxs-lookup"><span data-stu-id="c9536-703">We fixed an issue where a mailbox owner wasn't able to manage Shared permission for their own Calendar as the option was greyed out.</span></span>
+- <span data-ttu-id="75f95-723">修复了以下问题：邮箱所有者无法管理自己日历的共享权限，因为该选项呈灰显。</span><span class="sxs-lookup"><span data-stu-id="75f95-723">We fixed an issue where a mailbox owner wasn't able to manage Shared permission for their own Calendar as the option was greyed out.</span></span>
 
 
-- <span data-ttu-id="c9536-704">修复了 Outlook 无法使用受限权限创建邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-704">We fixed an issue where Outlook was not able to create a message with restricted permission.</span></span>
+- <span data-ttu-id="75f95-724">修复了 Outlook 无法使用受限权限创建邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-724">We fixed an issue where Outlook was not able to create a message with restricted permission.</span></span>
 
 
-- <span data-ttu-id="c9536-705">修复了将电子邮件模板另存为 .OFT 会将中文字符更改为问号的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-705">We fixed an issue where saving email templates as .OFT changed Chinese characters to question marks.</span></span>
+- <span data-ttu-id="75f95-725">修复了将电子邮件模板另存为 .OFT 会将中文字符更改为问号的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-725">We fixed an issue where saving email templates as .OFT changed Chinese characters to question marks.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-706">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-706">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-726">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-726">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-707">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-707">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+- <span data-ttu-id="75f95-727">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-727">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
 
 
-- <span data-ttu-id="c9536-708">修复了图片旁边的内容占位符图标没有工具提示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-708">We fixed an issue where in content placeholder icon next to Pictures didn't have a tooltip.</span></span>
+- <span data-ttu-id="75f95-728">修复了图片旁边的内容占位符图标没有工具提示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-728">We fixed an issue where in content placeholder icon next to Pictures didn't have a tooltip.</span></span>
 
 
-- <span data-ttu-id="c9536-709">修复了由 pptsx 文件显示的幻灯片保护视图允许对受 IRM 保护的文件进行屏幕截图的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-709">We have fixed an issue where Protected view of slide show, shown by pptsx file, allows screen capture of IRM protected document.</span></span>
+- <span data-ttu-id="75f95-729">修复了由 pptsx 文件显示的幻灯片保护视图允许对受 IRM 保护的文件进行屏幕截图的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-729">We have fixed an issue where Protected view of slide show, shown by pptsx file, allows screen capture of IRM protected document.</span></span>
 
 
-- <span data-ttu-id="c9536-710">修复了关闭设计窗格时，网格线在幻灯片上发生偏移的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-710">We fixed an issue where grid lines were getting shifted from slides when closing design pane.</span></span>
+- <span data-ttu-id="75f95-730">修复了关闭设计窗格时，网格线在幻灯片上发生偏移的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-730">We fixed an issue where grid lines were getting shifted from slides when closing design pane.</span></span>
 
 
-- <span data-ttu-id="c9536-711">修复了以下问题：当复制幻灯片到辅助监视器，幻灯片可能隐藏在其他窗口后面。</span><span class="sxs-lookup"><span data-stu-id="c9536-711">We fixed an issue when duplicating slideshow to secondary monitor, the slideshow may hide behind other window.</span></span>
+- <span data-ttu-id="75f95-731">修复了以下问题：当复制幻灯片到辅助监视器，幻灯片可能隐藏在其他窗口后面。</span><span class="sxs-lookup"><span data-stu-id="75f95-731">We fixed an issue when duplicating slideshow to secondary monitor, the slideshow may hide behind other window.</span></span>
 
 
-- <span data-ttu-id="c9536-712">修复了以下问题：幻灯片中的滚动条在停止屏幕录制并打开选择窗格后开始自行调整。</span><span class="sxs-lookup"><span data-stu-id="c9536-712">We fixed an issue where the scroll bar in the slide starts adjusting itself after stopping screen recording with selection pane opened.</span></span>
+- <span data-ttu-id="75f95-732">修复了以下问题：幻灯片中的滚动条在停止屏幕录制并打开选择窗格后开始自行调整。</span><span class="sxs-lookup"><span data-stu-id="75f95-732">We fixed an issue where the scroll bar in the slide starts adjusting itself after stopping screen recording with selection pane opened.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-713">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-713">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-733">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-733">Project</span></span>
 
-- <span data-ttu-id="c9536-714">修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChagne 事件中的 NewVal 没有正确的值。</span><span class="sxs-lookup"><span data-stu-id="c9536-714">Fixed an issue where the NewVal in the ProjectBeforeTaskChagne event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
+- <span data-ttu-id="75f95-734">修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChagne 事件中的 NewVal 没有正确的值。</span><span class="sxs-lookup"><span data-stu-id="75f95-734">Fixed an issue where the NewVal in the ProjectBeforeTaskChagne event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
 
 
-- <span data-ttu-id="c9536-715">修复了当以某种方式指定资源分布时，项目可能在打开文件时意外终止的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-715">Fixed an issue where Project may terminate unexpectedly on opening files where resource contours were specified in a certain manner.</span></span>
+- <span data-ttu-id="75f95-735">修复了当以某种方式指定资源分布时，项目可能在打开文件时意外终止的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-735">Fixed an issue where Project may terminate unexpectedly on opening files where resource contours were specified in a certain manner.</span></span>
 
 
-- <span data-ttu-id="c9536-716">修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。</span><span class="sxs-lookup"><span data-stu-id="c9536-716">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
+- <span data-ttu-id="75f95-736">修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。</span><span class="sxs-lookup"><span data-stu-id="75f95-736">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
 
 
-- <span data-ttu-id="c9536-717">修复了以下问题：资源预订按名称而不是按 GUID 搜索资源，如果存在多个具有相同名称的资源，则会导致问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-717">Fixed an issue where resource engagements searched for a resource by name instead of GUID which would cause issues if there were multiple resources with the same name.</span></span>
+- <span data-ttu-id="75f95-737">修复了以下问题：资源预订按名称而不是按 GUID 搜索资源，如果存在多个具有相同名称的资源，则会导致问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-737">Fixed an issue where resource engagements searched for a resource by name instead of GUID which would cause issues if there were multiple resources with the same name.</span></span>
 
 
-- <span data-ttu-id="c9536-718">修复了以下问题：如果你在项目网站中有任务列表并对任务列表进行了分组，将无法快速编辑任务列表。</span><span class="sxs-lookup"><span data-stu-id="c9536-718">Fixed an issue where if you have a task list in a project site and group the task list, you will not be able to quick edit the task list.</span></span>
+- <span data-ttu-id="75f95-738">修复了以下问题：如果你在项目网站中有任务列表并对任务列表进行了分组，将无法快速编辑任务列表。</span><span class="sxs-lookup"><span data-stu-id="75f95-738">Fixed an issue where if you have a task list in a project site and group the task list, you will not be able to quick edit the task list.</span></span>
 
 
-- <span data-ttu-id="c9536-719">修复了以下问题：如果通过 CSOM 更新企业资源，可能会丢失资源最大单位。</span><span class="sxs-lookup"><span data-stu-id="c9536-719">Fixed an issue where if you update an enterprise resource via CSOM, resource max units may be lost.</span></span>
+- <span data-ttu-id="75f95-739">修复了以下问题：如果通过 CSOM 更新企业资源，可能会丢失资源最大单位。</span><span class="sxs-lookup"><span data-stu-id="75f95-739">Fixed an issue where if you update an enterprise resource via CSOM, resource max units may be lost.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-720">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-720">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-740">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-740">Word</span></span>
 
-- <span data-ttu-id="c9536-721">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-721">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+- <span data-ttu-id="75f95-741">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-741">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
 
 
-- <span data-ttu-id="c9536-722">修复了单击批注提示不会缩小以在视图中显示批注卡片的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-722">We fixed an issue where clicking comment hint didn't zoom out to show comment card in view.</span></span>
+- <span data-ttu-id="75f95-742">修复了单击批注提示不会缩小以在视图中显示批注卡片的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-742">We fixed an issue where clicking comment hint didn't zoom out to show comment card in view.</span></span>
 
 
-- <span data-ttu-id="c9536-723">修复了列之间的线条可能已发生偏移的布局问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-723">We fixed a layout issue which the line between columns might have shifted.</span></span>
+- <span data-ttu-id="75f95-743">修复了列之间的线条可能已发生偏移的布局问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-743">We fixed a layout issue which the line between columns might have shifted.</span></span>
 
 
-- <span data-ttu-id="c9536-724">修复了有时打开 Word 文档可能会显示错误对话框的修订问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-724">We fixed an issue in Track Changes which sometimes opening Word document might display error dialog.</span></span>
+- <span data-ttu-id="75f95-744">修复了有时打开 Word 文档可能会显示错误对话框的修订问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-744">We fixed an issue in Track Changes which sometimes opening Word document might display error dialog.</span></span>
 
 
-- <span data-ttu-id="c9536-725">修复了将 Excel 工作簿插入 Word 文档时，Word 似乎会挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-725">We fixed an issue where Word appears to hang when inserting an Excel workbook into a Word document.</span></span>
+- <span data-ttu-id="75f95-745">修复了将 Excel 工作簿插入 Word 文档时，Word 似乎会挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-745">We fixed an issue where Word appears to hang when inserting an Excel workbook into a Word document.</span></span>
 
 
-- <span data-ttu-id="c9536-726">修复了应用敏感度标签与水印的打印问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-726">We fixed a print issue when sensitivity label with watermarks are applied.</span></span>
+- <span data-ttu-id="75f95-746">修复了应用敏感度标签与水印的打印问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-746">We fixed a print issue when sensitivity label with watermarks are applied.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-727">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-727">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-747">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-747">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-728">我们修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。</span><span class="sxs-lookup"><span data-stu-id="c9536-728">We fixed an issue in the Office Deployment Tool where configuration was failing when using the RemoveMSI feature with the Office 2007 "Microsoft Application Error Reporting" product present.</span></span>
+- <span data-ttu-id="75f95-748">我们修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。</span><span class="sxs-lookup"><span data-stu-id="75f95-748">We fixed an issue in the Office Deployment Tool where configuration was failing when using the RemoveMSI feature with the Office 2007 "Microsoft Application Error Reporting" product present.</span></span>
 
 
-- <span data-ttu-id="c9536-729">修复了 SSO API 交互式登录返回错误代码的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-729">We fixed an issue where SSO API interactive Sign-In was returning an error code.</span></span>
+- <span data-ttu-id="75f95-749">修复了 SSO API 交互式登录返回错误代码的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-749">We fixed an issue where SSO API interactive Sign-In was returning an error code.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2010-november-06"></a><span data-ttu-id="c9536-731">版本 2010：11 月 6 日</span><span class="sxs-lookup"><span data-stu-id="c9536-731">Version 2010: November 06</span></span>
-<span data-ttu-id="c9536-732">*版本 2010 (内部版本 13328.20356)*</span><span class="sxs-lookup"><span data-stu-id="c9536-732">*Version 2010 (Build 13328.20356)*</span></span>
-* <span data-ttu-id="c9536-733">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-733">Various bugs and performance fixes.</span></span>
+## <a name="version-2010-november-06"></a><span data-ttu-id="75f95-751">版本 2010：11 月 6 日</span><span class="sxs-lookup"><span data-stu-id="75f95-751">Version 2010: November 06</span></span>
+<span data-ttu-id="75f95-752">*版本 2010 (内部版本 13328.20356)*</span><span class="sxs-lookup"><span data-stu-id="75f95-752">*Version 2010 (Build 13328.20356)*</span></span>
+* <span data-ttu-id="75f95-753">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-753">Various bugs and performance fixes.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -1393,31 +1431,31 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
-## <a name="version-2010-november-04"></a><span data-ttu-id="c9536-736">版本 2010：11 月 4 日</span><span class="sxs-lookup"><span data-stu-id="c9536-736">Version 2010: November 04</span></span>
-<span data-ttu-id="c9536-737">*版本 2010（内部版本 13328.20340）*</span><span class="sxs-lookup"><span data-stu-id="c9536-737">*Version 2010 (Build 13328.20340)*</span></span>
+## <a name="version-2010-november-04"></a><span data-ttu-id="75f95-756">版本 2010：11 月 4 日</span><span class="sxs-lookup"><span data-stu-id="75f95-756">Version 2010: November 04</span></span>
+<span data-ttu-id="75f95-757">*版本 2010（内部版本 13328.20340）*</span><span class="sxs-lookup"><span data-stu-id="75f95-757">*Version 2010 (Build 13328.20340)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-739">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-739">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-740">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-740">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-759">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-759">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-760">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-760">Excel</span></span>
 
-- <span data-ttu-id="c9536-741">**SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。</span><span class="sxs-lookup"><span data-stu-id="c9536-741">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="c9536-742">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-742">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- <span data-ttu-id="75f95-761">**SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。</span><span class="sxs-lookup"><span data-stu-id="75f95-761">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="75f95-762">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-762">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-### <a name="outlook"></a><span data-ttu-id="c9536-743">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-743">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-763">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-763">Outlook</span></span>
 
-- <span data-ttu-id="c9536-744">**SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。</span><span class="sxs-lookup"><span data-stu-id="c9536-744">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="c9536-745">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-745">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- <span data-ttu-id="75f95-764">**SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。</span><span class="sxs-lookup"><span data-stu-id="75f95-764">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="75f95-765">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-765">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-746">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-746">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-766">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-766">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-747">**SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。</span><span class="sxs-lookup"><span data-stu-id="c9536-747">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="c9536-748">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-748">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br /><span data-ttu-id="c9536-749">在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-749">See details in [blog post](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)</span></span>
+- <span data-ttu-id="75f95-767">**SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。</span><span class="sxs-lookup"><span data-stu-id="75f95-767">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="75f95-768">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-768">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br /><span data-ttu-id="75f95-769">在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-769">See details in [blog post](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)</span></span>
 
-- <span data-ttu-id="c9536-750">**创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。</span><span class="sxs-lookup"><span data-stu-id="c9536-750">**Create GIFs with Transparent Backgrounds:** When exporting to an Animated GIF, a new option will allow you to make the background transparent.</span></span><br /><span data-ttu-id="c9536-751">在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-751">See details in [blog post](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)</span></span>
+- <span data-ttu-id="75f95-770">**创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。</span><span class="sxs-lookup"><span data-stu-id="75f95-770">**Create GIFs with Transparent Backgrounds:** When exporting to an Animated GIF, a new option will allow you to make the background transparent.</span></span><br /><span data-ttu-id="75f95-771">在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-771">See details in [blog post](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)</span></span>
 
-- <span data-ttu-id="c9536-752">**导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片</span><span class="sxs-lookup"><span data-stu-id="c9536-752">**Export animated GIF in a range:** Select a range of slides when exporting to animated GIF</span></span>
+- <span data-ttu-id="75f95-772">**导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片</span><span class="sxs-lookup"><span data-stu-id="75f95-772">**Export animated GIF in a range:** Select a range of slides when exporting to animated GIF</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-753">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-753">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-773">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-773">Word</span></span>
 
-- <span data-ttu-id="c9536-754">**SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。</span><span class="sxs-lookup"><span data-stu-id="c9536-754">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="c9536-755">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-755">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- <span data-ttu-id="75f95-774">**SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。</span><span class="sxs-lookup"><span data-stu-id="75f95-774">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="75f95-775">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-775">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1426,22 +1464,22 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-758">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-758">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-759">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-759">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-778">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-778">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-779">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-779">Outlook</span></span>
 
-- <span data-ttu-id="c9536-760">解决了导致用户无法向其代理授予编辑器权限的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-760">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
+- <span data-ttu-id="75f95-780">解决了导致用户无法向其代理授予编辑器权限的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-780">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-761">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-761">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-781">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-781">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-762">解决了尝试保存文件导致故障的问题，该文件从同步备份转换为仅支持服务器。</span><span class="sxs-lookup"><span data-stu-id="c9536-762">We fixed an issue that was causing a failure when trying to save files that have transitioned from syncbacked to server-only.</span></span>
+- <span data-ttu-id="75f95-782">解决了尝试保存文件导致故障的问题，该文件从同步备份转换为仅支持服务器。</span><span class="sxs-lookup"><span data-stu-id="75f95-782">We fixed an issue that was causing a failure when trying to save files that have transitioned from syncbacked to server-only.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2010-october-27"></a><span data-ttu-id="c9536-764">版本 2010：10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="c9536-764">Version 2010: October 27</span></span>
-<span data-ttu-id="c9536-765">*版本 2010（内部版本 13328.20292）*</span><span class="sxs-lookup"><span data-stu-id="c9536-765">*Version 2010 (Build 13328.20292)*</span></span>
+## <a name="version-2010-october-27"></a><span data-ttu-id="75f95-784">版本 2010：10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="75f95-784">Version 2010: October 27</span></span>
+<span data-ttu-id="75f95-785">*版本 2010（内部版本 13328.20292）*</span><span class="sxs-lookup"><span data-stu-id="75f95-785">*Version 2010 (Build 13328.20292)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -1452,20 +1490,20 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-769">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-769">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-770">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-770">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-789">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-789">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-790">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-790">Outlook</span></span>
 
-- <span data-ttu-id="c9536-771">我们修复了导致默认情况下不会为用户打开云设置的 n 问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-771">We fixed a n issue that caused Cloud Settings not to be turned on for users by default.</span></span>
+- <span data-ttu-id="75f95-791">我们修复了导致默认情况下不会为用户打开云设置的 n 问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-791">We fixed a n issue that caused Cloud Settings not to be turned on for users by default.</span></span>
 
 
-- <span data-ttu-id="c9536-772">我们修复了导致无法保存用户签名更改的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-772">We fixed an issue that caused changes to a user's signature to fail to save.</span></span>
+- <span data-ttu-id="75f95-792">我们修复了导致无法保存用户签名更改的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-792">We fixed an issue that caused changes to a user's signature to fail to save.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2010-october-24"></a><span data-ttu-id="c9536-774">版本 2010：10 月 24 日</span><span class="sxs-lookup"><span data-stu-id="c9536-774">Version 2010: October 24</span></span>
-<span data-ttu-id="c9536-775">*版本 2010（内部版本 13328.20278）*</span><span class="sxs-lookup"><span data-stu-id="c9536-775">*Version 2010 (Build 13328.20278)*</span></span>
+## <a name="version-2010-october-24"></a><span data-ttu-id="75f95-794">版本 2010：10 月 24 日</span><span class="sxs-lookup"><span data-stu-id="75f95-794">Version 2010: October 24</span></span>
+<span data-ttu-id="75f95-795">*版本 2010（内部版本 13328.20278）*</span><span class="sxs-lookup"><span data-stu-id="75f95-795">*Version 2010 (Build 13328.20278)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -1477,49 +1515,49 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-779">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-779">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-780">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-780">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-799">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-799">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-800">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-800">Outlook</span></span>
 
-- <span data-ttu-id="c9536-781">解决了导致在答复或转发时中文电子邮件的标题不可阅读的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-781">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
-
-
-- <span data-ttu-id="c9536-782">我们修复了另存为 OFT 文件时汉字变成问号的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-782">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
+- <span data-ttu-id="75f95-801">解决了导致在答复或转发时中文电子邮件的标题不可阅读的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-801">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-783">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-783">Project</span></span>
-
-- <span data-ttu-id="c9536-784">修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。</span><span class="sxs-lookup"><span data-stu-id="c9536-784">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
+- <span data-ttu-id="75f95-802">我们修复了另存为 OFT 文件时汉字变成问号的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-802">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
 
 
-- <span data-ttu-id="c9536-785">修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChange 事件中的 NewVal 没有正确的值。</span><span class="sxs-lookup"><span data-stu-id="c9536-785">Fixed an issue where the NewVal in the ProjectBeforeTaskChange event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-803">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-803">Project</span></span>
+
+- <span data-ttu-id="75f95-804">修复了以下问题：将项目从 PWA 保存到本地 mpp 文件时，用户实际上未更改的数据将触发 ProjectBeforeTaskChangeEvent。</span><span class="sxs-lookup"><span data-stu-id="75f95-804">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
+
+
+- <span data-ttu-id="75f95-805">修复了以下问题：如果在“任务窗体”类型视图中更改了滞后，ProjectBeforeTaskChange 事件中的 NewVal 没有正确的值。</span><span class="sxs-lookup"><span data-stu-id="75f95-805">Fixed an issue where the NewVal in the ProjectBeforeTaskChange event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2010-october-19"></a><span data-ttu-id="c9536-787">版本 2010: 10 月 19 日</span><span class="sxs-lookup"><span data-stu-id="c9536-787">Version 2010: October 19</span></span>
-<span data-ttu-id="c9536-788">*版本 2010 (内部版本 13328.20210)*</span><span class="sxs-lookup"><span data-stu-id="c9536-788">*Version 2010 (Build 13328.20210)*</span></span>
+## <a name="version-2010-october-19"></a><span data-ttu-id="75f95-807">版本 2010: 10 月 19 日</span><span class="sxs-lookup"><span data-stu-id="75f95-807">Version 2010: October 19</span></span>
+<span data-ttu-id="75f95-808">*版本 2010 (内部版本 13328.20210)*</span><span class="sxs-lookup"><span data-stu-id="75f95-808">*Version 2010 (Build 13328.20210)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-790">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-790">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-791">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-791">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-810">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-810">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-811">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-811">Outlook</span></span>
 
-- <span data-ttu-id="c9536-792">**撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。</span><span class="sxs-lookup"><span data-stu-id="c9536-792">**Save time while composing messages:** Outlook shows you writing suggestions that help you compose messages quickly.</span></span> <span data-ttu-id="c9536-793">若要接受建议，只需使用 Tab 键。</span><span class="sxs-lookup"><span data-stu-id="c9536-793">To accept the suggestion, just use the Tab key.</span></span><br /><span data-ttu-id="c9536-794">在[博客文章](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-794">See details in [blog post](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)</span></span>
+- <span data-ttu-id="75f95-812">**撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。</span><span class="sxs-lookup"><span data-stu-id="75f95-812">**Save time while composing messages:** Outlook shows you writing suggestions that help you compose messages quickly.</span></span> <span data-ttu-id="75f95-813">若要接受建议，只需使用 Tab 键。</span><span class="sxs-lookup"><span data-stu-id="75f95-813">To accept the suggestion, just use the Tab key.</span></span><br /><span data-ttu-id="75f95-814">在[博客文章](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-814">See details in [blog post](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)</span></span>
 
-- <span data-ttu-id="c9536-795">**使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！</span><span class="sxs-lookup"><span data-stu-id="c9536-795">**Break the language barrier with a built-in translator:** Add-ins for translation aren't required anymore!</span></span> <span data-ttu-id="c9536-796">在邮件中，右键单击以翻译特定字词、短语或整个邮件。</span><span class="sxs-lookup"><span data-stu-id="c9536-796">In a message, right-click to translate specific words, phrases, or the whole message.</span></span> [<span data-ttu-id="c9536-797">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-797">Learn more</span></span>](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+- <span data-ttu-id="75f95-815">**使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！</span><span class="sxs-lookup"><span data-stu-id="75f95-815">**Break the language barrier with a built-in translator:** Add-ins for translation aren't required anymore!</span></span> <span data-ttu-id="75f95-816">在邮件中，右键单击以翻译特定字词、短语或整个邮件。</span><span class="sxs-lookup"><span data-stu-id="75f95-816">In a message, right-click to translate specific words, phrases, or the whole message.</span></span> [<span data-ttu-id="75f95-817">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-817">Learn more</span></span>](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
-- <span data-ttu-id="c9536-798">**任务的用户体验更新：** 任务项的可视刷新</span><span class="sxs-lookup"><span data-stu-id="c9536-798">**User Experience Updates for Tasks:** A visual refresh of task items</span></span>
+- <span data-ttu-id="75f95-818">**任务的用户体验更新：** 任务项的可视刷新</span><span class="sxs-lookup"><span data-stu-id="75f95-818">**User Experience Updates for Tasks:** A visual refresh of task items</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-799">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-799">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-819">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-819">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-800">**使用演示者指导练习演示：** 获取有关可以帮助吸引听众保持专注的要点（例如节奏、滥用的单词、肢体语言等等）的指导。</span><span class="sxs-lookup"><span data-stu-id="c9536-800">**Practice your presentation with Presenter Coach:** Get coaching on the things that help keep an audience engaged — like pacing, overused words, body language, and more.</span></span> [<span data-ttu-id="c9536-801">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-801">Learn more</span></span>](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- <span data-ttu-id="75f95-820">**使用演示者指导练习演示：** 获取有关可以帮助吸引听众保持专注的要点（例如节奏、滥用的单词、肢体语言等等）的指导。</span><span class="sxs-lookup"><span data-stu-id="75f95-820">**Practice your presentation with Presenter Coach:** Get coaching on the things that help keep an audience engaged — like pacing, overused words, body language, and more.</span></span> [<span data-ttu-id="75f95-821">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-821">Learn more</span></span>](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
-### <a name="word"></a><span data-ttu-id="c9536-802">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-802">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-822">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-822">Word</span></span>
 
-- <span data-ttu-id="c9536-803">**Microsoft 编辑器窗格获取 Word 桌面版中的更新：** 我们已升级当前体验，在 Word 桌面版 客户端中使用“编辑器”窗格。</span><span class="sxs-lookup"><span data-stu-id="c9536-803">**Microsoft Editor pane gets an update in Word for desktop:** We have upgraded the current experience with the Editor pane in Word for desktop clients.</span></span>
+- <span data-ttu-id="75f95-823">**Microsoft 编辑器窗格获取 Word 桌面版中的更新：** 我们已升级当前体验，在 Word 桌面版 客户端中使用“编辑器”窗格。</span><span class="sxs-lookup"><span data-stu-id="75f95-823">**Microsoft Editor pane gets an update in Word for desktop:** We have upgraded the current experience with the Editor pane in Word for desktop clients.</span></span>
 
-- <span data-ttu-id="c9536-804">**一键式写作建议：** 只需单击一次，即可应用写作建议。</span><span class="sxs-lookup"><span data-stu-id="c9536-804">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="c9536-805">更新的“编辑器”窗格使你可以轻松地在建议间导航。</span><span class="sxs-lookup"><span data-stu-id="c9536-805">The updated Editor pane makes it easy to navigate between suggestions.</span></span>
+- <span data-ttu-id="75f95-824">**一键式写作建议：** 只需单击一次，即可应用写作建议。</span><span class="sxs-lookup"><span data-stu-id="75f95-824">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="75f95-825">更新的“编辑器”窗格使你可以轻松地在建议间导航。</span><span class="sxs-lookup"><span data-stu-id="75f95-825">The updated Editor pane makes it easy to navigate between suggestions.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1528,32 +1566,32 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-808">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-808">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="c9536-809">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-809">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-828">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-828">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-829">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-829">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-810">这是针对以下问题的修补程序：关闭文档且存在侦听 PresentationBeforeClose 事件和检查作为事件处理程序一部分的 Presentation.Saved 属性的加载时，“保存”提示会显示在循环之中。</span><span class="sxs-lookup"><span data-stu-id="c9536-810">This is a fix for an issue where the save prompt shows in a loop when closing the document when there is an add-in that listens to PresentationBeforeClose event and checks Presentation.Saved property as a part of the event handler.</span></span>
+- <span data-ttu-id="75f95-830">这是针对以下问题的修补程序：关闭文档且存在侦听 PresentationBeforeClose 事件和检查作为事件处理程序一部分的 Presentation.Saved 属性的加载时，“保存”提示会显示在循环之中。</span><span class="sxs-lookup"><span data-stu-id="75f95-830">This is a fix for an issue where the save prompt shows in a loop when closing the document when there is an add-in that listens to PresentationBeforeClose event and checks Presentation.Saved property as a part of the event handler.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2010-october-11"></a><span data-ttu-id="c9536-812">版本 2010：10 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c9536-812">Version 2010: October 11</span></span>
-<span data-ttu-id="c9536-813">*版本 2010（内部版本 13328.20154）*</span><span class="sxs-lookup"><span data-stu-id="c9536-813">*Version 2010 (Build 13328.20154)*</span></span>
+## <a name="version-2010-october-11"></a><span data-ttu-id="75f95-832">版本 2010：10 月 11 日</span><span class="sxs-lookup"><span data-stu-id="75f95-832">Version 2010: October 11</span></span>
+<span data-ttu-id="75f95-833">*版本 2010（内部版本 13328.20154）*</span><span class="sxs-lookup"><span data-stu-id="75f95-833">*Version 2010 (Build 13328.20154)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-815">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-815">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-816">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-816">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-835">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-835">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-836">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-836">Excel</span></span>
 
-- <span data-ttu-id="c9536-817">**帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。</span><span class="sxs-lookup"><span data-stu-id="c9536-817">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="c9536-818">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-818">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- <span data-ttu-id="75f95-837">**帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。</span><span class="sxs-lookup"><span data-stu-id="75f95-837">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="75f95-838">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-838">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-819">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-819">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-839">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-839">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-820">**帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。</span><span class="sxs-lookup"><span data-stu-id="c9536-820">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="c9536-821">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-821">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- <span data-ttu-id="75f95-840">**帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。</span><span class="sxs-lookup"><span data-stu-id="75f95-840">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="75f95-841">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-841">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
-### <a name="word"></a><span data-ttu-id="c9536-822">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-822">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-842">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-842">Word</span></span>
 
-- <span data-ttu-id="c9536-823">**帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。</span><span class="sxs-lookup"><span data-stu-id="c9536-823">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="c9536-824">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-824">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- <span data-ttu-id="75f95-843">**帮助保护你的数据免受恶意文件的侵害：** 应用程序防护通过允许你在独立的容器中读取、打印和保存 Office 文件来帮助保护你免受恶意软件的侵害。</span><span class="sxs-lookup"><span data-stu-id="75f95-843">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="75f95-844">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-844">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1562,156 +1600,156 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-827">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-827">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-828">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-828">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-847">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-847">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-848">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-848">Access</span></span>
 
-- <span data-ttu-id="c9536-829">修复了加载查询/关系窗口时，未正确设置滚动条位置的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-829">We fixed an issue where scrollbar position was not set correctly when loading query/relationship window saved while scrolled.</span></span>
+- <span data-ttu-id="75f95-849">修复了加载查询/关系窗口时，未正确设置滚动条位置的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-849">We fixed an issue where scrollbar position was not set correctly when loading query/relationship window saved while scrolled.</span></span>
 
 
-- <span data-ttu-id="c9536-830">修复了“添加表格”任务窗格未正确显示包含“&”的名称的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-830">We fixed an issue where Add Table Task Pane was not displaying names containing '&' correctly.</span></span>
+- <span data-ttu-id="75f95-850">修复了“添加表格”任务窗格未正确显示包含“&”的名称的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-850">We fixed an issue where Add Table Task Pane was not displaying names containing '&' correctly.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="c9536-831">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-831">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-851">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-851">Excel</span></span>
 
-- <span data-ttu-id="c9536-832">修复了多级分类手动间隔未在图表中运行的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-832">We fixed an issue where multi-level category manual interval was not working in charts.</span></span>
+- <span data-ttu-id="75f95-852">修复了多级分类手动间隔未在图表中运行的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-852">We fixed an issue where multi-level category manual interval was not working in charts.</span></span>
 
 
-- <span data-ttu-id="c9536-833">修复了二维地图图表在使用 VBA 设置系列的最大值、中间值和最小值的颜色时，无法正常工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-833">Fixed an issue with 2D Map Charts where using VBA to set the colors for the max, mid, and min values for a series was not working.</span></span>
+- <span data-ttu-id="75f95-853">修复了二维地图图表在使用 VBA 设置系列的最大值、中间值和最小值的颜色时，无法正常工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-853">Fixed an issue with 2D Map Charts where using VBA to set the colors for the max, mid, and min values for a series was not working.</span></span>
 
 
-- <span data-ttu-id="c9536-834">修复了可能导致“Excel 在尝试计算一个或多个公式时用尽资源”错误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-834">Fixed an issue which could cause an error that "Excel ran out of resources while attempting to calculate one or more formulas".</span></span>
+- <span data-ttu-id="75f95-854">修复了可能导致“Excel 在尝试计算一个或多个公式时用尽资源”错误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-854">Fixed an issue which could cause an error that "Excel ran out of resources while attempting to calculate one or more formulas".</span></span>
 
 
-- <span data-ttu-id="c9536-835">修复了将 Office 语言设置为西班牙语时出现的问题，在有问题的情况下，数据验证列表可能不会显示列表中的所有项目。</span><span class="sxs-lookup"><span data-stu-id="c9536-835">Fixed an issue when the Office language was set to Spanish, in which data validation lists may not show all the items in the list.</span></span>
+- <span data-ttu-id="75f95-855">修复了将 Office 语言设置为西班牙语时出现的问题，在有问题的情况下，数据验证列表可能不会显示列表中的所有项目。</span><span class="sxs-lookup"><span data-stu-id="75f95-855">Fixed an issue when the Office language was set to Spanish, in which data validation lists may not show all the items in the list.</span></span>
 
 
-- <span data-ttu-id="c9536-836">修复了以下问题：在启用了“分页预览”的情况下，在具有大量数据的工作表之间切换时，可能会出现明显的延迟。</span><span class="sxs-lookup"><span data-stu-id="c9536-836">Fixed an issue where there could be a noticeable delay when switching between worksheets with large amounts of data when 'Page Break Preview' was enabled.</span></span>
+- <span data-ttu-id="75f95-856">修复了以下问题：在启用了“分页预览”的情况下，在具有大量数据的工作表之间切换时，可能会出现明显的延迟。</span><span class="sxs-lookup"><span data-stu-id="75f95-856">Fixed an issue where there could be a noticeable delay when switching between worksheets with large amounts of data when 'Page Break Preview' was enabled.</span></span>
 
 
-- <span data-ttu-id="c9536-837">修复了向用于数据验证的表格添加内容时，未更新工作簿中所有工作表的选项的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-837">We fixed an issue where adding to a table used for Data Validation did not update options for all sheets in the workbook.</span></span>
+- <span data-ttu-id="75f95-857">修复了向用于数据验证的表格添加内容时，未更新工作簿中所有工作表的选项的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-857">We fixed an issue where adding to a table used for Data Validation did not update options for all sheets in the workbook.</span></span>
 
 
-- <span data-ttu-id="c9536-838">修复了在刷新 OLAP 数据透视表时可能会导致挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-838">We fixed an issue which could cause a hang when refreshing OLAP PivotTables.</span></span>
+- <span data-ttu-id="75f95-858">修复了在刷新 OLAP 数据透视表时可能会导致挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-858">We fixed an issue which could cause a hang when refreshing OLAP PivotTables.</span></span>
 
 
-- <span data-ttu-id="c9536-839">修复了通过公式栏输入公式时，ChartSheet 崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-839">Fixed an issue where ChartSheet crashed in some cases when a formula is entered through formula bar.</span></span>
+- <span data-ttu-id="75f95-859">修复了通过公式栏输入公式时，ChartSheet 崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-859">Fixed an issue where ChartSheet crashed in some cases when a formula is entered through formula bar.</span></span>
 
 
-- <span data-ttu-id="c9536-840">修复了当设备连接丢失（例如远程会话连接/断开或显示器更改）后，Excel 编辑栏不会完全呈现的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-840">We fixed an issue where the Excel formula bar would not render completely after connection to a device was lost, such as a remote session connect/disconnect or a monitor change.</span></span>
+- <span data-ttu-id="75f95-860">修复了当设备连接丢失（例如远程会话连接/断开或显示器更改）后，Excel 编辑栏不会完全呈现的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-860">We fixed an issue where the Excel formula bar would not render completely after connection to a device was lost, such as a remote session connect/disconnect or a monitor change.</span></span>
 
 
-### <a name="onenote"></a><span data-ttu-id="c9536-841">OneNote</span><span class="sxs-lookup"><span data-stu-id="c9536-841">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="75f95-861">OneNote</span><span class="sxs-lookup"><span data-stu-id="75f95-861">OneNote</span></span>
 
-- <span data-ttu-id="c9536-842">修复了用户无法从 OutSpace 文件 > 信息中的文本框选择和复制笔记本 URL 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-842">We fixed an issue where a user was unable to select and copy notebook URL from textbox in OutSpace File > Info.</span></span>
+- <span data-ttu-id="75f95-862">修复了用户无法从 OutSpace 文件 > 信息中的文本框选择和复制笔记本 URL 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-862">We fixed an issue where a user was unable to select and copy notebook URL from textbox in OutSpace File > Info.</span></span>
 
 
-- <span data-ttu-id="c9536-843">修复了将鼠标悬停在笔记本颜色选择器中的绿色颜色上时，弹出窗口显示“红色粉笔”的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-843">We fixed an issue when you hover over green color in notebook color selector, the pop up reads "red chalk".</span></span>
+- <span data-ttu-id="75f95-863">修复了将鼠标悬停在笔记本颜色选择器中的绿色颜色上时，弹出窗口显示“红色粉笔”的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-863">We fixed an issue when you hover over green color in notebook color selector, the pop up reads "red chalk".</span></span>
 
 
-- <span data-ttu-id="c9536-844">修复了 OneNote 不对自定义主题提供画布中的高对比度颜色的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-844">We fixed an issue where OneNote didn't honor High Contrast colors in the canvas for custom themes.</span></span>
+- <span data-ttu-id="75f95-864">修复了 OneNote 不对自定义主题提供画布中的高对比度颜色的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-864">We fixed an issue where OneNote didn't honor High Contrast colors in the canvas for custom themes.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="c9536-845">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-845">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-865">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-865">Outlook</span></span>
 
-- <span data-ttu-id="c9536-846">解决了以下问题：当主题为空白时，自动生成的电子邮件将发送空白正文。</span><span class="sxs-lookup"><span data-stu-id="c9536-846">Addresses an issue that caused automatically generated emails to be sent with a blank body when the subject is blank.</span></span>
+- <span data-ttu-id="75f95-866">解决了以下问题：当主题为空白时，自动生成的电子邮件将发送空白正文。</span><span class="sxs-lookup"><span data-stu-id="75f95-866">Addresses an issue that caused automatically generated emails to be sent with a blank body when the subject is blank.</span></span>
 
 
-- <span data-ttu-id="c9536-847">修复了为文件夹缓存错误的文件夹 GUID 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-847">We fixed an issue where the wrong folder guid is cached for folders.</span></span>
+- <span data-ttu-id="75f95-867">修复了为文件夹缓存错误的文件夹 GUID 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-867">We fixed an issue where the wrong folder guid is cached for folders.</span></span>
 
 
-- <span data-ttu-id="c9536-848">当用户将电子邮件地址和显示名称复制并粘贴到收件人字段时，该电子邮件地址始终不会被正确分析，并导致出现有关电子邮件地址无效的警告。</span><span class="sxs-lookup"><span data-stu-id="c9536-848">When a user copy-and-pastes an email address into the recipient field with the display name, the email address wasn't always parsed correctly and caused a warning about an invalid email address to appear.</span></span>  <span data-ttu-id="c9536-849">已对其进行修复，以便正确分析名称和电子邮件地址，所以不会再显示该警告。</span><span class="sxs-lookup"><span data-stu-id="c9536-849">It's been fixed so the name and email address are parsed correctly so the warning is no longer shown.</span></span>
+- <span data-ttu-id="75f95-868">当用户将电子邮件地址和显示名称复制并粘贴到收件人字段时，该电子邮件地址始终不会被正确分析，并导致出现有关电子邮件地址无效的警告。</span><span class="sxs-lookup"><span data-stu-id="75f95-868">When a user copy-and-pastes an email address into the recipient field with the display name, the email address wasn't always parsed correctly and caused a warning about an invalid email address to appear.</span></span>  <span data-ttu-id="75f95-869">已对其进行修复，以便正确分析名称和电子邮件地址，所以不会再显示该警告。</span><span class="sxs-lookup"><span data-stu-id="75f95-869">It's been fixed so the name and email address are parsed correctly so the warning is no longer shown.</span></span>
 
 
-- <span data-ttu-id="c9536-850">修复了联机共享文件夹未返回父文件夹名称的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-850">We fixed an issue where online shared folders did not return parent folder name.</span></span> <span data-ttu-id="c9536-851">并非返回失败，而是返回一个空路径，该路径错误地转到主帐户。</span><span class="sxs-lookup"><span data-stu-id="c9536-851">Intsead of failing, it returned an empty path which incorrectly went to the primary account.</span></span>
+- <span data-ttu-id="75f95-870">修复了联机共享文件夹未返回父文件夹名称的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-870">We fixed an issue where online shared folders did not return parent folder name.</span></span> <span data-ttu-id="75f95-871">并非返回失败，而是返回一个空路径，该路径错误地转到主帐户。</span><span class="sxs-lookup"><span data-stu-id="75f95-871">Intsead of failing, it returned an empty path which incorrectly went to the primary account.</span></span>
 
 
-- <span data-ttu-id="c9536-852">修复了“另存为”选项不可用于经典附件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-852">We fixed an issue where the Save As option was not available for classic attachments.</span></span>
+- <span data-ttu-id="75f95-872">修复了“另存为”选项不可用于经典附件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-872">We fixed an issue where the Save As option was not available for classic attachments.</span></span>
 
 
-- <span data-ttu-id="c9536-853">修复了替代策略时为用户提供自定义对齐文本方法的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-853">We fixed an issue to provide a user a way to customize justification text when overriding a policy.</span></span>
+- <span data-ttu-id="75f95-873">修复了替代策略时为用户提供自定义对齐文本方法的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-873">We fixed an issue to provide a user a way to customize justification text when overriding a policy.</span></span>
 
 
-- <span data-ttu-id="c9536-854">修复了从只读预览窗格中重新打开草稿后启用修订的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-854">We fixed an issue where track changes turned on after reopening draft from read-only preview pane.</span></span>
+- <span data-ttu-id="75f95-874">修复了从只读预览窗格中重新打开草稿后启用修订的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-874">We fixed an issue where track changes turned on after reopening draft from read-only preview pane.</span></span>
 
 
-- <span data-ttu-id="c9536-855">修复了在关闭重点收件箱并执行排序后隐藏电子邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-855">We fixed an issue with emails being hidden after turning Focused Inbox off and doing a sort.</span></span>
+- <span data-ttu-id="75f95-875">修复了在关闭重点收件箱并执行排序后隐藏电子邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-875">We fixed an issue with emails being hidden after turning Focused Inbox off and doing a sort.</span></span>
 
 
-- <span data-ttu-id="c9536-856">修复了导致 Outlook 为已启用云设置的用户创建第二个空签名的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-856">We fixed an issue that caused Outlook to create a second empty signature for people who had cloud settings enabled.</span></span>
+- <span data-ttu-id="75f95-876">修复了导致 Outlook 为已启用云设置的用户创建第二个空签名的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-876">We fixed an issue that caused Outlook to create a second empty signature for people who had cloud settings enabled.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-857">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-857">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-877">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-877">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-858">修复了导出到 PDF 时 PowerPoint 未导出矩形项目符号的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-858">We fixed an issue where PowerPoint was not exporting rectangle bullet points while exporting to PDF.</span></span>
+- <span data-ttu-id="75f95-878">修复了导出到 PDF 时 PowerPoint 未导出矩形项目符号的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-878">We fixed an issue where PowerPoint was not exporting rectangle bullet points while exporting to PDF.</span></span>
 
 
-- <span data-ttu-id="c9536-859">修复了 GIF 的动画效果在编辑器和幻灯片放映中仅显示一次的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-859">We fixed an issue where GIF's would animate only once in the editor and slide shows.</span></span>
+- <span data-ttu-id="75f95-879">修复了 GIF 的动画效果在编辑器和幻灯片放映中仅显示一次的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-879">We fixed an issue where GIF's would animate only once in the editor and slide shows.</span></span>
 
 
-- <span data-ttu-id="c9536-860">修复了以下问题：当用户将源路径更改为本地 OneDrive 文件夹时，链接的 excel 图表错误地更改为 excel 工作表。</span><span class="sxs-lookup"><span data-stu-id="c9536-860">We fixed an issue where linked excel chart incorrectly changes to excel sheet when user changes the source path to local OneDrive folder.</span></span>
+- <span data-ttu-id="75f95-880">修复了以下问题：当用户将源路径更改为本地 OneDrive 文件夹时，链接的 excel 图表错误地更改为 excel 工作表。</span><span class="sxs-lookup"><span data-stu-id="75f95-880">We fixed an issue where linked excel chart incorrectly changes to excel sheet when user changes the source path to local OneDrive folder.</span></span>
 
 
-- <span data-ttu-id="c9536-861">修复了以下问题：如果位于最后一张幻灯片，并在按“结束会话”后、摘要显示前轻扫到下一张幻灯片，则“结束会话”对话框也会显示在“摘要”页面上。</span><span class="sxs-lookup"><span data-stu-id="c9536-861">We fixed an issue that If you are on the last slide and if you swipe to the next slide after pressing 'End Session' and before the summary shows up, the End-Session dialog is visible on the summary page as well.</span></span>
+- <span data-ttu-id="75f95-881">修复了以下问题：如果位于最后一张幻灯片，并在按“结束会话”后、摘要显示前轻扫到下一张幻灯片，则“结束会话”对话框也会显示在“摘要”页面上。</span><span class="sxs-lookup"><span data-stu-id="75f95-881">We fixed an issue that If you are on the last slide and if you swipe to the next slide after pressing 'End Session' and before the summary shows up, the End-Session dialog is visible on the summary page as well.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-862">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-862">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-882">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-882">Project</span></span>
 
-- <span data-ttu-id="c9536-863">修复了以下问题：如果尝试多次添加相同项目且 AttachToSources 设置为 False，ConsolidateProjects VBA 方法可能失败。</span><span class="sxs-lookup"><span data-stu-id="c9536-863">Fixed an issue where the ConsolidateProjects VBA method may file if you try to add the same project multiple times and have AttachToSources set to false.</span></span>
+- <span data-ttu-id="75f95-883">修复了以下问题：如果尝试多次添加相同项目且 AttachToSources 设置为 False，ConsolidateProjects VBA 方法可能失败。</span><span class="sxs-lookup"><span data-stu-id="75f95-883">Fixed an issue where the ConsolidateProjects VBA method may file if you try to add the same project multiple times and have AttachToSources set to false.</span></span>
 
 
-- <span data-ttu-id="c9536-864">修复了以下问题：如果你正在运行事件代码并尝试通过 “任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。</span><span class="sxs-lookup"><span data-stu-id="c9536-864">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
+- <span data-ttu-id="75f95-884">修复了以下问题：如果你正在运行事件代码并尝试通过 “任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。</span><span class="sxs-lookup"><span data-stu-id="75f95-884">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
 
 
-- <span data-ttu-id="c9536-865">修复了以下问题：如果尝试多次添加相同项目且 AttachToSources 设置为 False，ConsolidateProjects VBA 方法可能失败。</span><span class="sxs-lookup"><span data-stu-id="c9536-865">Fixed an issue where the ConsolidateProjects VBA method may file if you try to add the same project multiple times and have AttachToSources set to false.</span></span>
+- <span data-ttu-id="75f95-885">修复了以下问题：如果尝试多次添加相同项目且 AttachToSources 设置为 False，ConsolidateProjects VBA 方法可能失败。</span><span class="sxs-lookup"><span data-stu-id="75f95-885">Fixed an issue where the ConsolidateProjects VBA method may file if you try to add the same project multiple times and have AttachToSources set to false.</span></span>
 
 
-- <span data-ttu-id="c9536-866">修复了以下问题：如果你有带公式的自定义字段且使用挣值，你可能会注意到切换视图和打开项目/任务详细信息时的性能延迟。</span><span class="sxs-lookup"><span data-stu-id="c9536-866">Fixed an issue where if you have custom fields with formulas and are using earned value, you may notice performance delays switching views and opening project/task details.</span></span>
+- <span data-ttu-id="75f95-886">修复了以下问题：如果你有带公式的自定义字段且使用挣值，你可能会注意到切换视图和打开项目/任务详细信息时的性能延迟。</span><span class="sxs-lookup"><span data-stu-id="75f95-886">Fixed an issue where if you have custom fields with formulas and are using earned value, you may notice performance delays switching views and opening project/task details.</span></span>
 
 
-- <span data-ttu-id="c9536-867">修复了以下问题：如果将“分组依据”应用于“资源使用状况”或“工作表视图”，然后插入一列，Project 可能崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-867">Fixed an issue where Project may crash if you apply a group by to the Resource Usage or Sheet view and then insert a column.</span></span>
+- <span data-ttu-id="75f95-887">修复了以下问题：如果将“分组依据”应用于“资源使用状况”或“工作表视图”，然后插入一列，Project 可能崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-887">Fixed an issue where Project may crash if you apply a group by to the Resource Usage or Sheet view and then insert a column.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-868">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-868">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-888">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-888">Word</span></span>
 
-- <span data-ttu-id="c9536-869">修复了无法按预期打开已启用工作流文件的链接的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-869">We fixed an issue where links to workflow enabled files were not opening as expected.</span></span>
+- <span data-ttu-id="75f95-889">修复了无法按预期打开已启用工作流文件的链接的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-889">We fixed an issue where links to workflow enabled files were not opening as expected.</span></span>
 
 
-- <span data-ttu-id="c9536-870">已修复当用户点击修订（插入/删除）时，将显示批注弹出窗口的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-870">Fixed an issue where a user tapping on a tracked change (insertion/deletion) would bring up a comment pop-out.</span></span>
+- <span data-ttu-id="75f95-890">已修复当用户点击修订（插入/删除）时，将显示批注弹出窗口的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-890">Fixed an issue where a user tapping on a tracked change (insertion/deletion) would bring up a comment pop-out.</span></span>
 
 
-- <span data-ttu-id="c9536-871">我们已修复了在 Word 中删除批注标注的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-871">We fixed an issue with deleting comment callouts in Word.</span></span>
+- <span data-ttu-id="75f95-891">我们已修复了在 Word 中删除批注标注的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-891">We fixed an issue with deleting comment callouts in Word.</span></span>
 
 
-- <span data-ttu-id="c9536-872">我们已修复了 Outlook 邮件设置为“不要转发”的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-872">We fixed an issue with Outlook with message set to Do not forward.</span></span>
+- <span data-ttu-id="75f95-892">我们已修复了 Outlook 邮件设置为“不要转发”的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-892">We fixed an issue with Outlook with message set to Do not forward.</span></span>
 
 
-- <span data-ttu-id="c9536-873">我们已修复了保存 Word 文档（包含引文和公式）的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-873">We fixed an issue with saving Word document that contains citation and equation.</span></span>
+- <span data-ttu-id="75f95-893">我们已修复了保存 Word 文档（包含引文和公式）的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-893">We fixed an issue with saving Word document that contains citation and equation.</span></span>
 
 
-- <span data-ttu-id="c9536-874">我们修复了“样式库”对话框的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-874">We fixed an issue with Style Gallery dialog.</span></span>
+- <span data-ttu-id="75f95-894">我们修复了“样式库”对话框的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-894">We fixed an issue with Style Gallery dialog.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-875">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-875">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-895">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-895">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-876">当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。</span><span class="sxs-lookup"><span data-stu-id="c9536-876">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="c9536-877">将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。</span><span class="sxs-lookup"><span data-stu-id="c9536-877">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
+- <span data-ttu-id="75f95-896">当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。</span><span class="sxs-lookup"><span data-stu-id="75f95-896">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="75f95-897">将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。</span><span class="sxs-lookup"><span data-stu-id="75f95-897">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
 
 
 
 [//]: # (请勿移除错误信息内容结尾)
 
-## <a name="version-2009-october-07"></a><span data-ttu-id="c9536-879">版本 2009：10 月 07 日</span><span class="sxs-lookup"><span data-stu-id="c9536-879">Version 2009: October 07</span></span>
-<span data-ttu-id="c9536-880">*版本 2009（内部版本 13231.20360）*</span><span class="sxs-lookup"><span data-stu-id="c9536-880">*Version 2009 (Build 13231.20360)*</span></span>
+## <a name="version-2009-october-07"></a><span data-ttu-id="75f95-899">版本 2009：10 月 07 日</span><span class="sxs-lookup"><span data-stu-id="75f95-899">Version 2009: October 07</span></span>
+<span data-ttu-id="75f95-900">*版本 2009（内部版本 13231.20360）*</span><span class="sxs-lookup"><span data-stu-id="75f95-900">*Version 2009 (Build 13231.20360)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-882">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-882">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-883">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-883">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-902">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-902">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-903">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-903">Excel</span></span>
 
-- <span data-ttu-id="c9536-884">**使用 Power Query 创建数据类型：** 使用任何数据源中的 Power Query 创建丰富数据类型</span><span class="sxs-lookup"><span data-stu-id="c9536-884">**Create Data Types with Power Query:** Create rich data types with Power Query from any data source</span></span>
+- <span data-ttu-id="75f95-904">**使用 Power Query 创建数据类型：** 使用任何数据源中的 Power Query 创建丰富数据类型</span><span class="sxs-lookup"><span data-stu-id="75f95-904">**Create Data Types with Power Query:** Create rich data types with Power Query from any data source</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-885">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-885">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-905">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-905">Outlook</span></span>
 
-- <span data-ttu-id="c9536-886">**语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。</span><span class="sxs-lookup"><span data-stu-id="c9536-886">**Grammar checking's got your back:** Outlook marks grammar errors as you type, so you can apply suggestions with a single click.</span></span> <br /><span data-ttu-id="c9536-887">在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-887">See details in [blog post](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)</span></span>
+- <span data-ttu-id="75f95-906">**语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。</span><span class="sxs-lookup"><span data-stu-id="75f95-906">**Grammar checking's got your back:** Outlook marks grammar errors as you type, so you can apply suggestions with a single click.</span></span> <br /><span data-ttu-id="75f95-907">在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-907">See details in [blog post](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1720,100 +1758,100 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-890">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-890">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-891">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-891">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-910">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-910">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-911">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-911">Outlook</span></span>
 
-- <span data-ttu-id="c9536-892">解决了在搜索未缓存的共享日历时，导致搜索不返回结果的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-892">Addresses an issue that caused Search to return no results when searching uncached shared calendars.</span></span>
-
-
-- <span data-ttu-id="c9536-893">解决了部分用户观察到的 Outlook 在离线状态下意外启动的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-893">Addresses an issue that caused some users to observe Outlook unexpectedly starting in an offline state.</span></span>
+- <span data-ttu-id="75f95-912">解决了在搜索未缓存的共享日历时，导致搜索不返回结果的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-912">Addresses an issue that caused Search to return no results when searching uncached shared calendars.</span></span>
 
 
-- <span data-ttu-id="c9536-894">解决了导致代理在其他邮箱中打开共享文件夹时出现间歇性故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-894">Addresses an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
+- <span data-ttu-id="75f95-913">解决了部分用户观察到的 Outlook 在离线状态下意外启动的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-913">Addresses an issue that caused some users to observe Outlook unexpectedly starting in an offline state.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-895">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-895">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-896">安全性修补程序解决了在受保护视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-896">Security fix to address an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
+- <span data-ttu-id="75f95-914">解决了导致代理在其他邮箱中打开共享文件夹时出现间歇性故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-914">Addresses an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-897">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-897">Office Suite</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-915">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-915">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-898">当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。</span><span class="sxs-lookup"><span data-stu-id="c9536-898">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="c9536-899">将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。</span><span class="sxs-lookup"><span data-stu-id="c9536-899">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
+- <span data-ttu-id="75f95-916">安全性修补程序解决了在受保护视图中打开 PowerPoint 文件时禁用 IRM 保护的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-916">Security fix to address an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-917">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-917">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-918">当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。</span><span class="sxs-lookup"><span data-stu-id="75f95-918">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="75f95-919">将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。</span><span class="sxs-lookup"><span data-stu-id="75f95-919">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
 
 
 
 [//]: # (请勿移除错误信息内容结尾)
 
-## <a name="version-2009-september-26"></a><span data-ttu-id="c9536-901">版本 2009：9 月 26 日</span><span class="sxs-lookup"><span data-stu-id="c9536-901">Version 2009: September 26</span></span>
-<span data-ttu-id="c9536-902">*版本 2009 (内部版本 13231.20262)*</span><span class="sxs-lookup"><span data-stu-id="c9536-902">*Version 2009 (Build 13231.20262)*</span></span>
+## <a name="version-2009-september-26"></a><span data-ttu-id="75f95-921">版本 2009：9 月 26 日</span><span class="sxs-lookup"><span data-stu-id="75f95-921">Version 2009: September 26</span></span>
+<span data-ttu-id="75f95-922">*版本 2009 (内部版本 13231.20262)*</span><span class="sxs-lookup"><span data-stu-id="75f95-922">*Version 2009 (Build 13231.20262)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-904">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-904">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-905">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-905">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-924">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-924">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-925">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-925">Outlook</span></span>
 
-- <span data-ttu-id="c9536-906">解决了以下问题：当主题行为空白时，某些自动生成的电子邮件将发送空白正文。</span><span class="sxs-lookup"><span data-stu-id="c9536-906">Addresses an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
+- <span data-ttu-id="75f95-926">解决了以下问题：当主题行为空白时，某些自动生成的电子邮件将发送空白正文。</span><span class="sxs-lookup"><span data-stu-id="75f95-926">Addresses an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-907">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-907">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-927">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-927">Project</span></span>
 
-- <span data-ttu-id="c9536-908">修复了以下问题：如果你正在运行事件代码并尝试通过 “任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。</span><span class="sxs-lookup"><span data-stu-id="c9536-908">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
+- <span data-ttu-id="75f95-928">修复了以下问题：如果你正在运行事件代码并尝试通过 “任务窗体”视图进行更改，单击“确定”按钮可能无法提交所做的更改。</span><span class="sxs-lookup"><span data-stu-id="75f95-928">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2009-september-21"></a><span data-ttu-id="c9536-910">版本 2009：9 月 21 日</span><span class="sxs-lookup"><span data-stu-id="c9536-910">Version 2009: September 21</span></span>
-<span data-ttu-id="c9536-911">*版本 2009（内部版本 13231.20200）*</span><span class="sxs-lookup"><span data-stu-id="c9536-911">*Version 2009 (Build 13231.20200)*</span></span>
+## <a name="version-2009-september-21"></a><span data-ttu-id="75f95-930">版本 2009：9 月 21 日</span><span class="sxs-lookup"><span data-stu-id="75f95-930">Version 2009: September 21</span></span>
+<span data-ttu-id="75f95-931">*版本 2009（内部版本 13231.20200）*</span><span class="sxs-lookup"><span data-stu-id="75f95-931">*Version 2009 (Build 13231.20200)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-913">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-913">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-914">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-914">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-933">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-933">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-934">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-934">Access</span></span>
 
-- <span data-ttu-id="c9536-915">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-915">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-916">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-916">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-917">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-917">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-935">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-935">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-936">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-936">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-937">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-937">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="excel"></a><span data-ttu-id="c9536-918">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-918">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-938">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-938">Excel</span></span>
 
-- <span data-ttu-id="c9536-919">**将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。</span><span class="sxs-lookup"><span data-stu-id="c9536-919">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="c9536-920">无需转换。</span><span class="sxs-lookup"><span data-stu-id="c9536-920">No conversion required.</span></span><br /><span data-ttu-id="c9536-921">在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-921">See details in [blog post](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="75f95-939">**将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。</span><span class="sxs-lookup"><span data-stu-id="75f95-939">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="75f95-940">无需转换。</span><span class="sxs-lookup"><span data-stu-id="75f95-940">No conversion required.</span></span><br /><span data-ttu-id="75f95-941">在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-941">See details in [blog post](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="c9536-922">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-922">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-923">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-923">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-924">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-924">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-942">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-942">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-943">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-943">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-944">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-944">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="onenote"></a><span data-ttu-id="c9536-925">OneNote</span><span class="sxs-lookup"><span data-stu-id="c9536-925">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="75f95-945">OneNote</span><span class="sxs-lookup"><span data-stu-id="75f95-945">OneNote</span></span>
 
-- <span data-ttu-id="c9536-926">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-926">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-927">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-927">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-928">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-928">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-946">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-946">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-947">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-947">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-948">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-948">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="outlook"></a><span data-ttu-id="c9536-929">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-929">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-949">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-949">Outlook</span></span>
 
-- <span data-ttu-id="c9536-930">**邮件所有者删除对话：** 此功能允许你通过邮件所有者删除对话。</span><span class="sxs-lookup"><span data-stu-id="c9536-930">**Delete conversation by message owner:** This feature allows you to delete a conversation by message owner.</span></span>
+- <span data-ttu-id="75f95-950">**邮件所有者删除对话：** 此功能允许你通过邮件所有者删除对话。</span><span class="sxs-lookup"><span data-stu-id="75f95-950">**Delete conversation by message owner:** This feature allows you to delete a conversation by message owner.</span></span>
 
-- <span data-ttu-id="c9536-931">**将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。</span><span class="sxs-lookup"><span data-stu-id="c9536-931">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="c9536-932">无需转换。</span><span class="sxs-lookup"><span data-stu-id="c9536-932">No conversion required.</span></span><br /><span data-ttu-id="c9536-933">在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-933">See details in [blog post](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="75f95-951">**将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。</span><span class="sxs-lookup"><span data-stu-id="75f95-951">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="75f95-952">无需转换。</span><span class="sxs-lookup"><span data-stu-id="75f95-952">No conversion required.</span></span><br /><span data-ttu-id="75f95-953">在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-953">See details in [blog post](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="c9536-934">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-934">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-935">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-935">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-936">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-936">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-954">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-954">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-955">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-955">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-956">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-956">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-937">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-937">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-957">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-957">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-938">**将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。</span><span class="sxs-lookup"><span data-stu-id="c9536-938">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="c9536-939">无需转换。</span><span class="sxs-lookup"><span data-stu-id="c9536-939">No conversion required.</span></span><br /><span data-ttu-id="c9536-940">在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-940">See details in [blog post](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="75f95-958">**将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。</span><span class="sxs-lookup"><span data-stu-id="75f95-958">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="75f95-959">无需转换。</span><span class="sxs-lookup"><span data-stu-id="75f95-959">No conversion required.</span></span><br /><span data-ttu-id="75f95-960">在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-960">See details in [blog post](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="c9536-941">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-941">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-942">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-942">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-943">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-943">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-961">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-961">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-962">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-962">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-963">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-963">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="project"></a><span data-ttu-id="c9536-944">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-944">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-964">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-964">Project</span></span>
 
-- <span data-ttu-id="c9536-945">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-945">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-946">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-946">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-947">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-947">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-965">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-965">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-966">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-966">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-967">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-967">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="publisher"></a><span data-ttu-id="c9536-948">Publisher</span><span class="sxs-lookup"><span data-stu-id="c9536-948">Publisher</span></span>
+### <a name="publisher"></a><span data-ttu-id="75f95-968">Publisher</span><span class="sxs-lookup"><span data-stu-id="75f95-968">Publisher</span></span>
 
-- <span data-ttu-id="c9536-949">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-949">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-950">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-950">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-951">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-951">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-969">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-969">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-970">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-970">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-971">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-971">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="visio"></a><span data-ttu-id="c9536-952">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-952">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="75f95-972">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-972">Visio</span></span>
 
-- <span data-ttu-id="c9536-953">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-953">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-954">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-954">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-955">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-955">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-973">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-973">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-974">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-974">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-975">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-975">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="word"></a><span data-ttu-id="c9536-956">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-956">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-976">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-976">Word</span></span>
 
-- <span data-ttu-id="c9536-957">**将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。</span><span class="sxs-lookup"><span data-stu-id="c9536-957">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="c9536-958">无需转换。</span><span class="sxs-lookup"><span data-stu-id="c9536-958">No conversion required.</span></span><br /><span data-ttu-id="c9536-959">在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-959">See details in [blog post](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="75f95-977">**将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。</span><span class="sxs-lookup"><span data-stu-id="75f95-977">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="75f95-978">无需转换。</span><span class="sxs-lookup"><span data-stu-id="75f95-978">No conversion required.</span></span><br /><span data-ttu-id="75f95-979">在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-979">See details in [blog post](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="c9536-960">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="c9536-960">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="c9536-961">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="c9536-961">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="c9536-962">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-962">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="75f95-980">**自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。</span><span class="sxs-lookup"><span data-stu-id="75f95-980">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="75f95-981">转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。</span><span class="sxs-lookup"><span data-stu-id="75f95-981">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="75f95-982">了解详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-982">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1822,18 +1860,18 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-965">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-965">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="c9536-966">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-966">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-985">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-985">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-986">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-986">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-967">已修复在包含大量特定数据对象类型 (E2o) 的文件上导致共同创作慢的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-967">Fixed an issue causing slow coauthoring on files containing large numbers of a certain data object type (E2o).</span></span>
+- <span data-ttu-id="75f95-987">已修复在包含大量特定数据对象类型 (E2o) 的文件上导致共同创作慢的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-987">Fixed an issue causing slow coauthoring on files containing large numbers of a certain data object type (E2o).</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2009-september-14"></a><span data-ttu-id="c9536-969">版本 2009：9 月 14 日</span><span class="sxs-lookup"><span data-stu-id="c9536-969">Version 2009: September 14</span></span>
-<span data-ttu-id="c9536-970">*版本 2009（内部版本 13231.20152）*</span><span class="sxs-lookup"><span data-stu-id="c9536-970">*Version 2009 (Build 13231.20152)*</span></span>
-* <span data-ttu-id="c9536-971">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-971">Various bugs and performance fixes.</span></span>
+## <a name="version-2009-september-14"></a><span data-ttu-id="75f95-989">版本 2009：9 月 14 日</span><span class="sxs-lookup"><span data-stu-id="75f95-989">Version 2009: September 14</span></span>
+<span data-ttu-id="75f95-990">*版本 2009（内部版本 13231.20152）*</span><span class="sxs-lookup"><span data-stu-id="75f95-990">*Version 2009 (Build 13231.20152)*</span></span>
+* <span data-ttu-id="75f95-991">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-991">Various bugs and performance fixes.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -1841,188 +1879,188 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
-## <a name="version-2009-september-10"></a><span data-ttu-id="c9536-974">版本 2009：9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="c9536-974">Version 2009: September 10</span></span>
-<span data-ttu-id="c9536-975">*版本 2009（内部版本 13231.20126）*</span><span class="sxs-lookup"><span data-stu-id="c9536-975">*Version 2009 (Build 13231.20126)*</span></span>
+## <a name="version-2009-september-10"></a><span data-ttu-id="75f95-994">版本 2009：9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="75f95-994">Version 2009: September 10</span></span>
+<span data-ttu-id="75f95-995">*版本 2009（内部版本 13231.20126）*</span><span class="sxs-lookup"><span data-stu-id="75f95-995">*Version 2009 (Build 13231.20126)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-977">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-977">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-978">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-978">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-997">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-997">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-998">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-998">Access</span></span>
 
-- <span data-ttu-id="c9536-979">此问题现在已解决，不应再经历崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-979">This issue has now been resolved and you should no longer experience a crash.</span></span>
+- <span data-ttu-id="75f95-999">此问题现在已解决，不应再经历崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-999">This issue has now been resolved and you should no longer experience a crash.</span></span>
 
 
-- <span data-ttu-id="c9536-980">我们解决了 ODBC 数据库未能与第三方应用程序一起连接使用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-980">We fixed an issue where connections to an ODBC database were not working with third party applications.</span></span>
+- <span data-ttu-id="75f95-1000">我们解决了 ODBC 数据库未能与第三方应用程序一起连接使用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1000">We fixed an issue where connections to an ODBC database were not working with third party applications.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="c9536-981">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-981">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1001">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1001">Excel</span></span>
 
-- <span data-ttu-id="c9536-982">修复了以下问题：如果你打开包含 LET 函数的文件，将会显示警报：“在‘你的文件.xlsx’ 内容中发现错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-982">We fixed an issue where if you opened a file containing the LET function, it would display the alert:  "We found a problem with content in "your file.xlsx".</span></span> <span data-ttu-id="c9536-983">你是否希望我们尽力尝试恢复？</span><span class="sxs-lookup"><span data-stu-id="c9536-983">Do you want us to try to recover as much as we can?</span></span> <span data-ttu-id="c9536-984">如果你信任此工作簿的来源，请点击是”。</span><span class="sxs-lookup"><span data-stu-id="c9536-984">If you trust the source of this workbook, click Yes".</span></span>
+- <span data-ttu-id="75f95-1002">修复了以下问题：如果你打开包含 LET 函数的文件，将会显示警报：“在‘你的文件.xlsx’ 内容中发现错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-1002">We fixed an issue where if you opened a file containing the LET function, it would display the alert:  "We found a problem with content in "your file.xlsx".</span></span> <span data-ttu-id="75f95-1003">你是否希望我们尽力尝试恢复？</span><span class="sxs-lookup"><span data-stu-id="75f95-1003">Do you want us to try to recover as much as we can?</span></span> <span data-ttu-id="75f95-1004">如果你信任此工作簿的来源，请点击是”。</span><span class="sxs-lookup"><span data-stu-id="75f95-1004">If you trust the source of this workbook, click Yes".</span></span>
 
 
-- <span data-ttu-id="c9536-985">如果用户键入了包含圆括号的公式名称，并通过 F1 调用了帮助，则特定于该公式的帮助主题将不会显示，我们已解决了这个问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-985">We fixed an issue where if a user typed a formula name including the parenthesis and invoked help via F1, the help topic specific to that formula would not be displayed.</span></span>
+- <span data-ttu-id="75f95-1005">如果用户键入了包含圆括号的公式名称，并通过 F1 调用了帮助，则特定于该公式的帮助主题将不会显示，我们已解决了这个问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1005">We fixed an issue where if a user typed a formula name including the parenthesis and invoked help via F1, the help topic specific to that formula would not be displayed.</span></span>
 
 
-- <span data-ttu-id="c9536-986">我们解决了以下问题：使用宏设置区域的 FormulaR1C1 属性时，如果图表工作表是活动工作表，则单元格引用将不正确。</span><span class="sxs-lookup"><span data-stu-id="c9536-986">We fixed an issue where using a macro to set the FormulaR1C1 property for a range, the cell references would be incorrect if a chart sheet was the active sheet.</span></span>
+- <span data-ttu-id="75f95-1006">我们解决了以下问题：使用宏设置区域的 FormulaR1C1 属性时，如果图表工作表是活动工作表，则单元格引用将不正确。</span><span class="sxs-lookup"><span data-stu-id="75f95-1006">We fixed an issue where using a macro to set the FormulaR1C1 property for a range, the cell references would be incorrect if a chart sheet was the active sheet.</span></span>
 
 
-- <span data-ttu-id="c9536-987">修复了用户无法修改数据透视表筛选器的问题，因为它被设置为在 Analysis Services 数据库中已不存在的值。</span><span class="sxs-lookup"><span data-stu-id="c9536-987">We fixed an issue where users could not modify a PivotTable filter because it was set to a value that was no longer present in an Analysis Services database.</span></span>
+- <span data-ttu-id="75f95-1007">修复了用户无法修改数据透视表筛选器的问题，因为它被设置为在 Analysis Services 数据库中已不存在的值。</span><span class="sxs-lookup"><span data-stu-id="75f95-1007">We fixed an issue where users could not modify a PivotTable filter because it was set to a value that was no longer present in an Analysis Services database.</span></span>
 
 
-- <span data-ttu-id="c9536-988">修复了与 XLAM 外接程序引用和命名区域相关的崩溃问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-988">Fixed a crash related to XLAM add-in references and named ranges.</span></span>
+- <span data-ttu-id="75f95-1008">修复了与 XLAM 外接程序引用和命名区域相关的崩溃问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1008">Fixed a crash related to XLAM add-in references and named ranges.</span></span>
 
 
-- <span data-ttu-id="c9536-989">修复了用户对动态数组应用自定义样式，会收到错误提示：“无法更改数组的一部分”的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-989">We fixed an issue where if a user applied a custom style to a dynamic array, they would get the error: "You can't change part of an array".</span></span> <span data-ttu-id="c9536-990">这是一个已删除的旧限制。</span><span class="sxs-lookup"><span data-stu-id="c9536-990">This was a legacy restriction that has been removed.</span></span>
+- <span data-ttu-id="75f95-1009">修复了用户对动态数组应用自定义样式，会收到错误提示：“无法更改数组的一部分”的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1009">We fixed an issue where if a user applied a custom style to a dynamic array, they would get the error: "You can't change part of an array".</span></span> <span data-ttu-id="75f95-1010">这是一个已删除的旧限制。</span><span class="sxs-lookup"><span data-stu-id="75f95-1010">This was a legacy restriction that has been removed.</span></span>
 
 
-- <span data-ttu-id="c9536-991">“还原文件的早期版本后，分配给按钮的宏会损坏”的问题已解决。</span><span class="sxs-lookup"><span data-stu-id="c9536-991">Fixed an issue where macros assigned to buttons were broken after restoring an older version of the file.</span></span>
+- <span data-ttu-id="75f95-1011">“还原文件的早期版本后，分配给按钮的宏会损坏”的问题已解决。</span><span class="sxs-lookup"><span data-stu-id="75f95-1011">Fixed an issue where macros assigned to buttons were broken after restoring an older version of the file.</span></span>
 
 
-- <span data-ttu-id="c9536-992">我们已解决了墨迹书写可能会导致 Excel 停止响应的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-992">We fixed an issue where inking could cause Excel to become unresponsive.</span></span>
+- <span data-ttu-id="75f95-1012">我们已解决了墨迹书写可能会导致 Excel 停止响应的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1012">We fixed an issue where inking could cause Excel to become unresponsive.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="c9536-993">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-993">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1013">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1013">Outlook</span></span>
 
-- <span data-ttu-id="c9536-994">修复了通过组策略启用/禁用默认日志记录选项时会提供更大灵活性的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-994">We fixed an issue which provides more flexibility in enabling / disabling the default logging options via Group Policy.</span></span>
+- <span data-ttu-id="75f95-1014">修复了通过组策略启用/禁用默认日志记录选项时会提供更大灵活性的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1014">We fixed an issue which provides more flexibility in enabling / disabling the default logging options via Group Policy.</span></span>
 
 
-- <span data-ttu-id="c9536-995">修复了在具有助理权限和管理权限的邮箱之间移动电子邮件草稿之后，电子邮件发件人的旧域名保留并显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-995">We fixed an issue where the Legacy Domain Name for an email sender was preserved and displayed after a draft of the email was moved between mailboxes with assistant permissions and manager permissions.</span></span>
+- <span data-ttu-id="75f95-1015">修复了在具有助理权限和管理权限的邮箱之间移动电子邮件草稿之后，电子邮件发件人的旧域名保留并显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1015">We fixed an issue where the Legacy Domain Name for an email sender was preserved and displayed after a draft of the email was moved between mailboxes with assistant permissions and manager permissions.</span></span>
 
 
-- <span data-ttu-id="c9536-996">修复了某些用户的 Outlook 会以脱机状态启动，需要他们手动选择联机工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-996">Fixes an issue that caused some users to see Outlook to start in an Offline state until they manually chose to work online.</span></span>
+- <span data-ttu-id="75f95-1016">修复了某些用户的 Outlook 会以脱机状态启动，需要他们手动选择联机工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1016">Fixes an issue that caused some users to see Outlook to start in an Offline state until they manually chose to work online.</span></span>
 
 
-- <span data-ttu-id="c9536-997">修复了在启用单行功能区 (SLR) 后运行 VBA 代码 ActiveInspector CommandBars ExecuteMso ("ShowSchedulingPage") 时，会导致运行时错误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-997">We fixed an issue where running the VBA code ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") after enabling the Single Line Ribbon (SLR) would result in a runtime error.</span></span>
+- <span data-ttu-id="75f95-1017">修复了在启用单行功能区 (SLR) 后运行 VBA 代码 ActiveInspector CommandBars ExecuteMso ("ShowSchedulingPage") 时，会导致运行时错误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1017">We fixed an issue where running the VBA code ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") after enabling the Single Line Ribbon (SLR) would result in a runtime error.</span></span>
 
 
-- <span data-ttu-id="c9536-998">修复了“自动答复”对话框中的“确定”和“取消”按钮在具有高分辨率（如 1750 x 1920）和较大文本（如 175%）的系统上不可见的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-998">We fixed an issue where the 'OK' and 'Cancel' buttons on the Automatic Replies dialog would not be visible on a system with a high resolution (such as 1750 x 1920) combined with a large text size (such as 175%).</span></span>
+- <span data-ttu-id="75f95-1018">修复了“自动答复”对话框中的“确定”和“取消”按钮在具有高分辨率（如 1750 x 1920）和较大文本（如 175%）的系统上不可见的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1018">We fixed an issue where the 'OK' and 'Cancel' buttons on the Automatic Replies dialog would not be visible on a system with a high resolution (such as 1750 x 1920) combined with a large text size (such as 175%).</span></span>
 
 
-- <span data-ttu-id="c9536-999">修复了从一个空联系人组向另一个联系人组发送会议请求时会导致崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-999">We fixed a condition where sending a meeting request from an empty contact group to another contact group would result in a crash.</span></span>
+- <span data-ttu-id="75f95-1019">修复了从一个空联系人组向另一个联系人组发送会议请求时会导致崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1019">We fixed a condition where sending a meeting request from an empty contact group to another contact group would result in a crash.</span></span>
 
 
-- <span data-ttu-id="c9536-1000">修复了用户打开某些很大的邮件时会遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1000">Fixes an issue that caused users to experience a crash when opening certain very large emails.</span></span>
+- <span data-ttu-id="75f95-1020">修复了用户打开某些很大的邮件时会遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1020">Fixes an issue that caused users to experience a crash when opening certain very large emails.</span></span>
 
 
-- <span data-ttu-id="c9536-1001">修复了如果组策略要求始终启用一个加载项，为了防止用户禁用该加载项，监视加载项不可用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1001">We fixed an issue where if Group Policy requires an Add-in to be always enabled, then monitoring add-in's becomes unavailable in order to prevent users from disabling the Add-in.</span></span>
+- <span data-ttu-id="75f95-1021">修复了如果组策略要求始终启用一个加载项，为了防止用户禁用该加载项，监视加载项不可用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1021">We fixed an issue where if Group Policy requires an Add-in to be always enabled, then monitoring add-in's becomes unavailable in order to prevent users from disabling the Add-in.</span></span>
 
 
-- <span data-ttu-id="c9536-1002">解决了导致用户在选择多封邮件时能够发送对 OneNote 应用了“不转发”策略的电子邮件内容的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1002">Addresses an issue that caused users to be able to send email content that had a "Do Not Forward" policy applied to OneNote when selecting more than one message.</span></span>
+- <span data-ttu-id="75f95-1022">解决了导致用户在选择多封邮件时能够发送对 OneNote 应用了“不转发”策略的电子邮件内容的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1022">Addresses an issue that caused users to be able to send email content that had a "Do Not Forward" policy applied to OneNote when selecting more than one message.</span></span>
 
 
-- <span data-ttu-id="c9536-1003">我们修复了以下问题：现在用户可以禁用 Outlook 的 IRM （信息权限管理），而无需在其他 Office 应用程序中禁用它。</span><span class="sxs-lookup"><span data-stu-id="c9536-1003">We fixed an issue where users can now disable IRM (Information Rights Management) for Outlook without having to disable it for the rest of the Office applications.</span></span>
+- <span data-ttu-id="75f95-1023">我们修复了以下问题：现在用户可以禁用 Outlook 的 IRM （信息权限管理），而无需在其他 Office 应用程序中禁用它。</span><span class="sxs-lookup"><span data-stu-id="75f95-1023">We fixed an issue where users can now disable IRM (Information Rights Management) for Outlook without having to disable it for the rest of the Office applications.</span></span>
 
 
-- <span data-ttu-id="c9536-1004">我们修复了 Active Directory 中“otherTelephone”和“otherHomePhone”的用户帐户属性未映射到相应的 Outlook LDAP 属性的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1004">We fixed an issue where the user account attributes in Active Directory for "otherTelephone" and "otherHomePhone" were not mapped to the corresponding Outlook LDAP attributes.</span></span>
+- <span data-ttu-id="75f95-1024">我们修复了 Active Directory 中“otherTelephone”和“otherHomePhone”的用户帐户属性未映射到相应的 Outlook LDAP 属性的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1024">We fixed an issue where the user account attributes in Active Directory for "otherTelephone" and "otherHomePhone" were not mapped to the corresponding Outlook LDAP attributes.</span></span>
 
 
-- <span data-ttu-id="c9536-1005">此更改修复了以下问题：当用户将选项卡从“会议”页面切换到“日程安排助理”页面后，将继续显示该会议页面。</span><span class="sxs-lookup"><span data-stu-id="c9536-1005">This change fixes an issue where the Meeting page would continue to be displayed after the user switched tabs from the Meeting page to the Scheduling Assistant page.</span></span>
+- <span data-ttu-id="75f95-1025">此更改修复了以下问题：当用户将选项卡从“会议”页面切换到“日程安排助理”页面后，将继续显示该会议页面。</span><span class="sxs-lookup"><span data-stu-id="75f95-1025">This change fixes an issue where the Meeting page would continue to be displayed after the user switched tabs from the Meeting page to the Scheduling Assistant page.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1006">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1006">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1026">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1026">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-1007">我们修复了在某些情况下用户看到功能区/标题栏未显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1007">We fixed an issue where users were seeing the ribbon/title bar not being displayed under certain conditions.</span></span>
+- <span data-ttu-id="75f95-1027">我们修复了在某些情况下用户看到功能区/标题栏未显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1027">We fixed an issue where users were seeing the ribbon/title bar not being displayed under certain conditions.</span></span>
 
 
-- <span data-ttu-id="c9536-1008">修复了启动 PowerPoint 后，插入幻灯片、打开并关闭批注窗格，缩略图窗格中的幻灯片显示为重叠的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1008">We fixed an issue where after booting PowerPoint, inserting a slide and opening and closing the comments pane, the slides in the thumbnail pane displayed as being overlapped.</span></span>
+- <span data-ttu-id="75f95-1028">修复了启动 PowerPoint 后，插入幻灯片、打开并关闭批注窗格，缩略图窗格中的幻灯片显示为重叠的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1028">We fixed an issue where after booting PowerPoint, inserting a slide and opening and closing the comments pane, the slides in the thumbnail pane displayed as being overlapped.</span></span>
 
 
-- <span data-ttu-id="c9536-1009">我们修复了禁用插入视频功能的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1009">We fixed an issue where the functionality to insert a video was disabled.</span></span>
+- <span data-ttu-id="75f95-1029">我们修复了禁用插入视频功能的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1029">We fixed an issue where the functionality to insert a video was disabled.</span></span>
 
 
-- <span data-ttu-id="c9536-1010">修复了在幻灯片中无法自动播放视频的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1010">We fixed an issue where videos were not playing automatically in slideshows.</span></span>
+- <span data-ttu-id="75f95-1030">修复了在幻灯片中无法自动播放视频的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1030">We fixed an issue where videos were not playing automatically in slideshows.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-1011">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1011">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1031">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1031">Project</span></span>
 
-- <span data-ttu-id="c9536-1012">修复了资源具有多个成本费率表时，可能无法正确计算剩余成本的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1012">We fixed an issue where if a resource has multiple cost rate tables, the remaining cost may not be calculated correctly.</span></span>
+- <span data-ttu-id="75f95-1032">修复了资源具有多个成本费率表时，可能无法正确计算剩余成本的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1032">We fixed an issue where if a resource has multiple cost rate tables, the remaining cost may not be calculated correctly.</span></span>
 
 
-- <span data-ttu-id="c9536-1013">我们修复了与 SharePoint 任务列表连接的项目的项目完成日期无法更新的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1013">We fixed an issue where the Project finish date isn't getting updated for projects connected to SharePoint tasks list.</span></span>
+- <span data-ttu-id="75f95-1033">我们修复了与 SharePoint 任务列表连接的项目的项目完成日期无法更新的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1033">We fixed an issue where the Project finish date isn't getting updated for projects connected to SharePoint tasks list.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="c9536-1014">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-1014">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="75f95-1034">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-1034">Visio</span></span>
 
-- <span data-ttu-id="c9536-1015">客户报告的文本对齐实时预览崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1015">Live preview crashes on text alignment reported by customers.</span></span> <span data-ttu-id="c9536-1016">7 月分支最常出现的崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1016">Top hitting crash of July fork.</span></span>
+- <span data-ttu-id="75f95-1035">客户报告的文本对齐实时预览崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1035">Live preview crashes on text alignment reported by customers.</span></span> <span data-ttu-id="75f95-1036">7 月分支最常出现的崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1036">Top hitting crash of July fork.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-1017">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1017">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1037">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1037">Word</span></span>
 
-- <span data-ttu-id="c9536-1018">修复了用户点击批注时，批注卡片将在批注文本周围显示边框的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1018">We fixed an issue where the Comment card would display a border around the comment text if the user clicked on the comment.</span></span>
+- <span data-ttu-id="75f95-1038">修复了用户点击批注时，批注卡片将在批注文本周围显示边框的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1038">We fixed an issue where the Comment card would display a border around the comment text if the user clicked on the comment.</span></span>
 
 
-- <span data-ttu-id="c9536-1019">我们解决了“项目符号图片图标未正确显示”的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1019">We fixed an issue where the bullet picture icon didn't display correctly.</span></span>
+- <span data-ttu-id="75f95-1039">我们解决了“项目符号图片图标未正确显示”的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1039">We fixed an issue where the bullet picture icon didn't display correctly.</span></span>
 
 
-- <span data-ttu-id="c9536-1020">我们修复了选择批注时，用户无法退出页眉/页脚的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1020">We fixed an issue where the user could not exit the Header/Footer when selecting a comment.</span></span>
+- <span data-ttu-id="75f95-1040">我们修复了选择批注时，用户无法退出页眉/页脚的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1040">We fixed an issue where the user could not exit the Header/Footer when selecting a comment.</span></span>
 
 
-- <span data-ttu-id="c9536-1021">我们修复了删除批注后 Word 可能会崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1021">We fixed an issue where Word could crash after comments were deleted.</span></span>
+- <span data-ttu-id="75f95-1041">我们修复了删除批注后 Word 可能会崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1041">We fixed an issue where Word could crash after comments were deleted.</span></span>
 
 
-- <span data-ttu-id="c9536-1022">修复了用户创建批注草稿，定位到已包含提交批注的行时，相对于 SideTrack 中提交的批注，草稿的排列顺序会出现错误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1022">We fixed an issue where if a user created a comment draft anchored to a line already containing committed comments, then the draft was arranged in the wrong order relative to the committed comment in the SideTrack.</span></span>
+- <span data-ttu-id="75f95-1042">修复了用户创建批注草稿，定位到已包含提交批注的行时，相对于 SideTrack 中提交的批注，草稿的排列顺序会出现错误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1042">We fixed an issue where if a user created a comment draft anchored to a line already containing committed comments, then the draft was arranged in the wrong order relative to the committed comment in the SideTrack.</span></span>
 
 
-- <span data-ttu-id="c9536-1023">修复了文档缩放到160% 或以上，同时批注窗格未显示时，焦点不会转到批注窗格的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1023">We fixed an issue where the focus would not go to the comment pane if the document was zoomed to 160% or more and the comment pane was not visible.</span></span>
+- <span data-ttu-id="75f95-1043">修复了文档缩放到160% 或以上，同时批注窗格未显示时，焦点不会转到批注窗格的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1043">We fixed an issue where the focus would not go to the comment pane if the document was zoomed to 160% or more and the comment pane was not visible.</span></span>
 
 
-- <span data-ttu-id="c9536-1024">我们修复了使用户无法查看超出侧轨边界的批注线程（因为滚动侧轨不起作用）的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1024">We fixed an issue that prevented users from seeing comment threads that exceeded the sidetrack boundary because scrolling through the sidetrack was not working.</span></span>
+- <span data-ttu-id="75f95-1044">我们修复了使用户无法查看超出侧轨边界的批注线程（因为滚动侧轨不起作用）的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1044">We fixed an issue that prevented users from seeing comment threads that exceeded the sidetrack boundary because scrolling through the sidetrack was not working.</span></span>
 
 
-- <span data-ttu-id="c9536-1025">我们修复了无法在侧轨窗格中搜索已解决的批注的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1025">We fixed an issue where searching for resolved comments in the sidetrack pane was not working.</span></span>
+- <span data-ttu-id="75f95-1045">我们修复了无法在侧轨窗格中搜索已解决的批注的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1045">We fixed an issue where searching for resolved comments in the sidetrack pane was not working.</span></span>
 
 
-- <span data-ttu-id="c9536-1026">修复了切换多个打开的文档后，一份文档的备注显示在其他文档上的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1026">We fixed an issue where the comments on one document would be displayed on other open documents after switching between the multiple open documents.</span></span>
+- <span data-ttu-id="75f95-1046">修复了切换多个打开的文档后，一份文档的备注显示在其他文档上的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1046">We fixed an issue where the comments on one document would be displayed on other open documents after switching between the multiple open documents.</span></span>
 
 
-- <span data-ttu-id="c9536-1027">修复了将文档保存为 HTML 格式时长链接无法换行的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1027">We fixed an issue where long links were not being wrapped when saving document to HTML format.</span></span>
+- <span data-ttu-id="75f95-1047">修复了将文档保存为 HTML 格式时长链接无法换行的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1047">We fixed an issue where long links were not being wrapped when saving document to HTML format.</span></span>
 
 
-- <span data-ttu-id="c9536-1028">我们解决了在某些情况下，项目符号在电子邮件中无法正确显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1028">We fixed an issue where in some cases, bullets are not displaying correctly in email.</span></span>
+- <span data-ttu-id="75f95-1048">我们解决了在某些情况下，项目符号在电子邮件中无法正确显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1048">We fixed an issue where in some cases, bullets are not displaying correctly in email.</span></span>
 
 
-- <span data-ttu-id="c9536-1029">修复了宏 AutoOpen 在 AutoExec 之前运行的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1029">We fixed an issue with macros in which AutoOpen runs before AutoExec.</span></span>
+- <span data-ttu-id="75f95-1049">修复了宏 AutoOpen 在 AutoExec 之前运行的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1049">We fixed an issue with macros in which AutoOpen runs before AutoExec.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-1030">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1030">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-1050">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1050">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-1031">我们修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。</span><span class="sxs-lookup"><span data-stu-id="c9536-1031">We fixed an issue in the Office Deployment Tool where configuration was failing when using the RemoveMSI feature with the Office 2007 "Microsoft Application Error Reporting" product present.</span></span>
+- <span data-ttu-id="75f95-1051">我们修复了 Office 部署工具中的以下问题：在存在 Office 2007“Microsoft 应用程序错误报告”产品时使用 RemoveMSI 功能时，配置失败。</span><span class="sxs-lookup"><span data-stu-id="75f95-1051">We fixed an issue in the Office Deployment Tool where configuration was failing when using the RemoveMSI feature with the Office 2007 "Microsoft Application Error Reporting" product present.</span></span>
 
 
-- <span data-ttu-id="c9536-1032">我们修复了“压缩图片”对话框中不保留用户选定的某些 DPI 设置的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1032">We fixed an issue in the Compress Picture dialog where some user-selected DPI settings are not retained.</span></span>
+- <span data-ttu-id="75f95-1052">我们修复了“压缩图片”对话框中不保留用户选定的某些 DPI 设置的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1052">We fixed an issue in the Compress Picture dialog where some user-selected DPI settings are not retained.</span></span>
 
 
-- <span data-ttu-id="c9536-1033">此更改解决了“压缩图片”对话框不保留某些用户设置的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1033">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+- <span data-ttu-id="75f95-1053">此更改解决了“压缩图片”对话框不保留某些用户设置的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1053">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2008-september-04"></a><span data-ttu-id="c9536-1035">版本 2008：9 月 4 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1035">Version 2008: September 04</span></span>
-<span data-ttu-id="c9536-1036">*版本 2008（内部版本 13127.20378）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1036">*Version 2008 (Build 13127.20378)*</span></span>
+## <a name="version-2008-september-04"></a><span data-ttu-id="75f95-1055">版本 2008：9 月 4 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1055">Version 2008: September 04</span></span>
+<span data-ttu-id="75f95-1056">*版本 2008（内部版本 13127.20378）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1056">*Version 2008 (Build 13127.20378)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1038">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1038">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="c9536-1039">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1039">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1058">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1058">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-1059">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1059">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-1040">此更改解决了“压缩图片”对话框不保留某些用户设置的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1040">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+- <span data-ttu-id="75f95-1060">此更改解决了“压缩图片”对话框不保留某些用户设置的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1060">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
 
 
 
 [//]: # (请勿删除 Bug 详细信息内容结尾)
 
-## <a name="version-2008-september-02"></a><span data-ttu-id="c9536-1042">版本 2008：9 月 2 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1042">Version 2008: September 02</span></span>
-<span data-ttu-id="c9536-1043">*版本 2008（内部版本 13127.20360）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1043">*Version 2008 (Build 13127.20360)*</span></span>
+## <a name="version-2008-september-02"></a><span data-ttu-id="75f95-1062">版本 2008：9 月 2 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1062">Version 2008: September 02</span></span>
+<span data-ttu-id="75f95-1063">*版本 2008（内部版本 13127.20360）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1063">*Version 2008 (Build 13127.20360)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1045">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1045">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1046">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1046">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1065">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1065">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1066">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1066">Excel</span></span>
 
-- <span data-ttu-id="c9536-1047">**将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。</span><span class="sxs-lookup"><span data-stu-id="c9536-1047">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="c9536-1048">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1048">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- <span data-ttu-id="75f95-1067">**将形状另存为图片：** 只需单击几下即可将形状、图标或其他对象另存为图片文件，以便您将其用于其他任何位置。</span><span class="sxs-lookup"><span data-stu-id="75f95-1067">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="75f95-1068">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1068">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- <span data-ttu-id="c9536-1049">**使用 Excel 触控笔进行快速编辑：** 触控笔工具，帮助你手写并对数据进行快速编辑</span><span class="sxs-lookup"><span data-stu-id="c9536-1049">**Make quick edits using the Excel pen:** Pen Tool to help you handwrite and make quick edits to your data</span></span>
+- <span data-ttu-id="75f95-1069">**使用 Excel 触控笔进行快速编辑：** 触控笔工具，帮助你手写并对数据进行快速编辑</span><span class="sxs-lookup"><span data-stu-id="75f95-1069">**Make quick edits using the Excel pen:** Pen Tool to help you handwrite and make quick edits to your data</span></span>
 
 
 
@@ -2032,22 +2070,22 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1052">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1052">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1053">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1053">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1072">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1072">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1073">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1073">Excel</span></span>
 
-- <span data-ttu-id="c9536-1054">解决了某些情况下使用格式刷时 Excel 可能会崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1054">Fixed an issue where Excel could crash in certain circumstances when using the Format Painter.</span></span>
+- <span data-ttu-id="75f95-1074">解决了某些情况下使用格式刷时 Excel 可能会崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1074">Fixed an issue where Excel could crash in certain circumstances when using the Format Painter.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-1055">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1055">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1075">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1075">Word</span></span>
 
-- <span data-ttu-id="c9536-1056">我们修复了未使用普通样式更新基准样式的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1056">We fixed an issue which the base styles are not updated with Normal style.</span></span>
+- <span data-ttu-id="75f95-1076">我们修复了未使用普通样式更新基准样式的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1076">We fixed an issue which the base styles are not updated with Normal style.</span></span>
 
 
 
 [//]: # (请勿删除 Bug 详细信息内容结尾)
 
-## <a name="version-2008-august-27"></a><span data-ttu-id="c9536-1058">版本 2008：8 月 27 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1058">Version 2008: August 27</span></span>
-<span data-ttu-id="c9536-1059">*版本 2008（内部版本 13127.20296）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1059">*Version 2008 (Build 13127.20296)*</span></span>
+## <a name="version-2008-august-27"></a><span data-ttu-id="75f95-1078">版本 2008：8 月 27 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1078">Version 2008: August 27</span></span>
+<span data-ttu-id="75f95-1079">*版本 2008（内部版本 13127.20296）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1079">*Version 2008 (Build 13127.20296)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
@@ -2058,38 +2096,38 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1063">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1063">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1064">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1064">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1083">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1083">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1084">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1084">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1065">修复了导致尝试从添加到其个人资料的辅助帐户创建会议请求的用户看不到空白的“发件人：”字段，而是看到自己的电子邮件地址的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1065">Fixes an issue that caused users who attempted to create a meeting request from a secondary account added to their profile to not see a blank From: field instead of their email address.</span></span>
+- <span data-ttu-id="75f95-1085">修复了导致尝试从添加到其个人资料的辅助帐户创建会议请求的用户看不到空白的“发件人：”字段，而是看到自己的电子邮件地址的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1085">Fixes an issue that caused users who attempted to create a meeting request from a secondary account added to their profile to not see a blank From: field instead of their email address.</span></span>
 
-- <span data-ttu-id="c9536-1066">修复了导致用户无法在添加共享邮箱后连接到公用文件夹的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1066">Fixes an issue that caused users to be unable to connect to Public Folders after adding a shared mailbox.</span></span>
+- <span data-ttu-id="75f95-1086">修复了导致用户无法在添加共享邮箱后连接到公用文件夹的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1086">Fixes an issue that caused users to be unable to connect to Public Folders after adding a shared mailbox.</span></span>
 
-- <span data-ttu-id="c9536-1067">修复了导致用户在与云附件交互时偶尔出现崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1067">Fixes an issue that caused users to experience occasional crashes when interacting with Cloud attachments.</span></span>
+- <span data-ttu-id="75f95-1087">修复了导致用户在与云附件交互时偶尔出现崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1087">Fixes an issue that caused users to experience occasional crashes when interacting with Cloud attachments.</span></span>
 
-- <span data-ttu-id="c9536-1068">修复了导致用户在编辑收件人时偶尔出现崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1068">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
+- <span data-ttu-id="75f95-1088">修复了导致用户在编辑收件人时偶尔出现崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1088">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
 
-- <span data-ttu-id="c9536-1069">修复了导致用户在使用压缩视图时出现异常的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1069">Fixes an issue that caused users to see anomalies when using the compact view.</span></span>
+- <span data-ttu-id="75f95-1089">修复了导致用户在使用压缩视图时出现异常的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1089">Fixes an issue that caused users to see anomalies when using the compact view.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1070">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1070">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1090">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1090">Word</span></span>
 
-- <span data-ttu-id="c9536-1071">此更改修复了以下问题：在上一次共同创作会话后，Office 应用程序可能会陷入静默的保存失败状态。</span><span class="sxs-lookup"><span data-stu-id="c9536-1071">This change fixes an issue where Office applications can get stuck in a silent Save failure state after a previous coauthoring session.</span></span>
+- <span data-ttu-id="75f95-1091">此更改修复了以下问题：在上一次共同创作会话后，Office 应用程序可能会陷入静默的保存失败状态。</span><span class="sxs-lookup"><span data-stu-id="75f95-1091">This change fixes an issue where Office applications can get stuck in a silent Save failure state after a previous coauthoring session.</span></span>
 
-- <span data-ttu-id="c9536-1072">我们修复了宏 AutoOpen 在 AutoExec 之前运行的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1072">We fixed an issue where macro AutoOpen runs before AutoExec</span></span>
+- <span data-ttu-id="75f95-1092">我们修复了宏 AutoOpen 在 AutoExec 之前运行的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1092">We fixed an issue where macro AutoOpen runs before AutoExec</span></span>
 
 
 
 [//]: # (请勿删除 Bug 详细信息内容结尾)
 
-## <a name="version-2008-august-25"></a><span data-ttu-id="c9536-1074">版本 2008：8 月 25 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1074">Version 2008: August 25</span></span>
-<span data-ttu-id="c9536-1075">*版本 2008（内部版本 13127.20268）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1075">*Version 2008 (Build 13127.20268)*</span></span>
+## <a name="version-2008-august-25"></a><span data-ttu-id="75f95-1094">版本 2008：8 月 25 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1094">Version 2008: August 25</span></span>
+<span data-ttu-id="75f95-1095">*版本 2008（内部版本 13127.20268）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1095">*Version 2008 (Build 13127.20268)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1077">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1077">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1078">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1078">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1097">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1097">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1098">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1098">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1079">**在按人员搜索时收到电子邮件建议：** 在 Outlook 中键入搜索词时，你将收到最相关的电子邮件，它们显示在建议中。</span><span class="sxs-lookup"><span data-stu-id="c9536-1079">**Receive email suggestions when searching by person.:** As you type your search terms in Outlook you'll receive the most relevant emails surfaced in the suggestions.</span></span>
+- <span data-ttu-id="75f95-1099">**在按人员搜索时收到电子邮件建议：** 在 Outlook 中键入搜索词时，你将收到最相关的电子邮件，它们显示在建议中。</span><span class="sxs-lookup"><span data-stu-id="75f95-1099">**Receive email suggestions when searching by person.:** As you type your search terms in Outlook you'll receive the most relevant emails surfaced in the suggestions.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -2098,810 +2136,171 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1082">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1082">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1083">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1083">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1102">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1102">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1103">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1103">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1084">解决了导致用户在答复或撰写新的电子邮件时收到错误的问题，其中该错误显示“此网页中的部分文件不在预期位置。</span><span class="sxs-lookup"><span data-stu-id="c9536-1084">Addresses an issue that caused users to receive the following error when replying to or composing new email, "Some of the files in this web page aren't in the expected location.</span></span> <span data-ttu-id="c9536-1085">是否仍要下载它们？</span><span class="sxs-lookup"><span data-stu-id="c9536-1085">Do you want to download them anyway?</span></span> <span data-ttu-id="c9536-1086">如果确定此网页来自可靠来源，请单击‘是’”</span><span class="sxs-lookup"><span data-stu-id="c9536-1086">If you’re sure the Web page is from a trusted source, click Yes"</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="c9536-1087">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1087">Project</span></span>
-
-- <span data-ttu-id="c9536-1088">解决了在资源定义了多个成本费率表时其余成本有时计算有误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1088">Fixed an issue where if a resource had more than one cost rate table defined, remaining cost was not always calculated correctly.</span></span>
+- <span data-ttu-id="75f95-1104">解决了导致用户在答复或撰写新的电子邮件时收到错误的问题，其中该错误显示“此网页中的部分文件不在预期位置。</span><span class="sxs-lookup"><span data-stu-id="75f95-1104">Addresses an issue that caused users to receive the following error when replying to or composing new email, "Some of the files in this web page aren't in the expected location.</span></span> <span data-ttu-id="75f95-1105">是否仍要下载它们？</span><span class="sxs-lookup"><span data-stu-id="75f95-1105">Do you want to download them anyway?</span></span> <span data-ttu-id="75f95-1106">如果确定此网页来自可靠来源，请单击‘是’”</span><span class="sxs-lookup"><span data-stu-id="75f95-1106">If you’re sure the Web page is from a trusted source, click Yes"</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-1089">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1089">Word</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1107">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1107">Project</span></span>
 
-- <span data-ttu-id="c9536-1090">解决了用户在答复电子邮件或撰写新电子邮件时软件崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1090">Addresses an issue that caused users to experience a crash when replying to or composing new email.</span></span>
+- <span data-ttu-id="75f95-1108">解决了在资源定义了多个成本费率表时其余成本有时计算有误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1108">Fixed an issue where if a resource had more than one cost rate table defined, remaining cost was not always calculated correctly.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="75f95-1109">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1109">Word</span></span>
+
+- <span data-ttu-id="75f95-1110">解决了用户在答复电子邮件或撰写新电子邮件时软件崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1110">Addresses an issue that caused users to experience a crash when replying to or composing new email.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2008-august-17"></a><span data-ttu-id="c9536-1092">版本2008:8月17日</span><span class="sxs-lookup"><span data-stu-id="c9536-1092">Version 2008: August 17</span></span>
-<span data-ttu-id="c9536-1093">*版本2008（内部版本13127.20208）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1093">*Version 2008 (Build 13127.20208)*</span></span>
+## <a name="version-2008-august-17"></a><span data-ttu-id="75f95-1112">版本2008:8月17日</span><span class="sxs-lookup"><span data-stu-id="75f95-1112">Version 2008: August 17</span></span>
+<span data-ttu-id="75f95-1113">*版本2008（内部版本13127.20208）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1113">*Version 2008 (Build 13127.20208)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1095">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1095">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1096">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1096">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1115">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1115">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1116">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1116">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1097">解决了在某些情况下，当代理拒绝时，导致会议无法从管理员的日历中删除的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1097">Addressed an issue that caused meetings to fail to be removed from a manager's calendar when declined by a delegate in some circumstances.</span></span>
-
-
-- <span data-ttu-id="c9536-1098">解决了导致某些字符集的用户在向 SharePoint 文件添加智能链接时无法正确显示文件名的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1098">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
+- <span data-ttu-id="75f95-1117">解决了在某些情况下，当代理拒绝时，导致会议无法从管理员的日历中删除的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1117">Addressed an issue that caused meetings to fail to be removed from a manager's calendar when declined by a delegate in some circumstances.</span></span>
 
 
-- <span data-ttu-id="c9536-1099">解决了通过选中 "仅下载邮件头" 选项删除来自 POP 帐户的4个或更多电子邮件时导致用户遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1099">Addressed an issue which caused users to experience a crash when deleting 4 or more emails from a POP account with the "Download Headers Only" option selected.</span></span>
+- <span data-ttu-id="75f95-1118">解决了导致某些字符集的用户在向 SharePoint 文件添加智能链接时无法正确显示文件名的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1118">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
 
 
-- <span data-ttu-id="c9536-1100">解决了导致右键单击上下文菜单无法在搜索控件中显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1100">Addressed an issue that caused the right-click context menu to fail to appear in the search controls.</span></span>
+- <span data-ttu-id="75f95-1119">解决了通过选中 "仅下载邮件头" 选项删除来自 POP 帐户的4个或更多电子邮件时导致用户遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1119">Addressed an issue which caused users to experience a crash when deleting 4 or more emails from a POP account with the "Download Headers Only" option selected.</span></span>
+
+
+- <span data-ttu-id="75f95-1120">解决了导致右键单击上下文菜单无法在搜索控件中显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1120">Addressed an issue that caused the right-click context menu to fail to appear in the search controls.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2008-august-11"></a><span data-ttu-id="c9536-1102">版本2008:8月11日</span><span class="sxs-lookup"><span data-stu-id="c9536-1102">Version 2008: August 11</span></span>
-<span data-ttu-id="c9536-1103">*版本2008（内部版本13127.20164）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1103">*Version 2008 (Build 13127.20164)*</span></span>
+## <a name="version-2008-august-11"></a><span data-ttu-id="75f95-1122">版本2008:8月11日</span><span class="sxs-lookup"><span data-stu-id="75f95-1122">Version 2008: August 11</span></span>
+<span data-ttu-id="75f95-1123">*版本2008（内部版本13127.20164）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1123">*Version 2008 (Build 13127.20164)*</span></span>
 
-<span data-ttu-id="c9536-1104">[此处](./microsoft365-apps-security-updates.md)列出安全更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1104">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+<span data-ttu-id="75f95-1124">[此处](./microsoft365-apps-security-updates.md)列出安全更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1124">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
 
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1106">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1106">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1107">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1107">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1126">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1126">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1127">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1127">Access</span></span>
 
-- <span data-ttu-id="c9536-1108">此修复解决了之前尝试运行某些查询时产生 "查询太复杂 "的错误信息的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1108">This fix addresses the issue where trying to run certain queries have previously produced the error message 'Query is too complex'.</span></span>
+- <span data-ttu-id="75f95-1128">此修复解决了之前尝试运行某些查询时产生 "查询太复杂 "的错误信息的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1128">This fix addresses the issue where trying to run certain queries have previously produced the error message 'Query is too complex'.</span></span>
 
-- <span data-ttu-id="c9536-1109">如果已经安装Office 365，不再需要安装我们的ACE可再发行引擎，就可以将ACE暴露在Office生态系统之外。</span><span class="sxs-lookup"><span data-stu-id="c9536-1109">If you have Office 365 installed, you no longer need to install our ACE Redistributable Engine to expose ACE outside of the Office ecosystem.</span></span> <span data-ttu-id="c9536-1110">因此，对于那些使用Office 365的用户来说，将不再需要 ACE 再发行引擎，因此不会遇到此问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1110">Therefore, for those with Office 365, you will no longer need the ACE Redist Engine, and consequently you should not experience this issue.</span></span>
+- <span data-ttu-id="75f95-1129">如果已经安装Office 365，不再需要安装我们的ACE可再发行引擎，就可以将ACE暴露在Office生态系统之外。</span><span class="sxs-lookup"><span data-stu-id="75f95-1129">If you have Office 365 installed, you no longer need to install our ACE Redistributable Engine to expose ACE outside of the Office ecosystem.</span></span> <span data-ttu-id="75f95-1130">因此，对于那些使用Office 365的用户来说，将不再需要 ACE 再发行引擎，因此不会遇到此问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1130">Therefore, for those with Office 365, you will no longer need the ACE Redist Engine, and consequently you should not experience this issue.</span></span>
 
-- <span data-ttu-id="c9536-1111">这个问题已经得到解决--现在在Office的Click-to-Run应用程序之外可以使用我们的ODBC驱动程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1111">This issue has been resolved - you can now use our ODBC driver outside of Office's Click-to-Run applications.</span></span>
+- <span data-ttu-id="75f95-1131">这个问题已经得到解决--现在在Office的Click-to-Run应用程序之外可以使用我们的ODBC驱动程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1131">This issue has been resolved - you can now use our ODBC driver outside of Office's Click-to-Run applications.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="c9536-1112">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1112">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1132">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1132">Excel</span></span>
 
-- <span data-ttu-id="c9536-1113">我们修复了以下问题：图表系列的顺序发生更改时，与序列保持一致的对应复选框未与序列一起重新排序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1113">We fixed an issue where if the order of a chart series was changed, the corresponding checkbox aligned with the series was not reordered along with the series.</span></span>
+- <span data-ttu-id="75f95-1133">我们修复了以下问题：图表系列的顺序发生更改时，与序列保持一致的对应复选框未与序列一起重新排序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1133">We fixed an issue where if the order of a chart series was changed, the corresponding checkbox aligned with the series was not reordered along with the series.</span></span>
 
-- <span data-ttu-id="c9536-1114">当试图使用LET()函数保存包含公式的文件时，可能会出现错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-1114">An error could occur when trying to save a file that contains a formula using the LET() function.</span></span>
+- <span data-ttu-id="75f95-1134">当试图使用LET()函数保存包含公式的文件时，可能会出现错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-1134">An error could occur when trying to save a file that contains a formula using the LET() function.</span></span>
 
-- <span data-ttu-id="c9536-1115">修复了一个问题：当工作簿通过VBA启用 "ForceFullCalculation "时，图表并不总是按预期更新。</span><span class="sxs-lookup"><span data-stu-id="c9536-1115">We fixed an issue where charts were not always updated as expected when "ForceFullCalculation" was enabled via VBA for the workbook.</span></span>
+- <span data-ttu-id="75f95-1135">修复了一个问题：当工作簿通过VBA启用 "ForceFullCalculation "时，图表并不总是按预期更新。</span><span class="sxs-lookup"><span data-stu-id="75f95-1135">We fixed an issue where charts were not always updated as expected when "ForceFullCalculation" was enabled via VBA for the workbook.</span></span>
 
-- <span data-ttu-id="c9536-1116">修复了带有径向渐变的图像副本与原始图像不匹配的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1116">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
+- <span data-ttu-id="75f95-1136">修复了带有径向渐变的图像副本与原始图像不匹配的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1136">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="c9536-1117">OneNote</span><span class="sxs-lookup"><span data-stu-id="c9536-1117">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="75f95-1137">OneNote</span><span class="sxs-lookup"><span data-stu-id="75f95-1137">OneNote</span></span>
 
-- <span data-ttu-id="c9536-1118">我们修复了以下问题：如果将应用程序窗口的大小调整为较小尺寸，则“搜索”编辑框中的占位符文本将溢出。</span><span class="sxs-lookup"><span data-stu-id="c9536-1118">We fixed an issue where the placeholder text in the Search edit box would overflow if the application window was resized to a small dimension.</span></span>
+- <span data-ttu-id="75f95-1138">我们修复了以下问题：如果将应用程序窗口的大小调整为较小尺寸，则“搜索”编辑框中的占位符文本将溢出。</span><span class="sxs-lookup"><span data-stu-id="75f95-1138">We fixed an issue where the placeholder text in the Search edit box would overflow if the application window was resized to a small dimension.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-1119">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1119">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1139">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1139">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1120">解决了在Outlook中从同一邮件域创建多个配置文件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1120">We fixed an issue around creating multiple profiles in Outlookfrom the same email domain.</span></span>
+- <span data-ttu-id="75f95-1140">解决了在Outlook中从同一邮件域创建多个配置文件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1140">We fixed an issue around creating multiple profiles in Outlookfrom the same email domain.</span></span>
 
-- <span data-ttu-id="c9536-1121">解决了共享日历改进功能的部分用户无法查看新添加的共享日历的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1121">Addressed an issue that prevented some users of the Shared Calendar Improvements feature from being able to view a newly-added shared calendar.</span></span>
+- <span data-ttu-id="75f95-1141">解决了共享日历改进功能的部分用户无法查看新添加的共享日历的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1141">Addressed an issue that prevented some users of the Shared Calendar Improvements feature from being able to view a newly-added shared calendar.</span></span>
 
-- <span data-ttu-id="c9536-1122">解决了导致锁图标无法在 S/MIME 加密邮件标题中显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1122">Addressed an issue that caused the lock icon to fail to display in the header of S/MIME encrypted messages.</span></span>
+- <span data-ttu-id="75f95-1142">解决了导致锁图标无法在 S/MIME 加密邮件标题中显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1142">Addressed an issue that caused the lock icon to fail to display in the header of S/MIME encrypted messages.</span></span>
 
-- <span data-ttu-id="c9536-1123">我们解决了以下问题：如果未选中下载共享文件夹，则共享日历会议 "答复选项" 中缺少 "允许转发" 选项。</span><span class="sxs-lookup"><span data-stu-id="c9536-1123">We fixed an issue where the "Allow Forwarding" option was missing from the shared calendar meeting "Response Options" if Download Shared folder was NOT checked.</span></span>
+- <span data-ttu-id="75f95-1143">我们解决了以下问题：如果未选中下载共享文件夹，则共享日历会议 "答复选项" 中缺少 "允许转发" 选项。</span><span class="sxs-lookup"><span data-stu-id="75f95-1143">We fixed an issue where the "Allow Forwarding" option was missing from the shared calendar meeting "Response Options" if Download Shared folder was NOT checked.</span></span>
 
-- <span data-ttu-id="c9536-1124">解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1124">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+- <span data-ttu-id="75f95-1144">解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1144">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
 
-- <span data-ttu-id="c9536-1125">修复了一个问题：即使用户有相应的打印权限，打印按钮仍会显示禁用状态下。</span><span class="sxs-lookup"><span data-stu-id="c9536-1125">We fixed an issue that would display the print button in a disabled state even though the user had the appropriate print permissions.</span></span>
+- <span data-ttu-id="75f95-1145">修复了一个问题：即使用户有相应的打印权限，打印按钮仍会显示禁用状态下。</span><span class="sxs-lookup"><span data-stu-id="75f95-1145">We fixed an issue that would display the print button in a disabled state even though the user had the appropriate print permissions.</span></span>
 
-- <span data-ttu-id="c9536-1126">解决了当以未加密的方式发送时，附件会从 S/MIME 邮件中被去除的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1126">Addressed an issue that caused attachments to get stripped from S/MIME messages when sending as unencrypted.</span></span>
+- <span data-ttu-id="75f95-1146">解决了当以未加密的方式发送时，附件会从 S/MIME 邮件中被去除的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1146">Addressed an issue that caused attachments to get stripped from S/MIME messages when sending as unencrypted.</span></span>
 
-- <span data-ttu-id="c9536-1127">解决了导致纯文本 S/MIME 邮件在发送时出现乱码的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1127">Addressed an issue that caused plain text S/MIME messages to become garbled when sending.</span></span>
+- <span data-ttu-id="75f95-1147">解决了导致纯文本 S/MIME 邮件在发送时出现乱码的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1147">Addressed an issue that caused plain text S/MIME messages to become garbled when sending.</span></span>
 
-- <span data-ttu-id="c9536-1128">解决了在发送未加密的S/MIME邮件时，附件会损坏的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1128">Addressed an issue that caused attachments to become corrupted when sending an S/MIME email unencrypted.</span></span>
+- <span data-ttu-id="75f95-1148">解决了在发送未加密的S/MIME邮件时，附件会损坏的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1148">Addressed an issue that caused attachments to become corrupted when sending an S/MIME email unencrypted.</span></span>
 
-- <span data-ttu-id="c9536-1129">解决了即使发件人授予了另存为权限，收件人也无法保存受权限保护的邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1129">Addressed an issue that cause recipients to be unable to save rights protected messages even when the save as permission was granted by the sender.</span></span>
+- <span data-ttu-id="75f95-1149">解决了即使发件人授予了另存为权限，收件人也无法保存受权限保护的邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1149">Addressed an issue that cause recipients to be unable to save rights protected messages even when the save as permission was granted by the sender.</span></span>
 
-- <span data-ttu-id="c9536-1130">此修复了解决以下问题：如果用户对要回复的邮件没有所有者权限，在检查器窗口中回复受数字权限管理的邮件时，用户无法添加签名。</span><span class="sxs-lookup"><span data-stu-id="c9536-1130">This fix addresses an issue that caused users to be unable to add a signature when replying to a digitally rights managed message from an inspector window when the user did not have Owner permissions on the message being replied to.</span></span>
+- <span data-ttu-id="75f95-1150">此修复了解决以下问题：如果用户对要回复的邮件没有所有者权限，在检查器窗口中回复受数字权限管理的邮件时，用户无法添加签名。</span><span class="sxs-lookup"><span data-stu-id="75f95-1150">This fix addresses an issue that caused users to be unable to add a signature when replying to a digitally rights managed message from an inspector window when the user did not have Owner permissions on the message being replied to.</span></span>
 
-- <span data-ttu-id="c9536-1131">此修复解决了造成 Outlook 无法在标记内容中正确显示换行符的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1131">This fix addresses an issue that was causing Outlook to fail to display line breaks properly in markdown content.</span></span>
+- <span data-ttu-id="75f95-1151">此修复解决了造成 Outlook 无法在标记内容中正确显示换行符的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1151">This fix addresses an issue that was causing Outlook to fail to display line breaks properly in markdown content.</span></span>
 
-- <span data-ttu-id="c9536-1132">解决了导致某些语言中的某些高级搜索选项的标签被截断的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1132">Addressed an issue that caused the labels for some Advanced Search options to be truncated in some languages.</span></span>
+- <span data-ttu-id="75f95-1152">解决了导致某些语言中的某些高级搜索选项的标签被截断的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1152">Addressed an issue that caused the labels for some Advanced Search options to be truncated in some languages.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1133">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1133">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1153">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1153">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-1134">我们修复了径向渐变的图像副本与原始图像不匹配的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1134">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
+- <span data-ttu-id="75f95-1154">我们修复了径向渐变的图像副本与原始图像不匹配的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1154">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
 
-- <span data-ttu-id="c9536-1135">我们修复了不允许访问 Office Store 时 PowerPoint 中的“表单”按钮不允许创建表单的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1135">We fixed an issue where the Forms button in PowerPoint did not allow the creation of Forms when access to Office Store was not permitted.</span></span>
+- <span data-ttu-id="75f95-1155">我们修复了不允许访问 Office Store 时 PowerPoint 中的“表单”按钮不允许创建表单的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1155">We fixed an issue where the Forms button in PowerPoint did not allow the creation of Forms when access to Office Store was not permitted.</span></span>
 
-### <a name="project"></a><span data-ttu-id="c9536-1136">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1136">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1156">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1156">Project</span></span>
 
-- <span data-ttu-id="c9536-1137">修复了“任务板”视图中列出的任务与“分配资源”对话框中的任务不同步的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1137">We fixed an issue where tasks listed in the Task Board view were not in sync with those in the Assign Resources dialog.</span></span>
+- <span data-ttu-id="75f95-1157">修复了“任务板”视图中列出的任务与“分配资源”对话框中的任务不同步的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1157">We fixed an issue where tasks listed in the Task Board view were not in sync with those in the Assign Resources dialog.</span></span>
 
-- <span data-ttu-id="c9536-1138">解决了这样的问题：如果你尝试将 PDF/XPS 从 Project 保存到 Microsoft Office SharePoint 文档库，则不会发生任何操作。</span><span class="sxs-lookup"><span data-stu-id="c9536-1138">We fixed an issue where if you tried to save a PDF/XPS from Project to a SharePoint document library, nothing would happen.</span></span>
+- <span data-ttu-id="75f95-1158">解决了这样的问题：如果你尝试将 PDF/XPS 从 Project 保存到 Microsoft Office SharePoint 文档库，则不会发生任何操作。</span><span class="sxs-lookup"><span data-stu-id="75f95-1158">We fixed an issue where if you tried to save a PDF/XPS from Project to a SharePoint document library, nothing would happen.</span></span>
 
-- <span data-ttu-id="c9536-1139">修复了复制并粘贴具有多个依赖项的任务时，并非所有依赖项都被正确复制的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1139">We fixed an issue where if you copied & pasted a task that had multiple dependencies, not all dependencies were copied correctly.</span></span>
+- <span data-ttu-id="75f95-1159">修复了复制并粘贴具有多个依赖项的任务时，并非所有依赖项都被正确复制的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1159">We fixed an issue where if you copied & pasted a task that had multiple dependencies, not all dependencies were copied correctly.</span></span>
 
-- <span data-ttu-id="c9536-1140">修复了对于 SharePoint 任务列表，第二个选项卡上的功能区按钮可能被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1140">Fixed an issue where for a SharePoint tasks list, the ribbon buttons on the second tab may be disabled.</span></span>
+- <span data-ttu-id="75f95-1160">修复了对于 SharePoint 任务列表，第二个选项卡上的功能区按钮可能被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1160">Fixed an issue where for a SharePoint tasks list, the ribbon buttons on the second tab may be disabled.</span></span>
 
-### <a name="skype"></a><span data-ttu-id="c9536-1141">Skype</span><span class="sxs-lookup"><span data-stu-id="c9536-1141">Skype</span></span>
+### <a name="skype"></a><span data-ttu-id="75f95-1161">Skype</span><span class="sxs-lookup"><span data-stu-id="75f95-1161">Skype</span></span>
 
-- <span data-ttu-id="c9536-1142">已将dancing表情符号肤色改为中性</span><span class="sxs-lookup"><span data-stu-id="c9536-1142">Changed dancing emoticon skin tone to neutral color</span></span>
+- <span data-ttu-id="75f95-1162">已将dancing表情符号肤色改为中性</span><span class="sxs-lookup"><span data-stu-id="75f95-1162">Changed dancing emoticon skin tone to neutral color</span></span>
 
-### <a name="visio"></a><span data-ttu-id="c9536-1143">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-1143">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="75f95-1163">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-1163">Visio</span></span>
 
-- <span data-ttu-id="c9536-1144">此修复后，如果用户在中间通过任何机制（本例是通过加载程序）停止执行删除命令，内存不会泄露，整机不会受到影响。</span><span class="sxs-lookup"><span data-stu-id="c9536-1144">After this fix, if the user halted the execution of delete command by any mechanism in between (in this case it was through add-in) the memory won't leak and the whole machine won't be impacted.</span></span>
+- <span data-ttu-id="75f95-1164">此修复后，如果用户在中间通过任何机制（本例是通过加载程序）停止执行删除命令，内存不会泄露，整机不会受到影响。</span><span class="sxs-lookup"><span data-stu-id="75f95-1164">After this fix, if the user halted the execution of delete command by any mechanism in between (in this case it was through add-in) the memory won't leak and the whole machine won't be impacted.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1145">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1145">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1165">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1165">Word</span></span>
 
-- <span data-ttu-id="c9536-1146">我们修复了以下问题：将某些文本和图像粘贴到 "评论" 框中后，Word 停止响应。</span><span class="sxs-lookup"><span data-stu-id="c9536-1146">We fixed an issue where Word would stop responding after pasting some text and an image in to a comments box.</span></span>
+- <span data-ttu-id="75f95-1166">我们修复了以下问题：将某些文本和图像粘贴到 "评论" 框中后，Word 停止响应。</span><span class="sxs-lookup"><span data-stu-id="75f95-1166">We fixed an issue where Word would stop responding after pasting some text and an image in to a comments box.</span></span>
 
-- <span data-ttu-id="c9536-1147">修复了带有径向渐变的图像副本与原始图像不匹配的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1147">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
+- <span data-ttu-id="75f95-1167">修复了带有径向渐变的图像副本与原始图像不匹配的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1167">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
 
-- <span data-ttu-id="c9536-1148">我们修复了以下问题：如果将应用程序窗口的大小调整为较小尺寸，则“搜索”编辑框中的占位符文本将溢出。</span><span class="sxs-lookup"><span data-stu-id="c9536-1148">We fixed an issue where the placeholder text in the Search edit box would overflow if the application window was resized to a small dimension.</span></span>
+- <span data-ttu-id="75f95-1168">我们修复了以下问题：如果将应用程序窗口的大小调整为较小尺寸，则“搜索”编辑框中的占位符文本将溢出。</span><span class="sxs-lookup"><span data-stu-id="75f95-1168">We fixed an issue where the placeholder text in the Search edit box would overflow if the application window was resized to a small dimension.</span></span>
 
-- <span data-ttu-id="c9536-1149">我们修复了添加注释以跟踪更改时修订窗格会意外打开的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1149">We fixed an issue where if a comment was added to track a change, the revisions pane would unexpectedly open.</span></span>
+- <span data-ttu-id="75f95-1169">我们修复了添加注释以跟踪更改时修订窗格会意外打开的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1169">We fixed an issue where if a comment was added to track a change, the revisions pane would unexpectedly open.</span></span>
 
-- <span data-ttu-id="c9536-1150">修复了当焦点位于批注文本框中时，编辑器命名被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1150">We fixed an issue where the Editor command was disabled when the focus was in a comment text box.</span></span>
+- <span data-ttu-id="75f95-1170">修复了当焦点位于批注文本框中时，编辑器命名被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1170">We fixed an issue where the Editor command was disabled when the focus was in a comment text box.</span></span>
 
-- <span data-ttu-id="c9536-1151">修复了当焦点位于批注文本框中时，显示标记命令被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1151">We fixed an issue where the Show Markup command was disabled when the focus was in a comment text box.</span></span>
+- <span data-ttu-id="75f95-1171">修复了当焦点位于批注文本框中时，显示标记命令被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1171">We fixed an issue where the Show Markup command was disabled when the focus was in a comment text box.</span></span>
 
-- <span data-ttu-id="c9536-1152">修复了删除最后一条评论后，"新评论 "按钮会被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1152">We fixed an issue where the 'New comment' button would be disabled after deleting the last comment.</span></span>
+- <span data-ttu-id="75f95-1172">修复了删除最后一条评论后，"新评论 "按钮会被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1172">We fixed an issue where the 'New comment' button would be disabled after deleting the last comment.</span></span>
 
-- <span data-ttu-id="c9536-1153">修复了禁用“跟踪更改”的“特定人员”选项的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1153">We fixed an issue where the 'Specific People' option for Track Changes was disabled.</span></span>
+- <span data-ttu-id="75f95-1173">修复了禁用“跟踪更改”的“特定人员”选项的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1173">We fixed an issue where the 'Specific People' option for Track Changes was disabled.</span></span>
 
-- <span data-ttu-id="c9536-1154">修复了通过插入->链接下拉菜单，文档的链接无法插入到注释框中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1154">We fixed an issue where links to documents were not being inserted to the comments box via the Insert -> Link dropdown.</span></span>
+- <span data-ttu-id="75f95-1174">修复了通过插入->链接下拉菜单，文档的链接无法插入到注释框中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1174">We fixed an issue where links to documents were not being inserted to the comments box via the Insert -> Link dropdown.</span></span>
 
-- <span data-ttu-id="c9536-1155">修复了打开 HTML 文件时偶尔挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1155">We fixed an occasional hang while opening HTML files.</span></span>
+- <span data-ttu-id="75f95-1175">修复了打开 HTML 文件时偶尔挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1175">We fixed an occasional hang while opening HTML files.</span></span>
 
-- <span data-ttu-id="c9536-1156">修复了打开文档时可能会丢失批注状态的自定义 XML 问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1156">We fixed an issue in custom XML where the state of comments may be lost when opening the document.</span></span>
+- <span data-ttu-id="75f95-1176">修复了打开文档时可能会丢失批注状态的自定义 XML 问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1176">We fixed an issue in custom XML where the state of comments may be lost when opening the document.</span></span>
 
-- <span data-ttu-id="c9536-1157">我们修复了添加包含超链接的图像后，VBA超链接集合中的超链接计数未正确迭代的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1157">We fixed an issue where the hyperlink count in the VBA hyperlinks collection was not iterating correctly after adding an image containing a hyperlink.</span></span>
+- <span data-ttu-id="75f95-1177">我们修复了添加包含超链接的图像后，VBA超链接集合中的超链接计数未正确迭代的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1177">We fixed an issue where the hyperlink count in the VBA hyperlinks collection was not iterating correctly after adding an image containing a hyperlink.</span></span>
 
-- <span data-ttu-id="c9536-1158">对于旧的、非基于网络服务的共享窗格，在共享窗格处于打开时关闭文档可能会导致崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1158">For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash.</span></span> <span data-ttu-id="c9536-1159">此问题已修复。</span><span class="sxs-lookup"><span data-stu-id="c9536-1159">This is now fixed.</span></span>
+- <span data-ttu-id="75f95-1178">对于旧的、非基于网络服务的共享窗格，在共享窗格处于打开时关闭文档可能会导致崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1178">For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash.</span></span> <span data-ttu-id="75f95-1179">此问题已修复。</span><span class="sxs-lookup"><span data-stu-id="75f95-1179">This is now fixed.</span></span>
 
-- <span data-ttu-id="c9536-1160">修复了用户从任务栏打开一个新的应用程序窗口并创建一个新的空白文档后，还会创建其他文件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1160">We fixed an issue where after the user opened a new app window from the taskbar and created a new blank document, additional files were created.</span></span>
+- <span data-ttu-id="75f95-1180">修复了用户从任务栏打开一个新的应用程序窗口并创建一个新的空白文档后，还会创建其他文件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1180">We fixed an issue where after the user opened a new app window from the taskbar and created a new blank document, additional files were created.</span></span>
 
-- <span data-ttu-id="c9536-1161">修复用户正在编辑文档但丢失了权限，则没有通知用户他们必须重新进行身份验证的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1161">We fixed an issue where if a user was editing a document but had lost permissions, we were not notifying the user that they had to re-authenticate.</span></span>
+- <span data-ttu-id="75f95-1181">修复用户正在编辑文档但丢失了权限，则没有通知用户他们必须重新进行身份验证的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1181">We fixed an issue where if a user was editing a document but had lost permissions, we were not notifying the user that they had to re-authenticate.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2007-august-05"></a><span data-ttu-id="c9536-1163">版本 2007：8 月 5 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1163">Version 2007: August 05</span></span>
-<span data-ttu-id="c9536-1164">*版本 2007（内部版本 13029.20344）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1164">*Version 2007 (Build 13029.20344)*</span></span>
+## <a name="version-2007-august-05"></a><span data-ttu-id="75f95-1183">版本 2007：8 月 5 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1183">Version 2007: August 05</span></span>
+<span data-ttu-id="75f95-1184">*版本 2007（内部版本 13029.20344）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1184">*Version 2007 (Build 13029.20344)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
-
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1168">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1168">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1169">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1169">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1170">解决了导致 Outlook 无法检索搜索建议的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1170">Addressed an issue that caused Outlook to fail to retrieve search suggestions.</span></span>
-
-
-- <span data-ttu-id="c9536-1171">解决了导致用户在检索角色信息时偶尔会崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1171">Addressed an issue that caused users to occasionally crash when retrieving persona information.</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="c9536-1172">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1172">Project</span></span>
-
-- <span data-ttu-id="c9536-1173">修复了无法打开已进入错误状态的项目的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1173">Fixed an issue where a project that had gotten into a bad state could not be opened.</span></span>
-
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2007-july-29"></a><span data-ttu-id="c9536-1175">版本 2007：7 月 29 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1175">Version 2007: July 29</span></span>
-<span data-ttu-id="c9536-1176">*版本 2007（内部版本 13029.20308）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1176">*Version 2007 (Build 13029.20308)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1178">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1178">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1179">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1179">Excel</span></span>
-
-- <span data-ttu-id="c9536-1180">**使用数据类型从 Power BI 获取组织数据：** 从 Power BI Excel 数据类型现在推出 Office 365 E5/A5 或 Microsoft 365 E5/A5 的组织中的预览体验成员。</span><span class="sxs-lookup"><span data-stu-id="c9536-1180">**Get Organization Data from Power BI using Data Types:** Excel data types from Power BI are now rolling out to Insiders in organizations with Office 365 E5/A5 or Microsoft 365 E5/A5.</span></span> <span data-ttu-id="c9536-1181">获取所需信息并轻松刷新，这对许多日常工作流至关重要。</span><span class="sxs-lookup"><span data-stu-id="c9536-1181">Getting the information you need and easily refreshing it is critical to many everyday workflows.</span></span> <span data-ttu-id="c9536-1182">我们将为你提供从 Power BI 到 Excel 中的数据类型的公司或组织信息的访问权限，这将扩大你在电子表格中引入链接信息的能力。</span><span class="sxs-lookup"><span data-stu-id="c9536-1182">We’re giving you access to your company or organization information from Power BI as a data type in Excel, which expands your ability to bring in linked information in your spreadsheets.</span></span> [<span data-ttu-id="c9536-1183">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1183">Learn more</span></span>](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br /><span data-ttu-id="c9536-1184">在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-1184">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1185">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1185">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1186">**选择搜索位置：**“新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。</span><span class="sxs-lookup"><span data-stu-id="c9536-1186">**Pick where to search:** The new search scope drop down allows you to more easily modify your search and switch between Current Folder and Current Mailbox.</span></span> <span data-ttu-id="c9536-1187">感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。</span><span class="sxs-lookup"><span data-stu-id="c9536-1187">Thank you to everyone in Coming Soon who provided feedback on the new Search at Top experience.</span></span> <span data-ttu-id="c9536-1188">此项设计和更新正是来自于该反馈！</span><span class="sxs-lookup"><span data-stu-id="c9536-1188">This design and update came out of that feedback!</span></span>
-
-### <a name="word"></a><span data-ttu-id="c9536-1189">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1189">Word</span></span>
-
-- <span data-ttu-id="c9536-1190">**与新式评论更好地协作：** 向对象添加批注、@提及同事并解决批注线程，以便获得更好的协作体验。</span><span class="sxs-lookup"><span data-stu-id="c9536-1190">**Better collaboration with modern comments:** Add comments to objects, @mention colleagues, and resolve comment threads for a better collaboration experience.</span></span> [<span data-ttu-id="c9536-1191">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1191">Learn more</span></span>](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1194">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1194">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1195">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1195">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1196">解决了导致 CLP 用户在将回复的地址从受保护的上下文切换到不受保护的上下文时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1196">Addressed an issue that caused users of CLP to experience a crash when switching the from address on a reply from a protected context to an unprotected one.</span></span>
-
-
-- <span data-ttu-id="c9536-1197">解决了导致日程安排助理页面无法显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1197">Addressed an issue that caused the Scheduling Assistant page to fail to display.</span></span>
-
-
-- <span data-ttu-id="c9536-1198">解决了导致事件通知警报出现格式问题的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1198">Addressed an issue that caused formatting problems in incident notification alerts.</span></span>
-
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2007-july-27"></a><span data-ttu-id="c9536-1200">版本 2007：7 月 27 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1200">Version 2007: July 27</span></span>
-<span data-ttu-id="c9536-1201">*版本 2007（内部版本 13029.20292）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1201">*Version 2007 (Build 13029.20292)*</span></span>
-* <span data-ttu-id="c9536-1202">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1202">Various bugs and performance fixes.</span></span>
-
-## <a name="version-2007-july-20"></a><span data-ttu-id="c9536-1203">版本 2007：7 月 20 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1203">Version 2007: July 20</span></span>
-<span data-ttu-id="c9536-1204">*版本 2007（内部版本 13029.20236）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1204">*Version 2007 (Build 13029.20236)*</span></span>
-* <span data-ttu-id="c9536-1205">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1205">Various bugs and performance fixes.</span></span>
-
-## <a name="version-2007-july-15"></a><span data-ttu-id="c9536-1206">版本 2007：7 月 15 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1206">Version 2007: July 15</span></span>
-<span data-ttu-id="c9536-1207">*版本 2007（内部版本 13029.20200）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1207">*Version 2007 (Build 13029.20200)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1209">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1209">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1210">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1210">Excel</span></span>
-
-- <span data-ttu-id="c9536-1211">**在 Excel 中制作优美的 Visio 图表：** 通过将数据置于工作表上来创建流程图或组织结构图。</span><span class="sxs-lookup"><span data-stu-id="c9536-1211">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet.</span></span> [<span data-ttu-id="c9536-1212">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1212">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1215">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1215">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1216">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1216">Access</span></span>
-
-- <span data-ttu-id="c9536-1217">我们修复了以下问题：如果链接的 SQL 表已刷新，链接表管理器会提示输入主键。</span><span class="sxs-lookup"><span data-stu-id="c9536-1217">We fixed an issue where the linked table manager would prompt a primary key if a linked SQL table was refreshed.</span></span>
-
-- <span data-ttu-id="c9536-1218">我们修复了查询编辑器中的查询滚出了视图之外的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1218">We fixed an issue where queries in the Query Editor scrolled out of view.</span></span>
-
-- <span data-ttu-id="c9536-1219">我们修复了一个问题，即执行查询大约花费两倍于预期完成时间。</span><span class="sxs-lookup"><span data-stu-id="c9536-1219">We fixed an issue where query execution was taking approximately twice as long to complete than expected.</span></span>
-
-- <span data-ttu-id="c9536-1220">我们修复了可能会导致 Microsoft Access 无法识别链接 SQL Server 表中的标识列的问题，该问题可能会导致行错误地被报告为已删除。</span><span class="sxs-lookup"><span data-stu-id="c9536-1220">We fixed an issue that caused Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which could cause rows to be reported as deleted incorrectly.</span></span>
-
-### <a name="excel"></a><span data-ttu-id="c9536-1221">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1221">Excel</span></span>
-
-- <span data-ttu-id="c9536-1222">我们修复了不是基于 http 或 https 的 Url 未显示在最近使用过的列表中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1222">We fixed an issue where URLs that were not http or https based were not being displayed in the Most Recently Used list.</span></span>
-
-- <span data-ttu-id="c9536-1223">修复了在分页预览中加载带有多个工作表的工作簿时可能出现错误或挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1223">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
-
-- <span data-ttu-id="c9536-1224">我们解决了在某些版本的 Excel 中创建的数据模型表格即使与该表相关联的查询尚未编辑亦无法在 "表预览" 中看到的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1224">We fixed an issue where data model tables created in certain versions of Excel could not be seen in 'Table Preview' even though the query associated with the table had not been edited.</span></span>
-
-- <span data-ttu-id="c9536-1225">在 "定义名称\应用名称" 对话框中禁用 "忽略相对/绝对" 引用将导致公式无法工作。</span><span class="sxs-lookup"><span data-stu-id="c9536-1225">Ignore Relative/Absolute' references in the Define Name \ Apply Names dialog would cause formulas to not work.</span></span>
-
-- <span data-ttu-id="c9536-1226">修正了以下问题：保存工作簿到 SharePoint/OneDrive 时，自定义功能区标签的 CustomUI XML 被删除。</span><span class="sxs-lookup"><span data-stu-id="c9536-1226">We fixed an issue where CustomUI XML for a custom ribbon tab was removed when saving a workbook to SharePoint/OneDrive.</span></span>
-
-- <span data-ttu-id="c9536-1227">我们解决了仅建议只读文件时工作簿处于只读状态的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1227">We fixed an issue where workbooks were read-only when the file only had read-only recommended.</span></span>
-
-- <span data-ttu-id="c9536-1228">修复了在分页预览中加载带有多个工作表的工作簿时可能出现错误或挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1228">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
-
-- <span data-ttu-id="c9536-1229">我们修复了雷达图表的主要网格线格式设置错误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1229">We fixed an issue where the major gridlines of radar charts could not be formatted correctly.</span></span>
-
-
-- <span data-ttu-id="c9536-1230">我们已解决了清除高级数据筛选器可能丢失表格格式的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1230">We fixed an issue where clearing an advanced data filter could lose table formatting.</span></span>
-
-
-- <span data-ttu-id="c9536-1231">我们修复了一个问题，即嵌入 PDF 文档的完整路径将显示在文档标题中，而不只是文件名。</span><span class="sxs-lookup"><span data-stu-id="c9536-1231">We fixed an issue where the full path of an embedded PDF document would show in the document caption rather than just the filename.</span></span>
-
-
-- <span data-ttu-id="c9536-1232">我们解决了以下问题：禁用 Wolfram 云连接器，然后保存并重新打开 Excel 工作簿后，可能会导致崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1232">We fixed an issue where after disabling the Wolfram cloud connector and then saving and re-opening an Excel workbook, could result in a crash.</span></span>
-
-
-- <span data-ttu-id="c9536-1233">我们修复了在启用了 "规划求解" 加载项的情况下启动 Excel 时将导致崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1233">We fixed an issue where booting Excel with the Solver add-in enabled would result in a crash.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1234">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1234">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1235">我们解决了如果 "收件人" 行上有超过 130 个收件人，则 Outlook 将挂起的问题，并且还改进了呈现文本的性能。</span><span class="sxs-lookup"><span data-stu-id="c9536-1235">We fixed an issue where Outlook would hang if there were over 130 recipients on the 'To' line and we also improved the performance of rendering the text.</span></span>
-
-
-- <span data-ttu-id="c9536-1236">我们解决了当使用多个不同分辨率的显示器时，IME（输入法编辑器）窗口会重叠通过 IME 输入的底层文本的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1236">We fixed an issue where the Input Method Editor (IME) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
-
-
-- <span data-ttu-id="c9536-1237">我们在 "待办事项栏" 中修复了以下问题：跨越两天以上的事件，所有后续日期显示相同的结束时间。</span><span class="sxs-lookup"><span data-stu-id="c9536-1237">We fixed an issue in the 'To Do Bar' where events that spanned more than two days, displayed the same end time for all subsequent days.</span></span>
-
-
-- <span data-ttu-id="c9536-1238">解决了导致用户看到通过拖放复制到其文件系统的附件的创建日期设置为4501 年 1 月 1 日的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1238">Addresses an issue that caused users to see the creation date of attachments that they copied to their file system via drag and drop getting set to January 1, 4501.</span></span>
-
-
-- <span data-ttu-id="c9536-1239">我们修复了一个问题，即用户无法 "作为" 或 "代表" 通讯组列表发送。</span><span class="sxs-lookup"><span data-stu-id="c9536-1239">We fixed an issue where users were unable to 'Send As' or 'Send on behalf' of a distribution list.</span></span>
-
-
-- <span data-ttu-id="c9536-1240">解决了导致在编辑经理日历上的现有日历约会时，代表收到错误的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1240">Addresses an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
-
-
-- <span data-ttu-id="c9536-1241">我们解决了导致用户在关闭之前保存的约会时看到以下错误的问题： "无法保存该项，因为它已由其他用户或在另一个窗口中进行了更改。</span><span class="sxs-lookup"><span data-stu-id="c9536-1241">We fixed an issue that caused users to see the following error when closing an appointment that was previously saved "The item cannot be saved because it was changed by another user or in another window.</span></span> <span data-ttu-id="c9536-1242">是否要在默认文件夹中为项目制作副本？ "</span><span class="sxs-lookup"><span data-stu-id="c9536-1242">Do you want to make a copy in the default folder for the item?"</span></span>
-
-
-- <span data-ttu-id="c9536-1243">解决了未选中“下载共享”文件夹时导致共享日历会议“响应选项”中缺少“允许转发”选项的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1243">Addresses an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
-
-
-- <span data-ttu-id="c9536-1244">解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1244">Addresses an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
-
-
-- <span data-ttu-id="c9536-1245">我们解决了导致 Outlook 用户在使用共享日历后其邮件列表在几分钟内停止更新的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1245">We fixed an issue that caused users of Outlook to see their message list stop updating for several minutes after using shared calendars.</span></span>
-
-
-- <span data-ttu-id="c9536-1246">我们解决了导致日历提醒无法显示在不到一周内举行的会议的确切时间的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1246">We fixed an issue that prevented calendar reminders from showing exact times for meetings coming up in less than a week.</span></span> 
-
-
-- <span data-ttu-id="c9536-1247">我们修复了在邮件中插入图像，然后将邮件另存为草稿将导致图像的大小调整的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1247">We fixed an issue where inserting an image inline in a message, then saving the message as a draft would result in a resizing of the image.</span></span>
-
-
-- <span data-ttu-id="c9536-1248">我们解决了在编辑主题后导致 NDR 邮件的正文从 Unicode 更改为 ASCII 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1248">We fixed an issue that caused the body of an NDR message to change from Unicode to ASCII after editing the subject.</span></span>
-
-
-- <span data-ttu-id="c9536-1249">我们解决了以下问题：迷你日历中的日期无法以粗体为日本用户显示。</span><span class="sxs-lookup"><span data-stu-id="c9536-1249">We fixed an issue where dates in the mini calendar failed to display in bold for users in Japan.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1250">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1250">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1251">我们修复了一个问题，即在实时共同创作会话过程中，用户的状态彩色指示器未在共同创作库中刷新。</span><span class="sxs-lookup"><span data-stu-id="c9536-1251">We fixed an issue where a user's presence color indicator was not getting refreshed in the co-authoring gallery during a live co-authoring session.</span></span>
-
-
-- <span data-ttu-id="c9536-1252">我们解决了将 HTML 粘贴到幻灯片上的文本区域改为将其粘贴到幻灯片顶部创建的文本框中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1252">We fixed an issue where pasting HTML to a text area on a slide would instead get pasted into a text box created at the top of the slide.</span></span>
-
-
-- <span data-ttu-id="c9536-1253">我们解决了以下问题：选择 "演示者" 视图中的所有幻灯片，然后使用 Alt + Tab 退出 "演示者视图" 并返回幻灯片放映，再单击 "结束放映" 将导致未经处理的异常。</span><span class="sxs-lookup"><span data-stu-id="c9536-1253">We fixed an issue where selecting all slides in Presenter View, then exiting Presenter View using Alt+Tab and returning to the slide show and clicking 'End Show' would result in an unhandled exception.</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="c9536-1254">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1254">Project</span></span>
-
-- <span data-ttu-id="c9536-1255">修正了无法将PDF/XPS从项目保存到 SharePoint 文档库的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1255">Fixed an issue where you couldn't save a PDF/XPS from Project to a SharePoint document library.</span></span>
-
-
-- <span data-ttu-id="c9536-1256">修复了以下问题：如果 URL 以 ".com" 结尾，则无法在 Project 桌面端 Project Web App 中打开项目。</span><span class="sxs-lookup"><span data-stu-id="c9536-1256">Fixed an issue where projects couldn't be opened in the Project desktop client from Project Web App if the URL ended in .com.</span></span>
-
-
-- <span data-ttu-id="c9536-1257">我们修复了打开某些 XML 文件时，Project 可能发生崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1257">We fixed an issue where Project may crash when opening certain XML files.</span></span>
-
-
-- <span data-ttu-id="c9536-1258">我们修复了以下问题：如果 URL 以 ".com" 结尾，则无法在 Project 桌面端 Project Web App 中打开项目。</span><span class="sxs-lookup"><span data-stu-id="c9536-1258">We fixed an issue where projects couldn't be opened in the Project desktop client from the Project Web App if the URL ended in '.com'.</span></span>
-
-
-- <span data-ttu-id="c9536-1259">修复了如果粘贴具有多个依赖项的任务，并不能正确复制所有依赖项的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1259">Fixed an issue where if you paste a task that has multiple dependencies, not all dependencies are copied correctly.</span></span>
-
-
-- <span data-ttu-id="c9536-1260">修复了以下问题：分配资源对话框中，选择的任务与任务板视图中选择的任务不一样。</span><span class="sxs-lookup"><span data-stu-id="c9536-1260">Fixed an issue where the task selected in the assign resources dialog isn't the same as the task selected in the task board view.</span></span>
-
-
-- <span data-ttu-id="c9536-1261">修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange 事件没有触发的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1261">We fixed an issue where the ProjectBeforeTaskChange event didn't fire when there was a change to the project summary task, either the project start/task field.</span></span>
-
-
-- <span data-ttu-id="c9536-1262">我们解决了以下问题：如果固定工期任务已完成 100% 但未指定实际完成日期，则任务完成百分比将显示为小于 100%。</span><span class="sxs-lookup"><span data-stu-id="c9536-1262">We fixed an issue where if Fixed Duration tasks are at 100% complete but the Actual Finish is not specified, the Task % Complete would display as less than 100%.</span></span>
-
-- <span data-ttu-id="c9536-1263">我们修复了一个问题，即，比较基准重置或更新可能会更改时间分段预算成本/工时资源，并且比较基准可以反映错误的预算值。</span><span class="sxs-lookup"><span data-stu-id="c9536-1263">We fixed an issue where a baseline reset or update could change time-phased budget cost/work resources and the baseline could reflect incorrect budget values.</span></span>
-
-
-- <span data-ttu-id="c9536-1264">我们修复了政府社区云环境中的 Project Planner 链接已被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1264">We fixed an issue where Project Planner links in Government Community Cloud environments had been disabled.</span></span>
-
-
-- <span data-ttu-id="c9536-1265">我们解决了以下问题：如果库处于新式模式，则无法从 SharePoint 文档库中打开项目文件。</span><span class="sxs-lookup"><span data-stu-id="c9536-1265">We fixed an issue where you couldn't open a Project file from a SharePoint document library if the library was in modern mode.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="c9536-1266">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1266">Word</span></span>
-
-- <span data-ttu-id="c9536-1267">我们解决了以下问题：通过 Office 功能区中的 "清除格式" 按钮，可在 "评论" 窗格中清除格式设置不起作用。</span><span class="sxs-lookup"><span data-stu-id="c9536-1267">We fixed an issue where the ability to clear formatting within the Comments pane via the Clear Formatting button in the Office Ribbon was not working.</span></span>
-
-
-- <span data-ttu-id="c9536-1268">我们修复了以下问题：将插入到可伸缩矢量图形（SVG）中的文本插入到 Word、Excel 或 PowerPoint 文件中后，在保存和关闭文件，然后重新打开该文件时，它将无法辨认。</span><span class="sxs-lookup"><span data-stu-id="c9536-1268">We fixed an issue where text inserted in a Scalable Vector Graphic (SVG) was illegible after inserting it in a Word, Excel, or PowerPoint file, saving and closing the file, and then re-opening the file.</span></span>
-
-
-- <span data-ttu-id="c9536-1269">我们修复了以下问题：当标尺未显示时，更改表格的大小会导致后台运行的其他应用程序开始闪烁。</span><span class="sxs-lookup"><span data-stu-id="c9536-1269">We fixed an issue where changing the size of a table when the ruler is not displayed caused other applications running in the background to start flashing.</span></span>
-
-
-- <span data-ttu-id="c9536-1270">我们解决了共同创作模式中，评论答复有时不会显示在 "评论" 窗格中，而是在 "修订" 窗格中可见的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1270">We fixed an issue where in co-authoring mode, comment replies would sometimes not show up in the comments pane but would be visible in the revisions pane.</span></span>
-
-
-- <span data-ttu-id="c9536-1271">在共同创作模式中修复了一个问题，出现合并冲突且用户已选择放弃更改后，我们不再显示保存或放弃更改的选项。</span><span class="sxs-lookup"><span data-stu-id="c9536-1271">We fixed an issue during co-authoring mode when there is a merge conflict and the user has already chosen to discard changes, we no longer display the option to save or discard changes.</span></span>
-
-
-- <span data-ttu-id="c9536-1272">我们修复了未正确呈现 HTML 超链接颜色的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1272">We fixed an issue where the HTML hyperlink color was not being rendered correctly.</span></span>
-
-
-- <span data-ttu-id="c9536-1273">我们修复了一个问题，即如果 Word 包含 50 个以上经常打开的文档的列表，则保存并打开文档后，将显示修订历史记录，即使没有对该文档进行任何修订。</span><span class="sxs-lookup"><span data-stu-id="c9536-1273">We fixed an issue where if Word had a list of more than 50 frequently opened documents, then after saving and opening a document, a revision history would be displayed even though no revisions were made to that document.</span></span>
-
-
-- <span data-ttu-id="c9536-1274">修复了在共同创作期间自动保存方面的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1274">We fixed in issue with autosave during coauthoring.</span></span>
-
-
-- <span data-ttu-id="c9536-1275">我们修复了以下问题：尝试将包含宏的文件保存在新名称下时，无论用户输入何种内容，都将用 .docx 扩展名和文件名 WRO0004.docx 保存该文件，从而使文档显示为不可用。</span><span class="sxs-lookup"><span data-stu-id="c9536-1275">We fixed an issue that, when attempting to save a file containing a macro under a new name, would cause it to be saved with a .docx extension and the filename 'WRO0004.docx', regardless of what the user entered, rendering the document unusable.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="c9536-1276">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1276">Office Suite</span></span>
-
-- <span data-ttu-id="c9536-1277">在关闭office文件时，计时问题可能会导致故障</span><span class="sxs-lookup"><span data-stu-id="c9536-1277">A timing issue could cause a crash when closing office files</span></span>
-
-- <span data-ttu-id="c9536-1278">解决此问题的方法是确保服务会正确计算添加的产品。</span><span class="sxs-lookup"><span data-stu-id="c9536-1278">The fix for this issue was to ensure the service properly computed added products.</span></span> <span data-ttu-id="c9536-1279">我们筛选掉了新添加的产品（确保这些产品同时存在于新配置中），并将其添加到现有产品发布 ID 的末尾。</span><span class="sxs-lookup"><span data-stu-id="c9536-1279">We filtered out the newly added products (ensuring that they exist in the new configuration as well) and added them to the end of existing Product release IDs.</span></span>
-
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2006-july-09"></a><span data-ttu-id="c9536-1281">版本 2006：7 月 9 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1281">Version 2006: July 09</span></span>
-<span data-ttu-id="c9536-1282">*版本 2006（内部版本 13001.20384）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1282">*Version 2006 (Build 13001.20384)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1284">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1284">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1285">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1285">Excel</span></span>
-
-- <span data-ttu-id="c9536-1286">**建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。</span><span class="sxs-lookup"><span data-stu-id="c9536-1286">**Make a PDF connection:** Connect to, import, refresh data from a PDF.</span></span> [<span data-ttu-id="c9536-1287">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1287">Learn more</span></span>](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
-
-- <span data-ttu-id="c9536-1288">**创建用于公式的变量：** 通过 LET 函数改进性能、可读性和可组合性。</span><span class="sxs-lookup"><span data-stu-id="c9536-1288">**Create variables to use in formulas:** Improve performance, readability, and composability with the LET function.</span></span> <span data-ttu-id="c9536-1289">此功能允许你在新的或预先存在的公式中创建已命名的变量。</span><span class="sxs-lookup"><span data-stu-id="c9536-1289">This function allows you to create named variables in new or pre-existing formulas.</span></span> [<span data-ttu-id="c9536-1290">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1290">Learn more</span></span>](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br /><span data-ttu-id="c9536-1291">在[博客文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-1291">See details in [blog post](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)</span></span>
-
-- <span data-ttu-id="c9536-1292">**Excel 中的键盘快捷方式：** 已更新Excel的键盘快捷键</span><span class="sxs-lookup"><span data-stu-id="c9536-1292">**Keyboard shortcuts in Excel:** Updated keyboard shortcuts for Excel</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1293">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1293">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1294">**在 Outlook 中使用快速投票创建投票：** 轻松创建投票、收集选票和在电子邮件中查看结果 [了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span><span class="sxs-lookup"><span data-stu-id="c9536-1294">**Create polls in Outlook with Quick Poll:** Easily create a poll, collect votes, and view results within an email [Learn more](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span></span>
-
-- <span data-ttu-id="c9536-1295">**将图片作为电子邮件一部分发送时，保持图片的高度机密性：** 将图片作为电子邮件内容的一部分发送时，可以使用新的 Outlook 设置限制图片压缩</span><span class="sxs-lookup"><span data-stu-id="c9536-1295">**Keep your pictures high fidelity when sending them as part of an email:** A new Outlook setting is available to limit picture compression when you send pictures as part of the email contents</span></span>
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1298">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1298">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1299">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1299">Access</span></span>
-
-- <span data-ttu-id="c9536-1300">这个问题已得到解决，你应该能够成功地将包含标识（例如自动编号）字段的链接SQL表插入到Access中。</span><span class="sxs-lookup"><span data-stu-id="c9536-1300">This issue is resolved, and you should expect to be able to successfully insert linked SQL tables that include an identity (e.g. autonumber) field into Access.</span></span>
-
-### <a name="excel"></a><span data-ttu-id="c9536-1301">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1301">Excel</span></span>
-
-- <span data-ttu-id="c9536-1302">修复了当你已从帐户注销时尝试创建数据连接时可能发生的故障。</span><span class="sxs-lookup"><span data-stu-id="c9536-1302">Fixed a crash that could happen when trying to create a data connection if you have signed out from your account.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1303">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1303">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1304">解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1304">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="c9536-1305">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1305">Office Suite</span></span>
-
-- <span data-ttu-id="c9536-1306">我们对新的 AppV51 进行了备份，以修复之前 AppV51 中的回归问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1306">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
-
-- <span data-ttu-id="c9536-1307">当注册表 TabProcGrowth 值为 REG_SZ 类型并且值为 "0"的注册表，激活加载项时，Windows 上的 Office 主机会故障。</span><span class="sxs-lookup"><span data-stu-id="c9536-1307">he office host was crashing in windows, when an add-in is being activated while the registry TabProcGrowth value is REG_SZ type and with value "0".</span></span>  <span data-ttu-id="c9536-1308">注册表 TabProcGrowth 值可以是以下4条路径中的任意一种：HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main 此更改可解决以上问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1308">That registry TabProcGrowth value can be under any one of 4 paths: HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main This change would fix this issue.</span></span>
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2006-june-25"></a><span data-ttu-id="c9536-1310">版本 2006：6 月 25 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1310">Version 2006: June 25</span></span>
-<span data-ttu-id="c9536-1311">*版本 2006（内部版本 13001.20266）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1311">*Version 2006 (Build 13001.20266)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1313">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1313">Feature updates</span></span>
-### <a name="visio"></a><span data-ttu-id="c9536-1314">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-1314">Visio</span></span>
-
-- <span data-ttu-id="c9536-1315">**在 Excel 中制作优美的 Visio 图表：** 根据工作表中的数据创建流程图或组织结构图。</span><span class="sxs-lookup"><span data-stu-id="c9536-1315">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart based on data in a worksheet.</span></span>
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1318">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1318">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1319">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1319">Access</span></span>
-
-- <span data-ttu-id="c9536-1320">此问题现在得以解决了。</span><span class="sxs-lookup"><span data-stu-id="c9536-1320">This problem is now resolved.</span></span> <span data-ttu-id="c9536-1321">如果您在这个过程中遇到更多问题，请让团队知道。</span><span class="sxs-lookup"><span data-stu-id="c9536-1321">Please let the team know if you experience more issues with this process.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1322">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1322">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1323"><span style="display:inline !important;">解决了导致用户看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">创建日期&nbsp; 通过拖放将其复制到文件系统的附件&nbsp; 设置为4501年1月1日</span>的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1323"><span style="display:inline !important;">Addresses an issue that caused users to see<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">the creation date of&nbsp; attachments that they copied to their file system via drag and drop getting&nbsp; set to January 1, 4501.</span></span></span><br>
-
-
-- <span data-ttu-id="c9536-1324"><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解决了导致共享日历改进用户看到日历故障的问题。</span></span><span class="sxs-lookup"><span data-stu-id="c9536-1324"><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Addresses an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span></span><br>
-
-
-- <span data-ttu-id="c9536-1325"><span style="display:inline !important;">解决了导致用户看到 Outlook 不断提示他们运行收件箱修复工具的问题。</span></span><span class="sxs-lookup"><span data-stu-id="c9536-1325"><span style="display:inline !important;">Addresses an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span></span><br>
-
-
-- <span data-ttu-id="c9536-1326"><span style="display:inline !important;">解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。</span></span><span class="sxs-lookup"><span data-stu-id="c9536-1326"><span style="display:inline !important;">Addresses an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span></span><br>
-
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2006-june-18"></a><span data-ttu-id="c9536-1328">版本 2006：6 月 18 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1328">Version 2006: June 18</span></span>
-<span data-ttu-id="c9536-1329">*版本 2006（内部版本 13001.20198）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1329">*Version 2006 (Build 13001.20198)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1331">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1331">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1332">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1332">Excel</span></span>
-
-
-
-- <span data-ttu-id="c9536-1333">**保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。</span><span class="sxs-lookup"><span data-stu-id="c9536-1333">**Save to Pinned Folders:** Pin your folders makes saving Office files easier We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="c9536-1334">我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。</span><span class="sxs-lookup"><span data-stu-id="c9536-1334">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="c9536-1335">这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。</span><span class="sxs-lookup"><span data-stu-id="c9536-1335">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> <br /><span data-ttu-id="c9536-1336">在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-1336">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1337">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1337">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1338">**保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。</span><span class="sxs-lookup"><span data-stu-id="c9536-1338">**Save to Pinned Folders:** Pin your folders makes saving Office files easier We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="c9536-1339">我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。</span><span class="sxs-lookup"><span data-stu-id="c9536-1339">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="c9536-1340">这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。</span><span class="sxs-lookup"><span data-stu-id="c9536-1340">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span><br /><span data-ttu-id="c9536-1341">在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-1341">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
-
-### <a name="word"></a><span data-ttu-id="c9536-1342">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1342">Word</span></span>
-
-- <span data-ttu-id="c9536-1343">**保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。</span><span class="sxs-lookup"><span data-stu-id="c9536-1343">**Save to Pinned Folders:** Pin your folders makes saving Office files easierWe received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="c9536-1344">我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。</span><span class="sxs-lookup"><span data-stu-id="c9536-1344">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="c9536-1345">这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。</span><span class="sxs-lookup"><span data-stu-id="c9536-1345">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> <br /><span data-ttu-id="c9536-1346">在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-1346">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1349">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1349">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1350">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1350">Excel</span></span>
-
-- <span data-ttu-id="c9536-1351">修正了以下问题：保存到 SharePoint / OneDrive 时，自定义功能区标签的CustomUI XML被删除。</span><span class="sxs-lookup"><span data-stu-id="c9536-1351">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1352">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1352">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1353">解决了启用云设置时导致Ctrl+click停止工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1353">Addressed an issue that caused Ctrl+click to stop working when cloud settings were enabled.</span></span>
-
-### <a name="project"></a><span data-ttu-id="c9536-1354">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1354">Project</span></span>
-
-- <span data-ttu-id="c9536-1355">修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1355">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
-
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2006-june-11"></a><span data-ttu-id="c9536-1357">版本 2006：6 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1357">Version 2006: June 11</span></span>
-<span data-ttu-id="c9536-1358">*版本 2006（内部版本 13001.20144）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1358">*Version 2006 (Build 13001.20144)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1360">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1360">Feature updates</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1361">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1361">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1362">**改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。</span><span class="sxs-lookup"><span data-stu-id="c9536-1362">**Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience.</span></span> <span data-ttu-id="c9536-1363">使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。</span><span class="sxs-lookup"><span data-stu-id="c9536-1363">Use your corporate videos from Microsoft Stream to create better presentations.</span></span>
-
-### <a name="word"></a><span data-ttu-id="c9536-1364">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1364">Word</span></span>
-
-- <span data-ttu-id="c9536-1365">**在矢量中保留文本：** 现在，在 Excel、Word 和 PowerPoint 中转换这些对象时，可以在地图、图表和其他SVG矢量中保留文本。</span><span class="sxs-lookup"><span data-stu-id="c9536-1365">**Retain text in vectors:** Now you can retain the text in maps, charts, and other SVG vectors when converting these objects in Excel, Word, and PowerPoint.</span></span>
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1368">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1368">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1369">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1369">Excel</span></span>
-
-- <span data-ttu-id="c9536-1370">我们解决了使用 OneDrive 时，Excel 偶尔关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1370">We fixed an issue where Excel would occasionally shut down when engaging OneDrive.</span></span>
-
-- <span data-ttu-id="c9536-1371">我们修复了图表轴上的自定义值不能被正确应用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1371">We fixed an issue where custom values on the chart axis would not get applied correctly.</span></span>
-
-- <span data-ttu-id="c9536-1372">我们修复了包含多个已定义名称的公式的工作表在保存文件时导致时间延长的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1372">We fixed an issue where worksheets containing multiple formulas with defined names was resulting in longer times when saving files.</span></span>
-
-- <span data-ttu-id="c9536-1373">我们解决了导致打印机名称在可用打印机列表中重复的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1373">We fixed an issue that caused printer names to be duplicated in the list of available printers.</span></span>
-
-- <span data-ttu-id="c9536-1374">我们解决了在用户删除合并的列时导致性能时间增加的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1374">We fixed an issue that resulted in improved performance time for users when they deleted merged columns.</span></span>
-
-- <span data-ttu-id="c9536-1375">我们解决以下问题：由于加载程序是按字母顺序加载的，而不是按用户指定的顺序加载，因此会出现“此工作簿目前由另一个工作簿引用，无法关闭”的错误信息。</span><span class="sxs-lookup"><span data-stu-id="c9536-1375">We fixed an issue where the error message “This workbook is currently referenced by another and cannot be closed” would appear because add-ins were being loaded in alphabetical order rather than in a user specified order.</span></span>
-
-- <span data-ttu-id="c9536-1376">我们修正了 Excel 和某些第三方辅助技术应用程序之间管理字体时内存损坏的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1376">We fixed an issue where memory was being corrupted when managing fonts between Excel and some third party assistive technology applications.</span></span>
-
-- <span data-ttu-id="c9536-1377">我们解决了在同一工作簿中单击带有书签的超链接会导致工作簿隐藏的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1377">We fixed an issue where clicking a bookmarked hyperlink within the same workbook would cause the workbook to be hidden.</span></span>
-
-- <span data-ttu-id="c9536-1378">我们解决了某些复制粘贴图表链接使用映射驱动器地址而不是通用地址的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1378">We fixed an issue where some copy and pasted chart links used mapped drive addresses rather than universal addresses.</span></span>
-
-- <span data-ttu-id="c9536-1379">我们解决了在团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后 Excel 会无法响应的的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1379">We fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window was shared through Teams.</span></span>
-
-- <span data-ttu-id="c9536-1380">我们解决了当加载项要求工作表上包含带有noSelect锁的形状的主机项目时，Excel 会故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1380">We fixed an issue where Excel would crash when Add-ins ask for Host Items on worksheets that contain shapes with noSelect locks.</span></span>
-
-- <span data-ttu-id="c9536-1381">解决了在试图将数据透视表插入图表工作表时 Excel 可能故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1381">Addressed an issue where Excel may crash when attempting to insert PivotTables into a chart sheet.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1382">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1382">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1383">我们解决了当使用多个不同分辨率的显示器时，IME（输入法编辑器）窗口会重叠通过IME输入的底层文本的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1383">We fixed an issue where the IME (Input Method Editor) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
-
-- <span data-ttu-id="c9536-1384">我们解决了在查看模板时编写新的电子邮件消息将导致故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1384">We fixed an issue where viewing a template when composing a new email message would result in a crash.</span></span>
-
-- <span data-ttu-id="c9536-1385">我们修复了使用 Outlook version 1911之后，用户无法获取Exchange 2010公用文件夹的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1385">We fixed an issue where users were unable to Exchange 2010 public folders after Outlook version 1911.</span></span>
-
-- <span data-ttu-id="c9536-1386">我们修复了 Office 功能区中组日历的“分类”按钮被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1386">We fixed an issue where the Categorize button for group calendars in the Office Ribbon was disabled.</span></span>
-
-- <span data-ttu-id="c9536-1387">解决了针对 Outlook 未能向使用M365 Business Plus计划的付费用户启用数据丢失保护策略提示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1387">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
-
-- <span data-ttu-id="c9536-1388">解决了导致 Outlook 在某些 Windows 内部版本上故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1388">Addressed an issue that caused Outlook to crash on some Windows builds.</span></span>
-
-- <span data-ttu-id="c9536-1389">我们解决了用户无法与访客用户共享日历的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1389">We fixed an issue where users were unable to share a calendar with a guest user.</span></span>
-
-- <span data-ttu-id="c9536-1390">我们解决了用户将跨越午夜阈值的日历项视为全天事件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1390">We fixed an issue where users saw calendar items that spanned the midnight threshold as All day events.</span></span>
-
-- <span data-ttu-id="c9536-1391">我们解决了导致用户在高DPI监视器上丢失文件夹中的联机存档下拉列表的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1391">We fixed an issue that resulted in the Online Archive dropdown in folder properties to be missing for users on high DPI monitors.</span></span>
-
-- <span data-ttu-id="c9536-1392">我们解决了以下问题：当用户在文件夹之间移动项目时，BeforeItemMove 事件未正确触发。</span><span class="sxs-lookup"><span data-stu-id="c9536-1392">We fixed an issue where the Folder.BeforeItemMove event didn't fire correctly when a user moved items between folders.</span></span>
-
-- <span data-ttu-id="c9536-1393">我们解决了当两个插件在功能区的同一组中添加按钮时，Outlook 会故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1393">We fixed an issue where Outlook crashed when two add-ins added a button to the same group in the ribbon.</span></span>
-
-- <span data-ttu-id="c9536-1394">我们解决了用户在处理纯文本邮件中的超链接时 Outlook 会故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1394">We fixed an issue that caused users to experience a crash in Outlook when working with hyperlinks in Plain Text emails.</span></span>
-
-- <span data-ttu-id="c9536-1395">我们解决了导致 Outlook 无法解析用RFC2231编码的长文件名的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1395">We fixed an issue that caused Outlook to be unable to parse long file names encoded with RFC2231.</span></span>
-
-- <span data-ttu-id="c9536-1396">我们解决了导致 Outlook 用户在使用屏幕阅读器时出现间歇性挂机的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1396">We fixed an issue that was causing Outlook users to experience intermittent hangs when using screen readers.</span></span>
-
-- <span data-ttu-id="c9536-1397">我们解决了导致冲突联系人的用户在 Outlook 中遇到故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1397">We fixed an issue that would cause users with conflicting contacts to experience crashes in Outlook.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1398">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1398">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1399">我们解决了使用基于表单的身份验证打开服务器配置文件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1399">We fixed an issue with opening server-configured files with forms-based authentication.</span></span>
-
-- <span data-ttu-id="c9536-1400">我们解决了保存文件时，PowerPoint 文件与嵌入图表/工作簿可能导致故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1400">We fixed an issue where PowerPoint files with embedded charts / workbooks could result in failures when saving the file.</span></span>
-
-- <span data-ttu-id="c9536-1401">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1401">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
-
-- <span data-ttu-id="c9536-1402">我们解决了使用鼠标滚轮缩放后幻灯片不能居中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1402">We fixed an issue where slides were not centered after zooming using the mouse wheel.</span></span>
-
-- <span data-ttu-id="c9536-1403">我们解决了使用瑞士英语 (QWERTZ) 键盘时键盘快捷方式和拼写检查无法正常工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1403">We fixed an issue where keyboard shortcuts and spell check wouldn’t function as expected when using an English Switzerland (QWERTZ) keyboard.</span></span>
-
-- <span data-ttu-id="c9536-1404">我们解决了用户关闭的评论窗格会自动重新打开的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1404">We fixed an issue where a Comment pane that had been closed by the user would re-open automatically.</span></span>
-
-- <span data-ttu-id="c9536-1405">我们解决了一张幻灯片编辑器与另一张幻灯片重叠的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1405">We fixed an issue where the slide editor from one slide would overlap on to the next slide.</span></span>
-
-### <a name="project"></a><span data-ttu-id="c9536-1406">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1406">Project</span></span>
-
-- <span data-ttu-id="c9536-1407">修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange事件没有触发的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1407">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
-
-- <span data-ttu-id="c9536-1408">修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1408">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
-
-- <span data-ttu-id="c9536-1409">我们修正了Project在点击Options后会故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1409">We fixed an issue where Project would crash after clicking on Options.</span></span>
-
-- <span data-ttu-id="c9536-1410">我们修复了在父计划被删除后，孤立任务不能被删除或重新分配的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1410">We fixed an issue that prevented orphaned tasks from being deleted or re-assigned after their parent plan was deleted.</span></span>
-
-### <a name="visio"></a><span data-ttu-id="c9536-1411">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-1411">Visio</span></span>
-
-- <span data-ttu-id="c9536-1412">依赖代码中的回归已经被修复。</span><span class="sxs-lookup"><span data-stu-id="c9536-1412">There was regression in dependent code which has been fixed.</span></span> <span data-ttu-id="c9536-1413">现在，图像在运行在 SharePoint Onprem 上的 Visio 服务中呈现。</span><span class="sxs-lookup"><span data-stu-id="c9536-1413">Now, the images are getting rendered in Visio services running on SharePoint Onprem.</span></span>
-
-### <a name="word"></a><span data-ttu-id="c9536-1414">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1414">Word</span></span>
-
-- <span data-ttu-id="c9536-1415">我们修复了注释窗格中的时间戳不基于系统地区时间的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1415">We fixed an issue where timestamps in Comment panes were not based on the system locale time.</span></span>
-
-- <span data-ttu-id="c9536-1416">解决了当URL包含查询组件时从自定义文档传递(aspx)打开Word文档的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1416">Resolved an issue opening Word documents from custom document delivery (aspx) when the URL contains a query component.</span></span>
-
-- <span data-ttu-id="c9536-1417">我们修正了将文本复制粘贴到注释窗格中不会显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1417">We fixed an issue where copy and pasting text to a comment pane would not be displayed.</span></span>
-
-- <span data-ttu-id="c9536-1418">我们修正了超链接在评论中不起作用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1418">We fixed an issue where hyperlinks in comments weren’t working.</span></span>
-
-- <span data-ttu-id="c9536-1419">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1419">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
-
-- <span data-ttu-id="c9536-1420">我们修复了web应用程序和桌面应用程序之间的评论不同步的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1420">We fixed an issue where comments between the web app and the desktop application were not in sync.</span></span>
-
-- <span data-ttu-id="c9536-1421">我们修正了批注提示气泡在100%缩放时出现模糊的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1421">We fixed an issue where comment hint bubbles appeared blurry at 100% zoom.</span></span>
-
-- <span data-ttu-id="c9536-1422">我们解决了向空白文档添加新批注不会执行任何操作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1422">We fixed an issue where adding a new comment on a blank document wouldn't do anything.</span></span>
-
-- <span data-ttu-id="c9536-1423">我们修复了粘贴HTML到WordMail的日历无法正常工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1423">We fixed an issue where pasting HTML into WordMail for Calendar wasn’t working.</span></span>
-
-- <span data-ttu-id="c9536-1424">我们修正了在一个共同编写的会话中回复评论时，有时会导致Word冻结的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1424">We fixed an issue where replying to a comment in a co-authored session could sometimes cause Word to freeze.</span></span>
-
-- <span data-ttu-id="c9536-1425">我们解决了以下问题：在包含 100 个以上条目的文档中插入或更新索引将导致应用程序崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1425">We fixed an issue where inserting or updating an Index in a document containing more than a hundred entries would result in the application crashing.</span></span>
-
-- <span data-ttu-id="c9536-1426">我们修复了启用策略Word 2007和以后的二进制文档和模板会导致一些合作创作失败的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1426">We fixed an issue where enabling policy Word 2007 and later Binary Documents and Templates would cause some co-authoring cases to fail.</span></span>
-
-- <span data-ttu-id="c9536-1427">我们解决了带有自定义 xml 值的文件打开速度非常慢的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1427">We fixed an issue where files with custom xml values opened extremely slowly.</span></span>
-
-- <span data-ttu-id="c9536-1428">我们修复了长路径名(大于32K)的文件无法打开，并且没有显示适当的错误消息的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1428">We fixed an issue where files with long path names (greater than 32K) would not open and an appropriate error message was not being displayed.</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="c9536-1429">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1429">Office Suite</span></span>
-
-- <span data-ttu-id="c9536-1430">我们已调查并解决了操作系统关闭后，通过 InTune 执行 Office 365 企业应用版部署暂停的问题。 </span><span class="sxs-lookup"><span data-stu-id="c9536-1430">We have investigated and resolved the issue where an Office 365 ProPlus deployment via InTune is paused after an OS shutdown.</span></span>
-
-- <span data-ttu-id="c9536-1431">修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。</span><span class="sxs-lookup"><span data-stu-id="c9536-1431">We fixed an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
-
-- <span data-ttu-id="c9536-1432">此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-1432">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2005-june-08"></a><span data-ttu-id="c9536-1434">版本 2005：6 月 08 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1434">Version 2005: June 08</span></span>
-<span data-ttu-id="c9536-1435">*版本 2005（内部版本 12827.20336）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1435">*Version 2005 (Build 12827.20336)*</span></span>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1437">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1437">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1438">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1438">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1439">我们已修复了替换字体对话框的一个问题：替换字体下拉列表只显示演示文稿中的字体，而不是系统上安装的字体。</span><span class="sxs-lookup"><span data-stu-id="c9536-1439">We have fixed an issue with replace fonts dialog where replace font dropdown only shows fonts within the presentation instead of fonts installed on the system.</span></span>
-
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2005-june-04"></a><span data-ttu-id="c9536-1441">版本 2005：6 月 4 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1441">Version 2005: June 04</span></span>
-<span data-ttu-id="c9536-1442">*版本 2005（内部版本 12827.20320）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1442">*Version 2005 (Build 12827.20320)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1444">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1444">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1445">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1445">Access</span></span>
-
-- <span data-ttu-id="c9536-1446">**跟上时代!日期/时间扩展数据类型具有更好的精度 。:** 引入新的改进的数据类型。</span><span class="sxs-lookup"><span data-stu-id="c9536-1446">**Keep up with the times! The Date/Time Extended data type has better precision.:** Introducing a new and improved data type.</span></span>  <span data-ttu-id="c9536-1447">为了增强与SQL的语法兼容性，并提高包含日期和时间的记录的准确性和详细程度，我们将DateTime2数据类型实现到Access中。</span><span class="sxs-lookup"><span data-stu-id="c9536-1447">To enhance syntax compatibility with SQL, and to increase accuracy and level of detail in records that include dates and times, we’re implementing the DateTime2 data type into Access.</span></span> <span data-ttu-id="c9536-1448">这个额外的日期和时间数据类型将包括更大的日期范围(0001-01-01通过 9999-12-31)，具有更高的指定时间精度(使用纳秒，而不是秒)，你将能够提供和执行计算。</span><span class="sxs-lookup"><span data-stu-id="c9536-1448">This additional date & time data type will include a larger date range (0001-01-01 through 9999-12-31), with higher-specified time precision (nanoseconds, rather than seconds) that you will be able to provide and perform calculations on.</span></span> <span data-ttu-id="c9536-1449">要启用，请选择新字段> Date & Time Extended。</span><span class="sxs-lookup"><span data-stu-id="c9536-1449">To enable, select New field > Date & Time Extended.</span></span> [<span data-ttu-id="c9536-1450">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1450">Learn more</span></span>](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
-
-### <a name="excel"></a><span data-ttu-id="c9536-1451">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1451">Excel</span></span>
-
-- <span data-ttu-id="c9536-1452">**在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。</span><span class="sxs-lookup"><span data-stu-id="c9536-1452">**Create PivotTables from Datasets in Power BI within Excel:** You can create PivotTables in Excel that are connected to datasets stored in Power BI with a few clicks.</span></span> <span data-ttu-id="c9536-1453">这样做可以让你更好地利用数据透视表和 Power BI。</span><span class="sxs-lookup"><span data-stu-id="c9536-1453">Doing this allows you get the best of both PivotTables and Power BI.</span></span> <span data-ttu-id="c9536-1454">使用数据透视表从你的安全 Power BI 数据集计算、总结和分析数据。</span><span class="sxs-lookup"><span data-stu-id="c9536-1454">Calculate, summarize, and analyze your data with PivotTables from your secure Power BI datasets.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1455">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1455">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1456">**快速从上一个 Outlook 会话重新打开项目的选项：** 我们增加了一个选项，使你能快速从上一个 Outlook 会话重新打开项目。</span><span class="sxs-lookup"><span data-stu-id="c9536-1456">**Option to quickly reopen items from previous Outlook session:** We added an option to quickly reopen items from a previous Outlook session.</span></span>
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1459">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1459">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1460">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1460">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1461">这修复了当用户在文件中同时拥有现代和遗留评论时的故障，从而触发对评论的升级。</span><span class="sxs-lookup"><span data-stu-id="c9536-1461">This fixes a crash when users have both modern and legacy comments in a file, thus triggering an upgrade on the comments.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="c9536-1462">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1462">Office Suite</span></span>
-
-- <span data-ttu-id="c9536-1463">我们通过设置Bing插件安装验证默认为真实，并使MSI返回成功视为安装成功，解决了ValidateInstall失败率问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1463">We have resolved the ValidateInstall fail rate issue by setting the Bing Addon install validation to true by default and considering the MSI return success as an install success.</span></span>
-
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2005-may-29"></a><span data-ttu-id="c9536-1465">版本 2005：5 月 29 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1465">Version 2005: May 29</span></span>
-<span data-ttu-id="c9536-1466">*版本 2005（内部版本 12827.20268）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1466">*Version 2005 (Build 12827.20268)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1468">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1468">Feature updates</span></span>
-
-### <a name="excel"></a><span data-ttu-id="c9536-1469">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1469">Excel</span></span>
-
-- <span data-ttu-id="c9536-1470">**工作表视图：** 排序/筛选时，与他人在 Excel 桌面协作。</span><span class="sxs-lookup"><span data-stu-id="c9536-1470">**Sheet View:** Sort/filter while collaborating with others in Excel desktop.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1471">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1471">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1472">**在Outlook toast通知中增加了额外的按钮：** 在 Windows 10 上运行 Outlook 时，Outlook toast通知中会出现快速操作按钮。</span><span class="sxs-lookup"><span data-stu-id="c9536-1472">**Additional buttons added to Outlook toast notifications:** Quick Action buttons now appear in Outlook toast notifications when running Outlook on Windows 10.</span></span>
-
-
-[//]: # (请勿移除功能详细信息内容结尾)
-
-<br/>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1475">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1475">Resolved issues</span></span>
-
-
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1476">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1476">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1477">解决了导致 Windows 10 服务器版本的用户看到警告 “防病毒状态:无效“的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1477">Addressed an issue that caused users of Windows 10 server versions to see the warning  Antivirus status: Invalid.</span></span> <span data-ttu-id="c9536-1478">此版本的 Windows 支持防病毒检测，但没有发现防病毒，尽管已正确安装防病毒。</span><span class="sxs-lookup"><span data-stu-id="c9536-1478">This version of Windows supports antivirus detection, but no antivirus was found despite having anti virus correctly installed.</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="c9536-1479">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1479">Office Suite</span></span>
-
-- <span data-ttu-id="c9536-1480">当注册表键HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth被设置为零时，正在激活一个外接程序时，windows中的office主机故障。</span><span class="sxs-lookup"><span data-stu-id="c9536-1480">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="c9536-1481">此更改可修复此问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1481">This change would fix this issue.</span></span>
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2005-may-21"></a><span data-ttu-id="c9536-1483">版本 2005：5 月 21 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1483">Version 2005: May 21</span></span>
-<span data-ttu-id="c9536-1484">*版本 2005（内部版本 12827.20210）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1484">*Version 2005 (Build 12827.20210)*</span></span>
-
-[//]: # (请勿移除功能详细信息内容开头)
-
 
 
 
@@ -2911,45 +2310,40 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1488">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1488">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1489">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1489">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1188">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1188">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1189">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1189">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1490">修正了团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后Excel可能会无法响应的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1490">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
-
-
-- <span data-ttu-id="c9536-1491">在某些情况下，单击指向同一工作簿内某个位置的超链接将导致工作簿被隐藏。</span><span class="sxs-lookup"><span data-stu-id="c9536-1491">In some cases, clicking a hyperlink to a place within the same workbook will cause the workbook to be hidden.</span></span>
+- <span data-ttu-id="75f95-1190">解决了导致 Outlook 无法检索搜索建议的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1190">Addressed an issue that caused Outlook to fail to retrieve search suggestions.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="c9536-1492">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1492">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1493">解决了关于回复/转发标签的clp审核事件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1493">Addressed an issue with the clp auditing event for the reply/forward label.</span></span>
+- <span data-ttu-id="75f95-1191">解决了导致用户在检索角色信息时偶尔会崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1191">Addressed an issue that caused users to occasionally crash when retrieving persona information.</span></span>
 
 
-- <span data-ttu-id="c9536-1494">解决了用户在提交来自管理通知的反馈时故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1494">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1192">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1192">Project</span></span>
+
+- <span data-ttu-id="75f95-1193">修复了无法打开已进入错误状态的项目的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1193">Fixed an issue where a project that had gotten into a bad state could not be opened.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2005-may-14"></a><span data-ttu-id="c9536-1496">版本 2005：5 月 14 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1496">Version 2005: May 14</span></span>
-<span data-ttu-id="c9536-1497">*版本 2005（内部版本 12827.20160）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1497">*Version 2005 (Build 12827.20160)*</span></span>
+## <a name="version-2007-july-29"></a><span data-ttu-id="75f95-1195">版本 2007：7 月 29 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1195">Version 2007: July 29</span></span>
+<span data-ttu-id="75f95-1196">*版本 2007（内部版本 13029.20308）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1196">*Version 2007 (Build 13029.20308)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1499">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1499">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1500">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1500">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1198">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1198">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1199">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1199">Excel</span></span>
 
-- <span data-ttu-id="c9536-1501">**自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。</span><span class="sxs-lookup"><span data-stu-id="c9536-1501">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+- <span data-ttu-id="75f95-1200">**使用数据类型从 Power BI 获取组织数据：** 从 Power BI Excel 数据类型现在推出 Office 365 E5/A5 或 Microsoft 365 E5/A5 的组织中的预览体验成员。</span><span class="sxs-lookup"><span data-stu-id="75f95-1200">**Get Organization Data from Power BI using Data Types:** Excel data types from Power BI are now rolling out to Insiders in organizations with Office 365 E5/A5 or Microsoft 365 E5/A5.</span></span> <span data-ttu-id="75f95-1201">获取所需信息并轻松刷新，这对许多日常工作流至关重要。</span><span class="sxs-lookup"><span data-stu-id="75f95-1201">Getting the information you need and easily refreshing it is critical to many everyday workflows.</span></span> <span data-ttu-id="75f95-1202">我们将为你提供从 Power BI 到 Excel 中的数据类型的公司或组织信息的访问权限，这将扩大你在电子表格中引入链接信息的能力。</span><span class="sxs-lookup"><span data-stu-id="75f95-1202">We’re giving you access to your company or organization information from Power BI as a data type in Excel, which expands your ability to bring in linked information in your spreadsheets.</span></span> [<span data-ttu-id="75f95-1203">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1203">Learn more</span></span>](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br /><span data-ttu-id="75f95-1204">在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-1204">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1502">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1502">PowerPoint</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1205">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1205">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1503">**无需遥控器：使用耳塞即可：** 使用 Surface Earbuds 来控制 PowerPoint 演示文稿。</span><span class="sxs-lookup"><span data-stu-id="c9536-1503">**No need for a clicker: your earbuds have you covered:** Use your Surface Earbuds to control your PowerPoint presentations.</span></span> <span data-ttu-id="c9536-1504">重要提示：必须使用 Windows 10 的 Surface Audio 应用配对 Surface Earbuds，才能使用手势控制演示文稿。</span><span class="sxs-lookup"><span data-stu-id="c9536-1504">Important: You must pair your Surface Earbuds in the Surface Audio app for Windows 10 in order to use gestures to control presentations.</span></span> <span data-ttu-id="c9536-1505">此处提供了有关 Windows 10 上的 Surface Audio 应用入门的说明。</span><span class="sxs-lookup"><span data-stu-id="c9536-1505">Instructions for getting started with the Surface Audio app on Windows 10 are available here.</span></span> [<span data-ttu-id="c9536-1506">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1506">Learn more</span></span>](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- <span data-ttu-id="75f95-1206">**选择搜索位置：**“新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。</span><span class="sxs-lookup"><span data-stu-id="75f95-1206">**Pick where to search:** The new search scope drop down allows you to more easily modify your search and switch between Current Folder and Current Mailbox.</span></span> <span data-ttu-id="75f95-1207">感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。</span><span class="sxs-lookup"><span data-stu-id="75f95-1207">Thank you to everyone in Coming Soon who provided feedback on the new Search at Top experience.</span></span> <span data-ttu-id="75f95-1208">此项设计和更新正是来自于该反馈！</span><span class="sxs-lookup"><span data-stu-id="75f95-1208">This design and update came out of that feedback!</span></span>
 
-- <span data-ttu-id="c9536-1507">**自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。</span><span class="sxs-lookup"><span data-stu-id="c9536-1507">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1209">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1209">Word</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1508">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1508">Word</span></span>
-
-- <span data-ttu-id="c9536-1509">**自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。</span><span class="sxs-lookup"><span data-stu-id="c9536-1509">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+- <span data-ttu-id="75f95-1210">**与新式评论更好地协作：** 向对象添加批注、@提及同事并解决批注线程，以便获得更好的协作体验。</span><span class="sxs-lookup"><span data-stu-id="75f95-1210">**Better collaboration with modern comments:** Add comments to objects, @mention colleagues, and resolve comment threads for a better collaboration experience.</span></span> [<span data-ttu-id="75f95-1211">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1211">Learn more</span></span>](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -2958,145 +2352,38 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1512">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1512">Resolved issues</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1214">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1214">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1215">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1215">Outlook</span></span>
 
-### <a name="excel"></a><span data-ttu-id="c9536-1513">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1513">Excel</span></span>
-
-- <span data-ttu-id="c9536-1514">增大了与图表搭配使用的“自定义误差线”对话框上的单元格引用编辑控件的大小。</span><span class="sxs-lookup"><span data-stu-id="c9536-1514">Increased the size of the cell reference edit controls on the Custom Error Bars dialog used with charts.</span></span>
-
-- <span data-ttu-id="c9536-1515">修复了图表数据表可能在日期坐标轴中错误呈现值的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1515">Fixed an issue where chart data table could render values in a date axis incorrectly.</span></span>
-
-- <span data-ttu-id="c9536-1516">修复了在进入页面布局或分页预览后无法禁用分页符的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1516">Fixed an issue where page breaks could not be disabled after going into Page Layout or Page Break Preview.</span></span>
-
-- <span data-ttu-id="c9536-1517">修复了隐藏和取消隐藏带序列数据的列后可能丢失图表行样式的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1517">Fixed an issue where chart line styles could be lost after hiding and unhiding columns with series data.</span></span>
-
-- <span data-ttu-id="c9536-1518">解决了在筛选列表中插入列所需的时间可能比预期更长的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1518">Fixed an issue where inserting a column in a filtered list would take longer than expected.</span></span>
-
-- <span data-ttu-id="c9536-1519">修复了打印时窗体控件中的复选框缩放的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1519">Fixed a problem with the scaling of checkboxes in form controls when printed.</span></span>
-
-- <span data-ttu-id="c9536-1520">修复了以下问题：在文件重新打开后，如果文件路径太长，外部链接会停止工作。</span><span class="sxs-lookup"><span data-stu-id="c9536-1520">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
-
-- <span data-ttu-id="c9536-1521">在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。</span><span class="sxs-lookup"><span data-stu-id="c9536-1521">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
-
-- <span data-ttu-id="c9536-1522">Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。</span><span class="sxs-lookup"><span data-stu-id="c9536-1522">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
-
-- <span data-ttu-id="c9536-1523">在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。</span><span class="sxs-lookup"><span data-stu-id="c9536-1523">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
-
-- <span data-ttu-id="c9536-1524">此更改修复了条件格式 (CF) 信息未正确保存到 XLSB 文件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1524">This change fixes an issue where conditional formatting (CF) information was not being saved to XLSB files correctly.</span></span>
-
-- <span data-ttu-id="c9536-1525">此更改修复了以下问题：即使 LINEST 函数返回的值正确，图表趋势线 R 平方值（在强制使用的 Y 轴截距情况下）也不正确。</span><span class="sxs-lookup"><span data-stu-id="c9536-1525">This change fixes an issue where the chart trendline R-Squared value (in the forced y-intercept case) was incorrect even though the LINEST function returns the correct value.</span></span>
-
-- <span data-ttu-id="c9536-1526">此更改修复了自定义图表趋势线格式设置未始终处于保存状态的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1526">This change fixes an issue where customized chart trendline formatting was not always being saved.</span></span>
-
-- <span data-ttu-id="c9536-1527">尝试在新工作表上为使用旧版“共享工作簿”模式的工作簿列出更改时，可能会发生崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1527">A crash could occur when trying to list changes on a new sheet for a workbook using legacy"Shared Workbook" mode.</span></span>
-
-- <span data-ttu-id="c9536-1528">解决了启用“以互补色代表负值”选项后不保存数据透视表中的自定义格式设置的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1528">Fixed the issue where custom formatting in Pivot charts may not be saved when the "Invert if negative" option was enabled.</span></span>
-
-- <span data-ttu-id="c9536-1529">解决了选择“以互补色代表负值”选项后不保存数据透视表中单个数据点的自定义格式设置的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1529">Fixed an issue where custom formatting for a single data point in a Pivot chart was not saved if the "Invert if negative" option was selected.</span></span>
-
-- <span data-ttu-id="c9536-1530">此更改修复了将“@”字符上传到 CSV 文件会导致字符串后面的“@”字符后转换为公式的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1530">This change fixes an issue where the '@' character uploaded in a CSV file, would result in the string after the '@' character to be converted to a formula.</span></span>
-
-- <span data-ttu-id="c9536-1531">修复了 SEQUENCE 函数中的小数值未正确舍入的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1531">Fixed an issue where decimal values in the SEQUENCE function were not rounded correctly.</span></span>
-
-### <a name="onenote"></a><span data-ttu-id="c9536-1532">OneNote</span><span class="sxs-lookup"><span data-stu-id="c9536-1532">OneNote</span></span>
-
-- <span data-ttu-id="c9536-1533">修复了换行符存储为垂直标签的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1533">Fixed an issue where line breaks were being stored as vertical tabs.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1534">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1534">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1535">解决了导致用户无法将个人联系人组添加为与会者的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1535">Addresses an issue that caused users to be unable to add a Personal Contact Group as a Meeting attendee.</span></span>
-
-- <span data-ttu-id="c9536-1536">修复了 Office 功能区中组日历的“分类”按钮被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1536">Fixed an issue where the categorize button for group calendars in the Office Ribbon was disabled.</span></span>
-
-- <span data-ttu-id="c9536-1537">解决了 Windows 更新后导致 Outlook 在打开本地保存的 .msg 或 .oft 文件时出现崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1537">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
-
-- <span data-ttu-id="c9536-1538">修复了以下问题：如果企业客户的组文件夹未实现或无法正常工作，将导致 Outlook 显示“未响应”消息。</span><span class="sxs-lookup"><span data-stu-id="c9536-1538">Fixed an issue where enterprise customers with group folders not implemented or not working, would result in Outlook displaying a "not responding" message.</span></span>
-
-- <span data-ttu-id="c9536-1539">解决了导致安全链接（即用户在 Outlook 桌面版客户端中单击的因被截断而无法加载的链接）较长的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1539">Addressed an issue that caused very long safelinks that users clicked on in the Outlook Desktop client to fail to load due to truncation.</span></span>
-
-- <span data-ttu-id="c9536-1540">修复了在与服务器同步时，名称包含 DBCS （双字节字符集）字符的 Outlook 文件夹间歇性消失的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1540">Fixed an issue where Outlook folders with names containing DBCS (Double Byte Character Set) characters would intermittently disappear when synchronizing with the server.</span></span> <span data-ttu-id="c9536-1541">为此，必须使用 IMAP 帐户配置 Outlook 并在区域设置为“日语”的系统上运行。</span><span class="sxs-lookup"><span data-stu-id="c9536-1541">For this to happen, Outlook had to be configured with an IMAP account and running on a system with the locale set to Japanese.</span></span>
-
-- <span data-ttu-id="c9536-1542">解决了导致删除为邮箱创建的规则而不是用户的主要邮箱无效的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1542">Addressed an issue that caused delete rules created for mailboxes other than the user's primary mailbox to become invalid.</span></span>
-
-- <span data-ttu-id="c9536-1543">解决了在转发加密邮件时导致附件被删除的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1543">Addressed an issue that caused attachments to get dropped when forwarding an encrypted message.</span></span>
-
-- <span data-ttu-id="c9536-1544">解决了距离开会时间超过 2 个月的会议无法在日程安排助理中显示会议主题的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1544">Addressed an issue that caused meetings that are more than 2 months away to fail to display a meeting subject in the Scheduling Assistant.</span></span>
-
-- <span data-ttu-id="c9536-1545">解决了在转发大型 HTML 邮件时导致用户看到邮件正文截断的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1545">Addressed an issue that caused users to see message body truncation when forwarding large HTML messages.</span></span>
-
-- <span data-ttu-id="c9536-1546">添加了通过组策略强制执行 S/MIME 默认签名配置的能力。</span><span class="sxs-lookup"><span data-stu-id="c9536-1546">Added the ability to enforce S/MIME default signing configuration via group policy.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1547">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1547">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1548">修复了以下问题：如果用户在未发布的情况下创建了批注并关闭了批注窗格，然后打开一个新窗口，在多张幻灯片中导航并关闭窗口，最后再打开原始演示文稿中的批注窗格，草稿批注将不可用的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1548">Fixed an issue where if a user created a comment without posting it and closed the Comments pane, then opened a new window, navigated through multiple slides and, closed the window, and finally re-opened the Comments pane in the original presentation, the draft comments would not be available.</span></span>
-
-- <span data-ttu-id="c9536-1549">修复了将鼠标悬停在星号 (\*) 上方时未显示上次更新文档的人员的用户名和日期的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1549">Fixed an issue where hovering over the asterisk (\*) symbol did not display the user name and date of the last person to update the document.</span></span>
-
-### <a name="project"></a><span data-ttu-id="c9536-1550">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1550">Project</span></span>
-
-- <span data-ttu-id="c9536-1551">在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent 事件。</span><span class="sxs-lookup"><span data-stu-id="c9536-1551">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
-
-- <span data-ttu-id="c9536-1552">修复了以下问题：在连接至 SharePoint 任务列表的项目上更改版块状态字段时，Project 可能会崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1552">Fixed an issue where Project may crash when changing the board status field on a project that is connected to a SharePoint task list.</span></span>
-
-- <span data-ttu-id="c9536-1553">解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1553">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
-
-- <span data-ttu-id="c9536-1554">修复了以下问题：如果 Project 连接到 Project Web App，并且小数分隔符是逗号，则 TaskDependencies Add 方法会在尝试添加延迟时失败。</span><span class="sxs-lookup"><span data-stu-id="c9536-1554">Fixed an issue where if Project is connected to Project Web App and the decimal separator is a comma, TaskDependencies Add method fails when Lag is added.</span></span>
+- <span data-ttu-id="75f95-1216">解决了导致 CLP 用户在将回复的地址从受保护的上下文切换到不受保护的上下文时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1216">Addressed an issue that caused users of CLP to experience a crash when switching the from address on a reply from a protected context to an unprotected one.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-1555">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1555">Word</span></span>
+- <span data-ttu-id="75f95-1217">解决了导致日程安排助理页面无法显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1217">Addressed an issue that caused the Scheduling Assistant page to fail to display.</span></span>
 
-- <span data-ttu-id="c9536-1556">修复了在协作模式下插入文档批注并非总能正常工作的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1556">Fixed an issue where inserting comments on a document in collaboration mode would not always work.</span></span>
 
-- <span data-ttu-id="c9536-1557">此更改修复了单击 @ 提及时人员卡片闪烁的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1557">This change fixes an issue where the People card would flash if the @ mention was clicked.</span></span>
+- <span data-ttu-id="75f95-1218">解决了导致事件通知警报出现格式问题的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1218">Addressed an issue that caused formatting problems in incident notification alerts.</span></span>
 
-- <span data-ttu-id="c9536-1558">启用选项“显示书签”不会显示书签。</span><span class="sxs-lookup"><span data-stu-id="c9536-1558">Enabling the option "Show bookmarks" would not display bookmarks.</span></span> <span data-ttu-id="c9536-1559">已修复此问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1559">This has been fixed.</span></span>
-
-- <span data-ttu-id="c9536-1560">修复了使用草稿批注关闭文档将提示用户是否希望关闭文档而不保存草稿批注的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1560">Fixed the issue where closing a document with draft comments would prompt the user if they wanted to close the document without saving the draft comments.</span></span> <span data-ttu-id="c9536-1561">取消该提示会关闭文档，而不会将其保持打开状态。</span><span class="sxs-lookup"><span data-stu-id="c9536-1561">Cancelling the prompt would close the document rather than leaving it open.</span></span>
-
-- <span data-ttu-id="c9536-1562">已修复复制和粘贴标题的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1562">We fixed an issue in copying and pasting headings.</span></span>
-
-- <span data-ttu-id="c9536-1563">修复了翻译已发布的批注会导致错误“插入已翻译的文本失败”的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1563">Fixed an issue where translating a posted comment would result in the error 'Inserting translated text failed'.</span></span>
-
-- <span data-ttu-id="c9536-1564">此更改修复了以下问题：如果已启用“显示域代码而非域值”选项，可能不会显示包含超链接的文本。</span><span class="sxs-lookup"><span data-stu-id="c9536-1564">This change fixes an issue where text with hyperlinks may not display if the option: "Show field codes instead of their values" was enabled.</span></span>
-
-- <span data-ttu-id="c9536-1565">在 Web 视图/沉浸式阅读器中，单击提示会滚动到顶部，即使它已在视图中。</span><span class="sxs-lookup"><span data-stu-id="c9536-1565">In Web View/Immersive reader, clicking on a hint would scroll to the top even though it was already in view.</span></span> <span data-ttu-id="c9536-1566">已修复此问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1566">This has been fixed.</span></span>
-
-- <span data-ttu-id="c9536-1567">我们修复了以下问题：尝试将包含宏的文件保存在新名称下时，无论用户输入何种内容，都将用 .docx 扩展名和文件名 WRO0004.docx 保存该文件，从而使文档显示为不可用。</span><span class="sxs-lookup"><span data-stu-id="c9536-1567">We fixed an issue that, when attempting to save a file containing a macro under a new name, would cause it to be saved with .docx extension and the filename WRO0004.docx, regardless of what the user entered, rendering the document unusable.</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="c9536-1568">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1568">Office Suite</span></span>
-
-- <span data-ttu-id="c9536-1569">当用户被告知只能使用团队的策略时，他们仍然可以使用Skype for Business Outlook 插件来安排会议。</span><span class="sxs-lookup"><span data-stu-id="c9536-1569">When a user is given a policy that moves them to Teams Only, they were still able to use the Skype for Business Outlook add-in to schedule meetings.</span></span>  <span data-ttu-id="c9536-1570">在此更新之后，当客户端读取指示用户为仅限团队的策略并进入仅限会议加入模式后，你将不再能够为Skype安排商务会议。</span><span class="sxs-lookup"><span data-stu-id="c9536-1570">After this update, you will no longer be able to schedule Skype for Business meetings after the client reads the policy indicating the user is Teams Only, and enters meeting join only mode.</span></span>  <span data-ttu-id="c9536-1571">另外，如果 Skype for Business Outlook 插件在启动时看到 Skype for Business客户端处于会议加入模式，它将不会激活自己。</span><span class="sxs-lookup"><span data-stu-id="c9536-1571">Additionally the Skype for Business Outlook Add-in will not activate itself while starting up if it sees the Skype for Business client is in meeting join only mode.</span></span>
-
-- <span data-ttu-id="c9536-1572">此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-1572">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
-
-- <span data-ttu-id="c9536-1573">此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。</span><span class="sxs-lookup"><span data-stu-id="c9536-1573">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2004-may-11"></a><span data-ttu-id="c9536-1575">版本 2004：5 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1575">Version 2004: May 11</span></span>
-<span data-ttu-id="c9536-1576">*版本 2004（内部版本 12730.20270）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1576">*Version 2004 (Build 12730.20270)*</span></span>
+## <a name="version-2007-july-27"></a><span data-ttu-id="75f95-1220">版本 2007：7 月 27 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1220">Version 2007: July 27</span></span>
+<span data-ttu-id="75f95-1221">*版本 2007（内部版本 13029.20292）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1221">*Version 2007 (Build 13029.20292)*</span></span>
+* <span data-ttu-id="75f95-1222">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1222">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2007-july-20"></a><span data-ttu-id="75f95-1223">版本 2007：7 月 20 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1223">Version 2007: July 20</span></span>
+<span data-ttu-id="75f95-1224">*版本 2007（内部版本 13029.20236）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1224">*Version 2007 (Build 13029.20236)*</span></span>
+* <span data-ttu-id="75f95-1225">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1225">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2007-july-15"></a><span data-ttu-id="75f95-1226">版本 2007：7 月 15 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1226">Version 2007: July 15</span></span>
+<span data-ttu-id="75f95-1227">*版本 2007（内部版本 13029.20200）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1227">*Version 2007 (Build 13029.20200)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1578">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1578">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1579">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1579">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1229">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1229">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1230">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1230">Excel</span></span>
 
-- <span data-ttu-id="c9536-1580">**使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。</span><span class="sxs-lookup"><span data-stu-id="c9536-1580">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1581">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1581">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1582">**电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。</span><span class="sxs-lookup"><span data-stu-id="c9536-1582">**Improved links in email:** When you include a link to a file, the file name replaces the URL.</span></span> <span data-ttu-id="c9536-1583">可更改权限，以便所有收件人都可以访问。</span><span class="sxs-lookup"><span data-stu-id="c9536-1583">You can change permissions so all recipients have access.</span></span> [<span data-ttu-id="c9536-1584">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1584">Learn more</span></span>](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br /><span data-ttu-id="c9536-1585">在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="c9536-1585">See details in [blog post](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)</span></span>
-
-- <span data-ttu-id="c9536-1586">**使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。</span><span class="sxs-lookup"><span data-stu-id="c9536-1586">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1587">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1587">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1588">**使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。</span><span class="sxs-lookup"><span data-stu-id="c9536-1588">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>  [<span data-ttu-id="c9536-1589">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1589">Learn more</span></span>](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
-
-### <a name="word"></a><span data-ttu-id="c9536-1590">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1590">Word</span></span>
-
-- <span data-ttu-id="c9536-1591">**使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。</span><span class="sxs-lookup"><span data-stu-id="c9536-1591">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
+- <span data-ttu-id="75f95-1231">**在 Excel 中制作优美的 Visio 图表：** 通过将数据置于工作表上来创建流程图或组织结构图。</span><span class="sxs-lookup"><span data-stu-id="75f95-1231">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet.</span></span> [<span data-ttu-id="75f95-1232">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1232">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3105,26 +2392,195 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1594">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1594">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1595">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1595">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1235">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1235">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1236">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1236">Access</span></span>
 
-- <span data-ttu-id="c9536-1596">解决了导致用户在显示 toast 通知时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1596">Addressed an issue that caused users to experience a crash when displaying toast notifications.</span></span>
+- <span data-ttu-id="75f95-1237">我们修复了以下问题：如果链接的 SQL 表已刷新，链接表管理器会提示输入主键。</span><span class="sxs-lookup"><span data-stu-id="75f95-1237">We fixed an issue where the linked table manager would prompt a primary key if a linked SQL table was refreshed.</span></span>
+
+- <span data-ttu-id="75f95-1238">我们修复了查询编辑器中的查询滚出了视图之外的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1238">We fixed an issue where queries in the Query Editor scrolled out of view.</span></span>
+
+- <span data-ttu-id="75f95-1239">我们修复了一个问题，即执行查询大约花费两倍于预期完成时间。</span><span class="sxs-lookup"><span data-stu-id="75f95-1239">We fixed an issue where query execution was taking approximately twice as long to complete than expected.</span></span>
+
+- <span data-ttu-id="75f95-1240">我们修复了可能会导致 Microsoft Access 无法识别链接 SQL Server 表中的标识列的问题，该问题可能会导致行错误地被报告为已删除。</span><span class="sxs-lookup"><span data-stu-id="75f95-1240">We fixed an issue that caused Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which could cause rows to be reported as deleted incorrectly.</span></span>
+
+### <a name="excel"></a><span data-ttu-id="75f95-1241">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1241">Excel</span></span>
+
+- <span data-ttu-id="75f95-1242">我们修复了不是基于 http 或 https 的 Url 未显示在最近使用过的列表中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1242">We fixed an issue where URLs that were not http or https based were not being displayed in the Most Recently Used list.</span></span>
+
+- <span data-ttu-id="75f95-1243">修复了在分页预览中加载带有多个工作表的工作簿时可能出现错误或挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1243">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
+
+- <span data-ttu-id="75f95-1244">我们解决了在某些版本的 Excel 中创建的数据模型表格即使与该表相关联的查询尚未编辑亦无法在 "表预览" 中看到的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1244">We fixed an issue where data model tables created in certain versions of Excel could not be seen in 'Table Preview' even though the query associated with the table had not been edited.</span></span>
+
+- <span data-ttu-id="75f95-1245">在 "定义名称\应用名称" 对话框中禁用 "忽略相对/绝对" 引用将导致公式无法工作。</span><span class="sxs-lookup"><span data-stu-id="75f95-1245">Ignore Relative/Absolute' references in the Define Name \ Apply Names dialog would cause formulas to not work.</span></span>
+
+- <span data-ttu-id="75f95-1246">修正了以下问题：保存工作簿到 SharePoint/OneDrive 时，自定义功能区标签的 CustomUI XML 被删除。</span><span class="sxs-lookup"><span data-stu-id="75f95-1246">We fixed an issue where CustomUI XML for a custom ribbon tab was removed when saving a workbook to SharePoint/OneDrive.</span></span>
+
+- <span data-ttu-id="75f95-1247">我们解决了仅建议只读文件时工作簿处于只读状态的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1247">We fixed an issue where workbooks were read-only when the file only had read-only recommended.</span></span>
+
+- <span data-ttu-id="75f95-1248">修复了在分页预览中加载带有多个工作表的工作簿时可能出现错误或挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1248">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
+
+- <span data-ttu-id="75f95-1249">我们修复了雷达图表的主要网格线格式设置错误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1249">We fixed an issue where the major gridlines of radar charts could not be formatted correctly.</span></span>
+
+
+- <span data-ttu-id="75f95-1250">我们已解决了清除高级数据筛选器可能丢失表格格式的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1250">We fixed an issue where clearing an advanced data filter could lose table formatting.</span></span>
+
+
+- <span data-ttu-id="75f95-1251">我们修复了一个问题，即嵌入 PDF 文档的完整路径将显示在文档标题中，而不只是文件名。</span><span class="sxs-lookup"><span data-stu-id="75f95-1251">We fixed an issue where the full path of an embedded PDF document would show in the document caption rather than just the filename.</span></span>
+
+
+- <span data-ttu-id="75f95-1252">我们解决了以下问题：禁用 Wolfram 云连接器，然后保存并重新打开 Excel 工作簿后，可能会导致崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1252">We fixed an issue where after disabling the Wolfram cloud connector and then saving and re-opening an Excel workbook, could result in a crash.</span></span>
+
+
+- <span data-ttu-id="75f95-1253">我们修复了在启用了 "规划求解" 加载项的情况下启动 Excel 时将导致崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1253">We fixed an issue where booting Excel with the Solver add-in enabled would result in a crash.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1254">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1254">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1255">我们解决了如果 "收件人" 行上有超过 130 个收件人，则 Outlook 将挂起的问题，并且还改进了呈现文本的性能。</span><span class="sxs-lookup"><span data-stu-id="75f95-1255">We fixed an issue where Outlook would hang if there were over 130 recipients on the 'To' line and we also improved the performance of rendering the text.</span></span>
+
+
+- <span data-ttu-id="75f95-1256">我们解决了当使用多个不同分辨率的显示器时，IME（输入法编辑器）窗口会重叠通过 IME 输入的底层文本的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1256">We fixed an issue where the Input Method Editor (IME) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
+
+
+- <span data-ttu-id="75f95-1257">我们在 "待办事项栏" 中修复了以下问题：跨越两天以上的事件，所有后续日期显示相同的结束时间。</span><span class="sxs-lookup"><span data-stu-id="75f95-1257">We fixed an issue in the 'To Do Bar' where events that spanned more than two days, displayed the same end time for all subsequent days.</span></span>
+
+
+- <span data-ttu-id="75f95-1258">解决了导致用户看到通过拖放复制到其文件系统的附件的创建日期设置为4501 年 1 月 1 日的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1258">Addresses an issue that caused users to see the creation date of attachments that they copied to their file system via drag and drop getting set to January 1, 4501.</span></span>
+
+
+- <span data-ttu-id="75f95-1259">我们修复了一个问题，即用户无法 "作为" 或 "代表" 通讯组列表发送。</span><span class="sxs-lookup"><span data-stu-id="75f95-1259">We fixed an issue where users were unable to 'Send As' or 'Send on behalf' of a distribution list.</span></span>
+
+
+- <span data-ttu-id="75f95-1260">解决了导致在编辑经理日历上的现有日历约会时，代表收到错误的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1260">Addresses an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
+
+
+- <span data-ttu-id="75f95-1261">我们解决了导致用户在关闭之前保存的约会时看到以下错误的问题： "无法保存该项，因为它已由其他用户或在另一个窗口中进行了更改。</span><span class="sxs-lookup"><span data-stu-id="75f95-1261">We fixed an issue that caused users to see the following error when closing an appointment that was previously saved "The item cannot be saved because it was changed by another user or in another window.</span></span> <span data-ttu-id="75f95-1262">是否要在默认文件夹中为项目制作副本？ "</span><span class="sxs-lookup"><span data-stu-id="75f95-1262">Do you want to make a copy in the default folder for the item?"</span></span>
+
+
+- <span data-ttu-id="75f95-1263">解决了未选中“下载共享”文件夹时导致共享日历会议“响应选项”中缺少“允许转发”选项的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1263">Addresses an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
+
+
+- <span data-ttu-id="75f95-1264">解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1264">Addresses an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+
+
+- <span data-ttu-id="75f95-1265">我们解决了导致 Outlook 用户在使用共享日历后其邮件列表在几分钟内停止更新的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1265">We fixed an issue that caused users of Outlook to see their message list stop updating for several minutes after using shared calendars.</span></span>
+
+
+- <span data-ttu-id="75f95-1266">我们解决了导致日历提醒无法显示在不到一周内举行的会议的确切时间的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1266">We fixed an issue that prevented calendar reminders from showing exact times for meetings coming up in less than a week.</span></span> 
+
+
+- <span data-ttu-id="75f95-1267">我们修复了在邮件中插入图像，然后将邮件另存为草稿将导致图像的大小调整的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1267">We fixed an issue where inserting an image inline in a message, then saving the message as a draft would result in a resizing of the image.</span></span>
+
+
+- <span data-ttu-id="75f95-1268">我们解决了在编辑主题后导致 NDR 邮件的正文从 Unicode 更改为 ASCII 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1268">We fixed an issue that caused the body of an NDR message to change from Unicode to ASCII after editing the subject.</span></span>
+
+
+- <span data-ttu-id="75f95-1269">我们解决了以下问题：迷你日历中的日期无法以粗体为日本用户显示。</span><span class="sxs-lookup"><span data-stu-id="75f95-1269">We fixed an issue where dates in the mini calendar failed to display in bold for users in Japan.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1270">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1270">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1271">我们修复了一个问题，即在实时共同创作会话过程中，用户的状态彩色指示器未在共同创作库中刷新。</span><span class="sxs-lookup"><span data-stu-id="75f95-1271">We fixed an issue where a user's presence color indicator was not getting refreshed in the co-authoring gallery during a live co-authoring session.</span></span>
+
+
+- <span data-ttu-id="75f95-1272">我们解决了将 HTML 粘贴到幻灯片上的文本区域改为将其粘贴到幻灯片顶部创建的文本框中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1272">We fixed an issue where pasting HTML to a text area on a slide would instead get pasted into a text box created at the top of the slide.</span></span>
+
+
+- <span data-ttu-id="75f95-1273">我们解决了以下问题：选择 "演示者" 视图中的所有幻灯片，然后使用 Alt + Tab 退出 "演示者视图" 并返回幻灯片放映，再单击 "结束放映" 将导致未经处理的异常。</span><span class="sxs-lookup"><span data-stu-id="75f95-1273">We fixed an issue where selecting all slides in Presenter View, then exiting Presenter View using Alt+Tab and returning to the slide show and clicking 'End Show' would result in an unhandled exception.</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="75f95-1274">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1274">Project</span></span>
+
+- <span data-ttu-id="75f95-1275">修正了无法将PDF/XPS从项目保存到 SharePoint 文档库的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1275">Fixed an issue where you couldn't save a PDF/XPS from Project to a SharePoint document library.</span></span>
+
+
+- <span data-ttu-id="75f95-1276">修复了以下问题：如果 URL 以 ".com" 结尾，则无法在 Project 桌面端 Project Web App 中打开项目。</span><span class="sxs-lookup"><span data-stu-id="75f95-1276">Fixed an issue where projects couldn't be opened in the Project desktop client from Project Web App if the URL ended in .com.</span></span>
+
+
+- <span data-ttu-id="75f95-1277">我们修复了打开某些 XML 文件时，Project 可能发生崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1277">We fixed an issue where Project may crash when opening certain XML files.</span></span>
+
+
+- <span data-ttu-id="75f95-1278">我们修复了以下问题：如果 URL 以 ".com" 结尾，则无法在 Project 桌面端 Project Web App 中打开项目。</span><span class="sxs-lookup"><span data-stu-id="75f95-1278">We fixed an issue where projects couldn't be opened in the Project desktop client from the Project Web App if the URL ended in '.com'.</span></span>
+
+
+- <span data-ttu-id="75f95-1279">修复了如果粘贴具有多个依赖项的任务，并不能正确复制所有依赖项的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1279">Fixed an issue where if you paste a task that has multiple dependencies, not all dependencies are copied correctly.</span></span>
+
+
+- <span data-ttu-id="75f95-1280">修复了以下问题：分配资源对话框中，选择的任务与任务板视图中选择的任务不一样。</span><span class="sxs-lookup"><span data-stu-id="75f95-1280">Fixed an issue where the task selected in the assign resources dialog isn't the same as the task selected in the task board view.</span></span>
+
+
+- <span data-ttu-id="75f95-1281">修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange 事件没有触发的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1281">We fixed an issue where the ProjectBeforeTaskChange event didn't fire when there was a change to the project summary task, either the project start/task field.</span></span>
+
+
+- <span data-ttu-id="75f95-1282">我们解决了以下问题：如果固定工期任务已完成 100% 但未指定实际完成日期，则任务完成百分比将显示为小于 100%。</span><span class="sxs-lookup"><span data-stu-id="75f95-1282">We fixed an issue where if Fixed Duration tasks are at 100% complete but the Actual Finish is not specified, the Task % Complete would display as less than 100%.</span></span>
+
+- <span data-ttu-id="75f95-1283">我们修复了一个问题，即，比较基准重置或更新可能会更改时间分段预算成本/工时资源，并且比较基准可以反映错误的预算值。</span><span class="sxs-lookup"><span data-stu-id="75f95-1283">We fixed an issue where a baseline reset or update could change time-phased budget cost/work resources and the baseline could reflect incorrect budget values.</span></span>
+
+
+- <span data-ttu-id="75f95-1284">我们修复了政府社区云环境中的 Project Planner 链接已被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1284">We fixed an issue where Project Planner links in Government Community Cloud environments had been disabled.</span></span>
+
+
+- <span data-ttu-id="75f95-1285">我们解决了以下问题：如果库处于新式模式，则无法从 SharePoint 文档库中打开项目文件。</span><span class="sxs-lookup"><span data-stu-id="75f95-1285">We fixed an issue where you couldn't open a Project file from a SharePoint document library if the library was in modern mode.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="75f95-1286">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1286">Word</span></span>
+
+- <span data-ttu-id="75f95-1287">我们解决了以下问题：通过 Office 功能区中的 "清除格式" 按钮，可在 "评论" 窗格中清除格式设置不起作用。</span><span class="sxs-lookup"><span data-stu-id="75f95-1287">We fixed an issue where the ability to clear formatting within the Comments pane via the Clear Formatting button in the Office Ribbon was not working.</span></span>
+
+
+- <span data-ttu-id="75f95-1288">我们修复了以下问题：将插入到可伸缩矢量图形（SVG）中的文本插入到 Word、Excel 或 PowerPoint 文件中后，在保存和关闭文件，然后重新打开该文件时，它将无法辨认。</span><span class="sxs-lookup"><span data-stu-id="75f95-1288">We fixed an issue where text inserted in a Scalable Vector Graphic (SVG) was illegible after inserting it in a Word, Excel, or PowerPoint file, saving and closing the file, and then re-opening the file.</span></span>
+
+
+- <span data-ttu-id="75f95-1289">我们修复了以下问题：当标尺未显示时，更改表格的大小会导致后台运行的其他应用程序开始闪烁。</span><span class="sxs-lookup"><span data-stu-id="75f95-1289">We fixed an issue where changing the size of a table when the ruler is not displayed caused other applications running in the background to start flashing.</span></span>
+
+
+- <span data-ttu-id="75f95-1290">我们解决了共同创作模式中，评论答复有时不会显示在 "评论" 窗格中，而是在 "修订" 窗格中可见的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1290">We fixed an issue where in co-authoring mode, comment replies would sometimes not show up in the comments pane but would be visible in the revisions pane.</span></span>
+
+
+- <span data-ttu-id="75f95-1291">在共同创作模式中修复了一个问题，出现合并冲突且用户已选择放弃更改后，我们不再显示保存或放弃更改的选项。</span><span class="sxs-lookup"><span data-stu-id="75f95-1291">We fixed an issue during co-authoring mode when there is a merge conflict and the user has already chosen to discard changes, we no longer display the option to save or discard changes.</span></span>
+
+
+- <span data-ttu-id="75f95-1292">我们修复了未正确呈现 HTML 超链接颜色的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1292">We fixed an issue where the HTML hyperlink color was not being rendered correctly.</span></span>
+
+
+- <span data-ttu-id="75f95-1293">我们修复了一个问题，即如果 Word 包含 50 个以上经常打开的文档的列表，则保存并打开文档后，将显示修订历史记录，即使没有对该文档进行任何修订。</span><span class="sxs-lookup"><span data-stu-id="75f95-1293">We fixed an issue where if Word had a list of more than 50 frequently opened documents, then after saving and opening a document, a revision history would be displayed even though no revisions were made to that document.</span></span>
+
+
+- <span data-ttu-id="75f95-1294">修复了在共同创作期间自动保存方面的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1294">We fixed in issue with autosave during coauthoring.</span></span>
+
+
+- <span data-ttu-id="75f95-1295">我们修复了以下问题：尝试将包含宏的文件保存在新名称下时，无论用户输入何种内容，都将用 .docx 扩展名和文件名 WRO0004.docx 保存该文件，从而使文档显示为不可用。</span><span class="sxs-lookup"><span data-stu-id="75f95-1295">We fixed an issue that, when attempting to save a file containing a macro under a new name, would cause it to be saved with a .docx extension and the filename 'WRO0004.docx', regardless of what the user entered, rendering the document unusable.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-1296">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1296">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-1297">在关闭office文件时，计时问题可能会导致故障</span><span class="sxs-lookup"><span data-stu-id="75f95-1297">A timing issue could cause a crash when closing office files</span></span>
+
+- <span data-ttu-id="75f95-1298">解决此问题的方法是确保服务会正确计算添加的产品。</span><span class="sxs-lookup"><span data-stu-id="75f95-1298">The fix for this issue was to ensure the service properly computed added products.</span></span> <span data-ttu-id="75f95-1299">我们筛选掉了新添加的产品（确保这些产品同时存在于新配置中），并将其添加到现有产品发布 ID 的末尾。</span><span class="sxs-lookup"><span data-stu-id="75f95-1299">We filtered out the newly added products (ensuring that they exist in the new configuration as well) and added them to the end of existing Product release IDs.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2004-may-04"></a><span data-ttu-id="c9536-1598">版本 2004：5 月 4 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1598">Version 2004: May 04</span></span>
-<span data-ttu-id="c9536-1599">*版本 2004（内部版本 12730.20250）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1599">*Version 2004 (Build 12730.20250)*</span></span>
+## <a name="version-2006-july-09"></a><span data-ttu-id="75f95-1301">版本 2006：7 月 9 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1301">Version 2006: July 09</span></span>
+<span data-ttu-id="75f95-1302">*版本 2006（内部版本 13001.20384）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1302">*Version 2006 (Build 13001.20384)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1601">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1601">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1602">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1602">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1304">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1304">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1305">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1305">Excel</span></span>
 
-- <span data-ttu-id="c9536-1603">**更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。</span><span class="sxs-lookup"><span data-stu-id="c9536-1603">**Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever.</span></span> [<span data-ttu-id="c9536-1604">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1604">Learn more</span></span>](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- <span data-ttu-id="75f95-1306">**建立 PDF 连接：** 连接到 PDF，从其中导入数据，刷新数据。</span><span class="sxs-lookup"><span data-stu-id="75f95-1306">**Make a PDF connection:** Connect to, import, refresh data from a PDF.</span></span> [<span data-ttu-id="75f95-1307">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1307">Learn more</span></span>](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- <span data-ttu-id="c9536-1605">**IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。</span><span class="sxs-lookup"><span data-stu-id="c9536-1605">**Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows.</span></span> [<span data-ttu-id="c9536-1606">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1606">Learn more</span></span>](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- <span data-ttu-id="75f95-1308">**创建用于公式的变量：** 通过 LET 函数改进性能、可读性和可组合性。</span><span class="sxs-lookup"><span data-stu-id="75f95-1308">**Create variables to use in formulas:** Improve performance, readability, and composability with the LET function.</span></span> <span data-ttu-id="75f95-1309">此功能允许你在新的或预先存在的公式中创建已命名的变量。</span><span class="sxs-lookup"><span data-stu-id="75f95-1309">This function allows you to create named variables in new or pre-existing formulas.</span></span> [<span data-ttu-id="75f95-1310">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1310">Learn more</span></span>](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br /><span data-ttu-id="75f95-1311">在[博客文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-1311">See details in [blog post](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)</span></span>
+
+- <span data-ttu-id="75f95-1312">**Excel 中的键盘快捷方式：** 已更新Excel的键盘快捷键</span><span class="sxs-lookup"><span data-stu-id="75f95-1312">**Keyboard shortcuts in Excel:** Updated keyboard shortcuts for Excel</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1313">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1313">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1314">**在 Outlook 中使用快速投票创建投票：** 轻松创建投票、收集选票和在电子邮件中查看结果 [了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span><span class="sxs-lookup"><span data-stu-id="75f95-1314">**Create polls in Outlook with Quick Poll:** Easily create a poll, collect votes, and view results within an email [Learn more](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span></span>
+
+- <span data-ttu-id="75f95-1315">**将图片作为电子邮件一部分发送时，保持图片的高度机密性：** 将图片作为电子邮件内容的一部分发送时，可以使用新的 Outlook 设置限制图片压缩</span><span class="sxs-lookup"><span data-stu-id="75f95-1315">**Keep your pictures high fidelity when sending them as part of an email:** A new Outlook setting is available to limit picture compression when you send pictures as part of the email contents</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3133,24 +2589,37 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1609">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1609">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="c9536-1610">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1610">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1318">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1318">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1319">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1319">Access</span></span>
 
-- <span data-ttu-id="c9536-1611">此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。</span><span class="sxs-lookup"><span data-stu-id="c9536-1611">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+- <span data-ttu-id="75f95-1320">这个问题已得到解决，你应该能够成功地将包含标识（例如自动编号）字段的链接SQL表插入到Access中。</span><span class="sxs-lookup"><span data-stu-id="75f95-1320">This issue is resolved, and you should expect to be able to successfully insert linked SQL tables that include an identity (e.g. autonumber) field into Access.</span></span>
 
+### <a name="excel"></a><span data-ttu-id="75f95-1321">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1321">Excel</span></span>
+
+- <span data-ttu-id="75f95-1322">修复了当你已从帐户注销时尝试创建数据连接时可能发生的故障。</span><span class="sxs-lookup"><span data-stu-id="75f95-1322">Fixed a crash that could happen when trying to create a data connection if you have signed out from your account.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1323">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1323">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1324">解决了用户在安全对话框中选择”save” 选项时无法将 OneDrive 附件从租户外部保存到本地计算机的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1324">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-1325">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1325">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-1326">我们对新的 AppV51 进行了备份，以修复之前 AppV51 中的回归问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1326">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
+
+- <span data-ttu-id="75f95-1327">当注册表 TabProcGrowth 值为 REG_SZ 类型并且值为 "0"的注册表，激活加载项时，Windows 上的 Office 主机会故障。</span><span class="sxs-lookup"><span data-stu-id="75f95-1327">he office host was crashing in windows, when an add-in is being activated while the registry TabProcGrowth value is REG_SZ type and with value "0".</span></span>  <span data-ttu-id="75f95-1328">注册表 TabProcGrowth 值可以是以下4条路径中的任意一种：HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main 此更改可解决以上问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1328">That registry TabProcGrowth value can be under any one of 4 paths: HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main This change would fix this issue.</span></span>
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2004-april-29"></a><span data-ttu-id="c9536-1613">版本 2004：4 月 29 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1613">Version 2004: April 29</span></span>
-<span data-ttu-id="c9536-1614">*版本 2004（生成号 12730.20236）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1614">*Version 2004 (Build 12730.20236)*</span></span>
+## <a name="version-2006-june-25"></a><span data-ttu-id="75f95-1330">版本 2006：6 月 25 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1330">Version 2006: June 25</span></span>
+<span data-ttu-id="75f95-1331">*版本 2006（内部版本 13001.20266）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1331">*Version 2006 (Build 13001.20266)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1616">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1616">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1617">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1617">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1333">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1333">Feature updates</span></span>
+### <a name="visio"></a><span data-ttu-id="75f95-1334">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-1334">Visio</span></span>
 
-- <span data-ttu-id="c9536-1618">**帮助保护组中的数据：** 你在创建组时选择的敏感度标签应用于组电子邮件、文档和团队网站。</span><span class="sxs-lookup"><span data-stu-id="c9536-1618">**Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites.</span></span>
+- <span data-ttu-id="75f95-1335">**在 Excel 中制作优美的 Visio 图表：** 根据工作表中的数据创建流程图或组织结构图。</span><span class="sxs-lookup"><span data-stu-id="75f95-1335">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart based on data in a worksheet.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3159,74 +2628,48 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1621">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1621">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1622">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1622">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1338">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1338">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1339">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1339">Access</span></span>
 
-- <span data-ttu-id="c9536-1623">解决了导致 Outlook 在某些 Windows 内部版本中发生故障的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1623">Addresses an issue that caused Outlook to crash on some builds of Windows.</span></span>
-
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2004-april-25"></a><span data-ttu-id="c9536-1625">版本 2004：4 月 25 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1625">Version 2004: April 25</span></span>
-<span data-ttu-id="c9536-1626">*版本 2004（内部版本 12730.20206）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1626">*Version 2004 (Build 12730.20206)*</span></span>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1628">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1628">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1629">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1629">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1630">解决了 Windows 更新后导致 Outlook 在打开本地保存的 .msg 或 .oft 文件时出现崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1630">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
-
-### <a name="project"></a><span data-ttu-id="c9536-1631">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1631">Project</span></span>
-
-- <span data-ttu-id="c9536-1632">修复了以下问题：如果你使用的是连接到 Project Web App 的 Project，并且小数分隔符是逗号，则当你尝试向依赖项添加延迟时，TaskDependencies Add 方法将失败。</span><span class="sxs-lookup"><span data-stu-id="c9536-1632">Fixed an issue where if you are using Project connected to Project Web App and the decimal separator is a comma, the TaskDependencies Add method fails when you try to add lag to a dependency.</span></span>
+- <span data-ttu-id="75f95-1340">此问题现在得以解决了。</span><span class="sxs-lookup"><span data-stu-id="75f95-1340">This problem is now resolved.</span></span> <span data-ttu-id="75f95-1341">如果您在这个过程中遇到更多问题，请让团队知道。</span><span class="sxs-lookup"><span data-stu-id="75f95-1341">Please let the team know if you experience more issues with this process.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-1633">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1633">Office Suite</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1342">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1342">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1634">此修复程序解决了阻止同时使用密码限制访问和保护文件的错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-1634">This fix resolves an error which occurs preventing both restricting access and protecting files with a password simultaneously.</span></span>
+- <span data-ttu-id="75f95-1343"><span style="display:inline !important;">解决了导致用户看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">创建日期&nbsp; 通过拖放将其复制到文件系统的附件&nbsp; 设置为4501年1月1日</span>的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1343"><span style="display:inline !important;">Addresses an issue that caused users to see<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">the creation date of&nbsp; attachments that they copied to their file system via drag and drop getting&nbsp; set to January 1, 4501.</span></span></span><br>
+
+
+- <span data-ttu-id="75f95-1344"><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解决了导致共享日历改进用户看到日历故障的问题。</span></span><span class="sxs-lookup"><span data-stu-id="75f95-1344"><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Addresses an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span></span><br>
+
+
+- <span data-ttu-id="75f95-1345"><span style="display:inline !important;">解决了导致用户看到 Outlook 不断提示他们运行收件箱修复工具的问题。</span></span><span class="sxs-lookup"><span data-stu-id="75f95-1345"><span style="display:inline !important;">Addresses an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span></span><br>
+
+
+- <span data-ttu-id="75f95-1346"><span style="display:inline !important;">解决导致在中搜索功能的问题，该问题建议一项功能返回没有结果，使用户没有选择提交一个新功能想法。</span></span><span class="sxs-lookup"><span data-stu-id="75f95-1346"><span style="display:inline !important;">Addresses an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span></span><br>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2004-april-21"></a><span data-ttu-id="c9536-1636">版本 2004：4 月 21 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1636">Version 2004: April 21</span></span>
-<span data-ttu-id="c9536-1637">*版本 2004（生成号 12730.20182）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1637">*Version 2004 (Build 12730.20182)*</span></span>
-
-[//]: # (请勿移除错误详细信息内容开头)
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1639">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1639">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1640">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1640">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1641">解决了导致文件夹窗格宽度意外改变的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1641">Addresses an issue that caused the width of the folder pane to change unexpectedly.</span></span>
-
-- <span data-ttu-id="c9536-1642">解决了导致用户在退出 Outlook 时遇到挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1642">Addresses an issue that caused users to experience a hang while exiting Outlook.</span></span>
-
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2004-april-15"></a><span data-ttu-id="c9536-1644">版本 2004：4 月 15 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1644">Version 2004: April 15</span></span>
-<span data-ttu-id="c9536-1645">*版本 2004（内部版本 12730.20150）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1645">*Version 2004 (Build 12730.20150)*</span></span>
+## <a name="version-2006-june-18"></a><span data-ttu-id="75f95-1348">版本 2006：6 月 18 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1348">Version 2006: June 18</span></span>
+<span data-ttu-id="75f95-1349">*版本 2006（内部版本 13001.20198）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1349">*Version 2006 (Build 13001.20198)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1647">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1647">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1648">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1648">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1351">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1351">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1352">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1352">Excel</span></span>
 
-- <span data-ttu-id="c9536-1649">**Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。</span><span class="sxs-lookup"><span data-stu-id="c9536-1649">**Facebook connector support is ending:** Starting in April 2020, Excel will no longer support external data connections that use the Facebook connector.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-1650">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1650">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1651">**新增了用于在 Outlook 中撰写邮件时禁用 @提及建议的选项：** 你是否觉得 @提及选取器更令人生厌，而不是更有用？</span><span class="sxs-lookup"><span data-stu-id="c9536-1651">**New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful?</span></span> <span data-ttu-id="c9536-1652">现在，可以根据需要禁用它。</span><span class="sxs-lookup"><span data-stu-id="c9536-1652">Now you can turn it off if you prefer.</span></span>
+- <span data-ttu-id="75f95-1353">**保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。</span><span class="sxs-lookup"><span data-stu-id="75f95-1353">**Save to Pinned Folders:** Pin your folders makes saving Office files easier We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="75f95-1354">我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。</span><span class="sxs-lookup"><span data-stu-id="75f95-1354">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="75f95-1355">这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。</span><span class="sxs-lookup"><span data-stu-id="75f95-1355">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> <br /><span data-ttu-id="75f95-1356">在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-1356">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1653">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1653">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1357">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1357">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-1654">**演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。</span><span class="sxs-lookup"><span data-stu-id="c9536-1654">**Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.</span></span>
+- <span data-ttu-id="75f95-1358">**保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。</span><span class="sxs-lookup"><span data-stu-id="75f95-1358">**Save to Pinned Folders:** Pin your folders makes saving Office files easier We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="75f95-1359">我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。</span><span class="sxs-lookup"><span data-stu-id="75f95-1359">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="75f95-1360">这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。</span><span class="sxs-lookup"><span data-stu-id="75f95-1360">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span><br /><span data-ttu-id="75f95-1361">在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-1361">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1655">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1655">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1362">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1362">Word</span></span>
 
-- <span data-ttu-id="c9536-1656">**为私人副本添加批注：** 通过制作共享文档的私人副本，创建手写笔记供你自己查看。</span><span class="sxs-lookup"><span data-stu-id="c9536-1656">**Annotate your private copy:** Create hand written notes for your eyes by making a private copy of a shared document.</span></span> <span data-ttu-id="c9536-1657">转到“查看”>“创建私人副本”以开始使用。</span><span class="sxs-lookup"><span data-stu-id="c9536-1657">Go to View > Create a Private Copy to get started.</span></span>
+- <span data-ttu-id="75f95-1363">**保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。我们收到了反馈，在保存新文件时，用户希望对可用的文件夹有更多的控制。</span><span class="sxs-lookup"><span data-stu-id="75f95-1363">**Save to Pinned Folders:** Pin your folders makes saving Office files easierWe received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="75f95-1364">我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。</span><span class="sxs-lookup"><span data-stu-id="75f95-1364">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="75f95-1365">这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。</span><span class="sxs-lookup"><span data-stu-id="75f95-1365">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> <br /><span data-ttu-id="75f95-1366">在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-1366">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3235,175 +2678,770 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1660">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1660">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1661">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1661">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1369">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1369">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1370">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1370">Excel</span></span>
 
-- <span data-ttu-id="c9536-1662">修复了在任务窗格中调整表格大小和刷新表格时遇到的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1662">Fixed issues with resizing and refreshing tables in the task pane.</span></span>
+- <span data-ttu-id="75f95-1371">修正了以下问题：保存到 SharePoint / OneDrive 时，自定义功能区标签的CustomUI XML被删除。</span><span class="sxs-lookup"><span data-stu-id="75f95-1371">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
 
-- <span data-ttu-id="c9536-1663">修复了 Access 国际版本在用户界面中显示英文字符串的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1663">Fixed an issue where international versions of Access were displaying English strings in the user interface.</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1372">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1372">Outlook</span></span>
 
-### <a name="excel"></a><span data-ttu-id="c9536-1664">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1664">Excel</span></span>
+- <span data-ttu-id="75f95-1373">解决了启用云设置时导致Ctrl+click停止工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1373">Addressed an issue that caused Ctrl+click to stop working when cloud settings were enabled.</span></span>
 
-- <span data-ttu-id="c9536-1665">修复了以下问题：在工作表上选择单元格区域导致选择单个单元格。</span><span class="sxs-lookup"><span data-stu-id="c9536-1665">Fixed an issue where selecting a range of cells on a sheet would result in the selection of a single cell.</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1374">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1374">Project</span></span>
 
-- <span data-ttu-id="c9536-1666">在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。</span><span class="sxs-lookup"><span data-stu-id="c9536-1666">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+- <span data-ttu-id="75f95-1375">修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1375">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
 
-- <span data-ttu-id="c9536-1667">修复了导致以下情形的问题：复制包含数据透视表的工作表后，在某些情况下 Excel 崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1667">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
-
-- <span data-ttu-id="c9536-1668">Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。</span><span class="sxs-lookup"><span data-stu-id="c9536-1668">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
-
-- <span data-ttu-id="c9536-1669">修复了用户以编程方式编辑大量单元格时可能遇到的性能问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1669">Fixed a performance issue that users may have experienced when programmatically editing a large range of cells.</span></span>
-
-- <span data-ttu-id="c9536-1670">修复了在日语环境中打开 csv 文件时出现的性能问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1670">Fixed a performance issue that occurred when opening csv files with Japanese environments.</span></span>
-
-- <span data-ttu-id="c9536-1671">修复了以下问题：插入用户定义的图表模板用作默认模板会导致将其另存为柱形图。</span><span class="sxs-lookup"><span data-stu-id="c9536-1671">Fixed an issue where inserting a user defined chart template as default would result in saving it as a column chart.</span></span>
-
-- <span data-ttu-id="c9536-1672">修复了以下问题：当基础数据单元格没有标题时，图表上的数据标签显示为空白。</span><span class="sxs-lookup"><span data-stu-id="c9536-1672">Fixed an issue where Data labels on charts would display as blank when the underlying data cells did not have a caption.</span></span>
-
-- <span data-ttu-id="c9536-1673">修复了在使用某些 X 轴区域减小图表大小时可能导致 Excel 停止响应的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1673">Fixed an issue which could cause Excel to stop responding when reducing the size of a chart with some x-axis ranges.</span></span>
-
-- <span data-ttu-id="c9536-1674">修复了以下问题：对于启用了 R1C1 单元格引用且正在共同创作/共享的 Excel 工作表，将鼠标悬停在用户状态图标上时，在 R1C1 模式下不显示活动单元格引用。</span><span class="sxs-lookup"><span data-stu-id="c9536-1674">Fixed an issue where an Excel sheet with R1C1 cell referencing enabled and is being co-authored / shared, hovering over the user presence icon does not display the active cell reference in R1C1 mode.</span></span>
-
-- <span data-ttu-id="c9536-1675">此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。</span><span class="sxs-lookup"><span data-stu-id="c9536-1675">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1676">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1676">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1677">此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。</span><span class="sxs-lookup"><span data-stu-id="c9536-1677">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
-
-- <span data-ttu-id="c9536-1678">此更改修复了以下问题：对电子邮件草稿的最新更改没有得到更新。</span><span class="sxs-lookup"><span data-stu-id="c9536-1678">This change fixes an issue where the latest changes to draft emails were not being updated.</span></span>
-
-- <span data-ttu-id="c9536-1679">修复了以下问题：无法鼠标右键单击文件并使用“发送到”。</span><span class="sxs-lookup"><span data-stu-id="c9536-1679">Fixed an issue where right-mouse clicking on a file and using 'Send to' would not work.</span></span>
-
-- <span data-ttu-id="c9536-1680">解决了导致代理人在不同计算机上看到共享邮箱的不同文件夹层次结构的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1680">Addressed an issue that caused delegates to see different folder hierarchies on different machines for shared mailboxes.</span></span>
-
-- <span data-ttu-id="c9536-1681">解决了导致类别偶尔从电子邮件中消失的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1681">Addressed an issue that caused categories to occasionally disappear from email messages.</span></span>
-
-- <span data-ttu-id="c9536-1682">解决了导致在更改计算机上的时区时一些提醒无法触发的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1682">Addressed an issue that caused some reminders to fail to fire when changing the timezone on a machine.</span></span>
-
-- <span data-ttu-id="c9536-1683">解决了导致用户在尝试查看组织表单属性时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1683">Addressed an issue that caused users to experience a crash when attempting to view the properties of an Organizational Form.</span></span>
-
-- <span data-ttu-id="c9536-1684">修复了以下问题：如果用户有通讯簿的自定义搜索路径，Outlook 的名称解析范围会被限制为此自定义路径，而不包括全局地址列表 (GAL)。</span><span class="sxs-lookup"><span data-stu-id="c9536-1684">Fixed an issue where if a user had a customized the search path for the Address book, Outlook's name resolution scope would be limited to the customized path rather than including the Global Address List (GAL).</span></span>
-
-- <span data-ttu-id="c9536-1685">解决了导致附件工具中缺少“保存到云”按钮的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1685">Addressed an issue that caused the "Save to Cloud" button to be missing from Attachment Tools.</span></span>
-
-- <span data-ttu-id="c9536-1686">解决了导致以下情形的问题：如果用户对要回复的邮件没有所有者权限，在检查器窗口中回复受数字权限管理的邮件时，用户无法添加签名。</span><span class="sxs-lookup"><span data-stu-id="c9536-1686">Addressed an issue that caused users to be unable to add a signature when replying to a digitally rights managed message from an inspector window when the user does not have Owner permission on the message being replied to.</span></span>
-
-- <span data-ttu-id="c9536-1687">解决了导致以下情形的问题：用户无法将其他附件从 Web 位置添加到先前创建的会议。</span><span class="sxs-lookup"><span data-stu-id="c9536-1687">Addressed an issue that caused users to be unable to add additional attachments from a web location to a previously created meeting.</span></span>
-
-- <span data-ttu-id="c9536-1688">解决了导致以下情形的问题：将附件添加到邮件或通过拖放操作（而不是通过菜单）从邮件保存附件时，将更新文件的“上次修改时间”。</span><span class="sxs-lookup"><span data-stu-id="c9536-1688">Addressed an issue that caused the "Last Modified" date on a file to be updated when adding an attachment to a mail or saving an attachment from a mail by dragging and dropping it (as opposed to via a menu).</span></span>
-
-- <span data-ttu-id="c9536-1689">解决了导致以下情形的问题：在展开的查找窗格中按回车键时无法启动搜索，而是要求用户单击搜索按钮。</span><span class="sxs-lookup"><span data-stu-id="c9536-1689">Addressed an issue that caused hitting enter in the expanded find pane to fail to start a search, requiring instead that users click on the search button.</span></span>
-
-- <span data-ttu-id="c9536-1690">修复了以下问题：在一组返回的搜索结果中，按“类别”对结果排序时看不到“类别”颜色。</span><span class="sxs-lookup"><span data-stu-id="c9536-1690">Fixed an issue where within a set of returned search results, sorting the results by Categories would not display the Category colors.</span></span>
-
-- <span data-ttu-id="c9536-1691">修复了禁用“可用时显示用户照片”选项时，搜索不显示有关用户的信息的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1691">Fixed an issue where search shows no information about users when the option to "Show user photographs when available" is disabled.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1692">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1692">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1693">此更改修复了以下错误：无法保存包含表情符号的 PowerPoint 文件。</span><span class="sxs-lookup"><span data-stu-id="c9536-1693">This change fixes an error that could cause PowerPoint files containing emojis to fail when saving.</span></span>
-
-- <span data-ttu-id="c9536-1694">此更改修复了以下问题：在 PowerPoint 或 Word 中嵌入为 OLE 对象的旧版 Excel 图表呈现时，可能并不总是显示图表标题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1694">This change fixes an issue where the rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></span>
-
-- <span data-ttu-id="c9536-1695">修复了以下问题：将文本从 Excel 复制到 PowerPoint 时可能会更改其格式。</span><span class="sxs-lookup"><span data-stu-id="c9536-1695">We have fixed an issue when copying text from Excel to PowerPoint might change its formatting.</span></span>
-
-- <span data-ttu-id="c9536-1696">此更改修复了以下问题：使用“全字匹配”查找特殊字符时并非总是按预期工作。</span><span class="sxs-lookup"><span data-stu-id="c9536-1696">This change fixes an issue where finding special characters using 'find whole words only' did not always work as expected.</span></span>
-
-### <a name="project"></a><span data-ttu-id="c9536-1697">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1697">Project</span></span>
-
-- <span data-ttu-id="c9536-1698">修复了有时无法正确计算摘要任务日期的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1698">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
-
-- <span data-ttu-id="c9536-1699">修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。</span><span class="sxs-lookup"><span data-stu-id="c9536-1699">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
-
-- <span data-ttu-id="c9536-1700">修复了以下问题：当用户单击了“任务”功能区上“计划”分组中的“停用”按钮后，“ProjectBeforeTaskChange”Visual Basic Applications (VBA) 事件未触发。</span><span class="sxs-lookup"><span data-stu-id="c9536-1700">Fixed an issue where the 'ProjectBeforeTaskChange' Visual Basic Applications (VBA) event did not fire when a user clicked the “Inactivate” button found on the Tasks Ribbon within the Scheduling grouping.</span></span>
-
-- <span data-ttu-id="c9536-1701">如果你在“窗体类型”视图中设置前置任务或后续任务详细信息，ProjectBeforeTaskChange Visual Basic Applications (VBA) 事件并不总是能够捕获更改。</span><span class="sxs-lookup"><span data-stu-id="c9536-1701">If you set predecessor or successor details from within a Form type view, the ProjectBeforeTaskChange Visual Basic Applications (VBA) event didn't always capture the changes.</span></span> <span data-ttu-id="c9536-1702">例如，如果你删除了依赖项，并单击了窗体上的“确定”，但此事件并未触发。</span><span class="sxs-lookup"><span data-stu-id="c9536-1702">For example, if you deleted a dependency and clicked OK on the form, the event did not fire.</span></span> <span data-ttu-id="c9536-1703">此行为已修复。</span><span class="sxs-lookup"><span data-stu-id="c9536-1703">This behavior has been fixed.</span></span>
-
-- <span data-ttu-id="c9536-1704">修复了以下问题：在你更改（如更改日期）后，“已完成工作量的实际成本(ACWP)”的最新值不会显示。</span><span class="sxs-lookup"><span data-stu-id="c9536-1704">Fixed an issue where the latest values for the Actual Cost of Work Performed (ACWP) would not be displayed after making a change, such as a date change.</span></span>
-
-- <span data-ttu-id="c9536-1705">修复了以下问题：使用“最近经常使用(MRU)”菜单打开项目时，打开的是带有读/写访问权限的项目文件。</span><span class="sxs-lookup"><span data-stu-id="c9536-1705">Fixed an issue where opening a project using the Most Recently Used (MRU) menu opened the project file with Read/Write access.</span></span>
-
-- <span data-ttu-id="c9536-1706">此更改修复了以下问题：如果你创建的手动任务包含开始日期和时间（但没有持续时间），它会在时间线上显示不正确的时间。</span><span class="sxs-lookup"><span data-stu-id="c9536-1706">This change fixes an issue where if you created a manual task with a start date and a time (but no duration), it would be displayed with an incorrect time on the timeline.</span></span>
-
-- <span data-ttu-id="c9536-1707">修复了以下问题：使用回历打印日程表会导致在打印视图中跳过或重复某个月。</span><span class="sxs-lookup"><span data-stu-id="c9536-1707">Fixed an issue where printing a timeline using a Hijri calendar would result in a month being skipped or duplicated in the print view.</span></span>
-
-- <span data-ttu-id="c9536-1708">此更改修复了以下问题：在工作组规划器中使用 GDI 对象时，可能会导致 GDI 对象的过度分配，并导致内存不足。</span><span class="sxs-lookup"><span data-stu-id="c9536-1708">This change addresses an issue where working in Team Planner with GDI objects, could result in the over allocation of GDI objects and create low memory conditions.</span></span>
-
-- <span data-ttu-id="c9536-1709">修复了以下问题：在执行“CustomFieldValueListGetItem”时，如果自定义字段的查阅表格不存在，则会创建空的查阅表格，即使不应该创建。</span><span class="sxs-lookup"><span data-stu-id="c9536-1709">Fixed an issue where if CustomFieldValueListGetItem' is executed and a lookup table for the custom field doesn't exist, an empty lookup table is created even though it should not be.</span></span>
-
-- <span data-ttu-id="c9536-1710">在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent</span><span class="sxs-lookup"><span data-stu-id="c9536-1710">WhenPredecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired</span></span>
-
-- <span data-ttu-id="c9536-1711">修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。</span><span class="sxs-lookup"><span data-stu-id="c9536-1711">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span>
-
-### <a name="word"></a><span data-ttu-id="c9536-1712">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1712">Word</span></span>
-
-- <span data-ttu-id="c9536-1713">此更改修复了以下问题：将光标悬停在提示上不会突出显示其卡片。</span><span class="sxs-lookup"><span data-stu-id="c9536-1713">This change fixes an issue where hovering a cursor over a hint would not highlight its card.</span></span>
-
-- <span data-ttu-id="c9536-1714">此更改修复了以下问题：在“视图”菜单中选择多个页面时，批注窗格可能会显示为空白。</span><span class="sxs-lookup"><span data-stu-id="c9536-1714">This change fixes an issue with multiple pages selected from the View menu, where the comments pane could be displayed as blank.</span></span>
-
-- <span data-ttu-id="c9536-1715">修复了以下问题：评论发布功能已遭禁用。</span><span class="sxs-lookup"><span data-stu-id="c9536-1715">Fixed an issue where the functionality to post comments was disabled.</span></span>
-
-- <span data-ttu-id="c9536-1716">此更改修复了以下问题：使用套索选择工具时，分组形状中的文本暂时消失。</span><span class="sxs-lookup"><span data-stu-id="c9536-1716">This change fixes an issue that would cause the text in grouped shapes to disappear temporarily when using the Lasso selection tool.</span></span>
-
-- <span data-ttu-id="c9536-1717">此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。</span><span class="sxs-lookup"><span data-stu-id="c9536-1717">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
-
-- <span data-ttu-id="c9536-1718">此更改修复了以下问题：在 PowerPoint 或 Word 中嵌入为 OLE 对象的旧版 Excel 图表呈现时，可能并不总是显示图表标题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1718">This change fixes an issue where the rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></span>
-
-- <span data-ttu-id="c9536-1719">此更改修复了以下问题：帐户管理员不会分派消息，导致第三方应用程序挂起。</span><span class="sxs-lookup"><span data-stu-id="c9536-1719">This change addresses an issue where the account manager would not dispatch messages resulting in a hang with third party applications.</span></span>
-
-- <span data-ttu-id="c9536-1720">此更改修复了以下问题：在双页视图中，在创建批注时，批注锚点并不总是出现在视图中。</span><span class="sxs-lookup"><span data-stu-id="c9536-1720">This change fixes an issue in two page view, when creating a comment, the comment anchor did not always come into view.</span></span>
-
-- <span data-ttu-id="c9536-1721">修复了在键入或编辑批注时使用 Ctrl+A 将导致在画布中选择文本而不是仅在批注卡中选择文本的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1721">Fixed an issue when typing or editing a comment and using Ctrl+A would result in selecting text in the canvas instead of selecting text just within the comment card.</span></span>
-
-- <span data-ttu-id="c9536-1722">修复了以下问题：如果某个段落的样式是链接到列表的样式的上级，则该列表的编号可能会丢失。</span><span class="sxs-lookup"><span data-stu-id="c9536-1722">Fixed an issue where if a paragraph whose style is an ancestor of a style linked to a list, then the numbering of that list could be lost.</span></span>
-
-- <span data-ttu-id="c9536-1723">此更改修复了以下问题：目录会使用文档中没有的标题样式进行更新。</span><span class="sxs-lookup"><span data-stu-id="c9536-1723">This change fixes an issue where the Table of Contents would get updated with heading styles which were not present in the document.</span></span>
-
-- <span data-ttu-id="c9536-1724">修复了以下问题：在使用“快速打印”打印后尝试进行编辑时，文档中的字词对齐方式会被打乱。</span><span class="sxs-lookup"><span data-stu-id="c9536-1724">We fixed an issue which alignment of word in document gets scrambled when tried to edit after printing using Quick Print.</span></span>
-
-- <span data-ttu-id="c9536-1725">修复了将 2 个文档合并为一个文档时出现的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1725">We fixed an issue when merging 2 documents into one document.</span></span>
-
-- <span data-ttu-id="c9536-1726">修复了以下问题：当你通过邮件发送文档时，保存在 Word 文档中的数字签名会遭删除。</span><span class="sxs-lookup"><span data-stu-id="c9536-1726">Fixed an issue where digital signatures saved in Word documents would be removed when mailing the documents.</span></span>
-
-- <span data-ttu-id="c9536-1727">修复了标记涉及公式的修订后可能导致保存文件失败的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1727">Fixed an issue where marking revisions involving equations could result in a failure when saving the file.</span></span>
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2003-april-14"></a><span data-ttu-id="c9536-1729">版本 2003：4 月14 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1729">Version 2003: April 14</span></span>
-<span data-ttu-id="c9536-1730">*版本 2003（内部版本 12624.20466）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1730">*Version 2003 (Build 12624.20466)*</span></span>
-
-<span data-ttu-id="c9536-1731">[此处](./microsoft365-apps-security-updates.md)列出安全更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1731">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
-
+## <a name="version-2006-june-11"></a><span data-ttu-id="75f95-1377">版本 2006：6 月 11 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1377">Version 2006: June 11</span></span>
+<span data-ttu-id="75f95-1378">*版本 2006（内部版本 13001.20144）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1378">*Version 2006 (Build 13001.20144)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-- <span data-ttu-id="c9536-1733">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1733">Various bugs and performance fixes.</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1380">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1380">Feature updates</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1381">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1381">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1382">**改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。</span><span class="sxs-lookup"><span data-stu-id="75f95-1382">**Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience.</span></span> <span data-ttu-id="75f95-1383">使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。</span><span class="sxs-lookup"><span data-stu-id="75f95-1383">Use your corporate videos from Microsoft Stream to create better presentations.</span></span>
+
+### <a name="word"></a><span data-ttu-id="75f95-1384">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1384">Word</span></span>
+
+- <span data-ttu-id="75f95-1385">**在矢量中保留文本：** 现在，在 Excel、Word 和 PowerPoint 中转换这些对象时，可以在地图、图表和其他SVG矢量中保留文本。</span><span class="sxs-lookup"><span data-stu-id="75f95-1385">**Retain text in vectors:** Now you can retain the text in maps, charts, and other SVG vectors when converting these objects in Excel, Word, and PowerPoint.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
-## <a name="version-2003-april-09"></a><span data-ttu-id="c9536-1735">版本 2003：4 月 9 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1735">Version 2003: April 09</span></span>
-<span data-ttu-id="c9536-1736">*版本 2003（内部版本 12624.20442）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1736">*Version 2003 (Build 12624.20442)*</span></span>
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1388">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1388">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1389">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1389">Excel</span></span>
+
+- <span data-ttu-id="75f95-1390">我们解决了使用 OneDrive 时，Excel 偶尔关闭的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1390">We fixed an issue where Excel would occasionally shut down when engaging OneDrive.</span></span>
+
+- <span data-ttu-id="75f95-1391">我们修复了图表轴上的自定义值不能被正确应用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1391">We fixed an issue where custom values on the chart axis would not get applied correctly.</span></span>
+
+- <span data-ttu-id="75f95-1392">我们修复了包含多个已定义名称的公式的工作表在保存文件时导致时间延长的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1392">We fixed an issue where worksheets containing multiple formulas with defined names was resulting in longer times when saving files.</span></span>
+
+- <span data-ttu-id="75f95-1393">我们解决了导致打印机名称在可用打印机列表中重复的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1393">We fixed an issue that caused printer names to be duplicated in the list of available printers.</span></span>
+
+- <span data-ttu-id="75f95-1394">我们解决了在用户删除合并的列时导致性能时间增加的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1394">We fixed an issue that resulted in improved performance time for users when they deleted merged columns.</span></span>
+
+- <span data-ttu-id="75f95-1395">我们解决以下问题：由于加载程序是按字母顺序加载的，而不是按用户指定的顺序加载，因此会出现“此工作簿目前由另一个工作簿引用，无法关闭”的错误信息。</span><span class="sxs-lookup"><span data-stu-id="75f95-1395">We fixed an issue where the error message “This workbook is currently referenced by another and cannot be closed” would appear because add-ins were being loaded in alphabetical order rather than in a user specified order.</span></span>
+
+- <span data-ttu-id="75f95-1396">我们修正了 Excel 和某些第三方辅助技术应用程序之间管理字体时内存损坏的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1396">We fixed an issue where memory was being corrupted when managing fonts between Excel and some third party assistive technology applications.</span></span>
+
+- <span data-ttu-id="75f95-1397">我们解决了在同一工作簿中单击带有书签的超链接会导致工作簿隐藏的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1397">We fixed an issue where clicking a bookmarked hyperlink within the same workbook would cause the workbook to be hidden.</span></span>
+
+- <span data-ttu-id="75f95-1398">我们解决了某些复制粘贴图表链接使用映射驱动器地址而不是通用地址的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1398">We fixed an issue where some copy and pasted chart links used mapped drive addresses rather than universal addresses.</span></span>
+
+- <span data-ttu-id="75f95-1399">我们解决了在团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后 Excel 会无法响应的的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1399">We fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window was shared through Teams.</span></span>
+
+- <span data-ttu-id="75f95-1400">我们解决了当加载项要求工作表上包含带有noSelect锁的形状的主机项目时，Excel 会故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1400">We fixed an issue where Excel would crash when Add-ins ask for Host Items on worksheets that contain shapes with noSelect locks.</span></span>
+
+- <span data-ttu-id="75f95-1401">解决了在试图将数据透视表插入图表工作表时 Excel 可能故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1401">Addressed an issue where Excel may crash when attempting to insert PivotTables into a chart sheet.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1402">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1402">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1403">我们解决了当使用多个不同分辨率的显示器时，IME（输入法编辑器）窗口会重叠通过IME输入的底层文本的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1403">We fixed an issue where the IME (Input Method Editor) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
+
+- <span data-ttu-id="75f95-1404">我们解决了在查看模板时编写新的电子邮件消息将导致故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1404">We fixed an issue where viewing a template when composing a new email message would result in a crash.</span></span>
+
+- <span data-ttu-id="75f95-1405">我们修复了使用 Outlook version 1911之后，用户无法获取Exchange 2010公用文件夹的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1405">We fixed an issue where users were unable to Exchange 2010 public folders after Outlook version 1911.</span></span>
+
+- <span data-ttu-id="75f95-1406">我们修复了 Office 功能区中组日历的“分类”按钮被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1406">We fixed an issue where the Categorize button for group calendars in the Office Ribbon was disabled.</span></span>
+
+- <span data-ttu-id="75f95-1407">解决了针对 Outlook 未能向使用M365 Business Plus计划的付费用户启用数据丢失保护策略提示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1407">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
+
+- <span data-ttu-id="75f95-1408">解决了导致 Outlook 在某些 Windows 内部版本上故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1408">Addressed an issue that caused Outlook to crash on some Windows builds.</span></span>
+
+- <span data-ttu-id="75f95-1409">我们解决了用户无法与访客用户共享日历的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1409">We fixed an issue where users were unable to share a calendar with a guest user.</span></span>
+
+- <span data-ttu-id="75f95-1410">我们解决了用户将跨越午夜阈值的日历项视为全天事件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1410">We fixed an issue where users saw calendar items that spanned the midnight threshold as All day events.</span></span>
+
+- <span data-ttu-id="75f95-1411">我们解决了导致用户在高DPI监视器上丢失文件夹中的联机存档下拉列表的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1411">We fixed an issue that resulted in the Online Archive dropdown in folder properties to be missing for users on high DPI monitors.</span></span>
+
+- <span data-ttu-id="75f95-1412">我们解决了以下问题：当用户在文件夹之间移动项目时，BeforeItemMove 事件未正确触发。</span><span class="sxs-lookup"><span data-stu-id="75f95-1412">We fixed an issue where the Folder.BeforeItemMove event didn't fire correctly when a user moved items between folders.</span></span>
+
+- <span data-ttu-id="75f95-1413">我们解决了当两个插件在功能区的同一组中添加按钮时，Outlook 会故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1413">We fixed an issue where Outlook crashed when two add-ins added a button to the same group in the ribbon.</span></span>
+
+- <span data-ttu-id="75f95-1414">我们解决了用户在处理纯文本邮件中的超链接时 Outlook 会故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1414">We fixed an issue that caused users to experience a crash in Outlook when working with hyperlinks in Plain Text emails.</span></span>
+
+- <span data-ttu-id="75f95-1415">我们解决了导致 Outlook 无法解析用RFC2231编码的长文件名的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1415">We fixed an issue that caused Outlook to be unable to parse long file names encoded with RFC2231.</span></span>
+
+- <span data-ttu-id="75f95-1416">我们解决了导致 Outlook 用户在使用屏幕阅读器时出现间歇性挂机的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1416">We fixed an issue that was causing Outlook users to experience intermittent hangs when using screen readers.</span></span>
+
+- <span data-ttu-id="75f95-1417">我们解决了导致冲突联系人的用户在 Outlook 中遇到故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1417">We fixed an issue that would cause users with conflicting contacts to experience crashes in Outlook.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1418">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1418">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1419">我们解决了使用基于表单的身份验证打开服务器配置文件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1419">We fixed an issue with opening server-configured files with forms-based authentication.</span></span>
+
+- <span data-ttu-id="75f95-1420">我们解决了保存文件时，PowerPoint 文件与嵌入图表/工作簿可能导致故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1420">We fixed an issue where PowerPoint files with embedded charts / workbooks could result in failures when saving the file.</span></span>
+
+- <span data-ttu-id="75f95-1421">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1421">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+
+- <span data-ttu-id="75f95-1422">我们解决了使用鼠标滚轮缩放后幻灯片不能居中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1422">We fixed an issue where slides were not centered after zooming using the mouse wheel.</span></span>
+
+- <span data-ttu-id="75f95-1423">我们解决了使用瑞士英语 (QWERTZ) 键盘时键盘快捷方式和拼写检查无法正常工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1423">We fixed an issue where keyboard shortcuts and spell check wouldn’t function as expected when using an English Switzerland (QWERTZ) keyboard.</span></span>
+
+- <span data-ttu-id="75f95-1424">我们解决了用户关闭的评论窗格会自动重新打开的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1424">We fixed an issue where a Comment pane that had been closed by the user would re-open automatically.</span></span>
+
+- <span data-ttu-id="75f95-1425">我们解决了一张幻灯片编辑器与另一张幻灯片重叠的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1425">We fixed an issue where the slide editor from one slide would overlap on to the next slide.</span></span>
+
+### <a name="project"></a><span data-ttu-id="75f95-1426">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1426">Project</span></span>
+
+- <span data-ttu-id="75f95-1427">修正了当项目摘要任务(项目开始/任务字段)发生更改时，ProjectBeforeTaskChange事件没有触发的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1427">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
+
+- <span data-ttu-id="75f95-1428">修正了当任务被错误地标记为100%完成，将其更改为小于100%完成的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1428">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
+
+- <span data-ttu-id="75f95-1429">我们修正了Project在点击Options后会故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1429">We fixed an issue where Project would crash after clicking on Options.</span></span>
+
+- <span data-ttu-id="75f95-1430">我们修复了在父计划被删除后，孤立任务不能被删除或重新分配的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1430">We fixed an issue that prevented orphaned tasks from being deleted or re-assigned after their parent plan was deleted.</span></span>
+
+### <a name="visio"></a><span data-ttu-id="75f95-1431">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-1431">Visio</span></span>
+
+- <span data-ttu-id="75f95-1432">依赖代码中的回归已经被修复。</span><span class="sxs-lookup"><span data-stu-id="75f95-1432">There was regression in dependent code which has been fixed.</span></span> <span data-ttu-id="75f95-1433">现在，图像在运行在 SharePoint Onprem 上的 Visio 服务中呈现。</span><span class="sxs-lookup"><span data-stu-id="75f95-1433">Now, the images are getting rendered in Visio services running on SharePoint Onprem.</span></span>
+
+### <a name="word"></a><span data-ttu-id="75f95-1434">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1434">Word</span></span>
+
+- <span data-ttu-id="75f95-1435">我们修复了注释窗格中的时间戳不基于系统地区时间的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1435">We fixed an issue where timestamps in Comment panes were not based on the system locale time.</span></span>
+
+- <span data-ttu-id="75f95-1436">解决了当URL包含查询组件时从自定义文档传递(aspx)打开Word文档的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1436">Resolved an issue opening Word documents from custom document delivery (aspx) when the URL contains a query component.</span></span>
+
+- <span data-ttu-id="75f95-1437">我们修正了将文本复制粘贴到注释窗格中不会显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1437">We fixed an issue where copy and pasting text to a comment pane would not be displayed.</span></span>
+
+- <span data-ttu-id="75f95-1438">我们修正了超链接在评论中不起作用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1438">We fixed an issue where hyperlinks in comments weren’t working.</span></span>
+
+- <span data-ttu-id="75f95-1439">我们解决了缩放显示区域导致缩放选择框和鼠标指针之间的差距的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1439">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+
+- <span data-ttu-id="75f95-1440">我们修复了web应用程序和桌面应用程序之间的评论不同步的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1440">We fixed an issue where comments between the web app and the desktop application were not in sync.</span></span>
+
+- <span data-ttu-id="75f95-1441">我们修正了批注提示气泡在100%缩放时出现模糊的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1441">We fixed an issue where comment hint bubbles appeared blurry at 100% zoom.</span></span>
+
+- <span data-ttu-id="75f95-1442">我们解决了向空白文档添加新批注不会执行任何操作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1442">We fixed an issue where adding a new comment on a blank document wouldn't do anything.</span></span>
+
+- <span data-ttu-id="75f95-1443">我们修复了粘贴HTML到WordMail的日历无法正常工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1443">We fixed an issue where pasting HTML into WordMail for Calendar wasn’t working.</span></span>
+
+- <span data-ttu-id="75f95-1444">我们修正了在一个共同编写的会话中回复评论时，有时会导致Word冻结的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1444">We fixed an issue where replying to a comment in a co-authored session could sometimes cause Word to freeze.</span></span>
+
+- <span data-ttu-id="75f95-1445">我们解决了以下问题：在包含 100 个以上条目的文档中插入或更新索引将导致应用程序崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1445">We fixed an issue where inserting or updating an Index in a document containing more than a hundred entries would result in the application crashing.</span></span>
+
+- <span data-ttu-id="75f95-1446">我们修复了启用策略Word 2007和以后的二进制文档和模板会导致一些合作创作失败的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1446">We fixed an issue where enabling policy Word 2007 and later Binary Documents and Templates would cause some co-authoring cases to fail.</span></span>
+
+- <span data-ttu-id="75f95-1447">我们解决了带有自定义 xml 值的文件打开速度非常慢的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1447">We fixed an issue where files with custom xml values opened extremely slowly.</span></span>
+
+- <span data-ttu-id="75f95-1448">我们修复了长路径名(大于32K)的文件无法打开，并且没有显示适当的错误消息的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1448">We fixed an issue where files with long path names (greater than 32K) would not open and an appropriate error message was not being displayed.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-1449">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1449">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-1450">我们已调查并解决了操作系统关闭后，通过 InTune 执行 Office 365 企业应用版部署暂停的问题。 </span><span class="sxs-lookup"><span data-stu-id="75f95-1450">We have investigated and resolved the issue where an Office 365 ProPlus deployment via InTune is paused after an OS shutdown.</span></span>
+
+- <span data-ttu-id="75f95-1451">修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。</span><span class="sxs-lookup"><span data-stu-id="75f95-1451">We fixed an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+
+- <span data-ttu-id="75f95-1452">此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-1452">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-june-08"></a><span data-ttu-id="75f95-1454">版本 2005：6 月 08 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1454">Version 2005: June 08</span></span>
+<span data-ttu-id="75f95-1455">*版本 2005（内部版本 12827.20336）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1455">*Version 2005 (Build 12827.20336)*</span></span>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1457">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1457">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1458">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1458">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1459">我们已修复了替换字体对话框的一个问题：替换字体下拉列表只显示演示文稿中的字体，而不是系统上安装的字体。</span><span class="sxs-lookup"><span data-stu-id="75f95-1459">We have fixed an issue with replace fonts dialog where replace font dropdown only shows fonts within the presentation instead of fonts installed on the system.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-june-04"></a><span data-ttu-id="75f95-1461">版本 2005：6 月 4 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1461">Version 2005: June 04</span></span>
+<span data-ttu-id="75f95-1462">*版本 2005（内部版本 12827.20320）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1462">*Version 2005 (Build 12827.20320)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1738">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1738">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1739">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1739">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1464">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1464">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1465">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1465">Access</span></span>
 
-- <span data-ttu-id="c9536-1740">**M365 高级版内容选取器：** 让你的文档更生动！</span><span class="sxs-lookup"><span data-stu-id="c9536-1740">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="c9536-1741">探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="c9536-1741">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+- <span data-ttu-id="75f95-1466">**跟上时代!日期/时间扩展数据类型具有更好的精度 。:** 引入新的改进的数据类型。</span><span class="sxs-lookup"><span data-stu-id="75f95-1466">**Keep up with the times! The Date/Time Extended data type has better precision.:** Introducing a new and improved data type.</span></span>  <span data-ttu-id="75f95-1467">为了增强与SQL的语法兼容性，并提高包含日期和时间的记录的准确性和详细程度，我们将DateTime2数据类型实现到Access中。</span><span class="sxs-lookup"><span data-stu-id="75f95-1467">To enhance syntax compatibility with SQL, and to increase accuracy and level of detail in records that include dates and times, we’re implementing the DateTime2 data type into Access.</span></span> <span data-ttu-id="75f95-1468">这个额外的日期和时间数据类型将包括更大的日期范围(0001-01-01通过 9999-12-31)，具有更高的指定时间精度(使用纳秒，而不是秒)，你将能够提供和执行计算。</span><span class="sxs-lookup"><span data-stu-id="75f95-1468">This additional date & time data type will include a larger date range (0001-01-01 through 9999-12-31), with higher-specified time precision (nanoseconds, rather than seconds) that you will be able to provide and perform calculations on.</span></span> <span data-ttu-id="75f95-1469">要启用，请选择新字段> Date & Time Extended。</span><span class="sxs-lookup"><span data-stu-id="75f95-1469">To enable, select New field > Date & Time Extended.</span></span> [<span data-ttu-id="75f95-1470">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1470">Learn more</span></span>](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
 
-### <a name="outlook"></a><span data-ttu-id="c9536-1742">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1742">Outlook</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1471">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1471">Excel</span></span>
 
-- <span data-ttu-id="c9536-1743">**M365 高级版内容选取器：** 让你的文档更生动！</span><span class="sxs-lookup"><span data-stu-id="c9536-1743">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="c9536-1744">探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="c9536-1744">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+- <span data-ttu-id="75f95-1472">**在 Excel 中从 Power BI 中的数据集创建数据透视表：** 你可以在 Excel 中创建连接到 Power BI 中存储的数据集的数据透视表，只需点击几下鼠标。</span><span class="sxs-lookup"><span data-stu-id="75f95-1472">**Create PivotTables from Datasets in Power BI within Excel:** You can create PivotTables in Excel that are connected to datasets stored in Power BI with a few clicks.</span></span> <span data-ttu-id="75f95-1473">这样做可以让你更好地利用数据透视表和 Power BI。</span><span class="sxs-lookup"><span data-stu-id="75f95-1473">Doing this allows you get the best of both PivotTables and Power BI.</span></span> <span data-ttu-id="75f95-1474">使用数据透视表从你的安全 Power BI 数据集计算、总结和分析数据。</span><span class="sxs-lookup"><span data-stu-id="75f95-1474">Calculate, summarize, and analyze your data with PivotTables from your secure Power BI datasets.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1745">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1745">PowerPoint</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1475">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1475">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1746">**M365 高级版内容选取器：** 让你的文档更生动！</span><span class="sxs-lookup"><span data-stu-id="c9536-1746">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="c9536-1747">探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="c9536-1747">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+- <span data-ttu-id="75f95-1476">**快速从上一个 Outlook 会话重新打开项目的选项：** 我们增加了一个选项，使你能快速从上一个 Outlook 会话重新打开项目。</span><span class="sxs-lookup"><span data-stu-id="75f95-1476">**Option to quickly reopen items from previous Outlook session:** We added an option to quickly reopen items from a previous Outlook session.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1748">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1748">Word</span></span>
 
-- <span data-ttu-id="c9536-1749">**M365 高级版内容选取器：** 让你的文档更生动！</span><span class="sxs-lookup"><span data-stu-id="c9536-1749">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="c9536-1750">探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="c9536-1750">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1479">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1479">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1480">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1480">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1481">这修复了当用户在文件中同时拥有现代和遗留评论时的故障，从而触发对评论的升级。</span><span class="sxs-lookup"><span data-stu-id="75f95-1481">This fixes a crash when users have both modern and legacy comments in a file, thus triggering an upgrade on the comments.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-1482">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1482">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-1483">我们通过设置Bing插件安装验证默认为真实，并使MSI返回成功视为安装成功，解决了ValidateInstall失败率问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1483">We have resolved the ValidateInstall fail rate issue by setting the Bing Addon install validation to true by default and considering the MSI return success as an install success.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-may-29"></a><span data-ttu-id="75f95-1485">版本 2005：5 月 29 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1485">Version 2005: May 29</span></span>
+<span data-ttu-id="75f95-1486">*版本 2005（内部版本 12827.20268）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1486">*Version 2005 (Build 12827.20268)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1488">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1488">Feature updates</span></span>
+
+### <a name="excel"></a><span data-ttu-id="75f95-1489">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1489">Excel</span></span>
+
+- <span data-ttu-id="75f95-1490">**工作表视图：** 排序/筛选时，与他人在 Excel 桌面协作。</span><span class="sxs-lookup"><span data-stu-id="75f95-1490">**Sheet View:** Sort/filter while collaborating with others in Excel desktop.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1491">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1491">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1492">**在Outlook toast通知中增加了额外的按钮：** 在 Windows 10 上运行 Outlook 时，Outlook toast通知中会出现快速操作按钮。</span><span class="sxs-lookup"><span data-stu-id="75f95-1492">**Additional buttons added to Outlook toast notifications:** Quick Action buttons now appear in Outlook toast notifications when running Outlook on Windows 10.</span></span>
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1495">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1495">Resolved issues</span></span>
+
+
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1496">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1496">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1497">解决了导致 Windows 10 服务器版本的用户看到警告 “防病毒状态:无效“的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1497">Addressed an issue that caused users of Windows 10 server versions to see the warning  Antivirus status: Invalid.</span></span> <span data-ttu-id="75f95-1498">此版本的 Windows 支持防病毒检测，但没有发现防病毒，尽管已正确安装防病毒。</span><span class="sxs-lookup"><span data-stu-id="75f95-1498">This version of Windows supports antivirus detection, but no antivirus was found despite having anti virus correctly installed.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-1499">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1499">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-1500">当注册表键HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth被设置为零时，正在激活一个外接程序时，windows中的office主机故障。</span><span class="sxs-lookup"><span data-stu-id="75f95-1500">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="75f95-1501">此更改可修复此问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1501">This change would fix this issue.</span></span>
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-may-21"></a><span data-ttu-id="75f95-1503">版本 2005：5 月 21 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1503">Version 2005: May 21</span></span>
+<span data-ttu-id="75f95-1504">*版本 2005（内部版本 12827.20210）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1504">*Version 2005 (Build 12827.20210)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1508">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1508">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1509">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1509">Excel</span></span>
+
+- <span data-ttu-id="75f95-1510">修正了团队共享 Excel 窗口时，使用Ctrl+Shift+箭头键滚动后Excel可能会无法响应的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1510">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
+
+
+- <span data-ttu-id="75f95-1511">在某些情况下，单击指向同一工作簿内某个位置的超链接将导致工作簿被隐藏。</span><span class="sxs-lookup"><span data-stu-id="75f95-1511">In some cases, clicking a hyperlink to a place within the same workbook will cause the workbook to be hidden.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1512">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1512">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1513">解决了关于回复/转发标签的clp审核事件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1513">Addressed an issue with the clp auditing event for the reply/forward label.</span></span>
+
+
+- <span data-ttu-id="75f95-1514">解决了用户在提交来自管理通知的反馈时故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1514">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2005-may-14"></a><span data-ttu-id="75f95-1516">版本 2005：5 月 14 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1516">Version 2005: May 14</span></span>
+<span data-ttu-id="75f95-1517">*版本 2005（内部版本 12827.20160）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1517">*Version 2005 (Build 12827.20160)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1519">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1519">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1520">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1520">Excel</span></span>
+
+- <span data-ttu-id="75f95-1521">**自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。</span><span class="sxs-lookup"><span data-stu-id="75f95-1521">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1522">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1522">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1523">**无需遥控器：使用耳塞即可：** 使用 Surface Earbuds 来控制 PowerPoint 演示文稿。</span><span class="sxs-lookup"><span data-stu-id="75f95-1523">**No need for a clicker: your earbuds have you covered:** Use your Surface Earbuds to control your PowerPoint presentations.</span></span> <span data-ttu-id="75f95-1524">重要提示：必须使用 Windows 10 的 Surface Audio 应用配对 Surface Earbuds，才能使用手势控制演示文稿。</span><span class="sxs-lookup"><span data-stu-id="75f95-1524">Important: You must pair your Surface Earbuds in the Surface Audio app for Windows 10 in order to use gestures to control presentations.</span></span> <span data-ttu-id="75f95-1525">此处提供了有关 Windows 10 上的 Surface Audio 应用入门的说明。</span><span class="sxs-lookup"><span data-stu-id="75f95-1525">Instructions for getting started with the Surface Audio app on Windows 10 are available here.</span></span> [<span data-ttu-id="75f95-1526">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1526">Learn more</span></span>](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- <span data-ttu-id="75f95-1527">**自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。</span><span class="sxs-lookup"><span data-stu-id="75f95-1527">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+
+### <a name="word"></a><span data-ttu-id="75f95-1528">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1528">Word</span></span>
+
+- <span data-ttu-id="75f95-1529">**自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。</span><span class="sxs-lookup"><span data-stu-id="75f95-1529">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1532">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1532">Resolved issues</span></span>
+
+### <a name="excel"></a><span data-ttu-id="75f95-1533">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1533">Excel</span></span>
+
+- <span data-ttu-id="75f95-1534">增大了与图表搭配使用的“自定义误差线”对话框上的单元格引用编辑控件的大小。</span><span class="sxs-lookup"><span data-stu-id="75f95-1534">Increased the size of the cell reference edit controls on the Custom Error Bars dialog used with charts.</span></span>
+
+- <span data-ttu-id="75f95-1535">修复了图表数据表可能在日期坐标轴中错误呈现值的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1535">Fixed an issue where chart data table could render values in a date axis incorrectly.</span></span>
+
+- <span data-ttu-id="75f95-1536">修复了在进入页面布局或分页预览后无法禁用分页符的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1536">Fixed an issue where page breaks could not be disabled after going into Page Layout or Page Break Preview.</span></span>
+
+- <span data-ttu-id="75f95-1537">修复了隐藏和取消隐藏带序列数据的列后可能丢失图表行样式的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1537">Fixed an issue where chart line styles could be lost after hiding and unhiding columns with series data.</span></span>
+
+- <span data-ttu-id="75f95-1538">解决了在筛选列表中插入列所需的时间可能比预期更长的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1538">Fixed an issue where inserting a column in a filtered list would take longer than expected.</span></span>
+
+- <span data-ttu-id="75f95-1539">修复了打印时窗体控件中的复选框缩放的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1539">Fixed a problem with the scaling of checkboxes in form controls when printed.</span></span>
+
+- <span data-ttu-id="75f95-1540">修复了以下问题：在文件重新打开后，如果文件路径太长，外部链接会停止工作。</span><span class="sxs-lookup"><span data-stu-id="75f95-1540">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
+
+- <span data-ttu-id="75f95-1541">在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。</span><span class="sxs-lookup"><span data-stu-id="75f95-1541">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+
+- <span data-ttu-id="75f95-1542">Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。</span><span class="sxs-lookup"><span data-stu-id="75f95-1542">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
+
+- <span data-ttu-id="75f95-1543">在当前版本的 Excel 中打开在 Excel 2016 保存含有数字签名的工作簿时，可能会使签名无效。</span><span class="sxs-lookup"><span data-stu-id="75f95-1543">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+
+- <span data-ttu-id="75f95-1544">此更改修复了条件格式 (CF) 信息未正确保存到 XLSB 文件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1544">This change fixes an issue where conditional formatting (CF) information was not being saved to XLSB files correctly.</span></span>
+
+- <span data-ttu-id="75f95-1545">此更改修复了以下问题：即使 LINEST 函数返回的值正确，图表趋势线 R 平方值（在强制使用的 Y 轴截距情况下）也不正确。</span><span class="sxs-lookup"><span data-stu-id="75f95-1545">This change fixes an issue where the chart trendline R-Squared value (in the forced y-intercept case) was incorrect even though the LINEST function returns the correct value.</span></span>
+
+- <span data-ttu-id="75f95-1546">此更改修复了自定义图表趋势线格式设置未始终处于保存状态的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1546">This change fixes an issue where customized chart trendline formatting was not always being saved.</span></span>
+
+- <span data-ttu-id="75f95-1547">尝试在新工作表上为使用旧版“共享工作簿”模式的工作簿列出更改时，可能会发生崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1547">A crash could occur when trying to list changes on a new sheet for a workbook using legacy"Shared Workbook" mode.</span></span>
+
+- <span data-ttu-id="75f95-1548">解决了启用“以互补色代表负值”选项后不保存数据透视表中的自定义格式设置的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1548">Fixed the issue where custom formatting in Pivot charts may not be saved when the "Invert if negative" option was enabled.</span></span>
+
+- <span data-ttu-id="75f95-1549">解决了选择“以互补色代表负值”选项后不保存数据透视表中单个数据点的自定义格式设置的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1549">Fixed an issue where custom formatting for a single data point in a Pivot chart was not saved if the "Invert if negative" option was selected.</span></span>
+
+- <span data-ttu-id="75f95-1550">此更改修复了将“@”字符上传到 CSV 文件会导致字符串后面的“@”字符后转换为公式的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1550">This change fixes an issue where the '@' character uploaded in a CSV file, would result in the string after the '@' character to be converted to a formula.</span></span>
+
+- <span data-ttu-id="75f95-1551">修复了 SEQUENCE 函数中的小数值未正确舍入的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1551">Fixed an issue where decimal values in the SEQUENCE function were not rounded correctly.</span></span>
+
+### <a name="onenote"></a><span data-ttu-id="75f95-1552">OneNote</span><span class="sxs-lookup"><span data-stu-id="75f95-1552">OneNote</span></span>
+
+- <span data-ttu-id="75f95-1553">修复了换行符存储为垂直标签的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1553">Fixed an issue where line breaks were being stored as vertical tabs.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1554">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1554">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1555">解决了导致用户无法将个人联系人组添加为与会者的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1555">Addresses an issue that caused users to be unable to add a Personal Contact Group as a Meeting attendee.</span></span>
+
+- <span data-ttu-id="75f95-1556">修复了 Office 功能区中组日历的“分类”按钮被禁用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1556">Fixed an issue where the categorize button for group calendars in the Office Ribbon was disabled.</span></span>
+
+- <span data-ttu-id="75f95-1557">解决了 Windows 更新后导致 Outlook 在打开本地保存的 .msg 或 .oft 文件时出现崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1557">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
+
+- <span data-ttu-id="75f95-1558">修复了以下问题：如果企业客户的组文件夹未实现或无法正常工作，将导致 Outlook 显示“未响应”消息。</span><span class="sxs-lookup"><span data-stu-id="75f95-1558">Fixed an issue where enterprise customers with group folders not implemented or not working, would result in Outlook displaying a "not responding" message.</span></span>
+
+- <span data-ttu-id="75f95-1559">解决了导致安全链接（即用户在 Outlook 桌面版客户端中单击的因被截断而无法加载的链接）较长的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1559">Addressed an issue that caused very long safelinks that users clicked on in the Outlook Desktop client to fail to load due to truncation.</span></span>
+
+- <span data-ttu-id="75f95-1560">修复了在与服务器同步时，名称包含 DBCS （双字节字符集）字符的 Outlook 文件夹间歇性消失的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1560">Fixed an issue where Outlook folders with names containing DBCS (Double Byte Character Set) characters would intermittently disappear when synchronizing with the server.</span></span> <span data-ttu-id="75f95-1561">为此，必须使用 IMAP 帐户配置 Outlook 并在区域设置为“日语”的系统上运行。</span><span class="sxs-lookup"><span data-stu-id="75f95-1561">For this to happen, Outlook had to be configured with an IMAP account and running on a system with the locale set to Japanese.</span></span>
+
+- <span data-ttu-id="75f95-1562">解决了导致删除为邮箱创建的规则而不是用户的主要邮箱无效的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1562">Addressed an issue that caused delete rules created for mailboxes other than the user's primary mailbox to become invalid.</span></span>
+
+- <span data-ttu-id="75f95-1563">解决了在转发加密邮件时导致附件被删除的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1563">Addressed an issue that caused attachments to get dropped when forwarding an encrypted message.</span></span>
+
+- <span data-ttu-id="75f95-1564">解决了距离开会时间超过 2 个月的会议无法在日程安排助理中显示会议主题的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1564">Addressed an issue that caused meetings that are more than 2 months away to fail to display a meeting subject in the Scheduling Assistant.</span></span>
+
+- <span data-ttu-id="75f95-1565">解决了在转发大型 HTML 邮件时导致用户看到邮件正文截断的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1565">Addressed an issue that caused users to see message body truncation when forwarding large HTML messages.</span></span>
+
+- <span data-ttu-id="75f95-1566">添加了通过组策略强制执行 S/MIME 默认签名配置的能力。</span><span class="sxs-lookup"><span data-stu-id="75f95-1566">Added the ability to enforce S/MIME default signing configuration via group policy.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1567">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1567">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1568">修复了以下问题：如果用户在未发布的情况下创建了批注并关闭了批注窗格，然后打开一个新窗口，在多张幻灯片中导航并关闭窗口，最后再打开原始演示文稿中的批注窗格，草稿批注将不可用的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1568">Fixed an issue where if a user created a comment without posting it and closed the Comments pane, then opened a new window, navigated through multiple slides and, closed the window, and finally re-opened the Comments pane in the original presentation, the draft comments would not be available.</span></span>
+
+- <span data-ttu-id="75f95-1569">修复了将鼠标悬停在星号 (\*) 上方时未显示上次更新文档的人员的用户名和日期的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1569">Fixed an issue where hovering over the asterisk (\*) symbol did not display the user name and date of the last person to update the document.</span></span>
+
+### <a name="project"></a><span data-ttu-id="75f95-1570">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1570">Project</span></span>
+
+- <span data-ttu-id="75f95-1571">在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent 事件。</span><span class="sxs-lookup"><span data-stu-id="75f95-1571">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
+
+- <span data-ttu-id="75f95-1572">修复了以下问题：在连接至 SharePoint 任务列表的项目上更改版块状态字段时，Project 可能会崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1572">Fixed an issue where Project may crash when changing the board status field on a project that is connected to a SharePoint task list.</span></span>
+
+- <span data-ttu-id="75f95-1573">解决了以下问题：保存使用 Project 早期版本创建的项目时，Project 可能会崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1573">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
+
+- <span data-ttu-id="75f95-1574">修复了以下问题：如果 Project 连接到 Project Web App，并且小数分隔符是逗号，则 TaskDependencies Add 方法会在尝试添加延迟时失败。</span><span class="sxs-lookup"><span data-stu-id="75f95-1574">Fixed an issue where if Project is connected to Project Web App and the decimal separator is a comma, TaskDependencies Add method fails when Lag is added.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="75f95-1575">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1575">Word</span></span>
+
+- <span data-ttu-id="75f95-1576">修复了在协作模式下插入文档批注并非总能正常工作的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1576">Fixed an issue where inserting comments on a document in collaboration mode would not always work.</span></span>
+
+- <span data-ttu-id="75f95-1577">此更改修复了单击 @ 提及时人员卡片闪烁的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1577">This change fixes an issue where the People card would flash if the @ mention was clicked.</span></span>
+
+- <span data-ttu-id="75f95-1578">启用选项“显示书签”不会显示书签。</span><span class="sxs-lookup"><span data-stu-id="75f95-1578">Enabling the option "Show bookmarks" would not display bookmarks.</span></span> <span data-ttu-id="75f95-1579">已修复此问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1579">This has been fixed.</span></span>
+
+- <span data-ttu-id="75f95-1580">修复了使用草稿批注关闭文档将提示用户是否希望关闭文档而不保存草稿批注的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1580">Fixed the issue where closing a document with draft comments would prompt the user if they wanted to close the document without saving the draft comments.</span></span> <span data-ttu-id="75f95-1581">取消该提示会关闭文档，而不会将其保持打开状态。</span><span class="sxs-lookup"><span data-stu-id="75f95-1581">Cancelling the prompt would close the document rather than leaving it open.</span></span>
+
+- <span data-ttu-id="75f95-1582">已修复复制和粘贴标题的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1582">We fixed an issue in copying and pasting headings.</span></span>
+
+- <span data-ttu-id="75f95-1583">修复了翻译已发布的批注会导致错误“插入已翻译的文本失败”的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1583">Fixed an issue where translating a posted comment would result in the error 'Inserting translated text failed'.</span></span>
+
+- <span data-ttu-id="75f95-1584">此更改修复了以下问题：如果已启用“显示域代码而非域值”选项，可能不会显示包含超链接的文本。</span><span class="sxs-lookup"><span data-stu-id="75f95-1584">This change fixes an issue where text with hyperlinks may not display if the option: "Show field codes instead of their values" was enabled.</span></span>
+
+- <span data-ttu-id="75f95-1585">在 Web 视图/沉浸式阅读器中，单击提示会滚动到顶部，即使它已在视图中。</span><span class="sxs-lookup"><span data-stu-id="75f95-1585">In Web View/Immersive reader, clicking on a hint would scroll to the top even though it was already in view.</span></span> <span data-ttu-id="75f95-1586">已修复此问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1586">This has been fixed.</span></span>
+
+- <span data-ttu-id="75f95-1587">我们修复了以下问题：尝试将包含宏的文件保存在新名称下时，无论用户输入何种内容，都将用 .docx 扩展名和文件名 WRO0004.docx 保存该文件，从而使文档显示为不可用。</span><span class="sxs-lookup"><span data-stu-id="75f95-1587">We fixed an issue that, when attempting to save a file containing a macro under a new name, would cause it to be saved with .docx extension and the filename WRO0004.docx, regardless of what the user entered, rendering the document unusable.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-1588">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1588">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-1589">当用户被告知只能使用团队的策略时，他们仍然可以使用Skype for Business Outlook 插件来安排会议。</span><span class="sxs-lookup"><span data-stu-id="75f95-1589">When a user is given a policy that moves them to Teams Only, they were still able to use the Skype for Business Outlook add-in to schedule meetings.</span></span>  <span data-ttu-id="75f95-1590">在此更新之后，当客户端读取指示用户为仅限团队的策略并进入仅限会议加入模式后，你将不再能够为Skype安排商务会议。</span><span class="sxs-lookup"><span data-stu-id="75f95-1590">After this update, you will no longer be able to schedule Skype for Business meetings after the client reads the policy indicating the user is Teams Only, and enters meeting join only mode.</span></span>  <span data-ttu-id="75f95-1591">另外，如果 Skype for Business Outlook 插件在启动时看到 Skype for Business客户端处于会议加入模式，它将不会激活自己。</span><span class="sxs-lookup"><span data-stu-id="75f95-1591">Additionally the Skype for Business Outlook Add-in will not activate itself while starting up if it sees the Skype for Business client is in meeting join only mode.</span></span>
+
+- <span data-ttu-id="75f95-1592">此更新修复了 Microsoft Office 中的一个问题，即在运行时可能无法正确找到所含引用可通过搜索 PATH 环境变量中指定的位置找到的 Visual Basic for Applications 项目，从而导致 VBA 运行时错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-1592">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
+
+- <span data-ttu-id="75f95-1593">此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。</span><span class="sxs-lookup"><span data-stu-id="75f95-1593">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-may-11"></a><span data-ttu-id="75f95-1595">版本 2004：5 月 11 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1595">Version 2004: May 11</span></span>
+<span data-ttu-id="75f95-1596">*版本 2004（内部版本 12730.20270）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1596">*Version 2004 (Build 12730.20270)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1598">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1598">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1599">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1599">Excel</span></span>
+
+- <span data-ttu-id="75f95-1600">**使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。</span><span class="sxs-lookup"><span data-stu-id="75f95-1600">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1601">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1601">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1602">**电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。</span><span class="sxs-lookup"><span data-stu-id="75f95-1602">**Improved links in email:** When you include a link to a file, the file name replaces the URL.</span></span> <span data-ttu-id="75f95-1603">可更改权限，以便所有收件人都可以访问。</span><span class="sxs-lookup"><span data-stu-id="75f95-1603">You can change permissions so all recipients have access.</span></span> [<span data-ttu-id="75f95-1604">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1604">Learn more</span></span>](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br /><span data-ttu-id="75f95-1605">在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息</span><span class="sxs-lookup"><span data-stu-id="75f95-1605">See details in [blog post](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)</span></span>
+
+- <span data-ttu-id="75f95-1606">**使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。</span><span class="sxs-lookup"><span data-stu-id="75f95-1606">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1607">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1607">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1608">**使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。</span><span class="sxs-lookup"><span data-stu-id="75f95-1608">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>  [<span data-ttu-id="75f95-1609">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1609">Learn more</span></span>](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a><span data-ttu-id="75f95-1610">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1610">Word</span></span>
+
+- <span data-ttu-id="75f95-1611">**使用动态 Gif 讲述故事：** 现在，Office 编辑器支持动画 Gif，你的文档更漂亮。</span><span class="sxs-lookup"><span data-stu-id="75f95-1611">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1614">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1614">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1615">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1615">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1616">解决了导致用户在显示 toast 通知时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1616">Addressed an issue that caused users to experience a crash when displaying toast notifications.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-may-04"></a><span data-ttu-id="75f95-1618">版本 2004：5 月 4 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1618">Version 2004: May 04</span></span>
+<span data-ttu-id="75f95-1619">*版本 2004（内部版本 12730.20250）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1619">*Version 2004 (Build 12730.20250)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1621">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1621">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1622">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1622">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1623">**更好的结果 - 瞬间完成：** 我们更新了搜索体验，使其更加智能、更快速，并且比以往更可靠。</span><span class="sxs-lookup"><span data-stu-id="75f95-1623">**Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever.</span></span> [<span data-ttu-id="75f95-1624">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1624">Learn more</span></span>](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- <span data-ttu-id="75f95-1625">**IT 管理员事件通知：** 使用 Outlook for Windows 中的新右侧面板通知，Microsoft 365 租户全局管理员和 Office 应用程序管理员将收到有关影响用户的 Outlook 和 O365 通知。</span><span class="sxs-lookup"><span data-stu-id="75f95-1625">**Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows.</span></span> [<span data-ttu-id="75f95-1626">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1626">Learn more</span></span>](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1629">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1629">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-1630">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1630">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-1631">此更新修复了 Microsoft Office 中 Visual Basic for Applications 的以下问题：某些引用库名称或库路径中包含 DBSC 字符的代码库的 VBA 项目会被 Office 应用程序视为加载时损坏。</span><span class="sxs-lookup"><span data-stu-id="75f95-1631">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-april-29"></a><span data-ttu-id="75f95-1633">版本 2004：4 月 29 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1633">Version 2004: April 29</span></span>
+<span data-ttu-id="75f95-1634">*版本 2004（生成号 12730.20236）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1634">*Version 2004 (Build 12730.20236)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1636">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1636">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1637">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1637">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1638">**帮助保护组中的数据：** 你在创建组时选择的敏感度标签应用于组电子邮件、文档和团队网站。</span><span class="sxs-lookup"><span data-stu-id="75f95-1638">**Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites.</span></span>
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1641">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1641">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1642">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1642">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1643">解决了导致 Outlook 在某些 Windows 内部版本中发生故障的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1643">Addresses an issue that caused Outlook to crash on some builds of Windows.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-april-25"></a><span data-ttu-id="75f95-1645">版本 2004：4 月 25 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1645">Version 2004: April 25</span></span>
+<span data-ttu-id="75f95-1646">*版本 2004（内部版本 12730.20206）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1646">*Version 2004 (Build 12730.20206)*</span></span>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1648">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1648">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1649">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1649">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1650">解决了 Windows 更新后导致 Outlook 在打开本地保存的 .msg 或 .oft 文件时出现崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1650">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
+
+### <a name="project"></a><span data-ttu-id="75f95-1651">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1651">Project</span></span>
+
+- <span data-ttu-id="75f95-1652">修复了以下问题：如果你使用的是连接到 Project Web App 的 Project，并且小数分隔符是逗号，则当你尝试向依赖项添加延迟时，TaskDependencies Add 方法将失败。</span><span class="sxs-lookup"><span data-stu-id="75f95-1652">Fixed an issue where if you are using Project connected to Project Web App and the decimal separator is a comma, the TaskDependencies Add method fails when you try to add lag to a dependency.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-1653">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1653">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-1654">此修复程序解决了阻止同时使用密码限制访问和保护文件的错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-1654">This fix resolves an error which occurs preventing both restricting access and protecting files with a password simultaneously.</span></span>
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-april-21"></a><span data-ttu-id="75f95-1656">版本 2004：4 月 21 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1656">Version 2004: April 21</span></span>
+<span data-ttu-id="75f95-1657">*版本 2004（生成号 12730.20182）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1657">*Version 2004 (Build 12730.20182)*</span></span>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1659">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1659">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1660">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1660">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1661">解决了导致文件夹窗格宽度意外改变的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1661">Addresses an issue that caused the width of the folder pane to change unexpectedly.</span></span>
+
+- <span data-ttu-id="75f95-1662">解决了导致用户在退出 Outlook 时遇到挂起的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1662">Addresses an issue that caused users to experience a hang while exiting Outlook.</span></span>
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2004-april-15"></a><span data-ttu-id="75f95-1664">版本 2004：4 月 15 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1664">Version 2004: April 15</span></span>
+<span data-ttu-id="75f95-1665">*版本 2004（内部版本 12730.20150）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1665">*Version 2004 (Build 12730.20150)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1667">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1667">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1668">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1668">Excel</span></span>
+
+- <span data-ttu-id="75f95-1669">**Facebook 连接器支持即将结束：** 从 2020 年 4 月开始，Excel 将不再支持使用 Facebook 连接器的外部数据连接。</span><span class="sxs-lookup"><span data-stu-id="75f95-1669">**Facebook connector support is ending:** Starting in April 2020, Excel will no longer support external data connections that use the Facebook connector.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1670">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1670">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1671">**新增了用于在 Outlook 中撰写邮件时禁用 @提及建议的选项：** 你是否觉得 @提及选取器更令人生厌，而不是更有用？</span><span class="sxs-lookup"><span data-stu-id="75f95-1671">**New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful?</span></span> <span data-ttu-id="75f95-1672">现在，可以根据需要禁用它。</span><span class="sxs-lookup"><span data-stu-id="75f95-1672">Now you can turn it off if you prefer.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1673">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1673">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1674">**演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。</span><span class="sxs-lookup"><span data-stu-id="75f95-1674">**Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.</span></span>
+
+### <a name="word"></a><span data-ttu-id="75f95-1675">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1675">Word</span></span>
+
+- <span data-ttu-id="75f95-1676">**为私人副本添加批注：** 通过制作共享文档的私人副本，创建手写笔记供你自己查看。</span><span class="sxs-lookup"><span data-stu-id="75f95-1676">**Annotate your private copy:** Create hand written notes for your eyes by making a private copy of a shared document.</span></span> <span data-ttu-id="75f95-1677">转到“查看”>“创建私人副本”以开始使用。</span><span class="sxs-lookup"><span data-stu-id="75f95-1677">Go to View > Create a Private Copy to get started.</span></span>
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1680">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1680">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1681">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1681">Access</span></span>
+
+- <span data-ttu-id="75f95-1682">修复了在任务窗格中调整表格大小和刷新表格时遇到的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1682">Fixed issues with resizing and refreshing tables in the task pane.</span></span>
+
+- <span data-ttu-id="75f95-1683">修复了 Access 国际版本在用户界面中显示英文字符串的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1683">Fixed an issue where international versions of Access were displaying English strings in the user interface.</span></span>
+
+### <a name="excel"></a><span data-ttu-id="75f95-1684">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1684">Excel</span></span>
+
+- <span data-ttu-id="75f95-1685">修复了以下问题：在工作表上选择单元格区域导致选择单个单元格。</span><span class="sxs-lookup"><span data-stu-id="75f95-1685">Fixed an issue where selecting a range of cells on a sheet would result in the selection of a single cell.</span></span>
+
+- <span data-ttu-id="75f95-1686">在 Excel 2016 中保存并且含有数字签名的工作簿在当前版本的 Excel 中打开时，可能会使签名无效。</span><span class="sxs-lookup"><span data-stu-id="75f95-1686">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+
+- <span data-ttu-id="75f95-1687">修复了导致以下情形的问题：复制包含数据透视表的工作表后，在某些情况下 Excel 崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1687">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
+
+- <span data-ttu-id="75f95-1688">Application.Evaluate (VBA) 在某些情况下不能用于用户定义的函数。</span><span class="sxs-lookup"><span data-stu-id="75f95-1688">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
+
+- <span data-ttu-id="75f95-1689">修复了用户以编程方式编辑大量单元格时可能遇到的性能问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1689">Fixed a performance issue that users may have experienced when programmatically editing a large range of cells.</span></span>
+
+- <span data-ttu-id="75f95-1690">修复了在日语环境中打开 csv 文件时出现的性能问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1690">Fixed a performance issue that occurred when opening csv files with Japanese environments.</span></span>
+
+- <span data-ttu-id="75f95-1691">修复了以下问题：插入用户定义的图表模板用作默认模板会导致将其另存为柱形图。</span><span class="sxs-lookup"><span data-stu-id="75f95-1691">Fixed an issue where inserting a user defined chart template as default would result in saving it as a column chart.</span></span>
+
+- <span data-ttu-id="75f95-1692">修复了以下问题：当基础数据单元格没有标题时，图表上的数据标签显示为空白。</span><span class="sxs-lookup"><span data-stu-id="75f95-1692">Fixed an issue where Data labels on charts would display as blank when the underlying data cells did not have a caption.</span></span>
+
+- <span data-ttu-id="75f95-1693">修复了在使用某些 X 轴区域减小图表大小时可能导致 Excel 停止响应的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1693">Fixed an issue which could cause Excel to stop responding when reducing the size of a chart with some x-axis ranges.</span></span>
+
+- <span data-ttu-id="75f95-1694">修复了以下问题：对于启用了 R1C1 单元格引用且正在共同创作/共享的 Excel 工作表，将鼠标悬停在用户状态图标上时，在 R1C1 模式下不显示活动单元格引用。</span><span class="sxs-lookup"><span data-stu-id="75f95-1694">Fixed an issue where an Excel sheet with R1C1 cell referencing enabled and is being co-authored / shared, hovering over the user presence icon does not display the active cell reference in R1C1 mode.</span></span>
+
+- <span data-ttu-id="75f95-1695">此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。</span><span class="sxs-lookup"><span data-stu-id="75f95-1695">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1696">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1696">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1697">此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。</span><span class="sxs-lookup"><span data-stu-id="75f95-1697">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
+
+- <span data-ttu-id="75f95-1698">此更改修复了以下问题：对电子邮件草稿的最新更改没有得到更新。</span><span class="sxs-lookup"><span data-stu-id="75f95-1698">This change fixes an issue where the latest changes to draft emails were not being updated.</span></span>
+
+- <span data-ttu-id="75f95-1699">修复了以下问题：无法鼠标右键单击文件并使用“发送到”。</span><span class="sxs-lookup"><span data-stu-id="75f95-1699">Fixed an issue where right-mouse clicking on a file and using 'Send to' would not work.</span></span>
+
+- <span data-ttu-id="75f95-1700">解决了导致代理人在不同计算机上看到共享邮箱的不同文件夹层次结构的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1700">Addressed an issue that caused delegates to see different folder hierarchies on different machines for shared mailboxes.</span></span>
+
+- <span data-ttu-id="75f95-1701">解决了导致类别偶尔从电子邮件中消失的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1701">Addressed an issue that caused categories to occasionally disappear from email messages.</span></span>
+
+- <span data-ttu-id="75f95-1702">解决了导致在更改计算机上的时区时一些提醒无法触发的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1702">Addressed an issue that caused some reminders to fail to fire when changing the timezone on a machine.</span></span>
+
+- <span data-ttu-id="75f95-1703">解决了导致用户在尝试查看组织表单属性时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1703">Addressed an issue that caused users to experience a crash when attempting to view the properties of an Organizational Form.</span></span>
+
+- <span data-ttu-id="75f95-1704">修复了以下问题：如果用户有通讯簿的自定义搜索路径，Outlook 的名称解析范围会被限制为此自定义路径，而不包括全局地址列表 (GAL)。</span><span class="sxs-lookup"><span data-stu-id="75f95-1704">Fixed an issue where if a user had a customized the search path for the Address book, Outlook's name resolution scope would be limited to the customized path rather than including the Global Address List (GAL).</span></span>
+
+- <span data-ttu-id="75f95-1705">解决了导致附件工具中缺少“保存到云”按钮的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1705">Addressed an issue that caused the "Save to Cloud" button to be missing from Attachment Tools.</span></span>
+
+- <span data-ttu-id="75f95-1706">解决了导致以下情形的问题：如果用户对要回复的邮件没有所有者权限，在检查器窗口中回复受数字权限管理的邮件时，用户无法添加签名。</span><span class="sxs-lookup"><span data-stu-id="75f95-1706">Addressed an issue that caused users to be unable to add a signature when replying to a digitally rights managed message from an inspector window when the user does not have Owner permission on the message being replied to.</span></span>
+
+- <span data-ttu-id="75f95-1707">解决了导致以下情形的问题：用户无法将其他附件从 Web 位置添加到先前创建的会议。</span><span class="sxs-lookup"><span data-stu-id="75f95-1707">Addressed an issue that caused users to be unable to add additional attachments from a web location to a previously created meeting.</span></span>
+
+- <span data-ttu-id="75f95-1708">解决了导致以下情形的问题：将附件添加到邮件或通过拖放操作（而不是通过菜单）从邮件保存附件时，将更新文件的“上次修改时间”。</span><span class="sxs-lookup"><span data-stu-id="75f95-1708">Addressed an issue that caused the "Last Modified" date on a file to be updated when adding an attachment to a mail or saving an attachment from a mail by dragging and dropping it (as opposed to via a menu).</span></span>
+
+- <span data-ttu-id="75f95-1709">解决了导致以下情形的问题：在展开的查找窗格中按回车键时无法启动搜索，而是要求用户单击搜索按钮。</span><span class="sxs-lookup"><span data-stu-id="75f95-1709">Addressed an issue that caused hitting enter in the expanded find pane to fail to start a search, requiring instead that users click on the search button.</span></span>
+
+- <span data-ttu-id="75f95-1710">修复了以下问题：在一组返回的搜索结果中，按“类别”对结果排序时看不到“类别”颜色。</span><span class="sxs-lookup"><span data-stu-id="75f95-1710">Fixed an issue where within a set of returned search results, sorting the results by Categories would not display the Category colors.</span></span>
+
+- <span data-ttu-id="75f95-1711">修复了禁用“可用时显示用户照片”选项时，搜索不显示有关用户的信息的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1711">Fixed an issue where search shows no information about users when the option to "Show user photographs when available" is disabled.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1712">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1712">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1713">此更改修复了以下错误：无法保存包含表情符号的 PowerPoint 文件。</span><span class="sxs-lookup"><span data-stu-id="75f95-1713">This change fixes an error that could cause PowerPoint files containing emojis to fail when saving.</span></span>
+
+- <span data-ttu-id="75f95-1714">此更改修复了以下问题：在 PowerPoint 或 Word 中嵌入为 OLE 对象的旧版 Excel 图表呈现时，可能并不总是显示图表标题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1714">This change fixes an issue where the rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></span>
+
+- <span data-ttu-id="75f95-1715">修复了以下问题：将文本从 Excel 复制到 PowerPoint 时可能会更改其格式。</span><span class="sxs-lookup"><span data-stu-id="75f95-1715">We have fixed an issue when copying text from Excel to PowerPoint might change its formatting.</span></span>
+
+- <span data-ttu-id="75f95-1716">此更改修复了以下问题：使用“全字匹配”查找特殊字符时并非总是按预期工作。</span><span class="sxs-lookup"><span data-stu-id="75f95-1716">This change fixes an issue where finding special characters using 'find whole words only' did not always work as expected.</span></span>
+
+### <a name="project"></a><span data-ttu-id="75f95-1717">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1717">Project</span></span>
+
+- <span data-ttu-id="75f95-1718">修复了有时无法正确计算摘要任务日期的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1718">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+
+- <span data-ttu-id="75f95-1719">修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。</span><span class="sxs-lookup"><span data-stu-id="75f95-1719">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+
+- <span data-ttu-id="75f95-1720">修复了以下问题：当用户单击了“任务”功能区上“计划”分组中的“停用”按钮后，“ProjectBeforeTaskChange”Visual Basic Applications (VBA) 事件未触发。</span><span class="sxs-lookup"><span data-stu-id="75f95-1720">Fixed an issue where the 'ProjectBeforeTaskChange' Visual Basic Applications (VBA) event did not fire when a user clicked the “Inactivate” button found on the Tasks Ribbon within the Scheduling grouping.</span></span>
+
+- <span data-ttu-id="75f95-1721">如果你在“窗体类型”视图中设置前置任务或后续任务详细信息，ProjectBeforeTaskChange Visual Basic Applications (VBA) 事件并不总是能够捕获更改。</span><span class="sxs-lookup"><span data-stu-id="75f95-1721">If you set predecessor or successor details from within a Form type view, the ProjectBeforeTaskChange Visual Basic Applications (VBA) event didn't always capture the changes.</span></span> <span data-ttu-id="75f95-1722">例如，如果你删除了依赖项，并单击了窗体上的“确定”，但此事件并未触发。</span><span class="sxs-lookup"><span data-stu-id="75f95-1722">For example, if you deleted a dependency and clicked OK on the form, the event did not fire.</span></span> <span data-ttu-id="75f95-1723">此行为已修复。</span><span class="sxs-lookup"><span data-stu-id="75f95-1723">This behavior has been fixed.</span></span>
+
+- <span data-ttu-id="75f95-1724">修复了以下问题：在你更改（如更改日期）后，“已完成工作量的实际成本(ACWP)”的最新值不会显示。</span><span class="sxs-lookup"><span data-stu-id="75f95-1724">Fixed an issue where the latest values for the Actual Cost of Work Performed (ACWP) would not be displayed after making a change, such as a date change.</span></span>
+
+- <span data-ttu-id="75f95-1725">修复了以下问题：使用“最近经常使用(MRU)”菜单打开项目时，打开的是带有读/写访问权限的项目文件。</span><span class="sxs-lookup"><span data-stu-id="75f95-1725">Fixed an issue where opening a project using the Most Recently Used (MRU) menu opened the project file with Read/Write access.</span></span>
+
+- <span data-ttu-id="75f95-1726">此更改修复了以下问题：如果你创建的手动任务包含开始日期和时间（但没有持续时间），它会在时间线上显示不正确的时间。</span><span class="sxs-lookup"><span data-stu-id="75f95-1726">This change fixes an issue where if you created a manual task with a start date and a time (but no duration), it would be displayed with an incorrect time on the timeline.</span></span>
+
+- <span data-ttu-id="75f95-1727">修复了以下问题：使用回历打印日程表会导致在打印视图中跳过或重复某个月。</span><span class="sxs-lookup"><span data-stu-id="75f95-1727">Fixed an issue where printing a timeline using a Hijri calendar would result in a month being skipped or duplicated in the print view.</span></span>
+
+- <span data-ttu-id="75f95-1728">此更改修复了以下问题：在工作组规划器中使用 GDI 对象时，可能会导致 GDI 对象的过度分配，并导致内存不足。</span><span class="sxs-lookup"><span data-stu-id="75f95-1728">This change addresses an issue where working in Team Planner with GDI objects, could result in the over allocation of GDI objects and create low memory conditions.</span></span>
+
+- <span data-ttu-id="75f95-1729">修复了以下问题：在执行“CustomFieldValueListGetItem”时，如果自定义字段的查阅表格不存在，则会创建空的查阅表格，即使不应该创建。</span><span class="sxs-lookup"><span data-stu-id="75f95-1729">Fixed an issue where if CustomFieldValueListGetItem' is executed and a lookup table for the custom field doesn't exist, an empty lookup table is created even though it should not be.</span></span>
+
+- <span data-ttu-id="75f95-1730">在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent</span><span class="sxs-lookup"><span data-stu-id="75f95-1730">WhenPredecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired</span></span>
+
+- <span data-ttu-id="75f95-1731">修复了下列问题：启用保护实际工作的设置后，用户无法输入按时间分段的基准工作。</span><span class="sxs-lookup"><span data-stu-id="75f95-1731">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span>
+
+### <a name="word"></a><span data-ttu-id="75f95-1732">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1732">Word</span></span>
+
+- <span data-ttu-id="75f95-1733">此更改修复了以下问题：将光标悬停在提示上不会突出显示其卡片。</span><span class="sxs-lookup"><span data-stu-id="75f95-1733">This change fixes an issue where hovering a cursor over a hint would not highlight its card.</span></span>
+
+- <span data-ttu-id="75f95-1734">此更改修复了以下问题：在“视图”菜单中选择多个页面时，批注窗格可能会显示为空白。</span><span class="sxs-lookup"><span data-stu-id="75f95-1734">This change fixes an issue with multiple pages selected from the View menu, where the comments pane could be displayed as blank.</span></span>
+
+- <span data-ttu-id="75f95-1735">修复了以下问题：评论发布功能已遭禁用。</span><span class="sxs-lookup"><span data-stu-id="75f95-1735">Fixed an issue where the functionality to post comments was disabled.</span></span>
+
+- <span data-ttu-id="75f95-1736">此更改修复了以下问题：使用套索选择工具时，分组形状中的文本暂时消失。</span><span class="sxs-lookup"><span data-stu-id="75f95-1736">This change fixes an issue that would cause the text in grouped shapes to disappear temporarily when using the Lasso selection tool.</span></span>
+
+- <span data-ttu-id="75f95-1737">此更改修复了以下问题：在处理包含格式不正确或无效协议信息的图片时出现延迟。</span><span class="sxs-lookup"><span data-stu-id="75f95-1737">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
+
+- <span data-ttu-id="75f95-1738">此更改修复了以下问题：在 PowerPoint 或 Word 中嵌入为 OLE 对象的旧版 Excel 图表呈现时，可能并不总是显示图表标题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1738">This change fixes an issue where the rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></span>
+
+- <span data-ttu-id="75f95-1739">此更改修复了以下问题：帐户管理员不会分派消息，导致第三方应用程序挂起。</span><span class="sxs-lookup"><span data-stu-id="75f95-1739">This change addresses an issue where the account manager would not dispatch messages resulting in a hang with third party applications.</span></span>
+
+- <span data-ttu-id="75f95-1740">此更改修复了以下问题：在双页视图中，在创建批注时，批注锚点并不总是出现在视图中。</span><span class="sxs-lookup"><span data-stu-id="75f95-1740">This change fixes an issue in two page view, when creating a comment, the comment anchor did not always come into view.</span></span>
+
+- <span data-ttu-id="75f95-1741">修复了在键入或编辑批注时使用 Ctrl+A 将导致在画布中选择文本而不是仅在批注卡中选择文本的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1741">Fixed an issue when typing or editing a comment and using Ctrl+A would result in selecting text in the canvas instead of selecting text just within the comment card.</span></span>
+
+- <span data-ttu-id="75f95-1742">修复了以下问题：如果某个段落的样式是链接到列表的样式的上级，则该列表的编号可能会丢失。</span><span class="sxs-lookup"><span data-stu-id="75f95-1742">Fixed an issue where if a paragraph whose style is an ancestor of a style linked to a list, then the numbering of that list could be lost.</span></span>
+
+- <span data-ttu-id="75f95-1743">此更改修复了以下问题：目录会使用文档中没有的标题样式进行更新。</span><span class="sxs-lookup"><span data-stu-id="75f95-1743">This change fixes an issue where the Table of Contents would get updated with heading styles which were not present in the document.</span></span>
+
+- <span data-ttu-id="75f95-1744">修复了以下问题：在使用“快速打印”打印后尝试进行编辑时，文档中的字词对齐方式会被打乱。</span><span class="sxs-lookup"><span data-stu-id="75f95-1744">We fixed an issue which alignment of word in document gets scrambled when tried to edit after printing using Quick Print.</span></span>
+
+- <span data-ttu-id="75f95-1745">修复了将 2 个文档合并为一个文档时出现的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1745">We fixed an issue when merging 2 documents into one document.</span></span>
+
+- <span data-ttu-id="75f95-1746">修复了以下问题：当你通过邮件发送文档时，保存在 Word 文档中的数字签名会遭删除。</span><span class="sxs-lookup"><span data-stu-id="75f95-1746">Fixed an issue where digital signatures saved in Word documents would be removed when mailing the documents.</span></span>
+
+- <span data-ttu-id="75f95-1747">修复了标记涉及公式的修订后可能导致保存文件失败的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1747">Fixed an issue where marking revisions involving equations could result in a failure when saving the file.</span></span>
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2003-april-14"></a><span data-ttu-id="75f95-1749">版本 2003：4 月14 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1749">Version 2003: April 14</span></span>
+<span data-ttu-id="75f95-1750">*版本 2003（内部版本 12624.20466）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1750">*Version 2003 (Build 12624.20466)*</span></span>
+
+<span data-ttu-id="75f95-1751">[此处](./microsoft365-apps-security-updates.md)列出安全更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1751">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+- <span data-ttu-id="75f95-1753">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1753">Various bugs and performance fixes.</span></span>
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+## <a name="version-2003-april-09"></a><span data-ttu-id="75f95-1755">版本 2003：4 月 9 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1755">Version 2003: April 09</span></span>
+<span data-ttu-id="75f95-1756">*版本 2003（内部版本 12624.20442）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1756">*Version 2003 (Build 12624.20442)*</span></span>
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1758">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1758">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1759">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1759">Excel</span></span>
+
+- <span data-ttu-id="75f95-1760">**M365 高级版内容选取器：** 让你的文档更生动！</span><span class="sxs-lookup"><span data-stu-id="75f95-1760">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="75f95-1761">探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="75f95-1761">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1762">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1762">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1763">**M365 高级版内容选取器：** 让你的文档更生动！</span><span class="sxs-lookup"><span data-stu-id="75f95-1763">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="75f95-1764">探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="75f95-1764">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1765">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1765">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1766">**M365 高级版内容选取器：** 让你的文档更生动！</span><span class="sxs-lookup"><span data-stu-id="75f95-1766">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="75f95-1767">探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="75f95-1767">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+
+### <a name="word"></a><span data-ttu-id="75f95-1768">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1768">Word</span></span>
+
+- <span data-ttu-id="75f95-1769">**M365 高级版内容选取器：** 让你的文档更生动！</span><span class="sxs-lookup"><span data-stu-id="75f95-1769">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="75f95-1770">探索上千张免费图片、图标和贴纸 [了解详细信息](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="75f95-1770">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3417,41 +3455,41 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2003-april-03"></a><span data-ttu-id="c9536-1754">版本 2003：4 月 3 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1754">Version 2003: April 03</span></span>
-<span data-ttu-id="c9536-1755">*版本 2003（内部版本 12624.20410）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1755">*Version 2003 (Build 12624.20410)*</span></span>
+## <a name="version-2003-april-03"></a><span data-ttu-id="75f95-1774">版本 2003：4 月 3 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1774">Version 2003: April 03</span></span>
+<span data-ttu-id="75f95-1775">*版本 2003（内部版本 12624.20410）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1775">*Version 2003 (Build 12624.20410)*</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1757">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1757">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1758">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1758">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1777">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1777">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1778">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1778">Excel</span></span>
 
-- <span data-ttu-id="c9536-1759">使用 VBA 的应用程序。在某些情况下，评估无法用于用户定义的功能。</span><span class="sxs-lookup"><span data-stu-id="c9536-1759">Using VBA's Application.Evaluate was not working for User-defined functions in some cases.</span></span>
+- <span data-ttu-id="75f95-1779">使用 VBA 的应用程序。在某些情况下，评估无法用于用户定义的功能。</span><span class="sxs-lookup"><span data-stu-id="75f95-1779">Using VBA's Application.Evaluate was not working for User-defined functions in some cases.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-1760">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1760">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1780">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1780">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1761">解决了在使用鼠标上的 "X" 按钮时导致用户偶尔遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1761">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
+- <span data-ttu-id="75f95-1781">解决了在使用鼠标上的 "X" 按钮时导致用户偶尔遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1781">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
 
-### <a name="project"></a><span data-ttu-id="c9536-1762">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1762">Project</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1782">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1782">Project</span></span>
 
-- <span data-ttu-id="c9536-1763">在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent。</span><span class="sxs-lookup"><span data-stu-id="c9536-1763">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChangeevent is fired.</span></span>
+- <span data-ttu-id="75f95-1783">在窗体视图中编辑前置/后续数据时，会触发额外的 ProjectBeforeTaskChangeevent。</span><span class="sxs-lookup"><span data-stu-id="75f95-1783">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChangeevent is fired.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1764">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1764">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1784">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1784">Word</span></span>
 
-- <span data-ttu-id="c9536-1765">解决了在使用鼠标上的 "X" 按钮时导致用户偶尔遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1765">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
+- <span data-ttu-id="75f95-1785">解决了在使用鼠标上的 "X" 按钮时导致用户偶尔遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1785">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2003-march-31"></a><span data-ttu-id="c9536-1767">版本 2003：3 月 31 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1767">Version 2003: March 31</span></span>
-<span data-ttu-id="c9536-1768">*版本 2003（生成号 12624.20382）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1768">*Version 2003 (Build 12624.20382)*</span></span>
+## <a name="version-2003-march-31"></a><span data-ttu-id="75f95-1787">版本 2003：3 月 31 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1787">Version 2003: March 31</span></span>
+<span data-ttu-id="75f95-1788">*版本 2003（生成号 12624.20382）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1788">*Version 2003 (Build 12624.20382)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1770">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1770">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1771">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1771">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1790">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1790">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1791">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1791">Access</span></span>
 
-- <span data-ttu-id="c9536-1772">**“添加表”任务窗格：**：Access 的新“添加表”任务窗格终于推出了！</span><span class="sxs-lookup"><span data-stu-id="c9536-1772">**"Add Tables" Task Pane:** Access's new "Add Tables" Task Pane is finally here!</span></span> <span data-ttu-id="c9536-1773">使用此功能，可以轻松地选择/多重选择要添加到查询窗口或从中删除的表，而无需转到“显示表”对话框来获取查询和关系视图。</span><span class="sxs-lookup"><span data-stu-id="c9536-1773">This feature allows you to easily select/multi-select which tables they'd like to add/remove into a query window, without navigating to the "Show Tables" dialog for queries and for relationship view.</span></span> <span data-ttu-id="c9536-1774">此外，还包括显示链接表的新“链接”选项卡、用于筛选当前列表的搜索框、“拖放”行为等！</span><span class="sxs-lookup"><span data-stu-id="c9536-1774">This also includes a new "links" tab to display linked tables, a search box to filter the current list, "drag and drop" behavior, and more!</span></span>
+- <span data-ttu-id="75f95-1792">**“添加表”任务窗格：**：Access 的新“添加表”任务窗格终于推出了！</span><span class="sxs-lookup"><span data-stu-id="75f95-1792">**"Add Tables" Task Pane:** Access's new "Add Tables" Task Pane is finally here!</span></span> <span data-ttu-id="75f95-1793">使用此功能，可以轻松地选择/多重选择要添加到查询窗口或从中删除的表，而无需转到“显示表”对话框来获取查询和关系视图。</span><span class="sxs-lookup"><span data-stu-id="75f95-1793">This feature allows you to easily select/multi-select which tables they'd like to add/remove into a query window, without navigating to the "Show Tables" dialog for queries and for relationship view.</span></span> <span data-ttu-id="75f95-1794">此外，还包括显示链接表的新“链接”选项卡、用于筛选当前列表的搜索框、“拖放”行为等！</span><span class="sxs-lookup"><span data-stu-id="75f95-1794">This also includes a new "links" tab to display linked tables, a search box to filter the current list, "drag and drop" behavior, and more!</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3460,70 +3498,70 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1777">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1777">Resolved issues</span></span>
-### <a name="project"></a><span data-ttu-id="c9536-1778">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1778">Project</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1797">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1797">Resolved issues</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1798">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1798">Project</span></span>
 
-- <span data-ttu-id="c9536-1779"><span style="display:inline !important;">修复了以下问题：如果保护实际工时的设置已启用，用户就无法输入分时段基线工时。</span></span><span class="sxs-lookup"><span data-stu-id="c9536-1779"><span style="display:inline !important;">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span></span><br>
+- <span data-ttu-id="75f95-1799"><span style="display:inline !important;">修复了以下问题：如果保护实际工时的设置已启用，用户就无法输入分时段基线工时。</span></span><span class="sxs-lookup"><span data-stu-id="75f95-1799"><span style="display:inline !important;">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span></span><br>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2003-march-25"></a><span data-ttu-id="c9536-1781">版本 2003：3 月 25 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1781">Version 2003: March 25</span></span>
-<span data-ttu-id="c9536-1782">*版本 2003（内部版本 12624.20320）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1782">*Version 2003 (Build 12624.20320)*</span></span>
+## <a name="version-2003-march-25"></a><span data-ttu-id="75f95-1801">版本 2003：3 月 25 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1801">Version 2003: March 25</span></span>
+<span data-ttu-id="75f95-1802">*版本 2003（内部版本 12624.20320）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1802">*Version 2003 (Build 12624.20320)*</span></span>
 
-- <span data-ttu-id="c9536-1783">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1783">Various bugs and performance fixes.</span></span>
+- <span data-ttu-id="75f95-1803">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1803">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2003-march-23"></a><span data-ttu-id="c9536-1784">版本 2003：3 月 23 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1784">Version 2003: March 23</span></span>
-<span data-ttu-id="c9536-1785">*版本 2003（内部版本 12624.20296）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1785">*Version 2003 (Build 12624.20296)*</span></span>
+## <a name="version-2003-march-23"></a><span data-ttu-id="75f95-1804">版本 2003：3 月 23 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1804">Version 2003: March 23</span></span>
+<span data-ttu-id="75f95-1805">*版本 2003（内部版本 12624.20296）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1805">*Version 2003 (Build 12624.20296)*</span></span>
 
-- <span data-ttu-id="c9536-1786">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1786">Various bugs and performance fixes.</span></span>
+- <span data-ttu-id="75f95-1806">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1806">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2003-march-21"></a><span data-ttu-id="c9536-1787">版本 2003：3 月 21 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1787">Version 2003: March 21</span></span>
-<span data-ttu-id="c9536-1788">*版本 2003（内部版本 12624.20276）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1788">*Version 2003 (Build 12624.20276)*</span></span>
+## <a name="version-2003-march-21"></a><span data-ttu-id="75f95-1807">版本 2003：3 月 21 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1807">Version 2003: March 21</span></span>
+<span data-ttu-id="75f95-1808">*版本 2003（内部版本 12624.20276）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1808">*Version 2003 (Build 12624.20276)*</span></span>
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1790">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1790">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1791">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1791">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1810">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1810">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1811">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1811">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1792">**不退出收件箱加入会议：** 无需切换至日历以加入联机会议。</span><span class="sxs-lookup"><span data-stu-id="c9536-1792">**Join meetings without leaving your inbox:** No need to switch to your calendar to join online meetings.</span></span> <span data-ttu-id="c9536-1793">通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。</span><span class="sxs-lookup"><span data-stu-id="c9536-1793">With the Calendar pinned to the To-Do pane, join any meeting with just one click.</span></span>
+- <span data-ttu-id="75f95-1812">**不退出收件箱加入会议：** 无需切换至日历以加入联机会议。</span><span class="sxs-lookup"><span data-stu-id="75f95-1812">**Join meetings without leaving your inbox:** No need to switch to your calendar to join online meetings.</span></span> <span data-ttu-id="75f95-1813">通过固定日历至待办事项窗格，只需单机一次即可加入任何会议。</span><span class="sxs-lookup"><span data-stu-id="75f95-1813">With the Calendar pinned to the To-Do pane, join any meeting with just one click.</span></span>
 
-- <span data-ttu-id="c9536-1794">**日历旧貌换新颜：** 去年，我们推出了全新的邮件体验；而今年，轮到日历改头换面了！</span><span class="sxs-lookup"><span data-stu-id="c9536-1794">**Calendar visual refresh:** Last year, we brought you a refreshed mail experience, and, this year, it is the calendar’s turn to get a facelift!</span></span> <span data-ttu-id="c9536-1795">尽管这些更新是全新的，但却很熟悉。作为经验丰富的 Outlook 用户，你可以立即使用并提高工作效率。</span><span class="sxs-lookup"><span data-stu-id="c9536-1795">The updates are fresh but familiar so, as a seasoned Outlook user, you can jump in and be more productive right away.</span></span>
+- <span data-ttu-id="75f95-1814">**日历旧貌换新颜：** 去年，我们推出了全新的邮件体验；而今年，轮到日历改头换面了！</span><span class="sxs-lookup"><span data-stu-id="75f95-1814">**Calendar visual refresh:** Last year, we brought you a refreshed mail experience, and, this year, it is the calendar’s turn to get a facelift!</span></span> <span data-ttu-id="75f95-1815">尽管这些更新是全新的，但却很熟悉。作为经验丰富的 Outlook 用户，你可以立即使用并提高工作效率。</span><span class="sxs-lookup"><span data-stu-id="75f95-1815">The updates are fresh but familiar so, as a seasoned Outlook user, you can jump in and be more productive right away.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1796">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1796">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1816">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1816">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-1797">**在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。</span><span class="sxs-lookup"><span data-stu-id="c9536-1797">**Update slides during slide show:** Update slides changed by other authors during your presentation.</span></span>
+- <span data-ttu-id="75f95-1817">**在幻灯片放映期间更新幻灯片：** 在演示期间更新其他作者更改的幻灯片。</span><span class="sxs-lookup"><span data-stu-id="75f95-1817">**Update slides during slide show:** Update slides changed by other authors during your presentation.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
-## <a name="version-2003-march-16"></a><span data-ttu-id="c9536-1799">版本 2003：3 月 16 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1799">Version 2003: March 16</span></span>
-<span data-ttu-id="c9536-1800">*版本 2003（内部版本 12624.20224）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1800">*Version 2003 (Build 12624.20224)*</span></span>
+## <a name="version-2003-march-16"></a><span data-ttu-id="75f95-1819">版本 2003：3 月 16 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1819">Version 2003: March 16</span></span>
+<span data-ttu-id="75f95-1820">*版本 2003（内部版本 12624.20224）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1820">*Version 2003 (Build 12624.20224)*</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1802">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1802">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1803">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1803">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1822">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1822">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1823">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1823">Excel</span></span>
 
-- <span data-ttu-id="c9536-1804">**选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。</span><span class="sxs-lookup"><span data-stu-id="c9536-1804">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
+- <span data-ttu-id="75f95-1824">**选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。</span><span class="sxs-lookup"><span data-stu-id="75f95-1824">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-1805">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1805">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1825">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1825">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1806">**选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。</span><span class="sxs-lookup"><span data-stu-id="c9536-1806">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
+- <span data-ttu-id="75f95-1826">**选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。</span><span class="sxs-lookup"><span data-stu-id="75f95-1826">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1807">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1807">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1827">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1827">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-1808">**选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。</span><span class="sxs-lookup"><span data-stu-id="c9536-1808">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
+- <span data-ttu-id="75f95-1828">**选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。</span><span class="sxs-lookup"><span data-stu-id="75f95-1828">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1809">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1809">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1829">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1829">Word</span></span>
 
-- <span data-ttu-id="c9536-1810">**选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。</span><span class="sxs-lookup"><span data-stu-id="c9536-1810">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
+- <span data-ttu-id="75f95-1830">**选取完美颜色：** 使用十六进制颜色代码选择字体和文本突出显示等所需的精确颜色。</span><span class="sxs-lookup"><span data-stu-id="75f95-1830">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-1811">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1811">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-1831">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1831">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-1812">**制表符窗格：** 现在，可以使用应用程序右侧的选项卡 UI 在多个窗格之间进行切换。</span><span class="sxs-lookup"><span data-stu-id="c9536-1812">**Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app.</span></span> <span data-ttu-id="c9536-1813">UI 将只在当打开2个以上的窗格时才会可见。</span><span class="sxs-lookup"><span data-stu-id="c9536-1813">The UI will only be visible when you have 2+ panes open.</span></span>
+- <span data-ttu-id="75f95-1832">**制表符窗格：** 现在，可以使用应用程序右侧的选项卡 UI 在多个窗格之间进行切换。</span><span class="sxs-lookup"><span data-stu-id="75f95-1832">**Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app.</span></span> <span data-ttu-id="75f95-1833">UI 将只在当打开2个以上的窗格时才会可见。</span><span class="sxs-lookup"><span data-stu-id="75f95-1833">The UI will only be visible when you have 2+ panes open.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3532,202 +3570,202 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1816">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1816">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1817">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1817">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1836">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1836">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1837">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1837">Excel</span></span>
 
-- <span data-ttu-id="c9536-1818">解决了如果关闭了源代码簿，则外部链接不会在填充时更新的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1818">Addressed an issue where external links don't update on fill if the source book is closed.</span></span>
+- <span data-ttu-id="75f95-1838">解决了如果关闭了源代码簿，则外部链接不会在填充时更新的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1838">Addressed an issue where external links don't update on fill if the source book is closed.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-1819">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1819">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1839">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1839">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1820">解决了导致用户在退出后在任务管理器中看到 Outlook 进程延迟的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1820">Addressed an issue that caused users to see the Outlook process lingering in task manager after exiting.</span></span>
+- <span data-ttu-id="75f95-1840">解决了导致用户在退出后在任务管理器中看到 Outlook 进程延迟的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1840">Addressed an issue that caused users to see the Outlook process lingering in task manager after exiting.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2003-march-10"></a><span data-ttu-id="c9536-1822">版本 2003：3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1822">Version 2003: March 10</span></span>
-<span data-ttu-id="c9536-1823">*版本 2003（内部版本 12624.20176）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1823">*Version 2003 (Build 12624.20176)*</span></span>
+## <a name="version-2003-march-10"></a><span data-ttu-id="75f95-1842">版本 2003：3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1842">Version 2003: March 10</span></span>
+<span data-ttu-id="75f95-1843">*版本 2003（内部版本 12624.20176）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1843">*Version 2003 (Build 12624.20176)*</span></span>
 
-<span data-ttu-id="c9536-1824">[此处](./microsoft365-apps-security-updates.md)列出安全更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1824">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+<span data-ttu-id="75f95-1844">[此处](./microsoft365-apps-security-updates.md)列出安全更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1844">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
 
 [//]: # (请勿移除错误详细信息内容开头)
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1826">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1826">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1827">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1827">Excel</span></span>
-- <span data-ttu-id="c9536-1828">**敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。</span><span class="sxs-lookup"><span data-stu-id="c9536-1828">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="c9536-1829">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1829">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1846">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1846">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1847">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1847">Excel</span></span>
+- <span data-ttu-id="75f95-1848">**敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。</span><span class="sxs-lookup"><span data-stu-id="75f95-1848">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="75f95-1849">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1849">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1830">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1830">PowerPoint</span></span>
-- <span data-ttu-id="c9536-1831">**敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。</span><span class="sxs-lookup"><span data-stu-id="c9536-1831">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="c9536-1832">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1832">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1850">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1850">PowerPoint</span></span>
+- <span data-ttu-id="75f95-1851">**敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。</span><span class="sxs-lookup"><span data-stu-id="75f95-1851">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="75f95-1852">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1852">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
-### <a name="word"></a><span data-ttu-id="c9536-1833">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1833">Word</span></span>
-- <span data-ttu-id="c9536-1834">**敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。</span><span class="sxs-lookup"><span data-stu-id="c9536-1834">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="c9536-1835">了解更多</span><span class="sxs-lookup"><span data-stu-id="c9536-1835">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+### <a name="word"></a><span data-ttu-id="75f95-1853">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1853">Word</span></span>
+- <span data-ttu-id="75f95-1854">**敏感度标签**：你现在可以应用组织已配置的敏感度标签来提示自定义权限。</span><span class="sxs-lookup"><span data-stu-id="75f95-1854">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="75f95-1855">了解更多</span><span class="sxs-lookup"><span data-stu-id="75f95-1855">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 </br>
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1836">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1836">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1837">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1837">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1856">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1856">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1857">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1857">Excel</span></span>
 
-- <span data-ttu-id="c9536-1838">修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1838">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
+- <span data-ttu-id="75f95-1858">修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1858">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
 
-- <span data-ttu-id="c9536-1839">修复了用户在重命名数据透视表度量时可能遇到的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1839">Fixed an issue that users may have experienced when renaming pivot table measures.</span></span>
+- <span data-ttu-id="75f95-1859">修复了用户在重命名数据透视表度量时可能遇到的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1859">Fixed an issue that users may have experienced when renaming pivot table measures.</span></span>
 
-- <span data-ttu-id="c9536-1840">修复了切片器中的文本在打印预览中无法缩放的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1840">Fixed an issue where text in a slicer isn't scaled properly in Print Preview.</span></span>
+- <span data-ttu-id="75f95-1860">修复了切片器中的文本在打印预览中无法缩放的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1860">Fixed an issue where text in a slicer isn't scaled properly in Print Preview.</span></span>
 
-- <span data-ttu-id="c9536-1841">修复了用户在使用 VBA 宏清除某区域中的内容时可能遇到的性能问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1841">Fixed a performance issue that users may have experienced when using a VBA macro to clear the contents of a range.</span></span>
+- <span data-ttu-id="75f95-1861">修复了用户在使用 VBA 宏清除某区域中的内容时可能遇到的性能问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1861">Fixed a performance issue that users may have experienced when using a VBA macro to clear the contents of a range.</span></span>
 
-- <span data-ttu-id="c9536-1842">修复了用户执行与功能区交互的宏时会导致 UI 闪烁的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1842">Fixed an issue that caused the UI to flash when users executed a macro that interacted with the ribbon.</span></span>
+- <span data-ttu-id="75f95-1862">修复了用户执行与功能区交互的宏时会导致 UI 闪烁的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1862">Fixed an issue that caused the UI to flash when users executed a macro that interacted with the ribbon.</span></span>
 
-- <span data-ttu-id="c9536-1843">修复了 CSV 文件中的第一个单词为 TABLE 时无法正确加载文件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1843">Fixed an issue where CSV files were loaded incorrectly when the first word in the file was TABLE.</span></span>
+- <span data-ttu-id="75f95-1863">修复了 CSV 文件中的第一个单词为 TABLE 时无法正确加载文件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1863">Fixed an issue where CSV files were loaded incorrectly when the first word in the file was TABLE.</span></span>
 
-- <span data-ttu-id="c9536-1844">修复了用户在切换具有不同缩放级别的两个工作簿时可能遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1844">Fixed an issue where users may have experienced crashes when switching between two workbooks that had different zoom levels.</span></span>
+- <span data-ttu-id="75f95-1864">修复了用户在切换具有不同缩放级别的两个工作簿时可能遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1864">Fixed an issue where users may have experienced crashes when switching between two workbooks that had different zoom levels.</span></span>
 
-- <span data-ttu-id="c9536-1845">修复了 CUBEVALUE 函数有时会返回错误结果的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1845">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.</span></span>
+- <span data-ttu-id="75f95-1865">修复了 CUBEVALUE 函数有时会返回错误结果的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1865">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.</span></span>
 
-- <span data-ttu-id="c9536-1846">此更改解决了对象模型中的运行时错误，以及当加载项在包含带 noSelect 锁的形状的文档/工作表上请求主机项目时，应用（Excel、Word）可能崩溃的情况。</span><span class="sxs-lookup"><span data-stu-id="c9536-1846">This change addresses a run-time error in the object model and potential crash of the App (Excel, Word) when Add-ins ask for Host Items on documents/worksheets that contain shapes with noSelect locks.</span></span>
+- <span data-ttu-id="75f95-1866">此更改解决了对象模型中的运行时错误，以及当加载项在包含带 noSelect 锁的形状的文档/工作表上请求主机项目时，应用（Excel、Word）可能崩溃的情况。</span><span class="sxs-lookup"><span data-stu-id="75f95-1866">This change addresses a run-time error in the object model and potential crash of the App (Excel, Word) when Add-ins ask for Host Items on documents/worksheets that contain shapes with noSelect locks.</span></span>
 
-- <span data-ttu-id="c9536-1847">解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1847">Addresses an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
-
-
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1848">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1848">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1849">修复了通过 Outlook Web Access 创建规则不会保留到 Exchange 服务器且会导致冲突的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1849">Fixed an issue where creating a rule with Outlook Web Access did not persist to the Exchange server and resulted in a conflict.</span></span>
-
-- <span data-ttu-id="c9536-1850">解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1850">Addressed an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
-
-- <span data-ttu-id="c9536-1851">修复了深色模式下 Outlook 不会在“发件人:”字段中显示下拉列表的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1851">Fixed an issue with Outlook in dark mode would not display the drop down list in the 'From:' field.</span></span>
-
-- <span data-ttu-id="c9536-1852">解决了导致 Outlook 在某些情况下意外生成日志输出（即使已关闭日志记录）的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1852">Addressed an issue that caused Outlook to unexpectedly generate logging output in some scenarios, even when logging was turned off.</span></span>
-
-- <span data-ttu-id="c9536-1853">解决了 Outlook 在夜间运行时导致用户无法打开公用文件夹邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1853">Addressed an issue that caused users to be unable to open public folder messages when Outlook was left running overnight.</span></span>
-
-- <span data-ttu-id="c9536-1854">修复了在添加 Gmail 帐户的身份验证工作流程期间位于权限页面上的“允许”和“拒绝”按钮被禁用的竞态条件。</span><span class="sxs-lookup"><span data-stu-id="c9536-1854">Fixed a race condition where the 'Allow' and 'Deny' buttons on the permissions page are disabled during the authentication workflow of adding a Gmail account.</span></span>
-
-- <span data-ttu-id="c9536-1855">解决了导致用户无法访问“&quot;闲/忙选项&quot;”日历权限对话框的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1855">Addressed an issue that caused users to lose access to the &quot;Free Busy Options&quot; calendar permissions dialog.</span></span>
-
-- <span data-ttu-id="c9536-1856">修复了以下问题：打开从不同时区发送的定期会议实例时出现警告“&quot;很抱歉，无法打开此项目&quot;”。</span><span class="sxs-lookup"><span data-stu-id="c9536-1856">Fixed an issue that may result in the alert: &quot;Sorry we're having trouble opening this item&quot; when opening some recurring meeting instances sent from a different time zone.</span></span>
-
-- <span data-ttu-id="c9536-1857">解决了可能导致用户在从邮件中拖拽附件后无法重新打开 .msg 文件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1857">Addressed an issue that could cause users to be unable to reopen a .msg file after dragging and dropping an attachment from that message.</span></span>
-
-- <span data-ttu-id="c9536-1858">修复了将文件附件从 Outlook 上传到 OneDrive 后出现的问题，如果附件名称包含圆括号，则会导致文件名被更改。</span><span class="sxs-lookup"><span data-stu-id="c9536-1858">Fixed an issue where after uploading a file attachment from Outlook to OneDrive could result in the file name being changed if the attachment's name contained parenthesis.</span></span>
-
-- <span data-ttu-id="c9536-1859">解决了导致用户无法通过文件资源管理器将已在其他应用程序中打开的文件附加到其邮件中的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1859">Addressed an issue that caused users to be unable to attach a file to their mail message via the file explorer when that file was open in another application.</span></span>
-
-- <span data-ttu-id="c9536-1860">解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1860">Addressed an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1861">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1861">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1862">修复了将鼠标悬停在推荐的缩略图上时缩略图闪烁的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1862">Fixed an issue where the recommended thumbnails flash when hovering your mouse over the thumbnails.</span></span> <span data-ttu-id="c9536-1863">在某些情况下，这可能会导致 PowerPoint 崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1863">In some cases this could cause PowerPoint to crash.</span></span>
-
-- <span data-ttu-id="c9536-1864">修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1864">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
-
-- <span data-ttu-id="c9536-1865">修复了可能导致无法保存文档至含 Excel 图表的 PowerPoint 或 Word 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1865">Fixed an issue that could result in a failure to save a document in PowerPoint or Word containing an Excel chart.</span></span>
+- <span data-ttu-id="75f95-1867">解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1867">Addresses an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
 
 
 
-### <a name="project"></a><span data-ttu-id="c9536-1866">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1866">Project</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1868">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1868">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1867">解决了以下问题：在标记为完成后，任务完成百分比错误地更改为小于 100% 完成。</span><span class="sxs-lookup"><span data-stu-id="c9536-1867">Fixed an issue where task percent complete was incorrectly changing to a value less than 100% complete after it was marked complete.</span></span>
+- <span data-ttu-id="75f95-1869">修复了通过 Outlook Web Access 创建规则不会保留到 Exchange 服务器且会导致冲突的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1869">Fixed an issue where creating a rule with Outlook Web Access did not persist to the Exchange server and resulted in a conflict.</span></span>
 
-- <span data-ttu-id="c9536-1868">修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。</span><span class="sxs-lookup"><span data-stu-id="c9536-1868">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+- <span data-ttu-id="75f95-1870">解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1870">Addressed an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
 
-- <span data-ttu-id="c9536-1869">修复了有时无法正确计算摘要任务日期的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1869">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+- <span data-ttu-id="75f95-1871">修复了深色模式下 Outlook 不会在“发件人:”字段中显示下拉列表的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1871">Fixed an issue with Outlook in dark mode would not display the drop down list in the 'From:' field.</span></span>
 
-### <a name="visio"></a><span data-ttu-id="c9536-1870">Visio</span><span class="sxs-lookup"><span data-stu-id="c9536-1870">Visio</span></span>
+- <span data-ttu-id="75f95-1872">解决了导致 Outlook 在某些情况下意外生成日志输出（即使已关闭日志记录）的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1872">Addressed an issue that caused Outlook to unexpectedly generate logging output in some scenarios, even when logging was turned off.</span></span>
 
-- <span data-ttu-id="c9536-1871">在 Visio 桌面版中打开文件时，“形状信息”窗格在“形状数据”部分下显示不一致的文件详细信息。</span><span class="sxs-lookup"><span data-stu-id="c9536-1871">Shape info pane was showing inconsistent details under Shape Data section, with respect to the file when opened in Visio Desktop.</span></span> <span data-ttu-id="c9536-1872">此问题现已得到修复。</span><span class="sxs-lookup"><span data-stu-id="c9536-1872">It has now been fixed.</span></span>
+- <span data-ttu-id="75f95-1873">解决了 Outlook 在夜间运行时导致用户无法打开公用文件夹邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1873">Addressed an issue that caused users to be unable to open public folder messages when Outlook was left running overnight.</span></span>
 
-- <span data-ttu-id="c9536-1873">由于某些安全检查，在 2016 版之前版本中导入的位图无法呈现。</span><span class="sxs-lookup"><span data-stu-id="c9536-1873">Bitmaps imported in versions before 2016 were not being rendered due to some security checks.</span></span> <span data-ttu-id="c9536-1874">我们已在 Visio 订阅版中修复此问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1874">We have fixed this issue in Visio Subscription.</span></span>
+- <span data-ttu-id="75f95-1874">修复了在添加 Gmail 帐户的身份验证工作流程期间位于权限页面上的“允许”和“拒绝”按钮被禁用的竞态条件。</span><span class="sxs-lookup"><span data-stu-id="75f95-1874">Fixed a race condition where the 'Allow' and 'Deny' buttons on the permissions page are disabled during the authentication workflow of adding a Gmail account.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1875">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1875">Word</span></span>
+- <span data-ttu-id="75f95-1875">解决了导致用户无法访问“&quot;闲/忙选项&quot;”日历权限对话框的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1875">Addressed an issue that caused users to lose access to the &quot;Free Busy Options&quot; calendar permissions dialog.</span></span>
 
-- <span data-ttu-id="c9536-1876">修复了当鼠标指针悬停在批注卡上方时不会始终突出显示批注卡的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1876">Fixed an issue where comment cards don't always get highlighted when a mouse pointer hovers over the comment card.</span></span>
+- <span data-ttu-id="75f95-1876">修复了以下问题：打开从不同时区发送的定期会议实例时出现警告“&quot;很抱歉，无法打开此项目&quot;”。</span><span class="sxs-lookup"><span data-stu-id="75f95-1876">Fixed an issue that may result in the alert: &quot;Sorry we're having trouble opening this item&quot; when opening some recurring meeting instances sent from a different time zone.</span></span>
 
-- <span data-ttu-id="c9536-1877">解决了通过批注卡使用 Tab 键时，批注编辑框焦点无法显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1877">Fixed an issue that when tabbing through a comment card, the focus on the comment edit box would not be visible.</span></span>
+- <span data-ttu-id="75f95-1877">解决了可能导致用户在从邮件中拖拽附件后无法重新打开 .msg 文件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1877">Addressed an issue that could cause users to be unable to reopen a .msg file after dragging and dropping an attachment from that message.</span></span>
 
-- <span data-ttu-id="c9536-1878">修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1878">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
+- <span data-ttu-id="75f95-1878">修复了将文件附件从 Outlook 上传到 OneDrive 后出现的问题，如果附件名称包含圆括号，则会导致文件名被更改。</span><span class="sxs-lookup"><span data-stu-id="75f95-1878">Fixed an issue where after uploading a file attachment from Outlook to OneDrive could result in the file name being changed if the attachment's name contained parenthesis.</span></span>
 
-- <span data-ttu-id="c9536-1879">在活动文档共同创作会话期间，直接向批注卡添加图像可能会导致添加标记。</span><span class="sxs-lookup"><span data-stu-id="c9536-1879">During an active document co-authoring session, adding an image directly in to a comment card may result in the addition of a tag.</span></span> <span data-ttu-id="c9536-1880">此问题已修复。</span><span class="sxs-lookup"><span data-stu-id="c9536-1880">This issue has been fixed.</span></span>
+- <span data-ttu-id="75f95-1879">解决了导致用户无法通过文件资源管理器将已在其他应用程序中打开的文件附加到其邮件中的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1879">Addressed an issue that caused users to be unable to attach a file to their mail message via the file explorer when that file was open in another application.</span></span>
 
-- <span data-ttu-id="c9536-1881">如果在公式中插入控件（例如文本内容控件），然后保存再打开文件，会导致“内容不可读”错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-1881">Inserting a control (such as a Text Content Control) in an equation then saving and opening the file results in an un-readable content error.</span></span>
+- <span data-ttu-id="75f95-1880">解决了导致 Outlook 用户在同步设置时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1880">Addressed an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
 
-- <span data-ttu-id="c9536-1882">解决了无法保存之前受密码保护文件至云存储的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1882">Fixed an issue where saving a previously password protected file to a cloud storage would not work.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1881">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1881">PowerPoint</span></span>
 
-- <span data-ttu-id="c9536-1883">修复了受编辑保护的文档的“比较”功能问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1883">Fixed an issue with Compare feature for documents that were protected for editing.</span></span>
+- <span data-ttu-id="75f95-1882">修复了将鼠标悬停在推荐的缩略图上时缩略图闪烁的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1882">Fixed an issue where the recommended thumbnails flash when hovering your mouse over the thumbnails.</span></span> <span data-ttu-id="75f95-1883">在某些情况下，这可能会导致 PowerPoint 崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1883">In some cases this could cause PowerPoint to crash.</span></span>
+
+- <span data-ttu-id="75f95-1884">修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1884">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
+
+- <span data-ttu-id="75f95-1885">修复了可能导致无法保存文档至含 Excel 图表的 PowerPoint 或 Word 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1885">Fixed an issue that could result in a failure to save a document in PowerPoint or Word containing an Excel chart.</span></span>
+
+
+
+### <a name="project"></a><span data-ttu-id="75f95-1886">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1886">Project</span></span>
+
+- <span data-ttu-id="75f95-1887">解决了以下问题：在标记为完成后，任务完成百分比错误地更改为小于 100% 完成。</span><span class="sxs-lookup"><span data-stu-id="75f95-1887">Fixed an issue where task percent complete was incorrectly changing to a value less than 100% complete after it was marked complete.</span></span>
+
+- <span data-ttu-id="75f95-1888">修复了以下问题：如果不首先运行 OpenUndoTransaction 方法，则不会触发 OnUndoOrRedo 事件。</span><span class="sxs-lookup"><span data-stu-id="75f95-1888">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+
+- <span data-ttu-id="75f95-1889">修复了有时无法正确计算摘要任务日期的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1889">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+
+### <a name="visio"></a><span data-ttu-id="75f95-1890">Visio</span><span class="sxs-lookup"><span data-stu-id="75f95-1890">Visio</span></span>
+
+- <span data-ttu-id="75f95-1891">在 Visio 桌面版中打开文件时，“形状信息”窗格在“形状数据”部分下显示不一致的文件详细信息。</span><span class="sxs-lookup"><span data-stu-id="75f95-1891">Shape info pane was showing inconsistent details under Shape Data section, with respect to the file when opened in Visio Desktop.</span></span> <span data-ttu-id="75f95-1892">此问题现已得到修复。</span><span class="sxs-lookup"><span data-stu-id="75f95-1892">It has now been fixed.</span></span>
+
+- <span data-ttu-id="75f95-1893">由于某些安全检查，在 2016 版之前版本中导入的位图无法呈现。</span><span class="sxs-lookup"><span data-stu-id="75f95-1893">Bitmaps imported in versions before 2016 were not being rendered due to some security checks.</span></span> <span data-ttu-id="75f95-1894">我们已在 Visio 订阅版中修复此问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1894">We have fixed this issue in Visio Subscription.</span></span>
+
+### <a name="word"></a><span data-ttu-id="75f95-1895">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1895">Word</span></span>
+
+- <span data-ttu-id="75f95-1896">修复了当鼠标指针悬停在批注卡上方时不会始终突出显示批注卡的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1896">Fixed an issue where comment cards don't always get highlighted when a mouse pointer hovers over the comment card.</span></span>
+
+- <span data-ttu-id="75f95-1897">解决了通过批注卡使用 Tab 键时，批注编辑框焦点无法显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1897">Fixed an issue that when tabbing through a comment card, the focus on the comment edit box would not be visible.</span></span>
+
+- <span data-ttu-id="75f95-1898">修复了“文件\选项”对话框上的“确定”按钮显示为灰色但功能不受影响的外观问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1898">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
+
+- <span data-ttu-id="75f95-1899">在活动文档共同创作会话期间，直接向批注卡添加图像可能会导致添加标记。</span><span class="sxs-lookup"><span data-stu-id="75f95-1899">During an active document co-authoring session, adding an image directly in to a comment card may result in the addition of a tag.</span></span> <span data-ttu-id="75f95-1900">此问题已修复。</span><span class="sxs-lookup"><span data-stu-id="75f95-1900">This issue has been fixed.</span></span>
+
+- <span data-ttu-id="75f95-1901">如果在公式中插入控件（例如文本内容控件），然后保存再打开文件，会导致“内容不可读”错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-1901">Inserting a control (such as a Text Content Control) in an equation then saving and opening the file results in an un-readable content error.</span></span>
+
+- <span data-ttu-id="75f95-1902">解决了无法保存之前受密码保护文件至云存储的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1902">Fixed an issue where saving a previously password protected file to a cloud storage would not work.</span></span>
+
+- <span data-ttu-id="75f95-1903">修复了受编辑保护的文档的“比较”功能问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1903">Fixed an issue with Compare feature for documents that were protected for editing.</span></span>
 
 
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-1884">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1884">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-1904">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1904">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-1885">将 Multichoice/Lookup/Managed-metadata 属性用于 Word/Excel/PowerPoint 文档并保存到 SharePoint 文档库时，这些属性在以前会限制为 255 个字符。</span><span class="sxs-lookup"><span data-stu-id="c9536-1885">When using Multichoice/Lookup/Managed-metadata properties with Word/Excel/PowerPoint documents and saving to a SharePoint Document Library, these properties were previously limited to 255 characters.</span></span> <span data-ttu-id="c9536-1886">如果这些属性超过 255 个字符，则无法保存此类文档。</span><span class="sxs-lookup"><span data-stu-id="c9536-1886">When these properties exceeded 255 characters, such documents could not be saved.</span></span> <span data-ttu-id="c9536-1887">通过此次更改后，此限制已增加到 2048 个字符。</span><span class="sxs-lookup"><span data-stu-id="c9536-1887">With this change, this limit has been increased to 2048 characters.</span></span>
+- <span data-ttu-id="75f95-1905">将 Multichoice/Lookup/Managed-metadata 属性用于 Word/Excel/PowerPoint 文档并保存到 SharePoint 文档库时，这些属性在以前会限制为 255 个字符。</span><span class="sxs-lookup"><span data-stu-id="75f95-1905">When using Multichoice/Lookup/Managed-metadata properties with Word/Excel/PowerPoint documents and saving to a SharePoint Document Library, these properties were previously limited to 255 characters.</span></span> <span data-ttu-id="75f95-1906">如果这些属性超过 255 个字符，则无法保存此类文档。</span><span class="sxs-lookup"><span data-stu-id="75f95-1906">When these properties exceeded 255 characters, such documents could not be saved.</span></span> <span data-ttu-id="75f95-1907">通过此次更改后，此限制已增加到 2048 个字符。</span><span class="sxs-lookup"><span data-stu-id="75f95-1907">With this change, this limit has been increased to 2048 characters.</span></span>
 
-- <span data-ttu-id="c9536-1888">修复了 Word/Excel/PowerPoint 中的用户主体名称 (UPN) 不再区分大小写的问题，从而减少了处理 SharePoint 上的文件时出现的故障。</span><span class="sxs-lookup"><span data-stu-id="c9536-1888">Fixed an issue Word/Excel/PowerPoint where the User Principal Name (UPN) is no longer case sensitive resulting in less failures when working with files on SharePoint.</span></span>
+- <span data-ttu-id="75f95-1908">修复了 Word/Excel/PowerPoint 中的用户主体名称 (UPN) 不再区分大小写的问题，从而减少了处理 SharePoint 上的文件时出现的故障。</span><span class="sxs-lookup"><span data-stu-id="75f95-1908">Fixed an issue Word/Excel/PowerPoint where the User Principal Name (UPN) is no longer case sensitive resulting in less failures when working with files on SharePoint.</span></span>
 
-- <span data-ttu-id="c9536-1889">修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1889">Fixed an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
+- <span data-ttu-id="75f95-1909">修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1909">Fixed an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2002-march-05"></a><span data-ttu-id="c9536-1891">版本 2002：3 月 5 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1891">Version 2002: March 05</span></span>
-<span data-ttu-id="c9536-1892">*版本2002（内部版本 12527.20278）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1892">*Version 2002 (Build 12527.20278)*</span></span>
+## <a name="version-2002-march-05"></a><span data-ttu-id="75f95-1911">版本 2002：3 月 5 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1911">Version 2002: March 05</span></span>
+<span data-ttu-id="75f95-1912">*版本2002（内部版本 12527.20278）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1912">*Version 2002 (Build 12527.20278)*</span></span>
 
-- <span data-ttu-id="c9536-1893">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1893">Various bugs and performance fixes.</span></span>
+- <span data-ttu-id="75f95-1913">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1913">Various bugs and performance fixes.</span></span>
 
 
-## <a name="version-2002-march-04"></a><span data-ttu-id="c9536-1894">版本 2002：3 月 4 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1894">Version 2002: March 04</span></span>
-<span data-ttu-id="c9536-1895">*版本2002（内部版本 12527.20264）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1895">*Version 2002 (Build 12527.20264)*</span></span>
+## <a name="version-2002-march-04"></a><span data-ttu-id="75f95-1914">版本 2002：3 月 4 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1914">Version 2002: March 04</span></span>
+<span data-ttu-id="75f95-1915">*版本2002（内部版本 12527.20264）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1915">*Version 2002 (Build 12527.20264)*</span></span>
 
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1897">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1897">Resolved issues</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1917">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1917">Resolved issues</span></span>
 
-### <a name="project"></a><span data-ttu-id="c9536-1898">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1898">Project</span></span>
-- <span data-ttu-id="c9536-1899">修复了有时无法正确计算摘要任务日期的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1899">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="c9536-1900">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1900">Office Suite</span></span>
-- <span data-ttu-id="c9536-1901">修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1901">Fixes an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1918">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1918">Project</span></span>
+- <span data-ttu-id="75f95-1919">修复了有时无法正确计算摘要任务日期的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1919">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
 
 
-
-[//]: # (请勿移除错误详细信息内容结尾)
-
-## <a name="version-2002-march-01"></a><span data-ttu-id="c9536-1903">版本 2002：3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1903">Version 2002: March 01</span></span>
-<span data-ttu-id="c9536-1904">*版本 2002（内部版本 12527.20242）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1904">*Version 2002 (Build 12527.20242)*</span></span>
-
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1905">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1905">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1906">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1906">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1907">解决了导致第三方应用程序无法发送电子邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1907">Addresses an issue that caused third party applications to be unable to send email.</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-1920">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1920">Office Suite</span></span>
+- <span data-ttu-id="75f95-1921">修复了从同一 SharePoint 库在 Word/Excel/PowerPoint 中打开多个文件时，只能打开第一个文件进行策略符合性扫描的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1921">Fixes an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2002-february-24"></a><span data-ttu-id="c9536-1909">版本 2002：2 月 24 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1909">Version 2002: February 24</span></span>
-<span data-ttu-id="c9536-1910">*版本 2002（内部版本 12527.20194）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1910">*Version 2002 (Build 12527.20194)*</span></span>
+## <a name="version-2002-march-01"></a><span data-ttu-id="75f95-1923">版本 2002：3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1923">Version 2002: March 01</span></span>
+<span data-ttu-id="75f95-1924">*版本 2002（内部版本 12527.20242）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1924">*Version 2002 (Build 12527.20242)*</span></span>
 
-- <span data-ttu-id="c9536-1911">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1911">Various bugs and performance fixes.</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1925">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1925">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1926">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1926">Outlook</span></span>
 
-## <a name="version-2002-february-22"></a><span data-ttu-id="c9536-1912">版本 2002：2 月 22 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1912">Version 2002: February 22</span></span>
-<span data-ttu-id="c9536-1913">*版本 2002（内部版本 12527.20186）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1913">*Version 2002 (Build 12527.20186)*</span></span>
+- <span data-ttu-id="75f95-1927">解决了导致第三方应用程序无法发送电子邮件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1927">Addresses an issue that caused third party applications to be unable to send email.</span></span>
 
-- <span data-ttu-id="c9536-1914">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="c9536-1914">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2002-february-21"></a><span data-ttu-id="c9536-1915">版本 2002：2 月 21 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1915">Version 2002: February 21</span></span>
-<span data-ttu-id="c9536-1916">*版本 2002（内部版本 12527.20174）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1916">*Version 2002 (Build 12527.20174)*</span></span>
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-february-24"></a><span data-ttu-id="75f95-1929">版本 2002：2 月 24 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1929">Version 2002: February 24</span></span>
+<span data-ttu-id="75f95-1930">*版本 2002（内部版本 12527.20194）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1930">*Version 2002 (Build 12527.20194)*</span></span>
+
+- <span data-ttu-id="75f95-1931">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1931">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2002-february-22"></a><span data-ttu-id="75f95-1932">版本 2002：2 月 22 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1932">Version 2002: February 22</span></span>
+<span data-ttu-id="75f95-1933">*版本 2002（内部版本 12527.20186）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1933">*Version 2002 (Build 12527.20186)*</span></span>
+
+- <span data-ttu-id="75f95-1934">各种 bug 和性能修补程序。</span><span class="sxs-lookup"><span data-stu-id="75f95-1934">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2002-february-21"></a><span data-ttu-id="75f95-1935">版本 2002：2 月 21 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1935">Version 2002: February 21</span></span>
+<span data-ttu-id="75f95-1936">*版本 2002（内部版本 12527.20174）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1936">*Version 2002 (Build 12527.20174)*</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1918">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1918">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1919">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1919">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1938">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1938">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1939">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1939">Access</span></span>
 
-- <span data-ttu-id="c9536-1920">**在“查询设计器”、“SQL 视图”和“关系”窗口中更高效地工作：** 右键单击表格，以对其进行打开、设计、调整大小和隐藏操作。</span><span class="sxs-lookup"><span data-stu-id="c9536-1920">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="c9536-1921">在 SQL 视图中搜索和替换文本。</span><span class="sxs-lookup"><span data-stu-id="c9536-1921">Search and replace text in SQL View.</span></span> <span data-ttu-id="c9536-1922">在“关系”窗口中选择多个表。</span><span class="sxs-lookup"><span data-stu-id="c9536-1922">Select multiple tables in the Relationships window.</span></span>
+- <span data-ttu-id="75f95-1940">**在“查询设计器”、“SQL 视图”和“关系”窗口中更高效地工作：** 右键单击表格，以对其进行打开、设计、调整大小和隐藏操作。</span><span class="sxs-lookup"><span data-stu-id="75f95-1940">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="75f95-1941">在 SQL 视图中搜索和替换文本。</span><span class="sxs-lookup"><span data-stu-id="75f95-1941">Search and replace text in SQL View.</span></span> <span data-ttu-id="75f95-1942">在“关系”窗口中选择多个表。</span><span class="sxs-lookup"><span data-stu-id="75f95-1942">Select multiple tables in the Relationships window.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="c9536-1923">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1923">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1943">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1943">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1924">**强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？</span><span class="sxs-lookup"><span data-stu-id="c9536-1924">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="c9536-1925">现在，Outlook 检测到这一点，帮助你进行连接。</span><span class="sxs-lookup"><span data-stu-id="c9536-1925">Outlook now detects this and helps you get connected.</span></span>
+- <span data-ttu-id="75f95-1944">**强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？</span><span class="sxs-lookup"><span data-stu-id="75f95-1944">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="75f95-1945">现在，Outlook 检测到这一点，帮助你进行连接。</span><span class="sxs-lookup"><span data-stu-id="75f95-1945">Outlook now detects this and helps you get connected.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3736,55 +3774,55 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1928">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1928">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="c9536-1929">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1929">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1948">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1948">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1949">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1949">Excel</span></span>
 
-- <div style="box-sizing:border-box;"><span data-ttu-id="c9536-1930">修复了 CUBEVALUE 函数有时会返回错误结果的问题。&nbsp;<span style="display:inline !important;"></span></span><span class="sxs-lookup"><span data-stu-id="c9536-1930">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.&nbsp;<span style="display:inline !important;"></span></span></span><br>
-
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1931">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1931">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1932">解决了在会议的位置字段中导致逗号变为分号的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1932">Addresses an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span>
+- <div style="box-sizing:border-box;"><span data-ttu-id="75f95-1950">修复了 CUBEVALUE 函数有时会返回错误结果的问题。&nbsp;<span style="display:inline !important;"></span></span><span class="sxs-lookup"><span data-stu-id="75f95-1950">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.&nbsp;<span style="display:inline !important;"></span></span></span><br>
 
 
-- <span data-ttu-id="c9536-1933">解决了在多个窗口中查看同一项目时可能会导致崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1933">Addresses an issue that could result in a crash when viewing the same item in multiple windows.</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1951">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1951">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1952">解决了在会议的位置字段中导致逗号变为分号的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1952">Addresses an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span>
 
 
-- <span data-ttu-id="c9536-1934">解决了导致 Outlook 在同步滑块设置为较小的设置时出现意外同步所有邮件的问题。&nbsp;</span><span class="sxs-lookup"><span data-stu-id="c9536-1934">Addresses an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.&nbsp;</span></span>
+- <span data-ttu-id="75f95-1953">解决了在多个窗口中查看同一项目时可能会导致崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1953">Addresses an issue that could result in a crash when viewing the same item in multiple windows.</span></span>
 
 
-- <span data-ttu-id="c9536-1935">解决了具有黑色主题的用户在“&quot;发件人&quot;”下拉列表中看到白色背景上显示白色文本的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1935">Addresses an issue that caused users with Black Theme to see the &quot;From&quot; dropdown show white text on a white background.</span></span>
+- <span data-ttu-id="75f95-1954">解决了导致 Outlook 在同步滑块设置为较小的设置时出现意外同步所有邮件的问题。&nbsp;</span><span class="sxs-lookup"><span data-stu-id="75f95-1954">Addresses an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.&nbsp;</span></span>
 
 
-- <span data-ttu-id="c9536-1936"><span style="display:inline !important;">此更改恢复了在邮件头中查看多行主题的功能。</span></span><span class="sxs-lookup"><span data-stu-id="c9536-1936"><span style="display:inline !important;">This change restores the ability to view multi-line subjects in the message header.</span></span></span><br>
+- <span data-ttu-id="75f95-1955">解决了具有黑色主题的用户在“&quot;发件人&quot;”下拉列表中看到白色背景上显示白色文本的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1955">Addresses an issue that caused users with Black Theme to see the &quot;From&quot; dropdown show white text on a white background.</span></span>
+
+
+- <span data-ttu-id="75f95-1956"><span style="display:inline !important;">此更改恢复了在邮件头中查看多行主题的功能。</span></span><span class="sxs-lookup"><span data-stu-id="75f95-1956"><span style="display:inline !important;">This change restores the ability to view multi-line subjects in the message header.</span></span></span><br>
 
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
-## <a name="version-2002-february-18"></a><span data-ttu-id="c9536-1938">版本 2002：2 月 18 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1938">Version 2002: February 18</span></span>
-<span data-ttu-id="c9536-1939">*版本 2002（内部版本 12527.20138）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1939">*Version 2002 (Build 12527.20138)*</span></span>
+## <a name="version-2002-february-18"></a><span data-ttu-id="75f95-1958">版本 2002：2 月 18 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1958">Version 2002: February 18</span></span>
+<span data-ttu-id="75f95-1959">*版本 2002（内部版本 12527.20138）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1959">*Version 2002 (Build 12527.20138)*</span></span>
 
-## <a name="version-2002-february-11"></a><span data-ttu-id="c9536-1940">版本 2002：2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="c9536-1940">Version 2002: February 11</span></span>
-<span data-ttu-id="c9536-1941">*版本 2002（内部版本 12527.20092）*</span><span class="sxs-lookup"><span data-stu-id="c9536-1941">*Version 2002 (Build 12527.20092)*</span></span>
+## <a name="version-2002-february-11"></a><span data-ttu-id="75f95-1960">版本 2002：2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="75f95-1960">Version 2002: February 11</span></span>
+<span data-ttu-id="75f95-1961">*版本 2002（内部版本 12527.20092）*</span><span class="sxs-lookup"><span data-stu-id="75f95-1961">*Version 2002 (Build 12527.20092)*</span></span>
 
-<span data-ttu-id="c9536-1942">[此处](./microsoft365-apps-security-updates.md)列出安全更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1942">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+<span data-ttu-id="75f95-1962">[此处](./microsoft365-apps-security-updates.md)列出安全更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1962">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-### <a name="feature-updates"></a><span data-ttu-id="c9536-1944">功能更新</span><span class="sxs-lookup"><span data-stu-id="c9536-1944">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="c9536-1945">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1945">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="75f95-1964">功能更新</span><span class="sxs-lookup"><span data-stu-id="75f95-1964">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="75f95-1965">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1965">Outlook</span></span>
 
-- <span data-ttu-id="c9536-1946">**将电子邮件拖动到你拥有的组：** 通过从收件箱中拖动来移动和复制邮件和对话。</span><span class="sxs-lookup"><span data-stu-id="c9536-1946">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="c9536-1947">将与所有组成员共享你拖动的消息。</span><span class="sxs-lookup"><span data-stu-id="c9536-1947">Messages you drag will be shared with all group members.</span></span>
+- <span data-ttu-id="75f95-1966">**将电子邮件拖动到你拥有的组：** 通过从收件箱中拖动来移动和复制邮件和对话。</span><span class="sxs-lookup"><span data-stu-id="75f95-1966">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="75f95-1967">将与所有组成员共享你拖动的消息。</span><span class="sxs-lookup"><span data-stu-id="75f95-1967">Messages you drag will be shared with all group members.</span></span>
 
-### <a name="word"></a><span data-ttu-id="c9536-1948">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1948">Word</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-1968">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-1968">Word</span></span>
 
-- <span data-ttu-id="c9536-1949">**其他人可以快速查看你所做的更改:** 共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。</span><span class="sxs-lookup"><span data-stu-id="c9536-1949">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+- <span data-ttu-id="75f95-1969">**其他人可以快速查看你所做的更改:** 共同创作改进意味着你的协作者可以比以往更快地查看你所做的更改。</span><span class="sxs-lookup"><span data-stu-id="75f95-1969">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-1950">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1950">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="75f95-1970">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-1970">Office Suite</span></span>
 
-- <span data-ttu-id="c9536-1951">**更清晰的状态栏图标：** 状态栏图标现在更容易看到。</span><span class="sxs-lookup"><span data-stu-id="c9536-1951">**Clearer status bar icons:** Status bar icons are now easier to see.</span></span>
+- <span data-ttu-id="75f95-1971">**更清晰的状态栏图标：** 状态栏图标现在更容易看到。</span><span class="sxs-lookup"><span data-stu-id="75f95-1971">**Clearer status bar icons:** Status bar icons are now easier to see.</span></span>
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -3793,97 +3831,97 @@ ms.locfileid: "51582078"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
-### <a name="resolved-issues"></a><span data-ttu-id="c9536-1954">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="c9536-1954">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="c9536-1955">Access</span><span class="sxs-lookup"><span data-stu-id="c9536-1955">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="75f95-1974">已解决的问题</span><span class="sxs-lookup"><span data-stu-id="75f95-1974">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="75f95-1975">Access</span><span class="sxs-lookup"><span data-stu-id="75f95-1975">Access</span></span>
 
-- <span data-ttu-id="c9536-1956">Access 模板将不会再导致数据库中的附件列出现故障。</span><span class="sxs-lookup"><span data-stu-id="c9536-1956">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="c9536-1957">在实例化模板后，你现在应该可以将附件字段添加到数据库中。</span><span class="sxs-lookup"><span data-stu-id="c9536-1957">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
+- <span data-ttu-id="75f95-1976">Access 模板将不会再导致数据库中的附件列出现故障。</span><span class="sxs-lookup"><span data-stu-id="75f95-1976">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="75f95-1977">在实例化模板后，你现在应该可以将附件字段添加到数据库中。</span><span class="sxs-lookup"><span data-stu-id="75f95-1977">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
 
-- <span data-ttu-id="c9536-1958">此更新修复了使用 ADODB 的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1958">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="c9536-1959">VB 代码中的记录器对象可能会错误地报告错误。</span><span class="sxs-lookup"><span data-stu-id="c9536-1959">Recorder object in VB code may incorrectly report an error.</span></span>
+- <span data-ttu-id="75f95-1978">此更新修复了使用 ADODB 的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1978">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="75f95-1979">VB 代码中的记录器对象可能会错误地报告错误。</span><span class="sxs-lookup"><span data-stu-id="75f95-1979">Recorder object in VB code may incorrectly report an error.</span></span>
 
-- <span data-ttu-id="c9536-1960">此更新修复了可能会导致 Microsoft Access 无法识别链接 SQL Server 表中的标识列的问题，该问题可能会导致行错误地被报告为已删除。</span><span class="sxs-lookup"><span data-stu-id="c9536-1960">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="c9536-1961">Excel</span><span class="sxs-lookup"><span data-stu-id="c9536-1961">Excel</span></span>
-
-- <span data-ttu-id="c9536-1962">修复了未显示上下文菜单中的批注命令的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1962">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
+- <span data-ttu-id="75f95-1980">此更新修复了可能会导致 Microsoft Access 无法识别链接 SQL Server 表中的标识列的问题，该问题可能会导致行错误地被报告为已删除。</span><span class="sxs-lookup"><span data-stu-id="75f95-1980">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
 
 
-- <span data-ttu-id="c9536-1963">修复了一个问题，该问题导致某些用户在将文本转换为包含单元格（具有溢出数组）的列时遇到崩溃。</span><span class="sxs-lookup"><span data-stu-id="c9536-1963">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
+### <a name="excel"></a><span data-ttu-id="75f95-1981">Excel</span><span class="sxs-lookup"><span data-stu-id="75f95-1981">Excel</span></span>
+
+- <span data-ttu-id="75f95-1982">修复了未显示上下文菜单中的批注命令的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1982">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
 
 
-- <span data-ttu-id="c9536-1964">解决了将文本分列用于动态数组时 Excel 崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1964">Fixed an issue where Excel would crash when using Text To Columns with dynamic arrays.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="c9536-1965">Outlook</span><span class="sxs-lookup"><span data-stu-id="c9536-1965">Outlook</span></span>
-
-- <span data-ttu-id="c9536-1966">解决了在采用月视图的日历中进行滚动时无法显示以前的日历事件的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1966">Fixed an issue where scrolling in calendar with month view, fails to show previous calendar events.</span></span>
-
-- <span data-ttu-id="c9536-1967">保存在左侧导航窗格“收藏夹”中的文件夹可能间歇消失。</span><span class="sxs-lookup"><span data-stu-id="c9536-1967">Folders saved in 'Favorites' in the left navigation pane may intermittently disappear.</span></span>
+- <span data-ttu-id="75f95-1983">修复了一个问题，该问题导致某些用户在将文本转换为包含单元格（具有溢出数组）的列时遇到崩溃。</span><span class="sxs-lookup"><span data-stu-id="75f95-1983">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
 
 
-- <span data-ttu-id="c9536-1968">解决了导致用户在指定无效的发件人地址时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1968">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
+- <span data-ttu-id="75f95-1984">解决了将文本分列用于动态数组时 Excel 崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1984">Fixed an issue where Excel would crash when using Text To Columns with dynamic arrays.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="75f95-1985">Outlook</span><span class="sxs-lookup"><span data-stu-id="75f95-1985">Outlook</span></span>
+
+- <span data-ttu-id="75f95-1986">解决了在采用月视图的日历中进行滚动时无法显示以前的日历事件的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1986">Fixed an issue where scrolling in calendar with month view, fails to show previous calendar events.</span></span>
+
+- <span data-ttu-id="75f95-1987">保存在左侧导航窗格“收藏夹”中的文件夹可能间歇消失。</span><span class="sxs-lookup"><span data-stu-id="75f95-1987">Folders saved in 'Favorites' in the left navigation pane may intermittently disappear.</span></span>
 
 
-- <span data-ttu-id="c9536-1969">解决了一个问题，该问题导致在某些情况下无法使用相关选项来禁用标记项目突出显示。</span><span class="sxs-lookup"><span data-stu-id="c9536-1969">Addressed an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
-
-- <span data-ttu-id="c9536-1970">解决了导致用户在取消帐户设置时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1970">Addressed an issue that caused users to experience a crash when canceling account setup.</span></span>
+- <span data-ttu-id="75f95-1988">解决了导致用户在指定无效的发件人地址时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1988">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
 
 
-- <span data-ttu-id="c9536-1971">修复了以下问题：电子邮件根据保留策略过期时将显示两个标签。</span><span class="sxs-lookup"><span data-stu-id="c9536-1971">Fixed an issue where emails expiring based on a retention policy would display two labels.</span></span> <span data-ttu-id="c9536-1972">一个标签显示邮件将在一天后过期，另一个标签显示将在两天后过期。</span><span class="sxs-lookup"><span data-stu-id="c9536-1972">One showing that the mail will expire in one day and another displaying that it will expire in two days.</span></span>
+- <span data-ttu-id="75f95-1989">解决了一个问题，该问题导致在某些情况下无法使用相关选项来禁用标记项目突出显示。</span><span class="sxs-lookup"><span data-stu-id="75f95-1989">Addressed an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
+
+- <span data-ttu-id="75f95-1990">解决了导致用户在取消帐户设置时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1990">Addressed an issue that caused users to experience a crash when canceling account setup.</span></span>
 
 
-- <span data-ttu-id="c9536-1973">解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1973">Addressed an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</span></span>
+- <span data-ttu-id="75f95-1991">修复了以下问题：电子邮件根据保留策略过期时将显示两个标签。</span><span class="sxs-lookup"><span data-stu-id="75f95-1991">Fixed an issue where emails expiring based on a retention policy would display two labels.</span></span> <span data-ttu-id="75f95-1992">一个标签显示邮件将在一天后过期，另一个标签显示将在两天后过期。</span><span class="sxs-lookup"><span data-stu-id="75f95-1992">One showing that the mail will expire in one day and another displaying that it will expire in two days.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="c9536-1974">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="c9536-1974">PowerPoint</span></span>
-
-- <span data-ttu-id="c9536-1975">修复了在 PowerPoint 墨迹动画中使用时，墨迹可能无法完全呈现或跳过的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1975">Fixed an issue where Ink may not render completely or get skipped when used in a PowerPoint ink animations.</span></span>
-
-- <span data-ttu-id="c9536-1976">修复了以下问题：关闭文件后，如果有任何事件处理程序正在运行，PowerPoint 不会立即从演示文稿集合中删除该文件。</span><span class="sxs-lookup"><span data-stu-id="c9536-1976">Fixed an issue where After closing a file, PowerPoint does not immediately remove it from the Presentations collection if there are any event handlers running.</span></span> <span data-ttu-id="c9536-1977">因此，由对象模型报告的打开的演示文稿数目不正确，并且系统会阻止关闭 PowerPoint。</span><span class="sxs-lookup"><span data-stu-id="c9536-1977">Hence the number of open presentations reported by the object model is incorrect, and shutdown of PowerPoint is prevented.</span></span>
+- <span data-ttu-id="75f95-1993">解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到崩溃的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1993">Addressed an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</span></span>
 
 
-- <span data-ttu-id="c9536-1978">修复了荧光笔问题：带有黑色荧光笔颜色的白色文本在打印后显示为灰度中的黑色。</span><span class="sxs-lookup"><span data-stu-id="c9536-1978">Fixed an issue with highlighter : White texts with dark highlighter colors are printed as black in Grayscale.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="75f95-1994">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="75f95-1994">PowerPoint</span></span>
+
+- <span data-ttu-id="75f95-1995">修复了在 PowerPoint 墨迹动画中使用时，墨迹可能无法完全呈现或跳过的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-1995">Fixed an issue where Ink may not render completely or get skipped when used in a PowerPoint ink animations.</span></span>
+
+- <span data-ttu-id="75f95-1996">修复了以下问题：关闭文件后，如果有任何事件处理程序正在运行，PowerPoint 不会立即从演示文稿集合中删除该文件。</span><span class="sxs-lookup"><span data-stu-id="75f95-1996">Fixed an issue where After closing a file, PowerPoint does not immediately remove it from the Presentations collection if there are any event handlers running.</span></span> <span data-ttu-id="75f95-1997">因此，由对象模型报告的打开的演示文稿数目不正确，并且系统会阻止关闭 PowerPoint。</span><span class="sxs-lookup"><span data-stu-id="75f95-1997">Hence the number of open presentations reported by the object model is incorrect, and shutdown of PowerPoint is prevented.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="c9536-1979">Project</span><span class="sxs-lookup"><span data-stu-id="c9536-1979">Project</span></span>
-
-- <span data-ttu-id="c9536-1980">修复了以下问题：固定持续时间类型的 100％ 任务可能会错误地将其完成百分比计算为小于 100％ 完成。</span><span class="sxs-lookup"><span data-stu-id="c9536-1980">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
+- <span data-ttu-id="75f95-1998">修复了荧光笔问题：带有黑色荧光笔颜色的白色文本在打印后显示为灰度中的黑色。</span><span class="sxs-lookup"><span data-stu-id="75f95-1998">Fixed an issue with highlighter : White texts with dark highlighter colors are printed as black in Grayscale.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="c9536-1981">Word</span><span class="sxs-lookup"><span data-stu-id="c9536-1981">Word</span></span>
+### <a name="project"></a><span data-ttu-id="75f95-1999">Project</span><span class="sxs-lookup"><span data-stu-id="75f95-1999">Project</span></span>
 
-- <span data-ttu-id="c9536-1982">更新和滚动浏览目录时，有时可能会在文档上显示灰色区域。</span><span class="sxs-lookup"><span data-stu-id="c9536-1982">Updating and scrolling through a table of contents may sometimes display a gray area over the document.</span></span>
-
-
-- <span data-ttu-id="c9536-1983">修复了以下问题：如果编写了批注但未发布内容且用户尝试了保存文件，则使用“浏览”保存文件将不起作用。</span><span class="sxs-lookup"><span data-stu-id="c9536-1983">Fixed an issue where using 'Browse' to save a file did not work if a comment was written but not posted and the user tried to save the file.</span></span>
+- <span data-ttu-id="75f95-2000">修复了以下问题：固定持续时间类型的 100％ 任务可能会错误地将其完成百分比计算为小于 100％ 完成。</span><span class="sxs-lookup"><span data-stu-id="75f95-2000">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
 
 
-- <span data-ttu-id="c9536-1984">修复了在批注卡之间来回切换时有时会显示最初所选批注并突出显示所选内容的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1984">Fixed an issue where going back and forth between comment cards would sometimes display the initially selected comment with a selection highlight.</span></span>
+### <a name="word"></a><span data-ttu-id="75f95-2001">Word</span><span class="sxs-lookup"><span data-stu-id="75f95-2001">Word</span></span>
+
+- <span data-ttu-id="75f95-2002">更新和滚动浏览目录时，有时可能会在文档上显示灰色区域。</span><span class="sxs-lookup"><span data-stu-id="75f95-2002">Updating and scrolling through a table of contents may sometimes display a gray area over the document.</span></span>
 
 
-- <span data-ttu-id="c9536-1985">修复了在编辑批注、将文本设置为斜体并随后将其发布之后斜体格式丢失的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1985">Fixed an issue where italics formatting is lost after editing a comment, italicizing the text and then posting it.</span></span>
+- <span data-ttu-id="75f95-2003">修复了以下问题：如果编写了批注但未发布内容且用户尝试了保存文件，则使用“浏览”保存文件将不起作用。</span><span class="sxs-lookup"><span data-stu-id="75f95-2003">Fixed an issue where using 'Browse' to save a file did not work if a comment was written but not posted and the user tried to save the file.</span></span>
 
 
-- <span data-ttu-id="c9536-1986">修复了在阅读模式中使用“反转”页面颜色看不到批注提示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1986">Fixed an issue where comment hint was not visible in read mode with Inverse page color.</span></span>
+- <span data-ttu-id="75f95-2004">修复了在批注卡之间来回切换时有时会显示最初所选批注并突出显示所选内容的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-2004">Fixed an issue where going back and forth between comment cards would sometimes display the initially selected comment with a selection highlight.</span></span>
 
 
-- <span data-ttu-id="c9536-1987">修复了共同创作文档时可能不会保留根批注的草稿版本的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1987">Fixed an issue where if a document is being coauthored, the draft version of a root comment may not be preserved.</span></span>
+- <span data-ttu-id="75f95-2005">修复了在编辑批注、将文本设置为斜体并随后将其发布之后斜体格式丢失的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-2005">Fixed an issue where italics formatting is lost after editing a comment, italicizing the text and then posting it.</span></span>
 
 
-- <span data-ttu-id="c9536-1988">在启用 SlideTrack 并关闭批注窗格后，按 Ctrl+Alt+M 可能无法打开批注窗格。</span><span class="sxs-lookup"><span data-stu-id="c9536-1988">With SlideTrack enabled and the comments pane closed, Ctrl+Alt+M may not open the comments pane.</span></span>
+- <span data-ttu-id="75f95-2006">修复了在阅读模式中使用“反转”页面颜色看不到批注提示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-2006">Fixed an issue where comment hint was not visible in read mode with Inverse page color.</span></span>
 
 
-- <span data-ttu-id="c9536-1989">修复了在表中添加 @提及时可能会生成错误消息“此文档中的某个表格已损坏”的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1989">Fixed an issue when adding @mention in a table could generate the error message: 'A table in this document has become corrupted'.</span></span>
+- <span data-ttu-id="75f95-2007">修复了共同创作文档时可能不会保留根批注的草稿版本的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-2007">Fixed an issue where if a document is being coauthored, the draft version of a root comment may not be preserved.</span></span>
 
 
-- <span data-ttu-id="c9536-1990">修复了批注上下文菜单中的批注命令（“编辑批注”、“批注答复”、“删除批注”、“解决批注”）不显示的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1990">Fixed an issue where comment commands (Edit comment, Reply to comment, Delete comment, Resolve comment) in the comments context menu were not being displayed.</span></span>
+- <span data-ttu-id="75f95-2008">在启用 SlideTrack 并关闭批注窗格后，按 Ctrl+Alt+M 可能无法打开批注窗格。</span><span class="sxs-lookup"><span data-stu-id="75f95-2008">With SlideTrack enabled and the comments pane closed, Ctrl+Alt+M may not open the comments pane.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="c9536-1991">Office 套件</span><span class="sxs-lookup"><span data-stu-id="c9536-1991">Office Suite</span></span>
-
-- <span data-ttu-id="c9536-1992">解决了可能是导致无法正确安装挪威尼诺斯克语 (nn-no) 校对工具程序包的原因的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1992">Resolves an issue that may have caused Norway Nynorsk (nn-no) proofing tools package to be installed incorrectly.</span></span>
+- <span data-ttu-id="75f95-2009">修复了在表中添加 @提及时可能会生成错误消息“此文档中的某个表格已损坏”的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-2009">Fixed an issue when adding @mention in a table could generate the error message: 'A table in this document has become corrupted'.</span></span>
 
 
-- <span data-ttu-id="c9536-1993">此更改解决了所报告的使用 Intel 集成 GPU 的图形适配器的问题。</span><span class="sxs-lookup"><span data-stu-id="c9536-1993">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
+- <span data-ttu-id="75f95-2010">修复了批注上下文菜单中的批注命令（“编辑批注”、“批注答复”、“删除批注”、“解决批注”）不显示的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-2010">Fixed an issue where comment commands (Edit comment, Reply to comment, Delete comment, Resolve comment) in the comments context menu were not being displayed.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="75f95-2011">Office 套件</span><span class="sxs-lookup"><span data-stu-id="75f95-2011">Office Suite</span></span>
+
+- <span data-ttu-id="75f95-2012">解决了可能是导致无法正确安装挪威尼诺斯克语 (nn-no) 校对工具程序包的原因的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-2012">Resolves an issue that may have caused Norway Nynorsk (nn-no) proofing tools package to be installed incorrectly.</span></span>
+
+
+- <span data-ttu-id="75f95-2013">此更改解决了所报告的使用 Intel 集成 GPU 的图形适配器的问题。</span><span class="sxs-lookup"><span data-stu-id="75f95-2013">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
