@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589884"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749080"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -32,6 +32,51 @@ ms.locfileid: "51589884"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2103-april-13"></a>版本 2103：4 月 13 日
+*版本 2103（内部版本 13901.20400）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 已修复 Word 中绘制图像时出现的潜在资源放大问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了添加日历时导致用户错误地看到"这可能需要一段时间"消息的问题。
+
+- 我们解决了导致代理人显示为新添加的日历上创建的会议的组织者这一问题。  在此州/省/市/区中的会议不会在主体的日历上显示。
+
+- 已修复 Word 中绘制图像时出现的潜在资源放大问题。
+
+
+### <a name="powerpoint"></a>Powerpoint
+
+- 已修复 Word 中绘制图像时出现的潜在资源放大问题。
+
+
+### <a name="word"></a>Word
+
+- 已修复 Word 中绘制图像时出现的潜在资源放大问题。
+
+- 修复了打印预览中响应不响应的问题。
+
+- 更新本地保存的文件的自动保存标注上的文本。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了脱机打开 SyncBacked 文件，然后在保存文件之前在应用中重命名文件时出现重命名失败问题。
 
 
 
@@ -2293,6 +2338,7 @@ ms.locfileid: "51589884"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|产品| |.16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|产品| |.16.0.13801.20360|version-2102-march-18|)
@@ -2302,5 +2348,4 @@ ms.locfileid: "51589884"
 [//]: # (|Win32|CC|生产| |16.0.13628.20380|2101 版 2 月 09 日|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20274|2101 版 1 月 26 日|)
 [//]: # (|Win32|CC|产品| |.16.0.13530.20440|version-2012-1-21|)
-[//]: # (|Win32|CC|生产| |16.0.13530.20376|版本-2012年1月12日|)
 [//]: # (不修改管理中心元数据内容结束)

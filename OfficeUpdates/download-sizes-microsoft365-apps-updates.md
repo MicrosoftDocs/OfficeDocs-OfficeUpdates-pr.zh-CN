@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: fd0201ce7ec5cb64809556c01ed27fabfd461f62
-ms.sourcegitcommit: 94b7247497c7498627f408aa6d08ea32b4af7eb0
+ms.openlocfilehash: cfd36039c62847e317eecfd5d66f1b26dfab75b5
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645034"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749090"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -36,14 +36,23 @@ ms.locfileid: "51645034"
 
 [//]: # (请勿移除)
 
-[//]: # (请勿移除预测内容开头)
+## <a name="april-13-2021"></a>2021 年 4 月 13 日
 
-## <a name="april-8-2021"></a>2021 年 4 月 8 日
+[//]: # (请勿移除内容开头 2021 年 4 月 13 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版本是版本 2103（内部版本 13901.20400）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2103（内部版本 13901.20336） <br/> |2021 年 4 月 2 日 <br/> |65<br/> |
+|版本 2103（内部版本 13901.20312） <br/> |2021 年 3 月 30 日 <br/> |284<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企业频道
 
-<i>预期版本是版本 2102（内部版本 13801.20490）。</i>
+最新版本是版本 2102（内部版本 13801.20506）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ ms.locfileid: "51645034"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年度企业频道（预览）
 
-<i>预期版本是版本 2102（内部版本 13801.20454）。</i>
+最新版本是版本 2102（内部版本 13801.20506）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +72,7 @@ ms.locfileid: "51645034"
 
 ### <a name="semi-annual-enterprise-channel"></a>半年度企业频道
 
-<i>预期版本是版本 2008（内部版本 13127.21474）。</i>
+最新版本是版本 2008（内部版本 13127.21506）。
 
 |**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +80,10 @@ ms.locfileid: "51645034"
 |版本 2008（内部版本 13127.21216） <br/> |2021 年 2 月 9 日 <br/> |62<br/> |
 
 
-[//]: # (请勿移除预测内容结尾)
+[//]: # (请勿移除内容结尾 2021 年 4 月 13 日)
+
+
+
 
 ## <a name="april-2-2021"></a>2021 年 4 月 2 日
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
-ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
+ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "51582078"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749060"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -30,6 +30,44 @@ ms.locfileid: "51582078"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2103-april-10"></a>版本 2103：4 月 10 日
+*版本 2103（内部版本 13901.20400）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 已修复 Word 中绘制图像时出现的潜在资源放大问题。
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了添加日历时导致用户错误地看到"这可能需要一段时间"消息的问题。
+
+- 我们解决了导致代理人显示为新添加的日历上创建的会议的组织者这一问题。  在此州/省/市/区中的会议不会在主体的日历上显示。
+
+- 已修复 Word 中绘制图像时出现的潜在资源放大问题。
+
+### <a name="powerpoint"></a>Powerpoint
+
+- 已修复 Word 中绘制图像时出现的潜在资源放大问题。
+
+### <a name="word"></a>Word
+
+- 已修复 Word 中绘制图像时出现的潜在资源放大问题。
+
+- 修复了打印预览中响应不响应的问题。
+
+- 更新本地保存的文件的自动保存标注上的文本。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了脱机打开 SyncBacked 文件，然后在保存文件之前在应用中重命名文件时出现重命名失败问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2103-april-02"></a>版本 2103：4 月 02 日
 *版本 2103（内部版本 13901.20336）*

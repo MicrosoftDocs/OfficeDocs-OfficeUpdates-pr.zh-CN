@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 3a6494983603abca6e2dceec2abe3001b07b54a3
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169610"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748890"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的发行说明
 
@@ -29,6 +29,49 @@ ms.locfileid: "51169610"
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2008-april-13"></a>版本 2008：4 月 13 日
+*版本 2008（内部版本 13127.21506）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了保存为 .xls 或 .xlt 格式时导致某些数据透视表格式损坏工作簿的问题。
+
+
+- 修复了打开工作簿时意外显示某些笔记的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致配置文件中具有较大层次结构的共享邮箱或委派邮箱的用户遇到挂起的问题。
+
+
+- 修复了同步用户邮箱时导致某些用户遭遇意外关闭的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了一个问题，该问题导致用户在显示人员卡片并导航到其他应用程序后，看到 Office 应用程序无响应。
+
+
+### <a name="word"></a>Word
+
+- 修复了保存 Word 文档并重新打开时内置"敏感度标签"按钮灰白的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-april-13"></a>版本 2002：4 月 13 日
+*版本 2002（内部版本 12527.21814）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 列出安全更新
 
 ## <a name="version-2008-march-09"></a>版本 2008：3 月 9 日
 *版本 2008（内部版本13127.21348）*
@@ -192,7 +235,7 @@ ms.locfileid: "51169610"
 
 - **不退出收件箱加入会议：** 无需切换至日历以加入联机会议。 将日历固定到“待办事项”窗格后，在 Exchange Server 2019 或 Exchange Online 上托管的用户帐户只需单击一次即可加入任何会议。 [了解更多](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
+- **强制 wifi 网络新体验：** 是否已加入需要使用网页登录的 wifi 网络？ 现在，Outlook 检测到这一点，帮助你进行连接。<br />在[博客文章](https://insider.office.com/zh-CN/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看详细信息
 
 - **搜索某个人时获取电子邮件建议：** 在“搜索”框中键入某人姓名时，最相关的电子邮件信息将包含在搜索建议中。 [了解更多](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1811,7 +1854,7 @@ ms.locfileid: "51169610"
 
 - 解决了一个问题，该问题导致用户在将共享日历文件夹同步到 OST 时遇到问题，这导致他们与这些文件夹进行交互时出现权限错误。
 
-- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- 解决了导致用户在 Citrix 环境中查看 30 个以上日历时遇到系统崩溃的问题。 这是[以前的版本中记录的单个 KB](https://support.microsoft.com/zh-CN/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - 解决了 SMIME 算法选择方面的问题。
 
@@ -2689,6 +2732,7 @@ ms.locfileid: "51169610"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DC|产品| |.16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|产品| |16.0.13127.21216|version-2008-febru-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)

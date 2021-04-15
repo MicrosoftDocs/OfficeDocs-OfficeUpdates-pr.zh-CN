@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169721"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749170"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -26,6 +26,157 @@ ms.locfileid: "51169721"
 [//]: # (请勿移除)
 
 
+
+## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
+*版本 2102（内部版本 13801.20506）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用“高级”对话框创建数据类型：** 在“高级”对话框中，可手动选择合并所创建数据类型的列。
+
+- **同时取消隐藏多张工作表：** 不再需要一次取消隐藏一个工作表，可以一次取消隐藏多个隐藏工作表。 [了解详细信息](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="outlook"></a>Outlook
+
+- **“重点收件箱”设置在各设备之间保持不变：** 重点收件箱的首选项现在存储在云中。 在任何计算机上使用 Outlook for Windows 和 Outlook 网页版时，都可享受相同的体验。 [了解更多](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **云端的 Outlook 设置：** 选择 Outlook for Windows 设置（如“自动答复”、“重点收件箱”和“隐私”），然后在任何电脑上进行访问。
+
+- **选择搜索位置：**“新建搜索范围”下拉列表使你能够更轻松地修改搜索并在当前文件夹和当前邮箱之间切换。 感谢在“即将推出”中对新的“热门搜索”体验提供反馈的每个人员。 此项设计和更新正是来自于该反馈！
+
+- **使用语音撰写邮件：** 使用新的听写工具栏，语音命令，自动标点符号等撰写邮件。
+
+### <a name="word"></a>Word
+
+- **使用语音撰写文档：** 使用新的听写工具栏，语音命令和自动标点来起草文档。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修复了在某些情况下，运行 SQL Server 通过查询可能会收到指明"光标状态无效"的错误消息的问题。
+
+
+- 我们修复了用户收到错误对话”光标状态无效的问题。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了在另一张工作表上添加行后，数据验证可能会意外应用到单元格的 Bug。
+
+
+- 修复了对话框表显示函数在 32 位版本的 Excel 中无法正常工作这一问题
+
+
+- 我们修复了使用“粘贴链接图片”选项时导致图像小于预期的问题。
+
+
+- 我们修复了保存为 .xls 或 .xlt 格式时导致某些数据透视表格式设置损坏工作簿的问题。
+
+
+- 我们修复了一个阻止用户将 Excel 工作簿导出为 PDF 的问题。
+
+
+- 解决了 Office 功能区中禁用的命令只会灰显图标而使 Office 主题中的文本无法显示的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致内联翻译用户无法提交反馈的问题。
+
+
+- 修复了导致用户看到包含 unicode 内容的签名受损的问题。
+
+
+- 修复了导致用户看到签名超过预期的问题。
+
+
+- 修复了导致 Outlook 在空闲时崩溃的问题。
+
+
+- 我们修复了导致部分用户在关闭消息窗口时遇到关闭应用程序的问题。
+
+
+- 修复了导致“共享日历”改进用户无法将日历的颜色设置为黄色或棕色的问题。
+
+
+- 修复并解决了导致用户在创建新组后看到重复日历组的问题。
+
+
+- 我们修复了导致用户看到新添加的日历直到 Outlook 重新启动之后才会显示在导航窗格中的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 解决了 Office 功能区中禁用的命令只会灰显图标而使 Office 主题中的文本无法显示的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们已修复了在共同身份验证时解决冲突的问题。
+
+
+- 我们修复了富文本内容控件的问题。
+
+
+- 我们修复了在隐藏段落末尾键入时可能导致应用程序挂起的问题。
+
+
+- 我们修复了讲述人可能跳过某个段落的问题。
+
+
+- 修复了与复制和粘贴相关的问题。
+
+
+- 我们修复了应用于图标和具有 3D 效果的 SVG 图形的颜色问题。
+
+
+- 解决了 Office 功能区中禁用的命令只会灰显图标而使 Office 主题中的文本无法显示的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了与会话 0 中运行的 Office 应用支持相关的可靠性问题。
+
+
+- 修复了有时可能导致 Outlook 中的文本变为透明且无法清晰显示的问题。
+
+
+- 修复了在含有数学公式的文本内使用讲述人时可能发生的问题。
+
+
+- 修复了在含有数学公式的文本内使用讲述人时可能发生的问题。
+
+
+- 修复了 GCC 用户禁用听写的问题
+
+
+- 解决了用户在打开以前打开的文件时无法保存文件（其中未保存编辑，但现在文件已删除）的问题。 修复后，用户收到友好消息，告知用户文件已删除，因此用户可选择放弃更改或另存为文件。
+
+
+- 修复了脱机打开 SyncBacked 文件，然后在保存文件之前在应用中重命名文件时出现重命名失败问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2101-april-13"></a>版本 2101：4 月 13 日
+*版本 2101（内部版本 13628.20664）*
+
+[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 列出安全更新
 
 ## <a name="version-2101-march-09"></a>版本 2101：3 月 9 日
 *版本 2101（内部版本 13628.20528）*
@@ -89,7 +240,23 @@ ms.locfileid: "51169721"
 ## <a name="version-2012-march-09"></a>版本 2012：3 月 9 日
 *版本 2012（内部版本 13530.20628）*
 
-[此处](./microsoft365-apps-security-updates.md) 列出安全更新
+[此处](./microsoft365-apps-security-updates.md)列出安全更新
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **要求用户应用敏感度标签：** 如果组织的策略要求，系统会提示用户应用敏感度标签。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **要求用户应用敏感度标签：** 如果组织的策略要求，系统会提示用户应用敏感度标签。
+
+### <a name="word"></a>Word
+
+- **要求用户应用敏感度标签：** 如果组织的策略要求，系统会提示用户应用敏感度标签。
+
 
 ## <a name="version-2012-february-09"></a>版本 2012：2 月 09 日
 *版本 2012（内部版本 13530.20528）*
@@ -124,9 +291,12 @@ ms.locfileid: "51169721"
 
 - **新的会议室查找器：** 根据不同功能搜索会议室。
 
+- **新式会议室和工作区预定体验：** 会议室预定体验已刷新，通过此体验，我们添加了允许你安排个别工作区的功能
+
+
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
 
 - **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
 
@@ -384,7 +554,7 @@ ms.locfileid: "51169721"
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -629,7 +799,7 @@ ms.locfileid: "51169721"
 - 解决了导致用户无法向其代理授予编辑器权限的问题。
 
 
-- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1465,6 +1635,7 @@ ms.locfileid: "51169721"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|MEC|生产|功能|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13628.20528|版本-2101-3-9|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13530.20528|版本-2012 年 2 月 9 日|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13426.20526|版本-2011年1月12日|)

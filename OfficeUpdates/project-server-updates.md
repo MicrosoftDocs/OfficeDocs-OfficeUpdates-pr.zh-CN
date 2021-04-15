@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 在一个位置查找和管理 Project Server 2013 和 Project Server 2010 的更新。使用此页面上的链接可以详细了解并下载这些更新。
-ms.openlocfilehash: ae21395ff12335149db9fe351dc516549143ce52
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: d24a0110d63e71e72ec06d61dcc132fb676043fb
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170151"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748920"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -28,6 +28,7 @@ ms.locfileid: "51170151"
 ## <a name="project-server-2013-update-history"></a>Project Server 2013 更新历史记录
 |**发布日期**|**KB 编号**||
 |:-----|:-----|:-----|
+|2021 年 4 月 <br/>|[KB4504731](https://support.microsoft.com/help/4504731) <br/>|
 |2021 年 3 月 <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
 |2021 年 2 月 <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
 |2021 年 1 月 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
@@ -182,6 +183,7 @@ ms.locfileid: "51170151"
 
 |**发布日期**|**KB 编号**||
 |:-----|:-----|:-----|
+|2021 年 4 月 <br/>|[KB4504741](https://support.microsoft.com/help/4504741) <br/>|
 |2021 年 3 月 <br/>|[KB4504704](https://support.microsoft.com/help/4504704) <br/>|
 |2021 年 2 月 <br/>|[KB4493217](https://support.microsoft.com/help/4493217) <br/>|
 |2021 年 1 月 <br/>|[KB4493182](https://support.microsoft.com/help/4493182) <br/>|
