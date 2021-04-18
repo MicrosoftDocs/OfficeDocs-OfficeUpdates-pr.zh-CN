@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
+ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749060"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51875733"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -30,6 +30,16 @@ ms.locfileid: "51749060"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2103-april-13"></a>版本 2103：4 月 13 日
+*版本 2103（内部版本 13901.20400）*
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **动态视图** 动态视图自动优化 Teams 会议中共享的内容和视频参与者。 新的控件可让你个性化设置视图以满足你的偏好和需求，如并排显示共享内容和特定参与者的能力。
+
+[//]: # (请勿移除功能详细信息内容结尾)
 
 ## <a name="version-2103-april-10"></a>版本 2103：4 月 10 日
 *版本 2103（内部版本 13901.20400）*
