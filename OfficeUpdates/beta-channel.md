@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
-ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
+ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
+ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51662326"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51875723"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,29 @@ ms.locfileid: "51662326"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-april-16"></a>版本 2105: 4 月 16 日
+*版本 2105 (内部版本 14007.20002)*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了在 64 位 Windows 上使用 32 位 Office 时导致 Excel 崩溃的问题。
+
+
+- 我们修复了导致讲述人在 "页面设置" 对话框的 "页眉/页脚" 选项卡上错误地读取两个按钮属性的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了与链接图片相关的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-april-09"></a>版本 2105：4 月 09 日
 *版本 2105（内部版本 14002.20000）*
@@ -2819,6 +2842,7 @@ ms.locfileid: "51662326"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
@@ -2828,5 +2852,4 @@ ms.locfileid: "51662326"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (不修改管理中心元数据内容结束)
