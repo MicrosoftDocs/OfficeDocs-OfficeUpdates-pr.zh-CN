@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月 Enterprise 频道发行的发行说明
-ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: c1e72418fa6b133775f7a78ca6f243fb61014ef5
+ms.sourcegitcommit: 65c8693187b7f6673343ae1516708df749c19a5a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749170"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900532"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>有关 2020 年每月 Enterprise 频道发行的发行说明
 
@@ -69,8 +69,6 @@ ms.locfileid: "51749170"
 
 - 修复了在某些情况下，运行 SQL Server 通过查询可能会收到指明"光标状态无效"的错误消息的问题。
 
-
-- 我们修复了用户收到错误对话”光标状态无效的问题。
 
 
 ### <a name="excel"></a>Excel
@@ -153,9 +151,6 @@ ms.locfileid: "51749170"
 
 
 - 修复了有时可能导致 Outlook 中的文本变为透明且无法清晰显示的问题。
-
-
-- 修复了在含有数学公式的文本内使用讲述人时可能发生的问题。
 
 
 - 修复了在含有数学公式的文本内使用讲述人时可能发生的问题。
@@ -296,7 +291,7 @@ ms.locfileid: "51749170"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
 
 - **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
 
@@ -554,7 +549,7 @@ ms.locfileid: "51749170"
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -799,7 +794,7 @@ ms.locfileid: "51749170"
 - 解决了导致用户无法向其代理授予编辑器权限的问题。
 
 
-- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/zh-CN/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
+- 解决了可选的连接体验阻止加载 Web 加载项的问题。<br />在[博客文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看详细信息
 
 
 ### <a name="powerpoint"></a>PowerPoint
