@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2020 年 Microsoft 365 应用版每月频道发行的发行说明
-ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cd20d279f1134b092d00cedca555d13925894ba3
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749080"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995745"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -32,6 +32,38 @@ ms.locfileid: "51749080"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2103-april-23"></a>版本 2103：4 月 23 日
+*版本 2103（内部版本 13901.20462）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了无法加载某些 Excel 自动化加载项的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致 Outlook 替代 OWA 中配置的重点收件箱首选项这一问题。
+
+
+- 我们修复了一个问题，该问题导致当代表另一个用户发送邮件，并针对不是全局地址列表的通讯簿进行解析时，名称解析失败。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了与链接图片相关的问题。
+
+
+### <a name="word"></a>Word
+
+- 优化要提供的文本预测条件。
 
 
 
@@ -2338,6 +2370,7 @@ ms.locfileid: "51749080"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20312|version-2103-march-30|)
@@ -2347,5 +2380,4 @@ ms.locfileid: "51749080"
 [//]: # (|Win32|CC|生产| |16.0.13628.20448|2101 版 2 月 16 日|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20380|2101 版 2 月 09 日|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20274|2101 版 1 月 26 日|)
-[//]: # (|Win32|CC|产品| |.16.0.13530.20440|version-2012-1-21|)
 [//]: # (不修改管理中心元数据内容结束)

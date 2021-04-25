@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: cfd36039c62847e317eecfd5d66f1b26dfab75b5
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749090"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995742"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -35,6 +35,22 @@ ms.locfileid: "51749090"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+## <a name="april-23-2021"></a>2021 年 4 月 23 日
+
+[//]: # (请勿移除内容开头 2021 年 4 月 23 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版本是版本 2103（内部版本 13901.20462）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2103（内部版本 13901.20400） <br/> |2021 年 4 月 13 日 <br/> |53<br/> |
+|版本 2103（内部版本 13901.20336） <br/> |2021 年 4 月 2 日 <br/> |66<br/> |
+
+
+[//]: # (请勿移除内容结尾 2021 年 4 月 23 日)
 
 ## <a name="april-13-2021"></a>2021 年 4 月 13 日
 

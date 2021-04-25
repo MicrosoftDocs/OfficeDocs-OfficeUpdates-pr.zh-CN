@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875723"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995729"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,57 @@ ms.locfileid: "51875723"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-april-23"></a>版本 2105: 4 月 23 日
+*版本 2105 (内部版本 14014.20002)*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **从动态数组导入数据：** 现在可以导入、调整和刷新当前工作簿中动态数组的数据。 [了解更多](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了不支持向后兼容旧版 Excel 的问题。 由于自 Office 2007 以来在 Excel 中增加了 IFERROR 和 XLOOKUP 等功能，该问题可能导致在较新版本的 Excel 中保存的文件无法在较旧版本的 Excel 中正常加载。
+
+
+- 我们修复了某些文件在“受保护的视图”中偶尔会无法打开的问题。
+
+
+- 我们修复了导致某些用户的状态栏不显示“就绪”状态的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了一个问题，该问题导致当代表另一个用户发送邮件，并针对不是全局地址列表的通讯簿进行解析时，名称解析失败。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了当使用从右向左的语言时剪切批注中占位符文本的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了在 Outlook 中使用从右到左的语言撰写邮件时，会破坏包含数字超链接的问题。
+
+
+- 我们修复了某些可扩展矢量图形 (SVG) 无法正确呈现的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-april-16"></a>版本 2105: 4 月 16 日
 *版本 2105 (内部版本 14007.20002)*
@@ -2842,6 +2893,7 @@ ms.locfileid: "51875723"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
@@ -2851,5 +2903,4 @@ ms.locfileid: "51875723"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (不修改管理中心元数据内容结束)
