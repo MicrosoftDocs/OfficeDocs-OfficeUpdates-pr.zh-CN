@@ -10,6 +10,7 @@
 
 ## 每月企业频道
 ### [发行说明](monthly-enterprise-channel.md)
+### [已存档发行说明](monthly-enterprise-channel-archived.md)
 
 ## 半年企业频道
 ### [发行说明](semi-annual-enterprise-channel.md)
