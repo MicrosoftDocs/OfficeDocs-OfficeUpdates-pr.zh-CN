@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: dc4b8459637d0e285d8b5b9e5f40fa3c49aabea2
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749190"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091841"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -68,9 +68,16 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 - **同时取消隐藏多张工作表：** 一次不再仅能取消隐藏一张工作表，可以一次取消隐藏多张隐藏工作表。 [了解更多](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **使用演示者指导排练演示文稿：** 演示者指导用户排练演示文稿，以便更有效地吸引受众。 它提供有关 Pac、音高、字词的使用等的反馈。 [了解更多](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />在[博客文章](https://insider.office.com/zh-CN/blog/presenter-coach-now-in-powerpoint-on-mac)中查看详细信息
+
+### <a name="teams"></a>Teams
+
+- **动态视图：** 动态视图自动优化 Teams 会议中共享的内容和视频参与者。 新的控件可让你个性化设置视图以满足你的偏好和需求，如并排显示共享内容和特定参与者的能力。
+
+- **外出：** 设置一条消息，让其他人知道你不在工作或正在休假，因此当他们发送聊天消息时你无法回复。 你的外出状态也将与 Outlook 日历中的自动答复同步。
 
 ### <a name="word"></a>Word
 
@@ -956,9 +963,9 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>|**新的 Office 应用图标：** 重新设计的应用图标，以反映出 Office 简单、强大而智能的体验。 <br/><br/>**更快起步：** 根据你的活动及你周围的人在处理的任务获得相关建议。<br/><br/>**见证文档生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个页面中四处跳动。 [了解更多](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
+|Word  <br/>|**新的 Office 应用图标：** 重新设计的应用图标，以反映出 Office 简单、强大而智能的体验。 <br/><br/>**更快起步：** 根据你的活动及你周围的人在处理的任务获得相关建议。<br/><br/>**查看栩栩如生的文档：** 插入动态 3D 图形，观看心跳、行星轨道以及在整个页面中横冲直撞的霸王龙。[了解详细信息](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
 |Excel  <br/>|**新的 Office 应用图标：** 重新设计的应用图标，以反映出 Office 简单、强大而智能的体验。<br/> <br/>**调用所有宏用户：** 使用相对引用录制宏。 在重播时，它在活动单元格的关系中工作，而不是在用于录制的单元格中。 [了解详细信息](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**可轻松访问喜欢的命令：** 可快速、轻松地访问“查找和选择”、“缩放到选定区域”和“全部重排”等常用操作。 可在工作区上找到它们。 [了解详细信息](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**更快起步：** 根据你的活动及你周围的人在处理的任务获得相关建议。<br/><br/>**见证工作表生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个工作簿中四处跳动。 [了解详细信息](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0828)：Microsoft Excel 远程代码执行漏洞 |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
-|Powerpoint  <br/>|**新的 Office 应用图标：** 重新设计的应用图标，以反映出 Office 简单、强大而智能的体验。<br/><br/>**更快起步：** 根据你的活动及你周围的人在处理的任务获得相关建议。<br/><br/>**轻松保存嵌入的媒体：** 只需一个控件再单击一下即可保存音频和视频。 [了解详细信息](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**见证幻灯片生动起来的过程：** 插入动态 3D 图形，观看心跳、行星轨道和霸王龙在整个屏幕上四处跳动。 [了解详细信息](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
+|Powerpoint  <br/>|**新的 Office 应用图标：** 重新设计的应用图标，以反映出 Office 简单、强大而智能的体验。<br/><br/>**更快起步：** 根据你的活动及你周围的人在处理的任务获得相关建议。<br/><br/>**轻松保存嵌入的媒体：** 只需一个控件再单击一下即可保存音频和视频。 [了解详细信息](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**查看栩栩如生的幻灯片：** 插入动态 3D 图形，观看心跳、行星轨道以及在整个屏幕中横冲直撞的霸王龙。[了解详细信息](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**新的 Office 应用图标：** 重新设计的应用图标，以反映出 Office 简单、强大而智能的体验。 <br/><br/>**安全链接：** 支持高级威胁防护 (ATP) 安全链接。  ||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
 |Microsoft 自动更新 4.10<br/>|**“在克隆上安装”功能得到强化：** 对于 SSD 设备，将在当前使用的应用的克隆上推广更新，从而降低应用由于更新而停机的情况。 <br/><br/>**安装优化：** 更新过程将使用并行化克隆，因而缩短因更新而导致应用故障的时间。|<br/> | [Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
 |Office 套件  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0822)：Microsoft Graphics 组件远程代码执行漏洞<br/><br/>|<br/>|
@@ -990,8 +997,8 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **使用 @提及功能引起他人的注意：** 在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**LaTex 公式编辑：** Word 现支持使用 LaTeX 数学语法来创建和编辑数学公式。 [了解更多](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
-|Excel  <br/>|**使用 @提及功能引起他人的注意：** 在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**发现关于数据的更多信息：**“创意”新按钮可查找数据中的模式并用其创建智能的个性化建议。 [了解更多](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
+|Word  <br/>| **通过 @提及吸引同事的注意力** 在注释中使用 @提及，以在需要同事的意见时让他们知悉。[了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**LaTex 公式编辑：** Word 现支持使用 LaTeX 数学语法来创建和编辑数学公式。 [了解更多](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
+|Excel  <br/>|**通过 @提及吸引同事的注意力** 在注释中使用 @提及，以在需要同事的意见时让他们知悉。[了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**深入发掘数据：** 全新的“想法”按钮可查找数据中的模式并使用这些模式创建智能、个性化的建议。[了解详细信息](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
 |Powerpoint  <br/>| **切换效果更好：** 在触控板上移动手指，观察墨迹在屏幕上的挥洒。 [了解更多](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f) <br/><br/> | <br/>|[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/>|
 
@@ -1080,7 +1087,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/>  **保留文本的外观：** 嵌入字体，确保文档文本在每一台计算机上都显示相同的外观。不会再出现问题！[了解详细信息](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**在文档中查看嵌入字体：** 允许在 Mac Word 中呈现文件中嵌入的字体。<br/><br/>**焦点模式可调用状态栏：** 在焦点模式下，可以通过可调用状态栏更轻松地查看字数统计和访问缩放控件。<br/><br/>**通过焦点模式获得更多便利：** 我们了解你的需求！ 现在，焦点模式会在设置的缩放级别打开，并且在滚动时也会显示页码。| |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Word  <br/>| **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/>  **保留文本的外观：** 嵌入字体，确保文档文本在每一台计算机上都显示相同的外观。不会再出现问题！[了解详细信息](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**在文档中查看嵌入字体：** 允许在 Mac Word 中呈现文件中嵌入的字体。<br/><br/>**焦点模式可调用状态栏：** 在焦点模式下，可以通过可调用状态栏更轻松地查看字数统计和访问缩放控件。<br/><br/>**通过焦点模式获得更多便利：** 我们了解你的需求！现在，焦点模式会在设置的缩放级别打开，并且在滚动时也会显示页码。| |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 远程代码执行漏洞 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 信息泄漏漏洞 |[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
 |Powerpoint  <br/>| **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/>  **从 iPhone 快速切换到 PowerPoint：** 使用 Apple 连续互通相机将 iPhone 中的照片插入你的幻灯片中。需要 macOS Mojave。[了解详细信息](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 远程代码执行漏洞 <br/>|[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **利用暗模式降低眼睛疲劳：** 在低光环境下，深色背景可以降低眼睛疲劳。需要 macOS Mojave。<br/><br/>  **共享日历：** 与家人、朋友和同事共享日历。在 Mac、PC 或云版 Outlook 中打开与你共享的日历。[了解详细信息](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **禁止会议转发：** 阻止与会者将会议转发给其他人。[了解详细信息](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **使用 Teams 连接到会议：** 需要与团队远程协作？使用 Outlook 中的 Teams 安排和加入在线会议。[了解详细信息](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**查看会议参与者：** 单击日历中的任意会议或事件，即可查看计划加入该会议或事件的人员。<br/><br/> **查看三个时区：** 需要跨时区安排会议？在日历中添加多个时区，即可轻松查看每一个人是否都有空并选择一个适合于所有人的时间。[了解详细信息](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
