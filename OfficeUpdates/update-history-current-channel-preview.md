@@ -9,26 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道定向版本的更新历史记录
-ms.openlocfilehash: 1e09ae86978e5c0c9fa5ab54a560b51773ff2995
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: c64b0ec90f075b979d9af44e3be044c1b1874caa
+ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058756"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52081235"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 当前频道（预览）的更新历史记录
 
-各位预览体验成员： 大家好！如果想知道你是否已安装最新的更新或要寻找最新的当前频道（预览）内部版本的列表，那么此处可满足你的需要。
-有关预览体验计划的详细信息，请单击[此处](https://insider.office.com/)。
+你好，预览体验成员！无论是要确定是否已安装最新的更新，还是要查找最近当前频道（预览）的列表，你都来对了地方。单击[此处](https://insider.office.com/)可详细了解预览体验计划。
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 当前频道（预览）版本和内部版本
 
-如果你注册了当前频道（预览）级别（以前称为“预览体验计划 - 慢”），则大约一个月左右会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续内部版本。 下表显示了最近的当前频道（预览）版本和内部版本，其中 **首先列出了最新发布的内部版本**。 新的内部版本包含之前的内部版本中包含的所有更新。
-若要查找发行说明，[请参阅](./current-channel-preview.md)。 此外，你还可以查看 [Office 预览体验计划的新增功能](https://insider.office.com/zh-CN/releasenotes/windows/slow)。
+如果你注册了当前频道（预览）级别（以前称为“预览体验计划 - 慢”），则大约一个月左右会收到一次新的 Office 功能更新，以及包含重要修补程序或安全更新的后续内部版本。下表显示了最近的当前频道（预览）版本和内部版本，其中 **首先列出了最新发布的内部版本**。新的内部版本包含早期内部版本中包含的所有更新。要查找发行说明，[请参阅](./current-channel-preview.md)。此外，还可以参阅[Office 预览体验计划的新增功能](https://insider.office.com/zh-CN/releasenotes/windows/slow)。
 
 
 > [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
+> - 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 > - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](/deployoffice/name-change)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 > [!NOTE]
@@ -38,6 +36,9 @@ ms.locfileid: "52058756"
 
 
 [//]: # (请勿移除)
+
+**2021 年 4 月 28 日**<br/>
+版本 2104（内部版本 13929.20296）<br/>
 
 **2021 年 4 月 26 日**<br/>
 版本 2104（内部版本 13929.20254）<br/>

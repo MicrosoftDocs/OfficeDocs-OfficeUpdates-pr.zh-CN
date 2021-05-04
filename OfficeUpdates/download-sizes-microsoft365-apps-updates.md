@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995742"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091850"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -22,7 +22,7 @@ ms.locfileid: "51995742"
 
 下表显示了将上一版 Microsoft 365 应用版更新到最新版本时的近似下载大小。 实际下载大小可能会有所不同，差值最多不超过 50 MB。 若要从更低版本更新至当前版本，下载大小会更大。
 
-若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小将会远大于表中列出的下载大小。 可能需要进行完整下载（至少为 1 GB）。
+若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小可能会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。
 
 
 > [!IMPORTANT]
@@ -35,6 +35,22 @@ ms.locfileid: "51995742"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+## <a name="april-29-2021"></a>2021 年 4 月 29 日
+
+[//]: # (请勿移除内容开头 2021 年 4 月 29 日)
+
+### <a name="current-channel"></a>当前频道
+
+最新版本是版本 2104（内部版本 13929.20296）。
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2103（内部版本 13901.20462） <br/> |2021 年 4 月 23 日 <br/> |167<br/> |
+|版本 2103（内部版本 13901.20400） <br/> |2021 年 4 月 13 日 <br/> |167<br/> |
+
+
+[//]: # (请勿移除内容结尾 2021 年 4 月 29 日)
 
 ## <a name="april-23-2021"></a>2021 年 4 月 23 日
 
