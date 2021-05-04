@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供 Microsoft 365 应用版每月频道版本的发行说明
-ms.openlocfilehash: 392523dca2dd2f0c0078747e1d25a93b9d0a85b2
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026267"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52108214"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -37,6 +37,92 @@ ms.locfileid: "52026267"
 
 [//]: # (请勿移除错误详细信息内容结尾)
 
+## <a name="version-2104-april-29"></a>版本 2104：4 月 29 日
+*版本 2104（内部版本 13929.20296）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **链接数据类型：真实方案的真实数据：** 新链接数据类型带来数百个主题的事实和数据，帮助你在 Excel 中完成目标。
+
+### <a name="teams"></a>Teams
+
+- **动态视图** 动态视图自动优化 Teams 会议中共享的内容和视频参与者。 新的控件可让你个性化设置视图以满足你的偏好和需求，如并排显示共享内容和特定参与者的能力。
+
+- **外出：** 设置一条消息，让其他人知道你不在工作或正在休假，因此当他们发送聊天消息时你无法回复。 你的外出状态也将与 Outlook 日历中的自动答复同步。
+
+### <a name="visio"></a>Visio
+
+- **图表的现成图形：** 从可添加到 Visio 绘图中的图标、库存照片图像、人像抠图和贴纸的大型库中进行选择。 [了解更多](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[博客文章](https://insider.office.com/zh-CN/blog/access-illustrations-icons-in-visio)中查看详细信息
+
+### <a name="word"></a>Word
+
+- **与新式评论更好地协作：** 向对象添加批注、@提及同事并解决批注线程，以便获得更好的协作体验。 [了解更多](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[博客文章](https://insider.office.com/zh-CN/blog/modern-commenting-in-word)中查看详细信息
+
+- **Word 文档的深色模式：** 深色模式可以在处理文档时，帮助减轻眼部疲劳，降低对光线的敏感度。<br />在[博客文章](https://insider.office.com/zh-CN/blog/try-dark-mode-in-word)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了某些 Excel 自动化加载项无法加载的问题。
+
+
+- 修复了有时无法在受保护视图中打开某些文件的问题
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致用户在搜索时体验预期关闭的问题。
+
+
+- 我们修复了导致用户看到签名意外消失的问题。
+
+
+- 我们修复了一个问题，该问题可能导致用户看到他们正在撰写的消息失去 UI 焦点。
+
+
+- 我们修复了导致 Outlook 替代 OWA 中配置的重点收件箱首选项这一问题。
+
+
+- 修复了导致漫游设置的用户没有响应的问题。
+
+
+- 我们修复了一个问题，该问题导致当代表另一个用户发送邮件，并针对不是全局地址列表的通讯簿进行解析时，名称解析禁用。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了与链接图片相关的问题。
+
+
+### <a name="project"></a>Project
+
+- 已修复用户无法从资源池删除项目的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了更新本地保存文件的自动保存标注文本的问题。
+
+
+- 修复了在阅读模式下使用深色模式主题时某些选定文本不可见的问题。
+
+
+- 对编辑 OLE 对象进行了更改。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
 ## <a name="version-2103-april-23"></a>版本 2103：4 月 23 日
 *版本 2103（内部版本 13901.20462）*
 
@@ -45,7 +131,7 @@ ms.locfileid: "52026267"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 修复了无法加载某些 Excel 自动化加载项的问题。
+- 修复了安装 2021 年 4 月安全更新后未加载的 Excel 自动化加载项的问题。 请使用为不在当前频道的用户提供的解决方法[了解更多信息](https://support.microsoft.com/zh-CN/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
 
 
 ### <a name="outlook"></a>Outlook
@@ -652,6 +738,7 @@ ms.locfileid: "52026267"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20336|version-2103-april-02|)
@@ -661,5 +748,4 @@ ms.locfileid: "52026267"
 [//]: # (|Win32|CC|生产| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20448|2101 版 2 月 16 日|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20380|2101 版 2 月 09 日|)
-[//]: # (|Win32|CC|生产| |16.0.13628.20274|2101 版 1 月 26 日|)
 [//]: # (不修改管理中心元数据内容结束)
