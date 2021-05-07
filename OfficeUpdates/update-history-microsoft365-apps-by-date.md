@@ -9,20 +9,21 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: 0a42b5bc49ae042c9ea6c656e1f0f79c577b4a6f
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091821"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264740"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
 这些版本号和生成号适用于 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本。
 
 > [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](/deployoffice/name-change)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+> - 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
+> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。  若要了解详细信息，请[阅读本文](/deployoffice/name-change)。  在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
+
 
 > [!NOTE]
 > - 该表是按发行日期排序的，首先列出最近的发行日期。

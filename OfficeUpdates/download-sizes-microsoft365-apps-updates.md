@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: ed59e962bd4767dbded3801ec18c4c329a4cb1b3
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091850"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264750"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -26,7 +26,7 @@ ms.locfileid: "52091850"
 
 
 > [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
+> - 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 > - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](/deployoffice/name-change)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 
@@ -35,6 +35,43 @@ ms.locfileid: "52091850"
 > - 列出的是过去四个月内的版本。
 
 [//]: # (请勿移除)
+
+[//]: # (请勿移除预测内容开头)
+
+## <a name="may-6-2021"></a>2021 年 5 月 6 日
+
+
+### <a name="monthly-enterprise-channel"></a>每月企业频道
+
+<i>预期版本是版本 2103（内部版本 13901.20506）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2102（内部版本 13801.20506） <br/> |2021 年 4 月 13 日 <br/> |137<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年度企业频道（预览）
+
+<i>预期版本是版本 2102（内部版本 13801.20626）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2102（内部版本 13801.20506） <br/> |2021 年 4 月 13 日 <br/> |45<br/> |
+|版本 2102（内部版本 13801.20294） <br/> |2021 年 3 月 9 日 <br/> |72<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年度企业频道
+
+<i>预期版本是版本 2008（内部版本 13127.21614）。</i>
+
+|**升级前的版本**|**发布日期**|**近似下载大小 (MB)**|
+|:-----|:-----|:-----|
+|版本 2008（内部版本 13127.21506） <br/> |2021 年 4 月 13 日 <br/> |55<br/> |
+|版本 2008（内部版本 13127.21348） <br/> |2021 年 3 月 9 日 <br/> |61<br/> |
+
+
+[//]: # (请勿移除预测内容结尾)
 
 ## <a name="april-29-2021"></a>2021 年 4 月 29 日
 

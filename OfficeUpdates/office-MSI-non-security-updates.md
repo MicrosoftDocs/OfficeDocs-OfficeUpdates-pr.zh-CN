@@ -9,23 +9,26 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 为 IT 专业人士提供有关 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全更新信息的链接
-ms.openlocfilehash: e254de1835dfd13550f6614f841777d519529d31
-ms.sourcegitcommit: 515409b0baa38e7da8e00be3b54ea6789755f11b
+ms.openlocfilehash: b87152251bac703f17324a2236d79fb2674e01f6
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51598113"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236942"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本的最新非安全更新
 
 本页面列出了 Office 的非安全更新，这些更新是在每月第一个星期二发布的。
 
 > [!NOTE]
-> - 本文信息仅适用于使用 Windows Installer (MSI) 安装技术的 Office 永久版本， 例如 Office 专业增强版 2016。
+> - 本文信息仅适用于使用 Windows Installer (MSI) 安装技术的 Office 永久版本。例如，Office 专业增强版 2016。
 > - 本文中的信息不适用于 Microsoft 365 应用。
 > - 有关安装 Office 更新的详细信息，请参阅[安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
 
+## <a name="may-4-2021"></a>2021 年 5 月 4 日
+**Office 2016**<br/>
+Microsoft Office 2016 的更新（[KB4462117](https://support.microsoft.com/help/4462117)） </br> Skype for Business 2016 的更新（[KB4493155](https://support.microsoft.com/help/4493155)） </br> Microsoft Outlook 2016 的更新（[KB5001921](https://support.microsoft.com/help/5001921)） </br> 
 
 ## <a name="april-6-2021"></a>2021 年 4 月 6 日
 **Office 2016**<br/>
@@ -76,14 +79,6 @@ Microsoft Office 2016 的更新 ([KB4486680](https://support.microsoft.com/help/
 Microsoft Office 2016 的更新 ([KB4484397](https://support.microsoft.com/help/4484397)) <br/>
 Microsoft Outlook 2016 的更新 ([KB4486720](https://support.microsoft.com/help/4486720)) <br/>
 Microsoft Project 2016 的更新 ([KB4486712](https://support.microsoft.com/help/4486712)) <br/>
-
-
-## <a name="october-6-2020"></a>2020 年 10 月 6 日
-**Office 2016**<br/>
-Microsoft Office 2016 的更新 ([KB4475584](https://support.microsoft.com/help/4475584))<br/>
-Microsoft Project 2016 的更新 ([KB4484502](https://support.microsoft.com/help/4484502))<br/>
-Microsoft Visio 2016 的更新 ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
-Skype for Business 2016 的更新 ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
 
 </br>
