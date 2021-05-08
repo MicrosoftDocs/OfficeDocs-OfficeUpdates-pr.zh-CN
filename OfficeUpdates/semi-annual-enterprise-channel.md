@@ -9,19 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: b91be809ed8da915e4131e48123df3bfd14fcd17
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 15a5b7073da11a3dc177027ca92385a47a999e38
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026287"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278099"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的发行说明
 
 我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了半年企业频道更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
-
-> [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 > [!NOTE]
 >
@@ -255,7 +252,7 @@ ms.locfileid: "52026287"
 
 - **改进了 PowerPoint 的流视频性能：** 我们对 Microsoft Stream 视频的回放性能进行了改进，以最小化视频加载时间，创造流畅的观看体验。 使用来自 Microsoft Stream 的企业视频来创建更好的演示文稿。
 
-- **使用 \@提及** 功能引起他人的注意：在批注中使用 @提及，以在需要同事的意见时让他们知悉。 [了解更多](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **通过 \@提及吸引同事的注意力：** 在注释中使用 @提及，以在需要同事的意见时让他们知悉。[了解详细信息](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **演示时同步所做的更改：** 即使演示文稿处于幻灯片放映模式，只要进行了更改就同步这些更改。 [了解更多详细信息](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[博客文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看详细信息
 
@@ -825,7 +822,7 @@ ms.locfileid: "52026287"
 - 解决了导致用户在已禁用 ADAL 时无法导入 SPO 列表的问题。
 
 
-- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。将信息更改为显示“碳粉/墨水不足”&“无碳粉/墨水”。
 
 
 - 我们通过设置Bing插件安装验证默认为真实，并使MSI返回成功视为安装成功，解决了ValidateInstall失败率问题。
@@ -861,7 +858,7 @@ ms.locfileid: "52026287"
 - 此更改解决了启动 Office 应用时由于无法加载 d2d1 而出现的问题。
 
 
-- 当注册表键HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth被设置为零并且一个外接程序正在被激活时，windows中的office主机意外关闭。 此更改可修复此问题。
+- Office 主机在窗口中意外关闭，该加载项在激活加载项时，注册表项 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth 设置为零。此更改将修复此问题。
 
 
 - 解决了 Office 加载项的消息传递 API 无法正常工作的问题。

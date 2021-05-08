@@ -9,19 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供 Microsoft 365 应用版每月频道版本的发行说明
-ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
-ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
+ms.openlocfilehash: c80fc6be7ba427eb11cc1e141d44e12ed30cdb2c
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52108214"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52277909"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
 我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了当前频道更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
-
-> [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
  > [!NOTE]
 >
@@ -215,6 +212,10 @@ ms.locfileid: "52108214"
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **政府客户：对文档和电子邮件应用敏感度** 标签功能现在可用于 DoD 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
 ### <a name="outlook"></a>Outlook
 
 - **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。<br />在[博客文章](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)中查看详细信息
@@ -228,6 +229,12 @@ ms.locfileid: "52108214"
 - **共享到 Teams：** 与 Teams 中的人员或频道共享 Outlook 中的邮件。
 
 - **使用语音撰写邮件：** 使用新的听写工具栏，语音命令，自动标点符号等撰写邮件。
+
+- **政府客户：对文档和电子邮件应用敏感度** 标签功能现在可用于 DoD 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **政府客户：对文档和电子邮件应用敏感度** 标签功能现在可用于 DoD 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="teams"></a>Teams
 
@@ -253,6 +260,7 @@ ms.locfileid: "52108214"
 
 - **使用语音撰写文档：** 使用新的听写工具栏，语音命令和自动标点来起草文档。
 
+- **政府客户：对文档和电子邮件应用敏感度** 标签功能现在可用于 DoD 环境中的客户。 [了解更多](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 

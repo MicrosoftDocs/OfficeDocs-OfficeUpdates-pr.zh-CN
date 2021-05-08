@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: bb14136d385d11187c26552bd61c321338ce2f36
-ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
+ms.openlocfilehash: cf5a7d18a98c712a31e5741e7d8532020ec330f1
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52108234"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52277999"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
 本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access 和 Project 的 Beta 频道内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 注意，我们通常会在一段时间内向 Beta 频道推出功能（有时甚至包括修补程序）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
 
 > [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
+> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 > [!NOTE]
 > - 发行说明每周发布一次，可能是多个版本的编译。
@@ -30,6 +30,34 @@ ms.locfileid: "52108234"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-may-07"></a>版本 2106：5 月 7 日 
+*版本 2106（内部版本 14029.20000）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了阻止名称管理器打开包含大量隐藏名称的书籍的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致用户看不到其发件箱文件夹中所有已发送项目的副本这一问题。
+
+
+- 修复了将大声朗读与其他版本的 Windows 一同使用时导致 Outlook 意外关闭的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了将大声朗读与其他版本的 Windows 一起使用时导致 Word 意外关闭的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-april-30"></a>版本 2105：4 月 30 日
 *版本 2105（内部版本 14026.20000）*
@@ -2979,6 +3007,7 @@ ms.locfileid: "52108234"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
@@ -2988,5 +3017,4 @@ ms.locfileid: "52108234"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (不修改管理中心元数据内容结束)
