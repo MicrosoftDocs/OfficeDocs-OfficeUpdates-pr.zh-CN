@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供有关每个更新通道的 Microsoft 365 应用版更新的近似下载大小的信息
-ms.openlocfilehash: ed59e962bd4767dbded3801ec18c4c329a4cb1b3
-ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
+ms.openlocfilehash: 4d0be484cc3605b30d3feedcad0006278a249e79
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264750"
+ms.locfileid: "52278069"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 应用版更新的下载大小
 
@@ -23,11 +23,6 @@ ms.locfileid: "52264750"
 下表显示了将上一版 Microsoft 365 应用版更新到最新版本时的近似下载大小。 实际下载大小可能会有所不同，差值最多不超过 50 MB。 若要从更低版本更新至当前版本，下载大小会更大。
 
 若要切换到其他频道（例如，从半年频道（定向）切换到半年频道），更新程序大小可能会远大于表中列出的下载大小。可能需要进行完整下载（至少为 1 GB）。
-
-
-> [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](/deployoffice/name-change)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 
 > [!NOTE]

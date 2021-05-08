@@ -9,19 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: fdb00cda7c1eb30a470843c4637e8cae1828d7f3
-ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
+ms.openlocfilehash: 1b6f0758a770724411cd1a50cbf8aa25a65447d1
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52236952"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278059"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
 本文包含 Windows 桌面版的 Word、Excel、PowerPoint、Outlook、Access、Project 和 Teams 的当前频道（预览）内部版本的发行说明。 每周，我们都会提供精彩集锦，其中包含我们希望你了解的有趣新功能、重要修补程序和所有重要问题。 请注意，我们经常会过一段时间就将功能（有时甚至是修补程序）发布到当前频道（预览）。 这可以让我们确保将功能向更多的受众发布之前，所用功能均可正常使用。 因此，如果你没有看到下面所述的功能，请不要担心，你最终会获取这些功能。  
 
-> [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 > [!NOTE]
 > - 发行说明发布日期可能与实际内部版本发布日期不一致。
@@ -1113,7 +1111,7 @@ ms.locfileid: "52236952"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **一键式写作建议：** 只需单击一次，即可应用写作建议。 编辑器可校正拼写和语法，并提供创意以改进写作。 [了解更多](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[博客文章](https://insider.office.com/zh-CN/blog/microsoft-editor-gets-an-upgrade)中查看详细信息
+- **一键式写作建议：** 只需单击一次，即可应用写作建议。 编辑器可校正拼写和语法，并提供创意以改进写作。 [了解更多](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[博客文章](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1838,9 +1836,9 @@ ms.locfileid: "52236952"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
@@ -1934,7 +1932,7 @@ ms.locfileid: "52236952"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。<br />在[博客文章](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)中查看详细信息
+- **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。<br />在[博客文章](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)中查看详细信息
 
 - **使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！ 在邮件中，右键单击以翻译特定字词、短语或整个邮件。 [了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -2140,7 +2138,7 @@ ms.locfileid: "52236952"
 
 ### <a name="outlook"></a>Outlook
 
-- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 <br />在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
+- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 <br />在[博客文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -2204,7 +2202,7 @@ ms.locfileid: "52236952"
 
 ### <a name="excel"></a>Excel
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2216,13 +2214,13 @@ ms.locfileid: "52236952"
 
 - **邮件所有者删除对话：** 此功能允许你通过邮件所有者删除对话。
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2240,7 +2238,7 @@ ms.locfileid: "52236952"
 
 ### <a name="word"></a>Word
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 

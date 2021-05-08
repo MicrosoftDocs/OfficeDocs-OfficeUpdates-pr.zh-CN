@@ -9,20 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为预览体验成员提供 Windows 桌面版的每月频道“预览体验成员 - 快”版本的更新历史记录
-ms.openlocfilehash: bb76a9d7bea20fc325b2913c83a6e3d9084e2c57
-ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
+ms.openlocfilehash: 0336e9688cfee35e7ab7e6f122fd335f4c30a58f
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52236902"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52277949"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 频道的更新历史记录
 
 你好，预览体验成员！如果你想知道是否安装了最新的更新或查找最近的预览体验成员内部版本列表，那么你来对地方了。单击[此处](https://insider.office.com/)以了解有关预览体验成员计划的详细信息。
-
-> [!IMPORTANT]
-> - 我们正在对 Microsoft 365 应用版的更新频道进行一些更改，包括添加新的更新频道（每月企业频道）和更改现有更新频道的名称。若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
-> - 自版本 2004 起，Office 365 专业增强版现在重命名为“Microsoft 365 企业应用版”。 若要了解详细信息，请[阅读本文](/deployoffice/name-change)。 在我们的文档中，我们通常将其称为 Microsoft 365 应用版。
 
 > [!NOTE]
 >

@@ -9,19 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 向 IT 专业人士提供有关 Microsoft 365 应用版每月企业频道发行的发行说明
-ms.openlocfilehash: fbfcc2b35e049ebf7bc38860a58ab33e582aa31b
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: 45717c3a57ea169f7c243f0db1a318f3f5aeebe7
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058746"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278039"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企业频道发行说明
 
 这些发行说明提供了有关新功能和非安全更新的信息，这些信息包含在 Microsoft 365 企业应用版、Microsoft 365 商业应用版，以及 Project 和 Visio 桌面应用订阅版本的每月企业频道更新中。
 
-> [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 [//]: # (请勿移除)
 
@@ -291,7 +289,7 @@ ms.locfileid: "52058746"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
 
 - **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
 

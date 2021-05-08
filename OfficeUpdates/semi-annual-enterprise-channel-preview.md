@@ -9,19 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2021 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 3a0307e973092e845ee17c17d22a8b160f9e9ef4
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 15057ecbf2e351bc294a9937e1548f51a43f7ba6
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026277"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278109"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
 我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了半年企业频道（预览）更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
-
-> [!IMPORTANT]
-> 我们正在对 Microsoft 365 应用的更新频道进行一些更改，包括添加新的更新频道（月度企业版频道）和更改现有更新频道的名称。 若要了解详细信息，请[阅读这篇文章](/DeployOffice/update-channels-changes)。
 
 
 ## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
@@ -113,7 +110,7 @@ ms.locfileid: "52026277"
 
 - **使用数据类型从 Power BI 获取组织数据：Power BI 中的** Excel 数据类型现向具有 Office 365/Microsoft 365 和 Power BI Pro 服务计划的组织的预览体验成员推出。 获取所需信息并轻松刷新，这对许多日常工作流至关重要。 我们将为你提供从 Power BI 到 Excel 中的数据类型的公司或组织信息的访问权限，这将扩大你在电子表格中引入链接信息的能力。 [了解更多](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[博客文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **在 Excel 中制作精美的 Visio 图表：** 根据工作表中的数据创建数据驱动的图表，例如流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -125,13 +122,13 @@ ms.locfileid: "52026277"
 
 - **在 Outlook 中使用快速投票创建投票：** 轻松创建投票、收集选票和在电子邮件中查看结果 [了解详细信息](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **新的会议室查找器：** 根据不同功能搜索会议室。
 
 - **按照你说的方式搜索目标：** 使用日常语言（如“上周预约的兽医”）来筛选和缩小搜索范围。
 
-- **从上一个 Outlook 会话快速重新打开项目的选项：** 我们添加了一个选项，可以从上一个 Outlook 会话快速重新打开项目。<br />在[博客文章](https://insider.office.com/zh-CN/blog/automatically-restore-windows-in-outlook)中查看详细信息
+- **从上一个 Outlook 会话快速重新打开项目的选项：** 我们添加了一个选项，可以从上一个 Outlook 会话快速重新打开项目。<br />在[博客文章](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)中查看详细信息
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -139,7 +136,7 @@ ms.locfileid: "52026277"
 
 - **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。  我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="visio"></a>Visio
 
@@ -151,7 +148,7 @@ ms.locfileid: "52026277"
 
 - **保存到已固定的文件夹：** 固定文件夹可更轻松地保存 Office 文件。  我们收到了一些反馈，用户希望更好地控制保存新文件时的可用文件夹。 我们很高兴为你带来一个新功能：在“保存”对话中固定文件夹。 这个新功能将使你的 Word、Excel 和 PowerPoint 文件更容易保存。 [了解更多](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[博客文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看详细信息
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -445,7 +442,7 @@ ms.locfileid: "52026277"
 - 修复了在包含数学公式的文本中使用讲述人时可能发生的崩溃。
 
 
-- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。 将信息更改为显示 "碳粉/墨水不足" & "无碳粉/墨水"。
+- 当用户在办公室的喷墨打印机上打印任何文档/文件，并且打印机墨水不足时，即使喷墨打印机不需要碳粉，也会显示 "碳粉不足 "或 "无碳粉 "的信息。将信息更改为显示“碳粉/墨水不足”&“无碳粉/墨水”。
 
 
 - 修正了在某些旧版本上安装较新版本的Office，可能会因缺少注册表项而导致功能受损（例如无法使用Power Query）的问题。
