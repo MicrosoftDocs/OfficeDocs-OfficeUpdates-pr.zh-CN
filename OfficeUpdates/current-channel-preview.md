@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 1b6f0758a770724411cd1a50cbf8aa25a65447d1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
+ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278059"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52285973"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,47 @@ ms.locfileid: "52278059"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-may-07"></a>版本 2105：5 月 7 日
+*版本 2105（内部版本 14026.20138）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **将布局引入 Teams 会议：** 现在，你可以叠加在内容上，获得更身临其境的演示和使用体验
+
+- **禁用特定与会者的照相机：** 会议组织者和演示者可以禁用 Teams 会议中特定与会者的照相机，以确保他们不会在会议中共享视频。
+
+- **禁用所有与会者的照相机：** 会议组织者和演示者可以禁用 Teams 会议中所有与会者的照相机，以确保他们不会在会议中共享视频。
+
+- **匿名用户可以演示：** 托管 Teams 实时事件时，添加了匿名用户加入实时事件的能力，以便他们可以在事件期间进行演示。
+
+- **在 Teams 中以编程方式管理标签 - Microsoft Teams 标记 API 现已提供公共预览版：** 此组 API 可用于以编程方式在团队中分配用户标记，以便更快、更轻松地创建和维护标记。  通过使用 Teams 中的标记，用户可快速联系一组人员，而无需 @mention 或键入所有人。 有关团队中标签详细信息，请参阅《在 Teams 使用标签》。 使用这些新的 API，开发人员现在可以在团队中创建标记，并在团队更新 tagsDelete 标记中向 usersGet 分配标记列表。
+
+- **从 PowerPoint 向 Teams 演示：** 通过 PowerPoint Live 直接从 PowerPoint 应用直向 Teams 会议演示幻灯片。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="word"></a>Word
+
+- 修复了编辑器窗格未打开的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- RelNotesNotNeeded
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-may-03"></a>版本 2105：5 月 03 日
 *版本 2105（内部版本 14026.20052）*
@@ -1111,7 +1152,7 @@ ms.locfileid: "52278059"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **一键式写作建议：** 只需单击一次，即可应用写作建议。 编辑器可校正拼写和语法，并提供创意以改进写作。 [了解更多](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[博客文章](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)中查看详细信息
+- **一键式写作建议：** 只需单击一次，即可应用写作建议。 编辑器可校正拼写和语法，并提供创意以改进写作。 [了解更多](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[博客文章](https://insider.office.com/zh-CN/blog/microsoft-editor-gets-an-upgrade)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -1836,9 +1877,9 @@ ms.locfileid: "52278059"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
 
-- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
+- **创建具有透明背景的 GIF：** 导出到动画 GIF 时，新选项将允许背景透明。<br />在[博客文章](https://insider.office.com/zh-CN/blog/export-animated-gifs-transparent-backgrounds)中查看详细信息
 
 - **导出范围内的动画 GIF：** 导出到动画 GIF 时选择一系列幻灯片
 
@@ -1932,7 +1973,7 @@ ms.locfileid: "52278059"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。<br />在[博客文章](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)中查看详细信息
+- **撰写邮件时节省时间：** Outlook 显示编写建议，可帮助你快速撰写邮件。 若要接受建议，只需使用 Tab 键。<br />在[博客文章](https://insider.office.com/zh-CN/blog/text-predictions-in-word-outlook)中查看详细信息
 
 - **使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！ 在邮件中，右键单击以翻译特定字词、短语或整个邮件。 [了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -2138,7 +2179,7 @@ ms.locfileid: "52278059"
 
 ### <a name="outlook"></a>Outlook
 
-- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 <br />在[博客文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
+- **语法检查为你保驾护航：** Outlook会在你打字时标记语法错误，因此可以通过单击来应用其建议。 <br />在[博客文章](https://insider.office.com/zh-CN/blog/grammar-and-style-suggestions-available-in-outlook)中查看详细信息
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -2202,7 +2243,7 @@ ms.locfileid: "52278059"
 
 ### <a name="excel"></a>Excel
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2214,13 +2255,13 @@ ms.locfileid: "52278059"
 
 - **邮件所有者删除对话：** 此功能允许你通过邮件所有者删除对话。
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2238,7 +2279,7 @@ ms.locfileid: "52278059"
 
 ### <a name="word"></a>Word
 
-- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看详细信息
+- **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **自动切换 Office 主题：** Office 可自动切换主题，使其与 Windows 10 主题设置相匹配。 转到“文件” > “选项”，然后选择“Office 主题”旁的“使用系统设置”。 [了解详细信息](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
