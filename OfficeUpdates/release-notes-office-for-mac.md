@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091841"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330509"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -57,6 +57,58 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 
 
+
+
+
+## <a name="may-11-2021"></a>2021 年 5 月 11 日
+*版本 16.49（内部版本 21050901）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="apex-shared"></a>已共享 Apex
+
+- **为 Mac 上 Office 开始屏幕获取刷新外观：** 全新刷新外观使用了 Fluent 工具包，以和 Big Sur 中 Apple 的全新设计语言保持一致。<br />请在 [博客文章](https://insider.office.com/zh-CN/blog/visual-updates-to-start-experience-in-office-for-mac) 中查看详细信息
+
+### <a name="excel"></a>Excel
+
+- **链接数据类型：真实方案的真实数据：** 新链接数据类型带来数百个主题的事实和数据，帮助你在 Excel 中完成目标。 [了解更多](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
+
+### <a name="outlook"></a>Outlook
+
+- **开放共享邮箱和设置委派：** 现在，可以在新版 Outlook for Mac 中设置委派方案和开发共享邮箱。
+
+- **编辑器通过单击提供写作建议：** 右键单击（Alt +向下）即可获取拼写、语法和其他智能写作建议。 使用左键单击查看新的卡片设计，并发现其他选项，如“添加到字典”、“显示上下文”、“同义词”等。 [了解详细信息](https://support.office.com/article/c6b1283d-81a2-47f1-bc85-9e8dfc0cbf15)
+
+- **使用语音命令听写消息：** 全新的听写工具栏、语音命令与自动添加标点功能让你能更快更轻松地使用语音创建内容。<br />在[博客文章](https://insider.office.com/zh-CN/blog)中查看详细信息
+
+### <a name="teams"></a>Teams
+
+- **适用于 MAC 用户基于 AI 的噪音抑制：** 在 Teams 会议或通话中打开麦克风时，周围的环境噪音（如翻动纸张、关门和犬吠等）可能干扰他人。 Teams 提供了四个等级的噪音印制（自动、低、高和关闭），以帮助与会人员保持专注。此功能现已向所有 MAC 用户提供，但使用带有 M1 ARM 处理器的新 MAC 用户除外。
+
+- **GCC 中实时辅助字幕和实时脚本的演讲者属性：GCC 云中的** Teams 会议现将提供源自演讲者话语的实时辅助字幕。
+
+- **聊天中回复：** 聊天中回复特定消息的能力。
+
+- **在 Microsoft Teams 中自定义应用：** 通过应用自定义功能，开发人员可以指定其 Teams 应用的某些属性可自定义，并允许 IT 管理员在 Teams 管理中心内改变这些属性的品牌。 例如，IT 管理员可以从 ServiceNow 自定义 Now Virtual Agent 应用的名称、说明和图标以满足其组织的独特需求。
+
+- **Teams 中的 M365 个人资料卡片：** 在 Teams 中选择某人的姓名或照片时，个人资料卡将打开并显示此人的相关信息，例如职务、联系信息和经理。个人资料卡有时也称为联系人卡片或人员卡片。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="security-updates"></a>安全更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31177](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-31177)
+
+[//]: # (请勿删除安全详细信息内容结尾)
 
 ## <a name="april-13-2021"></a>2021 年 4 月 13 日
 *版本 16.48（内部版本 21041102）*
@@ -1070,7 +1122,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |Word  <br/>| **从 iPhone 快速切换到 Word：** 使用 Apple 连续互通相机将 iPhone 中的照片插入你的文档中。需要 macOS Mojave。[了解详细信息](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **向文档应用敏感度标签：** 向文档应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0561)：Microsoft Word 信息泄漏漏洞  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0585)：Microsoft Word 远程代码执行漏洞 |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **通过注释进行协作：** 使用内置回复框在电子表格中保持正常对话。[了解详细信息](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **向工作表应用敏感度标签：** 向工作表应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG支持：** 在工作簿中插入和编辑 SVG 以增加视觉效果。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**直方图、瀑布图、树图、旭日图、漏斗图和地图的更多格式选项：** 通过使用“格式”窗格，你可以更好地控制新图表类型的格式选项。|[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |Powerpoint  <br/>| **在讲义中打印幻灯片编号：** 将演示文稿打印为讲义时，每张幻灯片都会显示相应的幻灯片编号。 <br/><br/> **向演示文稿应用敏感度标签：** 向演示文稿表应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**嵌入部分字体：** 仅嵌入演示文稿中使用的字符。  [了解更多](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **向邮件应用敏感度标签：** 向邮件应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**在当前邮箱中快速查找邮件：** 选中“搜索”框，获取基于最近搜索历史记录的快速建议。 无需键入。 [了解详细信息](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**添加 Gmail 帐户变得更加简单：** 安全性改进意味着，不再需要允许访问“安全性较低的应用”或者设置应用密码，以将你的 Gmail 帐户添加到 Outlook。<br/><br/>**Outlook for Mac 现在突出显示搜索词：** 是否曾经尝试过搜索一些内容，并希望 Outlook 在项目列表或预览窗格中突出显示你的搜索词？ 好吧，无需再翘首以待，相关功能现已推出。||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **向邮件应用敏感度标签：** 向邮件应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**在当前邮箱中快速查找邮件：** 选中“搜索”框，获取基于最近搜索历史记录的快速建议。 无需键入。 [了解详细信息](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**添加 Gmail 帐户变得更加简单：** 安全性改进意味着，不再需要允许访问“安全性较低的应用”或者设置应用密码，以将你的 Gmail 帐户添加到 Outlook。<br/><br/>**Outlook for Mac 现在突出显示搜索词：** 是否曾经尝试搜索一些内容，并希望 Outlook 在项目列表或预览窗格中突出显示你的搜索词？此功能现已可用！||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft 自动更新 4.7 <br/>| AutoUpdate 守护程序已作为安装流程的一部分启用。这就消除了先前向用户显示的令人混淆的安全对话框。 <br/><br/> Microsoft AutoUpdate 安全功能经过增强，以支持 SHA256 证书。 <br/>|<br/> | [Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]

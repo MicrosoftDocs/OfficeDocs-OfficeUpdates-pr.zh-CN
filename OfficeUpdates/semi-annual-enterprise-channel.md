@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: 15a5b7073da11a3dc177027ca92385a47a999e38
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278099"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322342"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的发行说明
 
@@ -23,6 +23,59 @@ ms.locfileid: "52278099"
 > [!NOTE]
 >
 >- 如果半年企业频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用版，现在默认情况下会包括 OneNote 2016。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2008-may-11"></a>版本 2008: 5 月 11 日
+*版本 2008（内部版本 13127.21624）*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了 Excel 无法加载某些自动化加载项的问题。
+
+
+- 修复了一个问题，阻止在受保护的工作表上粘贴为公式。
+
+
+- 我们做了修正，以提高性能，同时在工作表之间切换或滚动，并打开了辅助功能焦点跟踪。
+
+
+- 解决了墨迹书写可能会导致 Excel 停止响应的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们已修复了在用户取消选中该选项后导致邮件以数字签名发送的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了一些文件无法导出为 PDF 格式的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-may-11"></a>版本 2002: 5 月 11 日
+*版本 2002（内部版本 12527.21912）*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了 Excel 无法加载某些自动化加载项的问题。
+
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
@@ -927,6 +980,7 @@ ms.locfileid: "52278099"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|产品| |.16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|产品| |16.0.13127.21216|version-2008-febru-09|)
@@ -936,5 +990,4 @@ ms.locfileid: "52278099"
 [//]: # (|Win32|DC|生产| |16.0.12527.21236|2002 年 10 月 13 日版|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|版本-2002年8月11日|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (不修改管理中心元数据内容结束)

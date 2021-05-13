@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供 Microsoft 365 应用版每月频道版本的发行说明
-ms.openlocfilehash: c80fc6be7ba427eb11cc1e141d44e12ed30cdb2c
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52277909"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322442"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -29,6 +29,55 @@ ms.locfileid: "52277909"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2104-may-11"></a>版本 2104：5 月 11 日
+*版本 2104（内部版本 13929.20372）*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了某个主要版本内部版本回滚可能导致文件打开时崩溃的问题。
+
+
+- 修复了某些用户无法使用分析工具库加载项的问题。
+
+
+- 已修复使用加载项时导致某些语言的日期格式显示错误的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 修复了导致某些使用日历共享改进功能的用户在导航窗格中与日历交互的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了某个主要版本内部版本回滚可能导致文件打开时崩溃的问题。
+
+
+- 修复了少数用户无法使用重用幻灯片选项的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了某个主要版本内部版本回滚可能导致文件打开时崩溃的问题。
+
+
+- 修复了因用户日志记录关闭或重启计算机导致关机时可能造成 Word 意外关闭的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更改分析了 Cobalt 响应上已发送的新 TenantId 属性，并将其存储在中心表格内。
 
 
 
@@ -746,6 +795,7 @@ ms.locfileid: "52277909"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20400|version-2103-april-13|)
@@ -755,5 +805,4 @@ ms.locfileid: "52277909"
 [//]: # (|Win32|CC|生产| |16.0.13801.20294|版本-2102-3-09|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|生产| |16.0.13628.20448|2101 版 2 月 16 日|)
-[//]: # (|Win32|CC|生产| |16.0.13628.20380|2101 版 2 月 09 日|)
 [//]: # (不修改管理中心元数据内容结束)

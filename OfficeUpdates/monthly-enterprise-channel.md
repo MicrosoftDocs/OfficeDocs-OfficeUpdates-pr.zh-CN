@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 向 IT 专业人士提供有关 Microsoft 365 应用版每月企业频道发行的发行说明
-ms.openlocfilehash: 45717c3a57ea169f7c243f0db1a318f3f5aeebe7
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278039"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322322"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企业频道发行说明
 
@@ -24,6 +24,179 @@ ms.locfileid: "52278039"
 [//]: # (请勿移除)
 
 
+
+## <a name="version-2103-may-11"></a>版本 2103: 5 月 11 日
+*版本 2103 (内部版本 13901.20516)*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **自动使用新数据类型**：当您键入类似于股票或地理位置的数据值时，Excel 将其转换为适当的关联数据类型：股票或地理位置。 [了解更多](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+
+- **链接数据类型：真实方案的真实数据：** 新链接数据类型带来数百个主题的事实和数据，帮助你在 Excel 中完成目标。
+
+### <a name="outlook"></a>Outlook
+
+- **使用内置翻译工具打破语言障碍：** 不再需要翻译加载项！ 现可在 Outlook 中使用智能翻译工具。 当你收到一封其他语言的邮件时，邮件顶部将显示一条提示，询问你是否希望 Outlook 将其翻译成默认语言。
+也可以右键单击以翻译特定字词、短语或整封邮件。 [了解更多](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="visio"></a>Visio
+
+- **图表的现成图形：** 从可添加到 Visio 绘图中的图标、库存照片图像、人像抠图和贴纸的大型库中进行选择。 [了解更多](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[博客文章](https://insider.office.com/zh-CN/blog/access-illustrations-icons-in-visio)中查看详细信息
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 我们修复了外部应用程序请求辅助功能界面时，在其释放引用之前阻止我们关闭的问题。
+
+
+- 此更改修复了在某些情况下，运行 SQL Server 通过查询可能会导致错误消息表明存在"光标状态无效"的问题。
+
+
+### <a name="excel"></a>Excel
+
+- 已修复使用加载项时导致某些语言的日期格式显示错误的问题。
+
+
+- 解决了某些用户无法使用分析工具库加载项的问题。
+
+
+- 已修复绘制图像时 Word 中的潜在挂起。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了一个问题，该问题导致当代表另一个用户发送邮件，并针对不是全局地址列表的通讯簿进行解析时，名称解析失败。
+
+
+- 我们修复了导致 Outlook 替代 OWA 中配置的重点收件箱首选项这一问题。
+
+
+- 我们修复了导致某些人员无法访问与辅助邮件账户相关联的签名的问题。
+
+
+- 修复了导致用户看到签名超过预期的问题。
+
+
+- 修复了一个问题，导致某些用户在导航窗格中看到主要日历和次要日历切换位置。
+
+
+- 我们修复了添加日历时导致用户错误地看到"这可能需要一段时间"消息的问题。
+
+
+- 我们解决了导致代理人显示为新添加的日历上创建的会议的组织者这一问题。  在此州/省/市/区中的会议不会在主体的日历上显示。
+
+
+- 修复了具有 ARM 处理器的计算机上，启用 MAPI 的应用程序所使用的 Outlook 组件中的问题。 该问题可能导致搜索失败，或者由于后台应用程序反复重启而导致电脑的额外负载。
+
+
+- 修复了同步文件夹层次结构更改时导致某些用户意外关闭 Outlook 的问题。
+
+
+- 已修复绘制图像时 Word 中的潜在挂起。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了与链接图片相关的问题。
+
+
+- 已修复绘制图像时 Word 中的潜在挂起。
+
+
+### <a name="project"></a>Project
+
+- 修复了 Visio 在关闭期间停止运行的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 修复了 Visio 在关闭期间停止运行的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了优化要提供文本预测条件的问题。
+
+
+- 修复了对于保存在本地的文件，在自动保存标注时更新文本的问题。
+
+
+- 修复了共同创作文档时，在批注顺序更改时没有清除活动草稿的问题。
+
+
+- 修复了打印预览意外关闭的问题。
+
+
+- 已修复绘制图像时 Word 中的潜在挂起。
+
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了与在会话 0 中运行的 Office 应用支持相关的可靠性问题。
+
+
+- 修复了当在离线状态下打开 SyncBacked 文件，然后保存文件之前在应用中重命名时，重命名没有反应的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2102-may-11"></a>版本 2102: 5 月 11 日
+*版本 2102 (内部版本 13801.20638)*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 已修复使用加载项时导致某些语言的日期格式显示错误的问题。
+
+
+- 修复了阻止在受保护的工作表上粘贴为公式的能力的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 这使最终用户可以配置 Outlook，以将联机会议添加到所创建的所有会议。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了与链接图片相关的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了 Wordmail 中，当链接中的第 2084 个字符是转义字符时，有人无法发送该项目’的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了打印长文档时导致 Word 意外关闭的问题。
+
+
+- 在更改前，即使开启了禁用 Office 模板的 GPO，也会显示这些模板。 通过此更改，模板现可正确执行 GPO 并按要求显示/隐藏。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
 *版本 2102（内部版本 13801.20506）*
@@ -289,7 +462,7 @@ ms.locfileid: "52278039"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看详细信息
+- **SVG 剪贴板支持：** 现在你可以将 Office 中的 SVG 内容粘贴到第三方应用程序中。 [了解详细信息](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[博客文章](https://insider.office.com/zh-CN/blog/svg-content-office-third-party-apps)中查看详细信息
 
 - **敏感度标签审核日志记录：** 当用户应用、更改或删除其文档和电子邮件上的敏感度标签时，Microsoft 365 审核日志中的管理员现在可以使用这些信息。
 
@@ -538,6 +711,7 @@ ms.locfileid: "52278039"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13628.20528|版本-2101-3-9|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13530.20528|版本-2012 年 2 月 9 日|)
@@ -547,5 +721,4 @@ ms.locfileid: "52278039"
 [//]: # (|Win32|MEC|生产|功能|16.0.13127.20638|2008 年 10 月 13 日版|)
 [//]: # (|Win32|MEC|生产|功能|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
-[//]: # (|Win32|MEC|生产|功能|16.0.12827.20538|版本-2005-7-14|)
 [//]: # (不修改管理中心元数据内容结束)

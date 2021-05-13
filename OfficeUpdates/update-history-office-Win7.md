@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 向客户提供 Windows 7 版 Microsoft 365 应用更新历史记录的发行说明
-ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749130"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330449"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 版 Microsoft 365 应用的更新历史记录 
 
@@ -26,7 +26,7 @@ ms.locfileid: "51749130"
 
 版本 2002 是最后一个版本的 Microsoft 365 应用，可用于运行 Windows 7 的设备。 版本 2002 可用于 Microsoft 365 应用的所有更新频道。
 
-半年度企业频道的版本通常仅在 14 个月内可用。 但是，我们仅针对版本 2002 提供一个例外情况，使其与 Windows 7 的扩展安全更新 （ESU） 的提供时间一致。
+半年度企业频道版本可用时间通常仅有 14 个月，但版本 2002 除外，以便与适用于 Windows 7 的可扩展安全更新 (ESU) 的可用时长一致。
 
 版本 2002 的此扩展可用性也适用于其他更新频道，例如当前频道，但仅适用于运行 Windows 7 的设备。
 
@@ -38,6 +38,9 @@ ms.locfileid: "51749130"
 ## <a name="update-history"></a>更新历史记录
 
 [//]: # (请勿移除)
+
+**2021 年 5 月 11 日**<br/>
+版本 2002（内部版本 12527.21912）<br/>
 
 **2021 年 4 月 13 日**<br/>
 版本 2002（内部版本 12527.21814）<br/>
