@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 84cf474575a5d5a4568b752336e9ea763f7af574
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330509"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470756"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -84,7 +84,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="teams"></a>Teams
 
-- **适用于 MAC 用户基于 AI 的噪音抑制：** 在 Teams 会议或通话中打开麦克风时，周围的环境噪音（如翻动纸张、关门和犬吠等）可能干扰他人。 Teams 提供了四个等级的噪音印制（自动、低、高和关闭），以帮助与会人员保持专注。此功能现已向所有 MAC 用户提供，但使用带有 M1 ARM 处理器的新 MAC 用户除外。
+- **适用于 Mac 用户基于 AI 的噪音抑制：** 在 Teams 会议或通话中打开麦克风时，周围的环境噪音（如翻动纸张、关门和犬吠等）可能干扰他人。 Teams 提供了四个等级的噪音印制（自动、低、高和关闭），以帮助与会人员保持专注。此功能现已向所有 Mac 用户提供，但使用带有 Apple 芯片的新 Mac 用户除外。
 
 - **GCC 中实时辅助字幕和实时脚本的演讲者属性：GCC 云中的** Teams 会议现将提供源自演讲者话语的实时辅助字幕。
 

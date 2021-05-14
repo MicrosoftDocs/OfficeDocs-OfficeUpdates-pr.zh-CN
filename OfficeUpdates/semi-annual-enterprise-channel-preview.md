@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2021 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322482"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470776"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
@@ -22,9 +22,9 @@ ms.locfileid: "52322482"
 
 
 ## <a name="version-2102-may-11"></a>版本 2102：5 月 11 日
-*版本 2102（内部版本 13801.20638）版本*
+*版本 2102（内部版本 13801.20638）*
 
-[此处](microsoft365-apps-security-updates.md)列出安全更新
+此处列出了安全更新：[Microsoft Office 安全更新发行说明](microsoft365-apps-security-updates.md)
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -70,7 +70,7 @@ ms.locfileid: "52322482"
 ## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
 *版本 2102（内部版本 13801.20506）*
 
-[此处](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出安全更新
+此处列出了安全更新：[Microsoft Office 安全更新发行说明](microsoft365-apps-security-updates.md)
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -138,7 +138,7 @@ ms.locfileid: "52322482"
 ## <a name="version-2102-march-09"></a>版本 2102：3 月 9 日
 *版本 2102（内部版本 13801.20294）*
 
-[此处](./microsoft365-apps-security-updates.md)列出安全更新
+此处列出了安全更新：[Microsoft Office 安全更新发行说明](microsoft365-apps-security-updates.md)
 
 
 [//]: # (请勿移除功能详细信息内容开头)
@@ -518,7 +518,7 @@ ms.locfileid: "52322482"
 ## <a name="version-2008-february-09"></a>版本 2008：2 月 09 日
 *版本 2008（内部版本 13127.21216）*
 
-[此处](./microsoft365-apps-security-updates.md)列出安全更新
+此处列出了安全更新：[Microsoft Office 安全更新发行说明](microsoft365-apps-security-updates.md)
 
 
 [//]: # (请勿移除错误详细信息内容开头)
@@ -579,7 +579,7 @@ ms.locfileid: "52322482"
 ## <a name="version-2008-january-12"></a>版本2008：1月12日
 *版本2008（内部版本13127.21064）*
 
-[此处](./microsoft365-apps-security-updates.md)列出安全更新
+此处列出了安全更新：[Microsoft Office 安全更新发行说明](microsoft365-apps-security-updates.md)
 
 
 [//]: # (请勿移除错误详细信息内容开头)
