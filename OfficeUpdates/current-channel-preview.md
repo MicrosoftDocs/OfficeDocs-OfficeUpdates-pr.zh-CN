@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
-ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
+ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285973"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470766"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,36 @@ ms.locfileid: "52285973"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-may-12"></a>版本 2105：5 月 12 日
+*版本 2105（内部版本 14026.20164）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **默认在桌面（或）浏览器（或）Teams 中打开文件的用户首选项设置：** 用户打开在 Teams 中共享的 Office（Word、Excel 和 Power Point）文件时，可以将其默认首选项设置为浏览器、桌面或 Teams。如果最新 Office 客户端已安装并激活，则可以选择桌面设置
+
+- **Teams 会议中的记者和并排模式：** 现在你可以显示在内容旁边，以实现更有吸引力的演示和使用体验
+
+- **Teams 网络研讨会功能正式发布：** 使用举行会议的同一个 Teams 应用，安排和举行 1000 人参加的网络研讨会！ 网络研讨会功能支持创建注册页面、注册者的电子邮件确认、与会者视频和音频的主机管理、与会者报告，以及投票、聊天和回应等交互功能。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="word"></a>Word
+
+- 修复了拼写和语法的画布上下文卡片显示图标按钮、但这些按钮没有工具提示的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-may-07"></a>版本 2105：5 月 7 日
 *版本 2105（内部版本 14026.20138）*
