@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
+ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470766"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52574297"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,42 @@ ms.locfileid: "52470766"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-may-19"></a>版本 2105：5 月 19 日
+*版本 2105（内部版本 14026.20202）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **Teams 网络研讨会与 Dynamics 365 Marketing 集成以支持潜在客户培养：** 借助此功能，网络研讨会组织者可以利用 D365 Marketing 推动与注册者的活动后互动。 与会者互动数据与 D365 Marketing 组织和启用的自动用户旅程同步
+
+- **智能扬声器：** 智能扬声器是 Windows 上 Microsoft Teams 会议室的智能周边设备。 与会者将为会议室中的与会者提供具有脚本的脚本，使与会者能够省下时间记笔记，并轻松跟进会议室中说了哪些内容。
+
+- **使 Teams 用户可以通过 Teams 客户端购买 Teams 应用：** Teams 用户现在能够从 Teams 商店购买 Teams 应用订阅。
+
+- **使用团队模板创建 Teams：** 使用 Teams 中的模板，用户可以在创建新团队时从各种可自定义的模板中进行选择，以帮助他们快速入门。 IT 管理员还可以为其组织创建自定义模板，从而使他们能够标准化团队结构，预安装相关应用并扩展最佳实践。 IT 管理员可以选择在 Teams 管理中心中向最终用户显示哪些团队模板，还可以通过在团队模板的网站选项卡中添加 URL 来预配置网站选项卡。
+
+- **在 Teams 中的 PowerPoint Live 中使用激光笔和墨迹注释：** 我们推出了虚拟激光笔和注释，以便演示者可以吸引受众注意 PowerPoint 幻灯片组的某些部分，从而有效地共享内容并吸引受众。 就像在会议室使用物理激光笔一样，PowerPoint Live 可让你有效地指向不同位置，以便受众可以轻松地跟随幻灯片的内容。
+
+- **通过 1P 团队模板实施 Power Automate 流程建议：** 为从 1P 团队模板创建的团队实施 Power Automate 流程模板
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们解决了导致 Office Perpetual 2021 预览版用户无法显示反馈选项的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-may-12"></a>版本 2105：5 月 12 日
 *版本 2105（内部版本 14026.20164）*
@@ -3584,7 +3620,7 @@ ms.locfileid: "52470766"
 
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
