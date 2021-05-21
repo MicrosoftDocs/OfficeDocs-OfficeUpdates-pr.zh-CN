@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供 Microsoft 365 应用版每月频道版本的发行说明
-ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322442"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563368"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -29,6 +29,23 @@ ms.locfileid: "52322442"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2104-may-18"></a>版本 2104：5 月 18 日
+*版本 2104（内部版本 13929.20386）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了一个问题，对于拥有永久许可证的用户，该问题导致 Outlook 中的人员选取器向上扩展，而不是向下扩展。
+
+
+- 我们修复了导致 Office Perpetual 2021 预览版用户无法显示反馈选项的问题。
 
 
 
@@ -118,9 +135,6 @@ ms.locfileid: "52322442"
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
-
-- 修复了某些 Excel 自动化加载项无法加载的问题。
-
 
 - 修复了有时无法在受保护视图中打开某些文件的问题
 
@@ -795,6 +809,7 @@ ms.locfileid: "52322442"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
@@ -804,5 +819,4 @@ ms.locfileid: "52322442"
 [//]: # (|Win32|CC|产品| |.16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20294|版本-2102-3-09|)
 [//]: # (|Win32|CC|生产| |16.0.13801.20266|version-2102-march-01|)
-[//]: # (|Win32|CC|生产| |16.0.13628.20448|2101 版 2 月 16 日|)
 [//]: # (不修改管理中心元数据内容结束)

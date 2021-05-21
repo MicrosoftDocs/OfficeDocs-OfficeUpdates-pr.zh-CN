@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: cf5a7d18a98c712a31e5741e7d8532020ec330f1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52277999"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563338"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,49 @@ ms.locfileid: "52277999"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-may-14"></a>版本 2106：5 月 14 日
+*版本 2106（内部版本 14107.20000）*
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了在仅下载标题模式下运行时，导致用户看到可操作邮件不断刷新，或者在下载后还原到标题的问题。
+
+
+- 我们修复了一个问题，对于拥有永久许可证的用户，该问题导致 Outlook 中的人员选取器向上扩展，而不是向下扩展。
+
+
+- 我们修复了一个问题，该问题导致自定义域的用户在将链接粘贴到电子邮件时看到关于权限的警告消息。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了按组合键（如 Ctrl + shift + @）无法生成预期的重音符号（本例中为“å”）的问题。
+
+
+- 我们解决了与图像压缩相关的问题。
+
+
+- 我们修复了如果文件名包含 DBCS 字符，则无法将邮件附件复制到除 Word 以外的应用程序的问题。
+
+
+- 我们修复了一个问题，即 Word 有时会在文本周围显示不应存在的边框。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了一个问题，即 OneDrive 在确实没有合并冲突时显示合并错误消息。
+
+
+- 我们修复了在转换为形状时与 SVG 对象的 z 顺序相关的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2106-may-07"></a>版本 2106：5 月 7 日 
 *版本 2106（内部版本 14029.20000）*
@@ -2446,7 +2489,7 @@ ms.locfileid: "52277999"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -3007,6 +3050,7 @@ ms.locfileid: "52277999"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
@@ -3016,5 +3060,4 @@ ms.locfileid: "52277999"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (不修改管理中心元数据内容结束)

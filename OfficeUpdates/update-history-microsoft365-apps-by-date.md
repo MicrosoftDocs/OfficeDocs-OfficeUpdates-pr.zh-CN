@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: d0a956126459c81ebb4147fd052dcc1a62661eab
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 818e8a5f528dc4eeb71f39e8f03f5d580351daf8
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322302"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563388"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -33,7 +33,7 @@ ms.locfileid: "52322302"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2104<br/>|13929.20372<br/>|2021 年 5 月 11 日<br/>|版本 2105 已发布<br/>|
+|当前频道<br/>|2104<br/>|13929.20386<br/>|2021 年 5 月 18 日<br/>|版本 2105 已发布<br/>|
 |每月企业频道<br/>|2103<br/>|13901.20516<br/>|2021 年 5 月 11 日<br/>|2021 年 7 月 13 日<br/>|
 |每月企业频道<br/>|2102<br/>|13801.20638<br/>|2021 年 5 月 11 日<br/>|2021 年 6 月 8 日<br/>|
 |半年度企业频道（预览）<br/>|2102<br/>|13801.20638<br/>|2021 年 5 月 11 日<br/>|2021 年 9 月 14 日<br/>|
@@ -52,6 +52,7 @@ ms.locfileid: "52322302"
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021 年|5 月 18 日|[版本 2104（内部版本 13929.20386）](current-channel.md#version-2104-may-18)| | | |
 |2021 年|5 月 11 日|[版本 2104（内部版本 13929.20372）](current-channel.md#version-2104-may-11)|[版本 2103 (内部版本 13901.20516)](monthly-enterprise-channel.md#version-2103-may-11)<br/>[版本 2102 (内部版本 13801.20638)](monthly-enterprise-channel.md#version-2102-may-11)|[版本 2102 (内部版本 13801.20638)](semi-annual-enterprise-channel-preview.md#version-2102-may-11)|[版本 2008（内部版本 13127.21624）](semi-annual-enterprise-channel.md#version-2008-may-11)<br/>[版本 2002（内部版本 12527.21912）](semi-annual-enterprise-channel.md#version-2002-may-11)|
 |2021 年|4 月 29 日|[版本 2104（内部版本 13929.20296）](current-channel.md#version-2104-april-29)| | | |
 |2021 年|4 月 23 日|[版本 2103（内部版本 13901.20462）](current-channel.md#version-2103-april-23)| | | |

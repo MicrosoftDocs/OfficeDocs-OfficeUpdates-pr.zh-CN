@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
-ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
+ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755404"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563378"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,6 +29,25 @@ ms.locfileid: "51755404"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="may-2021-release"></a>2021 年 5 月发布
+
+**发布日期：** 2021 年 5 月 13 日
+
+*Microsoft 自动更新 4.35*
+
+**Bug 修复和增强功能：**
+- 解决了导致显示“更新已在进行中”提示的并发更新的潜在问题。
+- Skip 对话框显示两次的 Bug 修复。
+- 显示同一更新的多个通知的 Bug 修复。
+- Microsoft 自动更新安装程序/更新程序包的大小减小。
+- 命令行界面 (CLI) 现在使用本机 xpc 代替 Apple Events 与 Microsoft 更新助手通信。
+
+[下载 Microsoft 自动更新 4.35 程序包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.35.21050901_Updater.pkg)<br/>
+<br/>
+**SHA-256 哈希：**
+
+1F6CAB8CCAF52743EFEEA908D0F26E2AE1A1F171C877F7B8057D00CDA7727733
 
 ## <a name="april-2021-release"></a>2021 年 4 月版本
 
@@ -219,7 +238,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 - 恢复了四月发布的版本中引入的功能，其中，关闭了自动更新的用户每周只能看到一次 Microsoft AutoUpdate UI。
 - 修复了下载更新后安装前更新助手意外关闭的问题。
 - 解决了待定用户通知的最长持续时间后更新助手未关闭的问题。
-- 修复了 MAU UI 在安装后重新打开（或未打开）的问题。 如果从 MAU UI 本身启动更新，或者如果用户显式启动了更新（通过 Finder、终端等），则 UI 将在安装后打开。
+- 修复了安装后 MAU UI 重新打开（或没有重新打开）的问题。如果更新从 MAU UI 本身启动，或者如果更新由用户明确启动（通过查找器、终端等），则 UI 应该在安装后打开。
 
 **SHA-256 哈希：**
 
@@ -359,7 +378,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
  **功能更新：**
 
 - 现在可以在“Microsoft 自动更新”仪表板上查看每个主要更新中的新增功能。
-- 随着 Catalina 的发布，Office 2019 更新的最低操作系统要求已更改为 macOS 10.13。 我们将通知用户升级以获取最新的 Office 更新。
+- 发布 Catalina 后，Office 2019 更新的最低 OS 要求已更改为 macOS 10.13。用户将收到升级到最新 Office 更新的通知。
 
 **SHA-256 哈希：**
 
