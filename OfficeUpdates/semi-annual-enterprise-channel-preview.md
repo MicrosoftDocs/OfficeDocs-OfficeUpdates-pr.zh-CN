@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2021 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470776"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625927"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
@@ -38,7 +38,7 @@ ms.locfileid: "52470776"
 - 已修复使用加载项时导致某些语言的日期格式显示错误的问题。
 
 
-- 修复了阻止在受保护的工作表上粘贴为公式的能力的问题。
+- 修复了阻止系统能够在受保护的工作表上粘贴公式的问题。
 
 
 ### <a name="outlook"></a>Outlook
@@ -159,6 +159,9 @@ ms.locfileid: "52470776"
 - **将 iPhone 照片直接插入 Office：** 手机中的 HEIC 照片现在可以无缝插入 Office。 无需转换。<br />在[博客文章](https://insider.office.com/zh-CN/blog/insert-apple-photos-into-office-easily)中查看详细信息
 
 - **在 Excel 中制作精美的 Visio 图表：** 根据工作表中的数据创建数据驱动的图表，例如流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+- **AMSI 与适用于 XLM 宏的 Office 集成：** AMSI 是在 Windows 10 上提供的开放接口，应用程序可在运行时请求已安装的防病毒或安全解决方案对内存缓冲区进行同步扫描。 检测到恶意活动时，Excel 会通知用户，并关闭应用程序会话以避免进一步损失。 此操作可以就地阻止攻击，保护设备和用户。 请在 [博客文章](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/) 中查看详细信息。
 
 ### <a name="outlook"></a>Outlook
 

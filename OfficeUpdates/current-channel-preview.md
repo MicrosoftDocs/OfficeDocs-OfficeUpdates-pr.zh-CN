@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
-ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
+ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
+ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52574297"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636526"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,55 @@ ms.locfileid: "52574297"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-may-23"></a>版本 2105：5 月 23 日
+*版本 2105（内部版本 14026.20246）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **宣布推出出席数据仪表板视图：** 不再需要手动下载报表，现在，Teams 允许你在一键仪表板视图中查看所有聚合数据
+
+- **应用的安全、合规性和数据保护功能：** 对于 Microsoft 365 认证的 Teams 应用，管理员可在 Teams 管理中心中应用详细信息页面上的新选项卡中查看安全、合规性和数据保护功能。 这种透明度让 Microsoft 客户可以信任运营其组织的应用程序。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复了导致无法通过屏幕阅读器计数获得“缩短会议”功能的一些说明的问题。
+
+
+- 修复了在加载人员卡片时导致某些用户遇到意外关闭的问题。
+
+
+- 修复了阻止在受保护的工作表上粘贴公式功能的问题。
+
+    - Regkey：
+
+    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+
+    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
+
+    > （默认）- 当用户单击“会议室查找工具”按钮搜索可用会议室时，Outlook 使用新的会议室查找工具 OWA 支持的体验  </br>
+
+    > 1 - Outlook 使用旧版会议室查找工具 UI 搜索可用会议室 </br>
+
+
+### <a name="project"></a>Project
+
+- 解决了手动计划任务的分配可能移动到不正确日期的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-may-19"></a>版本 2105：5 月 19 日
 *版本 2105（内部版本 14026.20202）*

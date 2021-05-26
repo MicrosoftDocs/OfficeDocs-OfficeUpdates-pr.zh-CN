@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 067ef80e03b19a040c0af5463f18d6a4af5f8094
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563398"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625947"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -66,10 +66,6 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 [//]: # (请勿移除功能详细信息内容开头)
 
 ### <a name="feature-updates"></a>功能更新
-### <a name="apex-shared"></a>已共享 Apex
-
-- **为 Mac 上 Office 开始屏幕获取刷新外观：** 全新刷新外观使用了 Fluent 工具包，以和 Big Sur 中 Apple 的全新设计语言保持一致。<br />请在 [博客文章](https://insider.office.com/zh-CN/blog/visual-updates-to-start-experience-in-office-for-mac) 中查看详细信息
-
 ### <a name="excel"></a>Excel
 
 - **链接数据类型：真实方案的真实数据：** 新链接数据类型带来数百个主题的事实和数据，帮助你在 Excel 中完成目标。 [了解更多](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
@@ -97,6 +93,9 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 - **Teams 中的 M365 个人资料卡片：** 在 Teams 中选择某人的姓名或照片时，个人资料卡将打开并显示此人的相关信息，例如职务、联系信息和经理。个人资料卡有时也称为联系人卡片或人员卡片。
 
+### <a name="office-suite"></a>Office 套件
+
+- **为 Mac 上 Office 开始屏幕获取刷新外观：** 全新刷新外观使用了 Fluent 工具包，以和 Big Sur 中 Apple 的全新设计语言保持一致。<br />在[博客文章](https://insider.office.com/zh-CN/blog/visual-updates-to-start-experience-in-office-for-mac)中查看详细信息
 
 [//]: # (请勿移除功能详细信息内容结尾)
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563338"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625937"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,75 @@ ms.locfileid: "52563338"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-may-21"></a>版本 2106：5 月 21 日
+*版本 2106（内部版本 14117.20000）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **上次登录/可疑登录：** Outlook 现在会告诉你上次登录帐户的登录时间和位置，如果检测到任何可疑登录活动，将会发出警报
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了在 RealTimeData 函数引用时导致动态数组不更新单元格值的问题。
+
+
+- 修复了填充大量数据时影响 VLOOKUP 和 INDEX/MATCH 性能的问题。
+
+
+- 修复了使用冻结窗格时与两指滚动有关的问题。
+
+
+- 修复了在大型打印机上打印时与内存不足相关的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了只读模式下时阻止从演讲者备注窗格进行复制的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了用户选择放弃更改之后仍然显示“另存为”错误消息的问题。
+
+
+- 修复了阻止将图像发布在新式批注中的问题。
+
+
+- 修复了“审阅”窗格可以滚动或似乎可以滚动，但与所选批注不对齐的问题。
+
+
+- 修复了在单击新建批注外部时导致不清除文档中选定内容的问题。
+
+
+- 修复了选择批注时不突出显示批注的问题。
+
+
+- 修复了在应用编辑限制条件下运行宏时更新错误字段的问题。
+
+
+- 修复了某些 Word 文件因书签损坏无法打开的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了使用另一个帐户登录可能导致崩溃的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2106-may-14"></a>版本 2106：5 月 14 日
 *版本 2106（内部版本 14107.20000）*
@@ -3050,6 +3119,7 @@ ms.locfileid: "52563338"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
@@ -3059,5 +3129,4 @@ ms.locfileid: "52563338"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (不修改管理中心元数据内容结束)
