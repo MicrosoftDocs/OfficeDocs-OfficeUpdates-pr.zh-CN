@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
-ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
+ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
+ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636526"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52662818"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -57,17 +57,13 @@ ms.locfileid: "52636526"
 - 修复了在加载人员卡片时导致某些用户遇到意外关闭的问题。
 
 
-- 修复了阻止在受保护的工作表上粘贴公式功能的问题。
+- 我们添加了一个注册表项，该注册表项禁用了新的会议室查找工具体验（与 Outlook for Web 中相同的体验），并启用旧版会议室查找工具和"建议时间"。
+    - 注册表项：
 
-    - Regkey：
-
-    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-
-    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
-
-    > （默认）- 当用户单击“会议室查找工具”按钮搜索可用会议室时，Outlook 使用新的会议室查找工具 OWA 支持的体验  </br>
-
-    > 1 - Outlook 使用旧版会议室查找工具 UI 搜索可用会议室 </br>
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0（默认）- 用户单击"会议室查找工具"按钮搜索可用会议室时，Outlook 使用新的会议室查找工具 OWAed eXpenceence  </br>
+        > 1 - Outlook 使用旧版会议室查找工具 UI 搜索可用会议室 </br>
 
 
 ### <a name="project"></a>Project
@@ -3669,7 +3665,7 @@ ms.locfileid: "52636526"
 
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[博客文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看详细信息
 
 - **使用动态 GIF 讲述故事：** 现在，Office 编辑器支持动画 GIF，你的文档会更漂亮。
 
