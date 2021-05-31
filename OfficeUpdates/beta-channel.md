@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
+ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625937"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699128"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,72 @@ ms.locfileid: "52625937"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-may-28"></a>版本 2106：5 月 28 日 
+*版本 2106（内部版本 14122.20004）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **组织资源管理器：** 查看和导航组织结构图。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 修复了用户无法在“非商业”许可 Outlook 版本中的文件夹间移动项目这一问题。
+
+
+- 该注册表项禁用新的会议室查找器体验(与 Outlook 网页版中的体验相同)，并启用带有“建议时间”的旧版会议室查找器。
+
+  > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+  > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+  > 0(默认) - 当用户点击‘会议室查找器’按钮搜索可用会议室时，Outlook 会使用新的会议室查找器 OWA 支持的体验  </br>
+  > 1 - Outlook 使用旧版会议室查找工具 UI 搜索可用会议室</br>
+
+
+### <a name="project"></a>Project
+
+- 修复了手动计划任务中的分配移动到错误日期的问题。
+
+
+- 修复了资源池无响应且无法打开的问题。
+
+
+- 修复了创建自定义字段公式时，使用特定日期或时间参数的 ProjectDate */ProjectDur* 函数生成错误的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了将文档导出为 PDF 时未保存某些批注的问题。
+
+
+- 修复了应用“受限编辑”时，未受保护文档区域阻止编辑新批注的问题。
+
+
+- 修复了不需要滚动动画相关问题。
+
+
+- 修复了导致批注窗格意外关闭的问题。
+
+
+- 修复了导致编辑器窗格主题和系统主题不匹配的问题。
+
+
+- 修复了与处理大型文档相关的性能问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2106-may-21"></a>版本 2106：5 月 21 日
 *版本 2106（内部版本 14117.20000）*
@@ -3119,6 +3185,7 @@ ms.locfileid: "52625937"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
@@ -3128,5 +3195,4 @@ ms.locfileid: "52625937"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (不修改管理中心元数据内容结束)
