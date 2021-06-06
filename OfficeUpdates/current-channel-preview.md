@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
-ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
+ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
+ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52662818"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52742221"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,43 @@ ms.locfileid: "52662818"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-june-01"></a>版本 2105：6 月 1 日
+*版本 2105（内部版本 14026.20254）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **上次登录/可疑登录：** Outlook 现在会告诉你上次登录帐户的登录时间和位置，如果检测到任何可疑登录活动，将会发出警报
+
+- **共享日历更新速度更快：** 对于 Office 365 中的共享日历，Outlook 可以使用 REST API 更新这些日历。 打开预览，更快速、更可靠地更新共享日历。<br />请在 [博客文章](https://insider.office.com/zh-CN/blog/shared-calendars-improvements-in-outlook-for-windows) 中查看详细信息
+
+- **向大型通讯组列表和外部用户发送电子邮件时，辅助功能检查器会发出提醒：** 已添自动提醒的功能，即通过邮件提醒，可在编写邮件发送给诸如大量受众和外部用户时，在辅助功能冲突的情况下，自动收到提示。请于"轻松使用"找到该设置。<br />在[博客文章](https://insider.office.com/zh-CN/blog/sending-accessible-emails-in-outlook-for-windows)中查看详细信息
+
+### <a name="visio"></a>Visio
+
+- **AWS 模板和形状：** 现提供最新的 AWS 形状的模板，可帮助你创建图表。 [了解更多](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了与 Outlook 邮件或日历视图交互时，可能导致意外关闭的问题。
+
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-may-23"></a>版本 2105：5 月 23 日
 *版本 2105（内部版本 14026.20246）*
@@ -58,11 +95,11 @@ ms.locfileid: "52662818"
 
 
 - 我们添加了一个注册表项，该注册表项禁用了新的会议室查找工具体验（与 Outlook for Web 中相同的体验），并启用旧版会议室查找工具和"建议时间"。
-    - 注册表项：
+    - 注册表项:
 
         > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
         > REG_DWORD “ShowLegacyRoomFinder”</br></br>
-        > 0（默认）- 用户单击"会议室查找工具"按钮搜索可用会议室时，Outlook 使用新的会议室查找工具 OWAed eXpenceence  </br>
+        > 0(默认) - 当用户点击‘会议室查找器’按钮搜索可用会议室时，Outlook 会使用新的会议室查找器 OWA 支持的体验  </br>
         > 1 - Outlook 使用旧版会议室查找工具 UI 搜索可用会议室 </br>
 
 
