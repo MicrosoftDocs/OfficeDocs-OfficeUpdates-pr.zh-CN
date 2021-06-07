@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
-ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
+ms.openlocfilehash: df5abe158a0abaf1a962d1bd3bba97036175c9e4
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52742221"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790507"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,36 @@ ms.locfileid: "52742221"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2105-june-04"></a>版本 2105：6 月 04 日
+*版本 2105（内部版本 14026.20264）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **数据类型检测设置：** 使用 Excel 中的 Power Query 从非结构化源导入数据时配置数据类型检测行为
+
+### <a name="word"></a>Word
+
+- **写作样式：** 写作风格基于用户所选正式级别进行评论
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 解决了某些用户的 Excel 加载项列表中出现额外条目的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2105-june-01"></a>版本 2105：6 月 1 日
 *版本 2105（内部版本 14026.20254）*

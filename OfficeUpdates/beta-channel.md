@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
-ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
+ms.openlocfilehash: 88823cb9d26a86d5c726139c3b7f5ea0b5483b9d
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699128"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790497"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,49 @@ ms.locfileid: "52699128"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-june-04"></a>版本 2106：6 月 04 日
+*版本 2106（内部版本 14131.20008）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **数据类型检测设置：** 使用 Excel 中的 Power Query 从非结构化源导入数据时配置数据类型检测行为
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了使用栏上的"重试保存"按钮将文件添加到"最近使用列表"这一问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了特定字体旋转 90 度时字符间距增加的问题。
+
+
+- 修复了与多个用户共同进行共同身份验证时，有时丢失了批注答复的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了之前导致 CLP 功能未提示将文件保存到 SyncBacked 文件（文件由 OneDrive 同步）的问题。
+
+
+- 修复了用户无法编辑存储在 OnPrem 服务器中的文件这一问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2106-may-28"></a>版本 2106：5 月 28 日 
 *版本 2106（内部版本 14122.20004）*
@@ -2624,7 +2667,7 @@ ms.locfileid: "52699128"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -3185,6 +3228,7 @@ ms.locfileid: "52699128"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
@@ -3194,5 +3238,4 @@ ms.locfileid: "52699128"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (不修改管理中心元数据内容结束)
