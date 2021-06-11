@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供 Microsoft 365 应用版每月频道版本的发行说明
-ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
-ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
+ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52657965"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851872"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -29,6 +29,36 @@ ms.locfileid: "52657965"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2105-june-08"></a>版本 2105：6 月 8 日
+*版本 2105（内部版本 14026.20270）*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了了某些用户的 Excel 加载项列表中出现额外条目的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了与 Outlook 邮件或日历视图交互时，可能导致意外关闭的问题。
+
+
+- 我们修复了从存档存储中删除文件夹时导致用户意外关闭的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了打开不同步的文件时性能下降这一问题。
 
 
 
@@ -116,12 +146,13 @@ ms.locfileid: "52657965"
 
 
 - 添加了一个注册表项，该注册表项禁用新的会议室查找器体验(与 Outlook 网页版中的体验相同)，并启用带有“建议时间”的旧版会议室查找器。
-    - 注册表项:
 
-        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
-        > 0(默认) - 当用户点击‘会议室查找器’按钮搜索可用会议室时，Outlook 会使用新的会议室查找器 OWA 支持的体验  </br>
-        > 1 - Outlook 使用旧版会议室查找器 UI 搜索可用会议室 </br>
+    注册表项:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0(默认) - 当用户点击‘会议室查找器’按钮搜索可用会议室时，Outlook 会使用新的会议室查找器 OWA 支持的体验  </br>
+    >1 - Outlook 使用旧版会议室查找器 UI 搜索可用会议室 </br>
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -922,6 +953,7 @@ ms.locfileid: "52657965"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
@@ -931,5 +963,4 @@ ms.locfileid: "52657965"
 [//]: # (|Win32|CC|产品| |.16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|产品| |.16.0.13801.20360|version-2102-march-18|)
-[//]: # (|Win32|CC|生产| |16.0.13801.20294|版本-2102-3-09|)
 [//]: # (不修改管理中心元数据内容结束)
