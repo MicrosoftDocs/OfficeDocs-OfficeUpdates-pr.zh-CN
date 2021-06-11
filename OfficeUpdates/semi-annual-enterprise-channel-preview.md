@@ -9,17 +9,110 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 2021 年 Microsoft 365 应用版半年频道（定向）发行的发行说明
-ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625927"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52852002"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>有关半年企业频道（预览）的发行说明
 
 我们为 Microsoft 365 企业应用版、Microsoft 365 商业应用版以及 Project 和 Visio 桌面应用的订阅版本提供了半年企业频道（预览）更新。这些发行说明提供了有关这些更新中所含新功能和非安全更新的信息。
 
+
+## <a name="version-2102-june-08"></a>版本 2102：6 月 8 日
+*版本 2102（内部版本 13801.20738）*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们已修复了一个问题，删除了在帕累托图上出现的额外填充，减少了可用图表空间。
+
+
+- 解决了某些用户的 Excel 加载项列表中出现额外条目的问题。
+
+
+- 我们修复了导致某些用户的“状态栏”不显示“就绪”状态的问题。
+
+
+- 我们通过刷新 Power BI 数据类型时出现错误消息修复了一个问题，并且用户无法访问某些数据类型。
+
+
+- 我们修复了该问题，将属性“自动完成”下拉列表中可显示的属性数提高至 256 个。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了内部和外部 EWS 终结点不同，且调用内部终结点失败时导致用户获取连接错误这一问题。
+
+
+- 我们修复了在重新发送电子邮件时导致发件人地址显示为 LegacyExchangeDN 的问题。
+
+
+- 我们修复了最终用户和管理员无法启用云设置这一问题。
+
+
+- 修复了一个问题，过去导致 Zero ConfigExchange 无法在连接到外部网络的已建立混合 Azure AD 联接正常工作。
+
+
+- 我们修复了一个问题，该问题导致自定义域的用户在将链接粘贴到电子邮件时看到关于权限的警告消息。
+</br>
+
+- 我们添加了一个注册表项，该注册表项禁用了新的会议室查找工具体验（与 Outlook for Web 中相同的体验），并启用旧版会议室查找工具和"建议时间"。
+
+    注册表项:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0(默认) - 当用户点击‘会议室查找器’按钮搜索可用会议室时，Outlook 会使用新的会议室查找器 OWA 支持的体验  </br>
+    >1 - Outlook 使用旧版会议室查找器 UI 搜索可用会议室 </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修复了应用商店更新到 1.0.0.2 版本以支持集中部署的问题。 用户需要更新 PowerPoint 中的版本信息以访问应用商店。
+
+
+### <a name="project"></a>Microsoft Project
+
+- 修复了问题: 如果你创建使用 ProjectDate */ProjectDur* 函数的自定义字段公式，且第二个参数为 Date()、Now() or Time() 日期和时间函数，则会出现 #ERROR 结果。
+
+
+- 修复了资源池无响应且无法打开的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 我们修复了形状搜索中输入搜索关键字时缺少结果的问题。
+
+
+### <a name="word"></a>Word
+
+- 修复了插入联机图片时应用程序没有响应的问题。
+
+
+- 我们修复了粘贴并复制文本可能与粘贴的文本不同的问题。
+
+
+- 我们修复了一个问题，即删除了内容控件允许的字符串大小限制。
+
+
+- 我们修复了与编辑 OLE 对象有关的一个问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了打开占位符文件时的问题。 Office 未响应，无法打开同步备份的文件。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2102-may-11"></a>版本 2102：5 月 11 日
 *版本 2102（内部版本 13801.20638）*
@@ -660,6 +753,7 @@ ms.locfileid: "52625927"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|FRDC|预览体验计划| |16.0.13801.20738|版本2102 年-6 月-8 日|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13801.20638|版本 2102-5-11|)
 [//]: # (|Win32|FRDC|预览体验| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13801.20294|版本2102 年-march-09|)
@@ -669,5 +763,4 @@ ms.locfileid: "52625927"
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20760|2008 年 11 月 10 日版|)
 [//]: # (|Win32|FRDC|预览体验计划| |16.0.13127.20638|2008 年 10 月 13 日版|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|2002 年 8 月 11 日版|)
 [//]: # (不修改管理中心元数据内容结束)
