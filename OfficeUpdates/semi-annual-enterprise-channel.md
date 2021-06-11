@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供有关 Microsoft 365 应用版半年频道发行的发行说明
-ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: a2b8ae060b7be521bb60f86b809ca0be0bd10817
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322342"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851952"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>有关半年企业频道的发行说明
 
@@ -23,6 +23,59 @@ ms.locfileid: "52322342"
 > [!NOTE]
 >
 >- 如果半年企业频道上的用户从 Office 门户下载并在 Windows 10 上安装 Microsoft 365 应用版，现在默认情况下会包括 OneNote 2016。
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2008-june-08"></a>版本 2008：6 月 08 日
+*版本 2008（内部版本 13127.21668）*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 解决了某些用户的 Excel 加载项列表中出现额外条目的问题。
+
+
+- 我们修复了导致某些用户的状态栏不显示“就绪”状态的问题。
+
+
+### <a name="word"></a>Word
+
+- 修正了一个问题，即在粘贴带有自定义样式的文本时，编号和缩紧会丢失。
+
+
+- 修复了一个问题，即删除了内容控件允许的字符串大小限制。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 在更改前，即使开启了禁用 Office 模板的 GPO，也会显示这些模板。 通过此更改，模板现可正确执行 GPO 并按要求进行显示/隐藏。
+
+
+- 修正了一个罕见问题，即从 SharePoint Online 打开文件可能因为许可和数字版权管理出现超时而出现不必要的延迟。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2002-june-08"></a>版本 2002：6 月 08 日
+*版本 2002（内部版本 12527.21952）*
+
+[此处](microsoft365-apps-security-updates.md)列出安全更新
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们解决了某些用户的 Excel 加载项列表中出现额外条目的问题。
+
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
@@ -980,6 +1033,7 @@ ms.locfileid: "52322342"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-january-08|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|产品| |.16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
@@ -989,5 +1043,4 @@ ms.locfileid: "52322342"
 [//]: # (|Win32|DC|生产| |16.0.12527.21330|2002 年 11 月 10 日版|)
 [//]: # (|Win32|DC|生产| |16.0.12527.21236|2002 年 10 月 13 日版|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20988|版本-2002年8月11日|)
 [//]: # (不修改管理中心元数据内容结束)

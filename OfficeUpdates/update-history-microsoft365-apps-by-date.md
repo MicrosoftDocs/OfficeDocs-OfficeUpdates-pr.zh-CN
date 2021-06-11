@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人员提供完整的 Microsoft 365 应用版发行列表，按日期组织，含发行说明链接
-ms.openlocfilehash: 7b1cb91213cacf83f31a2ec890f9a63b44281d40
-ms.sourcegitcommit: 89ea204c9830b05f6a1681dee76502cfc8fa7db2
+ms.openlocfilehash: 53fef3574a41127e64c5d1c32fdf689d8353eae9
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52645179"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851932"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 应用版的更新历史记录（按日期列出）
 
@@ -33,12 +33,12 @@ ms.locfileid: "52645179"
 
 |**频道**|**版本**|**内部版本**|**发布日期**|**支持版本截至**|
 |:-----|:-----|:-----|:-----|:-----|
-|当前频道<br/>|2105<br/>|14026.20246<br/>|2021 年 5 月 24 日<br/>|版本 2106 已发布<br/>|
-|每月企业频道<br/>|2103<br/>|13901.20516<br/>|2021 年 5 月 11 日<br/>|2021 年 7 月 13 日<br/>|
-|每月企业频道<br/>|2102<br/>|13801.20638<br/>|2021 年 5 月 11 日<br/>|2021 年 6 月 8 日<br/>|
-|半年度企业频道（预览）<br/>|2102<br/>|13801.20638<br/>|2021 年 5 月 11 日<br/>|2021 年 9 月 14 日<br/>|
-|半年企业频道<br/>|2008<br/>|13127.21624<br/>|2021 年 5 月 11 日<br/>|2022年3月8日<br/>|
-|半年企业频道<br/>|2002<br/>|12527.21912<br/>|2021 年 5 月 11 日<br/>|2021 年 9 月 14 日<br/>|
+|当前频道<br/>|2105<br/>|14026.20270<br/>|2021 年 6 月 8 日<br/>|版本 2106 已发布<br/>|
+|每月企业频道<br/>|2104<br/>|13929.20408<br/>|2021 年 6 月 8 日<br/>|2021 年 8 月 10 日<br/>|
+|每月企业频道<br/>|2103<br/>|13901.20554<br/>|2021 年 6 月 8 日<br/>|2021 年 7 月 13 日<br/>|
+|半年度企业频道（预览）<br/>|2102<br/>|13801.20738<br/>|2021 年 6 月 8 日<br/>|2021 年 9 月 14 日<br/>|
+|半年企业频道<br/>|2008<br/>|13127.21668<br/>|2021 年 6 月 8 日<br/>|2022年3月8日<br/>|
+|半年企业频道<br/>|2002<br/>|12527.21952<br/>|2021 年 6 月 8 日<br/>|2021 年 9 月 14 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -52,6 +52,7 @@ ms.locfileid: "52645179"
 
 |**Year**|**发布日期**|**当前频道**|**每月企业频道**|**半年企业频道（预览）**|**半年企业频道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021 年|6 月 08 日|[版本 2105（内部版本 14026.20270）](current-channel.md#version-2105-june-08)|[版本 2104（内部版本 13929.20408）](monthly-enterprise-channel.md#version-2104-june-08)<br/>[版本 2103（内部版本 13901.20554）](monthly-enterprise-channel.md#version-2103-june-08)|[版本 2102（内部版本 13801.20738）](semi-annual-enterprise-channel-preview.md#version-2102-june-08)|[版本 2008（内部版本 13127.21668）](semi-annual-enterprise-channel.md#version-2008-june-08)<br/>[版本 2002（内部版本 12527.21952）](semi-annual-enterprise-channel.md#version-2002-june-08)|
 |2021 年|5 月 24 日|[版本 2105（内部版本 14026.20246）](current-channel.md#version-2105-may-24)| | | |
 |2021 年|5 月 18 日|[版本 2104（内部版本 13929.20386）](current-channel.md#version-2104-may-18)| | | |
 |2021 年|5 月 11 日|[版本 2104（内部版本 13929.20372）](current-channel.md#version-2104-may-11)|[版本 2103 (内部版本 13901.20516)](monthly-enterprise-channel.md#version-2103-may-11)<br/>[版本 2102 (内部版本 13801.20638)](monthly-enterprise-channel.md#version-2102-may-11)|[版本 2102 (内部版本 13801.20638)](semi-annual-enterprise-channel-preview.md#version-2102-may-11)|[版本 2008（内部版本 13127.21624）](semi-annual-enterprise-channel.md#version-2008-may-11)<br/>[版本 2002（内部版本 12527.21912）](semi-annual-enterprise-channel.md#version-2002-may-11)|

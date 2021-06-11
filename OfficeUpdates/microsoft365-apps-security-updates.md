@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 明为IT专业人员提供Microsoft Office安全更新的发布说明
-ms.openlocfilehash: 609a90e81dd90867858b7902c4f0363a2abca514
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330499"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851832"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office安全更新发布说明
 
@@ -24,6 +24,42 @@ ms.locfileid: "52330499"
  
 
 [//]: # (请勿删除上面的线条，用于调节间距)  
+
+## <a name="june-08-2021"></a>2021 年 6 月 08 日
+当前频道：版本 2105（内部版本 14026.20270）  
+每月企业频道：版本 2104（内部版本 13929.20408）  
+每月企业频道：版本 2103（内部版本 13901.20554）  
+半年度企业频道（预览版）：版本 2102（内部版本 13801.20738）  
+半年度企业频道：版本 2008（内部版本 13127.21668）  
+半年企业频道：版本 2002（内部版本 12527.21952）  
+Windows 7 版 Microsoft 365 应用：版本 2002（内部版本 12527.21952）  
+Office 2019 零售版：版本 2105（内部版本 14026.20270）  
+Office 2016 零售版：版本 2105（内部版本 14026.20270）  
+Office 2019 批量许可：版本 1808（内部版本10375.20036）  
+
+[//]: # (请勿删除安全详细信息内容启动)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2021-28455](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-28455)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31939](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-31939)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2021-31949](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-31949)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (请勿删除安全详细信息内容结尾)
+
+
 
 ## <a name="may-11-2021"></a>2021 年 5 月 11 日
 当前频道：版本 2104（内部版本 13929.20372）  

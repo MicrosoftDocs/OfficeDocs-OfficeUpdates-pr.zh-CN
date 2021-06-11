@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在一个位置集中查找和管理 SharePoint Server 2016、SharePoint 2013 和 SharePoint 2010 更新。单击此页面上的链接可以获取这些更新的详细信息，并下载它们。
-ms.openlocfilehash: bdc40f8690529b2f70ac1f934c006d4458132b21
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 309ae6ea429fdf6dfa2d958de82d67018ba50f25
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322312"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851962"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -36,6 +36,7 @@ ms.locfileid: "52322312"
 
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/语言修补程序  <br/>|[KB 5001944](https://support.microsoft.com/help/5001944)<br/>[KB 5001945](https://support.microsoft.com/help/5001945)<br/>|16.0.10375.20000|2021 年 6 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/语言修补程序  <br/>|[KB 5001916](https://support.microsoft.com/help/5001916)<br/>[KB 5001915](https://support.microsoft.com/help/5001915)<br/>|16.0.10374.20000|2021 年 5 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/语言修补程序  <br/>|[KB 4504716](https://support.microsoft.com/help/4504716)<br/>[KB 4504715](https://support.microsoft.com/help/4504715)<br/>|16.0.10373.20000|2021 年 4 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/语言修补程序  <br/>|[KB 4493230](https://support.microsoft.com/help/4493230)<br/>[KB 4493231](https://support.microsoft.com/help/4493231)<br/>|16.0.10372.20060|2021 年 3 月|
@@ -74,6 +75,7 @@ ms.locfileid: "52322312"
 
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 5001946](https://support.microsoft.com/help/5001946) <br/>[KB 5001922](https://support.microsoft.com/help/5001922) <br/>|16.0.5173.1000 <br/>|2021 年 6 月|
 |SharePoint Server 2016  <br/>|[KB 5001917](https://support.microsoft.com/help/5001917) <br/>|16.0.5161.1000 <br/>|2021 年 5 月|
 |SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4504719](https://support.microsoft.com/help/4504719) <br/>[KB 4504723](https://support.microsoft.com/help/4504723) <br/>|16.0.5149.1000 <br/>|2021 年 4 月|
 |SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/语言修补程序  <br/> |[KB 4493232](https://support.microsoft.com/help/4493232) <br/>[KB 4493199](https://support.microsoft.com/help/4493199) <br/>|16.0.5134.1001 <br/>|2021 年 3 月|
@@ -151,6 +153,7 @@ ms.locfileid: "52322312"
     
 |**包名称**|**KB 编号**|**版本**|**发布日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001957](https://support.microsoft.com/help/5001957) <br/>[KB 5001961](https://support.microsoft.com/help/5001961) <br/>|15.0.5353.1000|2021 年 6 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001929](https://support.microsoft.com/help/5001929) <br/>[KB 5001933](https://support.microsoft.com/help/5001933) <br/>|15.0.5345.1000|2021 年 5 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4504730](https://support.microsoft.com/help/4504730) <br/>[KB 4504732](https://support.microsoft.com/help/4504732) <br/>|15.0.5337.1000|2021 年 4 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4493235](https://support.microsoft.com/help/4493235) <br/>[KB 4493237](https://support.microsoft.com/help/4493237) <br/>|15.0.5327.1001|2021 年 3 月|

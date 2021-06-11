@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 为 IT 专业人士提供 Office 部署工具 (ODT) 的发布历史记录
-ms.openlocfilehash: 16814bd8ef3b67f3ff4bab2f60627fbb65a37e03
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 163c358c39c4f1953a153ebc52bf909dedd49955
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322462"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851642"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的发布历史记录
 
@@ -28,6 +28,11 @@ Office 部署工具 (ODT) 是命令行工具，可用于下载即点即用版本
  **安装说明**：下载文件后，运行自解压缩可执行文件，其中包含 Office 部署工具可执行文件 (setup.exe) 和示例配置文件 (configuration.xml)。 
 
 [下载 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="june-7-2021"></a>2021 年 6 月 7 日
+版本 16.0.14026.20254 (setup.exe 版本 16.0.14026.20252)
+- ARM 平台的可靠性修补程序
+
 
 ## <a name="may-10-2021"></a>2021 年 5 月 10 日
 版本 16.0.13929.20296（setup.exe 版本 16.0.13929.20238）
