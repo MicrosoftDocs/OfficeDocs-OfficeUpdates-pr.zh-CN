@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 712501114acb6e1a14ae8f0c55727ac3e504afe1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: b9c89336aef23ef64fc06b902dcfce937c3701af
+ms.sourcegitcommit: 3f3d978780a2212769cdd6a27eba1bf8f75a2b31
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851842"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52916672"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,32 @@ ms.locfileid: "52851842"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-june-14"></a>版本 2106：6 月 14 日
+*版本 2106（内部版本 14131.20162）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **使用语音搜索：** 点击或单击搜索栏中的麦克风，以在 Word 中使用语音查找命令、内容等。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 解决了某些用户的 Excel 加载项列表中出现额外条目的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2106-june-07"></a>版本 2106：6 月 7 日
 *版本 2106（内部版本 14131.20012）*
@@ -243,7 +269,7 @@ ms.locfileid: "52851842"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
 
-- 我们修复了某些用户的 Excel 加载项列表中出现额外条目这一问题。
+- 我们解决了某些用户的 Excel 加载项列表中出现额外条目的问题。
 
 
 
@@ -1971,7 +1997,7 @@ ms.locfileid: "52851842"
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="outlook"></a>Outlook
 
-- 我们解决了导致某些会议的原定与会者在其他与会者转发会议时收到取消通知的问题。
+- 我们修复了导致某些会议的原定与会者在其他与会者转发会议时收到取消通知的问题。
 
 
 - 我们已修复虽以配置一个或多个签名，但仍导致有的用户在签名下拉菜单中看不到签名的问题。
@@ -2022,7 +2048,7 @@ ms.locfileid: "52851842"
 - 我们修复了导致 MailItem.BeforeAttachmentAdd 事件被破坏的问题。
 
 
-- 我们添加了一个 regkey，允许客户在 IDataObject 操作中禁用附件的 filetime 包含（例如，拖放、剪贴板）。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes 被排除。 1 =（默认）包含 filetimes
+- 我们添加了一个 regkey，允许客户在 IDataObject 操作（例如，拖放、剪贴板）中禁用附件的 filetime 包含。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes 被排除。 1 =（默认）包含 filetimes
 
 
 - 我们已修复回复来自 Azure 信息保护带有保护标签的邮件时，导致嵌入式图像消失的问题。
