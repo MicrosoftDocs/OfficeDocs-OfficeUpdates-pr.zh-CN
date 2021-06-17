@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供有关 Microsoft AutoUpdate (MAU) 的发布历史记录
-ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563378"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949832"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的发布历史记录
  
@@ -29,6 +29,22 @@ ms.locfileid: "52563378"
 > - Microsoft AutoUpdate 提供 Microsoft 中对各种 Mac 产品的更新。因此，如果你没有运行 Office for Mac，则会收到一条更新 Microsoft AutoUpdate 的通知。
 
 要查看发行说明，请参阅[发行说明。](release-notes-office-for-mac.md)<br/><br/>
+## <a name="june-2021-release"></a>2021 年 6 月发布
+
+**发布日期：** 2021 年 6 月 15 日
+
+*Microsoft 自动更新 4.36*
+
+**Bug 修复和增强功能：**
+- Docktile 进度指示器 - MAU 当前在扩展坞的显示图标上显示进度指示。
+- 更新操作性完成 - MAU 将尝试在设备关闭/重新启动期间应用延迟更新。
+
+[下载 Microsoft 自动更新 4.36 程序包](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.36.21061301_Updater.pkg)<br/>
+<br/>
+**SHA-256 哈希：**
+
+0680414EA9553FEF6198B8414CFABABB6ED5B22A571138B98F6F3E4190630DB3
+
 
 ## <a name="may-2021-release"></a>2021 年 5 月发布
 
