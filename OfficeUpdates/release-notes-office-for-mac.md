@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 为 IT 专业人士提供针对 Microsoft 365 应用版订阅者的 Office for Mac 发行的发行说明
-ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625947"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949842"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac 发行说明
 
@@ -59,6 +59,53 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 
 
+
+
+
+## <a name="june-15-2021"></a>2021 年 6 月 15 日
+*版本 16.50（内部版本 21061301）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。 利用 Microsoft 信息保护，使用敏感度标签加密的文档现在可以自动保存并与其他人实时共同创作，就像未加密的文档一样。 需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。
+
+### <a name="outlook"></a>Outlook
+
+- **查看其他用户的工作时间！：** 现在可以在全新 Outlook for Mac 中查看与会者的工作时间！
+
+- **全新 Mac Outlook 现已提供固定功能：** 全新 Mac Outlook 中现已提供固定功能<br />在[博客文章](https://insider.office.com/zh-CN/blog/pin-messages-to-top-of-your-inbox-in-outlook-for-mac)中查看详细信息
+
+- **WkWebview 对上下文加载项的支持：** 新的 WkWebview 阅读窗格现在支持上下文加载项
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。 利用 Microsoft 信息保护，使用敏感度标签加密的文档现在可以自动保存并与其他人实时共同创作，就像未加密的文档一样。 需要租户选择加入（详细信息：https://aka.ms/mipcoauth)。
+
+- **视频库：** 通过应用内所提供的免版税精选视频素材库来提升文档。
+
+### <a name="word"></a>Word
+
+- **对敏感加密文档自动保存和共同** ：不要为了安全而降低工作效率。 利用 Microsoft 信息保护，使用敏感度标签加密的文档现在可以自动保存并与其他人实时共同创作，就像未加密的文档一样。 需要租户选择加入（详细信息： https://aka.ms/mipcoauth)。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+
+[//]: # (请勿移除安全详细信息内容开头)
+
+
+### <a name="security-updates"></a>安全更新
+
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (请勿删除安全详细信息内容结尾)
 
 ## <a name="may-11-2021"></a>2021 年 5 月 11 日
 *版本 16.49（内部版本 21050901）*
@@ -209,7 +256,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="outlook"></a>Outlook
 
-- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解详细信息](/microsoft-365/compliance/sensitivity-labels)
+- **政府客户：对文档和电子邮件应用敏感度标签：** 敏感度标签功能现已适用于 GCC 和 GCC-H 环境中的客户。 [了解更多](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -253,19 +300,19 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解详细信息](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解更多](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="outlook"></a>Outlook
 
-- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解详细信息](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解更多](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解详细信息](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解更多](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="word"></a>Word
 
-- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解详细信息](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **自动应用或推荐敏感度标签：** Office 可以根据检测到的敏感内容来推荐或自动应用敏感度标签。 [了解更多](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -368,7 +415,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 - **在 Excel 中制作精美的 Visio 图表：** 在工作表中使用数据创建数据驱动的图表，例如流程图或组织结构图。 [了解更多](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- **使工作簿更加生动有趣：** 通过高质量的免费库存图像、图标和贴纸，为电子表格提供更多的风格。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **使工作簿更加生动有趣：** 通过高质量的免费库存图像、图标和贴纸，为电子表格提供更多的风格。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 ### <a name="outlook"></a>Outlook
 
@@ -384,7 +431,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="word"></a>Word
 
-- **使文档更加生动有趣：** 通过高质量的免费库存图像、图标和贴纸，为文档提供更多的风格。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解详细信息](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- **使文档更加生动有趣：** 通过高质量的免费库存图像、图标和贴纸，为文档提供更多的风格。 转到“插入”>“图片”>“库存图像”以开始使用。 [了解更多](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 
 [//]: # (请勿移除功能详细信息内容结尾)
@@ -590,7 +637,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="word"></a>Word
 
-- **无需键入，解放双手：** 有麦克风？ 单击“听写”，即可看到 Word 随着你说话而键入文字。 [了解详细信息](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />在[博客文章](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)中查看详细信息
+- **无需键入，解放双手：** 有麦克风？ 单击“听写”，即可看到 Word 随着你说话而键入文字。 [了解更多](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />在[博客文章](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)中查看详细信息
 
 
 - **查找要找的内容：** 使用搜索框查找文本、命令和帮助等等。 [了解详细信息](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[博客文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看详细信息
@@ -709,7 +756,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解详细信息](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 瞬间完成：** 一幻灯片、一帧。 轻松在 PowerPoint 中创建循环 GIF。 [了解更多](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 ### <a name="word"></a>Word
 
@@ -1122,7 +1169,7 @@ Microsoft AutoUpdate (MAU) 提供更新。若要使用 Microsoft AutoUpdate，�
 |**应用程序**|**功能更新**|**安全更新**|**更新程序包的下载链接**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **从 iPhone 快速切换到 Word：** 使用 Apple 连续互通相机将 iPhone 中的照片插入你的文档中。需要 macOS Mojave。[了解详细信息](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **向文档应用敏感度标签：** 向文档应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0561)：Microsoft Word 信息泄漏漏洞  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-0585)：Microsoft Word 远程代码执行漏洞 |[Word 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
-|Excel  <br/>| **通过注释进行协作：** 使用内置回复框在电子表格中保持正常对话。[了解详细信息](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **向工作表应用敏感度标签：** 向工作表应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG支持：** 在工作簿中插入和编辑 SVG 以增加视觉效果。 [了解更多](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**直方图、瀑布图、树图、旭日图、漏斗图和地图的更多格式选项：** 通过使用“格式”窗格，你可以更好地控制新图表类型的格式选项。|[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **通过注释进行协作：** 使用内置回复框在电子表格中保持正常对话。[了解详细信息](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **向工作表应用敏感度标签：** 向工作表应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG 支持：** 在工作簿中插入和编辑 SVG 以增加视觉效果。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**直方图、瀑布图、树图、旭日图、漏斗图和地图的更多格式选项：** 通过使用“格式”窗格，你可以更好地控制新图表类型的格式选项。|[Excel 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |Powerpoint  <br/>| **在讲义中打印幻灯片编号：** 将演示文稿打印为讲义时，每张幻灯片都会显示相应的幻灯片编号。 <br/><br/> **向演示文稿应用敏感度标签：** 向演示文稿表应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**嵌入部分字体：** 仅嵌入演示文稿中使用的字符。[了解详细信息](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **向邮件应用敏感度标签：** 向邮件应用敏感度标签，使其符合组织的信息保护策略。[了解详细信息](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能够插入应用了滤镜的 SVG：** Office 用户现在能够插入应用了滤镜的 SVG。[了解详细信息](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**在当前邮箱中快速查找邮件：** 选中“搜索”框，获取基于最近搜索历史记录的快速建议。 无需键入。 [了解详细信息](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**添加 Gmail 帐户变得更加简单：** 安全性改进意味着，不再需要允许访问“安全性较低的应用”或者设置应用密码，以将你的 Gmail 帐户添加到 Outlook。<br/><br/>**Outlook for Mac 现在突出显示搜索词：** 是否曾经尝试搜索一些内容，并希望 Outlook 在项目列表或预览窗格中突出显示你的搜索词？此功能现已可用！||[Outlook 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft 自动更新 4.7 <br/>| AutoUpdate 守护程序已作为安装流程的一部分启用。这就消除了先前向用户显示的令人混淆的安全对话框。 <br/><br/> Microsoft AutoUpdate 安全功能经过增强，以支持 SHA256 证书。 <br/>|<br/> | [Microsoft AutoUpdate 更新包](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
