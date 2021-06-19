@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 6ca376f15c7915675ac0bbc1eeb44f4479402ebe
-ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
+ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
+ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52899907"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53025108"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,41 @@ ms.locfileid: "52899907"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2107-june-18"></a>版本 2107：6 月 18 日
+*版本 2107（内部版本 14210.20004）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **上次登录/可疑登录：** Outlook 现在会告诉你上次登录帐户的登录时间和位置，如果检测到任何可疑登录活动，将会发出警报
+
+- **心无旁骛地阅读邮件：** 通过打开沉浸式阅读器，更轻松地专注于具有自定义文本间距、页面颜色、列宽和线条焦点的邮件。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修复了可能导致使用 Access 数据库引擎 OLEDB API 的应用程序与包含 SharePoint 列表链接的数据库意外关闭的问题。
+
+- 修复了可能导致使用 Access 数据库引擎 ODBC API 的应用程序意外关闭的问题。
+
+### <a name="word"></a>Word
+
+- 修复了协作期间批注变为只读的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2107-june-11"></a>版本 2107：6 月 11 日
 *版本 2107（内部版本 14204.20006）*
@@ -3261,6 +3296,7 @@ ms.locfileid: "52899907"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
@@ -3270,5 +3306,4 @@ ms.locfileid: "52899907"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (不修改管理中心元数据内容结束)

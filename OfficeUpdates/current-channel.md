@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供 Microsoft 365 应用版每月频道版本的发行说明
-ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851872"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022115"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -29,6 +29,34 @@ ms.locfileid: "52851872"
 
 
 [//]: # (请勿移除错误详细信息内容开头)
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2105-june-18"></a>版本 2105：6 月 18 日
+*版本 2105（内部版本 14026.20308）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致用户在关闭回复或转发消息时遇到意外的属性更改提示的问题。
+
+
+- 此更改使用户能够通过我们的新反馈系统提交反馈。
+
+
+- 修复了一个问题，过去导致 Zero ConfigExchange 无法在连接到外部网络的已建立混合 Azure AD 联接正常工作。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了用户无法编辑存储在 OnPrem Sharepoint 服务器中的某些文档的问题。
+
+
+- 修复了重新打开某些文件时意外关闭的问题。
 
 
 
@@ -953,6 +981,7 @@ ms.locfileid: "52851872"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
@@ -962,5 +991,4 @@ ms.locfileid: "52851872"
 [//]: # (|Win32|CC|产品| |.16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20312|version-2103-march-30|)
-[//]: # (|Win32|CC|产品| |.16.0.13801.20360|version-2102-march-18|)
 [//]: # (不修改管理中心元数据内容结束)
