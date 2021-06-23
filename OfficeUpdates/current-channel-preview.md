@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: b9c89336aef23ef64fc06b902dcfce937c3701af
-ms.sourcegitcommit: 3f3d978780a2212769cdd6a27eba1bf8f75a2b31
+ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
+ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52916672"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53068048"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,23 @@ ms.locfileid: "52916672"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-june-21"></a>版本 2106：6 月 21 日
+*版本 2106 (内部版本 14131.20194)*
+* 各种 bug 和性能修补程序。
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **心无旁骛地阅读邮件：** 通过打开沉浸式阅读器，更轻松地专注于具有自定义文本间距、页面颜色、列宽和线条焦点的邮件。
+
+- **上次登录/可疑登录：** Outlook 现在会告诉你上次登录帐户的登录时间和位置，如果检测到任何可疑登录活动，将会发出警报
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
 
 ## <a name="version-2106-june-14"></a>版本 2106：6 月 14 日
 *版本 2106（内部版本 14131.20162）*
