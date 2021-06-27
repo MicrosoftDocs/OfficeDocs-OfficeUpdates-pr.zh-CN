@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
-ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
+ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
+ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53068048"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "53150177"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,38 @@ ms.locfileid: "53068048"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-june-25"></a>版本 2106：6 月 25 日
+*版本 2106（内部版本 14131.20250）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致对某些用户禁用翻译选项的问题。  遇到过此 bug 的客户在导航到“文件”->“选项”->“语言”时，将会看到其翻译选项已禁用。 正因如此，客户将无法更改其首选翻译语言和其他翻译相关设置。
+
+
+- 我们修复了导致拥有很多共享日历的“共享的日历改进项”选项用户遇到一些性能问题的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了由于 PowerPoint 特定对话框受到阻碍、用户无法在“Windows 安全”对话框中输入凭据以打开文件的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 拥有来宾访问权限的 SPO/ODB 链接现在将适用。
+
+
+### <a name="word"></a>Word
+
+- 修复了在受密码保护的 docx 文件上持续引用的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2106-june-21"></a>版本 2106：6 月 21 日
 *版本 2106 (内部版本 14131.20194)*
