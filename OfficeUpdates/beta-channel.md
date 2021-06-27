@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
-ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
+ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
+ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53025108"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53132832"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,62 @@ ms.locfileid: "53025108"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2107-june-25"></a>版本 2107：6 月 25 日
+*版本 2107（内部版本 14217.20002）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了以下问题，即如果千位和小数分隔符都使用相同的符号，则无法更改图表轴值。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了与禁用更改形状的 SmartArt 节点相关的问题。
+
+
+### <a name="project"></a>Project
+
+- 我们修复了以下问题，即如果资源名称具有特殊字符（如分号），则在 Project Web App 中创建的预订可能无法在 Project 桌面客户端中正确加载。
+
+
+- 我们修复了以下问题，即当禁用项目选项“Project 应计算成本”时，时间分段成本值可能没有正确地为成本类型资源建立基线。
+
+
+- 我们修复了具有查找表的项目级企业自定义字段在 Project 桌面客户端中未显示值的问题。
+
+
+- 我们修复了将本地项目保存到 Project Web App 可能会更改以前保存的基线的问题。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了启用自动保存可能导致最近编辑暂时消失的问题。
+
+
+- 我们修复了在批注窗格中滚动的问题。
+
+
+- 我们修复了当 Office 主题设置为黑色时，页眉/页脚文本在打印预览中不清晰可见的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了在 Outlook 中使用从右到左的语言撰写邮件时，会破坏包含数字的超链接的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2107-june-18"></a>版本 2107：6 月 18 日
 *版本 2107（内部版本 14210.20004）*
@@ -2735,7 +2791,7 @@ ms.locfileid: "53025108"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解详细信息](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **电子邮件中的改进链接：** 包含文件的链接时，文件名会替换 URL。 可更改权限，以便所有收件人都可以访问。 [了解更多](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (请勿移除功能详细信息内容结尾)
 
@@ -3296,6 +3352,7 @@ ms.locfileid: "53025108"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
@@ -3305,5 +3362,4 @@ ms.locfileid: "53025108"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (不修改管理中心元数据内容结束)
