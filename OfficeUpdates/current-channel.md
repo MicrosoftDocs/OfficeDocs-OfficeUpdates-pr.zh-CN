@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供 Microsoft 365 应用版每月频道版本的发行说明
-ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022115"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206304"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -30,6 +30,66 @@ ms.locfileid: "53022115"
 
 [//]: # (请勿移除错误详细信息内容开头)
 
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2106-june-29"></a>版本 2106: 6 月 29 日
+*版本 2106 (内部版本 14131.20278)*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **上次登录/可疑登录：** Outlook 现在会告诉你上次登录帐户的登录时间和位置，如果检测到任何可疑登录活动，将会发出警报
+
+- **向大型通讯组列表和外部用户发送电子邮件时，辅助功能检查器会发出提醒：** 已添自动提醒的功能，即通过邮件提醒，可在编写邮件发送给诸如大量受众和外部用户时，在辅助功能冲突的情况下，自动收到提示。请于"轻松使用"找到该设置。<br />在[博客文章](https://insider.office.com/zh-CN/blog/sending-accessible-emails-in-outlook-for-windows)中查看详细信息
+
+- **在搜索时获取相关文件建议:** 在搜索框中键入内容时，与搜索相关的最相关文件将包含在建议中。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 解决了某些用户的 Excel 加载项列表中出现额外条目的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致 ARM64 设备性能问题的问题。
+
+
+- 我们修复了导致对某些用户禁用翻译选项的问题。  遇到过此 bug 的客户在导航到“文件”->“选项”->“语言”时，将会看到其翻译选项已禁用。 正因如此，客户将无法更改其首选翻译语言和其他翻译相关设置。
+
+
+- 我们修复了导致拥有很多共享日历的“共享的日历改进项”选项用户遇到一些性能问题的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了由于 PowerPoint 特定对话框受到阻碍、用户无法在“Windows 安全”对话框中输入凭据以打开文件的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 拥有来宾访问权限的 SPO/ODB 链接现在将适用。
+
+
+### <a name="word"></a>Word
+
+- 修复了在受密码保护的 docx 文件上持续引用的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修复了用户在 Office 应用程序中从 Me 控件在 Active Directory 标识中切换时的用户切换数据方案。
 
 
 [//]: # (请勿移除错误详细信息内容结尾)
@@ -981,6 +1041,7 @@ ms.locfileid: "53022115"
 > 如果在使用 Office 时遇到问题且需要帮助，建议在 [Microsoft 问答论坛](https://answers.microsoft.com/)或[技术社区](https://techcommunity.microsoft.com/)上发布问题，也可以联系[支持部门](https://support.microsoft.com/contactus)。
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
@@ -990,5 +1051,4 @@ ms.locfileid: "53022115"
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|产品| |.16.0.13901.20336|version-2103-april-02|)
-[//]: # (|Win32|CC|产品| |.16.0.13901.20312|version-2103-march-30|)
 [//]: # (不修改管理中心元数据内容结束)
