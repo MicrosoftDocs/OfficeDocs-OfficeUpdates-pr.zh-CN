@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
-ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
+ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
+ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/26/2021
-ms.locfileid: "53150177"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204697"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,20 @@ ms.locfileid: "53150177"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2106-june-29"></a>版本 2106：6 月 29 日
+*版本 2106（内部版本 14131.20278）*
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致 ARM64 设备性能问题的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2106-june-25"></a>版本 2106：6 月 25 日
 *版本 2106（内部版本 14131.20250）*
