@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
-ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
+ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
+ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53132832"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278745"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,87 @@ ms.locfileid: "53132832"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2107-july-02"></a>版本 2107: 7 月 2 日
+*版本 2107（内部版本 14228.20044）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **支持“另存为”方案的其他文件类型:** 除了保存文件，还可以将文件保存到其他文件类型。
+
+### <a name="outlook"></a>Outlook
+
+- **REST 转发会议请求:** 允许用户为 REST 共享日历转发以前遭到拒绝的会议。
+
+- **大声朗读效果更好:** “大声朗读”工具条具有新的、听起来自然的语音选项
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **支持“另存为”方案的其他文件类型:** 除了保存文件，还可以将文件保存到其他文件类型。
+
+### <a name="word"></a>Word
+
+- **使用语音搜索：** 点击或单击搜索栏中的麦克风，以在 Word 中使用语音查找命令、内容等。
+
+- **为“大声朗读”提供更多自然的声音选项：** 在“大声朗读”工具栏中尝试一种新的、听起来更自然的声音。 [了解更多](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+
+- **支持“另存为”方案的其他文件类型:** 除了保存文件，还可以将文件保存到其他文件类型。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 修复了 CFR 执行中发生异常的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致对某些用户禁用翻译选项的问题。  遇到过此 bug 的客户在导航到“文件”->“选项”->“语言”时，将会看到其翻译选项已禁用。 正因如此，客户将无法更改其首选翻译语言和其他翻译相关设置。
+
+
+- 我们修复了与“加载失败”响应状态相关的问题。 默认响应标志设置为“无”。 当我们将鼠标悬停在没有编辑权限的日历上时，“用户界面”上未显示任何字符串。
+
+
+- 我们修复了默认文本增加包括文本缩放的问题，因此无需再调用 LayoutChanged。
+
+
+- 修复了未显示一次性地址的邮件提示的问题。
+
+
+- 我们添加了一个注册表项，以允许在 Outlook 桌面版的“用户界面”中显示语音邮件表单，因为 Exchange Online 中的统一消息已停用 (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991)。 对于希望出现 Voicemail 表单的用户、企业和组织，需要设置以下注册表键: [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+### <a name="word"></a>Word
+
+- 我们修复了一个问题，该问题改进了与 Word 和 JAWS（一种常用屏幕阅读软件）中的新批注窗格的集成。
+
+
+- 我们修复了与使用不同于 lTagNil 的 CommentId 进行清除选择和突出显示相关的问题。
+
+
+- 我们修复了卸载队列无响应的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了本地化问题，en-gb、fr-ca 和 es-mx 现在将与其各自的父版本匹配。
+
+
+- 我们修复了一个问题，即不再能够在 OMEX 和 ExCatalog 之间共享设置，例如对 webextension.xml 的 web 插件设置更新，因为已创建新的 webextension 文件。 仅当在原始方法中部署加载项时，或已关闭新解决方案的参考比较时，才能访问上一个加载项。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2107-june-25"></a>版本 2107：6 月 25 日
 *版本 2107（内部版本 14217.20002）*
@@ -3352,6 +3433,7 @@ ms.locfileid: "53132832"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
@@ -3361,5 +3443,4 @@ ms.locfileid: "53132832"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (不修改管理中心元数据内容结束)
