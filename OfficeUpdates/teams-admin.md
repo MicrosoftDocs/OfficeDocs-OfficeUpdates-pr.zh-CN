@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: 有关管理功能的Microsoft Teams发行说明。
-ms.openlocfilehash: a47bdbb3a9ae39c670cbbb1230248054c1be573e
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: d1b2561633fc52bac88e3f41c814cefa01cc9a50
+ms.sourcegitcommit: ad3cdcae422e3253cff8974fc053024ca5bf4f2a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790529"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53330915"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>有关管理功能的Microsoft Teams发行说明
 
@@ -48,7 +48,7 @@ IT 管理员可以在 Android 设备上远程预配和Teams登录。 若要远�
 
 ### <a name="enable-live-transcripts-in-teams"></a>在脚本中启用Teams
 
-这是每用户策略，在会议期间适用。 此设置控制"启用实时字幕"选项是否可供用户打开和关闭用户参加的会议中实时字幕。 [了解详细信息](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions)。
+这是每用户策略，在会议期间适用。 此设置使用户可以在用户参加的会议期间打开或关闭实时字幕。 [了解详细信息](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions)。
 
 ## <a name="march-23-2021"></a>2021 年 3 月 23 日
 
@@ -139,11 +139,11 @@ Microsoft Teams管理员必须启用 Google Workspace 会议加载项Teams租户
 
 ## <a name="december-9-2020"></a>2020 年 12 月 9 日
 
-### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>Advisor for Teams Microsoft 365 Learning 路径
+### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>Advisor for Teams with Microsoft 365 Learning 路径
 
 Microsoft 365学习路径是一种按需学习解决方案，可对其进行自定义，以培训用户，提高组织中用户对Teams的使用和采用率。 将学习路径与 Advisor for Teams一起使用户快速启动并运行，并推动采用。
 
-学习路径可让你SharePoint在线网站模板，并能够轻松地为用户构建学习网站。 你可以自定义学习路径培训门户，以包含特定于用户需求的培训和支持内容。 使用Teams Microsoft 联机目录中的播放列表并添加你自己的播放列表。 [了解详细信息](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways)。
+Learning路径提供了一SharePoint在线网站模板，并能够轻松地为用户构建学习网站。 你可以自定义学习路径培训门户，以包含特定于用户需求的培训和支持内容。 使用Teams Microsoft 联机目录中的播放列表并添加你自己的播放列表。 [了解详细信息](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways)。
 
 ## <a name="october-28-2020"></a>2020 年 10 月 28 日
 
@@ -163,7 +163,7 @@ Microsoft Teams提供许多对医疗保健组织和其他医疗保健组织有�
 
 ### <a name="teams-displays"></a>Teams 显示
 
-Microsoft Teams屏幕是一类一体式专用Teams设备，它们具有环境触摸屏和 Cortana 支持的免费体验。 [了解详细信息](/microsoftteams/devices/teams-displays)。
+Microsoft Teams屏幕是一类一体式专用Teams设备，具有环境触摸屏和由屏幕支持Cortana。 [了解详细信息](/microsoftteams/devices/teams-displays)。
 
 ## <a name="october-22-2020"></a>2020 年 10 月 22 日
 
@@ -291,9 +291,9 @@ Microsoft Teams 推出了一种保存会议记录的新方法。 在从经典 Mi
 
 ## <a name="august-14-2020"></a>2020 年 8 月 14 日
 
-### <a name="cortana-voice-skills-in-teams"></a>Cortana 在语音Teams
+### <a name="cortana-voice-skills-in-teams"></a>Cortana语音技能Teams
 
-Cortana 在Teams中的语音技能可帮助用户直接使用自然语言执行会议、通信和协作任务。 用户可以通过在 Teams 应用中单击麦克风按钮来与 Cortana 对话，如果他们需要在做家务、遛狗或者忙个不停时与他人联系，可以通过该应用来发出“打电话给 Megan”或“给我的下一个会议发消息”等请求。 用户只需说“加入我的下一个会议”即可加入会议，或者通过询问“今天早上有哪些工作”来查看日历。 在会议或呼叫中，他们可以在会议阶段从溢出菜单中调用 Cortana，并执行典型的会议中任务，例如按姓名或电话号码添加人员（“将 Megan 添加到呼叫”）、幻灯片组演示（“显示季度回顾幻灯片组”）或浏览幻灯片（“转到附录幻灯片”）。 此功能支持的其他操作包括查找和共享文件、搜索和导航在 Teams 应用 ("打开与 John 的聊天，转到我未读的活动，转到我的提及内容) 。
+Cortana移动应用中Teams语音技能，可帮助用户直接使用自然语言执行会议、通信和协作任务。 用户可以通过在 Teams 应用中单击麦克风按钮来与 Cortana 对话，如果他们需要在做家务、遛狗或者忙个不停时与他人联系，可以通过该应用来发出“打电话给 Megan”或“给我的下一个会议发消息”等请求。 用户只需说“加入我的下一个会议”即可加入会议，或者通过询问“今天早上有哪些工作”来查看日历。 在会议或呼叫中，他们可以在会议阶段从溢出菜单中调用 Cortana，并执行典型的会议中任务，例如按姓名或电话号码添加人员（“将 Megan 添加到呼叫”）、幻灯片组演示（“显示季度回顾幻灯片组”）或浏览幻灯片（“转到附录幻灯片”）。 此功能支持的其他操作包括查找和共享文件、搜索和导航在 Teams 应用 ("打开与 John 的聊天，转到我未读的活动，转到我的提及内容) 。
 
 Teams 中的 Cortana 满足[在线服务条款 (OST)](https://www.microsoft.com/licensing/product-licensing/products?rtc=1)中反映的对 Cortana 企业服务的企业级隐私、安全性和合规性承诺。 [了解详细信息](/microsoftteams/cortana-in-teams)。
 

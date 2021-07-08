@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
-ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
+ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
+ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204697"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "53309185"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -29,7 +29,157 @@ ms.locfileid: "53204697"
 
 [//]: # (请勿移除功能详细信息内容开头)
 
-## <a name="version-2106-june-29"></a>版本 2106：6 月 29 日
+## <a name="version-2107-july-06"></a>版本 2107: 7 月 6 日
+*版本 2107（内部版本 14228.20044）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **支持“另存为”方案的其他文件类型:** 除了保存文件，还可以将文件保存到其他文件类型。
+
+- **政府客户：将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **支持“另存为”方案的其他文件类型:** 除了保存文件，还可以将文件保存到其他文件类型。
+
+- **政府客户：将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+### <a name="word"></a>Word
+
+- **支持“另存为”方案的其他文件类型:** 除了保存文件，还可以将文件保存到其他文件类型。
+
+- **政府客户：将有关敏感度标签的​​审核数据发送给 M365 管理员：** 用户在文档和电子邮件上应用、更改或删除敏感度标签时，Office 会将审核数据发送到 M365 审核后端，供管理员查看。 这是一项静默功能（无 UI ），可让管理员受益。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="access"></a>Access
+
+- 修复了可能导致使用 Access 数据库引擎 ODBC API 的应用程序意外关闭的问题。
+
+
+- 修复了可能导致使用 Access 数据库引擎 OLEDB API 的应用程序与包含 SharePoint 列表链接的数据库意外关闭的问题。
+
+
+### <a name="excel"></a>Excel
+
+- 修复了 CFR 执行中发生异常的问题。
+
+
+- 我们修复了以下问题，即如果千位和小数分隔符都使用相同的符号，则无法更改图表轴值。
+
+
+- 我们修复了了某些用户的 Excel 加载项列表中出现额外条目的问题。
+
+
+- 修复了保存到 SPO 文档库时，已保存的工作簿显示在最近列表顶部的问题。
+
+
+- 修复了启用旧加载项时将打开空白重复窗口的问题。
+
+
+### <a name="onenote"></a>OneNote
+
+- 修复了复制一个段落的链接无法总是重定向到正确页面的问题。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我们修复了导致对某些用户禁用翻译选项的问题。  遇到过此 bug 的客户在导航到“文件”->“选项”->“语言”时，将会看到其翻译选项已禁用。 正因如此，客户将无法更改其首选翻译语言和其他翻译相关设置。
+
+
+- 我们修复了与“加载失败”响应状态相关的问题。 默认响应标志设置为“无”。 当我们将鼠标悬停在没有编辑权限的日历上时，“用户界面”上未显示任何字符串。
+
+
+- 我们修复了默认文本增加包括文本缩放的问题，因此无需再调用 LayoutChanged。
+
+
+- 修复了未显示一次性地址的邮件提示的问题。
+
+
+- 我们添加了一个注册表项，以允许在 Outlook 桌面版的“用户界面”中显示语音邮件表单，因为 Exchange Online 中的统一消息已停用 (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991)。 对于希望出现 Voicemail 表单的用户、企业和组织，需要设置以下注册表键: [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+- 我们修复了导致具有大量组的用户在启动 Outlook 时遇到无响应的问题。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我们修复了与禁用更改形状的 SmartArt 节点相关的问题。
+
+
+### <a name="project"></a>Project
+
+- 我们修复了以下问题，即如果资源名称具有特殊字符（如分号），则在 Project Web App 中创建的预订可能无法在 Project 桌面客户端中正确加载。
+
+
+- 我们修复了以下问题，即当禁用项目选项“Project 应计算成本”时，时间分段成本值可能没有正确地为成本类型资源建立基线。
+
+
+- 我们修复了具有查找表的项目级企业自定义字段在 Project 桌面客户端中未显示值的问题。
+
+
+- 我们修复了将本地项目保存到 Project Web App 可能会更改以前保存的基线的问题。
+
+
+### <a name="visio"></a>Visio
+
+- 此超链接导航问题现已在最新版本中得到修复。 用户可以继续无缝访问超链接，以导航到位于其 OneDrive for Business 中的所需链接文件，使用 <CTRL> + 单击带有超链接的形状。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了启用自动保存可能导致最近编辑暂时消失的问题。
+
+
+- 我们修复了一个问题，该问题改进了与 Word 和 JAWS（一种常用屏幕阅读软件）中的新批注窗格的集成。
+
+
+- 我们修复了与使用不同于 lTagNil 的 CommentId 进行清除选择和突出显示相关的问题。
+
+
+- 修复了协作期间批注变为只读的问题。
+
+
+- 我们修复了在批注窗格中滚动的问题。
+
+
+- 我们修复了卸载队列无响应的问题。
+
+
+- 我们修复了当 Office 主题设置为黑色时，页眉/页脚文本在打印预览中不清晰可见的问题。
+
+
+- 修复了使用 Microsoft Word 稿纸加载项时出现正方形的问题。
+
+
+- 修复了打印预览中的某些页面空白的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+
+- 我们修复了在 Outlook 中使用从右到左的语言撰写邮件时，会破坏包含数字的超链接的问题。
+
+
+- 我们修复了本地化问题，en-gb、fr-ca 和 es-mx 现在将与其各自的父版本匹配。
+
+
+- 我们修复了一个问题，即不再能够在 OMEX 和 ExCatalog 之间共享设置，例如对 webextension.xml 的 web 插件设置更新，因为已创建新的 webextension 文件。 仅当在原始方法中部署加载项时，或已关闭新解决方案的参考比较时，才能访问上一个加载项。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
+
+## <a name="version-2106-june-29"></a>版本 2106: 6 月 29 日
 *版本 2106（内部版本 14131.20278）*
 
 [//]: # (请勿移除错误详细信息内容开头)

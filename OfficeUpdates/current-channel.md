@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为 IT 专业人士提供 Microsoft 365 应用版每月频道版本的发行说明
-ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
+ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206304"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53323559"
 ---
 # <a name="release-notes-for-current-channel"></a>有关当前频道的发行说明
 
@@ -63,8 +63,9 @@ ms.locfileid: "53206304"
 
 ### <a name="outlook"></a>Outlook
 
-- 我们修复了导致 ARM64 设备性能问题的问题。
+- 我们修复了以下问题，即在查看邮箱文件夹的属性而不是应用于该文件夹的邮箱保留策略时，Skype for Business 或 Microsoft Teams 的保留策略显示为默认文件夹策略。
 
+- 我们修复了导致 ARM64 设备性能问题的问题。
 
 - 我们修复了导致对某些用户禁用翻译选项的问题。  遇到过此 bug 的客户在导航到“文件”->“选项”->“语言”时，将会看到其翻译选项已禁用。 正因如此，客户将无法更改其首选翻译语言和其他翻译相关设置。
 
