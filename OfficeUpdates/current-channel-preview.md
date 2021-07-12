@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 慢”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
-ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
+ms.openlocfilehash: 98f6e608b3337cde7e20143f1612814b0398e396
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "53309185"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347955"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的发布笔记当前频道（预览）
 
@@ -28,6 +28,32 @@ ms.locfileid: "53309185"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2107-july-08"></a>版本 2107：7 月 8 日
+*版本 2107（内部版本 14228.20070）*
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **REST 转发会议请求:** 允许用户为 REST 共享日历转发以前遭到拒绝的会议。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="word"></a>Word
+
+- 修复了 Word 画布旁边批注卡大小不正确的问题。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2107-july-06"></a>版本 2107: 7 月 6 日
 *版本 2107（内部版本 14228.20044）*
@@ -275,6 +301,8 @@ ms.locfileid: "53309185"
 
 ### <a name="resolved-issues"></a>已解决的问题
 ### <a name="excel"></a>Excel
+
+- 我们已从 Range.valueTypes 中删除了 “RichValue”。 链接的数据类型现在将返回“错误”以匹配 “#VALUE!” 的值 由 Range.values 返回。
 
 - 修复了阻止名称管理器打开包含大量隐藏名称的书籍的问题。
 

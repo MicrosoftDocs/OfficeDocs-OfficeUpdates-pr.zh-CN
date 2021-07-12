@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
-ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
+ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278745"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347965"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -296,6 +296,8 @@ ms.locfileid: "53278745"
 [//]: # (请勿移除错误详细信息内容开头)
 
 ### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+- 我们已从 Range.valueTypes 中删除了 “RichValue”。 链接的数据类型现在将返回“错误”以匹配 “#VALUE!” 的值 由 Range.values 返回。
 ### <a name="outlook"></a>Outlook
 
 - 修复了用户无法在“非商业”许可 Outlook 版本中的文件夹间移动项目这一问题。
