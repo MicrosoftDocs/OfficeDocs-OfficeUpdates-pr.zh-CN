@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 为“预览体验成员 - 快”受众提供新功能、修复程序或已知问题的最新列表
-ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
-ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
+ms.openlocfilehash: 06051d34b4c3537f0b6f957cdb4d681297390cc5
+ms.sourcegitcommit: 387e4010f06f33bc9b100ed4fa2ced2598d3b167
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53347965"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53364079"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 频道发布说明
 
@@ -30,6 +30,52 @@ ms.locfileid: "53347965"
 [//]: # (请勿移除)
 
 [//]: # (请勿移除功能详细信息内容开头)
+
+## <a name="version-2108-july-09"></a>版本 2108：7 月 9 日
+*版本 2108（内部版本 14301.20004）*
+
+
+[//]: # (请勿移除功能详细信息内容开头)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **关闭建议的答复：** Outlook[ 可提供只需几个字便可以答复的建议答复，让你更快更轻松地答复](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook)电子邮件。 某些用户可能不希望看到此选项，因此现在可以关闭该功能。 为此，请选择“文件>选项>邮件”，转到“答复和转发”部分，然后取消选中“显示建议的答复”复选框。
+
+
+[//]: # (请勿移除功能详细信息内容结尾)
+
+<br/>
+
+[//]: # (请勿移除错误详细信息内容开头)
+
+### <a name="resolved-issues"></a>已解决的问题
+### <a name="excel"></a>Excel
+
+- 我们修复了以下问题：当源 .xlsx 文件已在后台运行，并且这两个文件都从 ODB 本地同步文件夹打开时，PowerPoint 链接文件变为不可用。
+
+
+- 我们修复了以下问题：打开 CSV 文件时，将识别本地化函数名称。
+
+
+### <a name="word"></a>Word
+
+- 我们修复了 Word Mobile 中打印大小过小的问题。
+
+
+- 我们修复了以下问题：添加到 SharePoint 文档库的文件将在打开后立即继承设置“ShowDocument 信息面板”，如果文件已从 SharePoint 中删除，该设置将保持不变。
+
+
+- 修复了 URL 分析器错误地解释未以“/”结尾的文件夹名称的问题。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我们修复了以下问题：在搜索框中添加 DropShadow 属性会导致 TitleBar 太高，从而导致布局 bug。
+
+
+
+[//]: # (请勿移除错误详细信息内容结尾)
 
 ## <a name="version-2107-july-02"></a>版本 2107: 7 月 2 日
 *版本 2107（内部版本 14228.20044）*
@@ -3435,6 +3481,7 @@ ms.locfileid: "53347965"
 
 
 [//]: # (不修改管理中心元数据内容启动)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
@@ -3444,5 +3491,4 @@ ms.locfileid: "53347965"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (不修改管理中心元数据内容结束)
